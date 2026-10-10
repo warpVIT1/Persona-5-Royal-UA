@@ -1,0 +1,4877 @@
+{
+ "file": "EN/INIT/DATMSG.PAK/datItemHelp.bmd",
+ "entries": [
+  {
+   "id": "item_000#0",
+   "speaker": null,
+   "en": "BLANK",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_001#0",
+   "speaker": null,
+   "en": "Restores 20 HP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_002#0",
+   "speaker": null,
+   "en": "Fast-acting formula.[n]Restores 50 HP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_003#0",
+   "speaker": null,
+   "en": "Fast-acting formula.[n]Restores 100 HP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_004#0",
+   "speaker": null,
+   "en": "A new drug developed by[n]TMC. Restores 200 HP to[n]one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_005#0",
+   "speaker": null,
+   "en": "Restores 30% HP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_006#0",
+   "speaker": null,
+   "en": "Fully restores HP[n]of one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_007#0",
+   "speaker": null,
+   "en": "A new drug developed by[n]TMC. Restores 50 HP to[n]all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_008#0",
+   "speaker": null,
+   "en": "A new drug developed by[n]TMC. Restores 100 HP to[n]all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_009#0",
+   "speaker": null,
+   "en": "A new drug developed by[n]TMC. Restores 200 HP to[n]all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_00A#0",
+   "speaker": null,
+   "en": "Fully restores HP[n]of all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_00B#0",
+   "speaker": null,
+   "en": "Restores 10 SP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_00C#0",
+   "speaker": null,
+   "en": "Restores 50 SP[n]to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_00D#0",
+   "speaker": null,
+   "en": "Restores 100 SP[n]to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_00E#0",
+   "speaker": null,
+   "en": "Fully restores SP[n]of one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_00F#0",
+   "speaker": null,
+   "en": "Revives one fallen[n]ally to 50% HP.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_010#0",
+   "speaker": null,
+   "en": "Revives one fallen[n]ally to full HP.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_011#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_012#0",
+   "speaker": null,
+   "en": "Medical ointment.[n]Cures Burn/Freeze/[n]Shock for one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_013#0",
+   "speaker": null,
+   "en": "Topical balm. Cures Rage/[n]Despair/Brainwash/Fear/[n]Confuse for one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_014#0",
+   "speaker": null,
+   "en": "Over-the-counter capsule.[n]Cures Dizzy/Forget/Sleep/[n]Hunger for one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_015#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_016#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_017#0",
+   "speaker": null,
+   "en": "Guarantees escape[n]from battle. Not all[n]battles apply.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_018#0",
+   "speaker": null,
+   "en": "Fully restores HP[n]and SP of all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_019#0",
+   "speaker": null,
+   "en": "Cures all non-special[n]ailments for all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_01A#0",
+   "speaker": null,
+   "en": "Cures all non-special[n]ailments for one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_01B#0",
+   "speaker": null,
+   "en": "Restores 30% HP to[n]one ally. Raises Attack[n]and lowers Defense.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_01C#0",
+   "speaker": null,
+   "en": "Restores 30% HP to one[n]ally. Raises Attack and[n]lowers Accuracy/Evasion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_01D#0",
+   "speaker": null,
+   "en": "Restores 30% HP to one ally.[n]Raises Accuracy/Evasion and[n]lowers Attack.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_01E#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_01F#0",
+   "speaker": null,
+   "en": "Barrier that reflects magical[n]attacks except Almighty[n]for one ally one time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_020#0",
+   "speaker": null,
+   "en": "Barrier that reflects[n]physical attacks for[n]one ally one time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_021#0",
+   "speaker": null,
+   "en": "Raises Attack for all[n]allies for three turns.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_022#0",
+   "speaker": null,
+   "en": "Raises Accuracy/[n]Evasion for all allies[n]for three turns.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_023#0",
+   "speaker": null,
+   "en": "Raises Defense for all[n]allies for three turns.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_024#0",
+   "speaker": null,
+   "en": "A new antiseptic made[n]by TMC. Removes stat[n]buffs for all foes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_025#0",
+   "speaker": null,
+   "en": "A new antiseptic made[n]by TMC. Removes stat[n]debuffs for all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_026#0",
+   "speaker": null,
+   "en": "Deals 50 Fire dmg to[n]one foe. High chance[n]of inflicting Burn.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_027#0",
+   "speaker": null,
+   "en": "Deals 50 Fire dmg to[n]all foes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_028#0",
+   "speaker": null,
+   "en": "Deals 50 Ice dmg to[n]one foe. High chance[n]of inflicting Freeze.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_029#0",
+   "speaker": null,
+   "en": "Deals 50 Ice dmg to[n]all foes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_02A#0",
+   "speaker": null,
+   "en": "Deals 50 Wind dmg to[n]one foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_02B#0",
+   "speaker": null,
+   "en": "Deals 50 Wind dmg to[n]all foes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_02C#0",
+   "speaker": null,
+   "en": "Deals 50 Elec dmg to[n]one foe. High chance[n]of inflicting Shock.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_02D#0",
+   "speaker": null,
+   "en": "Deals 50 Elec dmg to[n]all foes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_02E#0",
+   "speaker": null,
+   "en": "Deals 100 Almighty[n]dmg to all foes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_02F#0",
+   "speaker": null,
+   "en": "Medium chance of[n]Bless insta-kill[n]to one foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_030#0",
+   "speaker": null,
+   "en": "Medium chance of[n]Curse insta-kill[n]to one foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_031#0",
+   "speaker": null,
+   "en": "Deals 150 Fire dmg to[n]one foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_032#0",
+   "speaker": null,
+   "en": "Deals 150 Wind dmg to[n]one foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_033#0",
+   "speaker": null,
+   "en": "Deals 150 Ice dmg to[n]one foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_034#0",
+   "speaker": null,
+   "en": "Deals 150 Elec dmg to[n]one foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_035#0",
+   "speaker": null,
+   "en": "Deals 50 Psy dmg to[n]one foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_036#0",
+   "speaker": null,
+   "en": "Deals 50 Psy dmg to[n]all foes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_037#0",
+   "speaker": null,
+   "en": "Deals 50 Nuke dmg to[n]one foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_038#0",
+   "speaker": null,
+   "en": "Deals 50 Nuke dmg to[n]all foes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_039#0",
+   "speaker": null,
+   "en": "Deals 50 Bless dmg to[n]one foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_03A#0",
+   "speaker": null,
+   "en": "Deals 50 Bless dmg to[n]all foes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_03B#0",
+   "speaker": null,
+   "en": "Deals 50 Curse dmg to[n]one foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_03C#0",
+   "speaker": null,
+   "en": "Deals 50 Curse dmg to[n]all foes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_03D#0",
+   "speaker": null,
+   "en": "Revives one fallen[n]ally to 50% HP.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_03E#0",
+   "speaker": null,
+   "en": "Restores 50 HP[n]to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_03F#0",
+   "speaker": null,
+   "en": "New drug by TMC.[n]Revives one fallen[n]ally to full HP.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_040#0",
+   "speaker": null,
+   "en": "Protects from insta-[n]kill attacks one time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_041#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_042#0",
+   "speaker": null,
+   "en": "New drug developed by[n]TMC. Revives all fallen[n]allies to 50% HP.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_043#0",
+   "speaker": null,
+   "en": "New drug developed by[n]TMC. Revives all fallen[n]allies to full HP.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_044#0",
+   "speaker": null,
+   "en": "A spring-exclusive body[n]oil. Cures all non-special[n]ailments for one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_045#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_046#0",
+   "speaker": null,
+   "en": "A pre-owned DVD player.[n]Very old, but still functional.[n]Missing the remote.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_047#0",
+   "speaker": null,
+   "en": "A cheap plant nutrient.[n]For those who want basic[n]care for their plants.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_048#0",
+   "speaker": null,
+   "en": "A pricey plant nutrient.[n]For those who want good[n]care for their plants.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_049#0",
+   "speaker": null,
+   "en": "A premium plant nutrient.[n]For those who want serious[n]care for their plants.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_04A#0",
+   "speaker": null,
+   "en": "Deals 150 Psy dmg to[n]one foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_04B#0",
+   "speaker": null,
+   "en": "Deals 150 Nuke dmg to[n]one foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_04C#0",
+   "speaker": null,
+   "en": "Deals 150 Bless dmg to[n]one foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_04D#0",
+   "speaker": null,
+   "en": "Deals 150 Curse dmg to[n]one foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_04E#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_04F#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_050#0",
+   "speaker": null,
+   "en": "A tool set for[n]fixing computers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_051#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_052#0",
+   "speaker": null,
+   "en": "A palm-sized, colorful vase[n]made of glass. For the flower[n]lover in your life.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_053#0",
+   "speaker": null,
+   "en": "A star-shaped hand mirror[n]that's supposed to be lucky.[n]For a spiritual someone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_054#0",
+   "speaker": null,
+   "en": "A box of stick-like snacks that[n]come in a variety of flavors.[n]For the young at heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_055#0",
+   "speaker": null,
+   "en": "A guide that lets you feel[n]the atmosphere of the[n]antique book town.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_056#0",
+   "speaker": null,
+   "en": "A book that teaches the[n]tricks of buying household[n]electronics for cheap.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_057#0",
+   "speaker": null,
+   "en": "A ring inset with a heart-[n]shaped jewel. Made to[n]captivate a woman's heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_058#0",
+   "speaker": null,
+   "en": "A necklace adorned with a[n]heart-shaped jewel. Made to[n]captivate a woman's heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_059#0",
+   "speaker": null,
+   "en": "A famous brand of perfume[n]with a gentle scent. For a[n]sensual person in your life.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_05A#0",
+   "speaker": null,
+   "en": "A deluxe aromatherapy[n]set to relax the mind and[n]body after intense focus.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_05B#0",
+   "speaker": null,
+   "en": "A small cactus that looks[n]nice in an office setting.[n]For the desk jockey.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_05C#0",
+   "speaker": null,
+   "en": "A basket full of flowers from[n]every season. For the flower[n]lover in your life.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_05D#0",
+   "speaker": null,
+   "en": "A rose-scented fragrance for[n]a luxurious bathtime. For the[n]special lady in your life.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_05E#0",
+   "speaker": null,
+   "en": "A chic, black mug. For the[n]one who's married to their[n]desk.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_05F#0",
+   "speaker": null,
+   "en": "A small fan with a bright[n]sakura pattern. For a[n]traditional lady.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_060#0",
+   "speaker": null,
+   "en": "An elegant fountain pen,[n]rereleased due to demand.[n]For the discerning eye.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_061#0",
+   "speaker": null,
+   "en": "The latest robot vacuum that[n]cleans automatically. For the[n]busy businessperson.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_062#0",
+   "speaker": null,
+   "en": "A 1/12 scale figurine made[n]with attention to detail. For[n]the bike lover in your life.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_063#0",
+   "speaker": null,
+   "en": "A set of plushies of a popular[n]character. For the one who[n]likes rare finds.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_064#0",
+   "speaker": null,
+   "en": "Raises chances of being[n]targeted by foes for[n]one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_065#0",
+   "speaker": null,
+   "en": "A tool that allows you to[n]return to the Metaverse[n]entrance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_066#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_067#0",
+   "speaker": null,
+   "en": "Elude enemy pursuit by[n]becoming temporarily[n]undetectable.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_068#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_069#0",
+   "speaker": null,
+   "en": "A mist that puts nearby[n]enemies to sleep.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_06A#0",
+   "speaker": null,
+   "en": "A tonic that calms an[n]enemy's nerves, lowering[n]a Palace's Security Level.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_06B#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_06C#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_06D#0",
+   "speaker": null,
+   "en": "A bundle of silk yarn.[n]Perfect for crafting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_06E#0",
+   "speaker": null,
+   "en": "Animal skin used for[n]transcription. Also used[n]for crafting tools.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_06F#0",
+   "speaker": null,
+   "en": "A fastener made from tin.[n]Has value as a handmade[n]component.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_070#0",
+   "speaker": null,
+   "en": "Natural oil harvested from[n]plants. Can be used as fuel[n]for machine tools.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_071#0",
+   "speaker": null,
+   "en": "Elastic bark. Can be used[n]as a component when[n]making tools.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_072#0",
+   "speaker": null,
+   "en": "Iron sand containing traces[n]of magnetic properties. Can[n]be used to make steel.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_073#0",
+   "speaker": null,
+   "en": "A lens that gathers light.[n]Perfect for tools that[n]utilize light.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_074#0",
+   "speaker": null,
+   "en": "A thin sheet of aluminum.[n]Easy to use.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_075#0",
+   "speaker": null,
+   "en": "A highly elastic animal hide.[n]A must-have for crafting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_076#0",
+   "speaker": null,
+   "en": "A pyrophoric, toxic powder[n]used for ignition.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_077#0",
+   "speaker": null,
+   "en": "Shimmering silver liquid[n]metal used to make tools.[n]Handle with care.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_078#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_079#0",
+   "speaker": null,
+   "en": "A book of quotes by great[n]philosophers. Read to[n]enrich your knowledge.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_07A#0",
+   "speaker": null,
+   "en": "Hair-raising ghost stories.[n]Reading this will surely[n]steel your guts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_07B#0",
+   "speaker": null,
+   "en": "A best-seller on cleaning.[n]The author's proficiency[n]is worth studying.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_07C#0",
+   "speaker": null,
+   "en": "A heartwarming tale of[n]a dog and his master. It[n]is filled with kindness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_07D#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_07E#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_07F#0",
+   "speaker": null,
+   "en": "A retro boxing game.[n]Playing could give you the[n]charm of a challenger.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_080#0",
+   "speaker": null,
+   "en": "The world's first spicy[n]coffee. Restores 10 HP[n]to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_081#0",
+   "speaker": null,
+   "en": "Triple-filtered Shibuya[n]river water. Restores[n]10 HP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_082#0",
+   "speaker": null,
+   "en": "An old model television.[n]It's missing the remote.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_083#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_084#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_085#0",
+   "speaker": null,
+   "en": "A book chronicling a great[n]swordsman's life. Find the[n]guts to face death.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_086#0",
+   "speaker": null,
+   "en": "The essential compendium[n]for anyone in the flower[n]industry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_087#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_088#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_089#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_08A#0",
+   "speaker": null,
+   "en": "The epic of a tireless seeker[n]of wisdom. May impart[n]knowledge upon the reader.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_08B#0",
+   "speaker": null,
+   "en": "Biography of a beloved[n]leader. His warm character[n]shows much kindness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_08C#0",
+   "speaker": null,
+   "en": "The passion involved in being[n]an automata technician. May[n]improve one's proficiency.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_08D#0",
+   "speaker": null,
+   "en": "A book about the romantic[n]life of a ladies man.[n]Learn from his charm.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_08E#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_08F#0",
+   "speaker": null,
+   "en": "Just plain junk. No point[n]in having it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_090#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_091#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_092#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_093#0",
+   "speaker": null,
+   "en": "A popular Japanese[n]snack. Restores 20 HP[n]to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_094#0",
+   "speaker": null,
+   "en": "A Holy Stone shattered[n]to pieces. Restores[n]5 SP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_095#0",
+   "speaker": null,
+   "en": "A ticket necessary[n]to watch a movie[n]at the theater.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_096#0",
+   "speaker": null,
+   "en": "Movie 02 Ticket",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_097#0",
+   "speaker": null,
+   "en": "Movie 03 Ticket",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_098#0",
+   "speaker": null,
+   "en": "Movie 04 Ticket",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_099#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_09A#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_09B#0",
+   "speaker": null,
+   "en": "Ten consecutive numbers[n]for the Summer Mammoth[n]lottery.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_09C#0",
+   "speaker": null,
+   "en": "Bun with chestnuts and[n]carrots in it. Restores[n]200 HP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_09D#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_09E#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_09F#0",
+   "speaker": null,
+   "en": "A book on the old district[n]reborn thanks to the new[n]Tokyo Skytree.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0A0#0",
+   "speaker": null,
+   "en": "A retro space shooting[n]game. Playing could[n]make you gutsier.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0A1#0",
+   "speaker": null,
+   "en": "A book that introduces[n]great parks for spending[n]a quiet weekend.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0A2#0",
+   "speaker": null,
+   "en": "A retro board game.[n]Playing could make[n]you kinder.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0A3#0",
+   "speaker": null,
+   "en": "A retro fighting game.[n]Playing could make[n]you gutsier.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0A4#0",
+   "speaker": null,
+   "en": "Two episodes. A corpse holds[n]hints to the truth. Sharp[n]deductions save all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0A5#0",
+   "speaker": null,
+   "en": "Three episodes. Cutting-edge[n]forensic technology holds[n]the key to a mystery.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0A6#0",
+   "speaker": null,
+   "en": "The story of a homely[n]girl who captivates people[n]with her inner charm.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0A7#0",
+   "speaker": null,
+   "en": "A realistic teen drama.[n]Watching their romances[n]makes you charming.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0A8#0",
+   "speaker": null,
+   "en": "A heartrending drama[n]about working in the ER.[n]Teaches you kindness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0A9#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0AA#0",
+   "speaker": null,
+   "en": "Rainy day special. Large[n]candied natto. Restores[n]80 HP to all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0AB#0",
+   "speaker": null,
+   "en": "A pack full of select[n]squid snacks. Restores[n]20 HP to all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0AC#0",
+   "speaker": null,
+   "en": "A set of badges featuring[n]a rising pop idol. For a[n]trendy friend.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0AD#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0AE#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0AF#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0B0#0",
+   "speaker": null,
+   "en": "A photo guidebook of the[n]shrines hidden in the big[n]city.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0B1#0",
+   "speaker": null,
+   "en": "A guidebook for beginners[n]on the popular fishing[n]ponds.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0B2#0",
+   "speaker": null,
+   "en": "A magazine compiling[n]information about[n]Yongen-Jaya.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0B3#0",
+   "speaker": null,
+   "en": "A star-gazing guidebook[n]that has a special on[n]planetariums.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0B4#0",
+   "speaker": null,
+   "en": "A doll of the winter frost[n]fairy whose kind smile[n]will capture your heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0B5#0",
+   "speaker": null,
+   "en": "A Big Bang Burger mascot[n]doll. Makes you feel like[n]a Big Bang.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0B6#0",
+   "speaker": null,
+   "en": "A security company's[n]mascot doll. People like[n]his shady looks.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0B7#0",
+   "speaker": null,
+   "en": "A peculiarly-designed doll[n]that is popular due to its[n]scary looks.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0B8#0",
+   "speaker": null,
+   "en": "Pudding made from uji[n]matcha green tea. For the[n]sweet tooth.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0B9#0",
+   "speaker": null,
+   "en": "Chocolate truffles made[n]with meticulous detail.[n]For the sweet tooth.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0BA#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0BB#0",
+   "speaker": null,
+   "en": "Greatly raises chances[n]of being targeted by[n]foes for one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0BC#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0BD#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0BE#0",
+   "speaker": null,
+   "en": "Water used for rituals.[n]Removes all stat buffs for[n]all foes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0BF#0",
+   "speaker": null,
+   "en": "Purified holy water.[n]Removes all stat debuffs[n]for all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0C0#0",
+   "speaker": null,
+   "en": "Non-alcoholic wine used[n]during ceremonies. Fully[n]restores HP of all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0C1#0",
+   "speaker": null,
+   "en": "Used during ceremonies.[n]Cures all non-special[n]ailments for all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0C2#0",
+   "speaker": null,
+   "en": "Rainy day special with[n]terrific texture. Restores[n]200 HP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0C3#0",
+   "speaker": null,
+   "en": "A silk crêpe book cover with[n]a Japanese-style print on it.[n]For the traditional lady.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0C4#0",
+   "speaker": null,
+   "en": "Sponge cake topped with[n]coarse sugar. For someone[n]with a sweet tooth.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0C5#0",
+   "speaker": null,
+   "en": "An intensely red lipstick[n]worn by a popular model.[n]For the fashion-conscious.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0C6#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0C7#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0C8#0",
+   "speaker": null,
+   "en": "A hammer that negates[n]physical reflecting[n]barriers of one foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0C9#0",
+   "speaker": null,
+   "en": "A hammer that negates[n]magic reflecting[n]barriers of one foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0CA#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0CB#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0CC#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0CD#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0CE#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0CF#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0D0#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0D1#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0D2#0",
+   "speaker": null,
+   "en": "A simple yet sturdy rod.[n]Makes catching fish[n]a little easier.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0D3#0",
+   "speaker": null,
+   "en": "A strong and tough rod.[n]Makes catching fish[n]even easier.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0D4#0",
+   "speaker": null,
+   "en": "A resilient next-gen rod.[n]Makes catching fish[n]extremely easy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0D5#0",
+   "speaker": null,
+   "en": "Contains arginine.[n]Restores 5 SP to one[n]ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0D6#0",
+   "speaker": null,
+   "en": "Now with more pepper.[n]Restores 20 HP to one[n]ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0D7#0",
+   "speaker": null,
+   "en": "Unsettlingly nutritious.[n]Restores 10 HP to[n]one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0D8#0",
+   "speaker": null,
+   "en": "Food to go. Restores 30% HP[n]to one ally, lowers Attack,[n]raises Accuracy/Evasion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0D9#0",
+   "speaker": null,
+   "en": "Food to go. Restores 30% HP[n]to one ally, lowers Accuracy/[n]Evasion and raises Attack.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0DA#0",
+   "speaker": null,
+   "en": "Food to go. Both tasty and[n]satiating. Restores 50 HP and[n]cures Hunger for one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0DB#0",
+   "speaker": null,
+   "en": "Restores 30% HP to one[n]ally, lowers Defense and[n]raises Attack.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0DC#0",
+   "speaker": null,
+   "en": "Rich with omega-3 fatty[n]acids to increase your[n]knowledge.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0DD#0",
+   "speaker": null,
+   "en": "Blended with collagen,[n]making you radiant[n]with charm.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0DE#0",
+   "speaker": null,
+   "en": "Made from seaweed minerals[n]to revitalize you, making[n]you more proficient.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0DF#0",
+   "speaker": null,
+   "en": "Made with bitter melon.[n]It takes guts to drink[n]this terrifying mixture.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0E0#0",
+   "speaker": null,
+   "en": "Made using hot spring[n]water. You can feel the[n]kindness within you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0E1#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0E2#0",
+   "speaker": null,
+   "en": "Just one bite satisfies[n]your stomach. Cures[n]Hunger for one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0E3#0",
+   "speaker": null,
+   "en": "Ten random numbers for the[n]Summer Mammoth lottery.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0E4#0",
+   "speaker": null,
+   "en": "A refreshing lollipop.[n]Cures Despair for[n]one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0E5#0",
+   "speaker": null,
+   "en": "A mysterious stone.[n]Cures Freeze for[n]one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0E6#0",
+   "speaker": null,
+   "en": "A curious orb. Cures[n]Burn for one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0E7#0",
+   "speaker": null,
+   "en": "A mysterious crystal.[n]Cures Shock for one[n]ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0E8#0",
+   "speaker": null,
+   "en": "Refreshing Mandarin[n]orange flavor. Restores[n]10 HP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0E9#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0EA#0",
+   "speaker": null,
+   "en": "Yon-Germain's staple[n]sandwich. Restores[n]10 HP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0EB#0",
+   "speaker": null,
+   "en": "A fruity, seasonal[n]pastry. Restores[n]30 HP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0EC#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0ED#0",
+   "speaker": null,
+   "en": "Fast-selling bread.[n]Restores 50 HP and cures[n]Hunger for one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0EE#0",
+   "speaker": null,
+   "en": "A drink that blows away[n]sleepiness. Cures Sleep[n]for one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0EF#0",
+   "speaker": null,
+   "en": "A blend of Eastern and[n]Western teas. Restores[n]10 HP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0F0#0",
+   "speaker": null,
+   "en": "Practically liquid[n]caffeine. Restores[n]10 HP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0F1#0",
+   "speaker": null,
+   "en": "Popular tea often[n]sold online. Restores[n]10 HP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0F2#0",
+   "speaker": null,
+   "en": "Makes you want to dance[n]all night. Restores 10 HP[n]to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0F3#0",
+   "speaker": null,
+   "en": "Unexpectedly great[n]taste. Restores 10 HP[n]to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0F4#0",
+   "speaker": null,
+   "en": "Coveted by old-school[n]gamers. Restores 10 HP[n]to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0F5#0",
+   "speaker": null,
+   "en": "A retro gambling game.[n]Playing could make you[n]more charming.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0F6#0",
+   "speaker": null,
+   "en": "A retro golf game.[n]Playing could make you[n]more proficient.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0F7#0",
+   "speaker": null,
+   "en": "A postcard that looks like a[n]calling card. Mail it to[n]someone close to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0F8#0",
+   "speaker": null,
+   "en": "Autumn-only. Cures all[n]non-special ailments for[n]one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0F9#0",
+   "speaker": null,
+   "en": "Increases training[n]efficiency. Restores[n]30% HP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0FA#0",
+   "speaker": null,
+   "en": "Rainy day-only. Helps[n]training. Restores[n]30% HP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0FB#0",
+   "speaker": null,
+   "en": "Bread with a nostalgic[n]taste. Restores 10 HP[n]to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0FC#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0FD#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0FE#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0FF#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_100#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_101#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_102#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_103#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_104#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_105#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_106#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_107#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_108#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_109#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_10A#0",
+   "speaker": null,
+   "en": "For those who reach for the[n]stars. Ball speed: 87 mph.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_10B#0",
+   "speaker": null,
+   "en": "The final challenge from the[n]batting cage proprietor.[n]Ball speed: 103 mph.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_10C#0",
+   "speaker": null,
+   "en": "For beginners. Ball speed:[n]43 mph.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_10D#0",
+   "speaker": null,
+   "en": "For batters with intermediate[n]experience. Ball speed: 55[n]mph.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_10E#0",
+   "speaker": null,
+   "en": "For those with confidence[n]in their swing. Ball speed:[n]68 mph.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_10F#0",
+   "speaker": null,
+   "en": "A special dish made with[n]crayfish paste. For those[n]with the guts to indulge.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_110#0",
+   "speaker": null,
+   "en": "Salisbury steak, just[n]like Grandma made it.[n]You feel kindness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_111#0",
+   "speaker": null,
+   "en": "Tea made with a plethora[n]of fruit. Softens your skin[n]to make you charming.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_112#0",
+   "speaker": null,
+   "en": "Just finishing this tower of[n]ice cream without it[n]falling makes you proficient.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_113#0",
+   "speaker": null,
+   "en": "Coffee brewed with love.[n]Even a clumsy maid can[n]make this super-easily.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_114#0",
+   "speaker": null,
+   "en": "Tea steeped with care.[n]Even a clumsy maid can[n]make this easily.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_115#0",
+   "speaker": null,
+   "en": "Topped with whipped cream[n]at the table. Might be hard[n]for a clumsy maid.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_116#0",
+   "speaker": null,
+   "en": "Comes with free ketchup[n]art. May be too much for[n]a clumsy maid.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_117#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_118#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_119#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_11A#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_11B#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_11C#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_11D#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_11E#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_11F#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_120#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_121#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_122#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_123#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_124#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_125#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_126#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_127#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_128#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_129#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_12A#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_12B#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_12C#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_12D#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_12E#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_12F#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_130#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_131#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_132#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_133#0",
+   "speaker": null,
+   "en": "A bait for small fish.[n]Can only catch small fish.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_134#0",
+   "speaker": null,
+   "en": "A bait for average fish.[n]Can catch medium-sized[n]fish.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_135#0",
+   "speaker": null,
+   "en": "A bait for big fish.[n]Can catch larger fish.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_136#0",
+   "speaker": null,
+   "en": "Flavorful bait that can catch[n]normal fish of any size.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_137#0",
+   "speaker": null,
+   "en": "A bait specifically for[n]the Guardian. No other[n]fish will bite.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_138#0",
+   "speaker": null,
+   "en": "The taste is Big Bang[n]level! Restores 20 HP[n]to all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_139#0",
+   "speaker": null,
+   "en": "Fried potatoes with onion[n]rings like Saturn. Restores[n]20 HP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_13A#0",
+   "speaker": null,
+   "en": "Spring-only. Filled with[n]Earth veggies. Restores[n]40 HP to all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_13B#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_13C#0",
+   "speaker": null,
+   "en": "Autumn-only. The egg looks[n]like the moon. Restores[n]120 HP to all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_13D#0",
+   "speaker": null,
+   "en": "A new burger by the reborn[n]Okumura Foods. Restores[n]200 HP to all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_13E#0",
+   "speaker": null,
+   "en": "So good it's practically[n]royalty. Restores 10 HP[n]to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_13F#0",
+   "speaker": null,
+   "en": "Spring-only. Filled with[n]with fruits. Restores[n]80 HP to all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_140#0",
+   "speaker": null,
+   "en": "Despite the name, it's[n]a kebab. Restores[n]20 HP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_141#0",
+   "speaker": null,
+   "en": "Phantom Thieves snack.[n]Restores 50 HP and cures[n]ailments for one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_142#0",
+   "speaker": null,
+   "en": "Cold Chinese noodles. Only[n]available in summer. Restores[n]200 HP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_143#0",
+   "speaker": null,
+   "en": "Winter-only oden with[n]rich flavor. Restores[n]50 HP to all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_144#0",
+   "speaker": null,
+   "en": "Canned food to be eaten[n]as a group. Restores[n]40 HP to all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_145#0",
+   "speaker": null,
+   "en": "Digi-cam with latest tech.[n]Take photos in any light.[n]For the pro photographer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_146#0",
+   "speaker": null,
+   "en": "A face massager that can[n]slim your face quickly. For[n]the rising star.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_147#0",
+   "speaker": null,
+   "en": "A repaired laptop.[n]It can connect to[n]Shady Commodities.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_148#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_149#0",
+   "speaker": null,
+   "en": "A mini-sized Dominion[n]figure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_14A#0",
+   "speaker": null,
+   "en": "A figure of a dying[n]Daisoujou.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_14B#0",
+   "speaker": null,
+   "en": "A Decarabia figure decked[n]out with decals.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_14C#0",
+   "speaker": null,
+   "en": "A Girimehkala figure[n]equipped with random[n]gear.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_14D#0",
+   "speaker": null,
+   "en": "An eccentric Kin-ki[n]figure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_14E#0",
+   "speaker": null,
+   "en": "A Mothman figure[n]attempting to recreate[n]its fluffiness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_14F#0",
+   "speaker": null,
+   "en": "Movie 16 Ticket",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_150#0",
+   "speaker": null,
+   "en": "A tool that can open one[n]locked treasure chest.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_151#0",
+   "speaker": null,
+   "en": "A tool that can open[n]any number of locked[n]treasure chests.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_152#0",
+   "speaker": null,
+   "en": "(cut)",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_153#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_154#0",
+   "speaker": null,
+   "en": "Increases the chances of[n]encountering Treasure[n]Demons in Palaces.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_155#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_156#0",
+   "speaker": null,
+   "en": "A small red fish.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_157#0",
+   "speaker": null,
+   "en": "A scaly carp.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_158#0",
+   "speaker": null,
+   "en": "An elegant bitterling.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_159#0",
+   "speaker": null,
+   "en": "An oily trout glimmering[n]with seven colors.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_15A#0",
+   "speaker": null,
+   "en": "A carp that looks like it[n]could flutter in the wind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_15B#0",
+   "speaker": null,
+   "en": "A trout that looks like it[n]could sell at a high price.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_15C#0",
+   "speaker": null,
+   "en": "A bitterling with a[n]superior taste.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_15D#0",
+   "speaker": null,
+   "en": "A carp overflowing with[n]power.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_15E#0",
+   "speaker": null,
+   "en": "The legendary fish serving[n]as a protector god of the[n]nation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_15F#0",
+   "speaker": null,
+   "en": "Your average adhesive[n]bandage. Restores 20 HP[n]to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_160#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_161#0",
+   "speaker": null,
+   "en": "Can only be used in safe[n]places. Restores 100% HP[n]to all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_162#0",
+   "speaker": null,
+   "en": "Specialty drip coffee.[n]Restores 30 SP to one[n]ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_163#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_164#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_165#0",
+   "speaker": null,
+   "en": "Specialty drip coffee.[n]Restores 100 SP to one[n]ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_166#0",
+   "speaker": null,
+   "en": "Curry that almost rivals[n]that of Leblanc's. Restores[n]20 SP to all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_167#0",
+   "speaker": null,
+   "en": "Recreates Boss's flavor[n]perfectly. Restores[n]50 SP to all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_168#0",
+   "speaker": null,
+   "en": "Curry that surpasses[n]Boss's flavor. Restores[n]100 SP to all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_169#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_16A#0",
+   "speaker": null,
+   "en": "Came with Star Forneus.[n]An enthusiast would know[n]its value.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_16B#0",
+   "speaker": null,
+   "en": "Can only be used in safe[n]places. Restores 50% HP[n]to all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_16C#0",
+   "speaker": null,
+   "en": "Came with Train of Life.[n]An enthusiast would know[n]its value.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_16D#0",
+   "speaker": null,
+   "en": "Came with Power Intuition.[n]An enthusiast would know[n]its value.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_16E#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_16F#0",
+   "speaker": null,
+   "en": "Came with Punch Ouch.[n]An enthusiast would know[n]its value.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_170#0",
+   "speaker": null,
+   "en": "Came with Gambla Goemon.[n]An enthusiast would know[n]its value.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_171#0",
+   "speaker": null,
+   "en": "Came with Golfer[n]Sarutahiko. An enthusiast[n]would know its value.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_172#0",
+   "speaker": null,
+   "en": "Broad compilation on[n]modern social thought.[n]May boost knowledge.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_173#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_174#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_175#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_176#0",
+   "speaker": null,
+   "en": "A thorough analysis of[n]batting. Might help with[n]your baseball skills.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_177#0",
+   "speaker": null,
+   "en": "A book explaining the[n]tricks of fishing. Now[n]you can be a master!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_178#0",
+   "speaker": null,
+   "en": "Easy-to-learn speed-reading[n]techniques. Helps to increase[n]your reading speed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_179#0",
+   "speaker": null,
+   "en": "Comprehensive guide on[n]increasing emotional depth[n]on camera. For film buffs.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_17A#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_17B#0",
+   "speaker": null,
+   "en": "A guidebook to enjoy[n]the sweets found within[n]Chinatown.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_17C#0",
+   "speaker": null,
+   "en": "A book to help men not[n]get lost while visiting[n]amusement parks.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_17D#0",
+   "speaker": null,
+   "en": "A novel based on Arsène.[n]His clever tricks make[n]you knowledgeable.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_17E#0",
+   "speaker": null,
+   "en": "The tale of the fearless[n]Captain Kidd. Reading this[n]would build guts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_17F#0",
+   "speaker": null,
+   "en": "The story about Zorro, the[n]gentleman bandit. Read to[n]be a kind gentleman.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_180#0",
+   "speaker": null,
+   "en": "The passionate story of[n]Carmen. For those looking[n]to be charmed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_181#0",
+   "speaker": null,
+   "en": "Ishikawa Goemon's tale.[n]Experience the guts to[n]defy those in power.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_182#0",
+   "speaker": null,
+   "en": "The dynamic biography of[n]Johanna. Awakens you to[n]kindness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_183#0",
+   "speaker": null,
+   "en": "A book of fictitious[n]mythos. The macabre world[n]would help build guts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_184#0",
+   "speaker": null,
+   "en": "The story of Milady. Her[n]changing faces helps to[n]make you proficient.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_185#0",
+   "speaker": null,
+   "en": "The daring tales of Robin[n]Hood. Reading this could[n]help build your guts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_186#0",
+   "speaker": null,
+   "en": "A book on the hacker group[n]Medjed. Be knowledgeable[n]about internet crimes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_187#0",
+   "speaker": null,
+   "en": "Tips from a famous pickup[n]artist. Learn the charm to[n]hook up with someone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_188#0",
+   "speaker": null,
+   "en": "A compilation of tricks[n]for every video game.[n]Makes any game easy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_189#0",
+   "speaker": null,
+   "en": "Ten random numbers[n]for the year-round[n]Mammoth lottery.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_18A#0",
+   "speaker": null,
+   "en": "Ten consecutive numbers[n]for the year-round[n]Mammoth lottery.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_18B#0",
+   "speaker": null,
+   "en": "A scratcher ticket for the[n]Mammoth lottery. Results[n]are instantaneous.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_18C#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_18D#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_18E#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_18F#0",
+   "speaker": null,
+   "en": "A moving story of a woman[n]who can talk to ghosts.[n]Gives you kindness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_190#0",
+   "speaker": null,
+   "en": "A jail break drama. You[n]will learn from their[n]proficiency in sneaking.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_191#0",
+   "speaker": null,
+   "en": "Adventures of a man who is[n]proficient in jury rigging[n]tools out of anything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_192#0",
+   "speaker": null,
+   "en": "A survival horror drama.[n]Viewing the onslaught of[n]zombies will build guts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_193#0",
+   "speaker": null,
+   "en": "Investigators chase after[n]supernatural cases.[n]Gives you guts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_194#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_195#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_196#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_197#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_198#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_199#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_19A#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_19B#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_19C#0",
+   "speaker": null,
+   "en": "A fashion magazine for[n]girls with unique tastes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_19D#0",
+   "speaker": null,
+   "en": "A magazine showcasing[n]date spots geared[n]toward adults.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_19E#0",
+   "speaker": null,
+   "en": "Sucks the heat out[n]of your head. Cures[n]Burn for one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_19F#0",
+   "speaker": null,
+   "en": "A heat pack to warm[n]a chilled body. Cures[n]Freeze for one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1A0#0",
+   "speaker": null,
+   "en": "A fruit salad that's fit[n]for a goddess. Restores[n]30 HP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1A1#0",
+   "speaker": null,
+   "en": "Restores 50 HP to[n]one ally and lowers[n]Accuracy/Evasion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1A2#0",
+   "speaker": null,
+   "en": "Restores 100 HP to[n]one ally and lowers[n]Attack.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1A3#0",
+   "speaker": null,
+   "en": "Restores 200 HP to[n]one ally and lowers[n]Defense.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1A4#0",
+   "speaker": null,
+   "en": "Eye drops that help you[n]see straight. Cures Dizzy[n]for one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1A5#0",
+   "speaker": null,
+   "en": "Donuts that bring[n]relief. Cures Fear[n]for one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1A6#0",
+   "speaker": null,
+   "en": "Stimulates the memory[n]from the gums. Cures[n]Forget for one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1A7#0",
+   "speaker": null,
+   "en": "A tea that blasts away[n]drowsiness. Cures Sleep[n]for one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1A8#0",
+   "speaker": null,
+   "en": "A present from Shinya.[n]Rabbit-shaped balloons[n]from Destinyland.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1A9#0",
+   "speaker": null,
+   "en": "Hardtack. Restores 10%[n]SP to one ally and lowers[n]Accuracy/Evasion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1AA#0",
+   "speaker": null,
+   "en": "Canned a while ago.[n]Restores 10% SP to one[n]ally and lowers Defense.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1AB#0",
+   "speaker": null,
+   "en": "Not a chocolate bar.[n]Restores 10% SP to one[n]ally and lowers Attack.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1AC#0",
+   "speaker": null,
+   "en": "Restores 50 HP and[n]cures Hunger for[n]one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1AD#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1AE#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1AF#0",
+   "speaker": null,
+   "en": "Made from the king of[n]fruits. Restores 10 HP[n]to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1B0#0",
+   "speaker": null,
+   "en": "So good it makes you say,[n]\"Whoa!\" Restores 20 HP to[n]one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1B1#0",
+   "speaker": null,
+   "en": "You can never drink all[n]the kernels. Restores[n]20 HP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1B2#0",
+   "speaker": null,
+   "en": "Makes you think you're[n]drunk. Restores 20 HP[n]to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1B3#0",
+   "speaker": null,
+   "en": "Triple-filtered carbonated[n]Shibuya water. Restores[n]30 HP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1B4#0",
+   "speaker": null,
+   "en": "Blended with placenta.[n]Restores 5 SP to one[n]ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1B5#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1B6#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1B7#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1B8#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1B9#0",
+   "speaker": null,
+   "en": "Restores 100 HP to one[n]ally. Lowers Defense/[n]Accuracy/Evasion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1BA#0",
+   "speaker": null,
+   "en": "Restores 100 HP to one[n]ally. Lowers Attack/[n]Accuracy/Evasion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1BB#0",
+   "speaker": null,
+   "en": "Restores 100 HP to one[n]ally. Lowers Attack[n]and Defense.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1BC#0",
+   "speaker": null,
+   "en": "No ingredients listed.[n]Restores 30% SP to one[n]ally. Lowers all stats.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1BD#0",
+   "speaker": null,
+   "en": "A very bitter coffee.[n]Restores 30 SP to one[n]ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1BE#0",
+   "speaker": null,
+   "en": "An extremely bitter coffee.[n]Restores 30 SP to one[n]ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1BF#0",
+   "speaker": null,
+   "en": "Almost like Leblanc's, but[n]incredibly spicy. Restores[n]20 SP to all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1C0#0",
+   "speaker": null,
+   "en": "Just like Boss's, but[n]incredibly spicy. Restores[n]50 SP to all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1C1#0",
+   "speaker": null,
+   "en": "Surpasses Boss's, but is[n]extremely spicy. Restores[n]50 SP to all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1C2#0",
+   "speaker": null,
+   "en": "A present from Ryuji. A[n]fake food sample from a[n]ramen shop in Ogikubo.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1C3#0",
+   "speaker": null,
+   "en": "A present from Kawakami.[n]The night view from[n]Seaside Park.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1C4#0",
+   "speaker": null,
+   "en": "A present from Yusuke.[n]A replica of a sculpture[n]at a museum.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1C5#0",
+   "speaker": null,
+   "en": "A present from Iwai.[n]A miniature figure[n]of a swan boat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1C6#0",
+   "speaker": null,
+   "en": "A present from Chihaya.[n]A 1/4000 scale Skytree-[n]shaped lamp.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1C7#0",
+   "speaker": null,
+   "en": "A present from Haru. A[n]spatula from a monja shop[n]that takes skill to use.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1C8#0",
+   "speaker": null,
+   "en": "A present from Ann.[n]A poster of a top-[n]running idol.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1C9#0",
+   "speaker": null,
+   "en": "A present from Yusuke. Glow-[n]in-the-dark constellations,[n]complete with a guide.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1CA#0",
+   "speaker": null,
+   "en": "A present from Hifumi.[n]A giant wooden ornament[n]of a king piece in shogi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1CB#0",
+   "speaker": null,
+   "en": "A present from Futaba. A[n]figure of a hero anybody[n]would look up to.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1CC#0",
+   "speaker": null,
+   "en": "A present from Yusuke.[n]An arrow from Meiji[n]Shrine that destroys evil.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1CD#0",
+   "speaker": null,
+   "en": "A present from Futaba. A[n]souvenir T-shirt printed[n]in English.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1CE#0",
+   "speaker": null,
+   "en": "Gum that eases your[n]body and soul. Cures[n]Shock for one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1CF#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1D0#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1D1#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1D2#0",
+   "speaker": null,
+   "en": "Handmade chocolate from[n]Kawakami. Fully restores[n]SP of one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1D3#0",
+   "speaker": null,
+   "en": "Premium chocolate from[n]Takemi. Fully restores[n]SP of one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1D4#0",
+   "speaker": null,
+   "en": "Premium chocolate from[n]Chihaya. Fully restores[n]SP of one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1D5#0",
+   "speaker": null,
+   "en": "Premium chocolate from[n]Ohya. Fully restores[n]SP of one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1D6#0",
+   "speaker": null,
+   "en": "Handmade chocolate from[n]Hifumi. Fully restores[n]SP of one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1D7#0",
+   "speaker": null,
+   "en": "Premium chocolate from[n]Makoto. Fully restores[n]SP of one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1D8#0",
+   "speaker": null,
+   "en": "Handmade chocolate from[n]Haru. Fully restores[n]SP of one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1D9#0",
+   "speaker": null,
+   "en": "Premium chocolate from[n]Ann. Fully restores[n]SP of one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1DA#0",
+   "speaker": null,
+   "en": "Handmade chocolate from[n]Futaba. Fully restores[n]SP of one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1DB#0",
+   "speaker": null,
+   "en": "Cheap chocolate from[n]Ryuji. Restores 10 SP[n]to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1DC#0",
+   "speaker": null,
+   "en": "Cheap chocolate from[n]Sojiro. Restores 10 SP[n]to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1DD#0",
+   "speaker": null,
+   "en": "A present from Haru. A[n]good luck charm sold at[n]Tori no Ichi festival.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1DE#0",
+   "speaker": null,
+   "en": "A present from Makoto. A[n]cushion based off of a[n]Chinatown favorite.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1DF#0",
+   "speaker": null,
+   "en": "A present from Makoto.[n]A baseball team mascot[n]found at Dome Town.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1E0#0",
+   "speaker": null,
+   "en": "A present from Ohya. A[n]teacup printed with fish[n]names, used at sushi bars.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1E1#0",
+   "speaker": null,
+   "en": "A present from Ann.[n]A millionth customer[n]prize fountain.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1E2#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1E3#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1E4#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1E5#0",
+   "speaker": null,
+   "en": "This system is needed to[n]play FD games.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1E6#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1E7#0",
+   "speaker": null,
+   "en": "A doll of a worried-[n]looking sheep man.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1E8#0",
+   "speaker": null,
+   "en": "Bread with strawberry[n]jam filling. Restores[n]20 HP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1E9#0",
+   "speaker": null,
+   "en": "A limited product that[n]rejuvenates. Revives one[n]fallen ally to full HP.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1EA#0",
+   "speaker": null,
+   "en": "Christmas-only pastry.[n]Revives one fallen ally[n]to full HP.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1EB#0",
+   "speaker": null,
+   "en": "Autumn-only Japanese[n]sweet. Restores 200 HP[n]to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1EC#0",
+   "speaker": null,
+   "en": "A can full of a variety of[n]nuts. Restores 40 HP to all[n]allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1ED#0",
+   "speaker": null,
+   "en": "A sticky sweet potato[n]low in fiber. Restores[n]10 SP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1EE#0",
+   "speaker": null,
+   "en": "A winter-only roasted[n]sweet potato. Restores[n]50 SP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1EF#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1F0#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1F1#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1F2#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1F3#0",
+   "speaker": null,
+   "en": "A hard-to-grow carrot.[n]Fully restores SP of[n]one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1F4#0",
+   "speaker": null,
+   "en": "A hard-to-grow tomato.[n]Restores 100 SP to all[n]allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1F5#0",
+   "speaker": null,
+   "en": "A hard-to-grow bean.[n]Doubles the damage of[n]physical attacks one time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1F6#0",
+   "speaker": null,
+   "en": "A hard-to-grow onion.[n]Doubles the damage of[n]magical attacks one time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1F7#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1F8#0",
+   "speaker": null,
+   "en": "Ann's takoyaki-style[n]cream puffs. Restores[n]100 SP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1F9#0",
+   "speaker": null,
+   "en": "Donuts that were made[n]by Makoto. Restores[n]100 SP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1FA#0",
+   "speaker": null,
+   "en": "Candy shaped like a[n]cherry blossom. Restores[n]100 SP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1FB#0",
+   "speaker": null,
+   "en": "Kawakami's specially[n]made taiyaki. Restores[n]100 SP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1FC#0",
+   "speaker": null,
+   "en": "A gyoza hot dog Ryuji[n]made. Restores 100 SP[n]to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1FD#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1FE#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1FF#0",
+   "speaker": null,
+   "en": "A broken laptop. It looks[n]salvageable.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_200#0",
+   "speaker": null,
+   "en": "Increases training[n]efficiency. Restores[n]30% HP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_201#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_202#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_203#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_204#0",
+   "speaker": null,
+   "en": "A guidebook that lists[n]attractions in aquariums[n]all over Tokyo.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_205#0",
+   "speaker": null,
+   "en": "A guidebook that covers[n]popular and obscure spots[n]alike.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_206#0",
+   "speaker": null,
+   "en": "Incense that imparts[n]physical strength. Increases[n]Persona's St by 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_207#0",
+   "speaker": null,
+   "en": "Incense that strengthens the[n]heart. Increases Persona's[n]Ma by 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_208#0",
+   "speaker": null,
+   "en": "Incense that imparts[n]patience. Increases[n]Persona's En by 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_209#0",
+   "speaker": null,
+   "en": "Incense that lightens your[n]body. Increases Persona's[n]Ag by 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_20A#0",
+   "speaker": null,
+   "en": "Incense that imparts good[n]fortune. Increases Persona's[n]Lu by 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_20B#0",
+   "speaker": null,
+   "en": "Quality incense that imparts[n]physical strength. Increases[n]Persona's St by 2.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_20C#0",
+   "speaker": null,
+   "en": "Quality incense that[n]strengthens the heart.[n]Increases Persona's Ma by 2.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_20D#0",
+   "speaker": null,
+   "en": "Quality incense that imparts[n]patience. Increases Persona's[n]En by 2.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_20E#0",
+   "speaker": null,
+   "en": "Quality incense that[n]lightens your body.[n]Increases Persona's Ag by 2.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_20F#0",
+   "speaker": null,
+   "en": "Quality incense that imparts[n]good fortune. Increases[n]Persona's Lu by 2.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_210#0",
+   "speaker": null,
+   "en": "Mystical incense that[n]imparts physical strength.[n]Increases Persona's St by 3.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_211#0",
+   "speaker": null,
+   "en": "Mystical incense that[n]strengthens the heart.[n]Increases Persona's Ma by 3.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_212#0",
+   "speaker": null,
+   "en": "Mystical incense that[n]imparts patience.[n]Increases Persona's En by 3.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_213#0",
+   "speaker": null,
+   "en": "Mystical incense that[n]lightens your body.[n]Increases Persona's Ag by 3.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_214#0",
+   "speaker": null,
+   "en": "Mystical incense that[n]imparts good fortune.[n]Increases Persona's Lu by 3.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_215#0",
+   "speaker": null,
+   "en": "Ground beef cutlet that[n]people line up to buy.[n]Restores 30 SP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_216#0",
+   "speaker": null,
+   "en": "Muscle-building supplement.[n]Raises Attack for one ally for[n]three turns.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_217#0",
+   "speaker": null,
+   "en": "Muscle-making supplement.[n]Raises Defense for one ally[n]for three turns.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_218#0",
+   "speaker": null,
+   "en": "Supplement for fast muscles.[n]Raises Accuracy/Evasion for[n]one ally for three turns.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_219#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_21A#0",
+   "speaker": null,
+   "en": "Ultimate sakura-mochi made[n]by a famous confectioner.[n]Restores 10 SP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_21B#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_21C#0",
+   "speaker": null,
+   "en": "A colorful postcard[n]with an elegant air to it.[n]For the art enthusiast.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_21D#0",
+   "speaker": null,
+   "en": "A sophisticated pen case[n]made with quality leather.[n]For the gentleman.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_21E#0",
+   "speaker": null,
+   "en": "A variety of ramen from[n]locales throughout Japan.[n]For the noodle lover.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_21F#0",
+   "speaker": null,
+   "en": "Vitamins that cover all[n]the bases of health. For[n]the busybody.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_220#0",
+   "speaker": null,
+   "en": "A slim bangle with a simple[n]and chic design. Can be[n]worn by men.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_221#0",
+   "speaker": null,
+   "en": "Body-building tools for[n]arms and legs. For the[n]exercise enthusiast.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_222#0",
+   "speaker": null,
+   "en": "Sporty sunglasses that[n]decrease UV rays by 10%.[n]For the avid runner.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_223#0",
+   "speaker": null,
+   "en": "A set of 28 kitchen utensils[n]that help you cook anything.[n]For the master chef.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_224#0",
+   "speaker": null,
+   "en": "An extremely difficult 3D[n]puzzle. For the desk worker[n]who needs a break.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_225#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_226#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_227#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_228#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_229#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_22A#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_22B#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_22C#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_22D#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_22E#0",
+   "speaker": null,
+   "en": "Small vial of liquid. High[n]chance of inflicting Dizzy[n]to one foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_22F#0",
+   "speaker": null,
+   "en": "Large vial of liquid. Medium[n]chance of inflicting Dizzy[n]to all foes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_230#0",
+   "speaker": null,
+   "en": "Small vial of liquid. High[n]chance of inflicting Confuse[n]to one foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_231#0",
+   "speaker": null,
+   "en": "Large vial of liquid. Medium[n]chance of inflicting Confuse[n]to all foes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_232#0",
+   "speaker": null,
+   "en": "Small vial of liquid. High[n]chance of inflicting Fear[n]to one foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_233#0",
+   "speaker": null,
+   "en": "Large vial of liquid. Medium[n]chance of inflicting Fear[n]to all foes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_234#0",
+   "speaker": null,
+   "en": "Small vial of liquid. High[n]chance of inflicting Forget[n]to one foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_235#0",
+   "speaker": null,
+   "en": "Large vial of liquid. Medium[n]chance of inflicting Forget[n]to all foes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_236#0",
+   "speaker": null,
+   "en": "Small vial of liquid. High[n]chance of inflicting Sleep[n]to one foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_237#0",
+   "speaker": null,
+   "en": "Large vial of liquid. Medium[n]chance of inflicting Sleep[n]to all foes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_238#0",
+   "speaker": null,
+   "en": "Small vial of liquid. High[n]chance of inflicting Rage[n]to one foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_239#0",
+   "speaker": null,
+   "en": "Large vial of liquid. Medium[n]chance of inflicting Rage[n]to all foes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_23A#0",
+   "speaker": null,
+   "en": "Small vial of liquid. High[n]chance of inflicting[n]Despair to one foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_23B#0",
+   "speaker": null,
+   "en": "Large vial of liquid. Medium[n]chance of inflicting Despair[n]to all foes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_23C#0",
+   "speaker": null,
+   "en": "Small vial of liquid. High[n]chance of inflicting[n]Brainwash to one foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_23D#0",
+   "speaker": null,
+   "en": "Large vial of liquid. Medium[n]chance of inflicting[n]Brainwash to all foes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_23E#0",
+   "speaker": null,
+   "en": "Quality incense that raises[n]Persona's St and Ma by 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_23F#0",
+   "speaker": null,
+   "en": "Quality incense that raises[n]Persona's St and En by 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_240#0",
+   "speaker": null,
+   "en": "Quality incense that raises[n]Persona's St and Ag by 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_241#0",
+   "speaker": null,
+   "en": "Quality incense that raises[n]Persona's St and Lu by 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_242#0",
+   "speaker": null,
+   "en": "Quality incense that raises[n]Persona's Ma and En by 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_243#0",
+   "speaker": null,
+   "en": "Quality incense that raises[n]Persona's Ma and Ag by 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_244#0",
+   "speaker": null,
+   "en": "Quality incense that raises[n]Persona's Ma and Lu by 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_245#0",
+   "speaker": null,
+   "en": "Quality incense that raises[n]Persona's En and Ag by 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_246#0",
+   "speaker": null,
+   "en": "Quality incense that raises[n]Persona's En and Lu by 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_247#0",
+   "speaker": null,
+   "en": "High-quality incense that[n]raises Persona's St, Ma, and[n]Ag by 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_248#0",
+   "speaker": null,
+   "en": "Featherman game with[n]a cult following. May make[n]you more knowledgeable.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_249#0",
+   "speaker": null,
+   "en": "Came with Featherman[n]Seeker. An enthusiast[n]would know its value.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_24A#0",
+   "speaker": null,
+   "en": "Coupon for free daytime[n]use at the batting cages.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_24B#0",
+   "speaker": null,
+   "en": "Muscle builder that increases[n]ATK/DEF/Accuracy/Evasion[n]for one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_24C#0",
+   "speaker": null,
+   "en": "Lord of the Guardians.[n]Very rarely seen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_24D#0",
+   "speaker": null,
+   "en": "Black Frost figurine. Puts[n]you in the mood to do evil.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_24E#0",
+   "speaker": null,
+   "en": "Buchimaru figurine.[n]A perennial favorite.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_24F#0",
+   "speaker": null,
+   "en": "The mascot of Jagariko,[n]a popular snack brand.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_250#0",
+   "speaker": null,
+   "en": "Bait of unknown origin.[n]Only used to catch a[n]particular type of fish.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_251#0",
+   "speaker": null,
+   "en": "Fishing rod made using[n]space technology. The[n]quality is out of this world.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_252#0",
+   "speaker": null,
+   "en": "A sea slug doll with[n]beady eyes. A gift from[n][sumi 10 1].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_253#0",
+   "speaker": null,
+   "en": "Phoenix Ranger figurines[n]that even connoisseurs can[n]enjoy. A gift from Ryuji.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_254#0",
+   "speaker": null,
+   "en": "Handmade chocolate from[n]Sumire. Fully restores SP of[n]one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_255#0",
+   "speaker": null,
+   "en": "Courtesy chocolate from[n]Ann. Restores 100 SP to[n]one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_256#0",
+   "speaker": null,
+   "en": "Courtesy chocolate from[n]Makoto. Restores 100 SP[n]to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_257#0",
+   "speaker": null,
+   "en": "Courtesy chocolate from[n]Haru. Restores 100 SP to[n]one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_258#0",
+   "speaker": null,
+   "en": "Courtesy chocolate from[n]Futaba. Restores 100 SP[n]to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_259#0",
+   "speaker": null,
+   "en": "Courtesy chocolate from[n]Takemi. Restores 100 SP[n]to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_25A#0",
+   "speaker": null,
+   "en": "Courtesy chocolate from[n]Chihaya. Restores 100 SP[n]to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_25B#0",
+   "speaker": null,
+   "en": "Courtesy chocolate from[n]Kawakami. Restores 100[n]SP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_25C#0",
+   "speaker": null,
+   "en": "Courtesy chocolate from[n]Ohya. Restores 100 SP to[n]one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_25D#0",
+   "speaker": null,
+   "en": "Courtesy chocolate from[n]Hifumi. Restores 100 SP[n]to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_25E#0",
+   "speaker": null,
+   "en": "Courtesy chocolate from[n]Sumire. Restores 100 SP[n]to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_25F#0",
+   "speaker": null,
+   "en": "Courtesy chocolate from[n]Sae. Restores 100 SP to[n]one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_260#0",
+   "speaker": null,
+   "en": "Candy chosen with Makoto.[n]Fully restores SP of one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_261#0",
+   "speaker": null,
+   "en": "Candy chosen with Haru.[n]Fully restores SP of one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_262#0",
+   "speaker": null,
+   "en": "Candy chosen with Ann.[n]Fully restores SP of one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_263#0",
+   "speaker": null,
+   "en": "Candy chosen with Futaba.[n]Fully restores SP of one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_264#0",
+   "speaker": null,
+   "en": "Candy chosen with Chihaya.[n]Fully restores SP of one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_265#0",
+   "speaker": null,
+   "en": "Candy chosen with Takemi.[n]Fully restores SP of one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_266#0",
+   "speaker": null,
+   "en": "Candy chosen with[n]Kawakami. Fully restores[n]SP of one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_267#0",
+   "speaker": null,
+   "en": "Candy chosen with Ohya.[n]Fully restores SP of one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_268#0",
+   "speaker": null,
+   "en": "Candy chosen with Hifumi.[n]Fully restores SP of one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_269#0",
+   "speaker": null,
+   "en": "Candy chosen with [sumi 10 1].[n]Fully restores SP of one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_26A#0",
+   "speaker": null,
+   "en": "This flower's meaning is[n]\"I love you.\" Who might[n]like to receive this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_26B#0",
+   "speaker": null,
+   "en": "The meaning of the flower is[n]\"Ultimate Love.\" Who might[n]like to receive this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_26C#0",
+   "speaker": null,
+   "en": "The meaning of the flower is[n]\"Unchanging Love.\" Who[n]might like to receive this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_26D#0",
+   "speaker": null,
+   "en": "Tool that can only be used[n]in safe places. Restores 20%[n]SP to all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_26E#0",
+   "speaker": null,
+   "en": "Tool that can only be used[n]in safe places. Restores 40%[n]SP to all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_26F#0",
+   "speaker": null,
+   "en": "Darts made with superior[n]feel and balance. Sought[n]out by pros.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_270#0",
+   "speaker": null,
+   "en": "Special cue made for jump[n]shots. For those who want[n]to master billiards.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_271#0",
+   "speaker": null,
+   "en": "Worthy of resurrecting[n]a Hierophant. Revives all[n]fallen allies to full HP.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_272#0",
+   "speaker": null,
+   "en": "Classic strawberry daifuku.[n]Fully restores HP and cures[n]all ailments of all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_273#0",
+   "speaker": null,
+   "en": "Techniques written by a[n]professional darts player.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_274#0",
+   "speaker": null,
+   "en": "Techniques written by a[n]professional billiards player.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_275#0",
+   "speaker": null,
+   "en": "Women's stories of love and[n]passion. Learn about leading[n]a charmed life.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_276#0",
+   "speaker": null,
+   "en": "A maverick rodent's medical[n]heroics. Learn about true[n]kindness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_277#0",
+   "speaker": null,
+   "en": "A writer and editor battle[n]looming deadlines. Praised[n]for its gutsy tension.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_278#0",
+   "speaker": null,
+   "en": "A teacher and a near defunct[n]high school golf team. Be[n]proficient in persuasion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_279#0",
+   "speaker": null,
+   "en": "Membership card for a[n]Maid Café. Earn a stamp[n]with every visit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_27A#0",
+   "speaker": null,
+   "en": "A signed photo of Clara.[n]The autograph covers[n]most of the face.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_27B#0",
+   "speaker": null,
+   "en": "Cheese with little flavor.[n]Restores 20 HP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_27C#0",
+   "speaker": null,
+   "en": "Cheese with good flavor.[n]Restores 50 HP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_27D#0",
+   "speaker": null,
+   "en": "Cheese with rich flavor.[n]Restores 100 HP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_27E#0",
+   "speaker": null,
+   "en": "A packet of thick pumpkin[n]soup. Restores 100 HP to[n]one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_27F#0",
+   "speaker": null,
+   "en": "RESERVE",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_280#0",
+   "speaker": null,
+   "en": "A pair of impossibly puzzling[n]rings. For those who like a[n]challenge.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_281#0",
+   "speaker": null,
+   "en": "A cushion made of material[n]that is squishy to the touch.[n]For the busy businessperson.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_282#0",
+   "speaker": null,
+   "en": "370,000 rotations per[n]second obliterates plaque.[n]For the busy businessperson.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_283#0",
+   "speaker": null,
+   "en": "Ultra-loud alarm clock to[n]wake up any sleepyhead.[n]For the busy businessperson.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_284#0",
+   "speaker": null,
+   "en": "A palm-sized machine that[n]dispenses fragrance and[n]moisture. For desk workers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_285#0",
+   "speaker": null,
+   "en": "A katana keychain with[n]a dragon design. For[n]the young man at heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_286#0",
+   "speaker": null,
+   "en": "Well-thumbed reference[n]book. Increases the[n]effectiveness of studying.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_287#0",
+   "speaker": null,
+   "en": "Aim-enhancing supplement.[n]Increases chance of Critical[n]for one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_288#0",
+   "speaker": null,
+   "en": "European-style jelly to eat[n]on the go. Restores 100 HP[n]to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_289#0",
+   "speaker": null,
+   "en": "Disinfectant that weakens[n]bacteria. Lowers Attack of[n]all foes for 3 turns.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_28A#0",
+   "speaker": null,
+   "en": "Powerful disinfectant.[n]Decreases Defense of[n]all foes for 3 turns.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_28B#0",
+   "speaker": null,
+   "en": "Fast-acting disinfectant.[n]Lowers Accuracy/Evasion[n]for all foes for 3 turns.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_28C#0",
+   "speaker": null,
+   "en": "Disinfectant that weakens[n]any bacteria. Lowers all[n]stats of one foe for 3 turns.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_28D#0",
+   "speaker": null,
+   "en": "Cleansing air freshener.[n]Cures all non-special[n]ailments for one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_28E#0",
+   "speaker": null,
+   "en": "Invigorating air freshener.[n]Cures all non-special[n]ailments for all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_28F#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_290#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_291#0",
+   "speaker": null,
+   "en": "RESERVE",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_292#0",
+   "speaker": null,
+   "en": "A girl facing unfortunate[n]circumstances. Learn about[n]leading a charmed life.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_293#0",
+   "speaker": null,
+   "en": "RESERVE",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_294#0",
+   "speaker": null,
+   "en": "A shiny, delicious apple.[n]Fully restores HP of all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_295#0",
+   "speaker": null,
+   "en": "Emergency medicine.[n]Revives one fallen ally[n]to 50% HP.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_296#0",
+   "speaker": null,
+   "en": "Shroud possibly worn by a[n]saint. Medium chance of[n]Bless insta-kill to all foes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_297#0",
+   "speaker": null,
+   "en": "Fortune telling board with[n]a past. Medium chance of[n]Curse insta-kill to all foes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_298#0",
+   "speaker": null,
+   "en": "Increases ATK/DEF/[n]Accuracy/Evasion for[n]one ally for 3 turns.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_299#0",
+   "speaker": null,
+   "en": "Decreases ATK/DEF[n]Accuracy/Evasion for[n]one foe for 3 turns.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_29A#0",
+   "speaker": null,
+   "en": "Deals 50 Fire dmg to[n]one foe. High chance[n]of inflicting Burn.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_29B#0",
+   "speaker": null,
+   "en": "Deals 50 Wind dmg to[n]one foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_29C#0",
+   "speaker": null,
+   "en": "Deals 50 Elec dmg to[n]one foe. High chance[n]of inflicting Shock.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_29D#0",
+   "speaker": null,
+   "en": "Deals 50 Ice dmg to[n]one foe. High chance[n]of inflicting Freeze.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_29E#0",
+   "speaker": null,
+   "en": "Deals 50 Nuke dmg to[n]one foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_29F#0",
+   "speaker": null,
+   "en": "Deals 50 Psy dmg to[n]one foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_2A0#0",
+   "speaker": null,
+   "en": "Deals 50 Bless dmg to[n]one foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_2A1#0",
+   "speaker": null,
+   "en": "Deals 50 Curse dmg to[n]one foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_2A2#0",
+   "speaker": null,
+   "en": "Forms a barrier that[n]nullifies an insta-kill for[n]all allies one time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_2A3#0",
+   "speaker": null,
+   "en": "Charm increasing strength.[n]Doubles the damage of[n]physical attacks one time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_2A4#0",
+   "speaker": null,
+   "en": "Charm improving focus.[n]Doubles the damage of[n]magical attacks one time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_2A5#0",
+   "speaker": null,
+   "en": "For the expert-level[n]craftsman. Improves skills[n]for making infiltration tools.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_2A6#0",
+   "speaker": null,
+   "en": "Basics for the aspiring[n]craftsman. Improves skills[n]for making infiltration tools.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_2A7#0",
+   "speaker": null,
+   "en": "Filled with juicy meat.[n]Restores 30 HP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_2A8#0",
+   "speaker": null,
+   "en": "Meat bun with a reddish tint.[n]Tastes better than it looks.[n]Restores 50 HP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_2A9#0",
+   "speaker": null,
+   "en": "Spicy meat bun that warms[n]you to your core. Restores[n]100 HP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_2AA#0",
+   "speaker": null,
+   "en": "Assorted cans of corned[n]beef. Restores 40 HP to[n]all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_2AB#0",
+   "speaker": null,
+   "en": "Multi-pack of assorted[n]cereal. Restores 80 HP[n]to all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_2AC#0",
+   "speaker": null,
+   "en": "Large container of caramel[n]popcorn. Restores 100 HP[n]to all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_2AD#0",
+   "speaker": null,
+   "en": "Contains four sets of used[n]clothes. What you get is a[n]surprise.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_2AE#0",
+   "speaker": null,
+   "en": "Fills you up like a New Year's[n]Day meal. Restores 30% SP[n]to one ally. Lowers all stats.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_2AF#0",
+   "speaker": null,
+   "en": "A sweet treat for the[n]stomach. Restores 50 HP and[n]cures Hunger for one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_2B0#0",
+   "speaker": null,
+   "en": "Exotic food. Restores 30%[n]HP to one ally, lowers Attack,[n]raises Accuracy/Evasion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_2B1#0",
+   "speaker": null,
+   "en": "A joy-inducing deluxe[n]Chinese sticky rice dumpling.[n]Restores 100 SP to one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_2B2#0",
+   "speaker": null,
+   "en": "Osechi made of chocolate.[n]Even sweeter with friends.[n]Fully restores HP of all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_2B3#0",
+   "speaker": null,
+   "en": "Old book about the fragility[n]of the human heart. Expands[n]Technical conditions.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_2B4#0",
+   "speaker": null,
+   "en": "Breaks all known limits.[n]Ball speed: ??? mph.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_2B5#0",
+   "speaker": null,
+   "en": "The ingredients are super[n]secret. Fully restores HP[n]and SP of all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_2B6#0",
+   "speaker": null,
+   "en": "Miraculous techniques[n]by a billiards master.[n]Learn about massé.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_2B7#0",
+   "speaker": null,
+   "en": "Quality incense that raises[n]Persona's Ag and Lu by 1.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

@@ -1,0 +1,1622 @@
+{
+ "file": "EN/FIELD/HIT/FHIT_001_001_00.BF",
+ "entries": [
+  {
+   "id": "DUMMY_MSG#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_LOTTER#0",
+   "speaker": "Morgana",
+   "en": "I didn't win big, but I'm still happy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_HACHI_#0",
+   "speaker": "Morgana",
+   "en": "I'm gonna go wherever you go. I don't[n]like waiting around.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_SMOKE_#0",
+   "speaker": "Morgana",
+   "en": "Don't leave without telling anyone,[n]okay? Let's go say bye to everyone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_GOTO_M#0",
+   "speaker": "Morgana",
+   "en": "You don't know anyone who would go past[n]here, do you? Let's go somewhere else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_TICKET#0",
+   "speaker": "Morgana",
+   "en": "Your commuter pass is about to expire, but I[n]guess you won't need to buy a new one...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_STAIRS#0",
+   "speaker": "Morgana",
+   "en": "You don't know anyone who would go past[n]here, do you? Let's go somewhere else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_DEADEN#0",
+   "speaker": "Morgana",
+   "en": "You don't know anyone who would go past[n]here, do you? Let's go somewhere else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_LOTTER_2#0",
+   "speaker": "Morgana",
+   "en": "This isn't the right time to buy a scratch[n]lottery, is it? Let's go see everyone!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_place#0",
+   "speaker": "Morgana",
+   "en": "You don't need to be here right now, do[n]you? Come on, let's head somewhere else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_etc#0",
+   "speaker": "Morgana",
+   "en": "What's wrong? Come on, we should go say[n]goodbye to the others!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103#0",
+   "speaker": null,
+   "en": "There's nothing[n]I need to do here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103#1",
+   "speaker": null,
+   "en": "I should check up on everyone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103to0108_Error_Not#0",
+   "speaker": null,
+   "en": "This is no time for shopping...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103to0108_Error_Not#1",
+   "speaker": null,
+   "en": "I should check up on everyone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103to0108_Error_Not_2#0",
+   "speaker": null,
+   "en": "This is no time for detours...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103to0108_Error_Not_2#1",
+   "speaker": null,
+   "en": "I should check up on everyone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103to0108_Error_Dog#0",
+   "speaker": null,
+   "en": "There's a statue of a loyal dog...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103to0108_Error_Dog#1",
+   "speaker": null,
+   "en": "I should check up on everyone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Yamanote_NotOpen#0",
+   "speaker": "Morgana",
+   "en": "What's up? You don't have any places[n]you wanted to see, do you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Yamanote_Shinjuku#0",
+   "speaker": "Morgana",
+   "en": "Oh, getting on a train? Let's go to Shinjuku[n]while we're at it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Yamanote_Shinjuku#1",
+   "speaker": "Morgana",
+   "en": "You could learn a lot in a colorful place[n]like that. The fare costs [clr 2]190[clr 27] yen, though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Yamanote_SINJUKU#0",
+   "speaker": null,
+   "en": "Let's go to Shinjuku.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Yamanote_SINJUKU#1",
+   "speaker": null,
+   "en": "Never mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Yamanote_AllGo#0",
+   "speaker": "Morgana",
+   "en": "Getting on a train? You can go to Shinjuku,[n]which is adult turf, or Akihabara, the land[n]of geeks.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Yamanote_AllGo#1",
+   "speaker": "Morgana",
+   "en": "You can learn quite a bit in both places.[n]The fare to Shinjuku is [clr 2]190[clr 27] yen, and[n]Akihabara is [clr 2]240[clr 27] yen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YAMANOTE_ALL_SEL#0",
+   "speaker": null,
+   "en": "Let's go to Shinjuku.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YAMANOTE_ALL_SEL#1",
+   "speaker": null,
+   "en": "Let's go to Akihabara.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YAMANOTE_ALL_SEL#2",
+   "speaker": null,
+   "en": "Never mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Yamanote_MoneyNG#0",
+   "speaker": "Morgana",
+   "en": "...Hey, wait a minute. You don't have[n]enough money.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Yamanote_GreetingDay#0",
+   "speaker": "Morgana",
+   "en": "Oh, you're going to go see someone?[n]Where are you going?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_GATE_0103#0",
+   "speaker": null,
+   "en": "Let's go to a different area...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GATE_DEAFULT_MORU#0",
+   "speaker": "Morgana",
+   "en": "Are you going to travel to another area?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GATE_YESNO_moru#0",
+   "speaker": null,
+   "en": "Yes, let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GATE_YESNO_moru#1",
+   "speaker": null,
+   "en": "No, not yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHK_LOTTERY_SHOP_01#0",
+   "speaker": null,
+   "en": "I don't have time to[n]buy lottery tickets...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LotShop_NG_Summer_Ha#0",
+   "speaker": "Lottery Attendant",
+   "en": "You entered the Summer Mammoth lottery,[n]yes? The result will be announced on 8/22[n]or after.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LOTSHOP_START_Shop1#0",
+   "speaker": "Lottery Attendant",
+   "en": "Welcome to our lottery ticket booth![n]What would you like to do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LOTSHOP_START_Shop2#0",
+   "speaker": "Lottery Attendant",
+   "en": "Are you looking to buy a lottery ticket?[n]Students are welcome to purchase one[n]as well!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LotShop_End_OnlyNorm#0",
+   "speaker": "Lottery Attendant",
+   "en": "Thank you for your purchase.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LotShop_End_OnlyNorm#1",
+   "speaker": "Lottery Attendant",
+   "en": "The result will be announced in a week,[n]on [var 0]/[var 1].[n]Please look forward to it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LotShop_End_OnlySumm#0",
+   "speaker": "Lottery Attendant",
+   "en": "Thank you for your purchase.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LotShop_End_OnlySumm#1",
+   "speaker": "Lottery Attendant",
+   "en": "The result will be announced on 8/22![n]Please remember to come by!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LotShop_End_Double#0",
+   "speaker": "Lottery Attendant",
+   "en": "Thank you for your purchase.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LotShop_End_Double#1",
+   "speaker": "Lottery Attendant",
+   "en": "The result for the Summer Mammoth[n]lottery will be announced on 8/22!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LotShop_End_Double#2",
+   "speaker": "Lottery Attendant",
+   "en": "The result for the lottery ticket that you[n]just purchased today will be announced[n]in a week, on [var 0]/[var 1].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LotShop_SummerLotInf#0",
+   "speaker": "Lottery Attendant",
+   "en": "[clr 2]Summer Mammoth lottery[clr 27] tickets are now[n]on sale! Come by and purchase one!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LotShop_End_SummerM#0",
+   "speaker": "Lottery Attendant",
+   "en": "Thank you for entering the Summer[n]Mammoth lottery.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LotShop_End_SummerM#1",
+   "speaker": "Lottery Attendant",
+   "en": "The winning results will be announced[n]on 8/22. We hope you look forward to it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LotShop_ReStart#0",
+   "speaker": "Lottery Attendant",
+   "en": "The result will be announced in a week,[n]on [var 0]/[var 1].[n]Please look forward to it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LOTSHOP_LOT_YET_MORU#0",
+   "speaker": "Morgana",
+   "en": "The result will be announced on [var 0]/[var 1],[n]right? Let's come again later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LOTSHOP_PUBLISH_SHOP#0",
+   "speaker": "Lottery Attendant",
+   "en": "You have a lottery ticket, yes? Allow me[n]to check the result!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LOTSHOP_PUBLISH_SHOP_2#0",
+   "speaker": "Lottery Attendant",
+   "en": "You have a Summer Mammoth lottery[n]ticket, yes? Allow me to check the result!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LOTSHOP_RESULT#0",
+   "speaker": "Lottery Attendant",
+   "en": "Your result in this drawing is...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LOTSHOP_RESULT_01#0",
+   "speaker": "Lottery Attendant",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LOTSHOP_RESULT_01#1",
+   "speaker": "Lottery Attendant",
+   "en": "......It's a miss.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_result_00#0",
+   "speaker": "Lottery Attendant",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_result_00#1",
+   "speaker": "Lottery Attendant",
+   "en": "......!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LOTSHOP_RESULT_02#0",
+   "speaker": "Lottery Attendant",
+   "en": "Congratulations!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LOTSHOP_RESULT_02#1",
+   "speaker": "Lottery Attendant",
+   "en": "You've won 100 yen. Let me get that[n]to you right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LOTSHOP_RESULT_03#0",
+   "speaker": "Lottery Attendant",
+   "en": "Congratulations!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LOTSHOP_RESULT_03#1",
+   "speaker": "Lottery Attendant",
+   "en": "You've won 300 yen. Let me get that[n]to you right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LOTSHOP_RESULT_04#0",
+   "speaker": "Lottery Attendant",
+   "en": "Congratulations!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LOTSHOP_RESULT_04#1",
+   "speaker": "Lottery Attendant",
+   "en": "You've won 2,000 yen. Let me get that[n]to you right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LOTSHOP_RESULT_05#0",
+   "speaker": "Lottery Attendant",
+   "en": "Congratulations!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LOTSHOP_RESULT_05#1",
+   "speaker": "Lottery Attendant",
+   "en": "You've won 5,000 yen. Let me get that[n]to you right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LOTSHOP_RESULT_06#0",
+   "speaker": "Lottery Attendant",
+   "en": "Congratulations!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LOTSHOP_RESULT_06#1",
+   "speaker": "Lottery Attendant",
+   "en": "You've won 10,000 yen. Let me get that[n]to you right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LOTSHOP_RESULT_07#0",
+   "speaker": "Lottery Attendant",
+   "en": "Congratulations!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LOTSHOP_RESULT_07#1",
+   "speaker": "Lottery Attendant",
+   "en": "You've won 100,000 yen. Let me get that[n]to you right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LOTSHOP_RESULT_Summe#0",
+   "speaker": "Lottery Attendant",
+   "en": "Congratulations!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LOTSHOP_RESULT_Summe#1",
+   "speaker": "Lottery Attendant",
+   "en": "You've won 30,000 yen. Let me get that[n]to you right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LOTSHOP_RESULT_Summe_2#0",
+   "speaker": "Lottery Attendant",
+   "en": "Congratulations!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LOTSHOP_RESULT_Summe_2#1",
+   "speaker": "Lottery Attendant",
+   "en": "You've won 50,000 yen. Let me get that[n]to you right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LOTSHOP_RESULT_Summe_3#0",
+   "speaker": "Lottery Attendant",
+   "en": "Congratulations!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LOTSHOP_RESULT_Summe_3#1",
+   "speaker": "Lottery Attendant",
+   "en": "You've won 100,000 yen. Let me get that[n]to you right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Lottery_ATARI_Small#0",
+   "speaker": "Morgana",
+   "en": "You won, but... Well, I guess it's better than[n]nothing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Lottery_ATARI_Big#0",
+   "speaker": "Morgana",
+   "en": "You got pretty lucky! Use that money wisely,[n]all right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Lottery_ATARI_TooBig#0",
+   "speaker": "Morgana",
+   "en": "Whoaaa! You're really lucky! ...This means[n]my dinner tomorrow will be incredible!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Lottery_Normal_Hazur#0",
+   "speaker": "Morgana",
+   "en": "...How disappointing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Lottery_ATARI_Small_#0",
+   "speaker": "Morgana",
+   "en": "Oh, you got it! I can give you advice on[n]what to use it for!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Lottery_ATARI_Big_Su#0",
+   "speaker": "Morgana",
+   "en": "You're really lucky! Now you can afford[n]some sushi for me, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Lottery_ATARI_MostBi#0",
+   "speaker": "Morgana",
+   "en": "Wow, no way! If you won this much...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Lottery_ATARI_MostBi#1",
+   "speaker": "Morgana",
+   "en": "That means I'll get more sushi than I can[n]handle! I can't wait, [fName]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LOTSHOP_NotBuy#0",
+   "speaker": "Lottery Attendant",
+   "en": "Please come again!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LotShopSC_Start#0",
+   "speaker": "Lottery Attendant",
+   "en": "Welcome. Would you like to try some[n]scratchers? They're much faster than[n]the lottery.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LotShop_SC_Start#0",
+   "speaker": "Lottery Attendant",
+   "en": "You'll receive your scratcher results[n]instantly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LotShop_SC_Start02#0",
+   "speaker": "Morgana",
+   "en": "All right, let's scratch away!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Scratch_Info#0",
+   "speaker": "Morgana",
+   "en": "Let's see... Scratchers... There's three spots[n]you can scratch and...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Scratch_Info#1",
+   "speaker": "Morgana",
+   "en": "It seems that you win if any of those spots[n]show a money amount as the prize.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Scratch_Start01#0",
+   "speaker": "Morgana",
+   "en": "I guess you can just go ahead and scratch[n]them all. Which one do you want to scratch[n]first?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Scratch_Start02#0",
+   "speaker": "Morgana",
+   "en": "Which one do you want to scratch next?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Scratch#0",
+   "speaker": null,
+   "en": "The left one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Scratch#1",
+   "speaker": null,
+   "en": "The middle one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Scratch#2",
+   "speaker": null,
+   "en": "Let's go with the right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Scratch_Happy01#0",
+   "speaker": "Morgana",
+   "en": "Huh...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Scratch_Happy01#1",
+   "speaker": "Morgana",
+   "en": "Could it be...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Scratch_Happy_5000#0",
+   "speaker": "Morgana",
+   "en": "You won! You got 5,000 yen!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Scratch_Happy_1000#0",
+   "speaker": "Morgana",
+   "en": "You won! You got 1,000 yen!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Scratch_Happy_200#0",
+   "speaker": "Morgana",
+   "en": "You won... but... It's only 200 yen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Scratch_Error#0",
+   "speaker": "Morgana",
+   "en": "M-Meh... It's a miss.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Scratch_last#0",
+   "speaker": "Morgana",
+   "en": "Just one more left... Now, let's see what[n]you've got!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Scratch_End_atari01#0",
+   "speaker": "Lottery Attendant",
+   "en": "Congratulations! Let me get you your prize[n]money right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Scratch_End_atari02#0",
+   "speaker": "Morgana",
+   "en": "Wow, you really won! Let's come here again[n]some other time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Scratch_End_hazure01#0",
+   "speaker": "Morgana",
+   "en": "Womp womp... They're all misses.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Scratch_End_hazure02#0",
+   "speaker": "Lottery Attendant",
+   "en": "Thank you very much. We look forward to[n]your next visit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LotShop_SC_ReTry#0",
+   "speaker": "Morgana",
+   "en": "You've scratched enough for today, right?[n]Let's come again some other time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HACHI_KOU_MORU#0",
+   "speaker": "Morgana",
+   "en": "The faithful dog that waited for his master to[n]the end, huh? I'm so moved by his loyalty.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HACHI_KOU_MORU#1",
+   "speaker": "Morgana",
+   "en": "You better not abandon me, all right?[n]It's not like me to be the one waiting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HACHI_KOU#0",
+   "speaker": null,
+   "en": "It's the famous statue[n]of that faithful dog...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SMOKE_SPACE_MORU#0",
+   "speaker": "Morgana",
+   "en": "Hey... This is no place for a student like you[n]to loiter around.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SMOKE_SPACE#0",
+   "speaker": null,
+   "en": "This seems to be a smoking[n]area. It's no place for[n]minors to hang around...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MIYASITA_NG_MORU#0",
+   "speaker": "Morgana",
+   "en": "There's nothing you need to do here, right?[n]Let's go somewhere else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MIYASITA_NG#0",
+   "speaker": null,
+   "en": "There's nothing I need to do[n]over here. I should turn back...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TICKET_MACHINE_MORU#0",
+   "speaker": "Morgana",
+   "en": "If you charged your card, then you don't[n]need to buy a ticket, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TICKET_MACHINE#0",
+   "speaker": null,
+   "en": "I don't need to buy[n]a JL Line ticket...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STAIRS_LOT_SHOP_MORU#0",
+   "speaker": "Morgana",
+   "en": "There's nothing you need to do up ahead,[n]right? Let's go somewhere else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STAIRS_LOT_SHOP#0",
+   "speaker": null,
+   "en": "There's nothing up ahead[n]that I need to check out...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEADEND01_MORU#0",
+   "speaker": "Morgana",
+   "en": "There's nothing you need to do up ahead,[n]right? Let's go somewhere else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEADEND01#0",
+   "speaker": null,
+   "en": "There's nothing up ahead[n]that I need to check out...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_NG_CENTER_#0",
+   "speaker": null,
+   "en": "I can see Central Street on the[n]other side of the intersection.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_NG_CENTER_#1",
+   "speaker": null,
+   "en": "For now, I better[n]hurry and get to school...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12710100_NG_CENTER_#0",
+   "speaker": null,
+   "en": "I can see Central Street on the[n]other side of the intersection.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12710100_NG_CENTER_#1",
+   "speaker": null,
+   "en": "For now, I better[n]hurry and get to school...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14410100_NG_CENTER_#0",
+   "speaker": null,
+   "en": "For now, I better[n]hurry and find Ann...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_GOTO_MADAR#0",
+   "speaker": "Ryuji",
+   "en": "You sure it's this way? I don't remember[n]seeing a house.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_GOTO_MADAR_2#0",
+   "speaker": "Ann",
+   "en": "It's supposed to be in a residential area[n]past Central Street.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_GOTO_MADAR_2#1",
+   "speaker": "Ann",
+   "en": "We'll have to walk a bit though. Okay,[n]let's get going!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24420300_NG_CENTER_#0",
+   "speaker": "Ryuji",
+   "en": "Let's head straight there. That journalist's[n]waitin' for us, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_NG_UNDER_0#0",
+   "speaker": null,
+   "en": "I don't have time to go back[n]underground. I better hurry[n]to the [clr 2]Ginza Line[clr 27] for now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12710100_NG_UNDER_0#0",
+   "speaker": null,
+   "en": "I don't have time to go back[n]underground. I better transfer to[n]the [clr 2]Ginza Line[clr 27] and go to school...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_NG_UNDER_C#0",
+   "speaker": "Ann",
+   "en": "Something wrong? Come on, let's head[n]to Central Street.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24420300_NG_UNDER_C#0",
+   "speaker": "Ryuji",
+   "en": "Isn't that the way to your house? C'mon,[n]we gotta get on the JL.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_NG_UNDER_Y#0",
+   "speaker": "Ryuji",
+   "en": "Whoa, where you goin'?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_NG_UNDER_Y#1",
+   "speaker": "Ryuji",
+   "en": "Let's get to Madarame's place already.[n]Isn't it toward Central Street?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24420300_NG_UNDER_Y#0",
+   "speaker": "Ryuji",
+   "en": "We don't gotta get off here. It's right[n]next to the ticket gate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_NG_YAMANOT#0",
+   "speaker": null,
+   "en": "There's the JL Line's ticket gate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_NG_YAMANOT#1",
+   "speaker": null,
+   "en": "If I remember correctly,[n]I was supposed to transfer to[n]the [clr 2]Ginza Line[clr 27] to get to school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12710100_NG_YAMANOT#0",
+   "speaker": null,
+   "en": "There's the JL Line's ticket gate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12710100_NG_YAMANOT#1",
+   "speaker": null,
+   "en": "If I remember correctly,[n]I was supposed to transfer to[n]the [clr 2]Ginza Line[clr 27] to get to school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14410100_NG_YAMANOT#0",
+   "speaker": null,
+   "en": "For now, I better[n]hurry and find Ann...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E18010400_NG_YAMANOT#0",
+   "speaker": "Morgana",
+   "en": "Where are you going? Let's look around[n]a little more for stores that might buy[n]things off us...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E18010400_NG_YAMANOT#1",
+   "speaker": "Morgana",
+   "en": "...Oh yeah! That weapons shop will pay[n]for things people bring in, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E18010400_NG_YAMANOT#2",
+   "speaker": "Morgana",
+   "en": "Let's try that place out!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_NG_YAMANOT#0",
+   "speaker": "Morgana",
+   "en": "Where are you going? Aren't we supposed[n]to be heading to Central Street?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24310100_NG_YAMANOT#0",
+   "speaker": "Morgana",
+   "en": "Hey, where are you going? Weren't you[n]going to try to find more information?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_NG_YAMANOT#0",
+   "speaker": "Morgana",
+   "en": "Where are you going? I thought you're[n]supposed to be exploring Shibuya...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24420300_YAMANOTE_0#0",
+   "speaker": "Ryuji",
+   "en": "Aight, let's head to Shinjuku!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINJUKU#0",
+   "speaker": null,
+   "en": "You can now go to [clr 2]Shinjuku[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MONEY_MORGANA_CHK_00#0",
+   "speaker": "Morgana",
+   "en": "Shinjuku's outside of the area where[n]your commuter pass works, right?[n]You'll have to pay a fare.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MONEY_MORGANA_CHK_01#0",
+   "speaker": "Morgana",
+   "en": "Oh, you don't have enough money?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MONEY_MORGANA_CHK_01#1",
+   "speaker": "Morgana",
+   "en": "I'll give you some from my secret stash[n]for now, but make sure you have some[n]with you next time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E65010100_NG_YAMANOT#0",
+   "speaker": null,
+   "en": "If I want to go to Kichijoji, I'll have to use the Inogami Line...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E18010300_NG_HIROBA_#0",
+   "speaker": "Morgana",
+   "en": "Were there any shops around here that[n]will buy things off us?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E18010300_NG_HIROBA_#1",
+   "speaker": "Morgana",
+   "en": "...Oh yeah! That weapons shop will pay[n]for things people bring in, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E18010300_NG_HIROBA_#2",
+   "speaker": "Morgana",
+   "en": "Let's try that place out!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_NG_HIROBA_#0",
+   "speaker": "Ryuji",
+   "en": "Doesn't this take us back the way we[n]came? I hear where we wanna go is past[n]Central Street.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24420300_NG_HIROBA_#0",
+   "speaker": "Ryuji",
+   "en": "Why're we goin' back the way we came?[n]We gotta turn right once we get to the[n]square.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65010300_NG_HIROBA_#0",
+   "speaker": "Morgana",
+   "en": "Hey, where are you going? The ticket gate[n]for the Inogami Line is at the underground[n]mall.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_CHK_LOTTER#0",
+   "speaker": null,
+   "en": "This place over here[n]sells lottery tickets.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_CHK_LOTTER#1",
+   "speaker": null,
+   "en": "I better hurry to[n]the [clr 2]Ginza Line[clr 27] for now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12710100_CHK_LOTTER#0",
+   "speaker": null,
+   "en": "This place over here[n]sells lottery tickets.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12710100_CHK_LOTTER#1",
+   "speaker": null,
+   "en": "I better hurry to[n]the [clr 2]Ginza Line[clr 27] for now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14410100_CHK_LOTTER#0",
+   "speaker": null,
+   "en": "I better hurry and find Ann...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_CHK_LOTTER#0",
+   "speaker": "Ryuji",
+   "en": "Oh, you thinkin' of buyin' some[n]lottery tickets?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_CHK_LOTTER_2#0",
+   "speaker": "Morgana",
+   "en": "Do you even have time for that? Let's[n]hurry and head over to Madarame's[n]house!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24420300_CHK_LOTTER#0",
+   "speaker": "Ryuji",
+   "en": "Just buy that stuff later. We gotta hurry[n]to Shinjuku.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_LOTTERY_S#0",
+   "speaker": null,
+   "en": "This is no time for detours...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_CHK_HACHI_#0",
+   "speaker": null,
+   "en": "It's that famous statue[n]of that faithful dog.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_CHK_HACHI_#1",
+   "speaker": null,
+   "en": "It looks like people use[n]it as a landmark where[n]they can meet each other...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12710100_CHK_HACHI_#0",
+   "speaker": null,
+   "en": "It's that famous statue[n]of that faithful dog.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12710100_CHK_HACHI_#1",
+   "speaker": null,
+   "en": "It looks like people use[n]it as a landmark where[n]they can meet each other...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14410100_CHK_HACHI_#0",
+   "speaker": null,
+   "en": "I better hurry and find Ann...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_CHK_HACHI_#0",
+   "speaker": "Ryuji",
+   "en": "This statue's not goin' away. You can look[n]at Buchiko any other time. Let's head over[n]to Madarame.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_CHK_HACHI__2#0",
+   "speaker": "Ann",
+   "en": "I think there's more people around here[n]than usual though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_CHK_HACHI__3#0",
+   "speaker": "Ryuji",
+   "en": "Maybe it's 'cause he's got an exhibit goin'[n]on. Madarame's that famous, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24420300_CHK_HACHI_#0",
+   "speaker": "Ryuji",
+   "en": "I knew it'd be crowded. Good thing we[n]decided to meet up on the upper level.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_HACHI_KOU#0",
+   "speaker": null,
+   "en": "I better hurry on my way...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_CHK_SMOKE_#0",
+   "speaker": null,
+   "en": "This seems to be a smoking[n]area. It's no place for[n]minors to hang around...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12710100_CHK_SMOKE_#0",
+   "speaker": null,
+   "en": "This seems to be a smoking[n]area. It's no place for[n]minors to hang around...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14410100_CHK_SMOKE_#0",
+   "speaker": null,
+   "en": "I better hurry and find Ann...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_CHK_SMOKE_#0",
+   "speaker": "Morgana",
+   "en": "Hey, there's nothing you need to do here,[n]right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24420300_CHK_SMOKE_#0",
+   "speaker": "Ryuji",
+   "en": "This place is fulla cigarette stink. Let's just[n]get on the train already.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_SMOKE_SPA#0",
+   "speaker": null,
+   "en": "There's nothing[n]I need to do here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_CHK_STREET#0",
+   "speaker": null,
+   "en": "It looks like this street stall[n]sells magazines and newspapers...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12710100_CHK_STREET#0",
+   "speaker": null,
+   "en": "It looks like this street stall[n]sells magazines and newspapers...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14410100_CHK_STREET#0",
+   "speaker": null,
+   "en": "I better hurry and find Ann...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_CHK_STREET#0",
+   "speaker": "Ryuji",
+   "en": "Hm? You lookin' at manga?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_CHK_STREET#1",
+   "speaker": "Ryuji",
+   "en": "I already read the stuff that came out[n]this week. Can we head to Madarame's[n]place already?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24420300_CHK_STREET#0",
+   "speaker": "Ryuji",
+   "en": "There's nothin' we need here. Let's get to[n]Shinjuku already.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_STREET_SH#0",
+   "speaker": null,
+   "en": "This is no time for detours...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_CHK_GUIDE_#0",
+   "speaker": null,
+   "en": "There's a guide map of the area.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_CHK_GUIDE_#1",
+   "speaker": null,
+   "en": "The platform for the Ginza Line[n]is [clr 2]inside the Teikyu Building[n]that's right next to here[clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12710100_CHK_GUIDE_#0",
+   "speaker": null,
+   "en": "There's a guide map of the area.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12710100_CHK_GUIDE_#1",
+   "speaker": null,
+   "en": "The platform for the Ginza Line[n]is [clr 2]inside the Teikyu Building[n]that's right next to here[clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14410100_CHK_GUIDE_#0",
+   "speaker": null,
+   "en": "I better hurry and find Ann...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_CHK_GUIDE_#0",
+   "speaker": "Ryuji",
+   "en": "You lost? I know he's famous and all, but[n]I don't think they're gonna put his house[n]on that map.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_CHK_GUIDE_#1",
+   "speaker": "Ryuji",
+   "en": "Let's start headin' for Central Street[n]already.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24420300_CHK_GUIDE_#0",
+   "speaker": "Ryuji",
+   "en": "What's wrong? You're gonna see the ticket[n]gates right when we enter that area.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_GUIDE_BOA#0",
+   "speaker": null,
+   "en": "I better hurry on my way...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_CHK_CM_BOA#0",
+   "speaker": null,
+   "en": "It's a huge billboard.[n]I can't tell what the entire[n]picture is if I stand too close...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12710100_CHK_CM_BOA#0",
+   "speaker": null,
+   "en": "It's a huge billboard.[n]I can't tell what the entire[n]picture is if I stand too close...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14410100_CHK_CM_BOA#0",
+   "speaker": null,
+   "en": "I better hurry and find Ann...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_CHK_CM_BOA#0",
+   "speaker": "Ann",
+   "en": "Isn't it easier to look at it from a distance[n]if it's this huge?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_CHK_CM_BOA#1",
+   "speaker": "Ann",
+   "en": "Okay, we should get going to Madarame's[n]house.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24420300_CHK_CM_BOA#0",
+   "speaker": "Ryuji",
+   "en": "Whaddya lookin' at? That ain't anything[n]special.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_CM_BOARD_#0",
+   "speaker": null,
+   "en": "I don't have time[n]to leisurely gaze at[n]an ad right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_CHK_TICKET#0",
+   "speaker": null,
+   "en": "It's a row of JL Line ticket[n]machines. I need to transfer to[n]the [clr 2]Ginza Line[clr 27] to get to school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12710100_CHK_TICKET#0",
+   "speaker": null,
+   "en": "It's a row of JL Line ticket[n]machines. I need to transfer to[n]the [clr 2]Ginza Line[clr 27] to get to school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14410100_CHK_TICKET#0",
+   "speaker": null,
+   "en": "I better hurry and find Ann...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_CHK_TICKET#0",
+   "speaker": "Ann",
+   "en": "What's wrong? We have to walk past this[n]point to get where we're going.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24420300_CHK_TICKET#0",
+   "speaker": "Ryuji",
+   "en": "Do you really need to charge up?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_TICKET_MA#0",
+   "speaker": null,
+   "en": "It's a row of JL Line[n]ticket machines. I don't[n]need to use them for now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_CHK_STAIRS#0",
+   "speaker": null,
+   "en": "These stairs lead underground.[n]It doesn't seem like I'll find[n]the [clr 2]Ginza Line[clr 27] going this way...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12710100_CHK_STAIRS#0",
+   "speaker": null,
+   "en": "There's nothing I need[n]to do up ahead. I better[n]hurry and head toward school...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14410100_CHK_STAIRS#0",
+   "speaker": null,
+   "en": "I better hurry and find Ann...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_CHK_STAIRS#0",
+   "speaker": "Ann",
+   "en": "I think we're supposed to head toward[n]Madarame's house from Central Street.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24420300_CHK_STAIRS#0",
+   "speaker": "Ryuji",
+   "en": "That's the way to get to the subways.[n]C'mon, the JL is this way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_STAIRS_LO#0",
+   "speaker": null,
+   "en": "There's nothing that[n]I need to do up ahead...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_CHK_DEADEN#0",
+   "speaker": null,
+   "en": "It doesn't seem like I'll find[n]the [clr 2]Ginza Line[clr 27] going this way...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12710100_CHK_DEADEN#0",
+   "speaker": null,
+   "en": "There's nothing I need[n]to do up ahead. I better[n]hurry and head toward school...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14410100_CHK_DEADEN#0",
+   "speaker": null,
+   "en": "I better hurry and find Ann...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_CHK_DEADEN#0",
+   "speaker": "Ryuji",
+   "en": "Isn't this the long way around? We gotta[n]go toward Central Street.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24420300_CHK_DEADEN#0",
+   "speaker": "Ryuji",
+   "en": "Hey, you're goin' the wrong way.[n]JL's on the other side.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_DEADEND01#0",
+   "speaker": null,
+   "en": "There's nothing that[n]I need to do up ahead...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_GO_YAMANOTE#0",
+   "speaker": null,
+   "en": "I'm supposed to use[n]the [clr 6]Yamanote Line[clr 0]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_GO_INOKASIRA#0",
+   "speaker": null,
+   "en": "I'm supposed to use[n]the [clr 6]Inokashira Line[clr 0]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_GO_GINZALINE#0",
+   "speaker": null,
+   "en": "I'm supposed to[n]use the [clr 6]Ginza Line[clr 0]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_ACCESS_LOT#0",
+   "speaker": null,
+   "en": "I don't have time to buy[n]lottery tickets...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_ACCESS_HATIKO#0",
+   "speaker": null,
+   "en": "It's that famous statue of that[n]faithful dog.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_ACCESS_SMOKE#0",
+   "speaker": null,
+   "en": "There's so much smoke in this[n]smoking area...",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

@@ -1,0 +1,523 @@
+{
+ "file": "EN/FIELD/BOX/FBOX161_002.BF",
+ "entries": [
+  {
+   "id": "DUMMY_MSG#0",
+   "speaker": null,
+   "en": "…",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RARE_TBOX_YES_NO#0",
+   "speaker": null,
+   "en": "Open the chest",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RARE_TBOX_YES_NO#1",
+   "speaker": null,
+   "en": "Ignore it for now",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RARE_TBOX_MSG_M#0",
+   "speaker": "Morgana",
+   "en": "Huh, it's locked...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RARE_TBOX_MSG_NO_KEY_M#0",
+   "speaker": "Morgana",
+   "en": "It's too bad we don't have[n]a [f 2 5 3 9999 0] right now.[n]Let's make some later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RARE_TBOX_MSG_KEY_CONF_M#0",
+   "speaker": "Morgana",
+   "en": "It needs a [f 2 5 3 9999 0]...[n]We have [var 1] of those. Want to[n]open it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RARE_TBOX_MSG_F#0",
+   "speaker": "Futaba",
+   "en": "Eh? This treasure chest has a nice,[n]hefty lock on it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RARE_TBOX_MSG_NO_KEY_F#0",
+   "speaker": "Futaba",
+   "en": "But your [f 2 5 3 9999 0] count's[n]down to zero. Maybe next time[n]remember to bring some in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RARE_TBOX_MSG_CONF_F#0",
+   "speaker": "Futaba",
+   "en": "Looks like you actually have a[n][f 2 5 3 9999 0]! [var 1], to be exact.[n]Let's open this baby up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RARE_TBOX_MSG_NO_KEY_1ST#0",
+   "speaker": "Morgana",
+   "en": "In order to open these treasure chests,[n]you need a special tool called a[n][f 2 5 3 9999 0].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RARE_TBOX_MSG_NO_KEY_1ST_2#0",
+   "speaker": "Futaba",
+   "en": "A thief who can't make a [f 2 5 3 9999 0][n]by himself? That's surprising.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RARE_TBOX_MSG_NO_KEY_1ST_2#1",
+   "speaker": "Futaba",
+   "en": "Have Morgana teach you how[n]once you get home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RARE_TBOX_MSG_NO_KEY_2ND#0",
+   "speaker": "Morgana",
+   "en": "I've mentioned this before, but I[n]wouldn't mind teaching you how to[n]make a [f 2 5 3 9999 0] sometime.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RARE_TBOX_MSG_NO_KEY_2ND#1",
+   "speaker": "Morgana",
+   "en": "Well, I guess that can wait until[n]we get home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RARE_TBOX_MSG_NO_KEY_2ND_2#0",
+   "speaker": "Futaba",
+   "en": "Wait, you still don't know how to[n]make a [f 2 5 3 9999 0]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RARE_TBOX_MSG_NO_KEY_2ND_2#1",
+   "speaker": "Futaba",
+   "en": "Have Morgana teach you how[n]once you get home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RARE_TBOX_MSG_NO_KEY_ADD#0",
+   "speaker": "Morgana",
+   "en": "...Though I guess your desk is probably[n]too damn messy for that right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RARE_TBOX_MSG_NO_KEY_ADD_2#0",
+   "speaker": "Futaba",
+   "en": "...Although that desk in your room[n]might be too messy for you to[n]make anything on right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TBOX_MSG_DIRTYMAIL1ST_M#0",
+   "speaker": "Morgana",
+   "en": "Hey... That stuff is disgusting.[n]You should get it cleaned somewhere...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TBOX_MSG_DIRTYMAIL1ST_M#1",
+   "speaker": "Morgana",
+   "en": "Come to think of it, I remember seeing[n]a Shadow with one... Maybe if we[n]negotiate properly, we can get one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TBOX_MSG_DIRTYMAIL1ST_M2#0",
+   "speaker": "Morgana",
+   "en": "Wait, wasn't there a coin laundry[n]near Leblanc?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TBOX_MSG_DIRTYMAIL1ST_F#0",
+   "speaker": "Futaba",
+   "en": "Ughhh... That gear is gross. You should[n]wash it somewhere!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TBOX_MSG_DIRTYMAIL1ST_F#1",
+   "speaker": "Futaba",
+   "en": "IIRC, there's a coin laundry near Leblanc.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TBOX_MSG_SKILL_ACCESSORY#0",
+   "speaker": "Morgana",
+   "en": "This accessory seems to have some[n]special power... I bet it'll be useful[n]somehow!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TBOX_MSG_SKILL_ACCESSORY_2#0",
+   "speaker": "Akechi",
+   "en": "I can sense some sort of special power[n]from this... It may be wise to hold onto it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RARE_TBOX_MSG_NO_KEY_SER#0",
+   "speaker": "Morgana",
+   "en": "Well, I guess this is your first time.[n]Here, you can have this one. It's my[n]prized possession.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RARE_TBOX_MSG_NO_KEY_SER#1",
+   "speaker": "Morgana",
+   "en": "But next time you'll be responsible[n]for this, all right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RARE_TBOX_NO_KEY_SERVICE#0",
+   "speaker": null,
+   "en": "What do you mean?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RARE_TBOX_NO_KEY_SERVICE#1",
+   "speaker": null,
+   "en": "I want more!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RARE_TBOX_MSG_NO_KEY_SER_2#0",
+   "speaker": "Morgana",
+   "en": "You'll make your own. I can teach[n]you how back in your room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RARE_TBOX_MSG_NO_KEY_SER_3#0",
+   "speaker": "Morgana",
+   "en": "Maybe, but a thief like you should be[n]able to make his own tools. I can teach[n]you how in your room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RARE_TBOX_MSG_AQKEYPICK_#0",
+   "speaker": "Morgana",
+   "en": "You have the [f 2 5 3 9999 0] with you,[n]right? Let's take this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RARE_TBOX_MSG_AQKEYPICK__2#0",
+   "speaker": "Futaba",
+   "en": "That's the legendary infiltration tool,[n]the [f 2 5 3 9999 0]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RARE_TBOX_MSG_AQKEYPICK__2#1",
+   "speaker": "Futaba",
+   "en": "Wanna use it to open this!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WEAPON_RYUJI_MSG#0",
+   "speaker": "Ryuji",
+   "en": "Ooh, that looks stronger than what[n]I got now! Lemme use it already!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WEAPON_ANNE_MSG#0",
+   "speaker": "Ann",
+   "en": "This looks more promising than what[n]I'm using now... Hey, can I give it a try?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WEAPON_MORGANA_MSG#0",
+   "speaker": "Morgana",
+   "en": "Oh, this beauty looks like it's just my[n]size! This is mine now, all right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WEAPON_YUSUKE_MSG#0",
+   "speaker": "Yusuke",
+   "en": "We got our hands on quite the weapon...[n]I'd love to get a feel for it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WEAPON_MAKOTO_MSG#0",
+   "speaker": "Makoto",
+   "en": "Oh, that looks like it performs better[n]than what I have now—would it be[n]all right if I tried using it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WEAPON_HARU_MSG#0",
+   "speaker": "Haru",
+   "en": "Ooooh, a new axe? I'd like to try it[n]right away!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WEAPON_AKECHI_MSG#0",
+   "speaker": "Akechi",
+   "en": "Ah, that weapon looks advantageous...[n]Would you mind if I used it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WEAPON_KUROAKECHI_MSG#0",
+   "speaker": "Akechi",
+   "en": "That appears to be a superior weapon[n]to my current one—I'm going to use it[n]myself, all right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WEAPON_KASUMI_MSG#0",
+   "speaker": "[sumi 10 0]",
+   "en": "This looks more powerful than what I'm[n]currently using... Would you mind if[n]I try it out?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WEAPON_EQUIP_YES_NO#0",
+   "speaker": null,
+   "en": "Go ahead.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WEAPON_EQUIP_YES_NO#1",
+   "speaker": null,
+   "en": "Not right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WEAPON_RYUJI_MSG_YES#0",
+   "speaker": "Ryuji",
+   "en": "Alriiiight! Time to whoop some ass!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WEAPON_RYUJI_MSG_NO#0",
+   "speaker": "Ryuji",
+   "en": "Tch! Fiiiine...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WEAPON_ANNE_MSG_YES#0",
+   "speaker": "Ann",
+   "en": "Thanks! Okay, let's see...[n]Yup, looking good!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WEAPON_ANNE_MSG_NO#0",
+   "speaker": "Ann",
+   "en": "Sure, no prob.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WEAPON_MORGANA_MSG_YES#0",
+   "speaker": "Morgana",
+   "en": "*chuckle* Now I'm even more of a threat!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WEAPON_MORGANA_MSG_NO#0",
+   "speaker": "Morgana",
+   "en": "Oh, okay... Well, I'm already a force[n]to be reckoned with!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WEAPON_YUSUKE_MSG_YES#0",
+   "speaker": "Yusuke",
+   "en": "...Hm, this fits me perfectly![n]What an excellent find.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WEAPON_YUSUKE_MSG_NO#0",
+   "speaker": "Yusuke",
+   "en": "Unfortunate... Perhaps at a later time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WEAPON_MAKOTO_MSG_YES#0",
+   "speaker": "Makoto",
+   "en": "Thank you... Ah, this is great.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WEAPON_MAKOTO_MSG_NO#0",
+   "speaker": "Makoto",
+   "en": "Understood.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WEAPON_HARU_MSG_YES#0",
+   "speaker": "Haru",
+   "en": "Yay! I'm going to work harder than ever!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WEAPON_HARU_MSG_NO#0",
+   "speaker": "Haru",
+   "en": "Oh, okay...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WEAPON_AKECHI_MSG_YES#0",
+   "speaker": "Akechi",
+   "en": "Thanks. I promise I'll contribute[n]even more now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WEAPON_KUROAKECHI_MSG_YE#0",
+   "speaker": "Akechi",
+   "en": "Ah, not too shabby.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WEAPON_AKECHI_MSG_NO#0",
+   "speaker": "Akechi",
+   "en": "Fine, you're the boss here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WEAPON_KUROAKECHI_MSG_NO#0",
+   "speaker": "Akechi",
+   "en": "Ugh, if you say so... Let's hope you're[n]not screwing up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WEAPON_KASUMI_MSG_YES#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Thank you so much! This is sure to[n]be of assistance!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WEAPON_KASUMI_MSG_NO#0",
+   "speaker": "[sumi 10 0]",
+   "en": "All right, understood.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HERO_WEAPON_RYUJI_MSG#0",
+   "speaker": "Ryuji",
+   "en": "Oh! That thing looks pretty good, Joker.[n]Why dontcha give it a try?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HERO_WEAPON_ANNE_MSG#0",
+   "speaker": "Ann",
+   "en": "Hey, Joker! Why don't you swap your[n]current one out with this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HERO_WEAPON_MORGANA_MSG#0",
+   "speaker": "Morgana",
+   "en": "What a score, Joker! Why not give it[n]a try now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HERO_WEAPON_YUSUKE_MSG#0",
+   "speaker": "Yusuke",
+   "en": "This looks like it'll suit you well, Joker—[n]why not try it out?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HERO_WEAPON_MAKOTO_MSG#0",
+   "speaker": "Makoto",
+   "en": "That looks like something you can handle,[n]Joker—it looks superior to your current[n]one, too. Why not swap them?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HERO_WEAPON_FUTABA_MSG#0",
+   "speaker": "Futaba",
+   "en": "New weapon alerrrrrt! Joker,[n]you wanna equip it!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HERO_WEAPON_HARU_MSG#0",
+   "speaker": "Haru",
+   "en": "Wow, that's a pretty crazy weapon![n]I think it'll be perfect for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HERO_WEAPON_AKECHI_MSG#0",
+   "speaker": "Akechi",
+   "en": "Ah, that's quite a powerful-looking[n]weapon. Give it a try, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HERO_WEAPON_KUROAKECHI_M#0",
+   "speaker": "Akechi",
+   "en": "Perhaps that's more useful than your[n]current equipment? Swap them out,[n]Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HERO_WEAPON_EQUIP_YES_NO#0",
+   "speaker": null,
+   "en": "Time to change it up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HERO_WEAPON_EQUIP_YES_NO#1",
+   "speaker": null,
+   "en": "Not right now.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

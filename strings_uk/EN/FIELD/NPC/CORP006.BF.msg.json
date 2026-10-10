@@ -1,0 +1,2917 @@
+{
+ "file": "EN/FIELD/NPC/CORP006.BF",
+ "entries": [
+  {
+   "id": "MSG_ANNE_D01_BEGIN_01#0",
+   "speaker": "Ann",
+   "en": "Shiho... I'm going to avenge you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_D01_BEGIN_01#1",
+   "speaker": "Ann",
+   "en": "Hey, we're heading in today, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_D01_BEGIN_02#0",
+   "speaker": "Ann",
+   "en": "I never thought it would end up[n]like this... I'll never forgive myself[n]for obeying him...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_D01_BEGIN_02#1",
+   "speaker": "Ann",
+   "en": "Hey, we're heading in today, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_D01_BEGIN_03#0",
+   "speaker": "Ann",
+   "en": "This is so unfair. Shiho went through[n]hell, and that bastard's totally getting[n]away with it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_D01_BEGIN_03#1",
+   "speaker": "Ann",
+   "en": "Hey, we're heading in today, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_D01_BEGIN_04#0",
+   "speaker": "Ann",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_D01_BEGIN_04#1",
+   "speaker": "Ann",
+   "en": "Oh, sorry. I was just thinking about[n]a few things...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_D01_BEGIN_04#2",
+   "speaker": "Ann",
+   "en": "Hey, we're heading in today, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_D01_BEGIN_05#0",
+   "speaker": "Ann",
+   "en": "I'll never forgive that bastard. I'm[n]gonna crush him...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_D01_BEGIN_05#1",
+   "speaker": "Ann",
+   "en": "Hey, we're heading in today, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D01_30_00#0",
+   "speaker": "Ann",
+   "en": "I never thought it would end up[n]like this... I'll never forgive myself[n]for obeying him...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D01_30_00#1",
+   "speaker": "Ann",
+   "en": "Hey, we're heading in today, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D01_40_00#0",
+   "speaker": "Ann",
+   "en": "We need to make that bastard pay,[n]for Shiho...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D01_40_00#1",
+   "speaker": "Ann",
+   "en": "Hey, we're heading into the Palace[n]today, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D01_50_00#0",
+   "speaker": "Ann",
+   "en": "I'll never let him get away with the[n]horrible things he did to Shiho...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D01_50_00#1",
+   "speaker": "Ann",
+   "en": "Hey, we're going to send the calling[n]card soon, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_ACTION_D01_00_00#0",
+   "speaker": null,
+   "en": "Let's do it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_ACTION_D01_00_00#1",
+   "speaker": null,
+   "en": "I haven't decided yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D01_00_00#0",
+   "speaker": "Ann",
+   "en": "Okay. See you on the roof.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D01_31_00#0",
+   "speaker": "Ann",
+   "en": "Do you need to get ready first?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D01_31_00#1",
+   "speaker": "Ann",
+   "en": "I want to make him pay as soon as[n]possible now that we know the real[n]story behind his actions...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D01_41_00#0",
+   "speaker": "Ann",
+   "en": "Hey, aren't you gonna get expelled[n]if we don't do something? We need[n]to hurry this up, [fName].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_ACTION_D01_32_01#0",
+   "speaker": null,
+   "en": "Patience is a virtue.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_ACTION_D01_32_01#1",
+   "speaker": null,
+   "en": "I want to learn more about you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D01_33_01#0",
+   "speaker": "Ann",
+   "en": "That's true... *sigh* Fine, just let us[n]know when you're ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D01_33_00#0",
+   "speaker": "Ann",
+   "en": "I appreciate the offer... but I'm not[n]really in the mood to be out having[n]fun right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D01_33_00#1",
+   "speaker": "Ann",
+   "en": "Sorry, but I'd rather focus on the[n]Kamoshida situation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D01_43_00#0",
+   "speaker": "Ann",
+   "en": "I appreciate the offer... but I'm not[n]really in the mood to be out having[n]fun right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D01_43_00#1",
+   "speaker": "Ann",
+   "en": "...Not that you have time to waste[n]anyway. The board meeting's[n]coming up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D01_43_00#2",
+   "speaker": "Ann",
+   "en": "Come on, we should head to the[n]Palace. I... I need to get revenge,[n]for Shiho.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D01_80_00#0",
+   "speaker": "Morgana",
+   "en": "Lady Ann seems stressed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D01_80_00#1",
+   "speaker": "Morgana",
+   "en": "I guess it's not much of a surprise.[n]Kamoshida's the only thing she can[n]afford to think about right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D01_80_00#2",
+   "speaker": "Morgana",
+   "en": "If you want Lady Ann to rely on you,[n]you'll need to be kinder. Like me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D01_51_00#0",
+   "speaker": "Ann",
+   "en": "I want to change his heart as soon[n]as possible.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D01_51_00#1",
+   "speaker": "Ann",
+   "en": "Let us know when you're ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_NG_00#0",
+   "speaker": "Ann",
+   "en": "I'm so nervous...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_NG_00#1",
+   "speaker": "Ann",
+   "en": "Kamoshida's locked away in his house...[n]and Shiho's condition finally seems to[n]be stable...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_NG_00#2",
+   "speaker": "Ann",
+   "en": "But... what's going to happen to us?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_COOP_NG_01#0",
+   "speaker": null,
+   "en": "Let's wait and see.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_COOP_NG_01#1",
+   "speaker": null,
+   "en": "Let's take our minds off it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_NG_02#0",
+   "speaker": "Ann",
+   "en": "I guess that's all we can really do, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_NG_02#1",
+   "speaker": "Ann",
+   "en": "Urgh! I can't stop worrying about the[n]board meeting...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_NG_03#0",
+   "speaker": "Ann",
+   "en": "Hm... I guess that would be good...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_NG_03#1",
+   "speaker": "Ann",
+   "en": "I'm not really in the mood though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_NG_03#2",
+   "speaker": "Ann",
+   "en": "Urgh! I can't stop worrying about the[n]board meeting...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_NG_04#0",
+   "speaker": "Morgana",
+   "en": "Lady Ann seems stressed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_NG_04#1",
+   "speaker": "Morgana",
+   "en": "She probably won't be able to relax[n]until we know what's happening with[n]the board meeting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C06_COOP_NG_05#0",
+   "speaker": null,
+   "en": "Ann seems stressed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C06_COOP_NG_05#1",
+   "speaker": null,
+   "en": "I might be able to help her if my[n][stIcon 4][clr 26][stLabel 4][clr 27] were [clr 26][stLvLabel 4 2][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C06_COOP_NG_05#2",
+   "speaker": null,
+   "en": "I should try talking to her again[n][clr 2]after the board meeting[clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D02_20_00#0",
+   "speaker": "Ann",
+   "en": "It felt like someone was watching[n]me this morning...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D00_10_00#0",
+   "speaker": "Ann",
+   "en": "Oh, [fName]! Are you here[n]to shop today too?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D00_20_00#0",
+   "speaker": "Ann",
+   "en": "Ugh, exams are almost here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D00_20_00#1",
+   "speaker": "Ann",
+   "en": "This is bad... Have you studied[n]at all, [fName]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D00_20_00#2",
+   "speaker": "Ann",
+   "en": "Oh, I know! Maybe we could[n]study together! I'd be glad to[n]help with your English.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_ACTION_D00_20_01#0",
+   "speaker": null,
+   "en": "That sounds good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_ACTION_D00_20_01#1",
+   "speaker": null,
+   "en": "Let me think about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D00_20_02#0",
+   "speaker": "Ann",
+   "en": "Great. Then let's head over to[n]the diner.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D00_21_02#0",
+   "speaker": "Ann",
+   "en": "Someone's confident.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D00_21_02#1",
+   "speaker": "Ann",
+   "en": "Well, you can come talk to me[n]again if you wanna study.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D00_30_00#0",
+   "speaker": "Ann",
+   "en": "Oh, [fName]. What're you[n]thinking of doing today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_ACTION_D00_31_00#0",
+   "speaker": null,
+   "en": "Let's hang out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_ACTION_D00_31_00#1",
+   "speaker": null,
+   "en": "Let's meet up with the others.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_ACTION_D00_31_00#2",
+   "speaker": null,
+   "en": "I haven't decided yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D00_31_10#0",
+   "speaker": "Ann",
+   "en": "Are you sure about that? We still[n]haven't found the Treasure...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_ACTION_D00_31_10#0",
+   "speaker": null,
+   "en": "We have plenty of time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_ACTION_D00_31_10#1",
+   "speaker": null,
+   "en": "Let me think it over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D00_31_11#0",
+   "speaker": "Ann",
+   "en": "I guess there's no point in worrying[n]if you're so sure...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D00_31_12#0",
+   "speaker": "Ann",
+   "en": "Okay... Let me know what you end[n]up deciding on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D00_40_00#0",
+   "speaker": "Ann",
+   "en": "Do you remember our deadline?[n]We're heading in today, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D00_50_00#0",
+   "speaker": "Ann",
+   "en": "We found the Treasure, so it's time[n]to send the calling card, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_ACTION_D00_99_00#0",
+   "speaker": null,
+   "en": "Let's do it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_ACTION_D00_99_00#1",
+   "speaker": null,
+   "en": "I haven't decided yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D00_99_00#0",
+   "speaker": "Ann",
+   "en": "Gotcha. See you at the usual spot.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D00_31_00#0",
+   "speaker": "Ann",
+   "en": "At the very least, we should focus[n]on finding the Treasure, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D00_31_00#1",
+   "speaker": "Ann",
+   "en": "Let us know when you're ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D00_41_00#0",
+   "speaker": "Ann",
+   "en": "Shouldn't we be finding the[n]Treasure soon? We're cutting[n]things super close here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D00_41_00#1",
+   "speaker": "Ann",
+   "en": "Let us know when you're ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D00_51_00#0",
+   "speaker": "Ann",
+   "en": "Is there a reason you're making[n]us wait? Let's get ready and go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D00_60_00#0",
+   "speaker": "Ann",
+   "en": "I guess now we wait. The suspense[n]is seriously killing me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D06_50_00#0",
+   "speaker": "Ann",
+   "en": "All we have to do now is send the[n]calling card. I guess we can just[n]lay low until then...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D07_10_00#0",
+   "speaker": "Ann",
+   "en": "Things aren't the same without[n]you around! It feels weird...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D07_20_00#0",
+   "speaker": "Ann",
+   "en": "Ugh, exams are almost here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D07_20_00#1",
+   "speaker": "Ann",
+   "en": "This is bad... Have you studied[n]at all, [fName]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D07_20_00#2",
+   "speaker": "Ann",
+   "en": "Oh, I know! Maybe we could[n]study together! I'd be glad to[n]help with your English.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_ACTION_D07_20_01#0",
+   "speaker": null,
+   "en": "That sounds good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_ACTION_D07_20_01#1",
+   "speaker": null,
+   "en": "Let me think about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D07_20_02#0",
+   "speaker": "Ann",
+   "en": "Great. Then let's head over to[n]the diner.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D07_21_02#0",
+   "speaker": "Ann",
+   "en": "Someone's confident.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D07_21_02#1",
+   "speaker": "Ann",
+   "en": "Well, you can come talk to me[n]again if you wanna study.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D07_30_00#0",
+   "speaker": "Ann",
+   "en": "That man is the root of all the[n]evil we've been fighting against...[n]We need to steal his heart...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D07_30_00#1",
+   "speaker": "Ann",
+   "en": "So, what's the plan for today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_ACTION_D07_31_00#0",
+   "speaker": null,
+   "en": "Let's hang out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_ACTION_D07_31_00#1",
+   "speaker": null,
+   "en": "Let's meet up at the hideout.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_ACTION_D07_31_00#2",
+   "speaker": null,
+   "en": "I haven't decided yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D07_31_10#0",
+   "speaker": "Ann",
+   "en": "Ummm, are you sure that's gonna[n]be okay? Shouldn't we figure out where[n]the Treasure is first?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_ACTION_D07_31_10#0",
+   "speaker": null,
+   "en": "We have plenty of time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_ACTION_D07_31_10#1",
+   "speaker": null,
+   "en": "Let me think it over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D07_31_11#0",
+   "speaker": "Ann",
+   "en": "This can't be happening...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D07_31_11#1",
+   "speaker": "Ann",
+   "en": "Eh, I guess there's not much point[n]in worrying if you're so sure...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D07_31_12#0",
+   "speaker": "Ann",
+   "en": "Tell me when you've figured things[n]out. We need to put a stop to Shido[n]and his plans, no matter what.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D07_40_00#0",
+   "speaker": "Ann",
+   "en": "Election day's almost here. We're[n]heading into the Palace today, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D07_50_00#0",
+   "speaker": "Ann",
+   "en": "We need to stop Shido... We're sending[n]out the calling card today, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_ACTION_D07_99_00#0",
+   "speaker": null,
+   "en": "Let's do it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_ACTION_D07_99_00#1",
+   "speaker": null,
+   "en": "I haven't decided yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D07_99_00#0",
+   "speaker": "Ann",
+   "en": "Gotcha. See you at the usual spot.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D07_31_00#0",
+   "speaker": "Ann",
+   "en": "At the very least, we should focus on[n]finding the Treasure, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D07_31_00#1",
+   "speaker": "Ann",
+   "en": "Let us know when you're ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D07_41_00#0",
+   "speaker": "Ann",
+   "en": "Don't you remember our deadline?[n]There's no time to hesitate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D07_41_00#1",
+   "speaker": "Ann",
+   "en": "We need to find the Treasure, fast...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D07_51_00#0",
+   "speaker": "Ann",
+   "en": "We need to stop Shido before it's too[n]late... You know that, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_ACTION_D07_51_00#1",
+   "speaker": "Ann",
+   "en": "Just... let us know when you're ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D07_60_00#0",
+   "speaker": "Ann",
+   "en": "We've done all we can. The only[n]thing left to do now is wait...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D10_50_00#0",
+   "speaker": "Ann",
+   "en": "All we have to do now is send the[n]calling card. I guess we can just[n]lay low until then...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D10_00_00#0",
+   "speaker": "Ann",
+   "en": "Oh, [lName]! Did you want[n]something?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D10_10_00#0",
+   "speaker": "Ann",
+   "en": "Dr. Maruki's the ruler of the Palace.[n]I don't know what's right or wrong[n]anymore...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D10_10_00#1",
+   "speaker": "Ann",
+   "en": "But I do know that Dr. Maruki's idea[n]of happiness doesn't match mine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D10_10_00#2",
+   "speaker": "Ann",
+   "en": "I want to tell him that to his face. So[n]what do you say we go to the Palace[n]today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_ACTION_D10_10_00#0",
+   "speaker": null,
+   "en": "Let's take a break first.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_ACTION_D10_10_00#1",
+   "speaker": null,
+   "en": "Let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_ACTION_D10_10_00#2",
+   "speaker": null,
+   "en": "I haven't decided.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D10_10_01#0",
+   "speaker": "Ann",
+   "en": "What!? I was so ready to go...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D10_10_01#1",
+   "speaker": "Ann",
+   "en": "I mean, you get what's at stake here,[n]right? This is no time to take a break.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_ACTION_D10_10_01#0",
+   "speaker": null,
+   "en": "We have plenty of time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_ACTION_D10_10_01#1",
+   "speaker": null,
+   "en": "Let me think it over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D10_10_02#0",
+   "speaker": "Ann",
+   "en": "Hmm... Well, I guess we still have a[n]while until the deadline... Maybe I'm[n]being too paranoid.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D10_10_02#1",
+   "speaker": "Ann",
+   "en": "We should take a break once in a while!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D10_10_03#0",
+   "speaker": "Ann",
+   "en": "Let me know when you're ready. We[n]have to stop Dr. Maruki!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D10_10_04#0",
+   "speaker": "Ann",
+   "en": "Okay! See you at the usual spot. I'll let[n]the others know, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D10_20_00#0",
+   "speaker": "Ann",
+   "en": "Aren't we getting close to Dr. Maruki's[n]deadline?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D10_20_00#1",
+   "speaker": "Ann",
+   "en": "We have to secure our infiltration route[n]before it's too late!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D10_20_00#2",
+   "speaker": "Ann",
+   "en": "Let's go to the Palace today, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_ACTION_D10_20_01#0",
+   "speaker": null,
+   "en": "Of course.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_ACTION_D10_20_01#1",
+   "speaker": null,
+   "en": "I'm not sure yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D10_20_02#0",
+   "speaker": "Ann",
+   "en": "That's the spirit! I'm gonna tell the[n]others to meet up, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D10_10_05#0",
+   "speaker": "Ann",
+   "en": "At the very least, we should focus on[n]finding the Treasure, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D10_10_05#1",
+   "speaker": "Ann",
+   "en": "This actualization sounds like trouble...[n]Let us know when you're ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D10_20_03#0",
+   "speaker": "Ann",
+   "en": "Hey, are you sure we're okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D10_20_03#1",
+   "speaker": "Ann",
+   "en": "If we can't stop Dr. Maruki, there's[n]no going back!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D10_20_03#2",
+   "speaker": "Ann",
+   "en": "Be sure to let us know when you're[n]ready to go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_COOPNG_01#0",
+   "speaker": "Ann",
+   "en": "I have a shoot today...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_COOPNG_01#1",
+   "speaker": "Ann",
+   "en": "Oh, but let me know if there's[n]anything urgent happening.[n]I'll try to wrap up early.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_COOPNG_02#0",
+   "speaker": "Ann",
+   "en": "Now that I think about it,[n]I have a shoot today...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_COOPNG_02#1",
+   "speaker": "Ann",
+   "en": "Oh, but let me know if there's[n]anything urgent happening.[n]I'll try to wrap up early.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_COOPNG_04#0",
+   "speaker": "Ann",
+   "en": "Wait, I have a shoot today...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_COOPNG_04#1",
+   "speaker": "Ann",
+   "en": "Oh, but let me know if there's[n]anything urgent happening.[n]I'll try to wrap up early.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_00_00#0",
+   "speaker": "Ann",
+   "en": "Oh, do you want to go somewhere?[n]If you have the time, I mean.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_10_00#0",
+   "speaker": "Ann",
+   "en": "Oh yeah, are you free right now?[n]Let's go somewhere together.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_10_01#0",
+   "speaker": "Ann",
+   "en": "Hey, why don't we go somewhere fun?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_01_99#0",
+   "speaker": "Ann",
+   "en": "I have something I wanna talk to you[n]about... Are you free?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_01_00#0",
+   "speaker": "Ann",
+   "en": "But, um... Sorry. I'm not really in the[n]mood right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_01_00_01#0",
+   "speaker": "Ann",
+   "en": "What should I do...? Maybe it wouldn't[n]hurt to at least ask...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_01_00_01#1",
+   "speaker": "Ann",
+   "en": "No, but then...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_01_01#0",
+   "speaker": "Morgana",
+   "en": "Lady Ann seems depressed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_01_02#0",
+   "speaker": "Morgana",
+   "en": "Lady Ann seems... depressed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_01_03#0",
+   "speaker": "Ann",
+   "en": "U-Um... never mind! It's nothing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C06_COOP_01_04#0",
+   "speaker": null,
+   "en": "I should be able to invite her out[n]with my current [stIcon 4][clr 26][stLabel 4][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_01_05#0",
+   "speaker": "Ann",
+   "en": "I'm fine, seriously! Besides, I wouldn't[n]wanna trouble you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_COOP_01_06#0",
+   "speaker": null,
+   "en": "Tell me about your problems.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_COOP_01_06#1",
+   "speaker": null,
+   "en": "I want you to rely on me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_01_07#0",
+   "speaker": "Ann",
+   "en": "...Are you sure?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_01_07#1",
+   "speaker": "Ann",
+   "en": "You're so reliable.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_01_07#2",
+   "speaker": "Ann",
+   "en": "I guess it wouldn't be so bad talking to[n]you about this stuff.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_01_08#0",
+   "speaker": "Ann",
+   "en": "Huh? Oh... right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_01_08#1",
+   "speaker": "Ann",
+   "en": "I guess it wouldn't be so bad talking to[n]you about this stuff.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_01_08#2",
+   "speaker": "Ann",
+   "en": "...The truth is, there's something I want[n]to tell you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_01_20#0",
+   "speaker": "Ann",
+   "en": "Can we go somewhere a little more[n]relaxing?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_01_10#0",
+   "speaker": null,
+   "en": "I need to say something...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_01_10#1",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_01_10#2",
+   "speaker": null,
+   "en": "I might be able to invite Ann out if[n]my [stIcon 4][clr 26][stLabel 4][clr 27] were [clr 26][stLvLabel 4 2][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_01_11#0",
+   "speaker": "Morgana",
+   "en": "Ugh, you're pathetic. A real man should[n]know how to soothe a lady's heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_02_99#0",
+   "speaker": "Ann",
+   "en": "Oh yeah! I started training,[n]so you should totally help me[n]out if you have the time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_02_00#0",
+   "speaker": "Ann",
+   "en": "I want to get better at acting[n]for our Phantom Thieves work...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_02_00#1",
+   "speaker": "Ann",
+   "en": "But I can't really practice in[n]any of the parks near here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_02_00#2",
+   "speaker": "Ann",
+   "en": "Do you know a good spot?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_COOP_02_01#0",
+   "speaker": null,
+   "en": "Why don't we just wander around?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_COOP_02_01#1",
+   "speaker": null,
+   "en": "How about Inokashira Park?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_COOP_02_01#2",
+   "speaker": null,
+   "en": "I'm busy today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_02_02#0",
+   "speaker": "Ann",
+   "en": "Huh? Well... I think I'd rather[n]practice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_02_03#0",
+   "speaker": "Morgana",
+   "en": "It's pretty clear that Lady Ann[n]wants to practice her acting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_02_03#1",
+   "speaker": "Morgana",
+   "en": "I'd suggest a place if I knew[n]a little more about Tokyo...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_02_03#2",
+   "speaker": "Morgana",
+   "en": "Learning about it from your other[n]friends is probably your best bet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_02_03#3",
+   "speaker": "Morgana",
+   "en": "Wait, you might also be able to[n]get some info from books.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_02_03#4",
+   "speaker": "Morgana",
+   "en": "Isn't there a bookstore in Shibuya?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C06_COOP_02_04#0",
+   "speaker": null,
+   "en": "Maybe I should go check out the lineup[n]at the bookstore when I have the time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_02_05#0",
+   "speaker": "Ann",
+   "en": "Inokashira Park? Oh, I've heard[n]tons of famous actors practice there!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_02_05#1",
+   "speaker": "Ann",
+   "en": "That's a great idea. I wanna go[n]now if you have the time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_02_06#0",
+   "speaker": "Ann",
+   "en": "Just talk to me when you're free, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_02_07#0",
+   "speaker": "Ann",
+   "en": "[fName], are you free to go[n]to Inokashira Park with me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_03_00#0",
+   "speaker": "Ann",
+   "en": "Strengthening my heart is turning[n]out to be harder than I thought...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_03_00#1",
+   "speaker": "Ann",
+   "en": "Do you think we can maybe talk[n]some more about it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_04_00#0",
+   "speaker": "Ann",
+   "en": "Um, I've been thinking of going[n]to see Shiho in the hospital...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_04_00#1",
+   "speaker": "Ann",
+   "en": "Do you think we could maybe spend[n]some time together before I go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_05_00#0",
+   "speaker": "Ann",
+   "en": "Oh, um... I went to go see Shiho[n]again the other day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_05_00#1",
+   "speaker": "Ann",
+   "en": "I've been thinking a lot since then[n]though... Do you have time to talk?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_06_00#0",
+   "speaker": "Ann",
+   "en": "I really wanna eat something sweet[n]right now... You're in the same boat[n]as me, right? Right...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_07_00#0",
+   "speaker": "Ann",
+   "en": "Hey, you know how I said I[n]was gonna take the world by[n]storm with my modeling?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_07_00#1",
+   "speaker": "Ann",
+   "en": "Well, I was thinking of getting in[n]shape first. And who better to help[n]with that than Ryuji, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_07_00#2",
+   "speaker": "Ann",
+   "en": "Why don't you join in too,[n][fName]? We can train together!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_08_00#0",
+   "speaker": "Ann",
+   "en": "Hey, um... There's something[n]I really wanna ask you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_08_00#1",
+   "speaker": "Ann",
+   "en": "Do you have time today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_09_00#0",
+   "speaker": "Ann",
+   "en": "Hey, are you free today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_09_01#0",
+   "speaker": "Ann",
+   "en": "Hey, do you think you could[n]spare some time for me today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_DOUZOKUSEI#0",
+   "speaker": null,
+   "en": "I feel I can become closer with[n]Ann thanks to the [var 2][n]Persona [clr 1][var 5][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANKUP_OK#0",
+   "speaker": null,
+   "en": "I feel like my bond with Ann[n]will grow stronger soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANKUP_NG#0",
+   "speaker": null,
+   "en": "I don't think my bond with[n]Ann will deepen just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANK_MAX_00#0",
+   "speaker": null,
+   "en": "I have a solid bond[n]with Ann...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANK_MAX_01#0",
+   "speaker": null,
+   "en": "I have a special bond[n]with Ann...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANK_MAX_10#0",
+   "speaker": null,
+   "en": "I have a solid bond with Ann, but[n]I feel the potential for more...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_DUNGEON#0",
+   "speaker": "Morgana",
+   "en": "It's good to take a break every[n]so often. Do you want to hang[n]out with Lady Ann?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_DAY#0",
+   "speaker": "Morgana",
+   "en": "So, what do you think? Will you[n]spend some time with Lady Ann?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_SHIDOU#0",
+   "speaker": "Morgana",
+   "en": "Nobody thinks you're alive at[n]this point, so it should be okay[n]as long as you're careful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_SHIDOU#1",
+   "speaker": "Morgana",
+   "en": "So, what do you think? Will you[n]spend some time with Lady Ann?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_RANKUP#0",
+   "speaker": null,
+   "en": "Hang out with her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_RANKUP#1",
+   "speaker": null,
+   "en": "Check bond with Ann",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_RANKUP#2",
+   "speaker": null,
+   "en": "Decline",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_01_00#0",
+   "speaker": "Ann",
+   "en": "All right, let's go to the diner.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_02_00#0",
+   "speaker": "Ann",
+   "en": "All right, let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_02_00#1",
+   "speaker": "Ann",
+   "en": "Hm, the best way to get to Inokashira[n]Park is by train, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_03_00#0",
+   "speaker": "Ann",
+   "en": "Then let's head back to Inokashira[n]Park. We can talk there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_04_00#0",
+   "speaker": "Ann",
+   "en": "Thanks!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_04_00#1",
+   "speaker": "Ann",
+   "en": "Hm, what should I get for Shiho...?[n]It's hard deciding by myself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_05_00#0",
+   "speaker": "Ann",
+   "en": "Thanks.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_05_00#1",
+   "speaker": "Ann",
+   "en": "Does the diner work for you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_06_00#0",
+   "speaker": "Ann",
+   "en": "All right! In that case...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_06_00#1",
+   "speaker": "Ann",
+   "en": "Let's go get crêpes! With tons of[n]extra toppings!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_07_00#0",
+   "speaker": "Ann",
+   "en": "All right, let's go work up a sweat![n]It's pretty close by.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_07_00#1",
+   "speaker": "Ann",
+   "en": "Oh, and I'll let Ryuji know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_08_00#0",
+   "speaker": "Ann",
+   "en": "Thanks for your concern.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_08_00#1",
+   "speaker": "Ann",
+   "en": "The truth is, Shiho's moving away[n]today... and before she goes, she[n]wants to see the school roof again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_08_00#2",
+   "speaker": "Ann",
+   "en": "It's still hard for her to climb stairs[n]though, so do you think you could[n]help me carry her?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_08_01#0",
+   "speaker": "Ann",
+   "en": "Thanks for your concern.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_08_01#1",
+   "speaker": "Ann",
+   "en": "The truth is, Shiho's moving away[n]today... and before she goes, she[n]wants to see the school roof again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_08_01#2",
+   "speaker": "Ann",
+   "en": "I know it's a day off, but I called and[n]said we need to get some books, so[n]we should be able to get in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_08_01#3",
+   "speaker": "Ann",
+   "en": "It's still hard for Shiho to climb stairs[n]though, so do you think you could[n]help me carry her?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_09_01#0",
+   "speaker": "Ann",
+   "en": "I have a magazine shoot today...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_09_01#1",
+   "speaker": "Ann",
+   "en": "It's a special on me and Mika![n]\"Up Close and Personal with[n]Two Popular Models\"!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_09_01#2",
+   "speaker": "Ann",
+   "en": "I want you to be there for it. It's[n]over at Seaside Park. Let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_09_00#0",
+   "speaker": "Ann",
+   "en": "I have a magazine shoot today...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_09_00#1",
+   "speaker": "Ann",
+   "en": "It's a special on me and Mika![n]\"Up Close and Personal with[n]Two Popular Models\"!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_09_00#2",
+   "speaker": "Ann",
+   "en": "I want you to be there for it.[n]After that, maybe we can...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_09_00#3",
+   "speaker": "Ann",
+   "en": "U-Um, never mind! It's over[n]at Seaside Park. Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_COOP_ESCAPE#0",
+   "speaker": "Morgana",
+   "en": "Well, I'm gonna walk around.[n]Let me know when you're ready[n]to leave.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_SPOT_00_00#0",
+   "speaker": "Ann",
+   "en": "Hm, what should we do today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_SPOT_00_01#0",
+   "speaker": null,
+   "en": "Let's go somewhere fun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_SPOT_00_01#1",
+   "speaker": null,
+   "en": "Let's go to my room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_SPOT_00_01#2",
+   "speaker": null,
+   "en": "Let's have some tea.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_SPOT_00_10#0",
+   "speaker": "Ann",
+   "en": "Okay! Where should we go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_SPOT_00_10#1",
+   "speaker": "Ann",
+   "en": "Somewhere popular would be nice!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_MYROOM_00_00#0",
+   "speaker": "Ann",
+   "en": "Um...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_00_00#0",
+   "speaker": "Ann",
+   "en": "Why don't we hang out at the diner[n]then? I could go for a nice chat!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_10_01#0",
+   "speaker": "Ann",
+   "en": "Let's hang out at the diner then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_10_01#1",
+   "speaker": "Ann",
+   "en": "You know, for some reason our[n]convos always go super long...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_10_00#0",
+   "speaker": "Ann",
+   "en": "Let's talk at the diner then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_10_00#1",
+   "speaker": "Ann",
+   "en": "Hmmm, I think I talk more when[n]I'm with you... It's almost like I[n]want you to know more about me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_CANCEL_00#0",
+   "speaker": "Ann",
+   "en": "Oh, okay. Maybe some other time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_0621_ANN_AND_MAKOTO_#0",
+   "speaker": "Ann",
+   "en": "Oh, hey [fName]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_0621_ANN_AND_MAKOTO_#1",
+   "speaker": "Ann",
+   "en": "Makoto and I are getting to know each[n]other right now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_0621_ANN_AND_MAKOTO__2#0",
+   "speaker": "Ann",
+   "en": "Oh, are we supposed to meet up soon?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_0621_ANN_AND_MAKOTO_#0",
+   "speaker": null,
+   "en": "It's time to meet up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_0621_ANN_AND_MAKOTO_#1",
+   "speaker": null,
+   "en": "I haven't decided yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_0621_ANN_AND_MAKOTO__3#0",
+   "speaker": "Makoto",
+   "en": "Okay.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_0621_ANN_AND_MAKOTO__3#1",
+   "speaker": "Makoto",
+   "en": "...Oh, I must've missed a call from a[n]student council member.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_0621_ANN_AND_MAKOTO__3#2",
+   "speaker": "Makoto",
+   "en": "I'll head to the hideout once I return[n]this call. Sorry Ann, could you head[n]over there without me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_0621_ANN_AND_MAKOTO__4#0",
+   "speaker": "Ann",
+   "en": "Okay.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_0621_ANN_AND_MAKOTO__4#1",
+   "speaker": "Ann",
+   "en": "Oh, I'm going to use the restroom first,[n]so you and Mona can go on first!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_0621_ANN_AND_MAKOTO__5#0",
+   "speaker": "Makoto",
+   "en": "Okay, shall we head over, Ann?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_0621_ANN_AND_MAKOTO__6#0",
+   "speaker": "Ann",
+   "en": "Mhm!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_0621_ANN_AND_MAKOTO__7#0",
+   "speaker": "Ann",
+   "en": "Okay, I'll be spending time with Makoto[n]today, so if we're meeting up, we'll head[n]there together! Right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_0621_ANN_AND_MAKOTO__8#0",
+   "speaker": "Makoto",
+   "en": "Mhm. Let us know if we decide to head[n]into the Palace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BEGIN_D10_REV#0",
+   "speaker": "Ann",
+   "en": "Oh, hey, [fName]. Thanks for[n]coming.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_10_00_REV#0",
+   "speaker": "Ann",
+   "en": "Sorry this is so sudden, but do you have[n]some time to talk?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_10_00_REV#1",
+   "speaker": "Ann",
+   "en": "There's something I really need to tell[n]you... Are you free?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANK_MAX__REV#0",
+   "speaker": null,
+   "en": "It seems like Ann has[n]something on her mind...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_3RD_REV#0",
+   "speaker": "Morgana",
+   "en": "Lady Ann looked troubled...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_3RD_REV#1",
+   "speaker": "Morgana",
+   "en": "So, what do you think? Are you going[n]to spend some time with Lady Ann?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_REV#0",
+   "speaker": null,
+   "en": "Hang out with her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_REV#1",
+   "speaker": null,
+   "en": "Check bond with Ann",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_REV#2",
+   "speaker": null,
+   "en": "Decline",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_YES_10_00_REV#0",
+   "speaker": "Ann",
+   "en": "...Thanks. Then can you come with me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_COOP_ESCAPE_#0",
+   "speaker": "Morgana",
+   "en": "Okay, then I'll take my leave... I'm leaving[n]Lady Ann to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_COOP_CANCEL_REV#0",
+   "speaker": "Ann",
+   "en": "...Got it. Maybe another time. I'll be here[n]when you're ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_EVOLUTION_WAIT#0",
+   "speaker": "Ann",
+   "en": "Sorry, there's something I need to think[n]about... Can we talk once things settle[n]down a little?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_EVOLUTION_WAIT#1",
+   "speaker": "Ann",
+   "en": "If it's an emergency, I'll head right over.[n]Just let me know, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_KANDA#0",
+   "speaker": null,
+   "en": "You can now go to [clr 1]Kanda[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINJUKU#0",
+   "speaker": null,
+   "en": "You can now go to [clr 2]Shinjuku[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_AKIHABARA#0",
+   "speaker": null,
+   "en": "You can now go to [clr 2]Akihabara[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_AKIHABARA#1",
+   "speaker": null,
+   "en": "You can also invite people who may like[n]hanging out with you in Akihabara.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_INOKASHIRA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Inokashira Park[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_INOKASHIRA#1",
+   "speaker": null,
+   "en": "You can also invite people who may like[n]hanging out with you in Inokashira Park.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_OGIKUBO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ogikubo Ramen[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_OGIKUBO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy eating ramen[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ODAIBA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Odaiba Seaside Park[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ODAIBA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like such parks to[n]hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_UENO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ueno Museum[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_UENO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy art museums[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TSUKISHIMA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Tsukishima Monja[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TSUKISHIMA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy eating monjayaki[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_HARAJUKU#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Harajuku Takenoko Street[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_HARAJUKU#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy Takenoko Street[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TYUKAGAI#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Motomachi Chinatown[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TYUKAGAI#1",
+   "speaker": null,
+   "en": "You can also invite people who may like[n]hanging out with you in Chinatown.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MAIHAMA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Maihama Destinyland[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MAIHAMA#1",
+   "speaker": null,
+   "en": "You can also invite people who may like[n]Destinyland to hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ASAKUSA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Asakusa[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ASAKUSA#1",
+   "speaker": null,
+   "en": "You can also invite people who may[n]enjoy the Skytree or Nakamise Street[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_IKEBUKURO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ikebukuro Planetarium[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_IKEBUKURO#1",
+   "speaker": null,
+   "en": "You can also invite people who may like[n]the planetarium to hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MEIJIJINGU#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Meiji Shrine[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MEIJIJINGU#1",
+   "speaker": null,
+   "en": "You can also invite people who may like[n]the Meiji Shrine to hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MEIJIJINGU#2",
+   "speaker": null,
+   "en": "Furthermore, you can go by[n]yourself to pay homage to[n]the shrine if you wish.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SUIDOUBASH#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Suidobashi Dome Town[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SUIDOUBASH#1",
+   "speaker": null,
+   "en": "You can also invite people who may like[n]the Dome Town to hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHIBUYA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Shibuya Wilton Hotel[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHIBUYA#1",
+   "speaker": null,
+   "en": "You can also invite people who may like[n]the Wilton Hotel to hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_GINZA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ginza Sushi Bar[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_GINZA#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may enjoy eating expensive sushi[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_JINBOCHO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Jinbocho Book Town[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_JINBOCHO#1",
+   "speaker": null,
+   "en": "You can also invite people who may like[n]used bookstores to hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_JINBOCHO#2",
+   "speaker": null,
+   "en": "Furthermore, you can go by[n]yourself for some shopping[n]if you so desire.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ICHIGAYA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ichigaya Fishing Pond[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ICHIGAYA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy fishing to[n]hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ICHIGAYA#2",
+   "speaker": null,
+   "en": "Furthermore, you can go by[n]yourself and try your hand at[n]fishing if you so choose.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINAGAWA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Shinagawa Aquarium[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINAGAWA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy the aquarium[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_NAKANO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Nakano Commerce Building District[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_NAKANO#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may enjoy the commerce building[n]district to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_00#0",
+   "speaker": "Ann",
+   "en": "...I'm so glad you came.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_00#1",
+   "speaker": "Ann",
+   "en": "I know this isn't the last time we're[n]gonna be seeing each other, but it's[n]still a sad moment...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_00#2",
+   "speaker": "Ann",
+   "en": "I'll come visit you during the holidays[n]though! I have to try all the delicious[n]food in your hometown.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_BYEGREET_00_01#0",
+   "speaker": null,
+   "en": "I can't wait.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_BYEGREET_00_01#1",
+   "speaker": null,
+   "en": "What are you going to try first?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_BYEGREET_00_01#2",
+   "speaker": null,
+   "en": "What about at my house?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_02#0",
+   "speaker": "Ann",
+   "en": "Me neither!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_02#1",
+   "speaker": "Ann",
+   "en": "I'll need to go on a serious diet first so[n]I can eat as much as I want when I'm[n]there though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_03#0",
+   "speaker": "Ann",
+   "en": "Ummm... Sweets, of course!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_03#1",
+   "speaker": "Ann",
+   "en": "I'll need to go on a serious diet first so[n]I can eat as much as I want when I'm[n]there though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_04#0",
+   "speaker": "Ann",
+   "en": "Huh? Y-You mean like, home-cooked?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_04#1",
+   "speaker": "Ann",
+   "en": "The thought of that makes me so[n]nervous... but I'm honestly really[n]excited too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_04#2",
+   "speaker": "Ann",
+   "en": "Though I'll need to go on a serious[n]diet first so I can eat as much as I want[n]when I'm there...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_05#0",
+   "speaker": "Ann",
+   "en": "By the way, um... a little girl stopped[n]me the other day in Shibuya.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_05#1",
+   "speaker": "Ann",
+   "en": "She said she saw me in magazines...[n]and that she wants to be just like me[n]when she grows up. It felt incredible.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_05#2",
+   "speaker": "Ann",
+   "en": "That reminds me—this is for you.[n]It's a copy of next month's Vague.[n]They did a special feature on me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_06#0",
+   "speaker": "Ann",
+   "en": "I actually talked a little bit about you[n]in the interview, [fName]...[n]and Shiho too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_06#1",
+   "speaker": "Ann",
+   "en": "I wonder if she'll get around to reading it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_06#2",
+   "speaker": "Ann",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_06#3",
+   "speaker": "Ann",
+   "en": "Modeling can be super tough sometimes...[n]but I'm not gonna quit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_06#4",
+   "speaker": "Ann",
+   "en": "I need to be strong, not just for Shiho,[n]but for people everywhere. Oh, and of[n]course... for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_06#5",
+   "speaker": "Ann",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_06#6",
+   "speaker": "Ann",
+   "en": "...I can't wait until we're back together[n]again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_06#7",
+   "speaker": "Ann",
+   "en": "I'm going to be a proper lady someday...[n]just for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_07#0",
+   "speaker": "Ann",
+   "en": "I'm going to be a proper lady someday...[n]just for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_00#0",
+   "speaker": "Ann",
+   "en": "Oh, [fName]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_00#1",
+   "speaker": "Ann",
+   "en": "Did you come here for souvenirs?[n]This place has everything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_00#2",
+   "speaker": "Ann",
+   "en": "I guess... tomorrow's the day, huh?[n]Take care of yourself, [fName].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_BYEGREET_01_01#0",
+   "speaker": null,
+   "en": "I will.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_BYEGREET_01_01#1",
+   "speaker": null,
+   "en": "You too, Ann.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_BYEGREET_01_01#2",
+   "speaker": null,
+   "en": "Let's meet up again sometime.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_02#0",
+   "speaker": "Ann",
+   "en": "Haha, that's such a you answer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_03#0",
+   "speaker": "Ann",
+   "en": "Oh, I already have that covered! I've[n]made a detailed plan on how many[n]sweets I'm gonna have when!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_04#0",
+   "speaker": "Ann",
+   "en": "Mm-hm! We totally need to hang out[n]as a group!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_05#0",
+   "speaker": "Ann",
+   "en": "By the way, um... a little girl stopped[n]me the other day in Shibuya.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_05#1",
+   "speaker": "Ann",
+   "en": "She said she saw me in magazines...[n]and that she wants to be just like me[n]when she grows up. It felt incredible.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_05#2",
+   "speaker": "Ann",
+   "en": "That reminds me—this is for you.[n]It's a copy of next month's Vague.[n]They did a special feature on me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_06#0",
+   "speaker": "Ann",
+   "en": "I actually talked a little bit about you[n]in the interview, [fName]...[n]and Shiho too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_06#1",
+   "speaker": "Ann",
+   "en": "I wonder if she'll get around to reading it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_06#2",
+   "speaker": "Ann",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_06#3",
+   "speaker": "Ann",
+   "en": "There are times when being a model[n]is tough... but I wanna keep at it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_06#4",
+   "speaker": "Ann",
+   "en": "I need to be strong, not just for Shiho, but[n]for people everywhere. By the way, um...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_06#5",
+   "speaker": "Ann",
+   "en": "I really had a lot of fun spending time[n]with you, so... thanks.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_07#0",
+   "speaker": "Ann",
+   "en": "I really had a lot of fun spending time[n]with you, so... thanks.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_00_5#0",
+   "speaker": "Ann",
+   "en": "...I'm so glad you came.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_00_5#1",
+   "speaker": "Ann",
+   "en": "It still hasn't hit me that you'll be gone[n]soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_00_5#2",
+   "speaker": "Ann",
+   "en": "I'm busy getting ready for my study[n]abroad, too. Gotta research schools,[n]places to live...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_00_5#3",
+   "speaker": "Ann",
+   "en": "We're gonna be pretty far away from[n]each other.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_BYEGREET_00_01_5#0",
+   "speaker": null,
+   "en": "We'll stay in touch.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_BYEGREET_00_01_5#1",
+   "speaker": null,
+   "en": "How about not going abroad?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_BYEGREET_00_01_5#2",
+   "speaker": null,
+   "en": "I'll come see you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_02_5#0",
+   "speaker": "Ann",
+   "en": "You better!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_02_5#1",
+   "speaker": "Ann",
+   "en": "Keep your phone charged, okay?[n]We're gonna be talking a lot.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_02_5#2",
+   "speaker": "Ann",
+   "en": "Especially since we'll be so far apart.[n]Hearing your voice will help me feel[n]better.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_03_5#0",
+   "speaker": "Ann",
+   "en": "Nah, you know me better than that![n]I don't give up that easy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_03_5#1",
+   "speaker": "Ann",
+   "en": "After all, I'm doing this so I can move[n]forward with my life. And so I don't[n]fall behind you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_04_5#0",
+   "speaker": "Ann",
+   "en": "Wha— But I'll be on the other side of[n]the world! And you've got tons to deal[n]with already!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_04_5#1",
+   "speaker": "Ann",
+   "en": "Then again, it's not like that's stopped[n]you before...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_04_5#2",
+   "speaker": "Ann",
+   "en": "Okay then... I'll be waiting. Drop by[n]whenever you want.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_05_5#0",
+   "speaker": "Ann",
+   "en": "By the way, um... a little girl stopped[n]me the other day in Shibuya.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_05_5#1",
+   "speaker": "Ann",
+   "en": "She said she saw me in magazines...[n]and that she wants to be just like me[n]when she grows up. It felt incredible.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_05_5#2",
+   "speaker": "Ann",
+   "en": "Oh right—Vague did a special piece[n]on me in this month's issue.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_06_5#0",
+   "speaker": "Ann",
+   "en": "I said it all in the interview, but... I'm[n]gonna work hard. One day, I'll be[n]modeling across the world.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_06_5#1",
+   "speaker": "Ann",
+   "en": "I've gotta reach people. I wanna give[n]someone hope—like you did for me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_06_5#2",
+   "speaker": "Ann",
+   "en": "Maybe when you see me next, I'll be[n]a total bigshot. Some kinda fancy[n]jet-setter lady...! Or maybe not.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_06_5#3",
+   "speaker": "Ann",
+   "en": "I swear I'm gonna become a great[n]woman. One you can't take your[n]eyes off of. So just wait for me, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_00_07_5#0",
+   "speaker": "Ann",
+   "en": "I swear I'm gonna become a great[n]woman. One you can't take your[n]eyes off of. So just wait for me, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_00_5#0",
+   "speaker": "Ann",
+   "en": "Oh, [fName]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_00_5#1",
+   "speaker": "Ann",
+   "en": "Did you come here for souvenirs?[n]This place has everything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_00_5#2",
+   "speaker": "Ann",
+   "en": "I'm busy getting ready for my study[n]abroad, too. Gotta research schools,[n]places to live...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_00_5#3",
+   "speaker": "Ann",
+   "en": "But we're all splitting off to do our[n]own thing, huh? Honestly, it's not[n]really hitting me yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_BYEGREET_01_01_5#0",
+   "speaker": null,
+   "en": "Me neither.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_BYEGREET_01_01_5#1",
+   "speaker": null,
+   "en": "Are you going to be lonely?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C06_BYEGREET_01_01_5#2",
+   "speaker": null,
+   "en": "We'll see each other again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_02_5#0",
+   "speaker": "Ann",
+   "en": "I mean, it makes sense.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_02_5#1",
+   "speaker": "Ann",
+   "en": "We stuck with each other through all[n]the freaky stuff last year.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_03_5#0",
+   "speaker": "Ann",
+   "en": "Well, I'd be lying if I said I wasn't...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_03_5#1",
+   "speaker": "Ann",
+   "en": "But everyone's following their own[n]dream. We have to stay positive, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_04_5#0",
+   "speaker": "Ann",
+   "en": "Yeah, totally! It's not like we're all[n]leaving forever!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_04_5#1",
+   "speaker": "Ann",
+   "en": "I mean, we still have the group chat—[n]I'll still be messaging you all. And you[n]gotta respond!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_05_5#0",
+   "speaker": "Ann",
+   "en": "By the way, um... a little girl stopped[n]me the other day in Shibuya.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_05_5#1",
+   "speaker": "Ann",
+   "en": "She said she saw me in magazines...[n]and that she wants to be just like me[n]when she grows up. It felt incredible.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_05_5#2",
+   "speaker": "Ann",
+   "en": "Oh right—Vague did a special piece[n]on me in this month's issue.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_06_5#0",
+   "speaker": "Ann",
+   "en": "I said it all in the interview, but... I'm[n]gonna work hard. One day, I'll be[n]modeling across the world.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_06_5#1",
+   "speaker": "Ann",
+   "en": "I've gotta reach people. I wanna give[n]someone hope—like you did for me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_06_5#2",
+   "speaker": "Ann",
+   "en": "Thank you for all you've done. The days[n]I spent with you were some of the[n]brightest in my life.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_06_5#3",
+   "speaker": "Ann",
+   "en": "Once I'm a star, I'm gonna shine even[n]brighter, though—so you watch out[n]for me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C06_BYEGREET_01_07_5#0",
+   "speaker": "Ann",
+   "en": "Once I'm a star, I'm gonna shine even[n]brighter, though—so you watch out[n]for me!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

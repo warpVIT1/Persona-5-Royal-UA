@@ -1,0 +1,2035 @@
+{
+ "file": "EN/FIELD/NPC/CORP022.BF",
+ "entries": [
+  {
+   "id": "MSG_C22_BEGIN_D01_10_00#0",
+   "speaker": "Kasumi",
+   "en": "Oh, Senpai! Hello there!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_D02_10_00#0",
+   "speaker": "Kasumi",
+   "en": "Hello! It's gotten so hot lately, hasn't it?[n]But I've got a meet coming up, so I[n]can't lose steam now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_D03_10_00#0",
+   "speaker": "Kasumi",
+   "en": "Hello, Senpai!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_D03_10_00#1",
+   "speaker": "Kasumi",
+   "en": "It's really sunny today, so be sure to[n]stay hydrated!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_D04_10_00#0",
+   "speaker": "Kasumi",
+   "en": "Oh, Senpai.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_D04_10_00#1",
+   "speaker": "Kasumi",
+   "en": "It's starting to get so cold... I guess that[n]means autumn's here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_D04_10_01#0",
+   "speaker": "Kasumi",
+   "en": "Um, Senpai, about that Palace from[n]before...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_D04_10_01#1",
+   "speaker": "Kasumi",
+   "en": "A-Actually... well, never mind. It's nothing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_D05_10_00#0",
+   "speaker": "Kasumi",
+   "en": "Oh, Senpai. You seem kind of tired.[n]Are you okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_D05_10_00#1",
+   "speaker": "Kasumi",
+   "en": "It's important to give it your best, but[n]please don't push yourself too hard.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_D07_10_00#0",
+   "speaker": "Kasumi",
+   "en": "Are you okay, Senpai?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_D07_10_00#1",
+   "speaker": "Kasumi",
+   "en": "I know you're doing your best, but please[n]be careful not to overwork yourself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_D09_10_00#0",
+   "speaker": "Sumire",
+   "en": "Um, Senpai... Are you okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_D09_10_00#1",
+   "speaker": "Sumire",
+   "en": "It's important to try hard, but you have[n]to make sure not to tire yourself out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_D09_30_00#0",
+   "speaker": "Sumire",
+   "en": "Everyone in the world seems so happy...[n]but it isn't right...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_D09_30_00#1",
+   "speaker": "Sumire",
+   "en": "Um, should we go to the Palace today?[n]We need to stop Dr. Maruki...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C22_ACTION_D09_31_00#0",
+   "speaker": null,
+   "en": "Let's hang out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C22_ACTION_D09_31_00#1",
+   "speaker": null,
+   "en": "Let's head to the Metaverse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C22_ACTION_D09_31_00#2",
+   "speaker": null,
+   "en": "I haven't decided yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_ACTION_D09_31_10#0",
+   "speaker": "Sumire",
+   "en": "H-Hang out!? But we have to do[n]something before it's too late...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C22_ACTION_D09_31_10#0",
+   "speaker": null,
+   "en": "Don't overthink it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C22_ACTION_D09_31_10#1",
+   "speaker": null,
+   "en": "Think it over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_ACTION_D09_31_11#0",
+   "speaker": "Sumire",
+   "en": "You're right. Maybe I'm getting a little[n]overwhelmed... and I can't do my best[n]if I'm too stuck in my own head.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_ACTION_D09_31_11#1",
+   "speaker": "Sumire",
+   "en": "Thank you for your concern, Senpai.[n]Let's use this day to relax!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_ACTION_D09_31_12#0",
+   "speaker": "Sumire",
+   "en": "I understand. Then please let me know[n]once you've decided our plan for today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_ACTION_D09_31_13#0",
+   "speaker": "Sumire",
+   "en": "Okay! I'll do my best not to cause any[n]problems!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_D09_40_00#0",
+   "speaker": "Sumire",
+   "en": "I no longer want to run away, Senpai.[n]We need to put an end to this world.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_D09_40_00#1",
+   "speaker": "Sumire",
+   "en": "We don't have much time left. Should[n]we go to the Palace today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C22_ACTION_D09_99_00#0",
+   "speaker": null,
+   "en": "Of course.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C22_ACTION_D09_99_00#1",
+   "speaker": null,
+   "en": "I'm not sure yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_ACTION_D09_99_00#0",
+   "speaker": "Sumire",
+   "en": "Then we'll have to gather up at[n]Leblanc, right? Let's get going.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_ACTION_D09_31_00#0",
+   "speaker": "Sumire",
+   "en": "That is true. We have a lot of time until[n]the deadline...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_ACTION_D09_31_00#1",
+   "speaker": "Sumire",
+   "en": "But we haven't even found the Treasure[n]yet, so I think it's best if we infiltrate[n]the Palace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_ACTION_D09_31_00#2",
+   "speaker": "Sumire",
+   "en": "I know you probably have plans, but[n]if you could at least consider it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_ACTION_D09_41_00#0",
+   "speaker": "Sumire",
+   "en": "Huh, are you sure? We... don't have[n]much time until the deadline.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_ACTION_D09_41_00#1",
+   "speaker": "Sumire",
+   "en": "We haven't found the Treasure, either...[n]Maybe it'd be good to track that down[n]soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_ACTION_D09_41_00#2",
+   "speaker": "Sumire",
+   "en": "I know you probably have plans, but[n]if you could at least consider it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D09_50_00#0",
+   "speaker": "Sumire",
+   "en": "Now that we've secured our route to the[n]Treasure, we need to send out our[n]calling card, correct?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D09_50_00#1",
+   "speaker": "Sumire",
+   "en": "I'm not absolutely sure how that works.[n]Should we gather up at Leblanc first?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_ACTION_D09_50_00#0",
+   "speaker": null,
+   "en": "Sounds good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_ACTION_D09_50_00#1",
+   "speaker": null,
+   "en": "Not right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D09_50_00#0",
+   "speaker": "Sumire",
+   "en": "Thank you so much! Then we have to[n]get everyone together...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D09_51_00#0",
+   "speaker": "Sumire",
+   "en": "...I understand. You must have plans[n]today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D09_51_00#1",
+   "speaker": "Sumire",
+   "en": "Oh, but if you decide on calling the[n]group together, I'll be there. Just let[n]me know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D09_50_01#0",
+   "speaker": "Sumire",
+   "en": "Now we're just waiting for Dr. Maruki...[n]I feel so anxious. It's like waiting for a[n]competition to begin...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D09_50_01#1",
+   "speaker": "Sumire",
+   "en": "We have to stop Dr. Maruki! I promise[n]to give it everything I've got!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_D07_20_00#0",
+   "speaker": "Kasumi",
+   "en": "Um, Senpai? Are you good at studying?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_D07_20_00#1",
+   "speaker": "Kasumi",
+   "en": "To tell you the truth, I've been so[n]focused on the meet, I haven't been[n]able to cover everything on the test...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_D07_20_00#2",
+   "speaker": "Kasumi",
+   "en": "If you're okay with it, Senpai... I was[n]hoping you could help me study...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_D00_20_00#0",
+   "speaker": "Kasumi",
+   "en": "There are so many parts of the exam[n]that I'm not prepared for yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_D00_20_00#1",
+   "speaker": "Kasumi",
+   "en": "I don't want to impose, but could you[n]please help me study?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C22_ACTION_D07_20_01#0",
+   "speaker": null,
+   "en": "Got it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C22_ACTION_D07_20_01#1",
+   "speaker": null,
+   "en": "I'll think about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_ACTION_D07_20_02#0",
+   "speaker": "Kasumi",
+   "en": "A-Are you sure!? I'm sure you have[n]things to study for as well...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_ACTION_D07_20_02#1",
+   "speaker": "Kasumi",
+   "en": "Thank you so much. It's so reassuring[n]to know that you'll be the one teaching[n]me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_ACTION_D07_20_02#2",
+   "speaker": "Kasumi",
+   "en": "Then should we head to the diner?[n]I'll get myself ready!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_ACTION_D07_21_02#0",
+   "speaker": "Kasumi",
+   "en": "I suppose that's asking for too much...[n]I apologize. I'll do my best to figure[n]things out on my own!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_ACTION_D07_21_02#1",
+   "speaker": "Kasumi",
+   "en": "But, um, if you ever get a chance...[n]I'd really appreciate your help!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_D10_20_00_#0",
+   "speaker": "Sumire",
+   "en": "So, um... about those exams...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_D10_20_00_#1",
+   "speaker": "Sumire",
+   "en": "Urgh... Don't give me that look...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_D10_20_00_#2",
+   "speaker": "Sumire",
+   "en": "As you may know already, I'm in bit of[n]a crisis... I can't go on by myself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_D10_20_00_#3",
+   "speaker": "Sumire",
+   "en": "Please, Senpai! Help me study for[n]these exams!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C22_ACTION_D10_20_01#0",
+   "speaker": null,
+   "en": "Okay.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C22_ACTION_D10_20_01#1",
+   "speaker": null,
+   "en": "I'll think about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_ACTION_D10_20_02#0",
+   "speaker": "Kasumi",
+   "en": "S-Senpai! Thank you so much![n]You're so kind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_ACTION_D10_20_02#1",
+   "speaker": "Kasumi",
+   "en": "Then let's get going to the diner in[n]Shibuya! This might have to be an[n]all-nighter!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_ACTION_D10_20_02_2#0",
+   "speaker": "Sumire",
+   "en": "Are you a guardian angel, Senpai?[n]No, you're practically a god yourself!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_ACTION_D10_20_02_2#1",
+   "speaker": "Sumire",
+   "en": "Let's go to the diner at Shibuya before[n]you change your mind!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_ACTION_D10_21_02#0",
+   "speaker": "Kasumi",
+   "en": "Yes, of course! As long as you have[n]time, I mean...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_ACTION_D10_21_02#1",
+   "speaker": "Kasumi",
+   "en": "Please be sure to think it over!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_ACTION_D10_21_02_2#0",
+   "speaker": "Sumire",
+   "en": "Ngh... At least consider it, please...[n]I'll do what I can for now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_D00_10_00#0",
+   "speaker": "Kasumi",
+   "en": "Oh, Senpai. Are you heading home now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_D00_10_00_#0",
+   "speaker": "Sumire",
+   "en": "Hello, Senpai. Um... do you have some[n]time?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_COOPNG_00#0",
+   "speaker": "Kasumi",
+   "en": "I actually have practice starting in a bit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_COOPNG_00#1",
+   "speaker": "Kasumi",
+   "en": "Oh, Senpai. Was there something you[n]wanted to talk about...? Can it wait[n]until next time?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_COOPNG_00_#0",
+   "speaker": "Sumire",
+   "en": "I'm actually heading to practice right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_COOPNG_00_#1",
+   "speaker": "Sumire",
+   "en": "Sorry if there was something you wanted[n]to discuss with me. Maybe we can get[n]to it later!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_OPEN_NPC_000_00#0",
+   "speaker": "Kasumi",
+   "en": "U-Um, Senpai? Would you happen to[n]have some time right now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_OPEN_NPC_000_00#1",
+   "speaker": "Kasumi",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_OPEN_NPC_000_00#2",
+   "speaker": "Kasumi",
+   "en": "C-Could you please just go out with me!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C22_OPEN_NPC_001_00#0",
+   "speaker": "Kasumi",
+   "en": "Where to?[n]I've got time.[n]Not right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_OPEN_NPC_002_00#0",
+   "speaker": "Kasumi",
+   "en": "Really!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_OPEN_NPC_002_00#1",
+   "speaker": "Kasumi",
+   "en": "Th-Then shall we go get some tea?[n]Perhaps at the diner in Shibuya?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_OPEN_NPC_002_01#0",
+   "speaker": "Kasumi",
+   "en": "So... will you go with me!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_OPEN_NPC_002_01#1",
+   "speaker": "Kasumi",
+   "en": "Then let's go get some tea! How about[n]the diner at Shibuya?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_OPEN_NPC_002_02#0",
+   "speaker": "Kasumi",
+   "en": "Oh... I see.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_OPEN_NPC_002_02#1",
+   "speaker": "Kasumi",
+   "en": "But \"not right now\" means you'll have[n]time later, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_OPEN_NPC_002_02#2",
+   "speaker": "Kasumi",
+   "en": "I'll be waiting for you! Please just let[n]me know!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_OPEN_NPC_003_00#0",
+   "speaker": "Kasumi",
+   "en": "Then it's decided! Let's get going!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_C00_00#0",
+   "speaker": "Kasumi",
+   "en": "If you have time, would you like to do[n]some stretches with me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_C10_01#0",
+   "speaker": "Kasumi",
+   "en": "Um, would you like to go hang out[n]someplace today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_C10_01#1",
+   "speaker": "Kasumi",
+   "en": "It's good to take breaks now and then,[n]so... if you don't mind...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_C00_00_2#0",
+   "speaker": "Sumire",
+   "en": "I wanted to talk to you today, Senpai.[n]I mean, if you have a little time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_C10_00#0",
+   "speaker": "Sumire",
+   "en": "Um, I have a suggestion...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_C10_00#1",
+   "speaker": "Sumire",
+   "en": "What if we went on a date? I mean, like[n]a girlfriend-boyfriend date?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_C10_00#2",
+   "speaker": "Sumire",
+   "en": "I mean, I'd be happy just being with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_C10_00#3",
+   "speaker": "Sumire",
+   "en": "...Would it be okay if we spent some[n]time together?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_C10_01_2#0",
+   "speaker": "Sumire",
+   "en": "Um, do you want to go somewhere[n]today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_C10_01_2#1",
+   "speaker": "Sumire",
+   "en": "It's not good to overwork ourselves.[n]And a break might do us some good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R01_00#0",
+   "speaker": "Kasumi",
+   "en": "Do you want to do some training? We'll[n]just do some stretches to start.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R02_00#0",
+   "speaker": "Kasumi",
+   "en": "Do you have some time right now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R02_00#1",
+   "speaker": "Kasumi",
+   "en": "They gave me permission to use the[n]school gym, so I thought we could do[n]some training there!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R03_00#0",
+   "speaker": "Kasumi",
+   "en": "Um, I want you to come shopping with[n]me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R03_00#1",
+   "speaker": "Kasumi",
+   "en": "I don't know if I'd be able to handle this[n]on my own, you know?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_YOSIZAWA_COOP_R03_01#0",
+   "speaker": null,
+   "en": "Something's bothering Kasumi.[n]Can I get her to open up...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_YOSIZAWA_COOP_R03_02#0",
+   "speaker": null,
+   "en": "With the [stIcon 4][clr 26][stLabel 4][clr 27] that I have,[n]I probably couldn't connect with her.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_YOSIZAWA_COOP_R03_02#1",
+   "speaker": null,
+   "en": "Kasumi might rely on me more if[n]my [stIcon 4][clr 26][stLabel 4][clr 27] was at [clr 26][stLvLabel 4 4][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R03_03#0",
+   "speaker": "Kasumi",
+   "en": "Sorry, but I'll have to skip on training[n]today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R03_03#1",
+   "speaker": "Kasumi",
+   "en": "I'm hoping we'll get to it next time,[n]though!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_YOSIZAWA_COOP_R03_03#0",
+   "speaker": null,
+   "en": "With the [stIcon 4][clr 26][stLabel 4][clr 27] that I have,[n]I think I can help her open up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R03_05#0",
+   "speaker": "Kasumi",
+   "en": "Please help me out! I've got to hold up[n]my end of our deal!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R04_00#0",
+   "speaker": "Kasumi",
+   "en": "I'm thinking of doing a different kind[n]of training than usual...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R04_00#1",
+   "speaker": "Kasumi",
+   "en": "What do you think? Do you have time[n]to try it out right now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_CORP_R05_99#0",
+   "speaker": "Kasumi",
+   "en": "Um, Senpai, I was kind of hoping to[n]borrow some of your time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_CORP_R05_99#1",
+   "speaker": "Kasumi",
+   "en": "Is right now good?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_CORP_R05_90#0",
+   "speaker": "Kasumi",
+   "en": "[fName]-senpai...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_CORP_R05_90#1",
+   "speaker": "Kasumi",
+   "en": "Um... there's something I'd like to talk[n]to you about. Can you spare a moment?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_CORP_R05_90#2",
+   "speaker": "Kasumi",
+   "en": "There's no obligation, of course.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R06_00#0",
+   "speaker": "Sumire",
+   "en": "Senpai... Um... I...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R06_00#1",
+   "speaker": "Sumire",
+   "en": "I want to talk to you about something.[n]Do you have time?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R07_00#0",
+   "speaker": "Sumire",
+   "en": "I'm trying to do everything I can do[n]right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R07_00#1",
+   "speaker": "Sumire",
+   "en": "I'm thinking of taking a special lesson[n]from the coach at my club.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R07_01#0",
+   "speaker": "Sumire",
+   "en": "It's a special program that centers[n]around boxercising.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R07_01#1",
+   "speaker": "Sumire",
+   "en": "It relieves stress, and it's open to the[n]public... I was thinking you could come[n]along if you wanted.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R07_ch#0",
+   "speaker": "Sumire",
+   "en": "I... I'm sorry if this is sudden. I know[n]you're busy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R08_00#0",
+   "speaker": "Sumire",
+   "en": "Um, Senpai... I realized something.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R08_00#1",
+   "speaker": "Sumire",
+   "en": "If I want to find that boldness, I have[n]to do something about my mindset.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R08_00#2",
+   "speaker": "Sumire",
+   "en": "So, um, that's why... I was thinking[n]we could try having you watch me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R08_00#3",
+   "speaker": "Sumire",
+   "en": "Do you have some plans today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R09_00#0",
+   "speaker": "Sumire",
+   "en": "S-So, I wanted to tell you something[n]today!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R09_00#1",
+   "speaker": "Sumire",
+   "en": "May I have a little bit of your time?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R10_00#0",
+   "speaker": "Sumire",
+   "en": "I'm actually going to go and perform my[n]routine for my coach right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R10_00#1",
+   "speaker": "Sumire",
+   "en": "And I was hoping you'd come watch me,[n][fName]-senpai.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R10_00#2",
+   "speaker": "Sumire",
+   "en": "I'm confident that I can show her my[n]answer through my routine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R10_00#3",
+   "speaker": "Sumire",
+   "en": "So, if you've got the time to spare[n]on me, then please!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R10_01#0",
+   "speaker": "Sumire",
+   "en": "I'm actually going to go and perform my[n]routine for my coach right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R10_01#1",
+   "speaker": "Sumire",
+   "en": "And I was hoping you'd come watch me,[n][fName]-senpai.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R10_01#2",
+   "speaker": "Sumire",
+   "en": "I'm confident that I can show her my[n]answer through my routine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIZAWA_COOP_R10_01#3",
+   "speaker": "Sumire",
+   "en": "So, if you've got the time to spare[n]on me, then please!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_DOUZOKUSEI#0",
+   "speaker": null,
+   "en": "I feel I can become closer with[n][sumi 10 1] thanks to the [var 2][n]Persona [clr 1][var 5][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_DOUZOKUSEI_SMR#0",
+   "speaker": null,
+   "en": "I feel I can become closer with[n][sumi 10 1] thanks to the [var 2][n]Persona [clr 1][var 5][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANKUP_OK_FIRST#0",
+   "speaker": null,
+   "en": "This may be a good opportunity to[n]deepen my bond with Kasumi...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANKUP_OK#0",
+   "speaker": null,
+   "en": "I feel like my bond with [sumi 10 1][n]will grow stronger soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANKUP_OK_SMR#0",
+   "speaker": null,
+   "en": "I feel like my bond with [sumi 10 1][n]will grow stronger soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANKUP_NG#0",
+   "speaker": null,
+   "en": "I don't think my bond with [sumi 10 1][n]will deepen just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANKUP_NG_SMR#0",
+   "speaker": null,
+   "en": "I don't think my bond with [sumi 10 1][n]will deepen just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANK_MAX_00#0",
+   "speaker": null,
+   "en": "I have a special bond[n]with [sumi 10 1]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANK_MAX_01#0",
+   "speaker": null,
+   "en": "I have a solid bond with [sumi 10 1]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_DUNGEON#0",
+   "speaker": "Morgana",
+   "en": "It's good to take a break every so often.[n]Want to hang out with Yoshizawa?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_DUNGEON_S#0",
+   "speaker": "Morgana",
+   "en": "It's good to take a break every so often.[n]Want to hang out with Sumire?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_DAY#0",
+   "speaker": "Morgana",
+   "en": "So, are you going to go spend[n]some time with Yoshizawa?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_DAY_SMR#0",
+   "speaker": "Morgana",
+   "en": "So, what will it be? Are you going to[n]spend time with Sumire?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_SHIDOU#0",
+   "speaker": "Morgana",
+   "en": "Nobody thinks you're alive at[n]this point, so it should be okay[n]as long as you're careful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_SHIDOU#1",
+   "speaker": "Morgana",
+   "en": "So, what'll it be? Do you[n]want to hang out with [sumi 10 1]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK#0",
+   "speaker": null,
+   "en": "Hang out with her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK#1",
+   "speaker": null,
+   "en": "Check bond with [sumi 10 1]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK#2",
+   "speaker": null,
+   "en": "Decline",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_SMR#0",
+   "speaker": null,
+   "en": "Hang out with her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_SMR#1",
+   "speaker": null,
+   "en": "Check bond with [sumi 10 1]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_SMR#2",
+   "speaker": null,
+   "en": "Decline",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_SMR2#0",
+   "speaker": null,
+   "en": "Hang out with her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_SMR2#1",
+   "speaker": null,
+   "en": "Check bond with [sumi 10 1]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_01_00#0",
+   "speaker": "Kasumi",
+   "en": "Then it's decided! You know what[n]they say, strike while the iron's hot!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_01_00#1",
+   "speaker": "Kasumi",
+   "en": "I usually train at Inokashira Park. That[n]seems like as good a spot as any for[n]today!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_02_00#0",
+   "speaker": "Kasumi",
+   "en": "Hurray! Then let's get going!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_02_00#1",
+   "speaker": "Kasumi",
+   "en": "...Or, well, we'll get there eventually...[n]but do you want to get some food first?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_02_00#2",
+   "speaker": "Kasumi",
+   "en": "Can't exercise on an empty stomach.[n]And protein's very important, you know!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_02_01#0",
+   "speaker": "Kasumi",
+   "en": "Where can we eat...? How about[n]the school cafeteria?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_02_01#1",
+   "speaker": "Kasumi",
+   "en": "Now, Senpai! Let's get going for real[n]this time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_03_00#0",
+   "speaker": "Kasumi",
+   "en": "Thanks! I didn't even know what to do[n]with these oval shaped ones...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_03_00#1",
+   "speaker": "Kasumi",
+   "en": "I don't know what men like, and I've[n]just felt totally lost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_03_00#2",
+   "speaker": "Kasumi",
+   "en": "But thanks to you, Senpai, I think I can[n]finally figure this out!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C22_YES_03_01#0",
+   "speaker": null,
+   "en": "Figure what out?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C22_YES_03_01#1",
+   "speaker": null,
+   "en": "Can I help somehow?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_03_02#0",
+   "speaker": "Kasumi",
+   "en": "Hmm. I guess it's like... this definitely[n]isn't a decision that should be left to[n]an amateur like me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_03_03#0",
+   "speaker": "Kasumi",
+   "en": "Yes, of course! I can't think of anyone[n]better for the job, Senpai!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_03_04#0",
+   "speaker": "Kasumi",
+   "en": "Now, we'd better get going.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_03_04#1",
+   "speaker": "Kasumi",
+   "en": "The item in question is in Kichijoji.[n]Shall we?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_04_00#0",
+   "speaker": "Kasumi",
+   "en": "Ooh, Senpai. You really ARE ready!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_04_00#1",
+   "speaker": "Kasumi",
+   "en": "We're going to the batting cages.[n]I hope you're excited!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_05_00#0",
+   "speaker": "Sumire",
+   "en": "Th-Thank you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_05_00#1",
+   "speaker": "Sumire",
+   "en": "Um, can we go elsewhere? It's a bit[n]difficult to talk about it here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_06_00#0",
+   "speaker": "Sumire",
+   "en": "Really? Thank you so much.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_06_00#1",
+   "speaker": "Sumire",
+   "en": "I'll introduce you to coach Hiraguchi-san[n]once my lesson ends.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_06_00#2",
+   "speaker": "Sumire",
+   "en": "She's an amazing person. She's been[n]guiding Kasumi and me since we were[n]little.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_06_chat#0",
+   "speaker": "Sumire",
+   "en": "I'll introduce you to coach Hiraguchi-san[n]once my lesson ends.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_06_chat#1",
+   "speaker": "Sumire",
+   "en": "She's an amazing person. She's been[n]guiding Kasumi and me since we were[n]little.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_06_01#0",
+   "speaker": "Sumire",
+   "en": "Now, let's head over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_07_00#0",
+   "speaker": "Sumire",
+   "en": "Thank you very much. Um... can we[n]meet up at the store at Shibuya?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_07_00#1",
+   "speaker": "Sumire",
+   "en": "There's something I'd like to show you.[n]I'll go first and get myself ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_07_00#2",
+   "speaker": "Sumire",
+   "en": "Now then, if you'd excuse me. I'll see[n]you later!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_08_00#0",
+   "speaker": "Sumire",
+   "en": "Senpai... Thank you so much.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_08_00#1",
+   "speaker": "Sumire",
+   "en": "Oh, but as to where we'd go...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_08_00#2",
+   "speaker": "Sumire",
+   "en": "If possible, I'd like to go somewhere[n]we can have a quiet discussion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C22_YES_08_01#0",
+   "speaker": null,
+   "en": "Wanna come over?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C22_YES_08_01#1",
+   "speaker": null,
+   "en": "We have a café.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_08_02#0",
+   "speaker": "Sumire",
+   "en": "Wha—!? Y-Y... Y-Your house, Senpai!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_08_02#1",
+   "speaker": "Sumire",
+   "en": "I, um! I-I think that's a bit early! I mean,[n]I don't know if my heart's ready for that![n]So...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_08_02#2",
+   "speaker": "Sumire",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_08_02#3",
+   "speaker": "Sumire",
+   "en": "Oh... when you said come over, you[n]meant to Leblanc?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_08_02#4",
+   "speaker": "Sumire",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_08_02#5",
+   "speaker": "Sumire",
+   "en": "I'm so sorry! I jumped the gun! I'm[n]such an idiot!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_08_03#0",
+   "speaker": "Sumire",
+   "en": "Oh, Leblanc!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_08_04#0",
+   "speaker": "Sumire",
+   "en": "I suppose we would be able to talk[n]in peace there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_08_04#1",
+   "speaker": "Sumire",
+   "en": "Um, if that's really okay, I'll head over[n]there...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_09_00#0",
+   "speaker": "Sumire",
+   "en": "Th-Thank you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_09_00#1",
+   "speaker": "Sumire",
+   "en": "Then let's get ready and head over to[n]the gymnasium!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_09_01#0",
+   "speaker": "Sumire",
+   "en": "Th-Thank you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_09_01#1",
+   "speaker": "Sumire",
+   "en": "Then let's get ready and head over to[n]the gymnasium!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_COOP_ESCAPE#0",
+   "speaker": "Morgana",
+   "en": "Well, I'm gonna walk around.[n]Let me know when you're ready[n]to leave.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_SPOT_00_00#0",
+   "speaker": "[sumi 10 0]",
+   "en": "What should we do today? Is there[n]something you'd like to do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_SPOT_00_00_SMR#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Hmm. What should we do today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_SPOT_00_00_SMR#1",
+   "speaker": "[sumi 10 0]",
+   "en": "If there's something you'd like to do[n]today, I'll go with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C22_SPOT_00_01#0",
+   "speaker": null,
+   "en": "Let's go hang out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C22_SPOT_00_01#1",
+   "speaker": null,
+   "en": "Let's go to my room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C22_SPOT_00_01#2",
+   "speaker": null,
+   "en": "Let's talk.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_SPOT_00_10#0",
+   "speaker": "[sumi 10 0]",
+   "en": "That would be great. I think it'd help[n]us both de-stress a little.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_SPOT_00_10_SMR#0",
+   "speaker": "[sumi 10 0]",
+   "en": "That's a great idea, it's important to[n]take breaks...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_SPOT_00_10_SMR#1",
+   "speaker": "[sumi 10 0]",
+   "en": "Oh, but where should we go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_MYROOM_00_10_SMR#0",
+   "speaker": "Sumire",
+   "en": "Huh? Y-Your room!? Just the t-two of us[n]in your room!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_MYROOM_00_10_SMR#1",
+   "speaker": "Sumire",
+   "en": "I, um—I'm not planning on doing anything[n]weird, but, well...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_MYROOM_00_10_SMR#2",
+   "speaker": "Sumire",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_MYROOM_00_10_SMR#3",
+   "speaker": "Sumire",
+   "en": "If you're okay with it, then I'd love to...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_00_00#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Oh, I'm so excited! Let's hurry and get[n]going!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_00_00_SMR#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Then let's go. Lead the way, Senpai.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_10_00#0",
+   "speaker": "Sumire",
+   "en": "U-Um... I'm already starting to get[n]nervous.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_10_01#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Then let's go! I'm so excited.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_COOP_CANCEL#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Oh, is that so? Then perhaps next time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_COOP_CANCEL_SMR#0",
+   "speaker": "[sumi 10 0]",
+   "en": "I see...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_COOP_CANCEL_SMR#1",
+   "speaker": "[sumi 10 0]",
+   "en": "Then please come talk to me when[n]you have time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_BEGIN_D10_REV#0",
+   "speaker": "Sumire",
+   "en": "Oh, hello [fName]-senpai.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_COOP_10_00_REV#0",
+   "speaker": "Sumire",
+   "en": "Um, I don't want to impose, but do you[n]have some time to talk?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_COOP_10_00_REV#1",
+   "speaker": "Sumire",
+   "en": "I wanted to discuss my plans for[n]the future...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANK_MAX__REV#0",
+   "speaker": null,
+   "en": "It sounds like Sumire has something[n]important she would like to tell me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_3RD_REV#0",
+   "speaker": "Morgana",
+   "en": "Sumire looks pretty solemn...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_3RD_REV#1",
+   "speaker": "Morgana",
+   "en": "What're you gonna do? Do you wanna[n]spend some time with Sumire?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_REV#0",
+   "speaker": null,
+   "en": "Hang out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_REV#1",
+   "speaker": null,
+   "en": "Not this time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_10_00_REV#0",
+   "speaker": "Sumire",
+   "en": "Thank you so much! Then will you[n]please come to my place?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_10_00_REV#1",
+   "speaker": "Sumire",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_10_00_REV#2",
+   "speaker": "Sumire",
+   "en": "Oh! I'm so sorry! I know it's weird to[n]invite you to my place out of the blue[n]like that—",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_10_00_REV#3",
+   "speaker": "Sumire",
+   "en": "I-I-I-I'm so sorry! I swear it's not[n]anything weird!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_YES_10_00_REV#4",
+   "speaker": "Sumire",
+   "en": "N-Now then, shall we get going?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_COOP_ESCAPE__2#0",
+   "speaker": "Morgana",
+   "en": "Okay, then I'll take my leave... I'm[n]leaving Lady Ann to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_COOP_CANCEL_REV#0",
+   "speaker": "Sumire",
+   "en": "I see... Then please let me know when[n]you have some time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_EVOLUTION_WAIT#0",
+   "speaker": "Sumire",
+   "en": "I'm sorry, I've got some things on my[n]mind today. I'd like to have some time[n]to myself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C22_EVOLUTION_WAIT#1",
+   "speaker": "Sumire",
+   "en": "Please let me know if it's an emergency,[n]though. I'll be sure to be there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_KANDA#0",
+   "speaker": null,
+   "en": "You can now go to [clr 1]Kanda[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINJUKU#0",
+   "speaker": null,
+   "en": "You can now go to [clr 2]Shinjuku[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_AKIHABARA#0",
+   "speaker": null,
+   "en": "You can now go to [clr 2]Akihabara[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_AKIHABARA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_INOKASHIRA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Inokashira Park[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_INOKASHIRA#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may like it there to hang out[n]with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_OGIKUBO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ogikubo Ramen[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_OGIKUBO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy eating ramen[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ODAIBA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Odaiba Seaside Park[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ODAIBA#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may like such parks to hang out[n]with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_UENO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ueno Museum[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_UENO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy art museums[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TSUKISHIMA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Tsukishima Monja[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TSUKISHIMA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy eating monjayaki[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_HARAJUKU#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Harajuku Takenoko Street[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_HARAJUKU#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may enjoy Takenoko Street to[n]hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TYUKAGAI#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Motomachi Chinatown[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TYUKAGAI#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to hang[n]out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MAIHAMA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Maihama Destinyland[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MAIHAMA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to hang[n]out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ASAKUSA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Asakusa[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ASAKUSA#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may enjoy the Skytree or Nakamise[n]Street to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_IKEBUKURO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ikebukuro Planetarium[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_IKEBUKURO#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may like it there to hang out[n]with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MEIJIJINGU#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Meiji Shrine[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MEIJIJINGU#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may like it there to hang out[n]with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MEIJIJINGU#2",
+   "speaker": null,
+   "en": "Furthermore, you can go by[n]yourself to pay homage to[n]the shrine if you wish.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SUIDOUBASH#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Suidobashi Dome Town[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SUIDOUBASH#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHIBUYA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Shibuya Wilton Hotel[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHIBUYA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_GINZA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ginza Sushi Bar[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_GINZA#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may enjoy eating expensive sushi[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_JINBOCHO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Jinbocho Book Town[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_JINBOCHO#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may like it there to hang out[n]with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_JINBOCHO#2",
+   "speaker": null,
+   "en": "Furthermore, you can go by[n]yourself for some shopping[n]if you so desire.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ICHIGAYA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ichigaya Fishing Pond[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ICHIGAYA#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may enjoy fishing to hang out[n]with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ICHIGAYA#2",
+   "speaker": null,
+   "en": "Furthermore, you can go by[n]yourself and try your hand at[n]fishing if you so choose.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINAGAWA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Shinagawa Aquarium[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINAGAWA#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may enjoy the aquarium to hang[n]out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_NAKANO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Nakano Commerce Building District[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_NAKANO#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may enjoy that location to hang[n]out with you there.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

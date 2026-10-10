@@ -1,0 +1,334 @@
+{
+ "file": "EN/BATTLE/TALK/TALK_06LADY_EN.BF",
+ "entries": [
+  {
+   "id": "EnTalkMsg_DUMMY#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "DebugMsg_ERROR#0",
+   "speaker": null,
+   "en": "(Error)",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_00#0",
+   "speaker": null,
+   "en": "Oh, is your colleague all right? At this[n]rate, they might suffer a terrible tragedy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_00#1",
+   "speaker": null,
+   "en": "If you wish to save them, I ask for an[n]apology. Let's see... Won't you give me[n]just one [f 2 5 3 9999 3]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_01#0",
+   "speaker": null,
+   "en": "Your colleague is in quite the pinch,[n]it seems. Such a lovely expression,[n]one filled with pain.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_01#1",
+   "speaker": null,
+   "en": "[var 0] yen should suffice...[n]You understand, don't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_02#0",
+   "speaker": null,
+   "en": "Do you wish to save your colleague?[n]Then, you must bleed for them as well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_02#1",
+   "speaker": null,
+   "en": "Let's see... I ask you to give me some[n]health. It's not too expensive if it makes[n]everyone happy, correct?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_03#0",
+   "speaker": null,
+   "en": "Hmhm... Your colleague is in danger.[n]Look at their expression... They seem[n]to be in such pain.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_03#1",
+   "speaker": null,
+   "en": "Don't you wish to save your colleague?[n]Then, I ask that you give me some of[n]your stamina.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_EN_CONTACT#0",
+   "speaker": null,
+   "en": "Fine, you win.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_EN_CONTACT#1",
+   "speaker": null,
+   "en": "I can't meet your demands.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_EN_CONTACT#2",
+   "speaker": null,
+   "en": "Call Thieves Guild ([var 5] left).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_EN_CONTACT#3",
+   "speaker": null,
+   "en": "[clr 2]You're up, Panther.[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_00#0",
+   "speaker": null,
+   "en": "Oh, but we're not done here... A lady[n]requires much more in compensation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_00#1",
+   "speaker": null,
+   "en": "Now... I ask for [f 2 5 3 9999 3].[n]You're free to decline if you wish,[n]but if you do so...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_01#0",
+   "speaker": null,
+   "en": "...It seems I cannot forgive you just yet.[n]Please, entertain me more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_01#1",
+   "speaker": null,
+   "en": "May I have [var 0] yen this[n]time? It's for the sake of your colleague...[n]is it not?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_02#0",
+   "speaker": null,
+   "en": "You haven't sacrificed enough yet.[n]I must teach you the true meaning[n]of suffering...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_02#1",
+   "speaker": null,
+   "en": "I ask for your health this time. If you[n]wish to save your colleague, you'll[n]give it to me, yes?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_03#0",
+   "speaker": null,
+   "en": "...You still look rather composed.[n]An impressive poker face, for a child.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_03#1",
+   "speaker": null,
+   "en": "Give me some of your stamina this time.[n]Seeing you suffer to save your colleague[n]is quite enticing...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_AGREE_00#0",
+   "speaker": null,
+   "en": "...That should be enough. I shall release[n]your colleague.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_AGREE_01#0",
+   "speaker": null,
+   "en": "I have greatly enjoyed watching you[n]suffer. I shall return your colleague,[n]as promised.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_SLAY_00#0",
+   "speaker": null,
+   "en": "You're abandoning your colleague?[n]...Such is the extent of human[n]partnership, it seems.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_SLAY_00#1",
+   "speaker": null,
+   "en": "Very well then, allow me to show you[n]a deeper form of suffering!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_SLAY_01#0",
+   "speaker": null,
+   "en": "You're willing to sacrifice your[n]colleague? Your troubled look[n]is so enticing...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_SLAY_01#1",
+   "speaker": null,
+   "en": "Come, won't you show me an even[n]more entertaining expression?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FORGIVE_00#0",
+   "speaker": null,
+   "en": "You're fine with this? How dry... It seems you aren't suffering much, either. This is[n]boring.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FORGIVE_00#1",
+   "speaker": null,
+   "en": "...I've grown bored of you, why don't we[n]end this? I'll be taking my leave now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FORGIVE_01#0",
+   "speaker": null,
+   "en": "So, you don't care about your colleague?[n]But I wanted to watch you squirm...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FORGIVE_01#1",
+   "speaker": null,
+   "en": "How boring... I've lost interest in you.[n]Please excuse me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FLEE_00#0",
+   "speaker": null,
+   "en": "I shall be taking my leave now.[n]Au revoir.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FLEE_01#0",
+   "speaker": null,
+   "en": "Let us meet again someday. Until then...[n]au revoir.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_ACCEPT_00#0",
+   "speaker": null,
+   "en": "...Well then, shall we get back to[n]business? I won't lose.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_ACCEPT_01#0",
+   "speaker": null,
+   "en": "...Now, that's settled. Shall we continue[n]from where we left off?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FALTER_00#0",
+   "speaker": null,
+   "en": "What the—!? Outsiders? But from where!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FALTER_01#0",
+   "speaker": null,
+   "en": "How rude! It seems we've been[n]interrupted.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FAKE_CRIED00#0",
+   "speaker": null,
+   "en": "Huh? Darling, what's the matter?[n]Very well, I'll forgive you for[n][f 2 5 3 9999 3].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FAKE_CRIED01#0",
+   "speaker": null,
+   "en": "Huh!? A lady should never shed tears[n]in public... Well, I'll overlook this for[n][var 0] yen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FAKE_CRIED02#0",
+   "speaker": null,
+   "en": "Huh? What's this!? ...Fine. I'll forgive you[n]if I can have some of your health.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FAKE_CRIED03#0",
+   "speaker": null,
+   "en": "Oh you poor darling... I understand.[n]I'll forgive this if I can have some of[n]your stamina.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FAKE_COUP00#0",
+   "speaker": null,
+   "en": "What!? Oh... Did I do something that[n]outlandish? Hmph, seems this is[n]unwanted behavior.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FAKE_COUP01#0",
+   "speaker": null,
+   "en": "*sigh* This is all because you attacked[n]first... I can't stand this atmosphere. I'll[n]take my leave.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_NO_REQUIREMENT#0",
+   "speaker": null,
+   "en": "You don't have it? That just breaks[n]my heart...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CharmActing#0",
+   "speaker": "Ann",
+   "en": "No... I can't believe you'd take that from us...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NetEngo#0",
+   "speaker": null,
+   "en": "Another band of thieves[n]responded to the call!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

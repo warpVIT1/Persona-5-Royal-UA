@@ -1,0 +1,1741 @@
+{
+ "file": "EN/BATTLE/EVENT/SCRIPT/0301.BF",
+ "entries": [
+  {
+   "id": "MSG_BTLSTART_000_000#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "You goddamn, no-good, shitty brats![n]Haven't you been taught not to point[n]at people!? Huh!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_010_003#0",
+   "speaker": "Ann",
+   "en": "Will you stop doing that every single[n]time!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_020_001#0",
+   "speaker": "Morgana",
+   "en": "Look! The Treasure's over there!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_030_001#0",
+   "speaker": "Morgana",
+   "en": "We should catch him off guard and[n]steal it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_030_001#1",
+   "speaker": "Morgana",
+   "en": "Let's attack him and wait for that[n]opportunity!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_USETROPHY_000_00#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Mmm. Mmm. Mmm. That hits[n]the spot!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_USETROPHY_000_00#1",
+   "speaker": "Shadow Kamoshida",
+   "en": "Come at me, you pieces of shit![n]I ain't lettin' you sleep tonight!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_USETROPHY_020_00#0",
+   "speaker": "Morgana",
+   "en": "He healed himself? Is it from eating[n]one of those... things in the trophy?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_USETROPHY_020_00#1",
+   "speaker": "Morgana",
+   "en": "Then we should destroy that first!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_USETROPHY_030_00#0",
+   "speaker": "Morgana",
+   "en": "He healed himself? Is it from eating[n]one of those... things in the trophy?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_USETROP02_000_00#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Mmmmm! That's the good stuff![n]Now I'm back in the game!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_USETROP02_010_00#0",
+   "speaker": "Morgana",
+   "en": "We won't last if we leave[n]that trophy be!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TROPHY99_000_000#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "*gasp* Hey!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TROPHY99_000_000#1",
+   "speaker": "Shadow Kamoshida",
+   "en": "You don't know what this is worth, so[n]stop touching it! Don't do it anymore,[n]got it? I've warned you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TROPHY99_010_001#0",
+   "speaker": "Morgana",
+   "en": "When someone tells us not to do[n]something, it makes us want to do it[n]even more!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TROPHYEND_000_00#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "...Ack!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TROPHYEND_000_00#1",
+   "speaker": "Shadow Kamoshida",
+   "en": "No way... This was from when I won[n]the national...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TROPHYEND_010_00#0",
+   "speaker": "Morgana",
+   "en": "All right!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_000_000#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "You think that you can get away with[n]doing such a thing? Do you realize[n]who I am!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_000_000#1",
+   "speaker": "Shadow Kamoshida",
+   "en": "I am Kamoshida! Don't you get it!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP01_010#0",
+   "speaker": null,
+   "en": "Yeah, we do.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP01_010#1",
+   "speaker": null,
+   "en": "So what?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP01_010#2",
+   "speaker": null,
+   "en": "I'll think about that later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_020_000#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "And yet you still do this!? That's even[n]worse!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_020_000#1",
+   "speaker": "Shadow Kamoshida",
+   "en": "I'll make you regret this! I am the king!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_021_000#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Huh!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_021_000#1",
+   "speaker": "Shadow Kamoshida",
+   "en": "Like I keep saying—I am Kamoshida![n]I'm the king!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_022_000#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Bullshit! I am above everything in[n]this castle!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_022_000#1",
+   "speaker": "Shadow Kamoshida",
+   "en": "I am Kamoshida! I'm the king here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_030_002#0",
+   "speaker": "Ryuji",
+   "en": "I always saw you as a condescending[n]hotshot, but right now... you're just a[n]pathetic loser.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_040_003#0",
+   "speaker": "Ann",
+   "en": "We came all this way to steal that![n]Will you just give it up and hand[n]it over?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_045_000#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Silence! I won't let the likes of you[n]have this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_050_001#0",
+   "speaker": "Morgana",
+   "en": "You still have the energy to say things[n]like that!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_060_001#0",
+   "speaker": "Morgana",
+   "en": "Then we're going to up our game[n]as well!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOWTOSTEAL_000_0#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "I'm the king! If I'm not, then who is!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOWTOSTEAL_000_0_2#0",
+   "speaker": "Ryuji",
+   "en": "He's as stubborn as ever... Ain't there[n]an easier way for us to deal with him?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOWTOSTEAL_010_0#0",
+   "speaker": "Morgana",
+   "en": "Then let's go with Plan B! See that[n]terrace over there!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOWTOSTEAL_010_0#1",
+   "speaker": "Morgana",
+   "en": "Have someone go there while the[n]others are attacking Kamoshida!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOWTOSTEAL_010_0#2",
+   "speaker": "Morgana",
+   "en": "We'll catch Kamoshida off guard and[n]steal the Treasure like the phantom thieves[n]we are!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_NORYUJI_000_001#0",
+   "speaker": "Morgana",
+   "en": "To think he'd give someone like me[n]such a hard time... I suppose it's time[n]I pull out Plan B...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HAKENNEW_990_001#0",
+   "speaker": "Morgana",
+   "en": "I see... In that case, time for Plan B!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HAKENNEW_010_001#0",
+   "speaker": "Morgana",
+   "en": "Look over at that terrace!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HAKENNEW_010_001#1",
+   "speaker": "Morgana",
+   "en": "While the others are drawing[n]Kamoshida's attention, have[n]someone go there!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HAKENNEW_010_001#2",
+   "speaker": "Morgana",
+   "en": "Let's steal the Treasure without him[n]noticing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP_HOW2STEAL#0",
+   "speaker": null,
+   "en": "[fName] may sometimes be able[n]to give special operation orders[n]to teammates on his turn.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP_HOW2STEAL#1",
+   "speaker": null,
+   "en": "Consider your teammates' suggestions[n]and select the one you think will be[n]able to complete the operation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP_HOW2STEAL#2",
+   "speaker": null,
+   "en": "However, you will have to fight[n]a man down while your teammate[n]is away performing the action.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HAKENOPEN01_010#0",
+   "speaker": null,
+   "en": "Let's go for the crown.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HAKENOPEN01_010#1",
+   "speaker": null,
+   "en": "We should take the Treasure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOWTOSTEAL_100_0#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "I'll say it as many times as I need to:[n]don't defy me! Because I'M the king!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOWTOSTEAL_011_0#0",
+   "speaker": "Morgana",
+   "en": "We won't get anywhere with[n]brute force...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOWTOSTEAL_999_0#0",
+   "speaker": "Morgana",
+   "en": "What do we do!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOWTOSTEAL_012_0#0",
+   "speaker": "Morgana",
+   "en": "Then let's go with Plan B! See that[n]terrace over there!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOWTOSTEAL_012_0#1",
+   "speaker": "Morgana",
+   "en": "Have someone go there while the[n]others are attacking Kamoshida!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOWTOSTEAL_012_0#2",
+   "speaker": "Morgana",
+   "en": "We'll catch Kamoshida off guard and[n]steal the Treasure like the phantom thieves[n]we are!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SPSPIKE_000_000#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "How dare you keep defying me...[n]Looks like I gotta bring out the[n]big guns!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SPSPIKE_000_000#1",
+   "speaker": "Shadow Kamoshida",
+   "en": "Slaves! Bring over you-know-what!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SPSPIKE_010_000#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Time for my killshot from when I was[n]active and rockin' it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SPSPIKE_010_000#1",
+   "speaker": "Shadow Kamoshida",
+   "en": "Killshot... as in I'll make the kill!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SPSPIKE02_000_00#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "You're quite tenacious...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Now listen up. This school exists[n]because I'm around.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0#1",
+   "speaker": "Shadow Kamoshida",
+   "en": "You're the only ones who don't[n]respect me, you know!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0_2#0",
+   "speaker": "Morgana",
+   "en": "...It's all going as planned.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0_3#0",
+   "speaker": "Morgana",
+   "en": "Time to use this opportunity to take[n]the Treasure!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0_4#0",
+   "speaker": "Ryuji",
+   "en": "Yeah, whatever, man...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0_5#0",
+   "speaker": "Ryuji",
+   "en": "Anyway. Now's my chance!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0_6#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "You're misunderstanding it all![n]I haven't sexually harassed anyone!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0_7#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "They came on to me because they[n]wanted to get on my good side!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0_8#0",
+   "speaker": "Morgana",
+   "en": "He hasn't noticed a thing here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0_9#0",
+   "speaker": "Morgana",
+   "en": "Good. Just a little more to the Treasure!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0_10#0",
+   "speaker": "Ryuji",
+   "en": "What a total moron...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0_11#0",
+   "speaker": "Ryuji",
+   "en": "But at least it's lettin' me get closer[n]to the Treasure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0_12#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Is there one less of you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0_13#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "I knew it! They're missing! Where'd[n]they go!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0_14#0",
+   "speaker": "Morgana",
+   "en": "It's already check and mate!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0_15#0",
+   "speaker": "Ryuji",
+   "en": "Took you too long to notice, moron!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION_MORGANAMIS#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Hey! You cat...like thing! I'll make you[n]run laps around the school if you try[n]anything funny!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION_MORGANAMIS_2#0",
+   "speaker": "Morgana",
+   "en": "What a blunder I've made...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION_MORGANAMIS_3#0",
+   "speaker": "Morgana",
+   "en": "You have to attack more and draw[n]his attention!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION_REIJIMISS_#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Hey, Sakamoto! Why the hell can't[n]you behave, huh!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION_REIJIMISS__2#0",
+   "speaker": "Ryuji",
+   "en": "Crap!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION_REIJIMISS__3#0",
+   "speaker": "Ryuji",
+   "en": "If you guys don't attack him more,[n]he'll notice what we're up to!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION_ANNMISS_00#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Where do you think you're going,[n]Takamaki? You and that damn fine[n]bod of yours!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION_ANNMISS_01#0",
+   "speaker": "Ann",
+   "en": "Ugh, he keeps staring at me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION_ANNMISS_02#0",
+   "speaker": "Ann",
+   "en": "Hey, shouldn't I stay here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTEALAFTER_000_00#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Nooo! My... my precious...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTEALAFTER_010_00#0",
+   "speaker": "Morgana",
+   "en": "Good, Kamoshida's shaken up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTEALAFTER_020_00#0",
+   "speaker": "Ann",
+   "en": "I think we can do this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_000_000EX#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "You goddamn, no-good, shitty brats![n]Haven't you been taught not to point[n]at people!? Huh!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_010_003EX#0",
+   "speaker": "Ann",
+   "en": "Will you stop doing that every single[n]time!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_020_001EX#0",
+   "speaker": "Morgana",
+   "en": "Look! The Treasure's over there!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_030_001EX#0",
+   "speaker": "Morgana",
+   "en": "We should catch him off guard and[n]steal it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_030_001EX#1",
+   "speaker": "Morgana",
+   "en": "Let's attack him and wait for that[n]opportunity!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_USETROPHY_000_00_2#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Mmm. Mmm. Mmm. That hits[n]the spot!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_USETROPHY_000_00_2#1",
+   "speaker": "Shadow Kamoshida",
+   "en": "Come at me, you pieces of shit![n]I ain't lettin' you sleep tonight!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_USETROPHY_020_00_2#0",
+   "speaker": "Morgana",
+   "en": "He healed himself? Is it from eating[n]one of those... things in the trophy?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_USETROPHY_020_00_2#1",
+   "speaker": "Morgana",
+   "en": "Then we should destroy that first!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_USETROPHY_030_00_2#0",
+   "speaker": "Morgana",
+   "en": "He healed himself? Is it from eating[n]one of those... things in the trophy?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_USETROP02_000_00_2#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Mmmmm! That's the good stuff![n]Now I'm back in the game!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_USETROP02_010_00_2#0",
+   "speaker": "Morgana",
+   "en": "We won't last if we leave[n]that trophy be!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TROPHY99_000_000_2#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "*gasp* Hey!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TROPHY99_000_000_2#1",
+   "speaker": "Shadow Kamoshida",
+   "en": "You don't know what this is worth, so[n]stop touching it! Don't do it anymore,[n]got it? I've warned you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TROPHY99_010_001_2#0",
+   "speaker": "Morgana",
+   "en": "When someone tells us not to do[n]something, it makes us want to do it[n]even more!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TROPHYEND_000_00_2#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "...Ack!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TROPHYEND_000_00_2#1",
+   "speaker": "Shadow Kamoshida",
+   "en": "No way... This was from when I won[n]the national...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TROPHYEND_010_00_2#0",
+   "speaker": "Morgana",
+   "en": "All right!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_000_000_2#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "You think that you can get away with[n]doing such a thing? Do you realize[n]who I am!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_000_000_2#1",
+   "speaker": "Shadow Kamoshida",
+   "en": "I am Kamoshida! Don't you get it!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP01_010EX#0",
+   "speaker": null,
+   "en": "Yeah, we do.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP01_010EX#1",
+   "speaker": null,
+   "en": "So what?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP01_010EX#2",
+   "speaker": null,
+   "en": "I'll think about that later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_020_000_2#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "And yet you still do this!? That's even[n]worse!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_020_000_2#1",
+   "speaker": "Shadow Kamoshida",
+   "en": "I'll make you regret this! I am the king!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_021_000_2#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Huh!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_021_000_2#1",
+   "speaker": "Shadow Kamoshida",
+   "en": "Like I keep saying! I am Kamoshida![n]I'm the king!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_022_000_2#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Bullshit! I am above everything in[n]this castle!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_022_000_2#1",
+   "speaker": "Shadow Kamoshida",
+   "en": "I am Kamoshida! I'm the king here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_030_002_2#0",
+   "speaker": "Ryuji",
+   "en": "You look down on everyone... but[n]you're seriously lame right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_040_003_2#0",
+   "speaker": "Ann",
+   "en": "We came all this way to steal that![n]Will you just give it up and hand[n]it over?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_045_000_2#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Silence! I won't let the likes of you[n]have this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_050_001_2#0",
+   "speaker": "Morgana",
+   "en": "You still have the energy to say things[n]like that!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_060_001_2#0",
+   "speaker": "Morgana",
+   "en": "Then we're going to up our game[n]as well!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOWTOSTEAL_000_0_3#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "I'm the king! If I'm not, then who is!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOWTOSTEAL_000_0_4#0",
+   "speaker": "Ryuji",
+   "en": "He's as stubborn as ever... Ain't there[n]an easier way for us to deal with him?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOWTOSTEAL_010_0_2#0",
+   "speaker": "Morgana",
+   "en": "Then let's go with Plan B! See that[n]terrace over there!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOWTOSTEAL_010_0_2#1",
+   "speaker": "Morgana",
+   "en": "While the others are drawing[n]Kamoshida's attention, have[n]someone go there!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOWTOSTEAL_010_0_2#2",
+   "speaker": "Morgana",
+   "en": "We'll catch Kamoshida off guard and[n]steal the Treasure like the phantom thieves[n]we are!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_NORYUJI_000_001E#0",
+   "speaker": "Morgana",
+   "en": "To think he'd give someone like me[n]such a hard time... I suppose it's time[n]I pull out Plan B...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HAKENNEW_990_001_2#0",
+   "speaker": "Morgana",
+   "en": "I see... In that case, time for Plan B!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HAKENNEW_010_001_2#0",
+   "speaker": "Morgana",
+   "en": "Look over at that terrace!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HAKENNEW_010_001_2#1",
+   "speaker": "Morgana",
+   "en": "Have someone go there while the[n]others are attacking Kamoshida!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HAKENNEW_010_001_2#2",
+   "speaker": "Morgana",
+   "en": "Let's steal the Treasure without him[n]noticing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP_HOW2STEAL_2#0",
+   "speaker": null,
+   "en": "[fName] may sometimes be able[n]to give special operation orders[n]to teammates on his turn.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP_HOW2STEAL_2#1",
+   "speaker": null,
+   "en": "Consider your teammates' suggestions[n]and select the one you think will be[n]able to complete the operation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP_HOW2STEAL_2#2",
+   "speaker": null,
+   "en": "However, you will have to fight[n]a man down while your teammate[n]is away performing the action.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HAKENOPEN01_010E#0",
+   "speaker": null,
+   "en": "Let's go for the crown.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HAKENOPEN01_010E#1",
+   "speaker": null,
+   "en": "We should take the Treasure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOWTOSTEAL_100_0_2#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "I'll say it as many times as I need to:[n]don't defy me! Because I'M the king!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOWTOSTEAL_011_0_2#0",
+   "speaker": "Morgana",
+   "en": "We won't get anywhere with[n]brute force...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOWTOSTEAL_999_0_2#0",
+   "speaker": "Morgana",
+   "en": "What do we do!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOWTOSTEAL_012_0_2#0",
+   "speaker": "Morgana",
+   "en": "Then let's go with Plan B! See that[n]terrace over there!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOWTOSTEAL_012_0_2#1",
+   "speaker": "Morgana",
+   "en": "Have someone go there while the[n]others are attacking Kamoshida!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOWTOSTEAL_012_0_2#2",
+   "speaker": "Morgana",
+   "en": "We'll catch Kamoshida off guard and[n]steal the Treasure like the phantom thieves[n]we are!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SPSPIKE_000_000E#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "How dare you keep defying me...[n]Looks like I gotta bring out the big[n]guns!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SPSPIKE_000_000E#1",
+   "speaker": "Shadow Kamoshida",
+   "en": "Slaves! Bring over you-know-what!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SPSPIKE_010_000E#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Time for my killshot from when I was[n]active and rockin' it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SPSPIKE_010_000E#1",
+   "speaker": "Shadow Kamoshida",
+   "en": "Killshot... as in I'll make the kill!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SPSPIKE02_000_00_2#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "You're quite tenacious...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SPSPIKE02_000_00_2#1",
+   "speaker": "Shadow Kamoshida",
+   "en": "...Ah, I get it! You want to see my[n]killshot again, don't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0_16#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Now listen up. This school exists[n]because I'm around.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0_16#1",
+   "speaker": "Shadow Kamoshida",
+   "en": "You're the only ones who don't[n]respect me, you know!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0_17#0",
+   "speaker": "Morgana",
+   "en": "...It's all going as planned.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0_18#0",
+   "speaker": "Morgana",
+   "en": "Time to use this opportunity to take[n]the Treasure!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0_19#0",
+   "speaker": "Ryuji",
+   "en": "Yeah, whatever, man...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0_20#0",
+   "speaker": "Ryuji",
+   "en": "Anyway. Now's my chance!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0_21#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "You're misunderstanding it all![n]I haven't sexually harassed anyone!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0_22#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "They came on to me because they[n]wanted to get on my good side!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0_23#0",
+   "speaker": "Morgana",
+   "en": "He hasn't noticed a thing here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0_24#0",
+   "speaker": "Morgana",
+   "en": "Good. Just a little more to the Treasure!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0_25#0",
+   "speaker": "Ryuji",
+   "en": "What a total moron...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0_26#0",
+   "speaker": "Ryuji",
+   "en": "But at least it's lettin' me get closer[n]to the Treasure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0_27#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Is there one less of you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0_28#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "I knew it! They're missing! Where'd[n]they go!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0_29#0",
+   "speaker": "Morgana",
+   "en": "It's already check and mate!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAMOSHIDA_ATTENTION0_30#0",
+   "speaker": "Ryuji",
+   "en": "Took you too long to notice, moron!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION_MORGANAMIS_4#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Hey! You cat...like thing! I'll make you[n]run laps around the school if you try[n]anything funny!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION_MORGANAMIS_5#0",
+   "speaker": "Morgana",
+   "en": "I really messed up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION_MORGANAMIS_6#0",
+   "speaker": "Morgana",
+   "en": "You have to attack more and draw[n]his attention!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION_REIJIMISS__4#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Hey, Sakamoto! Why the hell can't[n]you behave, huh!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION_REIJIMISS__5#0",
+   "speaker": "Ryuji",
+   "en": "Crap!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION_REIJIMISS__6#0",
+   "speaker": "Ryuji",
+   "en": "If you guys don't attack him more,[n]he'll notice what we're up to!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION_ANNMISS_00_2#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Where do you think you're going,[n]Takamaki? You and that damn fine[n]bod of yours!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION_ANNMISS_01_2#0",
+   "speaker": "Ann",
+   "en": "Ugh, he keeps staring at me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION_ANNMISS_02_2#0",
+   "speaker": "Ann",
+   "en": "Hey, shouldn't I stay here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTEALAFTER_000_00_2#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Nooo! My... my precious...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTEALAFTER_010_00_2#0",
+   "speaker": "Morgana",
+   "en": "Good, Kamoshida's shaken up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTEALAFTER_020_00_2#0",
+   "speaker": "Ann",
+   "en": "I think we can do this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ADD_TARGET_EVENT_0_0#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Dammit, dammit, dammit! Why am I[n]out of balls!? Slaves! Bring me more!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ADD_TARGET_EVENT_0_0B#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "What's the holdup? Where's my ball!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ADD_TARGET_EVENT_0_4#0",
+   "speaker": "Cognitive Yuuki Mishima",
+   "en": "I-I'm so sorry, King Kamoshida! I-I have[n]it right here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ADD_TARGET_EVENT_0_4B#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Too slow, Mishima! Worthless chump!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ADD_TARGET_EVENT_0_1#0",
+   "speaker": "Ryuji",
+   "en": "M-Mishima!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ADD_TARGET_EVENT_0_6#0",
+   "speaker": "Ann",
+   "en": "Wait, what!? Why's he here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ADD_TARGET_EVENT_0_3#0",
+   "speaker": "Morgana",
+   "en": "Calm down. That's only Kamoshida's[n]cognitive version of him! It's not the[n]real Mishima!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "REMOVE_TARGET_EVENT_0_2#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "You good-for-nothing little shit! No[n]wonder you just ride the bench—[n]you can't even get THIS right!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "REMOVE_TARGET_EVENT_0_2B#0",
+   "speaker": "Ann",
+   "en": "I'm so sorry, Mishima-kun! I swear[n]we'll spike this phony king!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "REMOVE_TARGET_EVENT_0_2C#0",
+   "speaker": "Ryuji",
+   "en": "Sorry, Mishima... We'll make sure to[n]give Kamoshida double that!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BALL_TARGET_MISHIMA_OUT0#0",
+   "speaker": "Cognitive Yuuki Mishima",
+   "en": "*gasp* My ball!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RBALL_TARGET_MISHIMA_OUT#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "The hell do you think you're doing!?[n]How much more useless can you get,[n]Mishima!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "REMOVE_TARGET_EVENT_0_5#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Good, Mishima—now pass it to me![n]Don't tell me you can't even do[n]something as simple as that!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "REMOVE_TARGET_EVENT_0_5B#0",
+   "speaker": "Cognitive Yuuki Mishima",
+   "en": "H-Here goes...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "REMOVE_TARGET_EVENT_0_5C#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Here it is... the killshot that got me[n]a gold medal!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "REMOVE_TARGET_EVENT_0_7#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "All right! Let's keep the heat up![n]I'll show you a royal killshot!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "REMOVE_TARGET_GO_OUT1#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "I knew it... I can't go all-out with[n]Mishima providing the backup.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "REMOVE_TARGET_GO_OUT1#1",
+   "speaker": "Shadow Kamoshida",
+   "en": "Hey, shit-for-brains! Get off my court!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "REMOVE_TARGET_GO_OUT2#0",
+   "speaker": "Cognitive Yuuki Mishima",
+   "en": "I-I'm sorry, King Kamoshida!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ADD_TARGET_EVENT_1_0#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Next slave, get out here! Hurry up[n]with my damn ball!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ADD_TARGET_EVENT_1_5#0",
+   "speaker": "Cognitive Shiho Suzui",
+   "en": "King Kamoshida, I've brought you[n]your ball, just like you asked.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ADD_TARGET_EVENT_1_5B#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Now there's a good girl, Suzui.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ADD_TARGET_EVENT_1_5B#1",
+   "speaker": "Shadow Kamoshida",
+   "en": "Yeah, all women should obey my[n]orders like this—ain't that right,[n]sweetheart?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ADD_TARGET_EVENT_1_1#0",
+   "speaker": "Ann",
+   "en": "N-No way! What's Shiho doing here!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ADD_TARGET_EVENT_1_3#0",
+   "speaker": "Morgana",
+   "en": "Panther, calm down! That's not the[n]real one!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ADD_TARGET_EVENT_1_4#0",
+   "speaker": "Ann",
+   "en": "Y-Yeah, you're right... But, this is just...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ADD_TARGET_EVENT_1_4B#0",
+   "speaker": "Ryuji",
+   "en": "Dammit, even Suzui too! You've gone[n]too far, you piece of shit!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "REMOVE_TARGET_EVENT_1_2#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Hmph, even Suzui was useless. Looks[n]like I'll have to give her some special[n]instruction later... One-on-one!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "REMOVE_TARGET_EVENT_1_2B#0",
+   "speaker": "Ann",
+   "en": "Kamoshida, I'll never forgive you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "REMOVE_TARGET_EVENT_1_2C#0",
+   "speaker": "Ryuji",
+   "en": "Sorry, Suzui... I swear we'll beat that[n]bastard's ass!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BALL_TARGET_SHIHO_OUT01#0",
+   "speaker": "Cognitive Shiho Suzui",
+   "en": "Ah! King Kamoshida's ball!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BALL_TARGET_SHIHO_OUT02#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Suzui! Come on, you're just as useless[n]as Mishima!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BALL_TARGET_SHIHO_OUT02B#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "What are you doing, Suzui!? Can't you[n]do one simple thing right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "REMOVE_TARGET_EVENT_1_6#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Suzui! Toss it over here! If you do[n]a good job, I'll reward you later...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "REMOVE_TARGET_EVENT_1_6B#0",
+   "speaker": "Cognitive Shiho Suzui",
+   "en": "Yes, King Kamoshida!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "REMOVE_TARGET_EVENT_1_6C#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Watch this! One killshot... comin' up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "REMOVE_TARGET_EVENT_1_7B#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Good girl, Suzui! Toss me a ball![n]I'll show you another scorcher!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "REMOVE_TARGET_EVENT_1_6D#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Being served by a high school girl[n]sure is exciting! Now, eat this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "REMOVE_TARGET_EVENT_1_7#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "How lucky you are to get to witness[n]my killshot this many times...[n]You'd better feel honored!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "REMOVE_TARGET_EVENT_4_0#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Tch! Useless piece of shit!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "REMOVE_TARGET_EVENT_2_0#0",
+   "speaker": "Ryuji",
+   "en": "I know he's not the real Mishima, but...[n]Dammit, this makes things hard!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "REMOVE_TARGET_EVENT_2_1#0",
+   "speaker": "Morgana",
+   "en": "That's just a cognitive being—you guys[n]had better not hesitate over it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "REMOVE_TARGET_EVENT_2_2#0",
+   "speaker": "Ann",
+   "en": "How dare you treat students like slaves...[n]You're scum! Nothing but scum!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "REMOVE_TARGET_EVENT_3_0#0",
+   "speaker": "Ryuji",
+   "en": "Panther, don't worry about it. We'll take[n]care of this for you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "REMOVE_TARGET_EVENT_3_1#0",
+   "speaker": "Morgana",
+   "en": "I feel so bad for Panther... but, we have[n]to do this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "REMOVE_TARGET_EVENT_3_2#0",
+   "speaker": "Ann",
+   "en": "Shiho... I'm sorry!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BALL_TAEGET_START01#0",
+   "speaker": "Morgana",
+   "en": "Hey, if we attacked the ball, wouldn't[n]that prevent Kamoshida's big attack?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BALL_TAEGET_START02#0",
+   "speaker": "Ryuji",
+   "en": "Hey, I got it! If Kamoshida doesn't get[n]the ball, won't that stop him from[n]doin' the killshot?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BALL_TAEGET_START03#0",
+   "speaker": "Ann",
+   "en": "...Wait! Won't Kamoshida not be able[n]to attack us if he doesn't get a ball?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NO_SLAVE_0_0#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "What's the matter, slaves!? Hurry up[n]and bring me more volleyballs!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NO_SLAVE_0_0#1",
+   "speaker": "Shadow Kamoshida",
+   "en": "I can't serve up my killshot without[n]any balls!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NO_SLAVE_0_1#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "Huh!? Did I just... Am I really out of[n]slaves!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NO_SLAVE_0_2GO#0",
+   "speaker": "Morgana",
+   "en": "Looks like he can't use that killshot[n]anymore—now's our chance to[n]attack him and draw his attention!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NO_SLAVE_0_2NOT_GO#0",
+   "speaker": "Morgana",
+   "en": "Looks like he can't use that killshot[n]anymore! Time to give him everything[n]we've got!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DECISION_MORGANA01#0",
+   "speaker": "Morgana",
+   "en": "Hey, if we attacked the ball, wouldn't[n]that prevent Kamoshida's big attack?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DECISION_THINKING01#0",
+   "speaker": null,
+   "en": "Since that's just a cognitive[n]Mishima, attacking it shouldn't[n]have an effect on the real one...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DECISION_THINKING01#1",
+   "speaker": null,
+   "en": "If we take him out, we might[n]be able to stop Kamoshida[n]from using his killshot...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DECISION_Q#0",
+   "speaker": "Morgana",
+   "en": "What do we do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DECISION_MISHIMA_TAR#0",
+   "speaker": null,
+   "en": "Ignore Mishima.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DECISION_MISHIMA_TAR#1",
+   "speaker": null,
+   "en": "Go for Mishima first.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DECISION_MORGANA02#0",
+   "speaker": "Morgana",
+   "en": "You gotta go for the ball again!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DECISION_THINKING02#0",
+   "speaker": null,
+   "en": "If we keep attacking Kamoshida[n]while he's focusing on the killshot,[n]we could be able to stop him...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DECISION_THINKING02#1",
+   "speaker": null,
+   "en": "Or should we take down the[n]cognitive Suzui so he can't[n]get the ball anymore...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DECISION_THINKING02#2",
+   "speaker": null,
+   "en": "Since that's just a cognitive[n]Suzui, attacking it shouldn't[n]have an effect on the real one...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DECISION_SHIHO_TARGE#0",
+   "speaker": null,
+   "en": "Target Kamoshida.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DECISION_SHIHO_TARGE#1",
+   "speaker": null,
+   "en": "Focus on the fake Suzui.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DECISION_ANSWER#0",
+   "speaker": "Morgana",
+   "en": "All right, let's do this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SPSPIKE02_000_00_3#0",
+   "speaker": "Shadow Kamoshida",
+   "en": "...Ah, I get it! You want to see my[n]killshot again, don't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DECISION_ANSWER2#0",
+   "speaker": "Morgana",
+   "en": "Roger that!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_DAMAGED01#0",
+   "speaker": null,
+   "en": "Kamoshida seems worked up[n]from the damage he's taken...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_DAMAGED02#0",
+   "speaker": "Cognitive Shiho Suzui",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

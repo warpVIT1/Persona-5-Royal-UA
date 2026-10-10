@@ -1,0 +1,2210 @@
+{
+ "file": "EN/FIELD/INIT/FINI_159_001.BF",
+ "entries": [
+  {
+   "id": "D159_001_DUMMY_mes01#0",
+   "speaker": null,
+   "en": "…",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_VELVET_IN_SEL#0",
+   "speaker": null,
+   "en": "Let me in the cell.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_VELVET_IN_SEL#1",
+   "speaker": null,
+   "en": "I don't want to go in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_VELVET_IN_QUIET_01#0",
+   "speaker": "Justine",
+   "en": "It seems you long to be imprisoned.[n]I can grant that wish for you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_VELVET_IN_QUIET_OK#0",
+   "speaker": "Justine",
+   "en": "Very well. I shall gladly fulfill your desire...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_VELVET_IN_QUIET_NO#0",
+   "speaker": "Justine",
+   "en": "...Continue your struggle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_VELVET_IN_LOUD_01#0",
+   "speaker": "Caroline",
+   "en": "What's the matter, Inmate? You longing[n]to go back to jail?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_VELVET_IN_LOUD_OK#0",
+   "speaker": "Caroline",
+   "en": "Heheheh. I'm gonna put you back where[n]you belong!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_VELVET_IN_LOUD_NO#0",
+   "speaker": "Caroline",
+   "en": "Keep struggling, Inmate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_VELVET_IN_LAST_01#0",
+   "speaker": "Lavenza",
+   "en": "I shall guide you to my master...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_VELVET_IN_LAST_SEL#0",
+   "speaker": null,
+   "en": "I want to prepare.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_VELVET_IN_LAST_SEL#1",
+   "speaker": null,
+   "en": "I don't want to go in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_VELVET_IN_LAST_OK#0",
+   "speaker": "Lavenza",
+   "en": "Then please, enter.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_VELVET_IN_LAST_NO#0",
+   "speaker": "Lavenza",
+   "en": "Very well. My master and I will be[n]watching over you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_BRIEFING_START_PC03_me#0",
+   "speaker": "Morgana",
+   "en": "All right, let's start our meeting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_BRIEFING_NEXT_PC03_mes#0",
+   "speaker": "Morgana",
+   "en": "Is there anything else[n]you want to talk about?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_BRIEFING_END_PC03_mes0#0",
+   "speaker": "Morgana",
+   "en": "Okay, meeting adjourned.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_DISCOVERY_MES_01_PC#0",
+   "speaker": "Ryuji",
+   "en": "All right! Looks like[n]this place is safe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_DISCOVERY_MES_01_PC_2#0",
+   "speaker": "Morgana",
+   "en": "Ooh, a new safe room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_DISCOVERY_MES_01_PC_3#0",
+   "speaker": "Ann",
+   "en": "This is a nice spot[n]for a safe room!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_DISCOVERY_MES_01_PC_4#0",
+   "speaker": "Yusuke",
+   "en": "Hmm... we can use this space.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_DISCOVERY_MES_01_PC_5#0",
+   "speaker": "Makoto",
+   "en": "This area seems sound. Let's[n]secure it as our safe room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_DISCOVERY_MES_01_PC_6#0",
+   "speaker": "Futaba",
+   "en": "Ah! A safe room![n]We're good here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_DISCOVERY_MES_01_PC_7#0",
+   "speaker": "Haru",
+   "en": "I didn't know there was[n]a safe room here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_DISCOVERY_MES_01_PC_8#0",
+   "speaker": "Akechi",
+   "en": "Ah, a safe room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_DISCOVERY_MES_01_PC_9#0",
+   "speaker": "[sumi 10 0]",
+   "en": "I see there's a safe room here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_DISCOVERY_MES_02_PC#0",
+   "speaker": "Ryuji",
+   "en": "Hey, we can use this place!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_DISCOVERY_MES_02_PC_2#0",
+   "speaker": "Morgana",
+   "en": "Huh. Looks like we can[n]use this place to rest.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_DISCOVERY_MES_02_PC_3#0",
+   "speaker": "Ann",
+   "en": "This is a safe room!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_DISCOVERY_MES_02_PC_4#0",
+   "speaker": "Yusuke",
+   "en": "We found a new safe room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_DISCOVERY_MES_02_PC_5#0",
+   "speaker": "Makoto",
+   "en": "Yes! Looks like we can rest here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_DISCOVERY_MES_02_PC_6#0",
+   "speaker": "Futaba",
+   "en": "It's safe here.[n]Wanna take a break?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_DISCOVERY_MES_02_PC_7#0",
+   "speaker": "Haru",
+   "en": "This place looks safe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_DISCOVERY_MES_02_PC_8#0",
+   "speaker": "Akechi",
+   "en": "Ah, this is a safe room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_DISCOVERY_MES_02_PC_9#0",
+   "speaker": "[sumi 10 0]",
+   "en": "It's a safe room—care to drop in?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_DISCOVERY_MES_03_PC#0",
+   "speaker": "Ryuji",
+   "en": "Ah nice! We can use[n]this as a safe room!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_DISCOVERY_MES_03_PC_2#0",
+   "speaker": "Morgana",
+   "en": "This looks usable.[n]Let's take a break, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_DISCOVERY_MES_03_PC_3#0",
+   "speaker": "Ann",
+   "en": "A safe room! Thank goodness...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_DISCOVERY_MES_03_PC_4#0",
+   "speaker": "Yusuke",
+   "en": "This space is quite[n]interesting... We can[n]use it as a safe room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_DISCOVERY_MES_03_PC_5#0",
+   "speaker": "Makoto",
+   "en": "We can use this place as a safe room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_DISCOVERY_MES_03_PC_6#0",
+   "speaker": "Futaba",
+   "en": "Oooh, this place is relaxing.[n]Let's take a seat here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_DISCOVERY_MES_03_PC_7#0",
+   "speaker": "Haru",
+   "en": "We found a safe room!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_DISCOVERY_MES_03_PC_8#0",
+   "speaker": "Akechi",
+   "en": "It's a safe room...[n]Shall we take a rest?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_DISCOVERY_MES_03_PC_9#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Found a safe room—should we[n]check it out?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RETURN_TALK_01_PC02#0",
+   "speaker": "Ryuji",
+   "en": "Sweet, I think we're gonna be able[n]to come right back here if we wanna.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RETURN_TALK_01_PC03#0",
+   "speaker": "Morgana",
+   "en": "This should make a good base. We[n]can resume our infiltration from[n]here if we take a break too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RETURN_TALK_01_PC04#0",
+   "speaker": "Ann",
+   "en": "Let's make a note of this place so[n]we can come right back here later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RETURN_TALK_01_PC05#0",
+   "speaker": "Yusuke",
+   "en": "I expect this would be a great place[n]from which to resume our infiltration.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RETURN_TALK_01_PC06#0",
+   "speaker": "Makoto",
+   "en": "Hm, we should be able to[n]resume our infiltration from[n]this place in the future.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RETURN_TALK_01_PC07#0",
+   "speaker": "Futaba",
+   "en": "Sweet, we can use this place as a[n]base to resume our dungeon crawling!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RETURN_TALK_01_PC08#0",
+   "speaker": "Haru",
+   "en": "I believe we can resume our operation[n]from here the next time we come in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RETURN_TALK_01_PC09#0",
+   "speaker": "Akechi",
+   "en": "Hm, it seems we will be able to[n]resume things from here later on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RETURN_TALK_01_PC10#0",
+   "speaker": "[sumi 10 0]",
+   "en": "It looks like we can use this area as a base.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_IN_MES_01_PC02_mes#0",
+   "speaker": "Ryuji",
+   "en": "Phew, we can rest here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_IN_MES_01_PC03_mes#0",
+   "speaker": "Morgana",
+   "en": "All right, let's take five.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_IN_MES_01_PC04_mes#0",
+   "speaker": "Ann",
+   "en": "Phew, we can finally rest...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_IN_MES_01_PC05_mes#0",
+   "speaker": "Yusuke",
+   "en": "Hm, let's take a rest here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_IN_MES_01_PC06_mes#0",
+   "speaker": "Makoto",
+   "en": "Let's take a break, shall we?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_IN_MES_01_PC07_mes#0",
+   "speaker": "Futaba",
+   "en": "I can take a rest, right?[n]Don't worry, I won't fall asleep.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_IN_MES_01_PC08_mes#0",
+   "speaker": "Haru",
+   "en": "Phew, let's take a quick break.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_IN_MES_01_PC09_mes#0",
+   "speaker": "Akechi",
+   "en": "Phew, we can take a breather here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_IN_MES_01_PC10_mes#0",
+   "speaker": "[sumi 10 0]",
+   "en": "We can take a breather here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_IN_MES_02_PC02_mes#0",
+   "speaker": "Ryuji",
+   "en": "All right, let's take a break.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_IN_MES_02_PC03_mes#0",
+   "speaker": "Morgana",
+   "en": "Okay! Let's take a break!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_IN_MES_02_PC04_mes#0",
+   "speaker": "Ann",
+   "en": "Hey, let's take a break here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_IN_MES_02_PC05_mes#0",
+   "speaker": "Yusuke",
+   "en": "Phew, let's rest a little.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_IN_MES_02_PC06_mes#0",
+   "speaker": "Makoto",
+   "en": "We can take a breather[n]here in this secure spot.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_IN_MES_02_PC07_mes#0",
+   "speaker": "Futaba",
+   "en": "A safe haven. Looks like we[n]can kick back and relax here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_IN_MES_02_PC08_mes#0",
+   "speaker": "Haru",
+   "en": "Why don't we rest a little here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_IN_MES_02_PC09_mes#0",
+   "speaker": "Akechi",
+   "en": "Shall we take a break?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_IN_MES_02_PC10_mes#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Let's take a little break.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_IN_MES_03_PC02_mes#0",
+   "speaker": "Ryuji",
+   "en": "Good, we made it to the safe room!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_IN_MES_03_PC03_mes#0",
+   "speaker": "Morgana",
+   "en": "All right, let's rest for a few.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_IN_MES_03_PC04_mes#0",
+   "speaker": "Ann",
+   "en": "We can finally rest our feet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_IN_MES_03_PC05_mes#0",
+   "speaker": "Yusuke",
+   "en": "How about we take a break here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_IN_MES_03_PC06_mes#0",
+   "speaker": "Makoto",
+   "en": "Phew, we can rest here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_IN_MES_03_PC07_mes#0",
+   "speaker": "Futaba",
+   "en": "We've reached a safe room![n]Perfect for chillin' and[n]killin' some time, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_IN_MES_03_PC08_mes#0",
+   "speaker": "Haru",
+   "en": "Let's take a break.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_IN_MES_03_PC09_mes#0",
+   "speaker": "Akechi",
+   "en": "Say... why don't we rest a little?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_IN_MES_03_PC10_mes#0",
+   "speaker": "[sumi 10 0]",
+   "en": "We should be safe in here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FASTTRAVEL_IN_MES_01_PC0#0",
+   "speaker": "Ryuji",
+   "en": "Nice! We made it this far!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FASTTRAVEL_IN_MES_01_PC0_2#0",
+   "speaker": "Morgana",
+   "en": "Now then, what do we do from here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FASTTRAVEL_IN_MES_01_PC0_3#0",
+   "speaker": "Ann",
+   "en": "We're here. Now what do we do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FASTTRAVEL_IN_MES_01_PC0_4#0",
+   "speaker": "Yusuke",
+   "en": "We're here. What do we do next?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FASTTRAVEL_IN_MES_01_PC0_5#0",
+   "speaker": "Makoto",
+   "en": "We've arrived. Let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FASTTRAVEL_IN_MES_01_PC0_6#0",
+   "speaker": "Futaba",
+   "en": "We're here. So... what's next?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FASTTRAVEL_IN_MES_01_PC0_7#0",
+   "speaker": "Haru",
+   "en": "We're here. What do we do now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FASTTRAVEL_IN_MES_01_PC0_8#0",
+   "speaker": "Akechi",
+   "en": "We've arrived. What[n]do we do from here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FASTTRAVEL_IN_MES_01_PC1#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Well, we made it—where to next?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FASTTRAVEL_IN_MES_02_PC0#0",
+   "speaker": "Ryuji",
+   "en": "Aaand... we're here![n]Whaddya wanna do now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FASTTRAVEL_IN_MES_02_PC0_2#0",
+   "speaker": "Morgana",
+   "en": "We're here. Let's continue on!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FASTTRAVEL_IN_MES_02_PC0_3#0",
+   "speaker": "Ann",
+   "en": "All right. Now, where do you[n]want to go from here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FASTTRAVEL_IN_MES_02_PC0_4#0",
+   "speaker": "Yusuke",
+   "en": "We've arrived.[n]Now, what do we do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FASTTRAVEL_IN_MES_02_PC0_5#0",
+   "speaker": "Makoto",
+   "en": "We've arrived safely.[n]Now let's proceed forward.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FASTTRAVEL_IN_MES_02_PC0_6#0",
+   "speaker": "Futaba",
+   "en": "We're here? What do we do now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FASTTRAVEL_IN_MES_02_PC0_7#0",
+   "speaker": "Haru",
+   "en": "We've arrived. Now, let's[n]continue our exploration.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FASTTRAVEL_IN_MES_02_PC0_8#0",
+   "speaker": "Akechi",
+   "en": "We're here.[n]Now then, what comes next?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FASTTRAVEL_IN_MES_02_PC1#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Here we are. Let's get to exploring!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FASTTRAVEL_IN_MES_03_PC0#0",
+   "speaker": "Ryuji",
+   "en": "Okay, where do we go from here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FASTTRAVEL_IN_MES_03_PC0_2#0",
+   "speaker": "Morgana",
+   "en": "We've arrived. Now, let's[n]push forward, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FASTTRAVEL_IN_MES_03_PC0_3#0",
+   "speaker": "Ann",
+   "en": "We've arrived.[n]So, what do we do now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FASTTRAVEL_IN_MES_03_PC0_4#0",
+   "speaker": "Yusuke",
+   "en": "Movement complete. Let's[n]continue our exploration.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FASTTRAVEL_IN_MES_03_PC0_5#0",
+   "speaker": "Makoto",
+   "en": "We're here.[n]What do we do now, Joker?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FASTTRAVEL_IN_MES_03_PC0_6#0",
+   "speaker": "Futaba",
+   "en": "This is where it begins, huh?[n]Where are we targeting?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FASTTRAVEL_IN_MES_03_PC0_7#0",
+   "speaker": "Haru",
+   "en": "Okay, let's continue on.[n]What's the plan, Joker?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FASTTRAVEL_IN_MES_03_PC0_8#0",
+   "speaker": "Akechi",
+   "en": "We've arrived.[n]Now, shall we proceed?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FASTTRAVEL_IN_MES_03_PC1#0",
+   "speaker": "[sumi 10 0]",
+   "en": "So, it's exploration time. What are[n]your orders?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_LOW_01_PC02_me#0",
+   "speaker": "Ryuji",
+   "en": "Okay, let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_LOW_01_PC03_me#0",
+   "speaker": "Morgana",
+   "en": "Let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_LOW_01_PC04_me#0",
+   "speaker": "Ann",
+   "en": "All right, let's go.[n]We still have work to do!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_LOW_01_PC05_me#0",
+   "speaker": "Yusuke",
+   "en": "Okay, let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_LOW_01_PC06_me#0",
+   "speaker": "Makoto",
+   "en": "Okay, back to exploring!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_LOW_01_PC07_me#0",
+   "speaker": "Futaba",
+   "en": "All right, time to go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_LOW_01_PC08_me#0",
+   "speaker": "Haru",
+   "en": "Now, let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_LOW_01_PC09_me#0",
+   "speaker": "Akechi",
+   "en": "Now, let us depart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_LOW_01_PC10_me#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Let's get going!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_LOW_02_PC02_me#0",
+   "speaker": "Ryuji",
+   "en": "All right, let's do this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_LOW_02_PC03_me#0",
+   "speaker": "Morgana",
+   "en": "Come on! The Treasure awaits!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_LOW_02_PC04_me#0",
+   "speaker": "Ann",
+   "en": "Okay, let's get back to exploring.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_LOW_02_PC05_me#0",
+   "speaker": "Yusuke",
+   "en": "All right, back to work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_LOW_02_PC06_me#0",
+   "speaker": "Makoto",
+   "en": "Got it. Let's get back to work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_LOW_02_PC07_me#0",
+   "speaker": "Futaba",
+   "en": "They're not on to us yet.[n]All right, let's roll!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_LOW_02_PC08_me#0",
+   "speaker": "Haru",
+   "en": "All right then, shall we go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_LOW_02_PC09_me#0",
+   "speaker": "Akechi",
+   "en": "We don't know what may be waiting[n]for us. Let us explore carefully.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_LOW_02_PC10_me#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Let's get back to it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_LOW_03_PC02_me#0",
+   "speaker": "Ryuji",
+   "en": "Okay, time to go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_LOW_03_PC03_me#0",
+   "speaker": "Morgana",
+   "en": "Ready? Let's go, Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_LOW_03_PC04_me#0",
+   "speaker": "Ann",
+   "en": "Okay, let's move on!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_LOW_03_PC05_me#0",
+   "speaker": "Yusuke",
+   "en": "Let's get back to exploring.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_LOW_03_PC06_me#0",
+   "speaker": "Makoto",
+   "en": "Roger, let's go.[n]We're counting on you, Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_LOW_03_PC07_me#0",
+   "speaker": "Futaba",
+   "en": "Hang on! I'm getting ready!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_LOW_03_PC08_me#0",
+   "speaker": "Haru",
+   "en": "Now, let's get back to work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_LOW_03_PC09_me#0",
+   "speaker": "Akechi",
+   "en": "All right, back to work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_LOW_03_PC10_me#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Just a little more!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_HIGH_01_PC02_m#0",
+   "speaker": "Ryuji",
+   "en": "All right... Security's high,[n]so let's be careful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_HIGH_01_PC03_m#0",
+   "speaker": "Morgana",
+   "en": "Remember. We can always[n]withdraw if we need to.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_HIGH_01_PC04_m#0",
+   "speaker": "Ann",
+   "en": "Come on, let's go[n]a little more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_HIGH_01_PC05_m#0",
+   "speaker": "Yusuke",
+   "en": "Watch the Shadows' movement.[n]It grows dangerous.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_HIGH_01_PC06_m#0",
+   "speaker": "Makoto",
+   "en": "The situation is dangerous.[n]Let's stay focused.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_HIGH_01_PC07_m#0",
+   "speaker": "Futaba",
+   "en": "Hm... This isn't good.[n]We're gonna hafta work hard.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_HIGH_01_PC08_m#0",
+   "speaker": "Haru",
+   "en": "They're on guard.[n]We need to be ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_HIGH_01_PC09_m#0",
+   "speaker": "Akechi",
+   "en": "We must refocus. Do not let[n]yourself become careless.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_HIGH_01_PC10_m#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Be careful—the enemy's still on alert.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_HIGH_02_PC02_m#0",
+   "speaker": "Ryuji",
+   "en": "Hell yeah! Security's tough,[n]so put your game face on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_HIGH_02_PC03_m#0",
+   "speaker": "Morgana",
+   "en": "Let's continue exploring...[n]but be extra careful!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_HIGH_02_PC04_m#0",
+   "speaker": "Ann",
+   "en": "Let's be careful. We need to[n]watch the enemy's movement.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_HIGH_02_PC05_m#0",
+   "speaker": "Yusuke",
+   "en": "It's fun to work under[n]pressure, but be ready[n]to back off if need be.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_HIGH_02_PC06_m#0",
+   "speaker": "Makoto",
+   "en": "Okay, but it's risky.[n]Let's be careful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_HIGH_02_PC07_m#0",
+   "speaker": "Futaba",
+   "en": "It's really dangerous right now.[n]Don't let your guard down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_HIGH_02_PC08_m#0",
+   "speaker": "Haru",
+   "en": "It's a bit dangerous; we[n]need to watch the enemy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_HIGH_02_PC09_m#0",
+   "speaker": "Akechi",
+   "en": "They're on alert outside. We[n]should proceed with caution.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_HIGH_02_PC10_m#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Be ready for anything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_HIGH_03_PC02_m#0",
+   "speaker": "Ryuji",
+   "en": "Okay, let's be careful, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_HIGH_03_PC03_m#0",
+   "speaker": "Morgana",
+   "en": "Mm... let's be even more[n]cautious than usual, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_HIGH_03_PC04_m#0",
+   "speaker": "Ann",
+   "en": "The security level's high,[n]so let's be cautious.[n]Don't push it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_HIGH_03_PC05_m#0",
+   "speaker": "Yusuke",
+   "en": "They're aware of us, Joker.[n]Do not rush in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_HIGH_03_PC06_m#0",
+   "speaker": "Makoto",
+   "en": "They're on high alert.[n]Let's proceed with caution.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_HIGH_03_PC07_m#0",
+   "speaker": "Futaba",
+   "en": "Their security's pretty tight.[n]Show me your stuff, Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_HIGH_03_PC08_m#0",
+   "speaker": "Haru",
+   "en": "Let's take caution, okay?[n]Joker, don't press your luck.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_HIGH_03_PC09_m#0",
+   "speaker": "Akechi",
+   "en": "They're wary of us, Joker.[n]Do not be reckless.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_HIGH_03_PC10_m#0",
+   "speaker": "[sumi 10 0]",
+   "en": "It'll be dangerous, but hopefully[n]we can still make some progress.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_RECOVERY_EV_mes01#0",
+   "speaker": null,
+   "en": "You have [clr 6]regained some HP[clr 27] by resting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_MES_01_PC0#0",
+   "speaker": "Ryuji",
+   "en": "Phew... Let's rest up, dude.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_MES_01_PC0_2#0",
+   "speaker": "Morgana",
+   "en": "All right! I'm alive again!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_MES_01_PC0_3#0",
+   "speaker": "Ann",
+   "en": "We should stop for now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_MES_01_PC0_4#0",
+   "speaker": "Yusuke",
+   "en": "I believe we have earned[n]ourselves a brief respite.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_MES_01_PC0_5#0",
+   "speaker": "Makoto",
+   "en": "Let's rest for a minute.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_MES_01_PC0_6#0",
+   "speaker": "Futaba",
+   "en": "Ahhh, time to relax for a bit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_MES_01_PC0_7#0",
+   "speaker": "Haru",
+   "en": "Let's rest up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_MES_01_PC0_8#0",
+   "speaker": "Akechi",
+   "en": "Shall we idle for a moment?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_MES_01_PC1#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Should we take a little break?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_MES_02_PC0#0",
+   "speaker": "Ryuji",
+   "en": "Mannn, I'm pooped.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_MES_02_PC0_2#0",
+   "speaker": "Morgana",
+   "en": "Ahhh, I feel rejuvenated!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_MES_02_PC0_3#0",
+   "speaker": "Ann",
+   "en": "Phew... I could use a break.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_MES_02_PC0_4#0",
+   "speaker": "Yusuke",
+   "en": "Let us pause here to[n]muster our strength.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_MES_02_PC0_5#0",
+   "speaker": "Makoto",
+   "en": "Phew... I need to get my[n]heart rate down somehow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_MES_02_PC0_6#0",
+   "speaker": "Futaba",
+   "en": "Ahhh... So refreshed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_MES_02_PC0_7#0",
+   "speaker": "Haru",
+   "en": "I think we should rest,[n]even if only a little bit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_MES_02_PC0_8#0",
+   "speaker": "Akechi",
+   "en": "Let us pause for now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_MES_02_PC1#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Let's rest for a bit here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_ACTIVE_IN_FIRST_PC0#0",
+   "speaker": "Morgana",
+   "en": "The Treasure's just up ahead.[n]Come on, Joker. Let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_ACTIVE_IN_SECOND_PC#0",
+   "speaker": "Morgana",
+   "en": "The Treasure is a little far from[n]here... Are you sure this is the[n]best starting spot, Joker?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_ACTIVE_IN_DISTANT_P#0",
+   "speaker": "Morgana",
+   "en": "Huh? This is nowhere near the[n]Treasure... You remember that's[n]why we're here today, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_ACTIVE_MES_PC03_mes#0",
+   "speaker": "Morgana",
+   "en": "It looks like this room is still safe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_ACTIVE_MES_PC03_mes#1",
+   "speaker": "Morgana",
+   "en": "We can't stay here long though.[n]Let's get over to the Treasure[n]once we're rested up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_ACTIVE_IN_DISCOVERY#0",
+   "speaker": "Morgana",
+   "en": "Huh, I wasn't expecting to[n]find a new safe room today...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_ACTIVE_IN_DISCOVERY#1",
+   "speaker": "Morgana",
+   "en": "We can't stay here long though.[n]Let's get over to the Treasure[n]once we're rested up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_ACTIVE_EXIT_PC03_me#0",
+   "speaker": "Morgana",
+   "en": "Our only objective today is[n]stealing the Treasure! Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_EXIT_D01_02_EX_PC03#0",
+   "speaker": "Morgana",
+   "en": "Let's go. Just remember[n]to be careful in here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "PROPOSAL_TALK_SEL#0",
+   "speaker": null,
+   "en": "Accept the proposal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "PROPOSAL_TALK_SEL#1",
+   "speaker": null,
+   "en": "Do not accept the proposal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "PROPOSAL_REST_SEL#0",
+   "speaker": null,
+   "en": "Accept the proposal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "PROPOSAL_REST_SEL#1",
+   "speaker": null,
+   "en": "Do not accept the proposal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "VELVET_SPECIAL_TIME_REMI#0",
+   "speaker": null,
+   "en": "I'm feeling a bit on edge...[n]I think there could be an active[n]alarm in the Velvet Room...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "START_CHECK_SEL#0",
+   "speaker": null,
+   "en": "Head to most recent safe room",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "START_CHECK_SEL#1",
+   "speaker": null,
+   "en": "Infiltrate as is",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "START_CHECK_SEL#2",
+   "speaker": null,
+   "en": "Don't go in yet",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "START_CHECK_MES#0",
+   "speaker": "Morgana",
+   "en": "So, where do you want to start exploring[n]from?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "START_CHECK_MES_NEXT#0",
+   "speaker": "Morgana",
+   "en": "Make sure you choose your starting[n]location carefully.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_SEL#0",
+   "speaker": null,
+   "en": "*Special",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_SEL#1",
+   "speaker": null,
+   "en": "Return to the real world",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_SEL#2",
+   "speaker": null,
+   "en": "Don't leave yet",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_154_SEL#0",
+   "speaker": null,
+   "en": "Go to the city",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_154_SEL#1",
+   "speaker": null,
+   "en": "Return to the real world",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_154_SEL#2",
+   "speaker": null,
+   "en": "Don't leave yet",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_155_SEL#0",
+   "speaker": null,
+   "en": "Go to the city",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_155_SEL#1",
+   "speaker": null,
+   "en": "Return to the real world",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_155_SEL#2",
+   "speaker": null,
+   "en": "Don't leave yet",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D01_EXIT_MES#0",
+   "speaker": "Metaverse Navigator",
+   "en": "Now returning to the real world from[n]Kamoshida's Palace. Thank you for your[n]hard work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D02_EXIT_MES#0",
+   "speaker": "Metaverse Navigator",
+   "en": "Now returning to the real world from[n]Madarame's Palace. Thank you for your[n]hard work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D03_EXIT_MES#0",
+   "speaker": "Metaverse Navigator",
+   "en": "Now returning to the real world from[n]Kaneshiro's Palace. Thank you for your[n]hard work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D04_EXIT_MES#0",
+   "speaker": "Metaverse Navigator",
+   "en": "Now returning to the real world from[n]Futaba's Palace. Thank you for your[n]hard work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_EXIT_MES#0",
+   "speaker": "Metaverse Navigator",
+   "en": "Now returning to the real world from[n]Okumura's Palace. Thank you for your[n]hard work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D06_EXIT_MES#0",
+   "speaker": "Metaverse Navigator",
+   "en": "Now returning to the real world from[n]Niijima's Palace. Thank you for your[n]hard work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D07_EXIT_MES#0",
+   "speaker": "Metaverse Navigator",
+   "en": "Now returning to the real world from[n]Shido's Palace. Thank you for your hard[n]work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D08_EXIT_MES#0",
+   "speaker": "Metaverse Navigator",
+   "en": "Now returning to the real world from[n]Mementos. Thank you for your hard work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_EXIT_MES#0",
+   "speaker": "Metaverse Navigator",
+   "en": "Now returning to the real world from[n]Maruki's Palace. Thank you for your hard[n]work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_ROUTE_COMP_PC03_#0",
+   "speaker": "Morgana",
+   "en": "We've secured our route to the Treasure...[n]Do you want to get out of here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_ROUTE_COMP_PC04_#0",
+   "speaker": "Morgana",
+   "en": "I guess all we can do now is prepare for[n]the Day of Fates... So, what now? Do you[n]want to head back?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_NOT_01_PC02#0",
+   "speaker": "Ryuji",
+   "en": "We're already goin' back? We haven't[n]done nothing...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_NOT_01_PC03#0",
+   "speaker": "Morgana",
+   "en": "What's wrong, Joker? We haven't done[n]anything yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_NOT_01_PC04#0",
+   "speaker": "Ann",
+   "en": "Huh? You want to go home already?[n]But we haven't done anything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_NOT_01_PC05#0",
+   "speaker": "Yusuke",
+   "en": "What seems to be the matter? We have[n]yet to explore at all today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_NOT_01_PC06#0",
+   "speaker": "Makoto",
+   "en": "What's wrong—you want to go back?[n]Despite not having done anything yet?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_NOT_01_PC07#0",
+   "speaker": "Futaba",
+   "en": "Huh? We're going home, Joker? It feels[n]like we haven't even done anything today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_NOT_01_PC08#0",
+   "speaker": "Haru",
+   "en": "Joker, what's the matter? We haven't[n]managed to do a single thing so far today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_NOT_01_PC09#0",
+   "speaker": "Akechi",
+   "en": "Hm? You wish to return? But we have[n]yet to accomplish anything meaningful[n]in our time here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_NOT_01_PC10#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Huh, we're going back? I feel like we[n]haven't actually done anything yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_01_PC02_mes#0",
+   "speaker": "Ryuji",
+   "en": "What's up? You wanna head back and[n]regroup?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_01_PC03_mes#0",
+   "speaker": "Morgana",
+   "en": "Hm? Do you want to retreat, Joker?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_01_PC04_mes#0",
+   "speaker": "Ann",
+   "en": "What's wrong? Do you want to pull out[n]of here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_01_PC05_mes#0",
+   "speaker": "Yusuke",
+   "en": "Do you wish to reconvene, Joker?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_01_PC06_mes#0",
+   "speaker": "Makoto",
+   "en": "Hm? You want to head back?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_01_PC07_mes#0",
+   "speaker": "Futaba",
+   "en": "It might be a good idea to go home and[n]regroup.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_01_PC08_mes#0",
+   "speaker": "Haru",
+   "en": "Is it time for us to withdraw?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_01_PC09_mes#0",
+   "speaker": "Akechi",
+   "en": "Oh? Are we retreating?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_01_PC10_mes#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Oh, should we regroup?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_01_PC11_mes#0",
+   "speaker": "Akechi",
+   "en": "Oh? Are we retreating?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATD_EXIT_REMIND_FLOWER_V#0",
+   "speaker": "Morgana",
+   "en": "Jose said flowers disappear once you[n]leave Mementos...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATD_EXIT_REMIND_FLOWER_V#1",
+   "speaker": "Morgana",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATD_EXIT_REMIND_FLOWER_V_2#0",
+   "speaker": "Morgana",
+   "en": "Jose said flowers disappear once you[n]leave Mementos...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATD_EXIT_REMIND_FLOWER_V_2#1",
+   "speaker": "Morgana",
+   "en": "The amount of flowers you've collected[n]so far is [clr 2][var 0][clr 27]. Do you still want to leave?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATD_EXIT_REMIND_FLOWER_V_3#0",
+   "speaker": "Morgana",
+   "en": "Hm? Are we heading back?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATD_EXIT_REMIND_FLOWER_V_3#1",
+   "speaker": "Morgana",
+   "en": "The amount of flowers you have right[n]now is [clr 2][var 0][clr 27]. If you leave, they'll disappear.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATD_EXIT_CABLE_VANISHED_#0",
+   "speaker": "Morgana",
+   "en": "We did everything we needed to.[n]Wanna call it a day?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATD_EXIT_CANCEL_CABLE_VA#0",
+   "speaker": "Morgana",
+   "en": "All right. Let's explore a bit more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_01_PC02_mes#0",
+   "speaker": "Ryuji",
+   "en": "Mkay, let's get goin'.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_01_PC03_mes#0",
+   "speaker": "Morgana",
+   "en": "Mm, let's head back for today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_01_PC04_mes#0",
+   "speaker": "Ann",
+   "en": "Okay, let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_01_PC05_mes#0",
+   "speaker": "Yusuke",
+   "en": "Hm, very well. Let us head back.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_01_PC06_mes#0",
+   "speaker": "Makoto",
+   "en": "Okay, we can call it a day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_01_PC07_mes#0",
+   "speaker": "Futaba",
+   "en": "Aw yeah, let's go home!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_01_PC08_mes#0",
+   "speaker": "Haru",
+   "en": "Very well. Let's head home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_01_PC09_mes#0",
+   "speaker": "Akechi",
+   "en": "That is a good idea. In that case, let us[n]get out of here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_01_PC10_mes#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Understood. Shall we head back then?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_01_PC11_mes#0",
+   "speaker": "Akechi",
+   "en": "That is a good idea. In that case, let us[n]get out of here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_151_EX_SEL#0",
+   "speaker": null,
+   "en": "*Special",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_151_EX_SEL#1",
+   "speaker": null,
+   "en": "Activate the [clr 6]Metaverse Nav[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_151_EX_SEL#2",
+   "speaker": null,
+   "en": "Don't activate the nav",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_D01_EX_mes#0",
+   "speaker": "Ryuji",
+   "en": "If we use that nav thing around here,[n]I'm thinkin' it'll get us back to the real[n]world.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_D01_EX_mes#0",
+   "speaker": "Ryuji",
+   "en": "Sweet, it worked!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_NG_D01_EX_mes#0",
+   "speaker": "Ryuji",
+   "en": "What're you doin'? Let's get outta here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_CANCEL_PC02_mes#0",
+   "speaker": "Ryuji",
+   "en": "Mkay. I can keep goin' if that's what you[n]want.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_CANCEL_PC03_mes#0",
+   "speaker": "Morgana",
+   "en": "Right. Well then, let's continue our[n]exploration.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_CANCEL_PC04_mes#0",
+   "speaker": "Ann",
+   "en": "Okay, let's look around in here a little[n]bit longer then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_CANCEL_PC05_mes#0",
+   "speaker": "Yusuke",
+   "en": "I agree. I expect there are still places[n]yet unseen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_CANCEL_PC06_mes#0",
+   "speaker": "Makoto",
+   "en": "Right. Let's keep going.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_CANCEL_PC07_mes#0",
+   "speaker": "Futaba",
+   "en": "Gotcha. Let's hang in there a bit longer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_CANCEL_PC08_mes#0",
+   "speaker": "Haru",
+   "en": "Mm-hm. Well, let's get back to our[n]exploration.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_CANCEL_PC09_mes#0",
+   "speaker": "Akechi",
+   "en": "Very well, let us push onward a bit further.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_CANCEL_PC10_mes#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Yes. Let's go just a bit further.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_CANCEL_PC11_mes#0",
+   "speaker": "Akechi",
+   "en": "Very well. But don't let your guard down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ALERT_MAX_EXIT_mes00#0",
+   "speaker": "Morgana",
+   "en": "Ngh, this is bad! The security level in[n]here is too high!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ALERT_MAX_EXIT_mes00#1",
+   "speaker": "Morgana",
+   "en": "Our lives will be in danger if we keep[n]exploring any longer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ALERT_MAX_EXIT_mes00#2",
+   "speaker": "Morgana",
+   "en": "We need to retreat, Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ALERT_MAX_EXIT_mes01#0",
+   "speaker": "Ryuji",
+   "en": "J-Just hold a sec. We could prolly go a little—",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ALERT_MAX_EXIT_mes02#0",
+   "speaker": "Morgana",
+   "en": "The number of Shadows is rapidly[n]increasing! We need to leave! Hurry!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_NG_ACTIVE_01_PC02#0",
+   "speaker": "Ryuji",
+   "en": "Dude, what!? We already sent the[n]calling card!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_NG_ACTIVE_01_PC02#1",
+   "speaker": "Ryuji",
+   "en": "All that hard work's gonna be for nothing[n]if we don't steal the Treasure today!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_NG_ACTIVE_01_PC03#0",
+   "speaker": "Morgana",
+   "en": "What? Have you not been listening to[n]anything I said!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_NG_ACTIVE_01_PC03#1",
+   "speaker": "Morgana",
+   "en": "If we don't take the Treasure today,[n]everything we've done up to now will[n]go to waste!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_NG_ACTIVE_01_PC04#0",
+   "speaker": "Ann",
+   "en": "Nope! Not happening! Absolutely,[n]definitely not!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_NG_ACTIVE_01_PC04#1",
+   "speaker": "Ann",
+   "en": "All our preparation will go right out the[n]window if we don't take the Treasure[n]today!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_NG_ACTIVE_01_PC05#0",
+   "speaker": "Yusuke",
+   "en": "You want to head back? Haha, it is rare[n]to hear you joke in such a manner during[n]a mission.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_NG_ACTIVE_01_PC05#1",
+   "speaker": "Yusuke",
+   "en": "Let us return to the task at hand, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_NG_ACTIVE_01_PC06#0",
+   "speaker": "Makoto",
+   "en": "Come now, no complaining. Are you not[n]our leader?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_NG_ACTIVE_01_PC06#1",
+   "speaker": "Makoto",
+   "en": "We must take the Treasure today, no matter[n]the cost!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_NG_ACTIVE_01_PC07#0",
+   "speaker": "Futaba",
+   "en": "Kk, let's go home...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_NG_ACTIVE_01_PC07#1",
+   "speaker": "Futaba",
+   "en": "Uh... That was a joke. No going home now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_NG_ACTIVE_01_PC08#0",
+   "speaker": "Haru",
+   "en": "I thought we can't pull out once we send[n]the calling card...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_NG_ACTIVE_01_PC08#1",
+   "speaker": "Haru",
+   "en": "Don't worry, Joker. You have all of our[n]support!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_NG_ACTIVE_01_PC09#0",
+   "speaker": "Akechi",
+   "en": "You wish to leave after coming this far?[n]How unlike you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_NG_ACTIVE_01_PC09#1",
+   "speaker": "Akechi",
+   "en": "We should try to do this today though.[n]I will lend you my aid.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_NG_ACTIVE_01_PC10#0",
+   "speaker": "[sumi 10 0]",
+   "en": "I thought we couldn't turn back once[n]the calling card was sent?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_NG_ACTIVE_01_PC10#1",
+   "speaker": "[sumi 10 0]",
+   "en": "Let's go, Joker. I'll give it my all too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_NG_ACTIVE_01_PC11#0",
+   "speaker": "Akechi",
+   "en": "We've made it this far. We can't turn back[n]now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_NG_ACTIVE_01_PC11#1",
+   "speaker": "Akechi",
+   "en": "Let's finish this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFEROOM_EXIT_PC03_mes#0",
+   "speaker": "Morgana",
+   "en": "You really want to head back, Joker?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFEROOM_EXIT_PC07_mes#0",
+   "speaker": "Futaba",
+   "en": "We really heading home, Joker?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D01_04_e166_015_mes01#0",
+   "speaker": "Ryuji",
+   "en": "Mkay, all we gotta do now is steal the[n]Treasure that shows up, yeah? It's finally[n]time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D01_04_e166_015_mes02#0",
+   "speaker": "Ann",
+   "en": "But we need to send the calling card first.[n]When should we do it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D01_04_e166_015_mes03#0",
+   "speaker": "Morgana",
+   "en": "Just hold on. Let's retreat for now, then[n]we can talk more about that stuff back[n]at the hideout.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D01_04_e166_015_mes03#1",
+   "speaker": "Morgana",
+   "en": "Oh, and well done today!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D02_MISSION_POINT_PC03_m#0",
+   "speaker": "Morgana",
+   "en": "We should leave and try to disengage[n]the courtyard security.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D02_04_e210_240_mes01#0",
+   "speaker": "Ryuji",
+   "en": "Well, I'm still kinda worried... but we[n]gotta do this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D02_04_e210_240_mes02#0",
+   "speaker": "Yusuke",
+   "en": "I cannot even begin to fathom what[n]Madarame's Treasure may be...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D02_04_e210_240_mes03#0",
+   "speaker": "Ann",
+   "en": "Either way, we'll steal it for sure.[n]Oh, and you all did great today!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D03_FIRST_END_PC03_mes#0",
+   "speaker": "Morgana",
+   "en": "The cognitive door is closed. Should we[n]head back?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D06_FIRST_END_PC06_mes#0",
+   "speaker": "Makoto",
+   "en": "We'll need to regroup back in the real[n]world for now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D07_FIRST_END_PC03_mes#0",
+   "speaker": "Morgana",
+   "en": "All right, Joker. Let's retreat!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D01_EXIT_NG_EV01_mes01#0",
+   "speaker": "Morgana",
+   "en": "Where are you going, Joker?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D01_EXIT_NG_EV01_mes01#1",
+   "speaker": "Morgana",
+   "en": "Haven't we checked those cells enough?[n]Let's look further inside the castle next.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D01_EXIT_NG_EV01_mes02#0",
+   "speaker": "Morgana",
+   "en": "We'll have to pass through the entrance[n]hall to get there... but wasn't the door[n]locked?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D01_EXIT_NG_EV01_mes02#1",
+   "speaker": "Morgana",
+   "en": "It'll be impossible unless we can find[n]another route to the first floor of that[n]hall.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D07_DUNGEON_EXIT_SC_mes0#0",
+   "speaker": "Ryuji",
+   "en": "C'mon, we came all this way. Let's at least[n]try checkin' around a little more first.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

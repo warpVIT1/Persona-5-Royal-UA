@@ -1,0 +1,4079 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR3200_000_000.BF",
+ "entries": [
+  {
+   "id": "CAFE_TV_MAIN_OFF_mes01#0",
+   "speaker": "Morgana",
+   "en": "Were you gonna watch some TV?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_CAFE_TV_MAIN_OFF_mes#0",
+   "speaker": null,
+   "en": "Should I watch some TV?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CAFE_TV_MAIN_OFF_SEL#0",
+   "speaker": null,
+   "en": "Let's do it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CAFE_TV_MAIN_OFF_SEL#1",
+   "speaker": null,
+   "en": "Eh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CAFE_TV_THINK#0",
+   "speaker": "Morgana",
+   "en": "What do you want to do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_CAFE_TV_THINK#0",
+   "speaker": null,
+   "en": "What should I do...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CAFE_TV_NEWS_2ND#0",
+   "speaker": "Morgana",
+   "en": "That news report is still going on...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CAFE_TV_MAIN_ON_01ch#0",
+   "speaker": "Morgana",
+   "en": "Oh, it's MHK News.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_CAFE_TV_MAIN_ON_01ch#0",
+   "speaker": null,
+   "en": "MHK News is on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CAFE_TV_MAIN_ON_02ch#0",
+   "speaker": null,
+   "en": "They're showing the weather report.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CAFE_TV_MAIN_ON_03ch#0",
+   "speaker": null,
+   "en": "It's the shopping channel.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CAFE_TV_MAIN_ON_04ch#0",
+   "speaker": null,
+   "en": "It's the Muji Television channel.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CAFE_TV_MAIN_ON_05ch#0",
+   "speaker": null,
+   "en": "It's the Tokai Television channel.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CAFE_TV_MAIN_ON_SEL#0",
+   "speaker": null,
+   "en": "Watch the weather forecast",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CAFE_TV_MAIN_ON_SEL#1",
+   "speaker": null,
+   "en": "Check out what's for sale",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CAFE_TV_MAIN_ON_SEL#2",
+   "speaker": null,
+   "en": "Turn off the TV",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CAFE_TV_CHANGE_ROOT#0",
+   "speaker": null,
+   "en": "Which channel should I watch?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CAFE_TV_CHANGE_SEL#0",
+   "speaker": null,
+   "en": "Channel 1: MHK News",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CAFE_TV_CHANGE_SEL#1",
+   "speaker": null,
+   "en": "Channel 2: Weather News",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CAFE_TV_CHANGE_SEL#2",
+   "speaker": null,
+   "en": "Channel 3: Shopping Channel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CAFE_TV_CHANGE_SEL#3",
+   "speaker": null,
+   "en": "Stay on this channel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CAFE_TV_CHANGE_01ch#0",
+   "speaker": null,
+   "en": "I changed the channel to MHK News.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CAFE_TV_CHANGE_02ch#0",
+   "speaker": null,
+   "en": "I changed the channel to Weather News.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CAFE_TV_CHANGE_03ch#0",
+   "speaker": null,
+   "en": "I changed the channel[n]to the Shopping Channel.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CAFE_TV_CHANGE_04ch#0",
+   "speaker": null,
+   "en": "I changed the channel[n]to Muji Television.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CAFE_TV_CHANGE_05ch#0",
+   "speaker": null,
+   "en": "I changed the channel[n]to Tokai Television.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_START_00#0",
+   "speaker": "Male Host",
+   "en": "Hi everyone! It's time[n]to do some shopping!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_START_00#1",
+   "speaker": "Male Host",
+   "en": "Here's what we've got for you today!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_START_01#0",
+   "speaker": "Male Host",
+   "en": "This is a limited item![n]It'll only be around[n]for a limited time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_START_01#1",
+   "speaker": "Male Host",
+   "en": "And it can be yours...[n]For the incredibly low[n]price of [var 0] yen!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_START_01#2",
+   "speaker": "Male Host",
+   "en": "We're offering it for [var 0] yen[n]because it'll only be around[n]a limited time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_START_02#0",
+   "speaker": "Female Host",
+   "en": "Oh, [var 1] customers already[n]called in to purchase this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_START_03#0",
+   "speaker": "Male Host",
+   "en": "Once we're sold out, that's it![n]Don't miss out on this deal!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TV_SHOPPING_00#0",
+   "speaker": "Morgana",
+   "en": "So what are you going to do?[n]Are you gonna buy it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TV_SHOPPING_00#0",
+   "speaker": null,
+   "en": "Should I buy it...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TV_SHOPPING_BUY#0",
+   "speaker": null,
+   "en": "Let's go for it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TV_SHOPPING_BUY#1",
+   "speaker": null,
+   "en": "I don't need this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_BUY_00#0",
+   "speaker": "Female Host",
+   "en": "Oh, another buyer's just called in![n]Thank you so much!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_BUY_01#0",
+   "speaker": "Male Host",
+   "en": "We're just about out of time for today![n]We'll see you again next time with[n]another amazing product!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_BUY_02#0",
+   "speaker": "Female Host",
+   "en": "Goodbye for now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TV_SHOPPING_01#0",
+   "speaker": null,
+   "en": "I paid [var 0] yen. All I have to[n]do now is wait for it to arrive.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_BUY_03#0",
+   "speaker": "Male Host",
+   "en": "Aaaaand we're out of time for today![n]Thank you so much for all your calls!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_BUY_04#0",
+   "speaker": "Female Host",
+   "en": "Will this product ever be available[n]again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_BUY_05#0",
+   "speaker": "Male Host",
+   "en": "As long as people want it, we'll do[n]everything we can to make it a reality!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_BUY_06#0",
+   "speaker": "Female Host",
+   "en": "Well then, we'll see you again[n]next time when we feature[n]another fabulous product!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_BUY_07#0",
+   "speaker": "Male Host",
+   "en": "Goodbye now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ALLREADY_BUY_00#0",
+   "speaker": null,
+   "en": "I think I already ordered something[n]from a previous show.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ALLREADY_BUY_01#0",
+   "speaker": null,
+   "en": "It should probably be about[n][var 2] days until it gets here.[n]I'll have to wait until then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ALLREADY_BUY_02#0",
+   "speaker": null,
+   "en": "It should be here soon.[n]I'll wait until it gets here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ALLREADY_BUY_03#0",
+   "speaker": null,
+   "en": "I already got this product.[n]I'll wait for them to offer[n]something else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ALLREADY_VIEW#0",
+   "speaker": "Morgana",
+   "en": "Hm? It seems like the shopping[n]show is over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ALLREADY_VIEW#0",
+   "speaker": null,
+   "en": "It looks like the shopping show is over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NOT_MONEY#0",
+   "speaker": "Morgana",
+   "en": "Seems like you don't have enough[n]money. How about taking on some[n]part-time jobs?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_NOT_MONEY#0",
+   "speaker": null,
+   "en": "I don't have enough money...[n]Maybe I should take on some[n]part-time jobs.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_ITEM_01_00#0",
+   "speaker": "Male Host",
+   "en": "This is a fishing rod made[n]with the latest carbon fiber[n]technology! The pros love it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_ITEM_01_01#0",
+   "speaker": "Female Host",
+   "en": "The design is so cool!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_ITEM_02_00#0",
+   "speaker": "Male Host",
+   "en": "This is a luxurious sofa, handmade[n]with high-quality leather!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_ITEM_02_01#0",
+   "speaker": "Female Host",
+   "en": "Oooh, it feels so nice!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_ITEM_03_00#0",
+   "speaker": "Male Host",
+   "en": "This is a new insect repellent[n]that employs patent pending[n]technology to keep bugs off!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_ITEM_03_01#0",
+   "speaker": "Female Host",
+   "en": "This seems like a really promising[n]new product!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_ITEM_04_00#0",
+   "speaker": "Male Host",
+   "en": "The stunning colors on this[n]unforgettable sofa cover have been[n]wonderfully recreated by machine!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_ITEM_04_01#0",
+   "speaker": "Female Host",
+   "en": "These vivid colors really do pop out!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_ITEM_05_00#0",
+   "speaker": "Male Host",
+   "en": "We've got a great deal on this[n]leather sofa cover! It's smooth,[n]as well as water resistant!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_ITEM_05_01#0",
+   "speaker": "Female Host",
+   "en": "I'm really impressed! It's surprising[n]how great this product is!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_ITEM_06_00#0",
+   "speaker": "Male Host",
+   "en": "The colorful flowers on this sofa cover[n]were hand-stitched by a master artisan!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_ITEM_06_01#0",
+   "speaker": "Female Host",
+   "en": "That flower design is so cute!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_ITEM_07_00#0",
+   "speaker": "Male Host",
+   "en": "Neo Featherman's popularity is[n]still going strong. This sofa[n]cover is a sure hit with the kids!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_ITEM_07_01#0",
+   "speaker": "Female Host",
+   "en": "Yes, your kids will love it![n]And who doesn't like Featherman?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_ITEM_08_00#0",
+   "speaker": "Male Host",
+   "en": "This suit of armor was produced using[n]historically accurate techniques.[n]You can even wear it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_ITEM_08_01#0",
+   "speaker": "Female Host",
+   "en": "The design is so cool!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_ITEM_09_00#0",
+   "speaker": "Male Host",
+   "en": "Repel those molesters with this[n]Megaton Rod! It's portable, so[n]women can carry it everywhere!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_ITEM_09_01#0",
+   "speaker": "Female Host",
+   "en": "I almost want to get one myself!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_ITEM_10_00#0",
+   "speaker": "Male Host",
+   "en": "We've imported this carefully[n]handcrafted totem pole from[n]native tribes in South America!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_ITEM_10_01#0",
+   "speaker": "Female Host",
+   "en": "W-Wow. Is it just me? It feels like it's[n]got like a powerful aura or something...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_ITEM_11_00#0",
+   "speaker": "Male Host",
+   "en": "The mystical design and rune[n]decorations of this dress will[n]charm all who gaze upon it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_ITEM_11_01#0",
+   "speaker": "Female Host",
+   "en": "Ooh, it's like something a beautiful[n]elf would wear!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_ITEM_12_00#0",
+   "speaker": "Male Host",
+   "en": "A master blacksmith devoted his[n]life to making this Soul Armor![n]Wear it and become the strongest!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_SHOPPING_ITEM_12_01#0",
+   "speaker": "Female Host",
+   "en": "Yes, you can tell that blacksmith[n]put all of his passion into making[n]this incredible armor...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_MASTER_000_00#0",
+   "speaker": "Sojiro",
+   "en": "Hey. The café's still open.[n]Don't just change the channel.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0417_000_00#0",
+   "speaker": "Play-by-play Announcer",
+   "en": "Black, pawn to 6-4...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0417_001_00#0",
+   "speaker": "Play-by-play Announcer",
+   "en": "It's been a one-sided game, and she[n]is not letting up on the attack.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0417_002_00#0",
+   "speaker": "Color Commentator",
+   "en": "Those young players are getting[n]better. Female shogi players have[n]been on the rise lately, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0424_000_00#0",
+   "speaker": "Play-by-play Announcer",
+   "en": "By the way, Katou-san, are there[n]any players that you've had[n]your eye on recently?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0424_001_00#0",
+   "speaker": "Color Commentator",
+   "en": "Ah, I've been watching Togo-san![n]She's quite the female shogi player...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0424_002_00#0",
+   "speaker": "Play-by-play Announcer",
+   "en": "Ah, yes, she's known as[n]the \"Venus of Shogi,\" right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0429_000_00#0",
+   "speaker": "Female Host",
+   "en": "The long weekend has begun,[n]and the skies are sunny.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0429_000_00#1",
+   "speaker": "Female Host",
+   "en": "The parks are filled with people,[n]and many families have come to[n]bring their children to play.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0429_001_00#0",
+   "speaker": "Pundit",
+   "en": "We have someone live on the[n]scene at Inokashira Park.[n]Tanabe-san, are you there?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0501_000_00#0",
+   "speaker": "Announcer",
+   "en": "The minister's resignation has[n]rocked the cabinet. What's going[n]to happen to the citizens!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0501_000_00#1",
+   "speaker": "Announcer",
+   "en": "Today, we'll have an in-depth[n]debate about this uncertain[n]political situation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0501_000_00#2",
+   "speaker": "Announcer",
+   "en": "Our guest is Representative[n]Matsushita from the United[n]Future party...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0508_000_00#0",
+   "speaker": "Announcer",
+   "en": "A teacher and former gold[n]medalist caused a scandal that[n]has shocked the entire world...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0508_000_00#1",
+   "speaker": "Announcer",
+   "en": "What is happening in our[n]educational system? We'll[n]be hearing some opinions...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0508_000_00#2",
+   "speaker": "Announcer",
+   "en": "Allow me to introduce today's[n]guest, an educational critic...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0522_000_00#0",
+   "speaker": "Match Recorder",
+   "en": "White, pawn to 7-2...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0522_001_00#0",
+   "speaker": "Play-by-play Announcer",
+   "en": "Oh! Is this the move that will[n]decide the match? Such magnificent[n]strategy. Masterful, really.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0522_002_00#0",
+   "speaker": "Color Commentator",
+   "en": "They're very skilled at using[n]their captured pieces, and they've[n]shown us some interesting plays.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0529_000_00#0",
+   "speaker": "Match Recorder",
+   "en": "White, pawn to 5-6...[n]Black takes it with their silver.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0529_001_00#0",
+   "speaker": "Play-by-play Announcer",
+   "en": "We're just starting off, but[n]they're already jumping into[n]it and taking pieces!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0529_002_00#0",
+   "speaker": "Color Commentator",
+   "en": "This is great. You can really[n]sense both of their wills to[n]fight in their faces and moves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0612_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Since a nationwide mock exam was[n]held today, I'd like to bring[n]up another educational issue...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0612_000_00#1",
+   "speaker": "Newscaster",
+   "en": "How should schools and parents[n]protect and nurture their kids?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0612_000_00#2",
+   "speaker": "Newscaster",
+   "en": "I have experts gathered here[n]today to have a full debate...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0626_000_00#0",
+   "speaker": "Play-by-play Announcer",
+   "en": "Both players are out of time...[n]Each move must now be made[n]in thirty seconds or less.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0626_001_00#0",
+   "speaker": "Color Commentator",
+   "en": "What will the next move be?[n]Oh, he moved his king into[n]enemy territory!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0626_002_00#0",
+   "speaker": "Play-by-play Announcer",
+   "en": "We're in the final stages of the[n]game, but neither player is[n]retreating a single step.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0703_000_00#0",
+   "speaker": "Play-by-play Announcer",
+   "en": "Now for Takahashi-meijin's[n]next move... Wow, silver to 5-2!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0703_001_00#0",
+   "speaker": "Color Commentator",
+   "en": "They've done it...![n]This is amazing...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0703_002_00#0",
+   "speaker": "Play-by-play Announcer",
+   "en": "Oh, my... That was quite a move.[n]I'm at a loss for words...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0717_000_00#0",
+   "speaker": "Play-by-play Announcer",
+   "en": "This newcomer is managing to[n]keep up with Takahashi-meijin.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0717_000_00#1",
+   "speaker": "Play-by-play Announcer",
+   "en": "As we enter the late game,[n]what move will the newcomer[n]make? Oh! It's... What!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0717_001_00#0",
+   "speaker": "Color Commentator",
+   "en": "A nifu...! This is a loss on a technicality...[n]Oh, he must regret that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0724_000_00#0",
+   "speaker": "Newscaster",
+   "en": "In this age where various crimes[n]occur online, people's anxiety[n]about internet crime is rising...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0724_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Was the government's[n]countermeasures enough? What[n]should it be doing right now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0724_000_00#2",
+   "speaker": "Newscaster",
+   "en": "Please welcome a politician from[n]the Liberal Co-Prosperity Party...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0729_000_00#0",
+   "speaker": "Male Reporter",
+   "en": "The hacker group Medjed has[n]released a statement to Japan.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0729_000_00#1",
+   "speaker": "Male Reporter",
+   "en": "They said something about[n]\"confiscation of possessions.\"[n]Does that mean they want money?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0729_001_00#0",
+   "speaker": "Pundit",
+   "en": "Either money or some kind of[n]personal info. It's also possible[n]they mean items in online games.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0729_002_00#0",
+   "speaker": "Male Reporter",
+   "en": "Items in online games...?[n]This is some time we live in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0801_000_00#0",
+   "speaker": "Male Reporter",
+   "en": "Hacker group Medjed has[n]released specific details[n]about their attack.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0801_001_00#0",
+   "speaker": "Pundit",
+   "en": "If big corporations get attacked,[n]this might affect all of us.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0801_002_00#0",
+   "speaker": "Male Reporter",
+   "en": "I just hope the Phantom Thieves—[n]and the police—commit their full[n]efforts to address this threat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0802_000_00#0",
+   "speaker": "Female Host",
+   "en": "Instead of playing over summer[n]vacation, these kids have been[n]trapped in summer school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0802_001_00#0",
+   "speaker": "Pundit",
+   "en": "That's rough... I never[n]studied at all when I was a kid.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0803_000_00#0",
+   "speaker": "Male Reporter",
+   "en": "Medjed has declared war on Japan,[n]but how exactly are they going[n]to target corporations?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0803_001_00#0",
+   "speaker": "Pundit",
+   "en": "Well, judging from their[n]ideology and methods, it would[n]most likely take the form of...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0804_000_00#0",
+   "speaker": "Play-by-play Announce",
+   "en": "And there's the siren![n]The high school baseball[n]tournament has officially begun!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0804_000_00#1",
+   "speaker": "Play-by-play Announce",
+   "en": "In this first match, we have a team with[n]only 13 members from a public school...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0805_000_00#0",
+   "speaker": "Play-by-play Announce",
+   "en": "Here's the pitch... Oh! A brilliant bunt![n]Very impressive!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0805_000_00#1",
+   "speaker": "Play-by-play Announce",
+   "en": "Allowing the runners to move[n]up, he returns to the bench[n]with a big smile...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0806_000_00#0",
+   "speaker": "Play-by-play Announce",
+   "en": "The team's in a huge pinch.[n]Oh, their captain is yelling[n]something from the bench...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0806_000_00#1",
+   "speaker": "Play-by-play Announce",
+   "en": "Right before this tournament,[n]he suffered a major injury...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0806_000_00#2",
+   "speaker": "Play-by-play Announce",
+   "en": "Yes... He, too, is fighting his own battle...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0807_000_00#0",
+   "speaker": "Play-by-play Announce",
+   "en": "And the last player... is out!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0807_000_00#1",
+   "speaker": "Play-by-play Announce",
+   "en": "They just won their first victory since[n]they were established 80 years ago!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0807_000_00#2",
+   "speaker": "Play-by-play Announce",
+   "en": "Now, it's time for their school song.[n]This is an unforgettable moment...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0808_000_00#0",
+   "speaker": "Play-by-play Announce",
+   "en": "And he's out! It's this pitcher's[n]16th strikeout today!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0808_000_00#1",
+   "speaker": "Play-by-play Announce",
+   "en": "His pitching won't allow his[n]opponents to get past first base,[n]and he's a decent hitter too...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0808_000_00#2",
+   "speaker": "Play-by-play Announce",
+   "en": "I'm talking—of course—about[n]Hirakawa! He's a tremendous[n]player with a lot of promise!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0809_000_00#0",
+   "speaker": "Play-by-play Announce",
+   "en": "After another hit, they're behind[n]23 points! They have to call for a[n]timeout now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0809_000_00#1",
+   "speaker": "Play-by-play Announce",
+   "en": "The players have returned[n]to the mound... smiling...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0809_000_00#2",
+   "speaker": "Play-by-play Announce",
+   "en": "That's right. Despite the huge gap,[n]this match isn't over just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0810_000_00#0",
+   "speaker": "Play-by-play Announce",
+   "en": "The captain steps into the batter box...[n]The pitcher throws... and it's a hit!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0810_000_00#1",
+   "speaker": "Play-by-play Announce",
+   "en": "The ball's in the air... and that's it![n]The game's over...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0810_000_00#2",
+   "speaker": "Play-by-play Announce",
+   "en": "...They have to line up, but[n]the captain... is unable to stand...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0811_000_00#0",
+   "speaker": "Play-by-play Announce",
+   "en": "Looks like it'll land right in[n]front of the center fielder... No,[n]he caught it! What a great play!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0811_000_00#1",
+   "speaker": "Play-by-play Announce",
+   "en": "He's only five foot five,[n]but that was a fantastic play.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0812_000_00#0",
+   "speaker": "Play-by-play Announce",
+   "en": "It's a hit! The batter clenches[n]his fist in triumph! This is a[n]come-from-behind win for his team!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0812_000_00#1",
+   "speaker": "Play-by-play Announce",
+   "en": "The entire Alps Stand erupts into[n]cheer! I'm sure his late father[n]would have been overjoyed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0813_000_00#0",
+   "speaker": "Play-by-play Announce",
+   "en": "Their ace Hirakawa, Number Four,[n]is up at bat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0813_000_00#1",
+   "speaker": "Play-by-play Announce",
+   "en": "Here comes the pitch... and he hits![n]That ball is really flying...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0813_000_00#2",
+   "speaker": "Play-by-play Announce",
+   "en": "Is this tournament going to be[n]dominated by Hirakawa!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0814_000_00#0",
+   "speaker": "Play-by-play Announce",
+   "en": "They've been cornered with two[n]outs. Is this the end for them?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0814_000_00#1",
+   "speaker": "Play-by-play Announce",
+   "en": "The pitcher throws the ball...[n]and it's a hit! The ball...[n]zooms past the fielders!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0814_000_00#2",
+   "speaker": "Play-by-play Announce",
+   "en": "With that play, their summer[n]isn't over just yet!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0815_000_00#0",
+   "speaker": "Play-by-play Announce",
+   "en": "There's the pitch... It's a hit! But it's just[n]a weak grounder toward third base...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0815_000_00#1",
+   "speaker": "Play-by-play Announce",
+   "en": "This is game se—What!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0815_000_00#2",
+   "speaker": "Play-by-play Announce",
+   "en": "He flicked it away! The third[n]baseman flicked the ball away![n]The runner's reached home plate!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0815_000_00#3",
+   "speaker": "Play-by-play Announce",
+   "en": "Their defense has been fantastic up[n]till now... but I still can't believe it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0816_000_00#0",
+   "speaker": "Play-by-play Announce",
+   "en": "They're in a tough situation with[n]bases loaded. Can the second-year[n]ace turn things around for them?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0816_000_00#1",
+   "speaker": "Play-by-play Announce",
+   "en": "Ahhh, a foul ball! It's a loss in[n]the bottom of the ninth inning...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0816_000_00#2",
+   "speaker": "Play-by-play Announce",
+   "en": "The pitcher breaks down in tears[n]as third-years gather around him[n]and lift up their underclassman...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0817_000_00#0",
+   "speaker": "Play-by-play Announce",
+   "en": "Hirakawa, who's been outstanding[n]in this tournament, is at bat, but[n]this pitcher won't let him swing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0817_000_00#1",
+   "speaker": "Play-by-play Announce",
+   "en": "This is now the fourth intentional[n]ball he received in a row. The[n]stands resound with angry roars...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0818_000_00#0",
+   "speaker": "Play-by-play Announce",
+   "en": "Hirakawa's pitching alone this[n]whole game. He's thrown more than[n]500 pitches in this tournament...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0818_000_00#1",
+   "speaker": "Play-by-play Announce",
+   "en": "Some of his fans express concern[n]that he's pitching too much...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0818_000_00#2",
+   "speaker": "Play-by-play Announce",
+   "en": "But he pitched again today! And now[n]they advance to the semi-finals!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0819_000_00#0",
+   "speaker": "Play-by-play Announce",
+   "en": "Hirakawa, with a big windup,[n]throws... and strikes the[n]batter out! The game's over!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0819_000_00#1",
+   "speaker": "Play-by-play Announce",
+   "en": "He pitched until the very end[n]again today... His pitch total[n]in the tournament is now 613...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0819_000_00#2",
+   "speaker": "Play-by-play Announce",
+   "en": "I wonder if he'll be pitching[n]in the finals tomorrow as well...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0820_000_00#0",
+   "speaker": "Play-by-play Announce",
+   "en": "On the mound of the final match,[n]we see Hirakawa... But a hit here[n]would turn the tables on his team.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0820_000_00#1",
+   "speaker": "Play-by-play Announce",
+   "en": "Now, with a big windup, he[n]pitches... and it's hit! His team[n]lost because of a blown save!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0820_000_00#2",
+   "speaker": "Play-by-play Announce",
+   "en": "He poured his soul into 772 pitches,[n]but this is a truly brutal outcome...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0820_000_00#3",
+   "speaker": "Play-by-play Announce",
+   "en": "However... coming from the[n]arena, and even the opposing[n]team... is huge applause...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0830_000_00#0",
+   "speaker": "Male Reporter",
+   "en": "As the Phantom Thieves beat the[n]hackers at their own game, the[n]internet erupts with adulation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0830_001_00#0",
+   "speaker": "Pundit",
+   "en": "They were going up against Medjed,[n]after all. I think it's pretty[n]astonishing they beat the odds...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0904_000_00#0",
+   "speaker": "Color Commentator",
+   "en": "What a great move. This battle[n]isn't over yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0904_001_00#0",
+   "speaker": "Play-by-play Announcer",
+   "en": "I apologize to our viewers for[n]having to do this in the middle[n]of an intense match, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0904_001_00#1",
+   "speaker": "Play-by-play Announcer",
+   "en": "...we're running out of time on[n]our show, so we'll just be giving[n]you a sum-up of the next 30 moves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0919_000_00#0",
+   "speaker": "Male Reporter",
+   "en": "Rumors of Okumura Foods using[n]shady practices run rampant, but[n]the whole truth is still unclear.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0919_001_00#0",
+   "speaker": "Pundit",
+   "en": "With how many workers flooded in,[n]I'd be surprised if there wasn't[n]more that they're hiding.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0919_002_00#0",
+   "speaker": "Male Reporter",
+   "en": "Yes, I wish they would be more[n]transparent with how they're[n]dealing with this issue.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0922_000_00#0",
+   "speaker": "Male Reporter",
+   "en": "Okumura Foods has been rocked by[n]the labor dispute, but they denied[n]the claims to our reporters.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0922_001_00#0",
+   "speaker": "Pundit",
+   "en": "At this point... it might be time[n]for those phantom thieves everyone[n]is talking about to take action.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0922_002_00#0",
+   "speaker": "Male Reporter",
+   "en": "It's pitiful that we can't count[n]on our own government to[n]handle issues like this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0925_000_00#0",
+   "speaker": "Announcer",
+   "en": "The labor issues at Okumura Foods[n]seem to be the talk of the town...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0925_000_00#1",
+   "speaker": "Announcer",
+   "en": "Why do these issues persist...?[n]Is our nation doing enough[n]to resolve them?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_0925_000_00#2",
+   "speaker": "Announcer",
+   "en": "I've invited the Minister of[n]Health, Labor, and Welfare to[n]ask about these current affairs...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1002_000_00#0",
+   "speaker": "Announcer",
+   "en": "Long work hours, overdue overtime[n]pay, death from overwork... These[n]labor issues aren't going away...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1002_000_00#1",
+   "speaker": "Announcer",
+   "en": "At the companies at fault?[n]Or does the responsibility[n]fall on the government...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1002_000_00#2",
+   "speaker": "Announcer",
+   "en": "We have politicians from major and[n]minor parties gathered here to[n]tell us what the nation can do...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1009_000_00#0",
+   "speaker": "Color Commentator",
+   "en": "He isn't known as a Ryu-oh for[n]nothing. It's amazing how he can[n]look so calm at a time like this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1009_001_00#0",
+   "speaker": "Play-by-play Announcer",
+   "en": "Whoa... The Ryu-oh has taken[n]out a folding fan that says[n]\"majestic\" on it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1009_002_00#0",
+   "speaker": "Color Commentator",
+   "en": "Huh... Sorry, but the writing[n]on that fan is pretty sloppy.[n]It's not \"majestic\" at all...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1010_000_00#0",
+   "speaker": "Male Reporter",
+   "en": "Since today is Health and Sports[n]Day, various sporting events are[n]being held this weekend.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1010_001_00#0",
+   "speaker": "Pundit",
+   "en": "My son had a Sports Day at his[n]school, too. I hadn't run in a[n]long time, so my muscles are sore.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1010_002_00#0",
+   "speaker": "Male Reporter",
+   "en": "Did you stretch beforehand?[n]You're getting on in years,[n]so you need to be more careful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1016_000_00#0",
+   "speaker": "Announcer",
+   "en": "With Japan hit by various issues,[n]what role does our government[n]play, exactly?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1016_000_00#1",
+   "speaker": "Announcer",
+   "en": "Today, we welcome a politician[n]from the xx party and ask him how[n]our government will act from here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1023_000_00#0",
+   "speaker": "Announcer",
+   "en": "Incidents with unknown cause still[n]occur, and a mysterious group—the[n]Phantom Thieves—has appeared.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1023_000_00#1",
+   "speaker": "Announcer",
+   "en": "Police are racking their brains[n]over these issues... but are these[n]problems for just the police?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1023_000_00#2",
+   "speaker": "Announcer",
+   "en": "We have here the chairman of the[n]National Safety Commission to ask[n]his opinion on the government...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1030_000_00#0",
+   "speaker": "Announcer",
+   "en": "Japan is facing a confusing time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1030_000_00#1",
+   "speaker": "Announcer",
+   "en": "Where is our country headed?[n]Is there anything that the[n]government can do...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1030_000_00#2",
+   "speaker": "Announcer",
+   "en": "Today, we have politicians from[n]major and minor parties gathered[n]here for a full debate...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1103_000_00#0",
+   "speaker": "Male Reporter",
+   "en": "The police are desperately trying[n]to track down the Phantom Thieves.[n]Just what kind of group are they?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1103_001_00#0",
+   "speaker": "Pundit",
+   "en": "Since they've been able to evade[n]the authorities for this long,[n]I imagine they're seasoned pros.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1103_002_00#0",
+   "speaker": "Male Reporter",
+   "en": "You never know where they might[n]be hiding, so everyone should[n]be careful when they go out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1106_000_00#0",
+   "speaker": "Announcer",
+   "en": "More people question the ruling[n]party's ability as the opposition[n]party intensifies its attacks...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1106_000_00#1",
+   "speaker": "Announcer",
+   "en": "What should the government be[n]doing in this current situation?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1106_000_00#2",
+   "speaker": "Announcer",
+   "en": "I have representatives of[n]each party gathered here today[n]so I can ask them that question...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1113_000_00#0",
+   "speaker": "Announcer",
+   "en": "The dissolution of the House of[n]Representatives has been announced...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1113_000_00#1",
+   "speaker": "Announcer",
+   "en": "With the general election coming[n]up, we'll be covering possible[n]issues that may be coming up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1113_000_00#2",
+   "speaker": "Announcer",
+   "en": "I have representatives from[n]each party gathered here today[n]so we can have a full debate...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1120_000_00#0",
+   "speaker": "Announcer",
+   "en": "Amidst the hubbub of the[n]election campaign, a new[n]political party has been formed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1120_000_00#1",
+   "speaker": "Announcer",
+   "en": "And so today, we have[n]Representative Shido here[n]to represent this new party...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1120_000_00#2",
+   "speaker": "Announcer",
+   "en": "I'd like to ask him the reason[n]he formed this new party and[n]what his goals are...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1218_000_00#0",
+   "speaker": "Announcer",
+   "en": "Today is voting day for the House[n]of Representatives election...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1218_000_00#1",
+   "speaker": "Announcer",
+   "en": "Therefore, I'd like to review the[n]points of issue as we compare[n]the policies of each party.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1218_000_00#2",
+   "speaker": "Announcer",
+   "en": "Today, we have a political[n]commentator with us...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1223_000_00#0",
+   "speaker": "Male Reporter",
+   "en": "Representative Shido was expected[n]to be our next prime minister,[n]but I hear he's still recovering.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1223_001_00#0",
+   "speaker": "Pundit",
+   "en": "Well, he probably didn't rest much[n]between forming a new party and[n]campaigning for the election.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HOLIDAY_TV_1223_002_00#0",
+   "speaker": "Male Reporter",
+   "en": "I hope he'll get back on his[n]feet as soon as possible.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_CH01_DEFAULT#0",
+   "speaker": null,
+   "en": "It looks like they're reporting[n]on the corporate scandals that[n]have been happening lately.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_DEFAULT_000_00#0",
+   "speaker": "Newscaster",
+   "en": "...Wondering what the weather will be[n]like tomorrow? The weather report is[n]up next.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_DEFAULT_100_00#0",
+   "speaker": "Morgana",
+   "en": "It seems like there's nothing interesting[n]on the news.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0409_000_00#0",
+   "speaker": "Newscaster",
+   "en": "It's the start of a new school[n]year. Schools nationwide are[n]holding their opening ceremonies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0409_000_00#1",
+   "speaker": "Newscaster",
+   "en": "You can see the children's[n]faces filled with hope for[n]their new school lives...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0409_100_00#0",
+   "speaker": null,
+   "en": "They're talking about[n]opening ceremonies and[n]starting the school year...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0410_000_00#0",
+   "speaker": "Newscaster",
+   "en": "...Many were wounded in the[n]subway derailment accident.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0410_000_00#1",
+   "speaker": "Newscaster",
+   "en": "The train schedule is disrupted,[n]and there's no estimate as to[n]when train service will resume.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0410_000_00#2",
+   "speaker": "Newscaster",
+   "en": "It seems that transit problems[n]caused by the accident will[n]continue into tomorrow morning.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0410_100_00#0",
+   "speaker": null,
+   "en": "It's news about the derailment.[n]Train service will be affected,[n]even until tomorrow morning...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0411_000_00#0",
+   "speaker": "Newscaster",
+   "en": "We have an update regarding[n]the subway tragedy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0411_000_00#1",
+   "speaker": "Newscaster",
+   "en": "After the incident, the Aviation[n]and Railway Accident Investigation[n]Committee has been established...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0411_000_00#2",
+   "speaker": "Newscaster",
+   "en": "Police are still investigating,[n]but the train schedule has finally[n]been restored this evening, and...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0411_100_00#0",
+   "speaker": null,
+   "en": "It's a follow-up report about the[n]subway incident. Apparently, the[n]trains are running normally now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0412_000_00#0",
+   "speaker": "Newscaster",
+   "en": "The cause of the accident is still[n]unclear, and we have been waiting[n]for any new developments.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0412_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Many passengers have voiced[n]concern, and some are pressing[n]station employees for answers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0412_100_00#0",
+   "speaker": null,
+   "en": "It's a news update about[n]the subway accident...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0413_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Suspecting professional negligence[n]resulting in death, police are[n]questioning the subway operator.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0413_000_00#1",
+   "speaker": "Newscaster",
+   "en": "However, his testimony regarding[n]the accident and conditions at[n]the time continue to be vague.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0413_000_00#2",
+   "speaker": "Newscaster",
+   "en": "He will undergo psychiatric[n]examination to see if he is[n]criminally responsible...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0413_100_00#0",
+   "speaker": null,
+   "en": "The police seem to be continuing[n]their investigation of the[n]subway accident...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0414_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Next, a report on the[n]derailment accident.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0414_000_00#1",
+   "speaker": "Newscaster",
+   "en": "We've just learned that railroad[n]maintenance workers had reported[n]related risks before the incident.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0414_000_00#2",
+   "speaker": "Newscaster",
+   "en": "The police intend to begin an[n]investigation of the railroad[n]company's management.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0414_100_00#0",
+   "speaker": null,
+   "en": "It seems to be a follow-up report[n]about the police investigation...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0415_000_00#0",
+   "speaker": "Newscaster",
+   "en": "And now, we continue our coverage[n]of the derailment tragedy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0415_000_00#1",
+   "speaker": "Newscaster",
+   "en": "There are suspicions that the[n]railroad company was aware of[n]safety equipment malfunctions...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0415_000_00#2",
+   "speaker": "Newscaster",
+   "en": "The company denies allegations of[n]a cover-up, but criticism directed[n]at them continues to grow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0415_100_00#0",
+   "speaker": null,
+   "en": "It looks like the news is still[n]covering the subway accident...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0416_000_00#0",
+   "speaker": "Newscaster",
+   "en": "And now, we continue our coverage[n]of the derailment tragedy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0416_000_00#1",
+   "speaker": "Newscaster",
+   "en": "There are suspicions that the[n]railroad company was aware of[n]safety equipment malfunctions...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0416_000_00#2",
+   "speaker": "Newscaster",
+   "en": "The company denies allegations of[n]a cover-up, but criticism directed[n]at them continues to grow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0416_100_00#0",
+   "speaker": "Morgana",
+   "en": "That was a horrific accident...[n]I'm glad that we're okay, though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0417_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Now, a week after the derailment[n]tragedy, there has been a new[n]development.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0417_000_00#1",
+   "speaker": "Newscaster",
+   "en": "The Ministry of Transport is under[n]suspicion of ignoring the cover-up[n]while being fully aware about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0417_000_00#2",
+   "speaker": "Newscaster",
+   "en": "People are demanding the minister[n]to answer for this as his office[n]scrambles to address the public.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0417_100_00#0",
+   "speaker": "Morgana",
+   "en": "How could they just ignore[n]something like this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0418_000_00#0",
+   "speaker": "Newscaster",
+   "en": "And now, politics.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0418_000_00#1",
+   "speaker": "Newscaster",
+   "en": "The minister—clearly in turmoil—[n]made his first public appearance[n]since the derailment tragedy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0418_000_00#2",
+   "speaker": "Newscaster",
+   "en": "However, he declined to make any[n]comments, even when journalists[n]pressed him with questions...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0418_100_00#0",
+   "speaker": "Morgana",
+   "en": "I'm not sure who that guy is, but[n]he seems pretty arrogant to me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0419_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Next, our continuing coverage of[n]the suspicions leveled at how the[n]government handled the accident.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0419_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Criticism of the government is[n]on the rise, and the minister[n]may be forced to resign.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0419_000_00#2",
+   "speaker": "Newscaster",
+   "en": "This incident drastically affected[n]his approval rating, as evidenced[n]by a poll conducted by this show.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0419_100_00#0",
+   "speaker": "Morgana",
+   "en": "Huh. So he's lost popularity[n]because of the accident.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0420_000_00#0",
+   "speaker": "Newscaster",
+   "en": "The Minister of Transport,[n]who has been under fire by the[n]public, announced his resignation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0420_000_00#1",
+   "speaker": "Newscaster",
+   "en": "The opposition party is blaming[n]the prime minister for appointing[n]him in the first place...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0420_100_00#0",
+   "speaker": "Morgana",
+   "en": "Sheesh... It seems like[n]someone who was pretty high[n]up was forced to resign.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0421_000_00#0",
+   "speaker": "Newscaster",
+   "en": "The investigation into the[n]tragic derailment continues.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0421_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Many other incidents similar to this[n]one have been reported recently.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0421_000_00#2",
+   "speaker": "Newscaster",
+   "en": "In all cases, there was no warning or[n]indication exhibited by the afflicted.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0421_000_00#3",
+   "speaker": "Newscaster",
+   "en": "Police have not released an[n]official statement regarding[n]this similarity, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0421_100_00#0",
+   "speaker": "Morgana",
+   "en": "So weird things are going on, and[n]police know nothing about them?[n]That's kind of disturbing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0422_000_00#0",
+   "speaker": "Newscaster",
+   "en": "More and more people have[n]recently been falling victim[n]to a certain type of scam.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0422_000_00#1",
+   "speaker": "Newscaster",
+   "en": "It's called a bank transfer scam,[n]and they've been happening much[n]more frequently in the city.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0422_000_00#2",
+   "speaker": "Newscaster",
+   "en": "Many young people have been[n]victimized, and the police are[n]being told to stay on the alert.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0422_100_00#0",
+   "speaker": "Morgana",
+   "en": "The victims are mostly young people?[n]Oh, you'd better be careful, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0423_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Criticism of the ruling party has[n]surged, following the resignation[n]of the Minister of Transport.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0423_000_00#1",
+   "speaker": "Newscaster",
+   "en": "A drop in the approval rating for[n]the current administration looks[n]to be inevitable...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0423_100_00#0",
+   "speaker": "Morgana",
+   "en": "I'm not sure what all that means,[n]but their approval rating drops if[n]people don't like them, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0425_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Based on a survey by this program,[n]the cabinet's approval rating has[n]dropped significantly...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0425_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Criticism against the government[n]as well as distrust of officials[n]is much higher than expected...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0425_100_00#0",
+   "speaker": "Morgana",
+   "en": "So everyone's blaming the people[n]in charge? I guess being important[n]is harder work than I thought.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0428_000_00#0",
+   "speaker": "Newscaster",
+   "en": "The long weekend starts tomorrow,[n]and it looks to be sunny.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0428_000_00#1",
+   "speaker": "Newscaster",
+   "en": "However, users of public transport[n]have expressed unease in regard[n]to the frequent accidents of late.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0428_100_00#0",
+   "speaker": "Morgana",
+   "en": "Golden Week, eh? I want to[n]go out somewhere with Lady Ann.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0429_000_00#0",
+   "speaker": "Newscaster",
+   "en": "On this Showa Day blessed with[n]a clear sky... various social[n]events are being held...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0429_000_00#1",
+   "speaker": "Newscaster",
+   "en": "One of these is the B-Class[n]Gourmet event hosted in[n]Odaiba Seaside Park...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0429_000_00#2",
+   "speaker": "Newscaster",
+   "en": "There, popular local ramen shops[n]have set up booths where throngs[n]of people wait in long lines...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0429_100_00#0",
+   "speaker": "Morgana",
+   "en": "Whoa, popular ramen!? That sounds[n]like something we have to eat!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0501_000_00#0",
+   "speaker": "Newscaster",
+   "en": "It's been three weeks since[n]the tragic subway disaster.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0501_000_00#1",
+   "speaker": "Newscaster",
+   "en": "In the course of addressing[n]the accident, the Minister of [n]Transport ended up resigning.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0501_000_00#2",
+   "speaker": "Newscaster",
+   "en": "Many questions, however, still[n]remain unanswered, as police[n]struggle in their investigation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0501_100_00#0",
+   "speaker": "Morgana",
+   "en": "That accident happened right after[n]you moved here to Tokyo, didn't it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0503_000_00#0",
+   "speaker": "Newscaster",
+   "en": "On the 2nd at a school assembly,[n]Mr. Kamoshida confessed to assault[n]and sexual abuse of his students.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0503_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Many have expressed disappointment[n]that such a charismatic teacher[n]would have committed these acts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0503_100_00#0",
+   "speaker": "Morgana",
+   "en": "Oh, it's on TV again...[n]This is causing quite a ruckus.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0504_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Many popular areas are bustling[n]with crowds of people...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0504_000_00#1",
+   "speaker": "Newscaster",
+   "en": "With the long holiday nearing[n]its end, we expect congestion in[n]vacation resorts again tomorrow...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0504_100_00#0",
+   "speaker": "Morgana",
+   "en": "What a crowd...[n]I think I'd get tired just[n]from the effort of getting there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0505_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Former gold medalist and teacher[n]Suguru Kamoshida confessed to acts[n]of physical and sexual abuse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0505_000_00#1",
+   "speaker": "Newscaster",
+   "en": "The police plan on[n]investigating his school[n]tomorrow to gather evidence...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0505_100_00#0",
+   "speaker": "Morgana",
+   "en": "Whoa, the police are coming here.[n]Make sure you act like you don't[n]know anything, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0507_000_00#0",
+   "speaker": "Newscaster",
+   "en": "...Continuing last night's news,[n]the police finished investigating[n]the workplace of Mr. Kamoshida...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0507_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Once the charge is substantiated,[n]they plan on going forward[n]with his arrest...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0507_100_00#0",
+   "speaker": "Morgana",
+   "en": "The school was filled with police.[n]That was pretty annoying.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0509_000_00#0",
+   "speaker": "Newscaster",
+   "en": "The gold medalist's physical[n]abuse and sexual harassment[n]case has made major waves...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0509_000_00#1",
+   "speaker": "Newscaster",
+   "en": "The high school where he worked[n]and the board of education have[n]been inundated with protests.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0509_000_00#2",
+   "speaker": "Newscaster",
+   "en": "Even in town and on the internet,[n]many parents can be seen speaking[n]out about their anger and unease.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0509_100_00#0",
+   "speaker": "Morgana",
+   "en": "They're talking about Kamoshida[n]again. Sounds like a lot of people[n]have been complaining about him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0514_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Next up, entertainment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0514_000_00#1",
+   "speaker": "Newscaster",
+   "en": "An exhibition featuring Japanese[n]artist Ichiryusai Madarame[n]opens tomorrow in Shibuya.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0514_000_00#2",
+   "speaker": "Newscaster",
+   "en": "Anticipation for the exhibition[n]is high, with specials broadcast[n]on TV and great ticket sales.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0514_100_00#0",
+   "speaker": "Morgana",
+   "en": "Hey, it's that old guy![n]I didn't think he would[n]actually be famous...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0517_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Next up, we cover the gold[n]medalist's assault case...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0517_000_00#1",
+   "speaker": "Newscaster",
+   "en": "This scandal has rocked the sports[n]world—everyone ever involved with[n]him is being pressed for answers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0517_000_00#2",
+   "speaker": "Newscaster",
+   "en": "The volleyball association is[n]currently considering banning[n]him permanently, and...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0517_100_00#0",
+   "speaker": "Morgana",
+   "en": "He might be banned permanently,[n]huh? Well, that sucks for him...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0520_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Next up—entertainment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0520_000_00#1",
+   "speaker": "Newscaster",
+   "en": "An exhibition of Ichiryusai[n]Madarame's works opened in[n]Shibuya earlier this week.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0520_000_00#2",
+   "speaker": "Newscaster",
+   "en": "Many of his pieces—from when[n]he first started, all the way[n]to the present—are on display.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0520_000_00#3",
+   "speaker": "Newscaster",
+   "en": "Praised by critics, the exhibition[n]also shows the evolution of the[n]master's style through the years.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0520_100_00#0",
+   "speaker": "Morgana",
+   "en": "Hmph, whatever.[n]Just you wait...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0523_000_00#0",
+   "speaker": "Newscaster",
+   "en": "May is already half over, and[n]now it's the season for the[n]leaves to start to bud.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0523_000_00#1",
+   "speaker": "Newscaster",
+   "en": "People are out and about[n]in the city, enjoying the[n]early summer breeze.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0523_000_00#2",
+   "speaker": "Newscaster",
+   "en": "In the city, people can still[n]escape and enjoy nature at [n]Meiji Shrine in Harajuku...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0523_100_00#0",
+   "speaker": "Morgana",
+   "en": "Wow, that sounds pretty relaxing.[n]And it's close to Shibuya, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0525_000_00#0",
+   "speaker": "Newscaster",
+   "en": "There's been a sudden increase[n]of victims of bank transfer scams.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0525_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Scams are much more intricate[n]now, and many young people[n]have fallen victim to them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0525_000_00#2",
+   "speaker": "Newscaster",
+   "en": "Police are working to protect[n]people from scams, but struggle[n]to come up with countermeasures.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0525_100_00#0",
+   "speaker": "Morgana",
+   "en": "It sounds like more people have[n]been getting scammed. I feel bad[n]for people who fall for those.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0527_000_00#0",
+   "speaker": "Newscaster",
+   "en": "The Madarame exhibition is[n]bustling with countless[n]attendees...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0527_000_00#1",
+   "speaker": "Newscaster",
+   "en": "The staff didn't expect this level[n]of turnout, mentioning that it's[n]all a \"pleasant miscalculation.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0527_100_00#0",
+   "speaker": "Morgana",
+   "en": "He's still popular, eh?[n]Well, once people find[n]out about what he's done...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0530_000_00#0",
+   "speaker": "Newscaster",
+   "en": "The Madarame exhibition has[n]attracted a great deal of[n]foreign attention as well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0530_000_00#1",
+   "speaker": "Newscaster",
+   "en": "His ever-changing style is highly[n]praised overseas, and he's been[n]receiving all sorts of requests.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0530_100_00#0",
+   "speaker": "Morgana",
+   "en": "He's popular overseas, too?[n]That's pretty impressive.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0601_000_00#0",
+   "speaker": "Newscaster",
+   "en": "...Next up, we cover news[n]about summer bonuses.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0601_000_00#1",
+   "speaker": "Newscaster",
+   "en": "From research conducted on bonuses[n]given by companies, the amounts[n]have decreased from last year...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0601_000_00#2",
+   "speaker": "Newscaster",
+   "en": "We expect increased discontent[n]with the government for failing to[n]make good countercycle policies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0601_100_00#0",
+   "speaker": "Morgana",
+   "en": "So... People are getting smaller[n]bonuses this time around? Isn't[n]this what happens in a recession?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0603_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Even more visitors are coming to[n]the Madarame exhibition in the[n]last few days before it ends.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0603_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Even those who only came[n]out of curiosity find themselves[n]entranced by his delicate imagery.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0603_000_00#2",
+   "speaker": "Newscaster",
+   "en": "The exhibition is scheduled[n]to continue until June 5th.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0603_100_00#0",
+   "speaker": "Morgana",
+   "en": "So the exhibition is until tomorrow, eh?[n]Now, I wonder what's going to happen...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0605_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Mr. Ichiryusai Madarame, a[n]leading figure in Japanese art,[n]confessed to multiple crimes...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0605_000_00#1",
+   "speaker": "Newscaster",
+   "en": "He stated that he made replicas[n]of his masterpiece, \"Sayuri,\"[n]and sold them as the real ones...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0605_000_00#2",
+   "speaker": "Newscaster",
+   "en": "The police will investigate[n]while keeping his charge[n]of fraud into account...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0606_000_00#0",
+   "speaker": "Newscaster",
+   "en": "A group calling themselves the[n]\"Phantom Thieves\" sent a message[n]to Mr. Madarame at his exhibition.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0606_000_00#1",
+   "speaker": "Newscaster",
+   "en": "They are hailed online as \"modern[n]day gentlemen thieves,\" but they[n]may not be linked to this case.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0607_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Mr. Madarame's sudden confession[n]has prompted his customers to[n]question their purchases from him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0607_000_00#1",
+   "speaker": "Newscaster",
+   "en": "The scandal that has rocked[n]the art world seems like it will[n]cause confusion for quite a while.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0609_000_00#0",
+   "speaker": "Newscaster",
+   "en": "With the art world still shaken[n]by the Madarame incident, some[n]are surprised by his confession.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0609_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Experts say that the painter's[n]sudden confession is similar to [n]Mr. Kamoshida's last month.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0609_000_00#2",
+   "speaker": "Newscaster",
+   "en": "However, the police haven't[n]given an official statement[n]regarding this connection...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0612_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Up next, we discuss looming[n]dangers approaching our city.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0612_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Since the year started, scam[n]victims have been on the rise,[n]mainly in the Tokyo metro area.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0612_000_00#2",
+   "speaker": "Newscaster",
+   "en": "A major mafia group is rumored to[n]be behind these scams, and police[n]are actively looking into it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0614_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Our special feature on dangers[n]in the city looks at how recent[n]scams are linked to the mafia.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0614_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Our news crew followed a police[n]investigator, but no arrests[n]were made this time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0614_000_00#2",
+   "speaker": "Newscaster",
+   "en": "From now on, we'll be following[n]a series of cases on this program.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0616_000_00#0",
+   "speaker": "Newscaster",
+   "en": "We asked an expert about[n]the Phantom Thieves, now a hot[n]topic after the painter's case...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0616_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Regarding the similarity between[n]this case and last month's gold medalist case...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0616_000_00#2",
+   "speaker": "Newscaster",
+   "en": "We're informed that there's a high[n]possibility that the same people[n]were involved in both cases...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0618_000_00#0",
+   "speaker": "Newscaster",
+   "en": "On our recurring feature about[n]dangers approaching the city, we[n]examine how police have responded.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0618_000_00#1",
+   "speaker": "Newscaster",
+   "en": "The police have said that all[n]branches will work together to[n]bring the issue to resolution...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0618_000_00#2",
+   "speaker": "Newscaster",
+   "en": "However, some have criticized the[n]police since they seemingly still[n]don't fully grasp the situation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0621_000_00#0",
+   "speaker": "Newscaster",
+   "en": "At an event in the city, several[n]people started feeling nausea[n]and were taken to the hospital.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0621_000_00#1",
+   "speaker": "Newscaster",
+   "en": "The health department[n]suspects food poisoning and is[n]carrying out an investigation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0621_000_00#2",
+   "speaker": "Newscaster",
+   "en": "The police also intend to[n]question the event sponsors...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0624_000_00#0",
+   "speaker": "Newscaster",
+   "en": "On our recurring feature about[n]dangers in the city, we look into[n]scams that may involve the mafia.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0624_000_00#1",
+   "speaker": "Newscaster",
+   "en": "We were able to interview one[n]of the victims of such fraud...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0624_000_00#2",
+   "speaker": "Newscaster",
+   "en": "What we found was a very young[n]person—a minor—suffering[n]from pain and despair...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0627_000_00#0",
+   "speaker": "Newscaster",
+   "en": "The police announced the cost of[n]damage caused by bank transfer[n]scams last month...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0627_000_00#1",
+   "speaker": "Newscaster",
+   "en": "It's much higher than usual,[n]and is a sign of the recent[n]deterioration of public order...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0627_000_00#2",
+   "speaker": "Newscaster",
+   "en": "The police once again warn people[n]to stay cautious, but they still[n]haven't offered a real solution...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0630_000_00#0",
+   "speaker": "Newscaster",
+   "en": "On our recurring feature about[n]dangers in the city, we take an[n]in-depth look at the latest scams.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0630_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Today, we interview a man[n]who was once a con artist.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0630_000_00#2",
+   "speaker": "Newscaster",
+   "en": "In our talk with him, we'll cover[n]the skillful methods of con men,[n]which are constantly evolving.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0702_000_00#0",
+   "speaker": "Newscaster",
+   "en": "This record-breaking heat wave[n]has continued for days...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0702_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Today, we're experiencing the hottest[n]temperature[n]of the year in the city.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0702_000_00#2",
+   "speaker": "Newscaster",
+   "en": "The Japan Meteorological Agency[n]has issued a warning to watch[n]out for heat strokes...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0705_000_00#0",
+   "speaker": "Newscaster",
+   "en": "On our recurring feature about[n]dangers approaching the city,[n]we discuss the rise of scams.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0705_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Today, we'll be sharing the story of a[n]woman who was a victim of such fraud.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0705_000_00#2",
+   "speaker": "Newscaster",
+   "en": "After she was scammed out of her[n]money, she kept blaming herself[n]and fell into depression...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0708_000_00#0",
+   "speaker": "Newscaster",
+   "en": "The commissioner has demanded a[n]speedy solution from police, who[n]are unable to prevent the frauds.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0708_000_00#1",
+   "speaker": "Newscaster",
+   "en": "The number of frauds continues[n]grow, but police have not yet[n]found the root of the problem.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0709_000_00#0",
+   "speaker": "Newscaster",
+   "en": "It's been publicly announced[n]that the leader of a major[n]crime group has been arrested...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0709_000_00#1",
+   "speaker": "Newscaster",
+   "en": "On the other hand, the rumor[n]around town is that the Phantom[n]Thieves were involved again...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0709_000_00#2",
+   "speaker": "Newscaster",
+   "en": "However, the police continue[n]to deny any involvement...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0712_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Regarding the arrest of a major[n]mafia leader a few days ago...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0712_000_00#1",
+   "speaker": "Newscaster",
+   "en": "The suspect Kaneshiro coerced[n]students to give him money[n]and valuables...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0712_000_00#2",
+   "speaker": "Newscaster",
+   "en": "Some victims were also[n]forced to cooperate with[n]him in criminal acts...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0719_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Some experts initially[n]expressed doubt regarding[n]Kaneshiro's confession...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0719_000_00#1",
+   "speaker": "Newscaster",
+   "en": "They initially believed that the[n]police took illegal action to get[n]a confession and force an arrest.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0719_000_00#2",
+   "speaker": "Newscaster",
+   "en": "But the police's denial of this[n]and other factors support the[n]idea that Phantom Thieves exist...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0723_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Up next is our \"What's This?\" segment...[n]Today's theme is Medjed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0723_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Who is this group that made such[n]a bold declaration against the[n]Phantom Thieves?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0723_000_00#2",
+   "speaker": "Newscaster",
+   "en": "We actually don't know anything[n]about their members' names or[n]how big Medjed might be...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0726_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Up next, we talk about[n]the announcement from Medjed[n]that is shaking up the world.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0726_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Based off what they've said, it is[n]clear that they intend to portray[n]the Phantom Thieves as villains...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0726_000_00#2",
+   "speaker": "Newscaster",
+   "en": "On the other hand, the Phantom[n]Thieves haven't made any sort[n]of response to Medjed just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0729_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Now that summer break has begun,[n]popular leisure spots have become[n]crowded with tourists.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0729_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Occasionally, you can see[n]children coming to the resorts[n]for their summer lectures...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0729_000_00#2",
+   "speaker": "Newscaster",
+   "en": "They don't seem to have any[n]time to enjoy their vacation...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0801_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Up next on our \"What's This?\"[n]segment, we cover Medjed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0801_000_00#1",
+   "speaker": "Newscaster",
+   "en": "This group is active around the[n]world, and they've already hinted[n]that they will attack Japan...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0801_000_00#2",
+   "speaker": "Newscaster",
+   "en": "They've falsified bank data and made[n]threats, so it would be prudent to[n]remain cautious...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0804_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Now it's time for the[n]\"What's This?\" segment...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0804_000_00#1",
+   "speaker": "Newscaster",
+   "en": "The 21st, the day of Medjed's[n]announced attack, is closing in...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0804_000_00#2",
+   "speaker": "Newscaster",
+   "en": "There's still no response from the[n]Phantom Thieves. One expert claims[n]that they've already run away...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0807_000_00#0",
+   "speaker": "Newscaster",
+   "en": "On our \"What's This?\" segment...[n]Medjed announced that it will[n]attack companies on the 21st.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0807_000_00#1",
+   "speaker": "Newscaster",
+   "en": "In response, the police are[n]rushing to gather intel and[n]reinforce security...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0807_000_00#2",
+   "speaker": "Newscaster",
+   "en": "What is going to happen[n]on the 21st? It's worth[n]paying attention to...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0811_000_00#0",
+   "speaker": "Newscaster",
+   "en": "With Obon coming up, all public[n]transportation is congested by[n]people visiting their hometowns.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0811_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Trains and airplanes are fully[n]booked all day long, and highways[n]are suffering from heavy traffic.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0817_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Up next is the \"What's This?\" segment...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0817_000_00#1",
+   "speaker": "Newscaster",
+   "en": "It's only days until August 21st,[n]the day Medjed will attack, and[n]corporations are scrambling.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0817_000_00#2",
+   "speaker": "Newscaster",
+   "en": "A certain company is cooperating[n]with a security company to workout[n]a unique preventive measure...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0820_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Up next is the \"What's This?\"[n]segment... We approach the 21st,[n]Medjed's announced day of attack.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0820_000_00#1",
+   "speaker": "Newscaster",
+   "en": "If Medjed does attack, then[n]we may expect damage costing[n]several hundred billions of yen...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0820_000_00#2",
+   "speaker": "Newscaster",
+   "en": "However, we've still[n]heard nothing from[n]the Phantom Thieves...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0829_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Up next is our \"What's This?\"[n]segment... We cover the excitement[n]the other day related to Medjed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0829_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Many people are praising the[n]Phantom Thieves for preventing[n]Medjed's attack from happening...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0829_000_00#2",
+   "speaker": "Newscaster",
+   "en": "On the other hand, the police are[n]under fire for their apparent[n]lack of effectiveness...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0901_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Up next on our \"What's This?\"[n]segment... Celebrities are making[n]online apologies en masse...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0901_000_00#1",
+   "speaker": "Newscaster",
+   "en": "General opinion appears to hold the[n]Phantom Thieves responsible for the[n]deluge of apologies...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0901_000_00#2",
+   "speaker": "Newscaster",
+   "en": "Criticism has been flooding in[n]with negative opinions about[n]these \"apologetic\" celebrities...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0904_000_00#0",
+   "speaker": "Newscaster",
+   "en": "A typhoon struck the shore of[n]West Japan, threatening to[n]cause extensive damage...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0904_000_00#1",
+   "speaker": "Newscaster",
+   "en": "The Japan Meteorological Agency[n]has issued a warning to watch[n]out for landslides...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0912_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Up next on our \"What's This?\" segment...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0912_000_00#1",
+   "speaker": "Newscaster",
+   "en": "There been a recent surge[n]in the demand for bodyguards...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0912_000_00#2",
+   "speaker": "Newscaster",
+   "en": "This is mainly due to mounting[n]fears of the Phantom Thieves, with[n]people desperate to feel safe...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0915_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Regarding the incident in which[n]a vandal broke the windows at[n]the Okumura headquarters...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0915_000_00#1",
+   "speaker": "Newscaster",
+   "en": "The police are continuing to[n]question all the staff as they[n]carefully investigate the matter.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0915_000_00#2",
+   "speaker": "Newscaster",
+   "en": "So far, they still have not ruled[n]out the possibility that an[n]employee committed the crime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0918_000_00#0",
+   "speaker": "Newscaster",
+   "en": "A demonstration was held at[n]Okumura Foods the other day...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0918_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Apparently, employees have[n]been enduring a severe[n]labor environment...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0918_000_00#2",
+   "speaker": "Newscaster",
+   "en": "Some are demanding inquiry into[n]the company's responsibility for[n]alleged abuse of employees...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0921_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Regarding the issue of corrupt[n]corporations that we've[n]repeatedly covered...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0921_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Today, the Ministry of Health,[n]Labor, and Health announced plans[n]to strengthen their regulations...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0921_000_00#2",
+   "speaker": "Newscaster",
+   "en": "However, it seems that people[n]online have higher hopes for the[n]Phantom Thieves to resolve this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0924_000_00#0",
+   "speaker": "Newscaster",
+   "en": "On our recurring feature about[n]dangers in the city, we look into[n]the issue of corrupt corporations.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0924_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Today, we'll be hearing from[n]students who work part-time[n]at corrupt corporations...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0924_000_00#2",
+   "speaker": "Newscaster",
+   "en": "What we found were struggling[n]youths endowed with a strong[n]sense of responsibility...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0927_000_00#0",
+   "speaker": "Newscaster",
+   "en": "The labor environment of Okumura[n]Foods continues to be a problem...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0927_000_00#1",
+   "speaker": "Newscaster",
+   "en": "The workers have been discussing[n]their opinions with each other...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0927_000_00#2",
+   "speaker": "Newscaster",
+   "en": "It looks like they've reached[n]a consensus to hold a discussion[n]with the company...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0930_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Okumura Foods has been rocked by[n]allegations of unethical work conditions.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0930_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Our news crew successfully[n]managed to interview a man who was[n]a former employee of the company.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_0930_000_00#2",
+   "speaker": "Newscaster",
+   "en": "He described a severe work[n]environment where the employees[n]have no freedom whatsoever...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1003_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Okumura Foods has not made any[n]comments regarding the numerous[n]allegations cast about them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1003_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Online, people are looking forward[n]to how the Phantom Thieves will[n]act in regard to this issue.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1003_000_00#2",
+   "speaker": "Newscaster",
+   "en": "The question on everyone's[n]mind: What are the Phantom[n]Thieves going to do about this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1006_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Up next, an update on the situation[n]at Okumura Foods...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1006_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Okumura Foods hasn't given any[n]response to their workers who[n]have been seeking a discussion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1006_000_00#2",
+   "speaker": "Newscaster",
+   "en": "The workers will continue to[n]negotiate while considering[n]the filing of a class action...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1009_000_00#0",
+   "speaker": "Newscaster",
+   "en": "This weekend, various areas held[n]cultural and athletic festivals...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1009_000_00#1",
+   "speaker": "Newscaster",
+   "en": "At a certain high school's Sports[n]Day, one student's hard work will[n]create a pleasant school memory...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1013_000_00#0",
+   "speaker": "Newscaster",
+   "en": "The president of Okumura Foods[n]lost consciousness during his[n]press conference the other day...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1013_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Today, police conducted a search[n]of President Okumura's home...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1013_000_00#2",
+   "speaker": "Newscaster",
+   "en": "We understand that the police plan[n]on continuing their investigation[n]while considering homicide or...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1015_000_00#0",
+   "speaker": "Newscaster",
+   "en": "The president of Okumura Foods[n]collapsed the other day and[n]has not yet recovered...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1015_000_00#1",
+   "speaker": "Newscaster",
+   "en": "The police are questioning[n]the people closest to him[n]about his health...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1015_000_00#2",
+   "speaker": "Newscaster",
+   "en": "If they rule out natural[n]causes, then they plan to[n]examine other possibilities...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1021_000_00#0",
+   "speaker": "Newscaster",
+   "en": "We continue our coverage about[n]the president of Okumura Foods...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1021_000_00#1",
+   "speaker": "Newscaster",
+   "en": "While no leads have been[n]found, many people online are[n]blaming the Phantom Thieves...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1021_000_00#2",
+   "speaker": "Newscaster",
+   "en": "There are requests for an analysis[n]of the calling card that was sent[n]to President Okumura...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1024_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Criticism against the Phantom[n]Thieves grows by the day...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1024_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Police visited Shujin Academy to[n]investigate an incident that may[n]involve the Phantom Thieves...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1024_000_00#2",
+   "speaker": "Newscaster",
+   "en": "The school's principal passed away [n]just the other day, and police[n]are looking for a connection...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1027_000_00#0",
+   "speaker": "Newscaster",
+   "en": "In our feature about dangers in the city:[n]in recent days, Shujin Academy has had[n]an influx of visitors.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1027_000_00#1",
+   "speaker": "Newscaster",
+   "en": "This is also the place where the first[n]Phantom Thieves incident occurred...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1027_000_00#2",
+   "speaker": "Newscaster",
+   "en": "After closely examining that case,[n]we found multiple similarities with[n]the Okumura Foods incident...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1029_000_00#0",
+   "speaker": "Newscaster",
+   "en": "In our feature about dangers[n]looming in the city...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1029_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Today, we made a request[n]to a profiling expert...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1029_000_00#2",
+   "speaker": "Newscaster",
+   "en": "From the results of his work, we[n]have the criminal profile of[n]a typical middle-aged man...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1031_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Halloween-themed events[n]were held in various areas[n]in the country today...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1031_000_00#1",
+   "speaker": "Newscaster",
+   "en": "People were dressed up in costume[n]at the parade held in the city.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1031_000_00#2",
+   "speaker": "Newscaster",
+   "en": "We enjoyed ourselves as[n]roadside spectators...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1103_000_00#0",
+   "speaker": "Newscaster",
+   "en": "The police offered a bounty for the[n]Phantom Thieves the other day...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1103_000_00#1",
+   "speaker": "Newscaster",
+   "en": "It seems that many people have[n]sent them information in response.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1103_000_00#2",
+   "speaker": "Newscaster",
+   "en": "The police continues to request[n]that everyone provides them with[n]any info that might be useful...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1105_000_00#0",
+   "speaker": "Newscaster",
+   "en": "With no progress made in catching[n]the Phantom Thieves, many express[n]discontent with the government.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1105_000_00#1",
+   "speaker": "Newscaster",
+   "en": "The cabinet's approval rating has[n]plunged, and some intend to also[n]hold the opposition party liable.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1107_000_00#0",
+   "speaker": "Newscaster",
+   "en": "The cabinet's approval rating[n]continues to fall as no progress[n]is made with the Phantom Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1107_000_00#1",
+   "speaker": "Newscaster",
+   "en": "As a result, a snap election[n]can no longer be avoided...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1107_000_00#2",
+   "speaker": "Newscaster",
+   "en": "People are now shifting their[n]focus on these new developments[n]in our government...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1109_000_00#0",
+   "speaker": "Newscaster",
+   "en": "With the House of Representatives[n]dissolved yesterday, each party is[n]preparing for the coming election.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1109_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Citizens are keenly interested in[n]safety, particularly in relation[n]to the Phantom Thieves issue...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1109_000_00#2",
+   "speaker": "Newscaster",
+   "en": "Responding to the public demand[n]for a safe and powerful country[n]will be key in this election...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1111_000_00#0",
+   "speaker": "Newscaster",
+   "en": "It's the best time in autumn to[n]watch the leaves change color...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1111_000_00#1",
+   "speaker": "Newscaster",
+   "en": "As the mountains gradually turn[n]to red, crowds of people visit[n]nature and enjoy hiking...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1114_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Up next is news about[n]the Phantom Thieves...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1114_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Police have received all sorts[n]of information, but they still[n]have not found any leads...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1114_000_00#2",
+   "speaker": "Newscaster",
+   "en": "Investigations will continue, [n]with police considering to[n]raise the reward amount...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1117_000_00#0",
+   "speaker": "Newscaster",
+   "en": "As we near the thick of winter,[n]various locations are being[n]lit up with decorations...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1117_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Passersby sigh with contentment as they[n]enjoy the sights of wondrous light...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1120_000_00#0",
+   "speaker": "Newscaster",
+   "en": "The former cabinet failed to[n]handle the Phantom Thieves and[n]let Japan fall into disorder...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1120_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Many politicians have pointed out[n]problems, but none stand out[n]quite like Representative Shido.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1120_000_00#2",
+   "speaker": "Newscaster",
+   "en": "Right now, many people have high[n]hopes in Shido, who's addressed[n]these issues for a very long time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1122_000_00#0",
+   "speaker": "Newscaster",
+   "en": "The Phantom Thieves case[n]came to a shocking end[n]the other day...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1122_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Some are insisting for police[n]to take responsibility for[n]failing to prevent the suicide.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1122_000_00#2",
+   "speaker": "Newscaster",
+   "en": "But most of the public is praising[n]Mr. Goro Akechi and his team for[n]stopping the Phantom Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1125_000_00#0",
+   "speaker": "Newscaster",
+   "en": "The House of Representatives[n]election was publicly announced[n]the other day...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1125_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Election campaigns have begun in[n]various areas, and Representative[n]Shido is campaigning in earnest...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1128_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Intense battles are unfolding in[n]various areas over the House of[n]Representatives election...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1128_000_00#1",
+   "speaker": "Newscaster",
+   "en": "We asked the people in the city[n]which politician they look[n]forward to seeing the most.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1128_000_00#2",
+   "speaker": "Newscaster",
+   "en": "Overwhelmingly, the name that came[n]up more than all the others was[n]Representative Shido...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1201_000_00#0",
+   "speaker": "Newscaster",
+   "en": "It's almost time for winter bonuses...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1201_000_00#1",
+   "speaker": "Newscaster",
+   "en": "After examining various companies,[n]we discovered that most bonuses[n]are smaller than last year...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1201_000_00#2",
+   "speaker": "Newscaster",
+   "en": "The government's countercycle[n]policies seem to be the root and[n]will be a critical election issue.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1204_000_00#0",
+   "speaker": "Newscaster",
+   "en": "As we near the middle phase of the[n]elections, the campaigns of both[n]parties are at full throttle...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1204_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Experts all agree that[n]Representative Shido has[n]an overwhelming advantage...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1204_001_00#0",
+   "speaker": "Newscaster",
+   "en": "However, it doesn't seem like[n]he'll be easing up on his[n]campaigning efforts...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1204_001_01#0",
+   "speaker": "Newscaster",
+   "en": "However, he has not made an[n]appearance, possibly due to[n]exhaustion from overwork...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1207_000_00#0",
+   "speaker": "Newscaster",
+   "en": "We've entered the latter half[n]of the election campaigns...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1207_000_00#1",
+   "speaker": "Newscaster",
+   "en": "At a certain high school, students[n]hold a mock election that ends in[n]a decisive win for the ○○ party.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1207_000_00#2",
+   "speaker": "Newscaster",
+   "en": "It's also proof that[n]Representative Shido is[n]popular among students as well...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1210_000_00#0",
+   "speaker": "Newscaster",
+   "en": "In our coverage of the election[n]campaigns, we closely followed[n]the two most notable parties...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1210_000_00#1",
+   "speaker": "Newscaster",
+   "en": "When we covered the ○○ party, we[n]felt a strong tide running in[n]Shido and his party's favor...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1210_000_00#2",
+   "speaker": "Newscaster",
+   "en": "On the other hand, the ×× party,[n]the old leading party, struggled[n]to regain people's trust...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1213_000_00#0",
+   "speaker": "Newscaster",
+   "en": "As we near the end of the election[n]campaigns, the ×× party continues[n]to be exposed to criticism...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1213_000_00#1",
+   "speaker": "Newscaster",
+   "en": "Although they've made various[n]pledges during their campaigns,[n]few listen to their speeches...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1216_000_00#0",
+   "speaker": "Newscaster",
+   "en": "Just before election day, each[n]candidate broke a sweat to[n]make their final appeals...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1216_000_00#1",
+   "speaker": "Newscaster",
+   "en": "The ○○ party is clearly[n]in the lead with its high[n]appeal to the public...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1216_001_00#0",
+   "speaker": "Newscaster",
+   "en": "Representative Shido, surrounded[n]by entranced voters, made a[n]powerful appeal to them...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1216_001_01#0",
+   "speaker": "Newscaster",
+   "en": "Voters expressed concern[n]about the condition of[n]Representative Shido's health.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1223_000_00#0",
+   "speaker": "Newscaster",
+   "en": "With Christmas Eve coming up[n]tomorrow, the stores are like[n]battlefields filled with shoppers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_NEWS_1223_000_00#1",
+   "speaker": "Newscaster",
+   "en": "At a toy store in the city, we[n]noticed a father looking for[n]something with list in hand...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_CH02_DEFAULT#0",
+   "speaker": null,
+   "en": "For the next three days,[n]it looks like the weather[n]is going to be ○○××△△...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_WEATHER_PATTERN01#0",
+   "speaker": "Weather Forecaster",
+   "en": "The weather tomorrow will be sunny[n]all day long. It'll be a great[n]day to hang out your laundry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_WEATHER_PATTERN02#0",
+   "speaker": "Weather Forecaster",
+   "en": "Tomorrow looks like it'll be sunny[n]during the day. Some clouds might[n]start rolling in by night, though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_WEATHER_PATTERN03#0",
+   "speaker": "Weather Forecaster",
+   "en": "Tomorrow will be sunny during the[n]day, but it looks like we'll[n]be having some rain at night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_WEATHER_PATTERN04#0",
+   "speaker": "Weather Forecaster",
+   "en": "Tomorrow, it's going to be raining[n]on and off during the day, but the[n]weather will clear up by night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_WEATHER_PATTERN05#0",
+   "speaker": "Weather Forecaster",
+   "en": "Some clouds are going to start[n]rolling in during the afternoon[n]for a bit of gloomy weather.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_WEATHER_PATTERN06#0",
+   "speaker": "Weather Forecaster",
+   "en": "Some clouds are going to start[n]rolling in during the afternoon.[n]We can expect it to rain by night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_WEATHER_PATTERN07#0",
+   "speaker": "Weather Forecaster",
+   "en": "We'll suddenly get some clouds in[n]the middle of the day. If it does[n]rain, it'll end by nightfall.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_WEATHER_PATTERN08#0",
+   "speaker": "Weather Forecaster",
+   "en": "Sudden clouds in the middle of[n]the day bring a chance of rain,[n]and it'll remain cloudy all night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_WEATHER_PATTERN09#0",
+   "speaker": "Weather Forecaster",
+   "en": "We'll have a sunny morning, but[n]it'll be cloudy in the afternoon[n]and rainy for the rest of the day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_WEATHER_PATTERN10#0",
+   "speaker": "Weather Forecaster",
+   "en": "It'll be cloudy tomorrow morning, but[n]it'll clear up by afternoon. The rest of[n]the day will be sunny.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_WEATHER_PATTERN11#0",
+   "speaker": "Weather Forecaster",
+   "en": "The clouds'll break up for a bit in[n]the afternoon, but we'll have gloomy[n]weather most of the day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_WEATHER_PATTERN12#0",
+   "speaker": "Weather Forecaster",
+   "en": "The weather'll be a bit unstable[n]tomorrow with clear afternoon skies,[n]followed by rain at night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_WEATHER_PATTERN13#0",
+   "speaker": "Weather Forecaster",
+   "en": "It's going to be cloudy all day[n]tomorrow, but the sky'll clear up[n]enough at night to see the stars.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_WEATHER_PATTERN14#0",
+   "speaker": "Weather Forecaster",
+   "en": "It's going to be cloudy all day tomorrow.[n]It won't rain, but it'll be a bit gloomy[n]without the sun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_WEATHER_PATTERN15#0",
+   "speaker": "Weather Forecaster",
+   "en": "It's going to be cloudy in[n]the morning, with rain likely at[n]night. Don't forget your umbrella!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_WEATHER_PATTERN16#0",
+   "speaker": "Weather Forecaster",
+   "en": "We'll have a cloudy morning,[n]with rain likely in the afternoon.[n]By night, we'll see clear skies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_WEATHER_PATTERN17#0",
+   "speaker": "Weather Forecaster",
+   "en": "It'll be a cloudy morning and[n]rainy day. The rain will end at[n]night, but it won't be starry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_WEATHER_PATTERN18#0",
+   "speaker": "Weather Forecaster",
+   "en": "Tomorrow morning will be cloudy,[n]followed by rain in the day and[n]night. Keep an umbrella handy!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_WEATHER_PATTERN19#0",
+   "speaker": "Weather Forecaster",
+   "en": "Tomorrow morning'll be rainy, but[n]it'll clear up by the afternoon.[n]It'll be a good day to go out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_WEATHER_PATTERN20#0",
+   "speaker": "Weather Forecaster",
+   "en": "We've got rain tomorrow morning,[n]followed by clear skies during the[n]day and cloudy skies at night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_WEATHER_PATTERN21#0",
+   "speaker": "Weather Forecaster",
+   "en": "We'll see rain tomorrow morning[n]that'll clear up by afternoon, but[n]then it'll rain again at night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_WEATHER_PATTERN22#0",
+   "speaker": "Weather Forecaster",
+   "en": "We'll see rain tomorrow morning[n]that'll stop by afternoon. Look[n]forward to a nice, starry night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_WEATHER_PATTERN23#0",
+   "speaker": "Weather Forecaster",
+   "en": "We'll see rain tomorrow morning that[n]should stop by afternoon, followed by[n]cloudy skies all day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_WEATHER_PATTERN24#0",
+   "speaker": "Weather Forecaster",
+   "en": "Rain will come tomorrow morning,[n]taking a break during the day[n]before coming back at night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_WEATHER_PATTERN25#0",
+   "speaker": "Weather Forecaster",
+   "en": "It'll be rainy all throughout the[n]day tomorrow, but the clouds[n]should clear up by night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_WEATHER_PATTERN26#0",
+   "speaker": "Weather Forecaster",
+   "en": "It'll be rainy during the day[n]tomorrow. The rain will stop by[n]night, but the sky will be cloudy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TV_WEATHER_PATTERN27#0",
+   "speaker": "Weather Forecaster",
+   "en": "Tomorrow, it's going to rain from[n]morning till night. You'll want to[n]keep an umbrella handy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CAFE_TV_KAMOSIDA_NEWS00#0",
+   "speaker": null,
+   "en": "It looks like the news[n]is reporting on Kamoshida.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CAFE_TV_KAMOSIDA_NEWS01#0",
+   "speaker": "Announcer",
+   "en": "Now, for our next topic.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CAFE_TV_KAMOSIDA_NEWS01#1",
+   "speaker": "Announcer",
+   "en": "A former Olympic athlete, who[n]was also a respected teacher,[n]repeatedly beat his students.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CAFE_TV_KAMOSIDA_NEWS01#2",
+   "speaker": "Announcer",
+   "en": "It seems many people are voicing[n]their dissatisfaction with the[n]Board of Education over this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CAFE_TV_KAMOSIDA_NEWS02#0",
+   "speaker": "Haughty Man",
+   "en": "Not only that, but some people are also[n]questioning the entire nation's stance[n]towards education.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CAFE_TV_KAMOSIDA_NEWS03#0",
+   "speaker": "Haughty Woman",
+   "en": "Yeah! What is the government doing!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CAFE_TV_KAMOSIDA_NEWS04#0",
+   "speaker": "Morgana",
+   "en": "The Board of Education and the[n]government... They're talking[n]about some complicated stuff.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CAFE_TV_KAMOSIDA_NEWS_AF#0",
+   "speaker": null,
+   "en": "The news is only getting half[n]the things about Kamoshida right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_INOKASIRA_#0",
+   "speaker": "Newscaster",
+   "en": "One month after the murder of the[n]theater troupe was resolved, peace[n]has returned to Inokashira Park.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_INOKASIRA_#1",
+   "speaker": "Newscaster",
+   "en": "Although temporarily closed,[n]visitors are coming to the park[n]again since the suspect's arrest.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_INOKASIRA_#2",
+   "speaker": "Newscaster",
+   "en": "Just like before, actors can[n]be seen practicing their craft[n]all throughout the park.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_INOKASIRA__2#0",
+   "speaker": "Morgana",
+   "en": "Hey, wasn't Lady Ann looking for[n]a place to practice acting without[n]worrying about people watching?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_INOKASIRA__2#1",
+   "speaker": "Morgana",
+   "en": "Why don't you suggest Inokashira[n]Park? It sounds like actors go[n]there to practice all the time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_SPOT_OPEN_INOKASIRA#0",
+   "speaker": null,
+   "en": "You learned about Inokashira Park.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TV_CLOSECAFE_000#0",
+   "speaker": "Newscaster",
+   "en": "We're reporting to you[n]once again on this incident...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TV_CLOSECAFE_000#1",
+   "speaker": "Newscaster",
+   "en": "Today around 6:00 p.m., a subway[n]derailment accident occurred[n]on the ○○ line.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TV_CLOSECAFE_000#2",
+   "speaker": "Newscaster",
+   "en": "The number of casualties[n]is unknown, but rescue work[n]is still ongoing at the site...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TV_CLOSECAFE_000#3",
+   "speaker": "Newscaster",
+   "en": "We've preempted our programming[n]schedule to provide updates[n]on this news...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TV_CLOSECAFE_010#0",
+   "speaker": "Newscaster",
+   "en": "The rescue team faces difficulty[n]with the car overturned, unable to[n]confirm many passengers' safety...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TV_CLOSECAFE_010#1",
+   "speaker": "Newscaster",
+   "en": "The train operator's name is[n]Hitoshi Suzuhara, and we're told[n]that he still remains unconscious.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TV_CLOSECAFE_010#2",
+   "speaker": "Newscaster",
+   "en": "The police will investigate[n]him for professional negligence[n]resulting in death and injuries...",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

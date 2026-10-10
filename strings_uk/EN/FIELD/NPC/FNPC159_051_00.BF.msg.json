@@ -1,0 +1,796 @@
+{
+ "file": "EN/FIELD/NPC/FNPC159_051_00.BF",
+ "entries": [
+  {
+   "id": "DUMMY_01#0",
+   "speaker": null,
+   "en": "Dummy",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ryuzi1#0",
+   "speaker": "Ryuji",
+   "en": "I couldn't do much when we were[n]gatherin' information, but when it[n]comes to fightin' you can count on me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ryuzi2#0",
+   "speaker": "Ryuji",
+   "en": "A restaurant, huh... I was just gettin'[n]hungry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ryuzi3#0",
+   "speaker": "Ryuji",
+   "en": "Alright, one down! Let's keep it up, Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ryuzi4#0",
+   "speaker": "Ryuji",
+   "en": "We can't use our Personas when we're[n]mice, huh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ryuzi4#1",
+   "speaker": "Ryuji",
+   "en": "Let's try to avoid battles if we get caught[n]in traps like this later on, yeah?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ryuzi5#0",
+   "speaker": "Ryuji",
+   "en": "We got 'em good that time![n]So, how didjya like my plan?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SAFE_MES_ryuzi1#0",
+   "speaker": null,
+   "en": "Flawless.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SAFE_MES_ryuzi1#1",
+   "speaker": null,
+   "en": "Terrible.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ryuzi1_1#0",
+   "speaker": "Ryuji",
+   "en": "Right!? I can use my head too y'know!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ryuzi1_2#0",
+   "speaker": "Ryuji",
+   "en": "You think so...? I actually already[n]apologized to Panther and the others...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ryuzi6#0",
+   "speaker": "Ryuji",
+   "en": "That Shadow looked pretty intimidating...[n]No tellin' what it'll do to us if it spots us.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ryuzi7#0",
+   "speaker": "Ryuji",
+   "en": "The hell was that yakuza-like stuff!?[n]That prolly WAS a yakuza, man!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ryuzi8#0",
+   "speaker": "Ryuji",
+   "en": "We're not doin' too bad, huh? Just[n]a little more and we'll be done!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ryuzi9#0",
+   "speaker": "Ryuji",
+   "en": "I'm so done bein' a mouse... How[n]much more of this we got?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ryuzi10#0",
+   "speaker": "Ryuji",
+   "en": "We know where our target is now,[n]so let's get 'im!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ryuzi11#0",
+   "speaker": "Ryuji",
+   "en": "Sweet, now all that's left is gettin'[n]that yakuza. I'd rather not deal with[n]him, but we've gotta do this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ryuzi12#0",
+   "speaker": "Ryuji",
+   "en": "Why the hell did it have to end up like[n]this... Akechi was a victim too, dammit...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ryuzi13#0",
+   "speaker": "Ryuji",
+   "en": "We're almost there! This'll be the end for[n]sure. Let's do it, Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_mona1#0",
+   "speaker": "Morgana",
+   "en": "Shido's social importance, authority,[n]assets, and desires are all off the charts.[n]Don't let your guard down, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_mona2#0",
+   "speaker": "Morgana",
+   "en": "Let's head to the restaurant. We'll[n]probably find this Ooe there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_mona3#0",
+   "speaker": "Morgana",
+   "en": "All right, that's one down. We know[n]where our next target is, so let's hurry[n]and get over there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_mona4#0",
+   "speaker": "Morgana",
+   "en": "Being turned into a mouse was[n]humiliating... It felt so strange, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_mona5#0",
+   "speaker": "Morgana",
+   "en": "If we'd known it was a guy who was only[n]interested in lineage... We probably didn't[n]even need Skull's plan.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_mona6#0",
+   "speaker": "Morgana",
+   "en": "He has the gall to give speeches about this[n]country's future when the view from his[n]boat is this bad!? I can't believe this guy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_mona7#0",
+   "speaker": "Morgana",
+   "en": "So that cleaner will come out if we make a[n]scene, huh... It would be a hassle to go for[n]him now, so let's get the other two first.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_mona8#0",
+   "speaker": "Morgana",
+   "en": "The next letter of introduction's from[n]the president of an IT company, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_mona8#1",
+   "speaker": "Morgana",
+   "en": "We've got no info on him, so he may be[n]a bit difficult to find.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_mona9#0",
+   "speaker": "Morgana",
+   "en": "I can't believe I'm saying it, but I think[n]I'm getting used to this mouse form...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_mona10#0",
+   "speaker": "Morgana",
+   "en": "That cleaner said we're off the hook,[n]but there's no way we can trust him.[n]Everyone, stay on your guard!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_mona11#0",
+   "speaker": "Morgana",
+   "en": "Oracle took charge and went off on her[n]own! We'd better keep up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_mona12#0",
+   "speaker": "Morgana",
+   "en": "We've gotta fulfill our part of the deal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_mona12#1",
+   "speaker": "Morgana",
+   "en": "I wasn't fond of him, but it's because of him[n]that we'll be able to fight against Shido!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_mona13#0",
+   "speaker": "Morgana",
+   "en": "I can't forgive what Akechi did, but we[n]still have to fulfill our part of the deal!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_an1#0",
+   "speaker": "Ann",
+   "en": "All the people who have letters of[n]introduction have such grand titles...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_an1#1",
+   "speaker": "Ann",
+   "en": "And now we're going against the person[n]who's controlling them. We can't let our[n]guard down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_an2#0",
+   "speaker": "Ann",
+   "en": "I bet Shido always goes to these kinds[n]of fancy restaurants... ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_an2#1",
+   "speaker": "Ann",
+   "en": "So he destroyed Joker's life, but gets[n]to cruise through his own? I'll never[n]forgive him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_an3#0",
+   "speaker": "Ann",
+   "en": "There were all those rumors about[n]him being a \"womanizer\"... I have a[n]bad feeling about this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_an4#0",
+   "speaker": "Ann",
+   "en": "I was shocked when my perspective was[n]suddenly from the floor... Plus, it's hard to[n]fight and run around like this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_an5#0",
+   "speaker": "Ann",
+   "en": "His lineage might be grand, but the guy[n]himself was just a pervert.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_an6#0",
+   "speaker": "Ann",
+   "en": "A politician and a former noble... I'm sure[n]the next one will be just as bad.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_an7#0",
+   "speaker": "Ann",
+   "en": "I don't know what's wrong with that[n]scary looking guy... He kept intimidating[n]us, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_an8#0",
+   "speaker": "Ann",
+   "en": "We're taking care of that cleaner later, so[n]the IT president's up next, right? I wonder[n]if it's true that he never leaves his room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_an9#0",
+   "speaker": "Ann",
+   "en": "We haven't been able to find any clues on[n]where the IT President is, huh... Let's just[n]have patience and keep searching.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_an10#0",
+   "speaker": "Ann",
+   "en": "We finally found out where the IT[n]president is! Let's get going!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_an11#0",
+   "speaker": "Ann",
+   "en": "That makes four. Now the only one left is[n]the cleaner... I'm a bit scared, but we have[n]to go for it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_an12#0",
+   "speaker": "Ann",
+   "en": "If only we'd met Akechi-kun a little sooner.[n]I'm sure we would've been able to become[n]good friends...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_an13#0",
+   "speaker": "Ann",
+   "en": "We're almost there, Joker. Are you[n]nervous?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SAFE_MES_an1#0",
+   "speaker": null,
+   "en": "Not at all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SAFE_MES_an1#1",
+   "speaker": null,
+   "en": "Yeah.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_an1_1#0",
+   "speaker": "Ann",
+   "en": "As confident as always. We'll be counting[n]on you to the very end!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_an1_2#0",
+   "speaker": "Ann",
+   "en": "Really? I'm surprised. But I guess things[n]are a bit different this time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_an1_2#1",
+   "speaker": "Ann",
+   "en": "Don't worry. We're all here for you, Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_yusuke1#0",
+   "speaker": "Yusuke",
+   "en": "To think that we require letters of[n]recommendation from cognitive[n]beings in order to see the Palace Ruler...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_yusuke1#1",
+   "speaker": "Yusuke",
+   "en": "Ideally, they would simply give us their[n]letters if we asked for them... But I doubt[n]it will be that easy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_yusuke2#0",
+   "speaker": "Yusuke",
+   "en": "The furniture on this boat is odd... It seems[n]representative of his self-centered nature.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_yusuke3#0",
+   "speaker": "Yusuke",
+   "en": "I did not expect that the cognitive beings[n]would become Shadows. Knowing we have[n]4 more, we cannot let our guard down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_yusuke4#0",
+   "speaker": "Yusuke",
+   "en": "\"This is prepawsterous!\" Strange... I put[n]a great amount of thought into that pun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_yusuke5#0",
+   "speaker": "Yusuke",
+   "en": "Panther's acting skills have improved quite[n]a bit. I wonder if she has been practicing...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_yusuke6#0",
+   "speaker": "Yusuke",
+   "en": "Again!? What is going on!? Everyone should[n]have been rolling on the floor laughing...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_yusuke7#0",
+   "speaker": "Yusuke",
+   "en": "If we cause any more disturbances, he may[n]come at us with his full strength. We must[n]stay on our toes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_yusuke8#0",
+   "speaker": "Yusuke",
+   "en": "Madarame had connections with Shido...[n]What a strange twist of fate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_yusuke9#0",
+   "speaker": "Yusuke",
+   "en": "I find it surprising that the targets we are[n]pursuing for these letters do not have[n]Palaces of their own.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_yusuke10#0",
+   "speaker": "Yusuke",
+   "en": "Whether we cause disturbances or sit still,[n]the cleaner will pursue us. We cannot[n]simply ignore him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_yusuke11#0",
+   "speaker": "Yusuke",
+   "en": "We have Oracle to thank for this one.[n]I suppose that as the first ever Medjed,[n]this would have been a given.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_yusuke12#0",
+   "speaker": "Yusuke",
+   "en": "His father was Shido... So Akechi was[n]fighting against him as well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_yusuke13#0",
+   "speaker": "Yusuke",
+   "en": "This Palace has distorted the world[n]powerfully. Be sure you are fully[n]prepared.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_makoto1#0",
+   "speaker": "Makoto",
+   "en": "I feel like the Treasure's close by... But I'm[n]certain it's going to take a lot longer than[n]we think.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_makoto2#0",
+   "speaker": "Makoto",
+   "en": "I feel bad using something that someone[n]dropped, but I suppose we'll just have to[n]borrow it for now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_makoto3#0",
+   "speaker": "Makoto",
+   "en": "Politicians using psychotic breakdowns in[n]order to remove enemies... I wonder what[n]degree of involvement Shido had.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_makoto4#0",
+   "speaker": "Makoto",
+   "en": "My power is limited when I'm a mouse...[n]Let's proceed with caution from now on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_makoto5#0",
+   "speaker": "Makoto",
+   "en": "I had a bad feeling about this from the[n]beginning...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_makoto5#1",
+   "speaker": "Makoto",
+   "en": "I'm glad things turned out okay, but we[n]must think over Skull's plans from now on!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_makoto6#0",
+   "speaker": "Makoto",
+   "en": "That heavily armed Shadow came out of[n]nowhere... We must proceed with caution[n]to avoid further dangers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_makoto7#0",
+   "speaker": "Makoto",
+   "en": "That man from earlier... he reminded me[n]of Kaneshiro. Although he was much more[n]intimidating than that money monger.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_makoto8#0",
+   "speaker": "Makoto",
+   "en": "I had no idea that Kaneshiro's money was[n]going to Shido... I didn't expect this kind[n]of connection.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_makoto9#0",
+   "speaker": "Makoto",
+   "en": "Let's take a moment before we go for our[n]next letter. We need to think about what[n]to do with the cleaner.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_makoto10#0",
+   "speaker": "Makoto",
+   "en": "Let's forget the cleaner for now. We must[n]first find a way to the IT president's room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_makoto11#0",
+   "speaker": "Makoto",
+   "en": "Oracle sure has grown.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_makoto11#1",
+   "speaker": "Makoto",
+   "en": "I was a little concerned when I heard she[n]was going alone, but I guess I didn't need[n]to worry at all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_makoto12#0",
+   "speaker": "Makoto",
+   "en": "I didn't think Akechi-kun would be one to[n]help us... Let's make sure we fulfill our part[n]of the deal!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_makoto13#0",
+   "speaker": "Makoto",
+   "en": "What should we do with the calling[n]card this time...? Oracle was saying[n]she had an idea.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_haru1#0",
+   "speaker": "Haru",
+   "en": "Do you remember the information of[n]the 5 VIPs? Be sure to double check so[n]we don't make a mistake.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_haru2#0",
+   "speaker": "Haru",
+   "en": "I wonder what kind of person this Ooe is...[n]Hopefully he's at the restaurant.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_haru3#0",
+   "speaker": "Haru",
+   "en": "Even the school principal was affected by[n]this...? How many people suffered because[n]of Shido...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_haru4#0",
+   "speaker": "Haru",
+   "en": "Putting aside how Shido sees us... I[n]personally thought our mouse forms[n]were pretty cute!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_haru5#0",
+   "speaker": "Haru",
+   "en": "I suppose it's okay since we were[n]successful, but was Skull's plan truly[n]necessary?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_haru6#0",
+   "speaker": "Haru",
+   "en": "Fox's joke, about \"paw-something\"...[n]Um, we're not all born comedians.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_haru7#0",
+   "speaker": "Haru",
+   "en": "I wonder why people would take Shido's[n]side, even knowing they may be betrayed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_haru8#0",
+   "speaker": "Haru",
+   "en": "I will change Shido's heart for my father[n]as well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_haru9#0",
+   "speaker": "Haru",
+   "en": "Our next target may be difficult to find if[n]we don't know where he is...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_haru10#0",
+   "speaker": "Haru",
+   "en": "He doesn't even leave his room to eat...[n]I wonder if he's truly just that busy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_haru11#0",
+   "speaker": "Haru",
+   "en": "I wonder how we're to take the letter from[n]the cleaner?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_haru12#0",
+   "speaker": "Haru",
+   "en": "Akechi-kun entrusted us with changing[n]Shido's heart... We must be sure to succeed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_haru13#0",
+   "speaker": "Haru",
+   "en": "An impactful calling card that reaches[n]Shido...? I wonder how we can do that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_hutaba1#0",
+   "speaker": "Futaba",
+   "en": "Talking to all those people was super[n]exhausting... I think I've used up my[n]lifetime's worth of communication abilities.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SAFE_MES_hutaba1#0",
+   "speaker": null,
+   "en": "Good job.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SAFE_MES_hutaba1#1",
+   "speaker": null,
+   "en": "I'll count on you next time too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_hutaba1_1#0",
+   "speaker": "Futaba",
+   "en": "Mweheh... Yes, good, praise me more!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_hutaba1_2#0",
+   "speaker": "Futaba",
+   "en": "N-Next time!? I'll... think about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_hutaba2#0",
+   "speaker": "Futaba",
+   "en": "I'd choose Sojiro's curry over this fancy,[n]expensive restaurant food any day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_hutaba3#0",
+   "speaker": "Futaba",
+   "en": "Whoa... Queen ordered so easily, I'm[n]impressed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_hutaba4#0",
+   "speaker": "Futaba",
+   "en": "Rodents huh... Even rodents can be[n]powerful if they band together, you[n]know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_hutaba5#0",
+   "speaker": "Futaba",
+   "en": "I'm gonna wipe that former noble issue[n]from my memory... On to the next one!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_hutaba6#0",
+   "speaker": "Futaba",
+   "en": "Looks like the boss of an FPS or something...[n]Let's go slow and steady, all right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_hutaba7#0",
+   "speaker": "Futaba",
+   "en": "It may have just been a cognitive being,[n]but that guy was still super creepy. I'd[n]rather not get involved with him...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_hutaba8#0",
+   "speaker": "Futaba",
+   "en": "Next up is the IT president guy, right? I[n]wonder where he's got himself shut in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_hutaba9#0",
+   "speaker": "Futaba",
+   "en": "An IT president that has money AND is a[n]shut-in... What a cheater!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_hutaba10#0",
+   "speaker": "Futaba",
+   "en": "A person's room is like their safe zone...[n]I totally get that president's feelings!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_hutaba11#0",
+   "speaker": "Futaba",
+   "en": "D-Did you see that!? I can do stuff too!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_hutaba12#0",
+   "speaker": "Futaba",
+   "en": "I won't forgive him for what he did to my[n]mom... but I still appreciate Akechi for[n]helping us.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_hutaba13#0",
+   "speaker": "Futaba",
+   "en": "Leave the calling card to me! I'll put out a[n]super good one!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

@@ -1,0 +1,257 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR3150_010_000.BF",
+ "entries": [
+  {
+   "id": "MSG_CurryStart_morugana#0",
+   "speaker": "Morgana",
+   "en": "Gonna make some curry?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CurryStart_StandBy#0",
+   "speaker": "Morgana",
+   "en": "Making curry for tomorrow? That's not[n]a bad idea...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CurryStart#0",
+   "speaker": null,
+   "en": "Should I make some curry?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CurryStart_Think#0",
+   "speaker": null,
+   "en": "Let's make some curry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CurryStart_Think#1",
+   "speaker": null,
+   "en": "Let's ask Kawakami.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CurryStart_Think#2",
+   "speaker": null,
+   "en": "No, never mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CurryStart_KakawamiI#0",
+   "speaker": "Morgana",
+   "en": "Oh yeah, you could ask Kawakami to[n]do it for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Curry_SojiroGoHome#0",
+   "speaker": "Sojiro",
+   "en": "Oh, you're cookin' dinner?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Curry_SojiroGoHome#1",
+   "speaker": "Sojiro",
+   "en": "I'm about to head home, but... Careful[n]with the stove, all right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Curry_SojiroGoHome_c#0",
+   "speaker": "Sojiro",
+   "en": "You're cookin' dinner, huh? I'm about to[n]head home, but... Careful with the stove,[n]all right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Curry_AkechiGoHome_C#0",
+   "speaker": "Akechi",
+   "en": "I suppose I'll leave as well. Thank you[n]for the coffee.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TeacherOrder_NoMoney#0",
+   "speaker": "Morgana",
+   "en": "If you're gonna ask Kawakami, it'll cost[n][var 0] yen, but you don't have enough,[n]do you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TeacherOrder_NoMoney#0",
+   "speaker": null,
+   "en": "I need [var 0] yen to call[n]over Kawakami, but I don't[n]have enough money on me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TeaCherOrder_Think#0",
+   "speaker": "Morgana",
+   "en": "It costs [var 0] yen to call over the[n]teacher. Did you still want to do it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TeaCherOrder_Think#0",
+   "speaker": null,
+   "en": "Calling over Kawakami[n]will cost [var 0] yen...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TeacherOrder#0",
+   "speaker": null,
+   "en": "Request assistance",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TeacherOrder#1",
+   "speaker": null,
+   "en": "Don't request assistance",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TeaCherOrder_GO#0",
+   "speaker": "Morgana",
+   "en": "I see. If you ask her to do that for you,[n]then you'll have time to do something[n]else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TeaCherOrder_Cancel#0",
+   "speaker": "Morgana",
+   "en": "Oh, you're not going to call her?[n]I suppose you'll just have to do it[n]yourself, then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Curry_KawaAnotherOn#0",
+   "speaker": "Morgana",
+   "en": "Hm? You already asked her to do[n]something else. She can't do two things[n]at the same time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Curry_KawaAnotherOn#0",
+   "speaker": null,
+   "en": "I've already asked Kawakami to do[n]something else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_KAWAKAMI#0",
+   "speaker": "Kawakami",
+   "en": "Hello, Master! Thanks for calling.[n]This is Becky!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_KAWAKAMI#1",
+   "speaker": "Kawakami",
+   "en": "Oh, wait, it's you... Did you want to use[n]the delivery service?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_KAWAKAMI#2",
+   "speaker": "Kawakami",
+   "en": "Okay, I'll be there soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_KAWAKAMI_OffDa#0",
+   "speaker": "Kawakami",
+   "en": "Hi, this is Becky! I'm really sorry, but[n]I'm off today...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_KAWAKAMI_OffDa#1",
+   "speaker": "Kawakami",
+   "en": "Oh, wait, it's you... I'm off today, but if[n]you just want housekeeping, I don't[n]mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_KAWAKAMI_OffDa#2",
+   "speaker": "Kawakami",
+   "en": "It's still work, so I'll head over after[n]I change. Hang on just a bit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_RMAX_KAWAKAMI#0",
+   "speaker": "Kawakami",
+   "en": "Hi, this is Kawakami. Oh, it's you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_RMAX_KAWAKAMI#1",
+   "speaker": "Kawakami",
+   "en": "I quit that maid job, but I'll still take[n]requests from you, you know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_RMAX_KAWAKAMI#2",
+   "speaker": "Kawakami",
+   "en": "...I'll head over there. Just wait for me a bit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TEST_KAWAKAMI#0",
+   "speaker": "Kawakami",
+   "en": "Thank you for your continued patronage![n]That'll be [var 1] yen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_KAWAKAMI#0",
+   "speaker": "Kawakami",
+   "en": "Hm... So, you just want me to make some[n]curry, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_MAX_KAWAKAMI#0",
+   "speaker": "Kawakami",
+   "en": "Sorry to keep you waiting! You just want[n]me to make some curry, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Kawakami_Maid_Talk#0",
+   "speaker": "Kawakami",
+   "en": "Oh, this outfit?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Kawakami_Maid_Talk#1",
+   "speaker": "Kawakami",
+   "en": "I might have quit my job, but it'd be[n]complicated if a teacher visited her[n]student for personal reasons...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Kawakami_Maid_Talk#2",
+   "speaker": "Kawakami",
+   "en": "So, I'll be coming here in this outfit to[n]hide my identity. I hope you don't mind.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

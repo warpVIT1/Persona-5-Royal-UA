@@ -1,0 +1,61 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR3020_030_000.BF",
+ "entries": [
+  {
+   "id": "MSG_REPAIR_SELECT#0",
+   "speaker": "Morgana",
+   "en": "What do you want to try to repair?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_REPAIR_SELECT#0",
+   "speaker": null,
+   "en": "Let's fix this game console.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_REPAIR_SELECT#1",
+   "speaker": null,
+   "en": "Let's fix this laptop.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_REPAIR_SELECT#2",
+   "speaker": null,
+   "en": "Nothing for now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Game_Tool_NoItem#0",
+   "speaker": "Morgana",
+   "en": "You want to repair the game console? You'll[n]probably need some precise tools for that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Game_Tool_HaveItem#0",
+   "speaker": "Morgana",
+   "en": "All right, give it your best shot.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NotePc_Tool_NoItem#0",
+   "speaker": "Morgana",
+   "en": "You want to repair the laptop? You'll[n]probably need some specialized tools[n]for that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NotePc_Tool_HaveItem#0",
+   "speaker": "Morgana",
+   "en": "All right, be careful not to hurt yourself.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

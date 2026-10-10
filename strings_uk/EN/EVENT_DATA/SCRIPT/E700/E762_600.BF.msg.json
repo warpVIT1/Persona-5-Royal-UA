@@ -1,0 +1,1503 @@
+{
+ "file": "EN/EVENT_DATA/SCRIPT/E700/E762_600.BF",
+ "entries": [
+  {
+   "id": "HELP_FLOWER_01#0",
+   "speaker": null,
+   "en": "A large red flower.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_FLOWER_02#0",
+   "speaker": null,
+   "en": "A blue flower[n]of normal size.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_FLOWER_03#0",
+   "speaker": null,
+   "en": "A small orange flower.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_FLOWER_04#0",
+   "speaker": null,
+   "en": "A large yellow flower.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_FLOWER_05#0",
+   "speaker": null,
+   "en": "A shiny red flower.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_FLOWER_06#0",
+   "speaker": null,
+   "en": "A small yellow flower.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_FLOWER_07#0",
+   "speaker": null,
+   "en": "A large pink flower.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_FLOWER_08#0",
+   "speaker": null,
+   "en": "A light blue flower[n]of normal size.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_FLOWER_09#0",
+   "speaker": null,
+   "en": "A small light blue flower.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_FLOWER_10#0",
+   "speaker": null,
+   "en": "A large white flower.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_FLOWER_11#0",
+   "speaker": null,
+   "en": "A light yellow flower.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_FLOWER_12#0",
+   "speaker": null,
+   "en": "A small white flower.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_FLOWER_BOOK_01#0",
+   "speaker": null,
+   "en": "A large, strong-scented[n]red flower embodying[n]passionate love.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_FLOWER_BOOK_02#0",
+   "speaker": null,
+   "en": "A flashy, blue flower[n]with a strong scent to[n]evoke beloved memories.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_FLOWER_BOOK_03#0",
+   "speaker": null,
+   "en": "A small, strong-scented[n]orange flower. Recalls[n]true love's embrace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_FLOWER_BOOK_04#0",
+   "speaker": null,
+   "en": "A large yellow flower[n]with a soft scent. It[n]represents adventure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_FLOWER_BOOK_05#0",
+   "speaker": null,
+   "en": "A flashy, tame-scented[n]red flower. Represents[n]the innocence of love.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_FLOWER_BOOK_06#0",
+   "speaker": null,
+   "en": "A small, soft-scented[n]bright yellow flower.[n]Brings a happy future.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_FLOWER_BOOK_07#0",
+   "speaker": null,
+   "en": "A large, sweet, light[n]pink flower. Give it[n]to your precious one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_FLOWER_BOOK_08#0",
+   "speaker": null,
+   "en": "A soft blue flower[n]with wonderful scent.[n]It represents purity.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_FLOWER_BOOK_09#0",
+   "speaker": null,
+   "en": "A small, aromatic light[n]blue flower. Give it[n]to someone adorable.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_FLOWER_BOOK_10#0",
+   "speaker": null,
+   "en": "A large dull-scented[n]white flower. Evokes[n]faithfulness and truth.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_FLOWER_BOOK_11#0",
+   "speaker": null,
+   "en": "A light yellow flower[n]with a calming aroma.[n]It evokes innocence.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_FLOWER_BOOK_12#0",
+   "speaker": null,
+   "en": "A small white flower[n]with little scent.[n]Used to confess love.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_0_0#0",
+   "speaker": "Female Shop Worker",
+   "en": "Nice to meet you. I'm Megumi Hanasaki,[n]the owner of this shop.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_005_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "I'll do everything myself today,[n]so you can just observe me and[n]try to learn the ropes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_005_0_0#1",
+   "speaker": "Hanasaki",
+   "en": "Well, let's begin!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "[clr 2]Wednesdays and Saturdays[clr 27] are our[n]Happy Flower Days. We offer discounts[n]on bouquets on those days.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_0_0#1",
+   "speaker": "Hanasaki",
+   "en": "I'll be having you choose the flowers[n]for the bouquets too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_0_0#2",
+   "speaker": "Hanasaki",
+   "en": "I might even bump up your pay if the[n]customer really likes your arrangement!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_0_0_NotFriday#0",
+   "speaker": "Hanasaki",
+   "en": "We have our Happy Flower Days on[n][clr 2]Wednesdays and Saturdays[clr 27], which is[n]when we offer discounts on bouquets.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_0_0_NotFriday#1",
+   "speaker": "Hanasaki",
+   "en": "I'll be having you choose the flowers[n]for the bouquets too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_0_0_NotFriday#2",
+   "speaker": "Hanasaki",
+   "en": "I might even bump up your pay if the[n]customer really likes your arrangement!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_0_0_NotFriday#3",
+   "speaker": "Hanasaki",
+   "en": "So... I know today isn't a Happy Flower[n]Day, but we do have a bouquet request.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_0_0_NotFriday#4",
+   "speaker": "Hanasaki",
+   "en": "It's important that you get some practice[n]in, so let's have you start making one!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_2_0#0",
+   "speaker": "Hanasaki",
+   "en": "If you want to know more about flowers,[n]I suggest you read the \"[clr 3]Flowerpedia[clr 27].\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_2_0#1",
+   "speaker": "Hanasaki",
+   "en": "Most of the flowers we sell here should be[n]in there, so I'm sure it'll help if you read it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_030_0_0#0",
+   "speaker": "Morgana",
+   "en": "Pfft... That apron suits you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_031_0_0#0",
+   "speaker": "Morgana",
+   "en": "That apron's really starting to look[n]good on you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_040_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "The customer is looking for [clr 2]large,[n]brightly-colored flowers[clr 27]. Pick three[n]that fit that description.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_040_5_0#0",
+   "speaker": "Morgana",
+   "en": "This request is for [clr 2]large, brightly-[n]colored flowers[clr 27]. I bet light colors[n]or white would even work too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_041_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "Our customer wants [clr 2]small flowers with[n]soft coloration[clr 27]. Please find three that[n]meet the request.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_041_5_0#0",
+   "speaker": "Morgana",
+   "en": "The request is for [clr 2]small flowers with[n]soft coloration[clr 27]. That means white or[n]other light colors, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_042_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "This customer is looking for [clr 2]reddish[n]flowers[clr 27], so please make a bouquet[n]using those.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_042_5_0#0",
+   "speaker": "Morgana",
+   "en": "The request is for [clr 2]reddish flowers[clr 27].[n]Ones that are close to red in color[n]are probably okay too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_043_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "The customer would like a bouquet to[n][clr 2]tell someone they love them[clr 27]. Can you[n]pick out fitting flowers?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_043_5_0#0",
+   "speaker": "Morgana",
+   "en": "This request is for an [clr 2]expression of love[clr 27].[n]It should be pretty easy if you know what[n]each flower means.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_044_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "The customer would like a bouquet[n]full of [clr 2]larger flowers with minimal[n]aroma[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_044_5_0#0",
+   "speaker": "Morgana",
+   "en": "The request is for [clr 2]larger flowers with[n]minimal aroma[clr 27]. Even smaller, weak-[n]scented ones might be okay.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_045_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "The customer would like to [clr 2]thank[n]someone[clr 27] with a bouquet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_045_0_0#1",
+   "speaker": "Hanasaki",
+   "en": "Please make one that has flowers[n]symbolizing such emotions.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_045_5_0#0",
+   "speaker": "Morgana",
+   "en": "The request is to [clr 2]thank someone[clr 27].[n]I suppose ones evoking memories or[n]happy futures would be acceptable.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_046_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "The customer would like a [clr 2]celebration[n]bouquet[clr 27] for someone's 60th birthday.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_046_5_0#0",
+   "speaker": "Morgana",
+   "en": "The request is for a [clr 2]celebration bouquet[clr 27].[n]You know what colors work for that,[n]right? Red and white.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_047_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "The customer would like a bouquet of[n][clr 2]brightly-colored flowers with pungent[n]aromas[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_047_5_0#0",
+   "speaker": "Morgana",
+   "en": "The request is for [clr 2]brightly-colored[n]flowers with pungent aromas[clr 27]. Those[n]softer colors wouldn't work here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_048_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "The customer would like a bouquet to[n]convey [clr 2]congratulations for the birth of[n]a friend's child[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_048_5_0#0",
+   "speaker": "Morgana",
+   "en": "The request is to [clr 2]congratulate the birth[n]of a child[clr 27]. Flowers evoking innocence[n]or the future would work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TEST#0",
+   "speaker": "Morgana",
+   "en": "What's wrong? Do you want to start over?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TEST#0",
+   "speaker": null,
+   "en": "Yeah, let's start over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TEST#1",
+   "speaker": null,
+   "en": "No, I want to continue.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_050_0_0#0",
+   "speaker": "Morgana",
+   "en": "Which flower will you pick first?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051_0_0#0",
+   "speaker": "Morgana",
+   "en": "Okay, pick the second flower now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_052_0_0#0",
+   "speaker": "Morgana",
+   "en": "On to the third and final flower.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_0_0#0",
+   "speaker": "Morgana",
+   "en": "Hey, you've already used that one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_054_0_0#0",
+   "speaker": "Morgana",
+   "en": "All right, let's make sure we pick[n]the right flowers!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_060_0_0#0",
+   "speaker": "Morgana",
+   "en": "The order was for [clr 2]large, brightly-[n]colored flowers[clr 27]. Is this okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_061_0_0#0",
+   "speaker": "Morgana",
+   "en": "The order was for [clr 2]small flowers with[n]soft coloration[clr 27]. Is this okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_062_0_0#0",
+   "speaker": "Morgana",
+   "en": "The order was for [clr 2]reddish flowers[clr 27].[n]Is this okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_063_0_0#0",
+   "speaker": "Morgana",
+   "en": "The order was so the customer could[n][clr 2]tell someone they love them[clr 27]. Is this[n]okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_064_0_0#0",
+   "speaker": "Morgana",
+   "en": "The order was for [clr 2]larger flowers with[n]minimal aroma[clr 27]. Is this okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_065_0_0#0",
+   "speaker": "Morgana",
+   "en": "The order was a bouquet that would[n]allow the customer to [clr 2]thank someone[clr 27].[n]Is this okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_066_0_0#0",
+   "speaker": "Morgana",
+   "en": "The order was for a [clr 2]celebration bouquet[clr 27][n]for somebody's 60th birthday. Is this[n]okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_067_0_0#0",
+   "speaker": "Morgana",
+   "en": "The order was for [clr 2]brightly-colored[n]flowers with pungent aromas[clr 27]. Is this[n]okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_068_0_0#0",
+   "speaker": "Morgana",
+   "en": "The order was meant to [clr 2]congratulate[n]the birth of a friend's child[clr 27]. Is this okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_070_0_0#0",
+   "speaker": null,
+   "en": "This should be good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_070_0_0#1",
+   "speaker": null,
+   "en": "Let's start over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_080_0_0#0",
+   "speaker": "Morgana",
+   "en": "I see. I hope they like it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_081_0_0#0",
+   "speaker": "Morgana",
+   "en": "Fingers crossed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_082_0_0#0",
+   "speaker": "Morgana",
+   "en": "Don't worry, I'm sure they'll love it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_083_0_0#0",
+   "speaker": "Morgana",
+   "en": "I hope the customer likes it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_090_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "Our customer was extremely happy!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_091_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "They bought the bouquet without[n]any complaints.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_091_0_0#1",
+   "speaker": "Hanasaki",
+   "en": "I guess that's a pretty standard reaction...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_092_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "They didn't have any interest in buying[n]that bouquet... Better luck next time,[n][fName]-kun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_111_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "Well, here's your pay for today!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_111_0_0#1",
+   "speaker": "Hanasaki",
+   "en": "I gave you a little bonus because of[n]how well you did!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_112_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "Well, here's your pay for today!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_113_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "Here's your pay for today. We didn't[n]sell much, so it's a little lower than[n]normal...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_116_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "Good work, [fName]-kun. Come[n]back again when you have the time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_116_1_0#0",
+   "speaker": "Hanasaki",
+   "en": "Thank you so much for today! Hope you[n]can come help again when you have the[n]time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_116_2_0#0",
+   "speaker": "Hanasaki",
+   "en": "Thanks for today. Come help again[n]when you have the time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_093_0_0#0",
+   "speaker": "Morgana",
+   "en": "Work went great today!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_093_0_0#1",
+   "speaker": "Morgana",
+   "en": "Living surrounded by flowers might be[n]your true calling... and you were good[n]with the customers too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_094_0_0#0",
+   "speaker": "Morgana",
+   "en": "Nice job. You worked pretty hard today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_094_0_0#1",
+   "speaker": "Morgana",
+   "en": "Still, I bet this job making gifts has[n]boosted your [stIcon 4][clr 26][stLabel 4][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_095_0_0#0",
+   "speaker": "Morgana",
+   "en": "You tried your best, but it really didn't[n]go well today...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_095_1_0#0",
+   "speaker": "Morgana",
+   "en": "Still, I bet this job making gifts has[n]boosted your [stIcon 4][clr 26][stLabel 4][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_099_0_0#0",
+   "speaker": "Morgana",
+   "en": "This job is going to be tough if you[n]don't study up on your flowers...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TEST_GENSEL_SEL#0",
+   "speaker": null,
+   "en": "Scarlet Rose[ref 0 0]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TEST_GENSEL_SEL#1",
+   "speaker": null,
+   "en": "The Sweetest of Peas[ref 1 1]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TEST_GENSEL_SEL#2",
+   "speaker": null,
+   "en": "Stinking Olive[ref 2 2]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TEST_GENSEL_SEL#3",
+   "speaker": null,
+   "en": "Gold Gerbera[ref 3 3]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TEST_GENSEL_SEL#4",
+   "speaker": null,
+   "en": "Care-nation[ref 4 4]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TEST_GENSEL_SEL#5",
+   "speaker": null,
+   "en": "Rainbow Sage[ref 5 5]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TEST_GENSEL_SEL#6",
+   "speaker": null,
+   "en": "Gecko Orchid[ref 6 6]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TEST_GENSEL_SEL#7",
+   "speaker": null,
+   "en": "Delightful Lily[ref 7 7]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TEST_GENSEL_SEL#8",
+   "speaker": null,
+   "en": "Justice Jasmine[ref 8 8]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TEST_GENSEL_SEL#9",
+   "speaker": null,
+   "en": "Venerable Chrysanthemum[ref 9 9]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TEST_GENSEL_SEL#10",
+   "speaker": null,
+   "en": "Fluorescent Freesia[ref 10 10]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TEST_GENSEL_SEL#11",
+   "speaker": null,
+   "en": "Enamored Orchid[ref 11 11]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TEST_GENSEL_BOOK_SEL#0",
+   "speaker": null,
+   "en": "Scarlet Rose[ref 0 12]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TEST_GENSEL_BOOK_SEL#1",
+   "speaker": null,
+   "en": "The Sweetest of Peas[ref 1 13]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TEST_GENSEL_BOOK_SEL#2",
+   "speaker": null,
+   "en": "Stinking Olive[ref 2 14]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TEST_GENSEL_BOOK_SEL#3",
+   "speaker": null,
+   "en": "Gold Gerbera[ref 3 15]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TEST_GENSEL_BOOK_SEL#4",
+   "speaker": null,
+   "en": "Care-nation[ref 4 16]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TEST_GENSEL_BOOK_SEL#5",
+   "speaker": null,
+   "en": "Rainbow Sage[ref 5 17]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TEST_GENSEL_BOOK_SEL#6",
+   "speaker": null,
+   "en": "Gecko Orchid[ref 6 18]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TEST_GENSEL_BOOK_SEL#7",
+   "speaker": null,
+   "en": "Delightful Lily[ref 7 19]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TEST_GENSEL_BOOK_SEL#8",
+   "speaker": null,
+   "en": "Justice Jasmine[ref 8 20]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TEST_GENSEL_BOOK_SEL#9",
+   "speaker": null,
+   "en": "Venerable Chrysanthemum[ref 9 21]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TEST_GENSEL_BOOK_SEL#10",
+   "speaker": null,
+   "en": "Fluorescent Freesia[ref 10 22]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TEST_GENSEL_BOOK_SEL#11",
+   "speaker": null,
+   "en": "Enamored Orchid[ref 11 23]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_400_0_0_Special#0",
+   "speaker": "Hanasaki",
+   "en": "Your shift's almost over, right? Thanks[n]for all your hard work today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_400_0_0_Special#1",
+   "speaker": "Hanasaki",
+   "en": "Oh... and be careful on your way home.[n]Things have been dangerous in this area[n]lately.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_400_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "Nice work today. It's almost time for[n]your shift to end, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_400_0_0#1",
+   "speaker": "Hanasaki",
+   "en": "Oh... and be careful on your way home.[n]Things have been dangerous in this area[n]lately.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_401_0_0#0",
+   "speaker": null,
+   "en": "Did something happen?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_401_0_0#1",
+   "speaker": null,
+   "en": "What do you mean?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_402_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "Haven't you heard? There have been[n]quite a few assaults.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_402_0_0#1",
+   "speaker": "Hanasaki",
+   "en": "Just the day before yesterday, a man[n]was hospitalized after getting attacked[n]by someone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_403_0_0#0",
+   "speaker": null,
+   "en": "How horrible...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_403_0_0#1",
+   "speaker": null,
+   "en": "Attacked by who?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_404_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "Yeah... It's rumored that a famous thug[n]from around here named [clr 2]Taizo Naguri[clr 27] did it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_404_0_0#1",
+   "speaker": "Hanasaki",
+   "en": "But... the police can't handle the[n]situation without any proof.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_405_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "Hmm... It's only a rumor, but I heard[n]it was a famous thug from around here[n]named [clr 2]Taizo Naguri[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_405_0_0#1",
+   "speaker": "Hanasaki",
+   "en": "But... the police can't handle the[n]situation without any proof.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_406_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "Honestly, I've been worried too...[n]I only take the main roads home,[n]even if it takes a bit longer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_406_0_0#1",
+   "speaker": "Hanasaki",
+   "en": "Maybe the Phantom Thieves could[n]do something about him since the[n]police have their hands tied...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_406_0_0#2",
+   "speaker": "Hanasaki",
+   "en": "...Oh, I almost forgot! Here's your pay[n]for today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_408_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "Be careful on your way home, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_409_0_0#0",
+   "speaker": "Morgana",
+   "en": "Hey... What do you think?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_410_0_0#0",
+   "speaker": null,
+   "en": "I can't ignore that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_410_0_0#1",
+   "speaker": null,
+   "en": "It's Phantom Thieves time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_413_0_0#0",
+   "speaker": "Morgana",
+   "en": "Well put!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_413_0_0#1",
+   "speaker": "Morgana",
+   "en": "His name was [clr 2]Taizo Naguri[clr 27]... Let's go[n]to Mementos and take his distorted[n]desires!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_432_0_0_Special#0",
+   "speaker": "Hanasaki",
+   "en": "Oh, by the way... did you know they[n]caught the culprit behind those assaults?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_432_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "So, your shift is coming to a close, yes?[n]Nice job...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_432_0_0#1",
+   "speaker": "Hanasaki",
+   "en": "Oh, by the way... did you know they[n]caught the culprit behind those assaults?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_433_0_0#0",
+   "speaker": null,
+   "en": "I did.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_433_0_0#1",
+   "speaker": null,
+   "en": "First I've heard of it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_434_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "It turns out it actually was Naguri.[n]What's really surprising is that he[n]turned himself in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_435_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "Well, apparently it really was Naguri,[n]just like I thought! He actually turned[n]himself in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_436_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "He was such a delinquent! What do you[n]think made him surrender?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_437_0_0#0",
+   "speaker": null,
+   "en": "Divine intervention?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_437_0_0#1",
+   "speaker": null,
+   "en": "The Phantom Thieves?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_438_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "Well, maybe... but I think it might have[n]been the Phantom Thieves at it again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_439_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "Oh, that's what I was thinking!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_439_0_0#1",
+   "speaker": "Hanasaki",
+   "en": "A lot of these crimes have been ending[n]similarly: The culprit has a change of[n]heart and confesses.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_439_0_0#2",
+   "speaker": "Hanasaki",
+   "en": "The Phantom Thieves have to be real...[n]They just have to be...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_440_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "Oh, sorry! I got a little sidetracked for a[n]second there! Here's your pay for today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_441_0_0#0",
+   "speaker": "Hanasaki",
+   "en": "Well, nice work. Be careful out— Oh.[n]I guess there's not actually a need to[n]be vigilant anymore.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_441_0_0#1",
+   "speaker": "Hanasaki",
+   "en": "Your way home should be a little safer[n]now. See you next time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_442_0_0#0",
+   "speaker": "Morgana",
+   "en": "That's us. Fixing the world, one step[n]at a time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_NOT_YET_1#0",
+   "speaker": "Morgana",
+   "en": "Hmm... It looks like we'll have to work[n]here again to get more information on[n]the target.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_NOT_YET_2#0",
+   "speaker": "Morgana",
+   "en": "Hmm... It looks like we'll need to do[n]more work if we want information on[n]the target.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_quest40_Target_Find#0",
+   "speaker": null,
+   "en": "Now that you have your target, you need to[n]make sure everyone's on board with the mission.[n]Summon them to the hideout for a vote.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUUSUKE_0_1#0",
+   "speaker": "Yusuke",
+   "en": "I thought I spotted a familiar face, but I[n]wasn't expecting to see you. How long[n]have you been working here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUUSUKE_0_1#1",
+   "speaker": "Yusuke",
+   "en": "I was seeking a motif for my still-life[n]painting and ended up in front of this[n]flower shop without realizing it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUUSUKE_0_1#2",
+   "speaker": "Yusuke",
+   "en": "It may do me good to return to basics[n]and draw a flower. Do you have any[n]recommendations?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Yusuke_1st#0",
+   "speaker": null,
+   "en": "How about some roses?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Yusuke_1st#1",
+   "speaker": null,
+   "en": "Maybe a cactus?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Yusuke_1st#2",
+   "speaker": null,
+   "en": "Some carnivorous plants...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUUSUKE_0_2_1#0",
+   "speaker": "Yusuke",
+   "en": "Hm, I was thinking of purchasing a lily...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUUSUKE_0_2_1#1",
+   "speaker": "Yusuke",
+   "en": "But something lustrous like a rose[n]might work too. Now, how many to[n]buy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUUSUKE_0_2_2#0",
+   "speaker": "Yusuke",
+   "en": "A-A cactus!? How outlandish!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUUSUKE_0_2_2#1",
+   "speaker": "Yusuke",
+   "en": "But wait...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUUSUKE_0_2_2#2",
+   "speaker": "Yusuke",
+   "en": "Painting something new might be rather[n]stimulating. And they have thorns!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUUSUKE_0_2_3#0",
+   "speaker": "Yusuke",
+   "en": "...Are you being serious? I would prefer[n]that you not make jokes at my expense.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUUSUKE_0_2_3#1",
+   "speaker": "Yusuke",
+   "en": "But wait...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUUSUKE_0_2_3#2",
+   "speaker": "Yusuke",
+   "en": "When I was younger, I was indeed drawn[n]to them for some strange reason... Perhaps[n]I should reflect upon my childhood self.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUUSUKE_0_3#0",
+   "speaker": "Yusuke",
+   "en": "This has been helpful. Thank you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUUSUKE_0_3#1",
+   "speaker": "Yusuke",
+   "en": "Well then, I should finish my shopping.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUUSUKE_1_1#0",
+   "speaker": "Yusuke",
+   "en": "Oh, [fName]. I see you're working[n]hard as always.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUUSUKE_1_2#0",
+   "speaker": "Yusuke",
+   "en": "Once again, I'm on the hunt for a still-life[n]painting motif. Thanks to your help last[n]time, I now know where to look.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUUSUKE_1_3#0",
+   "speaker": "Yusuke",
+   "en": "Well then, I should finish my shopping.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_0_1#0",
+   "speaker": "Haru",
+   "en": "Ah, so it is you... Fancy seeing you here,[n][fName]-kun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_0_1#1",
+   "speaker": "Haru",
+   "en": "My plants aren't looking too healthy,[n]so I came to buy nutrients for them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_0_1#2",
+   "speaker": "Haru",
+   "en": "What are you doing here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Haru_1st#0",
+   "speaker": null,
+   "en": "I work here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Haru_1st#1",
+   "speaker": null,
+   "en": "I'm into flowers...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Haru_1st#2",
+   "speaker": null,
+   "en": "Waiting for you, buttercup.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_0_2_1#0",
+   "speaker": "Haru",
+   "en": "Oh, I had no idea! Wow, I wish I could[n]work at a flower shop!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_0_2_1#1",
+   "speaker": "Haru",
+   "en": "Growing your own is fun too, but there's[n]a different sense of enjoyment that comes[n]from selling them!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_0_2_2#0",
+   "speaker": "Haru",
+   "en": "Me too! Aren't they so cute? It's so nice[n]to find someone who understands me...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_0_2_2#1",
+   "speaker": "Haru",
+   "en": "Learning about flower languages and[n]symbolisms is fun too. You get to discover[n]a whole new side to every flower!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_0_2_3#0",
+   "speaker": "Haru",
+   "en": "Huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_0_2_3#1",
+   "speaker": "Haru",
+   "en": "Oh! You mean they sell buttercups here?[n]I had no idea!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_0_2_3#2",
+   "speaker": "Haru",
+   "en": "Maybe I'll grow some of those next spring...[n]Let me know if there are any other flowers[n]you'd recommend!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_0_3#0",
+   "speaker": "Haru",
+   "en": "Oh, sorry. I don't mean to distract you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_0_3#1",
+   "speaker": "Haru",
+   "en": "Well, goodbye.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_1_1#0",
+   "speaker": "Haru",
+   "en": "Oh, hello, [fName]-kun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_1_2#0",
+   "speaker": "Haru",
+   "en": "I'm here to buy more nutrients for my[n]plants. Let's talk more about flowers[n]together next time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_1_3#0",
+   "speaker": "Haru",
+   "en": "Well, goodbye.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEBUG#0",
+   "speaker": "デバッグ",
+   "en": "debug mode",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#0",
+   "speaker": null,
+   "en": "don't use",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#1",
+   "speaker": null,
+   "en": "normal debug",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEBUG_2#0",
+   "speaker": "デバッグ",
+   "en": "debug mode",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_2#0",
+   "speaker": null,
+   "en": "general course",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_2#1",
+   "speaker": null,
+   "en": "special course",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEBUG_5#0",
+   "speaker": "デバッグ",
+   "en": "choose special course",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEBUG_4#0",
+   "speaker": "Counter debug",
+   "en": "Counter debug",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_4#0",
+   "speaker": null,
+   "en": "Keep as is",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_4#1",
+   "speaker": null,
+   "en": "Return to 0",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

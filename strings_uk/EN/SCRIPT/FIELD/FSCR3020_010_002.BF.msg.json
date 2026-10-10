@@ -1,0 +1,460 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR3020_010_002.BF",
+ "entries": [
+  {
+   "id": "MSG_NET_1ST_01#0",
+   "speaker": "Tanaka",
+   "en": "Heheheh... Welcome to the alluring[n]world of Tanaka's Shady Commodities!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NET_1ST_01#1",
+   "speaker": "Tanaka",
+   "en": "This site uses text-to-speech for[n]an easy-to-understand shopping[n]experience!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YamiNet_TutorialEnd#0",
+   "speaker": "Tanaka",
+   "en": "Forget any silly doubts or skepticism[n]you might have, and just sign up now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NET_1ST_02#0",
+   "speaker": "Tanaka",
+   "en": "Welcome! This is Tanaka's Shady[n]Commodities!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NET_1ST_02#1",
+   "speaker": "Tanaka",
+   "en": "Simply register an account to enjoy[n]the alluring world of Tanaka's Shady[n]Commodities.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NET_1ST_02#2",
+   "speaker": "Tanaka",
+   "en": "Forget any silly doubts or skepticism[n]you might have, and just sign up now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YamiNet_MemberQ#0",
+   "speaker": "Morgana",
+   "en": "This site is incredibly shady...[n]So, are you gonna sign up?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_YamiNet_MemberQ#0",
+   "speaker": null,
+   "en": "Should I make an account?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_NET_1ST_YES_NO#0",
+   "speaker": null,
+   "en": "Let's sign up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_NET_1ST_YES_NO#1",
+   "speaker": null,
+   "en": "No, I better not.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NET_1ST_NO#0",
+   "speaker": "Tanaka",
+   "en": "Oh, what a shame! What a pity![n]But please, do come again!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NAME_CHANGE_01#0",
+   "speaker": "Morgana",
+   "en": "...Is it a good idea to use your real name[n]on a site like this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_NAME_CHANGE_ON_OFF_M#0",
+   "speaker": null,
+   "en": "It's fine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_NAME_CHANGE_ON_OFF_M#1",
+   "speaker": null,
+   "en": "I'll use Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NAME_CHANGE_02#0",
+   "speaker": "Morgana",
+   "en": "I don't know. Giving your real name on[n]this site seems pretty risky to me... But it's[n]up to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NAME_CHANGE_03#0",
+   "speaker": "Morgana",
+   "en": "Your code name, eh? That's a good idea.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NAME_CHANGE_ON_01#0",
+   "speaker": null,
+   "en": "What name should[n]I sign up with?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_NAME_CHANGE_ON_OFF#0",
+   "speaker": null,
+   "en": "I'll use my real name.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_NAME_CHANGE_ON_OFF#1",
+   "speaker": null,
+   "en": "I'll go with \"Joker.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NET_1ST_SHOP#0",
+   "speaker": "Tanaka",
+   "en": "Thank you for signing up! Welcome to[n]Tanaka's Shady Commodities!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NET_1ST_SHOP#1",
+   "speaker": "Tanaka",
+   "en": "Mr. [lName], you've opened the[n]door to possibilities that normal people[n]can only dream of!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NET_1ST_SHOP#2",
+   "speaker": "Tanaka",
+   "en": "Now, you can find all the rare items[n]you could possibly want!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NET_1ST_SHOP_NAME_CH#0",
+   "speaker": "Tanaka",
+   "en": "Thank you for signing up! Welcome to[n]Tanaka's Shady Commodities!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NET_1ST_SHOP_NAME_CH#1",
+   "speaker": "Tanaka",
+   "en": "Mr. Joker, you've opened the door to[n]possibilities that normal people can[n]only dream of!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NET_1ST_SHOP_NAME_CH#2",
+   "speaker": "Tanaka",
+   "en": "Now, you can find all the rare items[n]you could possibly want!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NET_SHOP_IN#0",
+   "speaker": "Tanaka",
+   "en": "Welcome! This is Tanaka's Shady[n]Commodities!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NET_SHOP_IN#1",
+   "speaker": "Tanaka",
+   "en": "Mr. [lName], you've opened the[n]door to possibilities that normal people[n]can only dream of!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NET_SHOP_IN#2",
+   "speaker": "Tanaka",
+   "en": "Now, you can find all the rare items[n]you could possibly want!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NET_SHOP_IN_NAME_CHA#0",
+   "speaker": "Tanaka",
+   "en": "Welcome! This is Tanaka's Shady[n]Commodities!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NET_SHOP_IN_NAME_CHA#1",
+   "speaker": "Tanaka",
+   "en": "Mr. Joker, you've opened the door to[n]possibilities that normal people can[n]only dream of!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NET_SHOP_IN_NAME_CHA#2",
+   "speaker": "Tanaka",
+   "en": "Now, you can find all the rare items[n]you could possibly want!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NET_NO_BUY_END_YN#0",
+   "speaker": "Tanaka",
+   "en": "Is there something you forgot to get?[n]Make sure you don't miss out on[n]anything!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_NET_BUY_YES_NO#0",
+   "speaker": null,
+   "en": "Cancel purchase",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_NET_BUY_YES_NO#1",
+   "speaker": null,
+   "en": "Keep looking",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TRANSPORT#0",
+   "speaker": "Tanaka",
+   "en": "Welcome! This is Tanaka's Shady[n]Commodities!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TRANSPORT#1",
+   "speaker": "Tanaka",
+   "en": "Your order is on its way. It should be[n]arriving shortly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TRANSPORT#2",
+   "speaker": "Tanaka",
+   "en": "We hope to see you again soon!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOLDOUT#0",
+   "speaker": "Tanaka",
+   "en": "Welcome! This is Tanaka's Shady[n]Commodities!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOLDOUT#1",
+   "speaker": "Tanaka",
+   "en": "We are currently all sold out![n]We sincerely apologize.[n]We are very sorry to disappoint you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOLDOUT#2",
+   "speaker": "Tanaka",
+   "en": "We hope to see you again soon!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_UP_00#0",
+   "speaker": "Tanaka",
+   "en": "Good news, Mr. [lName]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_UP_00_NAME_CHAN#0",
+   "speaker": "Tanaka",
+   "en": "Good news, Mr. Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_BLACK#0",
+   "speaker": "Tanaka",
+   "en": "Wh-Why, you've already spent over[n]10000 yen!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_BLACK#1",
+   "speaker": "Tanaka",
+   "en": "Your member rank is now Black![n]Now you can purchase all of our[n]Black-tier products!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_BLACK_NAME_CHAN#0",
+   "speaker": "Tanaka",
+   "en": "Wh-Why, you've already spent over[n]10000 yen!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_BLACK_NAME_CHAN#1",
+   "speaker": "Tanaka",
+   "en": "Your member rank is now Black![n]Now you can purchase all of our[n]Black-tier products!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_UP_01#0",
+   "speaker": "Tanaka",
+   "en": "But that's not all...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_DARK#0",
+   "speaker": "Tanaka",
+   "en": "You've spent over 50000 yen!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_DARK#1",
+   "speaker": "Tanaka",
+   "en": "Your member rank is now Dark![n]Now you can purchase all of our[n]Dark-tier products!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_DARK_NAME_CHANG#0",
+   "speaker": "Tanaka",
+   "en": "You've spent over 50000 yen!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_DARK_NAME_CHANG#1",
+   "speaker": "Tanaka",
+   "en": "Your member rank is now Dark![n]Now you can purchase all of our[n]Dark-tier products!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_UP_02#0",
+   "speaker": "Tanaka",
+   "en": "But wait, there's more...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_CHAOS#0",
+   "speaker": "Tanaka",
+   "en": "You've spent over 100000 yen!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_CHAOS#1",
+   "speaker": "Tanaka",
+   "en": "Your member rank is now Chaos![n]Now you can purchase all of our[n]Chaos-tier products!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_CHAOS_NAME_CHAN#0",
+   "speaker": "Tanaka",
+   "en": "You've spent over 100000 yen!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_CHAOS_NAME_CHAN#1",
+   "speaker": "Tanaka",
+   "en": "Your member rank is now Chaos![n]Now you can purchase all of our[n]Chaos-tier products!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_Max#0",
+   "speaker": "Tanaka",
+   "en": "You've reached our highest member[n]rank, so this is our full lineup. We can't[n]thank you enough!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NO_RANK_UP#0",
+   "speaker": "Tanaka",
+   "en": "So far you have spent a total of[n][var 0] yen!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NO_RANK_UP_NAME_CHAN#0",
+   "speaker": "Tanaka",
+   "en": "So far you have spent a total of[n][var 0] yen!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SHOP_BUY#0",
+   "speaker": "Tanaka",
+   "en": "Your order will arrive soon. We[n]understand your excitement, but[n]we ask for your patience!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SHOP_BUY#1",
+   "speaker": "Tanaka",
+   "en": "We hope to see you again soon!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SHOP_END#0",
+   "speaker": "Tanaka",
+   "en": "We hope to see you again soon!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Kokuti_1GATU#0",
+   "speaker": "Tanaka",
+   "en": "We will be undergoing server[n]maintenance beginning on 1/31,[n]so we will be out of service!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Kokuti_Saigo#0",
+   "speaker": "Tanaka",
+   "en": "We will be undergoing server[n]maintenance beginning tomorrow,[n]1/31, so we will be out of service!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Yami_Siyouhuka#0",
+   "speaker": "Morgana",
+   "en": "\"Undergoing server maintenance,\" huh...[n]Seems like we can't use the website.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

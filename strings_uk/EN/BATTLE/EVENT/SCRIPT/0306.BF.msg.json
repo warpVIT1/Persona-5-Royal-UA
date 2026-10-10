@@ -1,0 +1,1174 @@
+{
+ "file": "EN/BATTLE/EVENT/SCRIPT/0306.BF",
+ "entries": [
+  {
+   "id": "MSG_BTLSTART02_000_000#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Unforgivable... Unforgivable!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART02_010_006#0",
+   "speaker": "Futaba",
+   "en": "What the... It's flying!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART02_020_002#0",
+   "speaker": "Morgana",
+   "en": "Yeah, that's why it's been kicking our[n]butts. We can only reach it with skills[n]or gunfire...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART02_030_006#0",
+   "speaker": "Futaba",
+   "en": "Normal attacks won't reach...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART02_030_006#1",
+   "speaker": "Futaba",
+   "en": "In that case, we'll just need to shoot it[n]down!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART02_031_006#0",
+   "speaker": "Futaba",
+   "en": "Now it's our turn—here goes! I'm[n]summoning our ultimate weapon[n]to the battlefield!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART02_040_002#0",
+   "speaker": "Morgana",
+   "en": "A-A ballista!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART02_050_006#0",
+   "speaker": "Futaba",
+   "en": "Shoot it down with this, then beat[n]the crap out of it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART02_060_002#0",
+   "speaker": "Morgana",
+   "en": "Ahhh, I get it now! Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTALK_010_000#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Nnnngh...! How dare you...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTALK_020_000#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Children that defy their mothers[n]should... DIE!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTALK_030_006#0",
+   "speaker": "Futaba",
+   "en": "Shut up! You're not my mom!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTALK_040_006#0",
+   "speaker": "Futaba",
+   "en": "You're just a monster born from my[n]own weakness...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTALK_040_006#1",
+   "speaker": "Futaba",
+   "en": "Everyone, keep attacking it! Don't let up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTALK_050_006#0",
+   "speaker": "Futaba",
+   "en": "Everyone, keep attacking it! Don't let up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDER25_000_000#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "I don't need a child who defies me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDER25_010_000#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "And children I don't need... should be[n]killed!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDER25_020_006#0",
+   "speaker": "Futaba",
+   "en": "M-Mom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDER25_020_006#1",
+   "speaker": "Futaba",
+   "en": "...No, that's not her.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDER25_030_006#0",
+   "speaker": "Futaba",
+   "en": "You're just a monster!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDER75_000_000#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "You little...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDER75_010_000#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "You goddamn BRAAATS!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPECIALUSE_000_000#0",
+   "speaker": "Morgana",
+   "en": "Dammit! It's back at it again!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPECIALUSE_010_006#0",
+   "speaker": "Futaba",
+   "en": "What's wrong?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPECIALUSE_020_002#0",
+   "speaker": "Morgana",
+   "en": "It's going for a dive attack! We have[n]no idea when it's coming, either!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPECIALUSE_030_006#0",
+   "speaker": "Futaba",
+   "en": "I can tell... with my Persona.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPECIALUSE_040_000#0",
+   "speaker": "Morgana",
+   "en": "What!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPECIALUSE_050_006#0",
+   "speaker": "Futaba",
+   "en": "I'll let you know when the enemy's[n]approaching!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAIT_000_006#0",
+   "speaker": "Futaba",
+   "en": "You're still okay! It's far away right now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAIT_010_006#0",
+   "speaker": "Futaba",
+   "en": "It's coming in hot!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLEND02_000_002#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Nnngh! Futaba... Futaba!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLEND02_000_002#1",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "If only I had never birthed you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLEND02_010_006#0",
+   "speaker": "Futaba",
+   "en": "No matter what you say to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLEND02_010_006#1",
+   "speaker": "Futaba",
+   "en": "...I will live!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLEND02_011_006#0",
+   "speaker": "Futaba",
+   "en": "No matter what you say to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLEND02_012_006#0",
+   "speaker": "Futaba",
+   "en": "...I will live!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLEND02_020_006#0",
+   "speaker": "Futaba",
+   "en": "FIRE!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART02_031_006EX#0",
+   "speaker": "Futaba",
+   "en": "Now it's our turn—here goes! I'm[n]summoning our ultimate weapon[n]to the battlefield!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART02_040_002EX#0",
+   "speaker": "Morgana",
+   "en": "A-A ballista!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART02_050_006EX#0",
+   "speaker": "Futaba",
+   "en": "Shoot it down with this, then beat[n]the crap out of it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART02_060_002EX#0",
+   "speaker": "Morgana",
+   "en": "Ahhh, I get it now! Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTALK_010_000EX#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Nnnngh...! How dare you...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTALK_020_000EX#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Children that defy their mothers[n]should... DIE!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTALK_030_006EX#0",
+   "speaker": "Futaba",
+   "en": "Shut up! You're not my mom!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTALK_040_006EX#0",
+   "speaker": "Futaba",
+   "en": "You're just a monster born from my[n]own weakness...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTALK_040_006EX#1",
+   "speaker": "Futaba",
+   "en": "Everyone, keep attacking it! Don't let up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTALK_050_006EX#0",
+   "speaker": "Futaba",
+   "en": "Everyone, keep attacking it! Don't let up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLEND02_000_002EX#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Nnngh! Futaba...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLEND02_000_002EX#1",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "If only I had never birthed you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLEND02_010_006EX#0",
+   "speaker": "Futaba",
+   "en": "No matter what you say to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLEND02_010_006EX#1",
+   "speaker": "Futaba",
+   "en": "...I will live!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLEND02_011_006EX#0",
+   "speaker": "Futaba",
+   "en": "No matter what you say to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLEND02_012_006EX#0",
+   "speaker": "Futaba",
+   "en": "...I will live!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLEND02_020_006EX#0",
+   "speaker": "Futaba",
+   "en": "FIRE!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ01_001_001#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Futabaaa! I know I didn't raise you to[n]be like that! How dare you run around[n]with such an awful crowd!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ01_001_001#1",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "The only thing you should be doing[n]is obeying my orders!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ01_001_002#0",
+   "speaker": "Futaba",
+   "en": "M-Mom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ01_001_002ADD#0",
+   "speaker": "Futaba",
+   "en": "...No, that's not her.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ01_001_002B#0",
+   "speaker": "Futaba",
+   "en": "You're just a monster!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ01_001_006#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Talking back to your own mother!?[n]You've spent too much time with these[n]no-good punks, haven't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ01_001_006#1",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "I'll crush them!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PRE_BLOCK#0",
+   "speaker": "Morgana",
+   "en": "Damn! It's going to swoop down on us[n]again, isn't it? What can we do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ01_001_005#0",
+   "speaker": "Futaba",
+   "en": "Don't worry, I'll take care of it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_EXQ01_001_002#0",
+   "speaker": null,
+   "en": "We're counting on you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_EXQ01_001_002#1",
+   "speaker": null,
+   "en": "You got this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_1ST_ATTACK#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Diiiieeee!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_1ST_BLOCK#0",
+   "speaker": "Futaba",
+   "en": "This is my heart's world, right? Hacking[n]into my distortion should be no[n]problem for me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_1ST_BLOCKED#0",
+   "speaker": "Futaba",
+   "en": "I won't let you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_1ST_BLOCKED2#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Grrrr... You goddamn brats!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ05_001_001#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Futaba! Futaba, Futaba, Futabaaaaaa!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ05_001_003#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "It doesn't matter what you say! Futaba is[n]MY property! Defying one's mother is[n]absolutely disgraceful!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_EXQ05_001_001#0",
+   "speaker": null,
+   "en": "We'll be taking Futaba.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_EXQ05_001_001#1",
+   "speaker": null,
+   "en": "You're done for.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ05_002_001#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Shut up! Shut uuuuuuuup!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_WRONG_#0",
+   "speaker": "Futaba",
+   "en": "N-No!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_WRONG__2#0",
+   "speaker": "Futaba",
+   "en": "Th-That's not...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_WRONG__3#0",
+   "speaker": "Futaba",
+   "en": "No, stop!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_WRONG__4#0",
+   "speaker": "Futaba",
+   "en": "S-Stop... I don't want to hear this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_WRONG__5#0",
+   "speaker": "Futaba",
+   "en": "I-I...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_WRONG__6#0",
+   "speaker": "Futaba",
+   "en": "That's not true!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_REACTI#0",
+   "speaker": "Futaba",
+   "en": "Yeah! That's it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_REACTI_2#0",
+   "speaker": "Futaba",
+   "en": "......!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_REACTI_3#0",
+   "speaker": "Futaba",
+   "en": "Please! You have to remember the truth!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_REACTI_4#0",
+   "speaker": "Futaba",
+   "en": "He's right!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_CORREC#0",
+   "speaker": "Futaba",
+   "en": "No, you're not!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_WRONG#0",
+   "speaker": "Futaba",
+   "en": "Huh? M-Mom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_CORREC_2#0",
+   "speaker": "Futaba",
+   "en": "How's this!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_PRE_WR#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Yessss, Futaba! You have to stay with[n]Mama forever!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_PRE_WR_2#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "It's no use! You can never escape your sins!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_PRE_WR_3#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "See!? It's exactly as I say! Futaba, dying[n]here with me is your happiness!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_PRE_WR_4#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Naughty children who defy their[n]parents... should be punished!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_PRE_FL#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Damn pesky brats!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_CORREC_3#0",
+   "speaker": "Futaba",
+   "en": "Time for my power...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_OBSTRU#0",
+   "speaker": "Futaba",
+   "en": "Oh no!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_PRE_WR_5#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "I'll show you what happens to whatever[n]gets in my way!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ02_001_001#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Nnnngh! After all I did to raise you...[n]You dare neglect your mother like[n]this!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ02_001_003#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "I am your MOTHER! The one and only[n]in this whole, awful world!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_EXQ02_001_001#0",
+   "speaker": null,
+   "en": "True...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_EXQ02_001_001#1",
+   "speaker": null,
+   "en": "That's not true.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ02_002_001#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "What!? Why won't you admit it!? Why,[n]why, whywhywhywhy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ02_002_002#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "That's right! I am Futaba's mother!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ02_001_006#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "For a child to survive in your cruel world,[n]they need a concerned mother figure—[n]like me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ02_001_006#1",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Understand!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_EXQ02_001_002#0",
+   "speaker": null,
+   "en": "Maybe you are right...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_EXQ02_001_002#1",
+   "speaker": null,
+   "en": "You're a fake.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ02_002_004#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "I'm a... a fake!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ02_002_005#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "That's right! Futaba can't live without me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ02_011_006#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Futaba's happiness is here! There is[n]nothing but pain in reality!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ02_011_006#1",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "I won't let anyone take her!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_EXQ02_011_002#0",
+   "speaker": null,
+   "en": "Futaba will be fine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_EXQ02_011_002#1",
+   "speaker": null,
+   "en": "You might be right...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ01_012_004#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Wh-What!? What evidence do you have[n]for that nonsense!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ01_012_005#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Yes! Futaba is mine!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ03_001_001#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Futabaaa! It's all because I had you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ03_001_001#1",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "You did this... You screwed up my life!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ03_001_003#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "All you did was get in the way of my[n]research! I should've never had you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_EXQ03_001_001#0",
+   "speaker": null,
+   "en": "So that's how she felt...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_EXQ03_001_001#1",
+   "speaker": null,
+   "en": "You're wrong.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ03_002_001#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "No, that's exactly what I've always[n]thought! If Futaba wasn't around, I—",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ03_002_002#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Yes! All she did was pester me, day after[n]day! I would've been free if I'd just never[n]had Futaba!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ03_001_006#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "No matter how much you struggle, you'll[n]never escape me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ03_001_006#1",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "You'll be tormented by your personal guilt[n]FOREVER!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_EXQ03_001_002#0",
+   "speaker": null,
+   "en": "We've got her back.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_EXQ03_001_002#1",
+   "speaker": null,
+   "en": "Well, if we use the research...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ03_002_004#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "B-But, that's impossible...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ03_002_005#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Even if you tried, it'd be pointless!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ03_011_006#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "No matter what you say, Futaba—you're[n]just a shut-in! A living failure who can't[n]even have a normal life!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ03_011_006#1",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Since you're so abnormal, you'd obviously[n]be happier if you stayed here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_EXQ03_011_002#0",
+   "speaker": null,
+   "en": "Is that true?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_EXQ03_011_002#1",
+   "speaker": null,
+   "en": "The future can be changed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ03_003_004#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "The... The future!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ03_003_005#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "That's right! I didn't care one bit about[n]Futaba!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ04_001_001#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Futaba, you're unworthy of being alive!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ04_001_003#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Futaba, you're unworthy of being alive!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ04_001_003#1",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "It's the same thing I said in my suicide[n]note! That fact cannot be challenged!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_EXQ04_001_001#0",
+   "speaker": null,
+   "en": "That was forged.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_EXQ04_001_001#1",
+   "speaker": null,
+   "en": "...The truth can't be changed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ04_002_001#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "It was... forged? That can't be!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ04_002_002#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Yes! That suicide note is everything!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ04_001_006#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "No matter how much you struggle, you'll[n]never escape me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ04_001_006#1",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "You'll be tormented by your personal guilt[n]FOREVER!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_EXQ04_001_002#0",
+   "speaker": null,
+   "en": "We've got her back.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_EXQ04_001_002#1",
+   "speaker": null,
+   "en": "Well, if we use the research...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ04_002_004#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "B-But, that's impossible...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ04_002_005#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Even if you tried, it'd be pointless!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ04_011_006#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "No matter what you say, Futaba—you're[n]just a shut-in! A living failure who can't[n]even have a normal life!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ04_011_006#1",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Since you're so abnormal, you'd obviously[n]be happier if you stayed here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_EXQ04_011_002#0",
+   "speaker": null,
+   "en": "Is that true?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_EXQ04_011_002#1",
+   "speaker": null,
+   "en": "The future can be changed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ04_012_004#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "The... The future!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXQ04_012_005#0",
+   "speaker": "Cognitive Wakaba Isshiki",
+   "en": "Of course it is! I won't let you escape,[n]Futaba!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_REACTI_5#0",
+   "speaker": "Futaba",
+   "en": "Mom is gone. No matter how much I[n]wish for her to be with me, it'll never[n]come true.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_REACTI_5#1",
+   "speaker": "Futaba",
+   "en": "That's why I'll live in the real world,[n]even if she's not there with me[n]anymore!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_REACTI_5#2",
+   "speaker": "Futaba",
+   "en": "And I'm gonna live my life as free[n]and happy as I can!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_REACTI_6#0",
+   "speaker": "Futaba",
+   "en": "Well, he's right! And it's because I'm NOT[n]alone anymore!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_REACTI_6#1",
+   "speaker": "Futaba",
+   "en": "My happiness is my own to find!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_REACTI_7#0",
+   "speaker": "Futaba",
+   "en": "Listen, my mom is so precious to me,[n]and I still love her a ton... but, you're[n]not her!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_REACTI_7#1",
+   "speaker": "Futaba",
+   "en": "And, I'll never live a life where everything[n]gets decided by someone else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_REACTI_8#0",
+   "speaker": "Futaba",
+   "en": "That's a lie. Mom told me herself! She[n]said no matter what, she could keep[n]working so hard because of me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_REACTI_8#1",
+   "speaker": "Futaba",
+   "en": "The one who decided my existence was[n]a burden on her—is myself! No one else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_REACTI_9#0",
+   "speaker": "Futaba",
+   "en": "Yeah, it's all right if I make mistakes—[n]when that happens, all I have to do is[n]just get back up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_REACTI_9#1",
+   "speaker": "Futaba",
+   "en": "And the same thing goes for this right[n]now... These guys are the ones who[n]taught me that!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_REACTI_10#0",
+   "speaker": "Futaba",
+   "en": "No! With them, even the impossible can[n]be made possible!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_REACTI_11#0",
+   "speaker": "Futaba",
+   "en": "It's true. That note was a complete lie![n]My mom didn't commit suicide!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_REACTI_12#0",
+   "speaker": "Futaba",
+   "en": "No! With them, even the impossible can[n]be made possible!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_REACTI_13#0",
+   "speaker": "Futaba",
+   "en": "Yeah, it's all right if I make mistakes—[n]when that happens, all I have to do is[n]just get back up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EX_FUTABA_REACTI_13#1",
+   "speaker": "Futaba",
+   "en": "And the same thing goes for this right[n]now... These guys are the ones who[n]taught me that!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

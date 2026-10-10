@@ -1,0 +1,887 @@
+{
+ "file": "EN/FIELD/HIT/FHIT_001_005_00.BF",
+ "entries": [
+  {
+   "id": "YESNO_SEL#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_GOTO_B#0",
+   "speaker": "Morgana",
+   "en": "I remember when our hideout was just[n]ahead. We didn't leave a trace...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_AUTO_M#0",
+   "speaker": "Morgana",
+   "en": "This is no time to be getting juice![n]Let's go say bye to everyone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_BAKERY#0",
+   "speaker": "Morgana",
+   "en": "Too bad... It's sunny today so they're not[n]selling their rainy-day cutlet sandwich.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_BAKERY_2#0",
+   "speaker": "Morgana",
+   "en": "Why are you staring at the bread?[n]You hungry already?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_PAMPHL#0",
+   "speaker": "Morgana",
+   "en": "It's a pamphlet for tourists. It looks like[n]it covers a bunch of famous spots for[n]viewing the cherry blossoms.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_PAMPHL#1",
+   "speaker": "Morgana",
+   "en": "It's been a year, huh...? It went by in a flash.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_DEADEN#0",
+   "speaker": "Morgana",
+   "en": "It says that only authorized personnel[n]can enter beyond this point. You don't[n]know anyone here, do you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_DISPLA#0",
+   "speaker": "Morgana",
+   "en": "There are so many television ads all over[n]the city now. I think we've just gotten used[n]to them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_TICKET#0",
+   "speaker": "Morgana",
+   "en": "Your commuter pass is about to expire,[n]but I guess you won't need to buy a new[n]one...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_MAN_TI#0",
+   "speaker": "Morgana",
+   "en": "All the windows are shut. They're really[n]automating everything, huh.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_MAN_TI#1",
+   "speaker": "Morgana",
+   "en": "How about your hometown? Things[n]might have changed in a year.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_CheckD#0",
+   "speaker": "Morgana",
+   "en": "Your commuter pass is still effective, so[n]you can travel to Yongen and Aoyama[n]for free.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_Season#0",
+   "speaker": "Morgana",
+   "en": "\"Take good care of me.\"[n]Huh... Make sure to say bye to everyone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_place#0",
+   "speaker": "Morgana",
+   "en": "You don't need to be here right now, do[n]you? Come on, let's head somewhere else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_etc#0",
+   "speaker": "Morgana",
+   "en": "What's wrong? Come on, we should go[n]say goodbye to the others!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_Ajito#0",
+   "speaker": "Morgana",
+   "en": "Remember when everyone used to meet[n]up here? ...All right, let's head somewhere[n]else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103#0",
+   "speaker": null,
+   "en": "There's nothing[n]I need to do here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103#1",
+   "speaker": null,
+   "en": "I should go check[n]up on everyone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103to0108_Error_Not#0",
+   "speaker": null,
+   "en": "This is no time for shopping...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103to0108_Error_Not#1",
+   "speaker": null,
+   "en": "I should go check[n]up on everyone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TRAIN_WAIT#0",
+   "speaker": null,
+   "en": "Let's wait for the next train...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NG_AJITO_MORU#0",
+   "speaker": "Morgana",
+   "en": "There's nothing you need to do up ahead,[n]right? Let's turn back!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NG_AJITO#0",
+   "speaker": null,
+   "en": "This accessway connects to[n]the commercial building, but[n]I have no reason to go there...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NG_Ajito_Night#0",
+   "speaker": "Morgana",
+   "en": "Hey, if you're trying to go into the[n]Metaverse, go during the day, when[n]you have plenty of time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AjitoChange#0",
+   "speaker": "Morgana",
+   "en": "There's nothing you need to do here,[n]right? Ah, I think we agreed to meet up[n]at Leblanc.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Juice_NotOpen#0",
+   "speaker": null,
+   "en": "I'm not thirsty right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Juice_Start#0",
+   "speaker": "Morgana",
+   "en": "Are you thinking of buying something[n]to drink?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Juice_SoldOut#0",
+   "speaker": "Morgana",
+   "en": "Everything's sold out... Let's wait for[n]it to get restocked next week.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Juice_AllBuy#0",
+   "speaker": "Morgana",
+   "en": "Whoops, everything's sold out. Let's[n]wait for it to get restocked next week.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Juice_HeatIsland#0",
+   "speaker": "Morgana",
+   "en": "...Everything's sold out. I guess it's no[n]surprise with how hot it is right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BAKERY_NOTOPEN#0",
+   "speaker": null,
+   "en": "I smell freshly baked bread...[n]It would certainly give me[n]energy if I had some...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BAKERY_NOTOPEN#1",
+   "speaker": null,
+   "en": "...It seems like they sell[n]limited-edition items too.[n]I should come back again...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BAKERY_SELECT#0",
+   "speaker": "Bakery Employee",
+   "en": "Welcome! Everything we sell is fresh[n]out of the oven! Get 'em while you can!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BAKERY_THANKS#0",
+   "speaker": "Bakery Employee",
+   "en": "Thank you very much. I hope to[n]see you back soon!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BAKERY_NOT_BUY#0",
+   "speaker": "Bakery Employee",
+   "en": "Please come again!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BAKERY_AME#0",
+   "speaker": "Bakery Employee",
+   "en": "Today, we have [f 2 5 3 9999 0][n]for our rainy day special menu.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PMAPH_MONTH04_PC#0",
+   "speaker": null,
+   "en": "It's a travel brochure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PMAPH_MONTH04_PC#1",
+   "speaker": null,
+   "en": "It covers a lot of spots where[n]people can view the cherry[n]blossoms.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PMAPH_MONTH04#0",
+   "speaker": "Morgana",
+   "en": "It's a travel brochure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PMAPH_MONTH04#1",
+   "speaker": "Morgana",
+   "en": "It looks like it covers a bunch of famous[n]spots for viewing the cherry blossoms.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PMAPH_MONTH05#0",
+   "speaker": "Morgana",
+   "en": "It's a travel brochure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PMAPH_MONTH05#1",
+   "speaker": "Morgana",
+   "en": "It looks like it's about a tourist spot[n]that's suited for families.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PMAPH_MONTH06#0",
+   "speaker": "Morgana",
+   "en": "It's a travel brochure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PMAPH_MONTH06#1",
+   "speaker": "Morgana",
+   "en": "It looks like it introduces a spot that's[n]become famous recently for viewing[n]cherry blossoms.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PMAPH_MONTH07#0",
+   "speaker": "Morgana",
+   "en": "It's a travel brochure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PMAPH_MONTH07#1",
+   "speaker": "Morgana",
+   "en": "It looks like it's about a venue for[n]seeing fireworks.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PMAPH_MONTH08#0",
+   "speaker": "Morgana",
+   "en": "It's a travel brochure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PMAPH_MONTH08#1",
+   "speaker": "Morgana",
+   "en": "It looks like it's about venues all over[n]the country where people can enjoy[n]the summer festivals.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PMAPH_MONTH09#0",
+   "speaker": "Morgana",
+   "en": "It's a travel brochure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PMAPH_MONTH09#1",
+   "speaker": "Morgana",
+   "en": "It looks like it's about local venues[n]for the summer festivals.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PMAPH_MONTH10#0",
+   "speaker": "Morgana",
+   "en": "It's a travel brochure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PMAPH_MONTH10#1",
+   "speaker": "Morgana",
+   "en": "It looks like it's about a bus tour[n]featuring all-you-can-eat meals.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PMAPH_MONTH11#0",
+   "speaker": "Morgana",
+   "en": "It's a travel brochure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PMAPH_MONTH11#1",
+   "speaker": "Morgana",
+   "en": "It looks like it's about a bus tour for[n]viewing the autumn leaves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PMAPH_MONTH12#0",
+   "speaker": "Morgana",
+   "en": "It's a travel brochure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PMAPH_MONTH12#1",
+   "speaker": "Morgana",
+   "en": "It looks like it covers popular spots[n]to visit during the Christmas season.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PMAPH_DEFAULT#0",
+   "speaker": "Morgana",
+   "en": "It's a travel brochure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PMAPH_DEFAULT#1",
+   "speaker": "Morgana",
+   "en": "It looks like it covers a variety[n]of tourist spots.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEADEND01_MORU#0",
+   "speaker": "Morgana",
+   "en": "It says that only authorized personnel[n]can enter beyond this point.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEADEND01#0",
+   "speaker": null,
+   "en": "The area beyond this point[n]seems to be off-limits...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DISPLAY_MORU#0",
+   "speaker": "Morgana",
+   "en": "Whoa, I thought this was a paper ad,[n]but it turned out to be a TV screen...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DISPLAY#0",
+   "speaker": null,
+   "en": "There's an ad running on the display...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TICKET_MACHINE_MORU#0",
+   "speaker": "Morgana",
+   "en": "Can't you use your card pass to travel[n]around your commute area, even if you[n]don't buy a ticket?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TICKET_MACHINE#0",
+   "speaker": null,
+   "en": "Using my card pass, I should be able[n]to ride without buying a ticket...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAN_TICKET_MORU#0",
+   "speaker": "Morgana",
+   "en": "Hm, don't you already have[n]a commuter pass for school?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAN_TICKET#0",
+   "speaker": null,
+   "en": "I don't need to buy[n]a commuter pass...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_CheckDesk#0",
+   "speaker": null,
+   "en": "If it's within my commute range,[n]I think I can use my commuter[n]pass to get to Aoyama...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CheckDesk#0",
+   "speaker": "Morgana",
+   "en": "Your commuter pass lets you travel[n]for free from Yongen to Aoyama if it's[n]within your commute range.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CheckDesk#1",
+   "speaker": "Morgana",
+   "en": "Obviously, you'll pay a train fee if it's[n]outside the range though. Don't waste[n]your money, all right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Season_Poster_Spring#0",
+   "speaker": null,
+   "en": "There's information about viewing the[n]cherry blossoms printed on here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Season_Poster_Spring#0",
+   "speaker": "Morgana",
+   "en": "College students and adults are excited[n]about the cherry blossoms, but we don't[n]have time for that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Season_Poster_Spring_2#0",
+   "speaker": "Morgana",
+   "en": "Although it's above ground here, we end[n]up underground when we get to Aoyama,[n]huh? How strange.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Season_Poster_Summer#0",
+   "speaker": "Morgana",
+   "en": "\"Sumidagawa Evening Fireworks Display,[n]July 18th, Scheduled for Marine Day.\"[n]Hm. Interesting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Season_Poster_Summer_2#0",
+   "speaker": "Morgana",
+   "en": "The beach, eh? It'd be nice if we could[n]all go together, now that it's summer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Season_Poster_Summer_3#0",
+   "speaker": "Morgana",
+   "en": "I can't believe I was forced to watch[n]everyone's stuff... All in all, it was fun[n]though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Season_Poster_Autumn#0",
+   "speaker": "Morgana",
+   "en": "I'd complain about the heat, but it's[n]already fall now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Season_Poster_Winter#0",
+   "speaker": "Morgana",
+   "en": "Illumination and lighting? Those are[n]decorations, right? You should decorate[n]your room too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Season_Poster_3gakki#0",
+   "speaker": "Morgana",
+   "en": "\"Continue to support every one,\" huh...[n]It's true that we have been supported.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130700_NG_GINZASE#0",
+   "speaker": null,
+   "en": "There's nothing in particular I need to[n]do, so I'll just quietly go home today...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_NG_GINZASE#0",
+   "speaker": "Ann",
+   "en": "We'll have to walk from here on. I think[n]we're supposed to head there[n]from Central Street.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24310100_NG_GINZASE#0",
+   "speaker": "Morgana",
+   "en": "Hey, where are you going? Weren't you[n]going to try to find more information?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_NG_GINZASE#0",
+   "speaker": "Morgana",
+   "en": "Where are you going? I thought you're[n]supposed to be exploring Shibuya...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_NG_UNDER_0#0",
+   "speaker": null,
+   "en": "I don't have time to go back. I'd better[n]transfer to the [clr 2]Ginza Line[clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_NG_Hideout#0",
+   "speaker": null,
+   "en": "There's an accessway connecting to a[n]commercial building up ahead, but I[n]have no reason to go there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_NG_Hideout#1",
+   "speaker": null,
+   "en": "I need to get on the [clr 2]Ginza Line[clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130700_NG_HIDEOUT#0",
+   "speaker": null,
+   "en": "There's an accessway connecting to a[n]commercial building up ahead.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130700_NG_HIDEOUT#1",
+   "speaker": null,
+   "en": "There's nothing in particular I need to[n]do, so I'll just quietly go home today...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_NG_HIDEOUT#0",
+   "speaker": "Ryuji",
+   "en": "We can't get to Central Street this way.[n]We'll hafta exit to the station square.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24310100_NG_HIDEOUT#0",
+   "speaker": "Morgana",
+   "en": "Hey, where are you going? Weren't you[n]going to try to find more information?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_NG_HIDEOUT#0",
+   "speaker": "Morgana",
+   "en": "Where are you going? I thought you're[n]supposed to be exploring Shibuya...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24420300_NG_HIDEOUT#0",
+   "speaker": "Ryuji",
+   "en": "You're goin' the wrong way. We gotta[n]get to the square and turn right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_CHK_AUTO_M#0",
+   "speaker": null,
+   "en": "I'm not thirsty right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_CHK_AUTO_M#0",
+   "speaker": "Ann",
+   "en": "Hey, can we head to Madarame's house[n]already?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24420300_CHK_AUTO_M#0",
+   "speaker": "Ryuji",
+   "en": "You can find somethin' to drink in[n]Shinjuku. C'mon, let's hurry up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_AUTO_MACH#0",
+   "speaker": null,
+   "en": "I'm not thirsty right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24420300_NG_GINZASE#0",
+   "speaker": "Ryuji",
+   "en": "This one's for the Ginza Line. The ticket[n]gate for the JL is downstairs.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_CHK_BAKERY#0",
+   "speaker": null,
+   "en": "An appetizing aroma wafts from the[n]freshly baked bread...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_CHK_BAKERY#1",
+   "speaker": null,
+   "en": "I'll come back here and buy something[n]when I have the time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_CHK_BAKERY#0",
+   "speaker": "Ryuji",
+   "en": "I'm starviiing. Wanna grab some food[n]here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_CHK_BAKERY_2#0",
+   "speaker": "Ann",
+   "en": "Let's do that later. We have to go talk[n]to Kitagawa-kun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24420300_CHK_BAKERY#0",
+   "speaker": "Ryuji",
+   "en": "Come to think of it, I'm starving.[n]Let's get this over with so we can[n]eat somewhere.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_BAKERY_00#0",
+   "speaker": null,
+   "en": "I'll come back here and buy something[n]when I have the time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130700_NG_TICKET_#0",
+   "speaker": null,
+   "en": "I should be able to go home without[n]buying a ticket...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_NG_TICKET_#0",
+   "speaker": "Ryuji",
+   "en": "What's wrong? Let's get goin'.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24420300_NG_TICKET_#0",
+   "speaker": "Ryuji",
+   "en": "Do you really need to charge up?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_TICKET_00#0",
+   "speaker": null,
+   "en": "I don't need to buy a ticket here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_CHK_PAMPHL#0",
+   "speaker": null,
+   "en": "It's a travel brochure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_CHK_PAMPHL#1",
+   "speaker": null,
+   "en": "It covers a lot of spots where people[n]can view the cherry blossoms.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_CHK_PAMPHL#0",
+   "speaker": "Ryuji",
+   "en": "Oh, is that a travel guide? I sooo wanna[n]go to Hawaii.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_CHK_PAMPHL_2#0",
+   "speaker": "Morgana",
+   "en": "Do you even have time to be looking[n]at those? Let's get going already!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24420300_CHK_PAMPHL#0",
+   "speaker": "Ryuji",
+   "en": "We can't be wastin' time lookin' at[n]that stuff now. We gotta get to the[n]JL ticket gates.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_PAMPHLET#0",
+   "speaker": null,
+   "en": "I don't have time to leisurely leaf[n]through a brochure right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_MAIN_Check#0",
+   "speaker": null,
+   "en": "It's a registration desk where people[n]can purchase commuter passes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_MAIN_Check#0",
+   "speaker": "Ryuji",
+   "en": "What's wrong? Let's get goin'.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24420300_MAIN_Check#0",
+   "speaker": "Ryuji",
+   "en": "You gonna buy a commuter pass?[n]C'mon, let's just go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_MAIN_CheckDes#0",
+   "speaker": null,
+   "en": "It's a registration desk where people[n]can purchase commuter passes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_Main_Seaso#0",
+   "speaker": null,
+   "en": "There's information about viewing the[n]cherry blossoms printed on here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_Main_Seaso#0",
+   "speaker": "Ryuji",
+   "en": "What's wrong? Let's get goin'.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24420300_Main_Seaso#0",
+   "speaker": "Ryuji",
+   "en": "What's wrong? Let's head to [clr 2]Shinjuku[clr 27][n]already.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_Main_Season_P#0",
+   "speaker": null,
+   "en": "There's information about viewing the[n]cherry blossoms printed on here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_GO_YAMANOTE#0",
+   "speaker": null,
+   "en": "I'm supposed to use[n]the [clr 6]Yamanote Line[clr 0]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_GO_INOKASIRA#0",
+   "speaker": null,
+   "en": "I'm supposed to use[n]the [clr 6]Inokashira Line[clr 0]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_GO_GINZALINE#0",
+   "speaker": null,
+   "en": "I'm supposed to use[n]the [clr 6]Ginza Line[clr 0]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SPOT_GO_TUKISIMA_MAKOTO#0",
+   "speaker": "Makoto",
+   "en": "Oh, it's Tsukishima's monja shop.[n]Let's go check it out.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

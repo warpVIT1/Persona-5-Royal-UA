@@ -1,0 +1,880 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR3010_010_004.BF",
+ "entries": [
+  {
+   "id": "MSG_Sofa_SYSOpen#0",
+   "speaker": "Morgana",
+   "en": "Oh yeah, you have something you can[n]use to spruce up this room, don't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Sofa_SYSOpen#1",
+   "speaker": "Morgana",
+   "en": "Why don't you try decorating your room[n]a bit?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Sofa_SYSOpen#0",
+   "speaker": null,
+   "en": "Oh right, I have something[n]here I can put in my room...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TABLE_CleanEnd_Notin#0",
+   "speaker": "Morgana",
+   "en": "These huge shelves are nice and all...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TABLE_CleanEnd_Notin#1",
+   "speaker": "Morgana",
+   "en": "It'd be nicer, though, if we had[n]something to put on them...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TABLE_CleanEnd_Notin#0",
+   "speaker": null,
+   "en": "The shelves are empty...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_InteriorShelfNotHave#0",
+   "speaker": "Morgana",
+   "en": "You don't have anything you can[n]put here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_InteriorShelfNotHave#0",
+   "speaker": null,
+   "en": "I don't have anything[n]I can put here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_InteriorSetNone#0",
+   "speaker": "Morgana",
+   "en": "There isn't anything on the shelves...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_InteriorSetNone#0",
+   "speaker": null,
+   "en": "There's nothing on[n]the shelves...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TABLE_CleanEnd_inter#0",
+   "speaker": "Morgana",
+   "en": "There's still a lot of empty space on[n]these shelves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TABLE_CleanEnd_inter#0",
+   "speaker": null,
+   "en": "There's still room on the[n]shelves for more stuff.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TABLE_CleanEnd_inter_2#0",
+   "speaker": "Morgana",
+   "en": "Ah, these shelves are coming along[n]quite nicely.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TABLE_CleanEnd_inter_2#0",
+   "speaker": null,
+   "en": "I can still fit more stuff[n]on these shelves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TABLE_CleanEnd_inter_3#0",
+   "speaker": "Morgana",
+   "en": "It looks like they'll break if you try to fit[n]more on there. Nice work collecting all[n]this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TABLE_CleanEnd_inter_3#0",
+   "speaker": null,
+   "en": "It doesn't look like I can fit[n]anything else on here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Sofa_Start#0",
+   "speaker": "Morgana",
+   "en": "Why don't you try decorating your room[n]a bit?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Sofa_Start#0",
+   "speaker": null,
+   "en": "Maybe I'll try decorating[n]my room...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Sofa_Start_Re#0",
+   "speaker": "Morgana",
+   "en": "Well... what do you want to do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Sofa_Start_Re#0",
+   "speaker": null,
+   "en": "I guess we can stop...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Sofa_StartLoop#0",
+   "speaker": "Morgana",
+   "en": "Did you still want to keep decorating?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Sofa_StartLoop#0",
+   "speaker": null,
+   "en": "Should I keep decorating...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Start#0",
+   "speaker": null,
+   "en": "Let's decorate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Start#1",
+   "speaker": null,
+   "en": "Let's look at the shelf.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Start#2",
+   "speaker": null,
+   "en": "Let's look at the work desk.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Start#3",
+   "speaker": null,
+   "en": "Let's stop.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_tana_look#0",
+   "speaker": null,
+   "en": "Opinion",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Sofa_End#0",
+   "speaker": "Morgana",
+   "en": "Well, that's enough for now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Sofa_End#0",
+   "speaker": null,
+   "en": "I guess it looks a[n]little better now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Sofa_Already#0",
+   "speaker": "Morgana",
+   "en": "Hmm, it does look quite distinguished...[n]What do you think?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Sofa_Already#0",
+   "speaker": null,
+   "en": "What should I do...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SofaSetThink#0",
+   "speaker": null,
+   "en": "I'll remove it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SofaSetThink#1",
+   "speaker": null,
+   "en": "I'll leave it there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_Interior01#0",
+   "speaker": "Morgana",
+   "en": "That's the swan boat in Inokashira[n]Park, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_Interior01#1",
+   "speaker": "Morgana",
+   "en": "Maybe me and Lady Ann can go[n]someday... Mewhehehe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_Interior01#0",
+   "speaker": null,
+   "en": "A [f 2 5 3 9999 0]...[n]I got this at Inokashira Park.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_Interior02#0",
+   "speaker": "Morgana",
+   "en": "The ramen bowl you got from[n]Ogikubo, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_Interior02#1",
+   "speaker": "Morgana",
+   "en": "It's so realistic... I'm getting hungry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_Interior02#0",
+   "speaker": null,
+   "en": "A [f 2 5 3 9999 0]...[n]I got this in Ogikubo.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_Interior03#0",
+   "speaker": "Morgana",
+   "en": "A [f 2 5 3 9999 0], huh? That must[n]bring back memories of Seaside Park.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_Interior03#0",
+   "speaker": null,
+   "en": "A [f 2 5 3 9999 0]...[n]I got this at Seaside Park.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_Interior04#0",
+   "speaker": "Morgana",
+   "en": "A [f 2 5 3 9999 0], eh? That must[n]bring back memories of Ueno.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_Interior04#0",
+   "speaker": null,
+   "en": "A [f 2 5 3 9999 0]...[n]I got this in Ueno.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_Interior05#0",
+   "speaker": "Morgana",
+   "en": "A [f 2 5 3 9999 0], huh? That must[n]bring back memories of Asakusa.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_Interior05#0",
+   "speaker": null,
+   "en": "A [f 2 5 3 9999 0]...[n]I got this in Asakusa.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_Interior06#0",
+   "speaker": "Morgana",
+   "en": "This is the spatula you got in Tsukishima.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_Interior06#1",
+   "speaker": "Morgana",
+   "en": "I wonder who thought about using a[n]spatula for monjayaki.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_Interior06#0",
+   "speaker": null,
+   "en": "A [f 2 5 3 9999 0]...[n]I got this in Tsukishima.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_Interior07#0",
+   "speaker": "Morgana",
+   "en": "A [f 2 5 3 9999 0], eh? That must[n]bring back memories of Motomachi[n]Chinatown.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_Interior07#0",
+   "speaker": null,
+   "en": "A [f 2 5 3 9999 0]...[n]I got this in Motomachi Chinatown.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_Interior08#0",
+   "speaker": "Morgana",
+   "en": "A [f 2 5 3 9999 0], huh? That must[n]bring back memories of Destinyland.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_Interior08#0",
+   "speaker": null,
+   "en": "A [f 2 5 3 9999 0]...[n]I got this at Destinyland.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_Interior09#0",
+   "speaker": "Morgana",
+   "en": "A [f 2 5 3 9999 0], huh? That must[n]bring back memories of Asakusa.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_Interior09#0",
+   "speaker": null,
+   "en": "A [f 2 5 3 9999 0]...[n]I got this in Asakusa.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_Interior10#0",
+   "speaker": "Morgana",
+   "en": "An [f 2 5 3 9999 0], eh? That must[n]bring back memories of Harajuku.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_Interior10#0",
+   "speaker": null,
+   "en": "An [f 2 5 3 9999 0]...[n]I got this in Harajuku.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_Interior11#0",
+   "speaker": "Morgana",
+   "en": "? That must[n]bring back memories of Ikebukuro.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_Interior11#0",
+   "speaker": null,
+   "en": "A [f 2 5 3 9999 0]...[n]I got this in Ikebukuro.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_Interior12#0",
+   "speaker": "Morgana",
+   "en": "That's the king piece used in shogi,[n]right? It's so huge!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_Interior12#1",
+   "speaker": "Morgana",
+   "en": "I know they say bigger is better, but[n]I wonder if that's really true... I mean,[n]I'm so...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_Interior12#0",
+   "speaker": null,
+   "en": "A [f 2 5 3 9999 0]...[n]I got this in Jinbocho.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_Interior13#0",
+   "speaker": "Morgana",
+   "en": "The hero figurine you got from[n]Akihabara, eh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_Interior13#1",
+   "speaker": "Morgana",
+   "en": "It seems like everyone wanted to[n]become a hero at some point in[n]their life!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_Interior13#0",
+   "speaker": null,
+   "en": "A [f 2 5 3 9999 0]...[n]I got this in Akihabara.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_Interior14#0",
+   "speaker": "Morgana",
+   "en": "A [f 2 5 3 9999 0], eh? That must[n]bring back memories of Meiji Shrine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_Interior14#0",
+   "speaker": null,
+   "en": "A [f 2 5 3 9999 0]...[n]I got this at Meiji Shrine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_Interior15#0",
+   "speaker": "Morgana",
+   "en": "A [f 2 5 3 9999 0]? That must[n]bring back memories of Suidobashi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_Interior15#0",
+   "speaker": null,
+   "en": "A [f 2 5 3 9999 0]...[n]I got this in Suidobashi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_Interior16#0",
+   "speaker": "Morgana",
+   "en": "Isn't that the sushi teacup from Ginza?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_Interior16#1",
+   "speaker": "Morgana",
+   "en": "I'm always in the mood for sushi!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_Interior16#0",
+   "speaker": null,
+   "en": "A [f 2 5 3 9999 0]...[n]I got this in Ginza.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_Interior17#0",
+   "speaker": "Morgana",
+   "en": "A [f 2 5 3 9999 0], eh? That must[n]bring back memories of that buffet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_Interior17#0",
+   "speaker": null,
+   "en": "A [f 2 5 3 9999 0]...[n]I got this at that buffet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_Interior18#0",
+   "speaker": "Morgana",
+   "en": "The kumade you bought in[n]Asakusa, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_Interior18#1",
+   "speaker": "Morgana",
+   "en": "I hear a kumade can rake in good luck[n]for businesses. Maybe Leblanc will serve[n]fancier food if they make more money...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_Interior18#0",
+   "speaker": null,
+   "en": "A [f 2 5 3 9999 0]...[n]I got this in Asakusa.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_Interior19#0",
+   "speaker": "Morgana",
+   "en": "Sea creatures are so mystical.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_Interior19#1",
+   "speaker": "Morgana",
+   "en": "I heard that there are many creatures at[n]the bottom of the sea that people have[n]never seen!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_Interior19#0",
+   "speaker": null,
+   "en": "A [f 2 5 3 9999 0]...[n]I got this in Shinagawa.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_Interior20#0",
+   "speaker": "Morgana",
+   "en": "It's a popular sentai series. It plays on[n]the television downstairs sometimes!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_Interior20#1",
+   "speaker": "Morgana",
+   "en": "Could it be that the chief likes the show...?[n]He probably just has it on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_Interior20#0",
+   "speaker": null,
+   "en": "A [f 2 5 3 9999 0]...[n]I got this in Nakano.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_crane01#0",
+   "speaker": "Morgana",
+   "en": "That's the first prize you got!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_crane01#1",
+   "speaker": "Morgana",
+   "en": "I had no idea that crane games were[n]that fun!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_crane01#0",
+   "speaker": null,
+   "en": "...[n]I got this in the Akihabara Arcade...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_crane02#0",
+   "speaker": "Morgana",
+   "en": "There's a Big Bang Burger in Shibuya too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_crane02#1",
+   "speaker": "Morgana",
+   "en": "This would make me sick if I saw this[n]after doing a food challenge...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_crane02#0",
+   "speaker": null,
+   "en": "...[n]I got this in the Akihabara Arcade...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_crane03#0",
+   "speaker": "Morgana",
+   "en": "Looks like a mascot character for a[n]security company.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_crane03#1",
+   "speaker": "Morgana",
+   "en": "Moon and sun... I guess it means they're[n]ready 24/7.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_crane03#0",
+   "speaker": null,
+   "en": "...[n]I got this in the Akihabara Arcade...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_crane04#0",
+   "speaker": "Morgana",
+   "en": "Its proportions are kind of messed up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_crane04#1",
+   "speaker": "Morgana",
+   "en": "It's hard to say whether it's cute or ugly...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_crane04#0",
+   "speaker": null,
+   "en": "...[n]I got this in the Akihabara Arcade...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_crane05#0",
+   "speaker": "Morgana",
+   "en": "He seems troubled.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_crane05#1",
+   "speaker": "Morgana",
+   "en": "...I wonder what's bothering him?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_crane05#0",
+   "speaker": null,
+   "en": "...[n]I got this in the Akihabara Arcade...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_crane06#0",
+   "speaker": "Morgana",
+   "en": "His eyes are red.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_crane06#1",
+   "speaker": "Morgana",
+   "en": "...Is he getting enough sleep?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_crane06#0",
+   "speaker": null,
+   "en": "...[n]I got this in the Akihabara Arcade...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_crane07#0",
+   "speaker": "Morgana",
+   "en": "This panda's eyes are kind of crossed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_crane07#1",
+   "speaker": "Morgana",
+   "en": "Didn't someone else like this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_crane07#0",
+   "speaker": null,
+   "en": "...[n]I got this in the Akihabara Arcade...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_crane08#0",
+   "speaker": "Morgana",
+   "en": "Why is this doll a giraffe?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Set_crane08#1",
+   "speaker": "Morgana",
+   "en": "It makes me think of Yusuke for some[n]reason...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_crane08#0",
+   "speaker": null,
+   "en": "...[n]I got this in the Akihabara Arcade...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Sofa_CHECK_NG_0409_mes01#0",
+   "speaker": null,
+   "en": "It's covered in dust,[n]but it should be usable[n]after I clean it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Sofa_CHECK_NG_0409_mes02#0",
+   "speaker": null,
+   "en": "I should wipe it off...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_UFO_01#0",
+   "speaker": null,
+   "en": "This is the [f 2 5 3 9999 0][n]I got at the Akihabara Arcade...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_UFO_02#0",
+   "speaker": null,
+   "en": "This is the [f 2 5 3 9999 0][n]I got at the Akihabara Arcade...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_UFO_03#0",
+   "speaker": null,
+   "en": "This is the [f 2 5 3 9999 0][n]I got at the Akihabara Arcade...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_UFO_04#0",
+   "speaker": null,
+   "en": "This is the [f 2 5 3 9999 0][n]I got at the Akihabara Arcade...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_UFO_05#0",
+   "speaker": null,
+   "en": "This is the [f 2 5 3 9999 0][n]I got at the Akihabara Arcade...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_UFO_06#0",
+   "speaker": null,
+   "en": "This is the [f 2 5 3 9999 0][n]I got at the Akihabara Arcade...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_UFO_07#0",
+   "speaker": null,
+   "en": "This is the [f 2 5 3 9999 0][n]I got at the Akihabara Arcade...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_UFO_08#0",
+   "speaker": null,
+   "en": "This is the [f 2 5 3 9999 0][n]I got at the Akihabara Arcade...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_Tana_01#0",
+   "speaker": null,
+   "en": "This is the [f 2 5 3 9999 0][n]I got in Shinagawa...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_Tana_02#0",
+   "speaker": null,
+   "en": "This is the [f 2 5 3 9999 0][n]I got in Asakusa...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_Tana_03#0",
+   "speaker": null,
+   "en": "This is the [f 2 5 3 9999 0][n]I got in Nakano...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_Tana_04#0",
+   "speaker": null,
+   "en": "This is the [f 2 5 3 9999 0][n]I got in Inokashira Park...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_Tana_05#0",
+   "speaker": null,
+   "en": "This is the [f 2 5 3 9999 0][n]I got in Ogikubo...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_Tana_06#0",
+   "speaker": null,
+   "en": "This is the [f 2 5 3 9999 0][n]I got in Tsukishima...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_Tana_07#0",
+   "speaker": null,
+   "en": "This is the [f 2 5 3 9999 0][n]I got in Jinbocho...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_Tana_08#0",
+   "speaker": null,
+   "en": "This is the [f 2 5 3 9999 0][n]I got in Akihabara...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Set_Tana_09#0",
+   "speaker": null,
+   "en": "This is the [f 2 5 3 9999 0][n]I got in Ginza...",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

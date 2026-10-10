@@ -1,0 +1,397 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR3100_010_000.BF",
+ "entries": [
+  {
+   "id": "MSG_DUMMY#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MSG_Error_01#0",
+   "speaker": "Morgana",
+   "en": "Hey, you can't dig around in the fridge while[n]the shop's open.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Error_01#0",
+   "speaker": null,
+   "en": "Sojiro's got an eye on me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FreezerOpen_moru#0",
+   "speaker": "Morgana",
+   "en": "Hey, there's [var 0][n]and [var 1] in here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FreezerOpen#0",
+   "speaker": null,
+   "en": "I see [var 0] and[n][var 1] in there...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_EatThink_moru#0",
+   "speaker": "Morgana",
+   "en": "So, which do you wanna eat?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_EatThink#0",
+   "speaker": null,
+   "en": "Which should I eat?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_ContentsSelect#0",
+   "speaker": null,
+   "en": "The leftover pilaf...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_ContentsSelect#1",
+   "speaker": null,
+   "en": "The leftover omelette rice...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_ContentsSelect#2",
+   "speaker": null,
+   "en": "The leftover sandwiches...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_ContentsSelect#3",
+   "speaker": null,
+   "en": "The leftover curry...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_ContentsSelect#4",
+   "speaker": null,
+   "en": "The deluxe katsu sandwich.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_ContentsSelect#5",
+   "speaker": null,
+   "en": "The mille-feuille...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_ContentsSelect#6",
+   "speaker": null,
+   "en": "The coffee jelly...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_ContentsSelect#7",
+   "speaker": null,
+   "en": "The fish in meuniere sauce...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_ContentsSelect#8",
+   "speaker": null,
+   "en": "Never mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LetterInfo_1st_moru#0",
+   "speaker": "Morgana",
+   "en": "Wait, there's a sticker that says \"Leblanc\" on[n]the [var 1].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LetterInfo_1st_moru#1",
+   "speaker": "Morgana",
+   "en": "Doesn't that mean not to touch it because[n]it's for the cafe?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LetterInfo_1st_moru#2",
+   "speaker": "Morgana",
+   "en": "Though, if someone tells you not to do[n]something, it just makes you want to do[n]it even more...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LetterInfo_1st#0",
+   "speaker": null,
+   "en": "There's a Leblanc sticker[n]on the [var 1]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LetterInfo_1st#1",
+   "speaker": null,
+   "en": "It looks like this is for the café.[n]Am I allowed to eat this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LetterInfo_moru#0",
+   "speaker": "Morgana",
+   "en": "The [var 1] has a Leblanc[n]sticker on it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LetterInfo_moru#1",
+   "speaker": "Morgana",
+   "en": "Oh wait, there's a note attached to it, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LetterInfo#0",
+   "speaker": null,
+   "en": "The [var 1] has a[n]Leblanc sticker on it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LetterInfo#1",
+   "speaker": null,
+   "en": "There's also a note[n]attached to it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LetterEnd_moru#0",
+   "speaker": "Morgana",
+   "en": "The [var 1] has a[n]Leblanc sticker on it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LetterEnd_moru#1",
+   "speaker": "Morgana",
+   "en": "Wait, there's no note this time. Did the chief[n]finally give up?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LetterEnd#0",
+   "speaker": null,
+   "en": "The [var 1] has[n]a Leblanc sticker on it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LetterEnd#1",
+   "speaker": null,
+   "en": "But there's no note...[n]Maybe Sojiro gave up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NormalEat_moru#0",
+   "speaker": "Morgana",
+   "en": "The [var 1] has a[n]Leblanc sticker on it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NormalEat#0",
+   "speaker": null,
+   "en": "The [var 1] has a[n]Leblanc sticker on it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_EAT_THINK#0",
+   "speaker": null,
+   "en": "Which should I eat?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_EatCancel_moru#0",
+   "speaker": "Morgana",
+   "en": "Wait, aren't you going to eat dinner? It's not[n]good to just skip meals...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_EatCancel#0",
+   "speaker": null,
+   "en": "Maybe I should do something else...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_EatParamLock_moru#0",
+   "speaker": "Morgana",
+   "en": "Wait, you're not going to eat it? You've got[n]to have more [stIcon 3][clr 26][stLabel 3][clr 27] than that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_EatParamLock_moru#1",
+   "speaker": "Morgana",
+   "en": "So, what do you want to do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_EatParamLock#0",
+   "speaker": null,
+   "en": "I really don't have the[n][stIcon 3][clr 26][stLabel 3][clr 27] to eat this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_EatParamLock_02#0",
+   "speaker": null,
+   "en": "What should I do...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_EatParamOK_moru#0",
+   "speaker": "Morgana",
+   "en": "Hehehe! You're starting to have more[n][stIcon 3][clr 26][stLabel 3][clr 27], just like a phantom thief[n]should!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_EatParamOK#0",
+   "speaker": null,
+   "en": "I might get yelled at later, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LetterNum_01#0",
+   "speaker": "Note from Sojiro",
+   "en": "\"Don't eat the ones[n]with the Leblanc stickers.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LetterNum_02#0",
+   "speaker": "Note from Sojiro",
+   "en": "\"You ate some of the cafe's food again,[n]didn't you? Didn't you notice the Leblanc[n]sticker?\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LetterNum_02#1",
+   "speaker": "Note from Sojiro",
+   "en": "\"Don't touch anything that has[n]'LEBLANC' written on it. Got it?\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LetterNum_03#0",
+   "speaker": "Note from Sojiro",
+   "en": "\"Hey... Don't eat the cafe's food. If you're[n]hungry, eat what I made you for dinner.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LetterNum_03#1",
+   "speaker": "Note from Sojiro",
+   "en": "\"I did tell you you could eat whatever you[n]want in the fridge, but don't steal the cafe's[n]food.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LetterNum_03#2",
+   "speaker": "Note from Sojiro",
+   "en": "\"You're not in a position where you can[n]just get away with that kind of thing now,[n]are you?\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LetterNum_04#0",
+   "speaker": "Note from Sojiro",
+   "en": "\"You did it again, didn't you? Was it good?\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LetterNum_04#1",
+   "speaker": "Note from Sojiro",
+   "en": "\"The one you ate was actually poisoned.[n]You only have about three days to live.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LetterNum_04#2",
+   "speaker": "Note from Sojiro",
+   "en": "\"...Not really, but don't blame me if[n]something happens next time. Stop[n]eating the cafe's food.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LetterNum_05#0",
+   "speaker": "Note from Sojiro",
+   "en": "\"It's starting to become a hassle to write[n]one of these every time you steal food.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LetterNum_05#1",
+   "speaker": "Note from Sojiro",
+   "en": "\"This is your last warning!\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LetterNum_06#0",
+   "speaker": "Note from Sojiro",
+   "en": "\"I thought last time would be the last one,[n]but I decided to write another one, after all.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LetterNum_06#1",
+   "speaker": "Note from Sojiro",
+   "en": "\"Once you make it in life, you're gonna pay[n]me back for all the stuff you ate. Got it?\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LetterAbout_moru#0",
+   "speaker": "Morgana",
+   "en": "That's what it says.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LetterAbout_moru#1",
+   "speaker": "Morgana",
+   "en": "But it's in a phantom thief's nature to steal[n]something when it's more difficult to take!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LetterAbout#0",
+   "speaker": null,
+   "en": "It looks like I got[n]caught stealing food...",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

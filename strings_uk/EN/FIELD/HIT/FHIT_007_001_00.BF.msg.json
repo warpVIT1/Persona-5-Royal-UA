@@ -1,0 +1,1559 @@
+{
+ "file": "EN/FIELD/HIT/FHIT_007_001_00.BF",
+ "entries": [
+  {
+   "id": "YESNO_SEL#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUMMY_MSG#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_MAIDCA#0",
+   "speaker": "Morgana",
+   "en": "This café was better than Leblanc in some[n]ways. Let's come again when we have the[n]time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_MAIDCA_2#0",
+   "speaker": "Morgana",
+   "en": "You don't have time to play with maids right[n]now. Let's go say bye to everyone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_ELECTR#0",
+   "speaker": "Morgana",
+   "en": "Can't you buy electronics after you move?[n]Let's go somewhere else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_OTAKU_#0",
+   "speaker": "Morgana",
+   "en": "No need to get more baggage. Let's come[n]back to this store another time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_TOOL_S#0",
+   "speaker": "Morgana",
+   "en": "It's a good thing you bought tools from this[n]store. Your infiltration tool making skills[n]improved drastically.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_TOOL_S_2#0",
+   "speaker": "Morgana",
+   "en": "You don't have time to buy tools right now.[n]Let's go say our farewells to everyone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_GAME_S#0",
+   "speaker": "Morgana",
+   "en": "These retro games were really fun. Let's[n]keep playing them even after we move!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_GAME_S_2#0",
+   "speaker": "Morgana",
+   "en": "You don't have time to play games right[n]now. Let's go somewhere else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_CAPSUL#0",
+   "speaker": "Morgana",
+   "en": "You liked this stuff, huh. I kind of like them[n]too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_CAPSUL#1",
+   "speaker": "Morgana",
+   "en": "Let's collect a new series when you go back.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_CAPSUL_2#0",
+   "speaker": "Morgana",
+   "en": "You don't have time to mess around, do[n]you? Let's go say goodbye to everyone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_AUTO_M#0",
+   "speaker": "Morgana",
+   "en": "Hey, you don't have time to get a drink.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_AUTO_M_2#0",
+   "speaker": "Morgana",
+   "en": "Being able to get a drink with 100 yen[n]was too good of a deal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_AUTO_M_2#1",
+   "speaker": "Morgana",
+   "en": "Let's hope your hometown has one too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_ILLUST#0",
+   "speaker": "Morgana",
+   "en": "This car was parked here for a whole year...[n]That's probably why so many people drew[n]on it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_TOOL_S_3#0",
+   "speaker": "Morgana",
+   "en": "Hey, we just got rid of a bunch of stuff. Let's[n]not give ourselves more baggage, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_OTAKU__2#0",
+   "speaker": "Morgana",
+   "en": "Hey, we just got rid of a bunch of stuff. Let's[n]not give ourselves more baggage, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_ELECTR_2#0",
+   "speaker": "Morgana",
+   "en": "Hey, we just got rid of a bunch of stuff. Let's[n]not give ourselves more baggage, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_place#0",
+   "speaker": "Morgana",
+   "en": "You don't need to be here right now, do[n]you? Come on, let's head somewhere else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_etc#0",
+   "speaker": "Morgana",
+   "en": "No one you know would be beyond this[n]point, right? Let's go say bye to everyone!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LastKeyfree#0",
+   "speaker": "Morgana",
+   "en": "We can't wait any longer... We have to[n]prepare, and fast!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103#0",
+   "speaker": null,
+   "en": "I'm curious about what[n]the others are doing...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_MAID_0103#0",
+   "speaker": null,
+   "en": "It says that \"No available spots[n]due to reservations\"...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_MAID_0103#1",
+   "speaker": null,
+   "en": "I should come back another time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_AKIBA_GAME_0103#0",
+   "speaker": null,
+   "en": "It looks crowded because[n]of the new year...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_FUKU_0103#0",
+   "speaker": null,
+   "en": "It seems like they're[n]selling lucky bags...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_FUKU_0103#1",
+   "speaker": null,
+   "en": "There's nothing[n]particularly interesting...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ELECTRO_SHOP_0103#0",
+   "speaker": null,
+   "en": "I'm curious about what[n]Futaba and Sojiro are[n]talking about.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ELECTRO_SHOP_0103#1",
+   "speaker": null,
+   "en": "I should come back[n]another time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103to0108_Error_Not#0",
+   "speaker": null,
+   "en": "This is no time for shopping...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103to0108_Error_Not#1",
+   "speaker": null,
+   "en": "I should go check[n]up on everyone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103to0108_Error_Not_2#0",
+   "speaker": null,
+   "en": "This is no time for detours...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103to0108_Error_Not_2#1",
+   "speaker": null,
+   "en": "I should go check[n]up on everyone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103to0108_Error_Bad#0",
+   "speaker": null,
+   "en": "There's a drawing on the car...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103to0108_Error_Bad#1",
+   "speaker": null,
+   "en": "I should go check[n]up on everyone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GATE_DEAFULT_MORU#0",
+   "speaker": "Morgana",
+   "en": "Are you going to travel to another area?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GATE_YESNO_moru#0",
+   "speaker": null,
+   "en": "Yes, let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GATE_YESNO_moru#1",
+   "speaker": null,
+   "en": "No, not yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_GATE_0103#0",
+   "speaker": null,
+   "en": "Let's go to a different area...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MaidCafe_Start#0",
+   "speaker": "Morgana",
+   "en": "A maid café, eh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MaidCafe_Start_Param#0",
+   "speaker": "Morgana",
+   "en": "You may be able to learn some[n][stIcon 1][clr 26][stLabel 1][clr 27] from the customer[n]service of the maids...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Maid_ParamEndInfo#0",
+   "speaker": null,
+   "en": "I think I have enough[n][stIcon 1][clr 26][stLabel 1][clr 27] already...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Maid_ParamUpInfo#0",
+   "speaker": null,
+   "en": "I feel like my [stIcon 1][clr 26][stLabel 1][n]is going to improve soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MaidCafe_Start_1st#0",
+   "speaker": "Morgana",
+   "en": "Should we check out this place for the[n]experience? Looking at the menu, you[n]need at least 1,000 yen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MaidCafe_Start_commo#0",
+   "speaker": "Morgana",
+   "en": "You have [clr 2][var 0][clr 27] stamps. You can order off[n]the special menu when you collect 20.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MaidCafe_Start_commo#1",
+   "speaker": "Morgana",
+   "en": "Did you want to go check out the maid café?[n]You're going to need at least 1,000 yen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MaidCafe_Start_commo_2#0",
+   "speaker": "Morgana",
+   "en": "You have [clr 2][var 0][clr 27] stamps. You have[n]enough to order from the special[n]menu.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MaidCafe_Start_commo_2#1",
+   "speaker": "Morgana",
+   "en": "Did you want to go back to the maid café?[n]You can order off the special menu, so it's[n]free.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MaidCafe_Start_commo_3#0",
+   "speaker": "Morgana",
+   "en": "You have [clr 2][var 0][clr 27] stamps. You can order off[n]the special menu when you collect 20.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MaidCafe_Start_commo_3#1",
+   "speaker": "Morgana",
+   "en": "Saturdays are Maid Days. You get 4[n]extra stamps if you go today, so it's a[n]good deal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MaidCafe_Start_commo_3#2",
+   "speaker": "Morgana",
+   "en": "Did you want to go check out the[n]maid café? You're going to need[n]at least 1,000 yen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MaidCafe_In#0",
+   "speaker": null,
+   "en": "Let's check it out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MaidCafe_In#1",
+   "speaker": null,
+   "en": "I'll pass.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MaidCafe_Start_NotMo#0",
+   "speaker": "Morgana",
+   "en": "Hm, you don't have enough on you,[n]though. You'll have to come back later[n]when you have the money.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_MaidCafe_ParamInfo#0",
+   "speaker": null,
+   "en": "If I observe the service skills[n]at the maid café, I might be[n]able to gain a bit more [stIcon 1][clr 26][stLabel 1][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_MaidCafe_ParamEndInf#0",
+   "speaker": null,
+   "en": "I don't think I can gain[n][stIcon 1][clr 26][stLabel 1][clr 27] anymore by observing[n]service skills at the maid café...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SYSTEM_SHORTCUT_Maid#0",
+   "speaker": null,
+   "en": "You can now quick travel to the[n][clr 6]Maid Café[clr 0] in Akihabara.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SYSTEM_SHORTCUT_AKIB#0",
+   "speaker": null,
+   "en": "You can now quick travel to the[n][clr 6]Game Center[clr 0] in Akihabara.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ELECTRO_SHOP_START#0",
+   "speaker": "Electronics Store Clerk",
+   "en": "Welcome! We have the latest in consumer[n]electronics for you, good sir. Please take a[n]look.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ELECTRO_SHOP_THANKS#0",
+   "speaker": "Electronics Store Clerk",
+   "en": "Thank you very much! Please come[n]again!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ELECTRO_SHOP_NOTBUY#0",
+   "speaker": "Electronics Store Clerk",
+   "en": "Please come again!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ElectroShop_Close#0",
+   "speaker": "Morgana",
+   "en": "The electronics retail store seems to be[n]closed. Let's come again during the day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ElectroShop_Close#0",
+   "speaker": null,
+   "en": "The electronics store is closed.[n]I should come back during the[n]day...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OTAKU_SHOP_START#0",
+   "speaker": "Otaku Shop Employee",
+   "en": "Welcome hom— I mean, welcome![n]Are you looking for anything, sir?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OTAKU_SHOP_THANKS#0",
+   "speaker": "Otaku Shop Employee",
+   "en": "Thank you very muuuch.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OTAKU_SHOP_NOTBUY#0",
+   "speaker": "Otaku Shop Employee",
+   "en": "Please come agaaain.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OtakuShop_Close#0",
+   "speaker": "Morgana",
+   "en": "It looks like it's closed now. Let's come[n]again some other time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_OtakuShop_Close#0",
+   "speaker": null,
+   "en": "It seems to be closed right now.[n]I should come back another time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TOOL_SHOP_START#0",
+   "speaker": "Machine Parts Store Clerk",
+   "en": "Welcome. We have some high-quality[n]goods here. Be careful when you use[n]them, all right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TOOL_SHOP_END#0",
+   "speaker": "Machine Parts Store Clerk",
+   "en": "Come again!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TOOL_SHOP_END_NOTBUY#0",
+   "speaker": "Machine Parts Store Clerk",
+   "en": "Oh, so you're not buying anything...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ToolShop_Close#0",
+   "speaker": "Morgana",
+   "en": "Hmm, it looks like it's closed around[n]this time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ToolShop_Close#0",
+   "speaker": null,
+   "en": "It seems to be closed right now.[n]I should come back another time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GameShop_Close#0",
+   "speaker": "Morgana",
+   "en": "This game shop looks closed. Ah, I wanted to[n]go inside, too. Let's come here another time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_GameShop_Close#0",
+   "speaker": null,
+   "en": "This game shop looks closed...[n]I'll come back at a different time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GameShop_NotHave#0",
+   "speaker": "Morgana",
+   "en": "Oooh, a retro game shop, huh? They must[n]sell old games here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GameShop_NotHave#1",
+   "speaker": "Morgana",
+   "en": "Hm, we can't play them here, though.[n]We'd need a TV and a game console.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_GameShop_NotHave#0",
+   "speaker": null,
+   "en": "A retro game shop...[n]They've been selling[n]old games...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_GameShop_NotHave#1",
+   "speaker": null,
+   "en": "But I don't own anything to play it on.[n]I'd need a TV and a game console...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_SELECT#0",
+   "speaker": "Game Shop Employee",
+   "en": "Welcome! Hey, man, you look pretty young.[n]You interested in games from the past?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_THANKS#0",
+   "speaker": "Game Shop Employee",
+   "en": "Thanks very much. I hope you enjoy playing[n]them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_NOT_BUY#0",
+   "speaker": "Game Shop Employee",
+   "en": "Come again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_GOU#0",
+   "speaker": "Game Shop Employee",
+   "en": "That prize postcard and password...[n]Did you beat \"Power Intuition\"!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_GOU#1",
+   "speaker": "Game Shop Employee",
+   "en": "Ohhh, that deep backstory, and those[n]beautiful character designs!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_GOU#2",
+   "speaker": "Game Shop Employee",
+   "en": "With those great sounds, and that totally[n]unique battle system!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_GOU#3",
+   "speaker": "Game Shop Employee",
+   "en": "It's truly a maverick among fighting games![n]It's a masterpiece!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_GOU#4",
+   "speaker": "Game Shop Employee",
+   "en": "Oh, I have some prizes left from back then,[n]so I can exchange them with that postcard[n]for you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_PUN#0",
+   "speaker": "Game Shop Employee",
+   "en": "That prize postcard and password...[n]Did you beat \"Punch Ouch\"!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_PUN#1",
+   "speaker": "Game Shop Employee",
+   "en": "Because of its age, this game's graphics are[n]dated, but its gameplay is so realistic...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_PUN#2",
+   "speaker": "Game Shop Employee",
+   "en": "Once you play it, you'll see that its fighting[n]system really brings the tactics of boxing to[n]life!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_PUN#3",
+   "speaker": "Game Shop Employee",
+   "en": "It's truly the standard for boxing games.[n]Yes, a masterpiece!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_PUN#4",
+   "speaker": "Game Shop Employee",
+   "en": "Oh, I have some prizes left from back then,[n]so I can exchange them with that postcard[n]for you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_GOE#0",
+   "speaker": "Game Shop Employee",
+   "en": "That prize postcard and password...[n]Did you beat \"Legend of Gambla[n]Goemon\"!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_GOE#1",
+   "speaker": "Game Shop Employee",
+   "en": "Those graphics... They express the ambiance[n]of hell so vividly somehow!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_GOE#2",
+   "speaker": "Game Shop Employee",
+   "en": "And the sound and music really ramp up[n]the suspense and tension when you play!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_GOE#3",
+   "speaker": "Game Shop Employee",
+   "en": "It's a milestone in gambling games—[n]a masterpiece!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_GOE#4",
+   "speaker": "Game Shop Employee",
+   "en": "Oh, I have some prizes left from back then,[n]so I can exchange them with that postcard[n]for you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_AKA#0",
+   "speaker": "Game Shop Employee",
+   "en": "That prize postcard and password...[n]Did you beat \"Train of Life\"!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_AKA#1",
+   "speaker": "Game Shop Employee",
+   "en": "So awesome! They not only added grid[n]movement by rolling dice, but also asset[n]management!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_AKA#2",
+   "speaker": "Game Shop Employee",
+   "en": "And those obstacle characters really express[n]the developers' cynical yet loving take on[n]life!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_AKA#3",
+   "speaker": "Game Shop Employee",
+   "en": "It's based off sugoroku, but it's truly a[n]revolutionary game in its own right. It's[n]a masterpiece!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_AKA#4",
+   "speaker": "Game Shop Employee",
+   "en": "Oh, I have some prizes left from back then,[n]so I can exchange them with that postcard[n]for you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_REN#0",
+   "speaker": "Game Shop Employee",
+   "en": "That prize postcard and password...[n]Whoaaa... You beat \"Star Forneus\"!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_REN#1",
+   "speaker": "Game Shop Employee",
+   "en": "This is the very first game to feature[n]\"rapid-fire\"! Oh, and it started this[n]high score craze!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_REN#2",
+   "speaker": "Game Shop Employee",
+   "en": "Yeah, players went nuts trying to figure[n]out the secrets and game mechanics to[n]outscore each other!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_REN#3",
+   "speaker": "Game Shop Employee",
+   "en": "Yes, this is the game that defined the[n]shooting genre! It's a masterpiece!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_REN#4",
+   "speaker": "Game Shop Employee",
+   "en": "Oh, I have some prizes left from back then,[n]so I can exchange them with that postcard[n]for you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_GOL#0",
+   "speaker": "Game Shop Employee",
+   "en": "That prize postcard and password...[n]Did you beat \"Pro Golfer Sarutahiko\"!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_GOL#1",
+   "speaker": "Game Shop Employee",
+   "en": "Before this, people really thought a golf[n]video game was impossible. This game[n]shook the gaming world!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_GOL#2",
+   "speaker": "Game Shop Employee",
+   "en": "And the music and sound! Real golf[n]doesn't have as many cool sound effects!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_GOL#3",
+   "speaker": "Game Shop Employee",
+   "en": "It's truly a pioneer in the golfing genre.[n]It's a masterpiece!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_GOL#4",
+   "speaker": "Game Shop Employee",
+   "en": "Oh, I have some prizes left from back then,[n]so I can exchange them with that postcard[n]for you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_MAN#0",
+   "speaker": "Game Shop Employee",
+   "en": "That prize postcard and password...[n]Did you beat \"Featherman Seeker\"!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_MAN#1",
+   "speaker": "Game Shop Employee",
+   "en": "An innovative system where you don't[n]simply control the hero, but become the[n]hero yourself!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_MAN#2",
+   "speaker": "Game Shop Employee",
+   "en": "It transcended being just a Featherman[n]game and gained tons of fans!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_MAN#3",
+   "speaker": "Game Shop Employee",
+   "en": "Truly a maverick of video games.[n]A flusterpiece... no, a masterpiece!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GAME_POSTC_MAN#4",
+   "speaker": "Game Shop Employee",
+   "en": "Oh, I have some prizes left from back then,[n]so I can exchange them with that postcard[n]for you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMESHOP_GiftInfoEnd#0",
+   "speaker": "Game Shop Employee",
+   "en": "...Ah, sorry. I got all pumped without[n]realizing it. Were there any games you[n]wanted to check out?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CAPSULE_MACHINE_STAR#0",
+   "speaker": "Morgana",
+   "en": "What is this monster?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CAPSULE_MACHINE_STAR#1",
+   "speaker": "Morgana",
+   "en": "A capsule vending machine? Oh, so you can[n]get these guys with 500 yen...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CAPSULE_MACHINE_STAR#2",
+   "speaker": "Morgana",
+   "en": "Why don't you try testing out your luck?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_CAPSULE_MACHINE_STAR#0",
+   "speaker": null,
+   "en": "This monster is...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_CAPSULE_MACHINE_STAR#1",
+   "speaker": null,
+   "en": "A Capsule Machine for figures. It looks like it[n]costs 500 yen to try it once...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_CAPSULE_MACHINE_STAR#2",
+   "speaker": null,
+   "en": "What should I do...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CAPSULE_MACHINE_SEL#0",
+   "speaker": null,
+   "en": "Let's do it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CAPSULE_MACHINE_SEL#1",
+   "speaker": null,
+   "en": "I'll pass.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CAPSULE_MACHINE_STAR_2#0",
+   "speaker": "Morgana",
+   "en": "Did you want to try the capsule vending[n]machine?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CAPSULE_MACHINE_NOMO#0",
+   "speaker": "Morgana",
+   "en": "...Hm? You don't have enough money...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CAPSULE_MACHINE_RESU#0",
+   "speaker": "Morgana",
+   "en": "A capsule came out... It's...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CAPSULE_ATARI_06#0",
+   "speaker": "Morgana",
+   "en": "This capsule says it's [clr 2]super rare[clr 27]![n]Y-You're amazing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CAPSULE_ATARI_05#0",
+   "speaker": "Morgana",
+   "en": "This capsule says it's [clr 2]rare[clr 27]! It must be karma[n]paying us back... After all, I have been quite[n]good!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CAPSULE_ATARI_04#0",
+   "speaker": "Morgana",
+   "en": "This capsule says it's [clr 2]uncommon[clr 27]. It's not[n]a big win, but it's no huge loss, either.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CAPSULE_ATARI_03#0",
+   "speaker": "Morgana",
+   "en": "This capsule says it's [clr 2]uncommon[clr 27]. It's not[n]a big win, but it's no huge loss, either.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CAPSULE_ATARI_02#0",
+   "speaker": "Morgana",
+   "en": "This capsule says that it's [clr 2]common[clr 27].[n]Well, that's a bit lame...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CAPSULE_ATARI_01#0",
+   "speaker": "Morgana",
+   "en": "This capsule says that it's [clr 2]common[clr 27].[n]Well, that's a bit lame...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CAPSULE_End1st#0",
+   "speaker": "Morgana",
+   "en": "*sigh* I just don't get it. Why do people[n]want these?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CAPSULE_End1st#1",
+   "speaker": "Morgana",
+   "en": "We're in Akihabara, right? Maybe we can[n]find someone here that may want these[n]capsule toys.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEADEND_MORU#0",
+   "speaker": "Morgana",
+   "en": "I don't see the point of venturing so far out.[n]If we're going out for a walk, let's stay in the[n]area.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEADEND#0",
+   "speaker": null,
+   "en": "There's nothing that[n]I need to do up ahead.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ILLUST_CAR_moru#0",
+   "speaker": "Morgana",
+   "en": "Hey, look at this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ILLUST_CAR_moru#1",
+   "speaker": "Morgana",
+   "en": "Someone vandalized this car. How very[n]cruel of them...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ILLUST_CAR#0",
+   "speaker": null,
+   "en": "Could this be... one[n]of those anime cars?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ILLUST_CAR#1",
+   "speaker": null,
+   "en": "An anime character[n]decorates the whole car...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TOOL_SHOP_SHELF01_mo#0",
+   "speaker": "Morgana",
+   "en": "This place has a variety of industry tools.[n]I wonder what they're used for...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TOOL_SHOP_SHELF01#0",
+   "speaker": null,
+   "en": "There are many tools lined up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TOOL_SHOP_SHELF01#1",
+   "speaker": null,
+   "en": "I wonder what they're used for...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TOOL_SHOP_SHELF02_mo#0",
+   "speaker": "Morgana",
+   "en": "It says this is a bargain price, but I don't[n]know how much it's usually supposed[n]to cost...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TOOL_SHOP_SHELF02#0",
+   "speaker": null,
+   "en": "It seems like they're on sale but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TOOL_SHOP_SHELF02#1",
+   "speaker": null,
+   "en": "I don't know what the market price is...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TOOL_SHOP_SHELF03_mo#0",
+   "speaker": "Morgana",
+   "en": "It's covered in dust. I guess this thing's[n]been for sale for quite a while...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TOOL_SHOP_SHELF03#0",
+   "speaker": null,
+   "en": "They're dusty... These[n]items must have been[n]on the shelf for a while...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OTAKU_SHOP_SHELF_mor#0",
+   "speaker": "Morgana",
+   "en": "Oh, the price for this is pretty chea—",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OTAKU_SHOP_SHELF_mor#1",
+   "speaker": "Morgana",
+   "en": "Wait, these products are all the same.[n]Are these all goods they haven't been[n]able to sell?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OTAKU_SHOP_SHELF#0",
+   "speaker": null,
+   "en": "These are really cheap...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OTAKU_SHOP_SHELF#1",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MSG_OTAKU_SHOP_SHELF#2",
+   "speaker": null,
+   "en": "They're all the same product...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ELECTRO_SHOP_SHELF_m#0",
+   "speaker": "Morgana",
+   "en": "This place sells foreign-made consumer[n]electronics. Why are they so cheap?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ELECTRO_SHOP_SHELF#0",
+   "speaker": null,
+   "en": "It seems like they sell[n]electronics from overseas[n]as well...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ELECTRO_SHOP_SHELF#1",
+   "speaker": null,
+   "en": "Can they be this cheap...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ELECTRO_SHOP_SHELF01#0",
+   "speaker": null,
+   "en": "It seems they sell electronics[n]from overseas as well, but[n]can they be this cheap...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ELECTRO_SHOP_SHELF01#1",
+   "speaker": null,
+   "en": "Anyway, I should hurry and[n]go check up on everyone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Juice_Start#0",
+   "speaker": "Morgana",
+   "en": "Are you thinking of buying something[n]to drink?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Juice_Start#0",
+   "speaker": null,
+   "en": "Maybe I should get a drink...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Juice_Start100#0",
+   "speaker": "Morgana",
+   "en": "It says everything sold by this vending[n]machine is 100 yen. Are you buying[n]something to drink?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Juice_Start100#0",
+   "speaker": null,
+   "en": "This vending machine sells[n]everything for a 100 yen.[n]Maybe I should buy a drink...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Juice_SoldOut#0",
+   "speaker": "Morgana",
+   "en": "Everything's sold out... Let's wait for[n]it to get restocked next week.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Juice_SoldOut#0",
+   "speaker": "Morgana",
+   "en": "They're sold out...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Juice_SoldOut#1",
+   "speaker": "Morgana",
+   "en": "...Let's wait for it to be restocked next week.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Juice_AllBuy#0",
+   "speaker": "Morgana",
+   "en": "Whoops, everything's sold out. Let's wait for[n]it to get restocked next week.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Juice_AllBuy#0",
+   "speaker": "Morgana",
+   "en": "They're sold out...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Juice_AllBuy#1",
+   "speaker": "Morgana",
+   "en": "...Let's wait for it to be restocked next week.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Juice_HeatIsland#0",
+   "speaker": "Morgana",
+   "en": "...Everything's sold out. I guess it's no[n]surprise with how hot it is right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Juice_HeatIsland#0",
+   "speaker": null,
+   "en": "...Everything's sold out. I guess it's no[n]surprise with how hot it is right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Juice_Akiba_Start#0",
+   "speaker": "Morgana",
+   "en": "...It looks like this thing sells some[n]strange drinks.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Juice_Akiba_Start#0",
+   "speaker": null,
+   "en": "...Some unique drink are being sold.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_VELVET_GIRL_LOUD01#0",
+   "speaker": "Caroline",
+   "en": "You don't have time to be playing around,[n]Inmate!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_VELVET_GIRL_LOUD01#1",
+   "speaker": "Caroline",
+   "en": "Hurry back to your prison!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_VELVET_GIRL_Lavenza#0",
+   "speaker": "Lavenza",
+   "en": "These trials... I believe that you can[n]overcome them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SYSTEM_SHORTCUT_VELV#0",
+   "speaker": null,
+   "en": "You can now quick travel[n]to the [clr 6]Velvet Room[clr 0].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_VELVET_IN_SEL#0",
+   "speaker": null,
+   "en": "Let me in the cell.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_VELVET_IN_SEL#1",
+   "speaker": null,
+   "en": "I don't want to go in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_VELVET_IN_QUIET_01#0",
+   "speaker": "Justine",
+   "en": "It seems you long to be imprisoned.[n]I can grant that wish for you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_VELVET_IN_QUIET_OK#0",
+   "speaker": "Justine",
+   "en": "Very well. I shall gladly fulfill your desire...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_VELVET_IN_QUIET_NO#0",
+   "speaker": "Justine",
+   "en": "...Continue your struggle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_VELVET_IN_LOUD_01#0",
+   "speaker": "Caroline",
+   "en": "What's the matter, Inmate? You longing[n]to go back to jail?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_VELVET_IN_LOUD_OK#0",
+   "speaker": "Caroline",
+   "en": "Heheheh. I'm gonna put you back where[n]you belong!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_VELVET_IN_LOUD_NO#0",
+   "speaker": "Caroline",
+   "en": "Keep struggling, Inmate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_VELVET_IN_LAST_01#0",
+   "speaker": "Lavenza",
+   "en": "I shall guide you to my master...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_VELVET_IN_LAST_SEL#0",
+   "speaker": null,
+   "en": "I want to prepare.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_VELVET_IN_LAST_SEL#1",
+   "speaker": null,
+   "en": "I don't want to go in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_VELVET_IN_LAST_OK#0",
+   "speaker": "Lavenza",
+   "en": "Then please, enter.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_VELVET_IN_LAST_NO#0",
+   "speaker": "Lavenza",
+   "en": "Very well. My master and I will be[n]watching over you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_OK_Chishiki#0",
+   "speaker": null,
+   "en": "I feel like my [stIcon 1][clr 26][stLabel 0][clr 27][n]is going to improve soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_NG_Chishiki#0",
+   "speaker": null,
+   "en": "I don't think my [stIcon 1][clr 26][stLabel 0][clr 27][n]is going to improve just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_L_TISIK#0",
+   "speaker": null,
+   "en": "It looks like I still have a lot of[n]room for improvement...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_M_TISIK#0",
+   "speaker": null,
+   "en": "I can feel something[n]coming to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_S_TISIK#0",
+   "speaker": null,
+   "en": "I think I'm close to a breakthrough[n]with my [stIcon 0][clr 26][stLabel 0][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_OK_Miryoku#0",
+   "speaker": null,
+   "en": "I feel like my [stIcon 1][clr 26][stLabel 0][clr 27][n]is going to improve soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_NG_Miryoku#0",
+   "speaker": null,
+   "en": "I don't think my [stIcon 1][clr 26][stLabel 0][clr 27][n]is going to improve just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_L_MIRYO#0",
+   "speaker": null,
+   "en": "It looks like I still have a lot of[n]room for improvement...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_M_MIRYO#0",
+   "speaker": null,
+   "en": "I can feel something[n]coming to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_S_MIRYO#0",
+   "speaker": null,
+   "en": "I think I'm close to a breakthrough[n]with my [stIcon 1][clr 26][stLabel 1][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_OK_Kiyou#0",
+   "speaker": null,
+   "en": "I feel like my [stIcon 2][clr 26][stLabel 2][clr 27][n]is going to improve soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_NG_Kiyou#0",
+   "speaker": null,
+   "en": "I don't think my [stIcon 2][clr 26][stLabel 2][clr 27][n]is going to improve just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_OK_Kiyou_Beef#0",
+   "speaker": null,
+   "en": "If things go well, I think my[n][stIcon 1][clr 26][stLabel 1][clr 27] might improve...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_L_KIYOU#0",
+   "speaker": null,
+   "en": "It looks like I still have a lot of[n]room for improvement...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_M_KIYOU#0",
+   "speaker": null,
+   "en": "I can feel something[n]coming to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_S_KIYOU#0",
+   "speaker": null,
+   "en": "I think I'm close to a breakthrough[n]with my [stIcon 2][clr 26][stLabel 2][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_OK_Dokyo#0",
+   "speaker": null,
+   "en": "I feel like my [stIcon 3][clr 26][stLabel 3][clr 27][n]are going to improve soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_NG_Dokyo#0",
+   "speaker": null,
+   "en": "I don't think my [stIcon 3][clr 26][stLabel 3][clr 27][n]are going to improve just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_L_DOKYO#0",
+   "speaker": null,
+   "en": "It looks like I still have a lot of[n]room for improvement...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_M_DOKYO#0",
+   "speaker": null,
+   "en": "I can feel something[n]coming to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_S_DOKYO#0",
+   "speaker": null,
+   "en": "I think I'm close to a breakthrough[n]with my [stIcon 3][clr 26][stLabel 3][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_OK_Yasasisa#0",
+   "speaker": null,
+   "en": "I feel like my [stIcon 4][clr 26][stLabel 4][clr 27][n]is going to improve soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_NG_Yasasisa#0",
+   "speaker": null,
+   "en": "I don't think my [stIcon 4][clr 26][stLabel 4][clr 27][n]is going to improve just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_OK_Yasasisa_F#0",
+   "speaker": null,
+   "en": "If things go well, I think my[n][stIcon 4][clr 26][stLabel 4][clr 27] might improve...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_L_YASAS#0",
+   "speaker": null,
+   "en": "It looks like I still have a lot of[n]room for improvement...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_M_YASAS#0",
+   "speaker": null,
+   "en": "I can feel something[n]coming to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_S_YASAS#0",
+   "speaker": null,
+   "en": "I think I'm close to a breakthrough[n]with my [stIcon 4][clr 26][stLabel 4][clr 27]...",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

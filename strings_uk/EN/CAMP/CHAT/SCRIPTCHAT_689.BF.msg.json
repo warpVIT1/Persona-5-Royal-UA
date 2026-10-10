@@ -1,0 +1,82 @@
+{
+ "file": "EN/CAMP/CHAT/SCRIPTCHAT_689.BF",
+ "entries": [
+  {
+   "id": "MSG_000_0_0#0",
+   "speaker": "Ann",
+   "en": "Hey, [fName].[n]Do you have some time today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_0_0#0",
+   "speaker": "Ann",
+   "en": "I'd like you to come[n]with me for a bit...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_002_0_0#0",
+   "speaker": "Ann",
+   "en": "I'll be waiting in[n]the underground mall.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CHAT_NOREACTION_MSG#0",
+   "speaker": "Makoto",
+   "en": "Did I catch you at a bad time?[n]I waited all day too... Well,[n]I'll invite you again later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CHAT_REACTION_MSG#0",
+   "speaker": "Ann",
+   "en": "Thanks. Would you mind[n]coming to where I am?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA#0",
+   "speaker": "Morgana",
+   "en": "Well, do you want to accept Lady Ann's[n]invitation?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_001#0",
+   "speaker": null,
+   "en": "Head over immediately",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_001#1",
+   "speaker": null,
+   "en": "Check bond with Ann",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_001#2",
+   "speaker": null,
+   "en": "Respond later",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_002#0",
+   "speaker": null,
+   "en": "I'll be right over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_DOUZOKUSEI#0",
+   "speaker": null,
+   "en": "I should be able to deepen[n]our bond since I have [clr 1][var 5][clr 27][n]of the [var 2] arcana...",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

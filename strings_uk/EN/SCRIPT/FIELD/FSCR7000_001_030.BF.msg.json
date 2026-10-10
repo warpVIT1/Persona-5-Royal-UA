@@ -1,0 +1,376 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR7000_001_030.BF",
+ "entries": [
+  {
+   "id": "MSG_DUMMY#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_000_0_0#0",
+   "speaker": "Female Employee",
+   "en": "Greetings!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_000_0_0#1",
+   "speaker": "Female Employee",
+   "en": "Welcome to Big Bang Burger, open[n]twenty-four hours a day because[n]there's no day or night in space!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_000_0_0#2",
+   "speaker": "Female Employee",
+   "en": "What can I get for you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_0_0#0",
+   "speaker": "Female Employee",
+   "en": "Greetings!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_0_0#1",
+   "speaker": "Female Employee",
+   "en": "Here at Big Bang Burger, we're currently[n]offering what we call the Big Bang[n]Challenge!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_0_0#2",
+   "speaker": "Female Employee",
+   "en": "Any customers who can successfully[n]tackle this challenge of gluttony will[n]win some great prizes!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_0_0#3",
+   "speaker": "Female Employee",
+   "en": "Hopefully your stomach is as vast as[n]the emptiness of space! Give it a try,[n]if you dare!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_002_0_0#0",
+   "speaker": "Female Employee",
+   "en": "Greetings, and welcome to Big Bang[n]Burger!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_002_0_0#1",
+   "speaker": "Female Employee",
+   "en": "We're currently offering what we call[n]the Big Bang Challenge!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_002_0_0#2",
+   "speaker": "Female Employee",
+   "en": "If you finish a burger as massive as space[n]itself, your meal will be free and you'll[n]win a prize!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_002_0_0#3",
+   "speaker": "Female Employee",
+   "en": "Why don't you take the challenge?[n]The universe awaits!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_0_0#0",
+   "speaker": "Female Employee",
+   "en": "So... what can I get for you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_004_0_0#0",
+   "speaker": "Female Employee",
+   "en": "Greetings, and welcome to Big Bang[n]Burger!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_005_0_0#0",
+   "speaker": "Female Employee",
+   "en": "What can I get for you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_006_0_0#0",
+   "speaker": "Female Employee",
+   "en": "As a Second Mate, you get 10% off[n]any takeout item!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_006_0_0#1",
+   "speaker": "Female Employee",
+   "en": "Now then, what can I get for you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_007_0_0#0",
+   "speaker": "Female Employee",
+   "en": "Ooh, you're a First Mate? For you,[n]it's 20% off any takeout item!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_007_0_0#1",
+   "speaker": "Female Employee",
+   "en": "Now then, what can I get for you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_008_0_0#0",
+   "speaker": "Female Employee",
+   "en": "Wow! You're a Captain, which means[n]you get 30% off any takeout items you[n]want!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_008_0_0#1",
+   "speaker": "Female Employee",
+   "en": "Now then, what can I get for you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_009_0_0#0",
+   "speaker": null,
+   "en": "Order takeout",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_009_0_0#1",
+   "speaker": null,
+   "en": "Take the Big Bang Challenge",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_009_0_0#2",
+   "speaker": null,
+   "en": "Leave",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_0#0",
+   "speaker": "Female Employee",
+   "en": "I hope to see you again soon!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_011_0_0#0",
+   "speaker": "Female Employee",
+   "en": "Taking the Big Bang Challenge will cost[n][var 0] yen. Is that all right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_012_0_0#0",
+   "speaker": "Morgana",
+   "en": "Hey, [fName]! You don't have[n]that much, do you? Let's try this[n]some other time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_013_0_0#0",
+   "speaker": "Female Employee",
+   "en": "You'd like to take on the Big Bang[n]Challenge?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_013_0_0#1",
+   "speaker": "Female Employee",
+   "en": "As you are a Second Mate, both the[n]price and difficulty of the mission[n]will be increased.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_013_0_0#2",
+   "speaker": "Female Employee",
+   "en": "This time, the challenge will cost[n][var 0] yen. Is that all right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_014_0_0#0",
+   "speaker": "Morgana",
+   "en": "Hey, [fName]! You don't have[n]that much, do you? Let's try[n]this some other time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_015_0_0#0",
+   "speaker": "Female Employee",
+   "en": "Now, is there anything else[n]I can assist you with?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_016_0_0#0",
+   "speaker": "Female Employee",
+   "en": "You'd like to take on the Big Bang[n]Challenge?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_016_0_0#1",
+   "speaker": "Female Employee",
+   "en": "As you are a First Mate, the ultimate[n]mission awaits!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_016_0_0#2",
+   "speaker": "Female Employee",
+   "en": "This time, the challenge will cost[n][var 0] yen. Is that all right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_017_0_0#0",
+   "speaker": "Morgana",
+   "en": "Hey, [fName]! You don't have[n]that much, do you? Let's try[n]this some other time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_0_0#0",
+   "speaker": "Female Employee",
+   "en": "Now, is there anything else I can assist[n]you with?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_0_0#0",
+   "speaker": "Female Employee",
+   "en": "You'd like to take on the Big Bang[n]Challenge? But... you are already[n]a Captain.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_0_0#1",
+   "speaker": "Female Employee",
+   "en": "There are no further ranks. Now, the[n]challenge will cost [var 0]yen. Is that[n]all right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_020_0_0#0",
+   "speaker": "Morgana",
+   "en": "Hey, [fName]! You don't have[n]that much, do you? Let's try[n]this some other time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_021_0_0#0",
+   "speaker": "Female Employee",
+   "en": "Now, is there anything else I can assist[n]you with?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_022_0_0#0",
+   "speaker": null,
+   "en": "Yes, please.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_022_0_0#1",
+   "speaker": null,
+   "en": "No, that's okay.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_023_0_0#0",
+   "speaker": "Female Employee",
+   "en": "Now, is there anything else I can assist[n]you with?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_024_0_0#0",
+   "speaker": "Female Employee",
+   "en": "Very well. Don't worry, the fee will be[n]returned upon successful completion[n]of your mission.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_024_0_0#1",
+   "speaker": "Female Employee",
+   "en": "Now, go take a seat! And good luck!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BURGER_OPEN#0",
+   "speaker": "Burger Shop Employee",
+   "en": "Welcome to Big Bang Burger!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BURGER_SOLDOUT#0",
+   "speaker": "Burger Shop Employee",
+   "en": "My apologies, but it is going to be some[n]time until any of our products will be[n]ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BURGER_SOLDOUT_MORU#0",
+   "speaker": "Morgana",
+   "en": "I'm not really in the mood for waiting[n]around. Let's go somewhere else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BURGER_NOT_BUY#0",
+   "speaker": "Burger Shop Employee",
+   "en": "I hope to see you again soon!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BURGER_BUY_THANKS#0",
+   "speaker": "Burger Shop Employee",
+   "en": "Thank you very much!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

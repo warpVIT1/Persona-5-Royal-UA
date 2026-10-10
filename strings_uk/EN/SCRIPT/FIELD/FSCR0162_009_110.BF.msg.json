@@ -1,0 +1,481 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR0162_009_110.BF",
+ "entries": [
+  {
+   "id": "D10_009_HuddleTalk_agend#0",
+   "speaker": "Morgana",
+   "en": "Let's think of our answer for the second[n]question. What should we do, Joker?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_009_HuddleTalk_ReAge#0",
+   "speaker": "Morgana",
+   "en": "Do you want to talk about something[n]else?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HUDDLE_AGENDA_SEL#0",
+   "speaker": null,
+   "en": "Let's review what we know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HUDDLE_AGENDA_SEL#1",
+   "speaker": null,
+   "en": "Let's pick our answer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HUDDLE_AGENDA_SEL#2",
+   "speaker": null,
+   "en": "Let's end the discussion here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HUDDLE_NPC_SEL#0",
+   "speaker": null,
+   "en": "Dedicated Woman",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HUDDLE_NPC_SEL#1",
+   "speaker": null,
+   "en": "Energetic Guy",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HUDDLE_NPC_SEL#2",
+   "speaker": null,
+   "en": "Dispassionate Student",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HUDDLE_NPC_SEL#3",
+   "speaker": null,
+   "en": "Change the topic",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HUDDLE_ANS_SEL#0",
+   "speaker": null,
+   "en": "A: Keep up the hard work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HUDDLE_ANS_SEL#1",
+   "speaker": null,
+   "en": "B: Do whatever it takes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HUDDLE_ANS_SEL#2",
+   "speaker": null,
+   "en": "C: Give up and find a new dream.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HUDDLE_DICEDE_SEL#0",
+   "speaker": null,
+   "en": "Let's go with this answer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HUDDLE_DICEDE_SEL#1",
+   "speaker": null,
+   "en": "Let's think it over again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_009_ans_diceded_star#0",
+   "speaker": "Morgana",
+   "en": "All right, let's go make our choice!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_009_ans_not_dicede_s#0",
+   "speaker": "Morgana",
+   "en": "I see, you want to think it over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_npc_choice#0",
+   "speaker": "Morgana",
+   "en": "All right. Whose story do you want to[n]discuss?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_npc_rechoi#0",
+   "speaker": "Morgana",
+   "en": "Anyone else you want to cover?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_cancel_sta#0",
+   "speaker": "Morgana",
+   "en": "All right, I guess we're done here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_cancel_ret#0",
+   "speaker": "Morgana",
+   "en": "All right, I guess we're done here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_cancel_end#0",
+   "speaker": "Morgana",
+   "en": "I think we got all the information[n]we'll need, but... Sure, let's wrap[n]that up for now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice#0",
+   "speaker": "Morgana",
+   "en": "So the question is, what do you do[n]when you're working hard but still[n]can't make your dream come true?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice#1",
+   "speaker": "Morgana",
+   "en": "Let's think from Maruki's point of view.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice_2#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Well, in that case...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice_2#1",
+   "speaker": "[sumi 10 0]",
+   "en": "Dr. Maruki isn't just caring—he's[n]willing to speak up when something's[n]not right, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice_2#2",
+   "speaker": "[sumi 10 0]",
+   "en": "When one of the higher-ups at the[n]school threatened my honors status[n]over my tournament results...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice_2#3",
+   "speaker": "[sumi 10 0]",
+   "en": "Dr. Maruki had my back the whole time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice_2#4",
+   "speaker": "[sumi 10 0]",
+   "en": "So, I don't think he would be okay with[n]using a method that would bring harm[n]to someone else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice_3#0",
+   "speaker": "Haru",
+   "en": "Even now, he's trying to save everyone[n]by giving us a reality where we're all[n]happy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice_4#0",
+   "speaker": "Morgana",
+   "en": "With that in mind...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice_4#1",
+   "speaker": "Morgana",
+   "en": "That would leave us with either[n]\"A: Keep up the hard work,\" or[n]\"C: Give up and find a new dream.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice_5#0",
+   "speaker": "Makoto",
+   "en": "If the last question is anything to go by,[n]the correct answer's the one where[n]you don't risk hurting yourself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice_5#1",
+   "speaker": "Makoto",
+   "en": "It may help to bear that in mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice_6#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Keep pursuing the dream or give it up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice_6#1",
+   "speaker": "[sumi 10 0]",
+   "en": "Which one would hurt more?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_a_info_start#0",
+   "speaker": "Morgana",
+   "en": "She's the one who chose \"A: Keep up[n]the hard work.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_a_info_start#1",
+   "speaker": "Morgana",
+   "en": "She said she's gonna keep trying until[n]she makes it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_a_info_01#0",
+   "speaker": "Makoto",
+   "en": "Yes, she said she loves music so much,[n]she's going to keep pushing herself[n]until she succeeds.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_a_info_02#0",
+   "speaker": "[sumi 10 0]",
+   "en": "I don't want to be presumptuous, but...[n]I don't think Dr. Maruki would deny[n]somebody the pursuit of their dreams.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_a_info_03#0",
+   "speaker": "Akechi",
+   "en": "But she isn't succeeding at her dreams—[n]at least, not to the degree she desires.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_a_info_03#1",
+   "speaker": "Akechi",
+   "en": "As she said herself, she does [clr 2]worry[n]over it[clr 27] a great deal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_a_info_03#2",
+   "speaker": "Akechi",
+   "en": "If Maruki considered that to be[n]harming oneself...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_a_info_end#0",
+   "speaker": "Morgana",
+   "en": "I guess that's all we can get out of[n]that answer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_b_info_start#0",
+   "speaker": "Morgana",
+   "en": "This is the guy who chose[n]\"B: Do whatever it takes.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_b_info_start#1",
+   "speaker": "Morgana",
+   "en": "He said he planned to strike it rich by[n]uploading intentionally controversial[n]videos on social media.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_b_info_01#0",
+   "speaker": "Ryuji",
+   "en": "I mean, he said he was doin' it to help[n]his parents, but I don't think talkin' shit[n]about others is the best way to do that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_b_info_02#0",
+   "speaker": "Futaba",
+   "en": "Even if he's got issues to deal with...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_b_info_02#1",
+   "speaker": "Futaba",
+   "en": "Flame baiting for attention is just too[n]crappy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_b_info_03#0",
+   "speaker": "Makoto",
+   "en": "What do we think Dr. Maruki's take[n]would be, though?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_b_info_03#1",
+   "speaker": "Makoto",
+   "en": "It's ethically wrong, so I'm fairly certain[n]he wouldn't approve...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_b_info_04#0",
+   "speaker": "Haru",
+   "en": "It doesn't just hurt others, either—[n]it damages the psyche of the person[n]being negative as well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_b_info_04#1",
+   "speaker": "Haru",
+   "en": "Even if he claimed it's doing him good,[n]I don't think this is the right answer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_b_info_end#0",
+   "speaker": "Morgana",
+   "en": "I guess that's all we can get out of[n]that answer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_c_info_start#0",
+   "speaker": "Morgana",
+   "en": "He's the guy who chose \"C: Give up for a[n]new dream.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_c_info_start#1",
+   "speaker": "Morgana",
+   "en": "He said he doesn't have any particularly[n]big aspirations.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_c_info_01#0",
+   "speaker": "Haru",
+   "en": "Yeah, he said he disagreed with the[n]other two options more than that one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_c_info_02#0",
+   "speaker": "Yusuke",
+   "en": "He said pushing oneself to succeed[n]isn't worth it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_c_info_02#1",
+   "speaker": "Yusuke",
+   "en": "I suppose I understand where he's[n]coming from, but I can't agree.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_c_info_03#0",
+   "speaker": "Ann",
+   "en": "He said going after an easier dream is[n]better than [clr 2]getting hurt[clr 27] by trying to[n]succeed and failing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_c_info_03#1",
+   "speaker": "Ann",
+   "en": "I guess he prefers things easy-going.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_c_info_04#0",
+   "speaker": "Yusuke",
+   "en": "Indeed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_c_info_04#1",
+   "speaker": "Yusuke",
+   "en": "But if one lives in fear of injuries, nothing[n]good can come to fruition. Throughout[n]the history of art, creators faced their—",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_c_info_05#0",
+   "speaker": "Futaba",
+   "en": "Yep, got it, a \"no\" vote from Fox.[n]Moving on!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_c_info_end#0",
+   "speaker": "Morgana",
+   "en": "I guess that's all we can get out of[n]that answer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_d_info_start#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_d_info_end#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_e_info_start#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_e_info_end#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  }
+ ]
+}

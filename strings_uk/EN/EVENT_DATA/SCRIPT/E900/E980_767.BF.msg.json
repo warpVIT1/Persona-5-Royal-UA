@@ -1,0 +1,1566 @@
+{
+ "file": "EN/EVENT_DATA/SCRIPT/E900/E980_767.BF",
+ "entries": [
+  {
+   "id": "MSG_DB_ChkBaton_Common#0",
+   "speaker": "Morgana",
+   "en": "You've teamed up with [var 0][n]quite a number of times...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DB_ChkBaton#0",
+   "speaker": null,
+   "en": "Pair up",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DB_ChkBaton#1",
+   "speaker": null,
+   "en": "Reconsider",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUMMY_NPC_Score#0",
+   "speaker": "Morgana",
+   "en": "[var 2] got [var 0] points.[n]You've got [var 1] points left.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsStartTalk_Ryuji#0",
+   "speaker": "Ryuji",
+   "en": "You're gonna miss if you tense up[n]like that. Just relax!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsStartTalk_Moru#0",
+   "speaker": "Morgana",
+   "en": "You guys are pretty good. I'm impressed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsStartTalk_Anne#0",
+   "speaker": "Ann",
+   "en": "You're all so good! I'd better not[n]fall behind!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsStartTalk_Yusuk#0",
+   "speaker": "Yusuke",
+   "en": "Precision is required all the way[n]down to the fingertips... What depth[n]this game has.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsStartTalk_Makot#0",
+   "speaker": "Makoto",
+   "en": "This is pretty challenging... It makes[n]me want to master it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsStartTalk_Futab#0",
+   "speaker": "Futaba",
+   "en": "Th-This atmosphere... C'mon me,[n]I got this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsStartTalk_Haru#0",
+   "speaker": "Haru",
+   "en": "*giggle* You're all so skilled.[n]I'd better keep up too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsStartTalk_Akech#0",
+   "speaker": "Akechi",
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsStartTalk_Yoshi#0",
+   "speaker": "Sumire",
+   "en": "What a mature atmosphere... This is fun!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsYellTalk_Ryuji#0",
+   "speaker": "Ryuji",
+   "en": "Do it! We're rooting for ya!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsYellTalk_Moru#0",
+   "speaker": "Morgana",
+   "en": "Stay calm! There's nothing we can't do!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsYellTalk_Anne#0",
+   "speaker": "Ann",
+   "en": "Good luck! You can do it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsYellTalk_Yusuke#0",
+   "speaker": "Yusuke",
+   "en": "Now then, how will this turn out...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsYellTalk_Makoto#0",
+   "speaker": "Makoto",
+   "en": "Stay calm! Focus on your positioning.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsYellTalk_Futaba#0",
+   "speaker": "Futaba",
+   "en": "Do it! Show us whatcha got!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsYellTalk_Haru#0",
+   "speaker": "Haru",
+   "en": "You're okay! I know you can do this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsYellTalk_Akechi#0",
+   "speaker": "Akechi",
+   "en": "Good luck.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsYellTalk_Yoshiz#0",
+   "speaker": "Sumire",
+   "en": "Go for it! It's all about heart!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Change_2to3_ryuji#0",
+   "speaker": "Ryuji",
+   "en": "Third round's all you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Change_2to3_Moru#0",
+   "speaker": "Morgana",
+   "en": "I'm leaving the third round to you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Change_2to3_Anne#0",
+   "speaker": "Ann",
+   "en": "Good luck in the third round!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Change_2to3_Yusuke#0",
+   "speaker": "Yusuke",
+   "en": "The third round is yours!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Change_2to3_Makoto#0",
+   "speaker": "Makoto",
+   "en": "Good luck in the third round.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Change_2to3_Futaba#0",
+   "speaker": "Futaba",
+   "en": "The third round's on you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Change_2to3_Haru#0",
+   "speaker": "Haru",
+   "en": "The third round, if you please.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Change_2to3_Akechi#0",
+   "speaker": "Akechi",
+   "en": "I'm counting on you for the third round.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Change_2to3_Sumire#0",
+   "speaker": "Sumire",
+   "en": "Third round. You can do it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Change_4to5_ryuji#0",
+   "speaker": "Ryuji",
+   "en": "The final round's on you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Change_4to5_Moru#0",
+   "speaker": "Morgana",
+   "en": "I'm leaving the final round to you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Change_4to5_Anne#0",
+   "speaker": "Ann",
+   "en": "Good luck in the final round!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Change_4to5_Yusuke#0",
+   "speaker": "Yusuke",
+   "en": "The final round is yours!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Change_4to5_Makoto#0",
+   "speaker": "Makoto",
+   "en": "Good luck in the final round.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Change_4to5_Futaba#0",
+   "speaker": "Futaba",
+   "en": "The final round's on you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Change_4to5_Haru#0",
+   "speaker": "Haru",
+   "en": "The final round, if you please.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Change_4to5_Akechi#0",
+   "speaker": "Akechi",
+   "en": "I'm counting on you for the final round.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Change_4to5_Sumire#0",
+   "speaker": "Sumire",
+   "en": "Final round. You can do it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Chara_GetScore_nice_#0",
+   "speaker": "Ryuji",
+   "en": "Alright! [var 0] points![n]Not bad, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Chara_GetScore_nice__2#0",
+   "speaker": "Morgana",
+   "en": "Great! [var 0] points![n]As expected of me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Chara_GetScore_nice__3#0",
+   "speaker": "Ann",
+   "en": "Woo! [var 0] points![n]Aren't I awesome!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Chara_GetScore_nice__4#0",
+   "speaker": "Yusuke",
+   "en": "There! [var 0] points...![n]I can practically see their paths...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Chara_GetScore_nice__5#0",
+   "speaker": "Makoto",
+   "en": "Yes! [var 0] points![n]I think I've figured out the trick to this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Chara_GetScore_nice__6#0",
+   "speaker": "Futaba",
+   "en": "I got [var 0] points...![n]Well, that was easy!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Chara_GetScore_nice__7#0",
+   "speaker": "Haru",
+   "en": "Wow... [var 0] points![n]This is so much fun!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Chara_GetScore_nice__8#0",
+   "speaker": "Akechi",
+   "en": "All right... [var 0] points.[n]That's acceptable.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Chara_GetScore_nice__9#0",
+   "speaker": "Sumire",
+   "en": "I got [var 0] points![n]Balance is really important!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Chara_GetScore_bad_r#0",
+   "speaker": "Ryuji",
+   "en": "Whoops... [var 0] points, huh?[n]My bad, that's not so hot.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Chara_GetScore_bad_m#0",
+   "speaker": "Morgana",
+   "en": "Hrrm... [var 0] points.[n]Sorry, that didn't go so well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Chara_GetScore_bad_a#0",
+   "speaker": "Ann",
+   "en": "Whoa... [var 0] points...[n]Sorry, that's not too great.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Chara_GetScore_bad_y#0",
+   "speaker": "Yusuke",
+   "en": "Hm... [var 0] points...?[n]My apologies, I've caused you trouble.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Chara_GetScore_bad_m_2#0",
+   "speaker": "Makoto",
+   "en": "Only [var 0] points...[n]I'll have to try harder...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Chara_GetScore_bad_f#0",
+   "speaker": "Futaba",
+   "en": "What!? [var 0] points!?[n]Sorry...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Chara_GetScore_bad_h#0",
+   "speaker": "Haru",
+   "en": "[var 0] points...[n]Sorry if I'm dragging you down...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Chara_GetScore_bad_a_2#0",
+   "speaker": "Akechi",
+   "en": "[var 0] points, huh...[n]Hmm. Pairing up isn't really my...[n]Never mind...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Chara_GetScore_bad_s#0",
+   "speaker": "Sumire",
+   "en": "[var 0] points...[n]I need to focus more...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Chara_GetScore_finis#0",
+   "speaker": "Ryuji",
+   "en": "[var 1] points to go![n]Think you can finish up?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Chara_GetScore_finis_2#0",
+   "speaker": "Morgana",
+   "en": "[var 1] points left![n]I can see the end!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Chara_GetScore_finis_3#0",
+   "speaker": "Ann",
+   "en": "[var 1] points to go![n]Just a little more 'til the end!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Chara_GetScore_finis_4#0",
+   "speaker": "Yusuke",
+   "en": "[var 1] points left...![n]Finish it off!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Chara_GetScore_finis_5#0",
+   "speaker": "Makoto",
+   "en": "Just [var 1] left...![n]You can do it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Chara_GetScore_finis_6#0",
+   "speaker": "Futaba",
+   "en": "[var 1] points to go![n]Believe in yourself and finish it up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Chara_GetScore_finis_7#0",
+   "speaker": "Haru",
+   "en": "Wow, only [var 1] points left![n]It's almost over!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Chara_GetScore_finis_8#0",
+   "speaker": "Akechi",
+   "en": "Just [var 1] points left.[n]Looks like this might be the finish.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Chara_GetScore_finis_9#0",
+   "speaker": "Sumire",
+   "en": "We only need [var 1] more points![n]We're close to the end!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_BigGoo#0",
+   "speaker": "Ryuji",
+   "en": "Dude, we won in just three rounds!?[n]M-Man, you're good...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_BigGoo#1",
+   "speaker": "Ryuji",
+   "en": "Dammit, you're so cool.[n]It's kinda pumpin' me up, too!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_Good_R#0",
+   "speaker": "Ryuji",
+   "en": "Aw yeah! 0 points![n]We're an unbeatable duo!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_Bad_Ry#0",
+   "speaker": "Ryuji",
+   "en": "We had [var 0] points left.[n]Arrgh, we were so close to 0...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_BigBad#0",
+   "speaker": "Ryuji",
+   "en": "Still had [var 0] points left...[n]Man, this kinda sucks.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_BigGoo_2#0",
+   "speaker": "Morgana",
+   "en": "We finished in just three rounds...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_BigGoo_2#1",
+   "speaker": "Morgana",
+   "en": "You really are special! That was exciting!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_Good_M#0",
+   "speaker": "Morgana",
+   "en": "0 points, on the dot! Nothing can beat[n]us when we combine our strengths!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_Bad_Mo#0",
+   "speaker": "Morgana",
+   "en": "[var 0] points left, huh...[n]We were so close...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_BigBad_2#0",
+   "speaker": "Morgana",
+   "en": "[var 0] points left... That's lacking.[n]Sorry, I should've done better...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_BigGoo_3#0",
+   "speaker": "Ann",
+   "en": "Whoa, whoa...![n]We finished in three rounds!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_BigGoo_3#1",
+   "speaker": "Ann",
+   "en": "That was too amazing![n]I think I'm getting goosebumps.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_Good_A#0",
+   "speaker": "Ann",
+   "en": "We did it! 0 points exactly! Do we[n]make an awesome tag team or what?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_Bad_An#0",
+   "speaker": "Ann",
+   "en": "[var 0] points left huh...[n]We were so close.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_BigBad_3#0",
+   "speaker": "Ann",
+   "en": "[var 0] points left...[n]Ahaha, that's not so great.[n]Sorry, this game's pretty hard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_BigGoo_4#0",
+   "speaker": "Yusuke",
+   "en": "What...! We managed to finish in[n]three rounds!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_BigGoo_4#1",
+   "speaker": "Yusuke",
+   "en": "This must be the work of a god...![n]I am in such high spirits!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_Good_Y#0",
+   "speaker": "Yusuke",
+   "en": "Precisely 0 points... A perfect success. It[n]seems we have impeccable teamwork.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_Bad_Yu#0",
+   "speaker": "Yusuke",
+   "en": "[var 0] points remaining...[n]Unfortunate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_BigBad_4#0",
+   "speaker": "Yusuke",
+   "en": "We still had [var 0] points left...[n]How regrettable. This game isn't as[n]simple as it seems...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_BigGoo_5#0",
+   "speaker": "Makoto",
+   "en": "Y-You ended the game on this round!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_BigGoo_5#1",
+   "speaker": "Makoto",
+   "en": "And I was confident in my abilities[n]to concentrate too... Now I see that[n]there's no limit to that!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_Good_M_2#0",
+   "speaker": "Makoto",
+   "en": "We did it, 0 points![n]We make a perfect team!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_Bad_Ma#0",
+   "speaker": "Makoto",
+   "en": "[var 0] points left...[n]This is pretty difficult.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_BigBad_5#0",
+   "speaker": "Makoto",
+   "en": "We had [var 0] points left... That's[n]no good. I'm sorry. I should have[n]tried harder.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_BigGoo_6#0",
+   "speaker": "Futaba",
+   "en": "W-W-W-Whoa... Three rounds...[n]No one could've predicted that ending...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_BigGoo_6#1",
+   "speaker": "Futaba",
+   "en": "That was some serious skill.[n]Honestly, I'm creeped out!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_Good_F#0",
+   "speaker": "Futaba",
+   "en": "WHOA, 0 points! We are invincible!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_Bad_Fu#0",
+   "speaker": "Futaba",
+   "en": "[var 0] points left...[n]We were so close.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_BigBad_6#0",
+   "speaker": "Futaba",
+   "en": "[var 0] points left over...[n]That's a shocker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_BigGoo_7#0",
+   "speaker": "Haru",
+   "en": "W-Wow...! It's over now... right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_BigGoo_7#1",
+   "speaker": "Haru",
+   "en": "That was a one-hit kill... Er, no, a[n]hole-in-one? Wow, this is so exciting!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_Good_H#0",
+   "speaker": "Haru",
+   "en": "Look, 0 points! We really worked[n]hard for that, didn't we?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_Bad_Ha#0",
+   "speaker": "Haru",
+   "en": "[var 0] points left...[n]We almost had it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_BigBad_7#0",
+   "speaker": "Haru",
+   "en": "[var 0] points left... We were close.[n]I'm sorry, I must have held us back.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_BigGoo_8#0",
+   "speaker": "Akechi",
+   "en": "Well done. You finished within[n]three rounds.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_BigGoo_8#1",
+   "speaker": "Akechi",
+   "en": "It kills me to admit it... but I was just a[n]bit excited. Well, it's not a bad feeling.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_Good_A_2#0",
+   "speaker": "Akechi",
+   "en": "That finishes it. 0 points.[n]It seems like we may work well together.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_Bad_Ak#0",
+   "speaker": "Akechi",
+   "en": "[var 0] points left...[n]We were close.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_BigBad_8#0",
+   "speaker": "Akechi",
+   "en": "[var 0] points left... We were almost[n]there. I wonder why we lost...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_BigGoo_9#0",
+   "speaker": "Sumire",
+   "en": "Senpai! Are you serious!? Is... Is it over!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_BigGoo_9#1",
+   "speaker": "Sumire",
+   "en": "I've got the shakes. But it's from[n]shaking with excitement!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_Good_Y_2#0",
+   "speaker": "Sumire",
+   "en": "Whoa! S-Senpai! We've got 0 points![n]Does that mean we make an excellent[n]team!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_Bad_Yo#0",
+   "speaker": "Sumire",
+   "en": "We had [var 0] points left...[n]We almost had it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BatonTouchGet_BigBad_9#0",
+   "speaker": "Sumire",
+   "en": "We had [var 0] points left...[n]We almost had it. Ngh... I'm sorry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_BatonTouchGet_Rank2#0",
+   "speaker": null,
+   "en": "[var 0]'s [clr 2]Baton Pass[clr 27] rank[n]increased! Effects gained are[n]now greater!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_BatonTouchGet_Rank2#1",
+   "speaker": null,
+   "en": "Attack buff increased,[n]and the party member will recover[n]some HP.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_BatonTouchGet_Rank3#0",
+   "speaker": null,
+   "en": "[var 0]'s [clr 2]Baton Pass[clr 27] rank[n]increased! Effects gained are[n]now greater!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_BatonTouchGet_Rank3#1",
+   "speaker": null,
+   "en": "Attack power and HP recovered[n]have increased! Consecutive[n]Baton Passes also recover SP!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_BatonTouchGet_Hero_R#0",
+   "speaker": null,
+   "en": "'s[n][clr 2]Baton Pass[clr 27] rank increased![n]Effects gained are now greater!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_BatonTouchGet_Hero_R#1",
+   "speaker": null,
+   "en": "Attack buff increased,[n]and the party member will recover[n]some HP.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_BatonTouchGet_Hero_R_2#0",
+   "speaker": null,
+   "en": "'s[n][clr 2]Baton Pass[clr 27] rank increased![n]Effects gained are now greater!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_BatonTouchGet_Hero_R_2#1",
+   "speaker": null,
+   "en": "Attack power and HP recovered[n]have increased! Consecutive[n]Baton Passes also recover SP!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DartsHeroBatonInfo#0",
+   "speaker": null,
+   "en": "I feel like I've learned something[n]by playing on a team...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Minigame_Success_Kiy#0",
+   "speaker": "Morgana",
+   "en": "Looks like you've raised your[n][stIcon 2][clr 26][stLabel 2][clr 27] from concentrating[n]on playing darts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Minigame_Fault#0",
+   "speaker": "Morgana",
+   "en": "Well, how do I put this... You'll do[n]better next time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsEnd_Moru#0",
+   "speaker": "Morgana",
+   "en": "We can train up, and have fun at the[n]same time. This is a pretty handy place.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsEnd_Ryuji#0",
+   "speaker": "Ryuji",
+   "en": "I always get pumped when I'm with[n]the gang!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsEnd_Anne#0",
+   "speaker": "Ann",
+   "en": "Whew... That was nerve-racking,[n]but still fun!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsEnd_Yusuke#0",
+   "speaker": "Yusuke",
+   "en": "The sensation of throwing darts...[n]I don't dislike it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsEnd_Makoto#0",
+   "speaker": "Makoto",
+   "en": "It was fun. I like gradually improving[n]my form with every throw.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsEnd_Futaba#0",
+   "speaker": "Futaba",
+   "en": "I feel like a ninja! This is fun!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsEnd_Haru#0",
+   "speaker": "Haru",
+   "en": "It's so exciting, playing together as[n]a group.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsEnd_Akechi#0",
+   "speaker": "Akechi",
+   "en": "Looks like everyone had a lot of fun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsEnd_Yoshizawa#0",
+   "speaker": "Sumire",
+   "en": "How do I put this...[n]I felt like my spirit was fired up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsBye_Ryuji#0",
+   "speaker": "Ryuji",
+   "en": "Welp, see ya!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsBye_Moru#0",
+   "speaker": "Morgana",
+   "en": "Well then, let's head home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsBye_Anne#0",
+   "speaker": "Ann",
+   "en": "Well, see you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsBye_Yusuke#0",
+   "speaker": "Yusuke",
+   "en": "I bid you farewell.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsBye_Makoto#0",
+   "speaker": "Makoto",
+   "en": "Well, goodbye.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsBye_Futaba#0",
+   "speaker": "Futaba",
+   "en": "Time to make like a tree!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsBye_Haru#0",
+   "speaker": "Haru",
+   "en": "See you later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsBye_Akechi#0",
+   "speaker": "Akechi",
+   "en": "Well then, I'll be going.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsBye_Yoshizawa#0",
+   "speaker": "Sumire",
+   "en": "Well, until next time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DB_r1#0",
+   "speaker": "Morgana",
+   "en": "Your pairing is Rank 1, so you'll play 301.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DB_r2#0",
+   "speaker": "Morgana",
+   "en": "Your pairing is Rank 2, so you'll play 501.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DB_r3#0",
+   "speaker": "Morgana",
+   "en": "Your pairing is Rank 3, so you can[n]choose the difficulty.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_chr_haiti#0",
+   "speaker": null,
+   "en": "How many friends should I bring?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti_dbg#0",
+   "speaker": null,
+   "en": "Up to Ann (Default).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti_dbg#1",
+   "speaker": null,
+   "en": "Up to Yusuke.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti_dbg#2",
+   "speaker": null,
+   "en": "Up to Makoto.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti_dbg#3",
+   "speaker": null,
+   "en": "Up to Futaba.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti_dbg#4",
+   "speaker": null,
+   "en": "Up to Haru.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti_dbg#5",
+   "speaker": null,
+   "en": "Up to Akechi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti_dbg#6",
+   "speaker": null,
+   "en": "Up to Sumire.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti_dbg#7",
+   "speaker": null,
+   "en": "Start as is.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_chr_haiti00#0",
+   "speaker": null,
+   "en": "Who should I call? This is temp, so don't[n]call the same people.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti01#0",
+   "speaker": null,
+   "en": "0. Ryuji",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti01#1",
+   "speaker": null,
+   "en": "1. Morgana",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti01#2",
+   "speaker": null,
+   "en": "2. Ann",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti01#3",
+   "speaker": null,
+   "en": "3. Yusuke",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti01#4",
+   "speaker": null,
+   "en": "4. Makoto",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti01#5",
+   "speaker": null,
+   "en": "5. Haru",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti01#6",
+   "speaker": null,
+   "en": "6. Futaba",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti01#7",
+   "speaker": null,
+   "en": "7. Akechi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti01#8",
+   "speaker": null,
+   "en": "8. Sumire",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti02#0",
+   "speaker": null,
+   "en": "0. Ryuji",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti02#1",
+   "speaker": null,
+   "en": "1. Ann",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti02#2",
+   "speaker": null,
+   "en": "2. Yusuke",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti02#3",
+   "speaker": null,
+   "en": "3. Makoto",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti02#4",
+   "speaker": null,
+   "en": "4. Haru",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti02#5",
+   "speaker": null,
+   "en": "5. Futaba",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti02#6",
+   "speaker": null,
+   "en": "6. Akechi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti02#7",
+   "speaker": null,
+   "en": "7. Sumire",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti02#8",
+   "speaker": null,
+   "en": "8. No one",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti03#0",
+   "speaker": null,
+   "en": "0. Ryuji",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti03#1",
+   "speaker": null,
+   "en": "1. Ann",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti03#2",
+   "speaker": null,
+   "en": "2. Yusuke",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti03#3",
+   "speaker": null,
+   "en": "3. Makoto",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti03#4",
+   "speaker": null,
+   "en": "4. Haru",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti03#5",
+   "speaker": null,
+   "en": "5. Futaba",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti03#6",
+   "speaker": null,
+   "en": "6. Akechi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti03#7",
+   "speaker": null,
+   "en": "7. Sumire",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti03#8",
+   "speaker": null,
+   "en": "8. No one",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_chr_Replay#0",
+   "speaker": null,
+   "en": "Would you like to play again? You can play[n]up to three times.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_Replay#0",
+   "speaker": null,
+   "en": "Play again",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_Replay#1",
+   "speaker": null,
+   "en": "End now",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_chr_3play#0",
+   "speaker": null,
+   "en": "You are playing three times,[n]so you can't repeat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_chr_asetto#0",
+   "speaker": null,
+   "en": "Who is going to play darts?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_asetto#0",
+   "speaker": null,
+   "en": "Called person",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_asetto#1",
+   "speaker": null,
+   "en": "Called person A",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_asetto#2",
+   "speaker": null,
+   "en": "Called person B",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_datu_sentaku#0",
+   "speaker": null,
+   "en": "Change Difficulty",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_datu_sentaku#0",
+   "speaker": null,
+   "en": "301",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_datu_sentaku#1",
+   "speaker": null,
+   "en": "501",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_datu_sentaku#2",
+   "speaker": null,
+   "en": "701",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_InviteAndPosSet#0",
+   "speaker": null,
+   "en": "Who was called?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_InviteAndPosSet#0",
+   "speaker": null,
+   "en": "Force settings",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_InviteAndPosSet#1",
+   "speaker": null,
+   "en": "Do nothing",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SELGEN_InviteAndPosSet#0",
+   "speaker": null,
+   "en": "Ryuji was called.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SELGEN_InviteAndPosSet#1",
+   "speaker": null,
+   "en": "Morgana was called.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SELGEN_InviteAndPosSet#2",
+   "speaker": null,
+   "en": "Ann was called.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SELGEN_InviteAndPosSet#3",
+   "speaker": null,
+   "en": "Yusuke was called.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SELGEN_InviteAndPosSet#4",
+   "speaker": null,
+   "en": "Makoto was called.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SELGEN_InviteAndPosSet#5",
+   "speaker": null,
+   "en": "Haru was called.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SELGEN_InviteAndPosSet#6",
+   "speaker": null,
+   "en": "Futaba was called.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SELGEN_InviteAndPosSet#7",
+   "speaker": null,
+   "en": "Akechi was called.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SELGEN_InviteAndPosSet#8",
+   "speaker": null,
+   "en": "Sumire was called.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SELGEN_InviteAndPosSet#9",
+   "speaker": null,
+   "en": "Start as is.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DUMMY#0",
+   "speaker": null,
+   "en": "Test",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DUMMY01#0",
+   "speaker": null,
+   "en": "For a rematch, select if you play with the second person and what mode to play in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DUMMY02#0",
+   "speaker": null,
+   "en": "If you have max rank with the other person, choose the mode at this time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DUMMY03#0",
+   "speaker": null,
+   "en": "Refresh the score on the display.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DUMMY04#0",
+   "speaker": null,
+   "en": "Switch display to \"Mode Select status\".",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DUMMY05#0",
+   "speaker": null,
+   "en": "Set the partner's position at the counter.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DUMMY06#0",
+   "speaker": null,
+   "en": "Switch the display mode to \"Game status\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DUMMY07#0",
+   "speaker": null,
+   "en": "Finish Mode test",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DUMMY07#1",
+   "speaker": null,
+   "en": "When remaining points are below 60, activate conversations for Finish.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FinishJudge_ryuji#0",
+   "speaker": "Ryuji",
+   "en": "Alright! Let's go for the finish!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_FinishJudge#0",
+   "speaker": null,
+   "en": "Go in strong.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_FinishJudge#1",
+   "speaker": null,
+   "en": "Stay calm.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FinishJudge_OK_ryuji#0",
+   "speaker": "Ryuji",
+   "en": "We're in Finish Mode!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DUMMY_ScoreSet#0",
+   "speaker": null,
+   "en": "Set the starting score for this game.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DUMMY_ChallengeScore#0",
+   "speaker": null,
+   "en": "The challenge score for Match 1 is [var 0].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DUMMY_ChallengeScore_2#0",
+   "speaker": null,
+   "en": "The challenge score for Match 2 is [var 0].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DUMMY_ChallengeScore_3#0",
+   "speaker": null,
+   "en": "The challenge score for Match 3 is [var 0].",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

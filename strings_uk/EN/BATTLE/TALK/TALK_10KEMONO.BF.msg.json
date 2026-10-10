@@ -1,0 +1,6109 @@
+{
+ "file": "EN/BATTLE/TALK/TALK_10KEMONO.BF",
+ "entries": [
+  {
+   "id": "TalkMsg_DUMMY#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CONTACT_01#0",
+   "speaker": null,
+   "en": "...You, again!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CONTACT_02#0",
+   "speaker": null,
+   "en": "...You not give up. You kind of[n]persistent.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CONTACT_03#0",
+   "speaker": null,
+   "en": "Me am really in soup, now. Do what[n]you want. Me am ready if you want[n]grill me, so...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01#0",
+   "speaker": null,
+   "en": "...Me not make excuses. Me lost,[n]so me pay consequences.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01#1",
+   "speaker": null,
+   "en": "Me am really in soup, now. Do what[n]you want. Me am ready if you want[n]grill me, so...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_01#0",
+   "speaker": null,
+   "en": "I'll make you into soup.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_01#1",
+   "speaker": null,
+   "en": "I don't want to eat you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_01#2",
+   "speaker": null,
+   "en": "I'll mince you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R#0",
+   "speaker": null,
+   "en": "Me know what me said, but you really[n]cook me, now that me lost will to fight?[n]Humans evil!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R_2#0",
+   "speaker": null,
+   "en": "Me was talking in metaphors. Me really[n]hoping that soup is metaphor too, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R_3#0",
+   "speaker": null,
+   "en": "We fight with honor, but you plan to[n]really cook me!? Me feel really hurt[n]and disrespected.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R_4#0",
+   "speaker": null,
+   "en": "Me just talking figuratively.[n]Me not really mean it! You[n]need learn metaphors.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R_5#0",
+   "speaker": null,
+   "en": "Me pretty sure you know what me[n]mean by grill, but you play along[n]and make joke? You nice person?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R_6#0",
+   "speaker": null,
+   "en": "It not like me wanted to be eaten[n]by you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R_7#0",
+   "speaker": null,
+   "en": "You no have courage to eat me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R_8#0",
+   "speaker": null,
+   "en": "You think me is worthy? Then maybe[n]it not so bad...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R_9#0",
+   "speaker": null,
+   "en": "You tear apart body of who you defeat?[n]Human, you really morbid.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R_10#0",
+   "speaker": null,
+   "en": "If you do, make it fast. Me want the[n]suffering to be over quick.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R_11#0",
+   "speaker": null,
+   "en": "You want destroy my body without[n]trace? Is shameful to leave my body[n]behind, so me feel honored.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R_12#0",
+   "speaker": null,
+   "en": "Me know what you plan! You want[n]make meatballs and eat me! Me not[n]want that at all!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R_13#0",
+   "speaker": null,
+   "en": "You not have anything to say to who[n]you defeated? Hehe, me suppose is fine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R_14#0",
+   "speaker": null,
+   "en": "Me glad to see you have compassion to[n]show to who you defeat, young human.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R_15#0",
+   "speaker": null,
+   "en": "Me not like sound coming from that[n]weapon. Evil humans would make[n]something like that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R_16#0",
+   "speaker": null,
+   "en": "You want see terror in my face? Sorry,[n]me not oblige weird fetish you have.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02#0",
+   "speaker": null,
+   "en": "...Human, you dumb. This territory ours.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02#1",
+   "speaker": null,
+   "en": "Why you keep trampling here?[n]What you humans thinking?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_02#0",
+   "speaker": null,
+   "en": "I'm sorry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_02#1",
+   "speaker": null,
+   "en": "Should I take off my shoes?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_02#2",
+   "speaker": null,
+   "en": "Shut up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R#0",
+   "speaker": null,
+   "en": "You win with brute force, but you[n]not reasonable like beast... Yeah,[n]you human.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R_2#0",
+   "speaker": null,
+   "en": "Lotta humans not have manners these[n]days, but you? You not one of them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R_3#0",
+   "speaker": null,
+   "en": "Humans always try smooth things[n]over with meaningless words.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R_4#0",
+   "speaker": null,
+   "en": "Me not forgive disrespect...[n]You will regret...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R_5#0",
+   "speaker": null,
+   "en": "No more talk. Now you apologize.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R_6#0",
+   "speaker": null,
+   "en": "Okay, take shoes off...[n]if you no feel shame.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R_7#0",
+   "speaker": null,
+   "en": "Shoes, bare feet—make no difference!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R_8#0",
+   "speaker": null,
+   "en": "You mock me? Me not like jokes...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R_9#0",
+   "speaker": null,
+   "en": "Me know where this is going. You[n]going through \"teenage rebellion.\"[n]Me know, me know...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R_10#0",
+   "speaker": null,
+   "en": "Me not raise voice. You better go[n]hospital and get ears checked.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R_11#0",
+   "speaker": null,
+   "en": "That not answer my question. You get[n]bad grades in school, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R_12#0",
+   "speaker": null,
+   "en": "You only say that because you no[n]have good answer. Me can tell that[n]you incompetent.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R_13#0",
+   "speaker": null,
+   "en": "Why you get angry when you[n]the one invading!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R_14#0",
+   "speaker": null,
+   "en": "You not intend to answer my questions.[n]Me wonder you like that because you[n]so strong.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R_15#0",
+   "speaker": null,
+   "en": "Ah! Human attack just hurt our[n]territory. Do humans only know[n]destroying things?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R_16#0",
+   "speaker": null,
+   "en": "Me think you pretty savage. Me starting[n]to doubt you actually a human...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03#0",
+   "speaker": null,
+   "en": "Me not understand... How did human[n]outsmart me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03#1",
+   "speaker": null,
+   "en": "Me not understand in what way you[n]superior to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_03#0",
+   "speaker": null,
+   "en": "Youthfulness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_03#1",
+   "speaker": null,
+   "en": "Cuteness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_03#2",
+   "speaker": null,
+   "en": "Luckiness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R#0",
+   "speaker": null,
+   "en": "Oho, younger better for making new[n]life, but me think you no have mate[n]right now, do you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R_2#0",
+   "speaker": null,
+   "en": "Bragging about \"inexperience\"?[n]...Hehe. Me no mind losing in that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R_3#0",
+   "speaker": null,
+   "en": "Youth mean being immature sometimes,[n]though. Not sure if that only reason[n]you win.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R_4#0",
+   "speaker": null,
+   "en": "Youth is beauty... Then you saying[n]me is \"ugly.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R_5#0",
+   "speaker": null,
+   "en": "Maybe if use human standards.[n]Me not know. All humans look same[n]to me. So do all beasts...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R_6#0",
+   "speaker": null,
+   "en": "Me pretty sure looks are in eye of[n]beholder. To someone else, me am[n]much cuter than you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R_7#0",
+   "speaker": null,
+   "en": "Looks only good for attracting mates.[n]After that, looks are useless, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R_8#0",
+   "speaker": null,
+   "en": "Me not so sure about that. What about[n]humans who spoil pets? Me am cuter[n]to them, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R_9#0",
+   "speaker": null,
+   "en": "Me no think me would lose to you,[n]just by luck.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R_10#0",
+   "speaker": null,
+   "en": "You think you modest...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R_11#0",
+   "speaker": null,
+   "en": "Luck is talent...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R_12#0",
+   "speaker": null,
+   "en": "You not fool me with vague words.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R_13#0",
+   "speaker": null,
+   "en": "You cruel... Humans who no feel[n]compassion are threat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R_14#0",
+   "speaker": null,
+   "en": "Me guess you not have a good answer.[n]Maybe you won because you got[n]lucky this time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R_15#0",
+   "speaker": null,
+   "en": "Me thought humans like to use words[n]to deceive others, but maybe not you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R_16#0",
+   "speaker": null,
+   "en": "Human, you not understand my[n]questions? This human have worse[n]communication skills than me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04#0",
+   "speaker": null,
+   "en": "...Me thought you not from around here.[n]You human?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04#1",
+   "speaker": null,
+   "en": "Why you come all the way here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_04#0",
+   "speaker": null,
+   "en": "For a treasure hunt.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_04#1",
+   "speaker": null,
+   "en": "For girls.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_04#2",
+   "speaker": null,
+   "en": "I just felt like it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R#0",
+   "speaker": null,
+   "en": "Oh, you on adventure? That not bad goal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R_2#0",
+   "speaker": null,
+   "en": "Want me eat people who[n]blind with greed?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R_3#0",
+   "speaker": null,
+   "en": "You humans just take something[n]if you want it. How you different[n]from us beasts, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R_4#0",
+   "speaker": null,
+   "en": "You here for treasure. Very observant.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R_5#0",
+   "speaker": null,
+   "en": "You in mating season? Uh-oh.[n]What you want with me, human?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R_6#0",
+   "speaker": null,
+   "en": "...You pretty passionate to risk so much[n]danger for that kind of reason, human.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R_7#0",
+   "speaker": null,
+   "en": "You here because woman in real world[n]no touch you? Me can kind of see that[n]your own fault...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R_8#0",
+   "speaker": null,
+   "en": "...You look in mirror? No woman here[n]want you. You waste time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R_9#0",
+   "speaker": null,
+   "en": "Humans who no have goals should rot.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R_10#0",
+   "speaker": null,
+   "en": "You in my way for no reason...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R_11#0",
+   "speaker": null,
+   "en": "You here because of instinct...[n]Dangerous...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R_12#0",
+   "speaker": null,
+   "en": "Efforts of human... Pitiful...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R_13#0",
+   "speaker": null,
+   "en": "Me get it. You want shooting practice.[n]Me understand is hard to do that in[n]real world.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R_14#0",
+   "speaker": null,
+   "en": "Me get it, you want go hunting.[n]But if illegal in real world, you not[n]can do it here, either.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R_15#0",
+   "speaker": null,
+   "en": "You want keep secrets, huh? Very[n]human of you. You humans survive[n]by tricking others.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R_16#0",
+   "speaker": null,
+   "en": "You not talk? Maybe because you[n]are human who care only about[n]what benefit himself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05#0",
+   "speaker": null,
+   "en": "Me hear that, in your world,[n]big groups protect animals.[n]They protect animal rights.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05#1",
+   "speaker": null,
+   "en": "You not worry you get in trouble[n]if those groups hear what you are[n]doing to me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_05#0",
+   "speaker": null,
+   "en": "That's true.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_05#1",
+   "speaker": null,
+   "en": "I don't mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_05#2",
+   "speaker": null,
+   "en": "It's for love.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R#0",
+   "speaker": null,
+   "en": "Don't humans have saying?[n]\"No crying over spill milk\"...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R_2#0",
+   "speaker": null,
+   "en": "It be nice if you realize this, and[n]you put your weapon down...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R_3#0",
+   "speaker": null,
+   "en": "So you chasing me will make trouble[n]for you in real world, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R_4#0",
+   "speaker": null,
+   "en": "Having conscience is biggest weakness[n]for you humans.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R_5#0",
+   "speaker": null,
+   "en": "Me hope you suffer when you[n]realize what other people think[n]also very important.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R_6#0",
+   "speaker": null,
+   "en": "You make and play your own rules,[n]but you make lots of enemies if you[n]keep doing that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R_7#0",
+   "speaker": null,
+   "en": "Your answer sound really \"selfish,\"[n]even in human world.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R_8#0",
+   "speaker": null,
+   "en": "Oh, you strong. You go your own way,[n]no matter what.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R_9#0",
+   "speaker": null,
+   "en": "You saying this for me? Hard to believe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R_10#0",
+   "speaker": null,
+   "en": "Love... That intriguing, human.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R_11#0",
+   "speaker": null,
+   "en": "Me can only interpret it as bluff...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R_12#0",
+   "speaker": null,
+   "en": "Using word love without thought...[n]You no have shame.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R_13#0",
+   "speaker": null,
+   "en": "...This not make me think better of you.[n]You need to be responsible for actions[n]you take, human.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R_14#0",
+   "speaker": null,
+   "en": "Me strike a nerve? Me know the truth[n]cannot be hidden long.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R_15#0",
+   "speaker": null,
+   "en": "...\"Dead men no speak\"? Me not know[n]humans can be this cruel...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R_16#0",
+   "speaker": null,
+   "en": "You bare your fangs, even at rules made[n]by other humans. How you even getting[n]along in world?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06#0",
+   "speaker": null,
+   "en": "...After me look closer, me can see[n]you really young human. You not[n]even alive that many years.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06#1",
+   "speaker": null,
+   "en": "Why you fight and put yourself[n]in harm's way?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_06#0",
+   "speaker": null,
+   "en": "I want to get stronger.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_06#1",
+   "speaker": null,
+   "en": "Because I see an enemy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_06#2",
+   "speaker": null,
+   "en": "I don't actually know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R#0",
+   "speaker": null,
+   "en": "Get stronger? Oh, because you are[n]a man, huh? Say no more, human,[n]me get it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R_2#0",
+   "speaker": null,
+   "en": "What kind strength you seeking?[n]Being strong not just about beating[n]the weak...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R_3#0",
+   "speaker": null,
+   "en": "Maybe you think you train physical[n]strength, but me think you just violent...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R_4#0",
+   "speaker": null,
+   "en": "What simple motivation... But it pure...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R_5#0",
+   "speaker": null,
+   "en": "Me pretty sure that everything you see[n]is enemy to you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R_6#0",
+   "speaker": null,
+   "en": "You right. You only one who can[n]protect yourself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R_7#0",
+   "speaker": null,
+   "en": "Me not sure you can tell who is[n]your enemy and who not...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R_8#0",
+   "speaker": null,
+   "en": "...Hehe, me get you. Nothing more,[n]nothing less, that the reason for fighting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R_9#0",
+   "speaker": null,
+   "en": "You just enter dangerous world[n]for no good reason? You must be[n]obsessed with fighting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R_10#0",
+   "speaker": null,
+   "en": "If you keep fighting and not know[n]yourself, you destroy yourself[n]sooner or later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R_11#0",
+   "speaker": null,
+   "en": "Maybe next time, you have good[n]reason for fighting. You really[n]should have one...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R_12#0",
+   "speaker": null,
+   "en": "Maybe you strong, but you so[n]irresponsible. You only use[n]strength for destroying.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R_13#0",
+   "speaker": null,
+   "en": "...Even in talking, you fighting to[n]defeat me? You are scary, but also[n]real smart, human.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R_14#0",
+   "speaker": null,
+   "en": "...Me know you win already, but[n]no need rubbing it in, human.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R_15#0",
+   "speaker": null,
+   "en": "...How you get to be so horrifying,[n]human? Are all humans scary like you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R_16#0",
+   "speaker": null,
+   "en": "Me am trying to communicate by[n]human rules, but you interrupt.[n]You incredibly disrespectful!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07#0",
+   "speaker": null,
+   "en": "Me understand now not time to bring[n]this up, but... me really hungry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07#1",
+   "speaker": null,
+   "en": "Me really want to eat something.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_07#0",
+   "speaker": null,
+   "en": "Do not mock me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_07#1",
+   "speaker": null,
+   "en": "Same goes for me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_07#2",
+   "speaker": null,
+   "en": "Want to order something?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R#0",
+   "speaker": null,
+   "en": "Empty stomach is proof me am still alive.[n]You dare not respect that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R_2#0",
+   "speaker": null,
+   "en": "Me pretty sure you hungry now, too,[n]after yelling at me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R_3#0",
+   "speaker": null,
+   "en": "You yelling because you hungry, too?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R_4#0",
+   "speaker": null,
+   "en": "Me not joking. Me am totally \"serial\"[n]or \"for real,\" whatever the word[n]humans say for it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R_5#0",
+   "speaker": null,
+   "en": "You too, what coincidence.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R_6#0",
+   "speaker": null,
+   "en": "You and me, similar.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R_7#0",
+   "speaker": null,
+   "en": "Me not asking about you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R_8#0",
+   "speaker": null,
+   "en": "...Me could eat human right in front[n]of me if me wanted.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R_9#0",
+   "speaker": null,
+   "en": "Humans can get their feed delivered!?[n]Me jealous of convenient service.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R_10#0",
+   "speaker": null,
+   "en": "Me still have to wait, though, right?[n]If only \"30 minutes\" in human time,[n]then me can wait.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R_11#0",
+   "speaker": null,
+   "en": "Me not know what that is, but me not[n]fall for your trap or trick this time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R_12#0",
+   "speaker": null,
+   "en": "...No. Me can get food myself if you[n]just let me go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R_13#0",
+   "speaker": null,
+   "en": "Ahhh! Me scared for life and[n]forgot me hungry for moment![n]Me kind of grateful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R_14#0",
+   "speaker": null,
+   "en": "...Me say you use gun on friends,[n]and then me can eat them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R_15#0",
+   "speaker": null,
+   "en": "Me am really hungry, but me not[n]can eat bullets...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R_16#0",
+   "speaker": null,
+   "en": "Stop! That loud sound make echo[n]in empty stomach, and then me[n]feel even hungrier...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08#0",
+   "speaker": null,
+   "en": "Hmm... Me not can see your true[n]intentions because mask cover face.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08#1",
+   "speaker": null,
+   "en": "What you thinking now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_08#0",
+   "speaker": null,
+   "en": "How to negotiate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_08#1",
+   "speaker": null,
+   "en": "Nothing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_08#2",
+   "speaker": null,
+   "en": "How can I get popular?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R#0",
+   "speaker": null,
+   "en": "It true. Negotiation be tiring.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R_2#0",
+   "speaker": null,
+   "en": "You fool that only think of ways[n]to stay out of trouble...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R_3#0",
+   "speaker": null,
+   "en": "Really? You not thinking[n]of something else?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R_4#0",
+   "speaker": null,
+   "en": "Oh, you always thinking of ways[n]to improve situation, yes?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R_5#0",
+   "speaker": null,
+   "en": "You mask heart... Me should be[n]careful of you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R_6#0",
+   "speaker": null,
+   "en": "Fool that can think of nothing...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R_7#0",
+   "speaker": null,
+   "en": "Oh, you very brave for facing me[n]with an empty mind...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R_8#0",
+   "speaker": null,
+   "en": "...Me not care about that. You do what[n]you want, human.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R_9#0",
+   "speaker": null,
+   "en": "Me hear human females want males[n]who kind and \"sensitive.\" But me not[n]can vouch for you on that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R_10#0",
+   "speaker": null,
+   "en": "Me hear human females like males[n]who look strong and \"ripped.\" You[n]actually strong—me guess you okay.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R_11#0",
+   "speaker": null,
+   "en": "Me hear that human males think of[n]females when facing death. That[n]mean... you afraid of me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R_12#0",
+   "speaker": null,
+   "en": "Me feel insulted you think about[n]women during our battle! How[n]dare you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R_13#0",
+   "speaker": null,
+   "en": "...Oh! You plan not tell your enemy[n]what you thinking because is strategy.[n]Me impressed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R_14#0",
+   "speaker": null,
+   "en": "...You try distracting me? Me can see[n]through your tricks.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R_15#0",
+   "speaker": null,
+   "en": "...Hehe, you not have composure to[n]even make small talk, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R_16#0",
+   "speaker": null,
+   "en": "Me not think you did this for good[n]reason. Your brain no different[n]from beasts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01#0",
+   "speaker": null,
+   "en": "...Young human, me see you make[n]effort to talk to me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01#1",
+   "speaker": null,
+   "en": "There something you want say[n]to me, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_01#0",
+   "speaker": null,
+   "en": "I want you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_01#1",
+   "speaker": null,
+   "en": "Not really.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_01#2",
+   "speaker": null,
+   "en": "Let me touch your paw.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R#0",
+   "speaker": null,
+   "en": "Me take as compliment but way you[n]speak creepy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R_2#0",
+   "speaker": null,
+   "en": "Me not know if you joking or serious...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R_3#0",
+   "speaker": null,
+   "en": "...Is trap? Me not trust you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R_4#0",
+   "speaker": null,
+   "en": "You want my power... You understand[n]what me capable of...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R_5#0",
+   "speaker": null,
+   "en": "...Me think you no have[n]communication skill.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R_6#0",
+   "speaker": null,
+   "en": "You boring human...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R_7#0",
+   "speaker": null,
+   "en": "You not waste time with petty words...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R_8#0",
+   "speaker": null,
+   "en": "If you nothing to say, get it over with...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R_9#0",
+   "speaker": null,
+   "en": "What you talking about? Sorry,[n]but me not really understand.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R_10#0",
+   "speaker": null,
+   "en": "There a line you not can cross. We not[n]have that kind of relationship.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R_11#0",
+   "speaker": null,
+   "en": "Me not know what \"paws\" means,[n]but me feel threatened somehow.[n]My hairs standing on end...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R_12#0",
+   "speaker": null,
+   "en": "Me not want to do it... You not can try to[n]push me to do what you humans like.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R_13#0",
+   "speaker": null,
+   "en": "Oh, so you not actually have[n]anything to say...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R_14#0",
+   "speaker": null,
+   "en": "Me pretty impressed by your[n]shooting skills.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R_15#0",
+   "speaker": null,
+   "en": "Wait. You not have anything to[n]say to me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R_16#0",
+   "speaker": null,
+   "en": "You try intimidating me? Me not[n]give in to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02#0",
+   "speaker": null,
+   "en": "...Humans not seem satisfied to only[n]capture beasts. Me know you use us[n]for other reasons too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02#1",
+   "speaker": null,
+   "en": "If you capture me, what you going[n]to do to me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_02#0",
+   "speaker": null,
+   "en": "Take pride in capturing you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_02#1",
+   "speaker": null,
+   "en": "Use you to decorate the hall.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_02#2",
+   "speaker": null,
+   "en": "Nothing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R#0",
+   "speaker": null,
+   "en": "Remembering those you defeat...[n]That admirable.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R_2#0",
+   "speaker": null,
+   "en": "Your words empty...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R_3#0",
+   "speaker": null,
+   "en": "Pride no fill your stomach...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R_4#0",
+   "speaker": null,
+   "en": "Me see... You want intangible[n]satisfaction...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R_5#0",
+   "speaker": null,
+   "en": "Me not pretty enough to be decoration.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R_6#0",
+   "speaker": null,
+   "en": "Me not can complain if me preserved[n]for eternity. My courage live on[n]in stories...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R_7#0",
+   "speaker": null,
+   "en": "You not can display me in home.[n]Me am too big for that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R_8#0",
+   "speaker": null,
+   "en": "Me feel incredible shame, thinking me[n]am displayed in home of human who[n]defeated me in battle...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R_9#0",
+   "speaker": null,
+   "en": "...Oh, you not scum that[n]desecrates corpse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R_10#0",
+   "speaker": null,
+   "en": "No matter how honorable you act,[n]you no can avoid human nature.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R_11#0",
+   "speaker": null,
+   "en": "You type to find happiness[n]in the moment of battle...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R_12#0",
+   "speaker": null,
+   "en": "You saying there no value[n]in the way me look...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R_13#0",
+   "speaker": null,
+   "en": "Me get this now. This is \"mugging\" me[n]heard you humans do sometimes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R_14#0",
+   "speaker": null,
+   "en": "Me get you. You really enjoying process[n]of capturing me right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R_15#0",
+   "speaker": null,
+   "en": "Me not really get this... This \"torture\"[n]before you kill me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R_16#0",
+   "speaker": null,
+   "en": "You trying break spirit of your enemy?[n]You already have victory...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03#0",
+   "speaker": null,
+   "en": "...Hey, human. You look really young.[n]You still at age when you depend on[n]others, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03#1",
+   "speaker": null,
+   "en": "You go back to your mother's arms.[n]You need take nap now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_03#0",
+   "speaker": null,
+   "en": "I'm not that young.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_03#1",
+   "speaker": null,
+   "en": "I'm not sleepy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_03#2",
+   "speaker": null,
+   "en": "After I'm done with this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R#0",
+   "speaker": null,
+   "en": "All young say that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R_2#0",
+   "speaker": null,
+   "en": "Humans look young, so it difficult[n]for me to judge age.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R_3#0",
+   "speaker": null,
+   "en": "Ah, me get you... You older than[n]you look.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R_4#0",
+   "speaker": null,
+   "en": "Me lived long time already, so you[n]young to me, anyway.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R_5#0",
+   "speaker": null,
+   "en": "Me actually think you sleepy, but you[n]trying stay awake like a fool.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R_6#0",
+   "speaker": null,
+   "en": "Me kind of hoping you take nap so[n]me not get killed. Looks like me not[n]getting out of this one...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R_7#0",
+   "speaker": null,
+   "en": "Me also not can take nap now. Me too[n]excited from battle, me just not can go[n]to sleep.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R_8#0",
+   "speaker": null,
+   "en": "Awww, don't say that. If you not take nap,[n]you regret it tomorrow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R_9#0",
+   "speaker": null,
+   "en": "Even in situation like this, you think[n]of your mother.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R_10#0",
+   "speaker": null,
+   "en": "Oh, then me not getting out of this.[n]It better for me if you finish me off[n]quickly, then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R_11#0",
+   "speaker": null,
+   "en": "...So, what you intend to do with me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R_12#0",
+   "speaker": null,
+   "en": "Me wonder if you timid and scared,[n]since you far away from mother.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R_13#0",
+   "speaker": null,
+   "en": "...Me realize you not be taking nap[n]anytime soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R_14#0",
+   "speaker": null,
+   "en": "Even though you young, your thirst[n]for hunt is like an adult.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R_15#0",
+   "speaker": null,
+   "en": "Me guessing you act like this because[n]you not independent from your mother.[n]Am me right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R_16#0",
+   "speaker": null,
+   "en": "You mad? Me guess it because me[n]pointed out how young you are. Hehe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04#0",
+   "speaker": null,
+   "en": "...The more me look at your mask,[n]the more strange it look.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04#1",
+   "speaker": null,
+   "en": "Why you wear mask to fight, anyway?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_04#0",
+   "speaker": null,
+   "en": "I care about my looks.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_04#1",
+   "speaker": null,
+   "en": "It keeps my foes' blood off.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_04#2",
+   "speaker": null,
+   "en": "That's what I want to know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R#0",
+   "speaker": null,
+   "en": "Me get it, that mask formal wear[n]for humans...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R_2#0",
+   "speaker": null,
+   "en": "You wear that mask every time you[n]go out? Crazy humans.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R_3#0",
+   "speaker": null,
+   "en": "Oh. Me know this not time to say this,[n]but that mask look bad on you. It not[n]suit you at all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R_4#0",
+   "speaker": null,
+   "en": "Me get it. You wear mask to dance[n]in \"masked ball,\" right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R_5#0",
+   "speaker": null,
+   "en": "Oh, me get it. Makes sense.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R_6#0",
+   "speaker": null,
+   "en": "Beauty is type of \"strength.\"[n]...That what you saying?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R_7#0",
+   "speaker": null,
+   "en": "Me, uh, don't want to see my blood,[n]either.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R_8#0",
+   "speaker": null,
+   "en": "That quite selfish reason.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R_9#0",
+   "speaker": null,
+   "en": "Me asked you first! You not know[n]manners!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R_10#0",
+   "speaker": null,
+   "en": "Me get it now. You not have memories,[n]huh? You \"amnesiac.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R_11#0",
+   "speaker": null,
+   "en": "Sorry, but me not have answer to that[n]question. Me asked it first.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R_12#0",
+   "speaker": null,
+   "en": "So what you saying is mask on your face,[n]and you not realize it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R_13#0",
+   "speaker": null,
+   "en": "Me get it now. That mask is symbol[n]of your commitment to battle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R_14#0",
+   "speaker": null,
+   "en": "Whoa, me not want to get killed[n]just because me ask question about[n]your mask.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R_15#0",
+   "speaker": null,
+   "en": "Me kind of impressed at coldness[n]you show to your enemies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R_16#0",
+   "speaker": null,
+   "en": "Me guess you not want anyone to talk[n]about face behind mask.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05#0",
+   "speaker": null,
+   "en": "Since ancient times, humans feared[n]and respected gods and spirits...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05#1",
+   "speaker": null,
+   "en": "So why me in this situation right now?[n]Why me at your mercy?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_05#0",
+   "speaker": null,
+   "en": "Times have changed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_05#1",
+   "speaker": null,
+   "en": "Humans are powerful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_05#2",
+   "speaker": null,
+   "en": "This is a difficult topic...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R#0",
+   "speaker": null,
+   "en": "Me a bit envious of how you can be[n]so calm and flexible.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R_2#0",
+   "speaker": null,
+   "en": "Me get it. Humans become much[n]stronger now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R_3#0",
+   "speaker": null,
+   "en": "That just cliché humans use. Me believe[n]you not really put a lot of thought in it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R_4#0",
+   "speaker": null,
+   "en": "Maybe times change, but they change[n]again and change back. Humans will[n]learn respect again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R_5#0",
+   "speaker": null,
+   "en": "Oh. Me guess there some kind of[n]miscommunication between us and[n]human, me suppose.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R_6#0",
+   "speaker": null,
+   "en": "I see. Humans... grew conceited...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R_7#0",
+   "speaker": null,
+   "en": "No mercy for those who defy...[n]True, they changed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R_8#0",
+   "speaker": null,
+   "en": "Depending on how think about it,[n]we to blame for human being[n]unable to change...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R_9#0",
+   "speaker": null,
+   "en": "Of course, creatures from two planes[n]of existence talking.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R_10#0",
+   "speaker": null,
+   "en": "...You not very good in Japanese class,[n]me guessing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R_11#0",
+   "speaker": null,
+   "en": "Me not mean to make it sound[n]complicated...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R_12#0",
+   "speaker": null,
+   "en": "So you not even put effort to try[n]understanding me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R_13#0",
+   "speaker": null,
+   "en": "You not have to worry. Me know[n]me have been defeated.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R_14#0",
+   "speaker": null,
+   "en": "Wait, you are human who[n]understands me... Me sure of it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R_15#0",
+   "speaker": null,
+   "en": "...Me know. Me know am[n]outnumbered by you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R_16#0",
+   "speaker": null,
+   "en": "Me can see that dangerous invention[n]make humans arrogant...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06#0",
+   "speaker": null,
+   "en": "Me know humans take joy in raising[n]descendants, your future generation.[n]So me have to ask...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06#1",
+   "speaker": null,
+   "en": "You given much thought, what if[n]you go to place where you could die[n]at any moment?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_06#0",
+   "speaker": null,
+   "en": "I've thought about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_06#1",
+   "speaker": null,
+   "en": "I don't want kids.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_06#2",
+   "speaker": null,
+   "en": "I'm not comfortable with this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R#0",
+   "speaker": null,
+   "en": "You not can make up your mind?[n]That actually very human of you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R_2#0",
+   "speaker": null,
+   "en": "You trying confuse me with that answer,[n]me know it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R_3#0",
+   "speaker": null,
+   "en": "Well, me want to know what you[n]think about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R_4#0",
+   "speaker": null,
+   "en": "Me confused. You agree or or disagree?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R_5#0",
+   "speaker": null,
+   "en": "Me guess my argument useless to try[n]and convince you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R_6#0",
+   "speaker": null,
+   "en": "So you saying... You not have significant[n]oth— Um, me not say anything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R_7#0",
+   "speaker": null,
+   "en": "Me thought descendants were[n]\"insurance\" for future, but me[n]guess you not need that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R_8#0",
+   "speaker": null,
+   "en": "So... You make yourself more[n]important than everything else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R_9#0",
+   "speaker": null,
+   "en": "...You better study Japanese more.[n]Me not understand why you not[n]know own language.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R_10#0",
+   "speaker": null,
+   "en": "You think this complicated? Me have[n]no choice but to give up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R_11#0",
+   "speaker": null,
+   "en": "Maybe it not strange you not[n]understand. We from different[n]worlds.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R_12#0",
+   "speaker": null,
+   "en": "Now starting to think you not very[n]smart. Your report card, it bad, huh?[n]Your parents happy?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R_13#0",
+   "speaker": null,
+   "en": "Me guess you mean you pretty confident[n]you not die here, at least.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R_14#0",
+   "speaker": null,
+   "en": "Wait, me was talking because me think[n]you capable of having civil conversation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R_15#0",
+   "speaker": null,
+   "en": "You a fool. You not even understand[n]fear of death.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R_16#0",
+   "speaker": null,
+   "en": "You humans arrogant. You not even[n]show interest in own surroundings[n]or people right in front of you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07#0",
+   "speaker": null,
+   "en": "...So, what me hear is, some humans[n]care for beasts like own family.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07#1",
+   "speaker": null,
+   "en": "Why you not care for me like that?[n]Why you treat me like this, then?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_07#0",
+   "speaker": null,
+   "en": "You look scary.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_07#1",
+   "speaker": null,
+   "en": "I want to cherish you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_07#2",
+   "speaker": null,
+   "en": "You're not a beast.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R#0",
+   "speaker": null,
+   "en": "Me was born like this... You not can[n]reject me because of way me am.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R_2#0",
+   "speaker": null,
+   "en": "Well, me can do nothing about that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R_3#0",
+   "speaker": null,
+   "en": "Terrifying? But that just your opinion.[n]It not universal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R_4#0",
+   "speaker": null,
+   "en": "Then, you need to think more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R_5#0",
+   "speaker": null,
+   "en": "So you want that, too...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R_6#0",
+   "speaker": null,
+   "en": "So if you not can play with me,[n]you going to kill me? Me not sure[n]if that sound fair.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R_7#0",
+   "speaker": null,
+   "en": "Your words hollow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R_8#0",
+   "speaker": null,
+   "en": "You pointing gun at me, but you[n]saying you want to cherish me...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R_9#0",
+   "speaker": null,
+   "en": "Me think that excuse too simple to[n]justify this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R_10#0",
+   "speaker": null,
+   "en": "Me think you in complete denial.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R_11#0",
+   "speaker": null,
+   "en": "...All right, me get it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R_12#0",
+   "speaker": null,
+   "en": "Well, me can do nothing about that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R_13#0",
+   "speaker": null,
+   "en": "...Your attitude explains everything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R_14#0",
+   "speaker": null,
+   "en": "...Me think it in your best interest to[n]treat me good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R_15#0",
+   "speaker": null,
+   "en": "So you only care about yourself...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R_16#0",
+   "speaker": null,
+   "en": "Me am sure you the type of human[n]who is cruel to beasts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08#0",
+   "speaker": null,
+   "en": "Me having hard time to accept that[n]human like you is more stronger[n]than me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08#1",
+   "speaker": null,
+   "en": "Me guessing you have power that[n]me not have. But what is it...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_08#0",
+   "speaker": null,
+   "en": "Academics.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_08#1",
+   "speaker": null,
+   "en": "Empathy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_08#2",
+   "speaker": null,
+   "en": "Girl power.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R#0",
+   "speaker": null,
+   "en": "Me not think so if lots of humans[n]believe everything on internet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R_2#0",
+   "speaker": null,
+   "en": "Intelligence? Oh, you mean cunning[n]to do evil, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R_3#0",
+   "speaker": null,
+   "en": "If only humans not have schools, then[n]maybe you not so dangerous.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R_4#0",
+   "speaker": null,
+   "en": "Yes, humans are resourceful...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R_5#0",
+   "speaker": null,
+   "en": "The power to understand others...[n]Me no have that power...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R_6#0",
+   "speaker": null,
+   "en": "You really understand me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R_7#0",
+   "speaker": null,
+   "en": "Then why your words not comfort me!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R_8#0",
+   "speaker": null,
+   "en": "That no good for battle!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R_9#0",
+   "speaker": null,
+   "en": "Me never heard of that before, but[n]me think it sound like something[n]really important...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R_10#0",
+   "speaker": null,
+   "en": "Me never heard of that power... But me[n]guess you have it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R_11#0",
+   "speaker": null,
+   "en": "Me kind of get it. Is power that go[n]beyond gender...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R_12#0",
+   "speaker": null,
+   "en": "That not necessary for battle!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R_13#0",
+   "speaker": null,
+   "en": "Me suppose you scared that people[n]find out secret to your power?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R_14#0",
+   "speaker": null,
+   "en": "Me know me not have the power to[n]invent superior weapons...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R_15#0",
+   "speaker": null,
+   "en": "Me get it now. Results more important[n]than thinking about power.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R_16#0",
+   "speaker": null,
+   "en": "Me overestimated you. You just a[n]human obsessed with battle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09#0",
+   "speaker": null,
+   "en": "Me wish me could eat human food[n]once before me die...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09#1",
+   "speaker": null,
+   "en": "Me want to ask some recommendations,[n]so me can at least imagine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_09#0",
+   "speaker": null,
+   "en": "Bread soaked in coffee.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_09#1",
+   "speaker": null,
+   "en": "I don't have any.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_09#2",
+   "speaker": null,
+   "en": "Hunger is the best ingredient.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R#0",
+   "speaker": null,
+   "en": "Sounds good to me. Me also like that[n]it seem soft.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R_2#0",
+   "speaker": null,
+   "en": "Me can respect that you have your own[n]personal tastes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R_3#0",
+   "speaker": null,
+   "en": "...You lying to me, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R_4#0",
+   "speaker": null,
+   "en": "But me not sure if dipping bread in[n]coffee is proper etiquette...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R_5#0",
+   "speaker": null,
+   "en": "If you no have recommendation,[n]me eat you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R_6#0",
+   "speaker": null,
+   "en": "...You boring human. But me no have[n]regrets.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R_7#0",
+   "speaker": null,
+   "en": "It waste of time asking you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R_8#0",
+   "speaker": null,
+   "en": "Me understand, not worth eating...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R_9#0",
+   "speaker": null,
+   "en": "...Me not can understand some of[n]the things humans think up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R_10#0",
+   "speaker": null,
+   "en": "\"Hunger\"...? Me never heard of it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R_11#0",
+   "speaker": null,
+   "en": "Me wanted to know specific food, not[n]\"spice\" for adding to food.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R_12#0",
+   "speaker": null,
+   "en": "...That not good answer to my question!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R_13#0",
+   "speaker": null,
+   "en": "Me guess me not want to think about[n]human food before dying anymore.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R_14#0",
+   "speaker": null,
+   "en": "...Me not want to eat any bullets.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R_15#0",
+   "speaker": null,
+   "en": "You want victory more than talk about[n]food, huh? Me guess that kind of noble.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R_16#0",
+   "speaker": null,
+   "en": "Me still feel hungry. Me probably should[n]not have talked about food.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10#0",
+   "speaker": null,
+   "en": "Your victory pretty much assured,[n]so me want to ask deep question.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10#1",
+   "speaker": null,
+   "en": "You have wishes you not can[n]let go of, even after you die?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_10#0",
+   "speaker": null,
+   "en": "Everyone's happiness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_10#1",
+   "speaker": null,
+   "en": "A grand funeral.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_10#2",
+   "speaker": null,
+   "en": "I won't die.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R#0",
+   "speaker": null,
+   "en": "Death leave wounds for those who still[n]alive... You understand this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R_2#0",
+   "speaker": null,
+   "en": "Happiness be many things... It difficult...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R_3#0",
+   "speaker": null,
+   "en": "You happy if me die?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R_4#0",
+   "speaker": null,
+   "en": "Oh, you so noble...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R_5#0",
+   "speaker": null,
+   "en": "Me not understand what you talking[n]about. This after you dead, so it not[n]hurt, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R_6#0",
+   "speaker": null,
+   "en": "You show off your accomplishment to[n]coming generations? Heh, interesting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R_7#0",
+   "speaker": null,
+   "en": "Me having really hard time imagining[n]what humans want...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R_8#0",
+   "speaker": null,
+   "en": "Your wish is very selfish. Me not even[n]understand why you even care after[n]you die.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R_9#0",
+   "speaker": null,
+   "en": "Me feel kind of insulted you not give[n]me real answer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R_10#0",
+   "speaker": null,
+   "en": "So you denying fact that death exists.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R_11#0",
+   "speaker": null,
+   "en": "You not can die? Me kind of jealous...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R_12#0",
+   "speaker": null,
+   "en": "Me understand. That kind of confidence[n]is backed up by your training every day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R_13#0",
+   "speaker": null,
+   "en": "That question kind of foolish. Me would[n]like to apologize.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R_14#0",
+   "speaker": null,
+   "en": "If you want something, then you should[n]express in words, not bullets.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R_15#0",
+   "speaker": null,
+   "en": "You not have any wishes? You boring for[n]a human. You not even have desires?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R_16#0",
+   "speaker": null,
+   "en": "So what you saying... Is you will make[n]your own wishes come true.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11#0",
+   "speaker": null,
+   "en": "Me am frustrated, but me am going to[n]die soon. You are my strongest rival,[n]but also my friend...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11#1",
+   "speaker": null,
+   "en": "Me want you to give me some nice[n]\"words of compassion\"—as my rival—[n]as me pass away...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_11#0",
+   "speaker": null,
+   "en": "Die in peace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_11#1",
+   "speaker": null,
+   "en": "Why show mercy to my enemy?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_11#2",
+   "speaker": null,
+   "en": "...I got nothing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R#0",
+   "speaker": null,
+   "en": "Me am touched by your tender words...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R_2#0",
+   "speaker": null,
+   "en": "...Me understand now. Me not can[n]escape the finality of death.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R_3#0",
+   "speaker": null,
+   "en": "That depends on you, you know!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R_4#0",
+   "speaker": null,
+   "en": "Being peaceful or noisy still[n]matters!? Me am dying here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R_5#0",
+   "speaker": null,
+   "en": "Awww, so it only me who thought we[n]both rivals who respect and like each[n]other.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R_6#0",
+   "speaker": null,
+   "en": "Awww, you being really heartless[n]right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R_7#0",
+   "speaker": null,
+   "en": "What!? Me take back what me said[n]about you being my strongest rival!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R_8#0",
+   "speaker": null,
+   "en": "Me suppose enemies not can be friends...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R_9#0",
+   "speaker": null,
+   "en": "Me still want you to try, though, my rival.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R_10#0",
+   "speaker": null,
+   "en": "You really not very good at improv, huh?[n]Me did kind of put you on the spot.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R_11#0",
+   "speaker": null,
+   "en": "Me understand. Me sorry for bothering[n]you... my rival.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R_12#0",
+   "speaker": null,
+   "en": "You already tired of this!? Me not can[n]help but feel insulted.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R_13#0",
+   "speaker": null,
+   "en": "Wait, you encouraging me to resist[n]death? You doing this because you[n]my rival?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R_14#0",
+   "speaker": null,
+   "en": "Me understand. You want to encourage[n]me with sound of gunshots more than[n]words.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R_15#0",
+   "speaker": null,
+   "en": "...No, no, me wanted \"words of[n]compassion.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R_16#0",
+   "speaker": null,
+   "en": "Me starting to think your heart not really[n]into saying some nice words to me[n]before me die...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12#0",
+   "speaker": null,
+   "en": "...From what me hear, humans use \"lies\"[n]to trick and deceive others all the time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12#1",
+   "speaker": null,
+   "en": "It look like you corner me... But how me[n]know this not trick? How me know you[n]really winning?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_12#0",
+   "speaker": null,
+   "en": "Because it's the truth.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_12#1",
+   "speaker": null,
+   "en": "It's a lie.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_12#2",
+   "speaker": null,
+   "en": "I don't know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R#0",
+   "speaker": null,
+   "en": "Well, maybe that not change facts, but[n]me know that facts can change.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R_2#0",
+   "speaker": null,
+   "en": "...Oh, yeah. Then me go ahead and just[n]admit defeat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R_3#0",
+   "speaker": null,
+   "en": "Not change facts? How me sure these[n]\"facts\" are not lies, then, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R_4#0",
+   "speaker": null,
+   "en": "Fine, me just admit defeat, then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R_5#0",
+   "speaker": null,
+   "en": "Me want to say it not true, but it seem[n]true...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R_6#0",
+   "speaker": null,
+   "en": "...You shrewd human.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R_7#0",
+   "speaker": null,
+   "en": "...It make me mad when you say it[n]like that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R_8#0",
+   "speaker": null,
+   "en": "Then me turn this situation around!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R_9#0",
+   "speaker": null,
+   "en": "Yes, me... me not know what real[n]anymore.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R_10#0",
+   "speaker": null,
+   "en": "Then me find out truth myself!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R_11#0",
+   "speaker": null,
+   "en": "You saying me should see truth for[n]myself...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R_12#0",
+   "speaker": null,
+   "en": "Then, me kill you and escape from this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R_13#0",
+   "speaker": null,
+   "en": "So, you just not going to talk about it,[n]just because it inconvenient for you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R_14#0",
+   "speaker": null,
+   "en": "No, me understand now. Me am truly[n]defeated.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R_15#0",
+   "speaker": null,
+   "en": "Even if something was lie, you use your[n]strength to turn lies into truth...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R_16#0",
+   "speaker": null,
+   "en": "So you turn lies into truth by never[n]giving up your lie?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13#0",
+   "speaker": null,
+   "en": "...Me admit it. Me afraid of dying now,[n]all of sudden. You can laugh at me if[n]you want.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13#1",
+   "speaker": null,
+   "en": "You had something you lost, and you[n]not know how important it was until[n]after it gone, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_13#0",
+   "speaker": null,
+   "en": "My pal who switched schools.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_13#1",
+   "speaker": null,
+   "en": "My ex-girlfriend...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_13#2",
+   "speaker": null,
+   "en": "Quiet, I'm killing you now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R#0",
+   "speaker": null,
+   "en": "Me know now that you understand[n]grief and loss. Maybe it not so bad[n]if me die by your hand.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R_2#0",
+   "speaker": null,
+   "en": "How you compare me dying to your[n]friend going to different school!?[n]Me feel really belittled now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R_3#0",
+   "speaker": null,
+   "en": "Me not really care about some stranger...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R_4#0",
+   "speaker": null,
+   "en": "Friends, huh? Those are people who you[n]are around for mutual benefit, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R_5#0",
+   "speaker": null,
+   "en": "Me understand what it like to have[n]love and lost. All right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R_6#0",
+   "speaker": null,
+   "en": "Me guess she \"want to stay but can't\"...[n]yes?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R_7#0",
+   "speaker": null,
+   "en": "You not have to explain. Me know she[n]the one who broke up with you. It kind[n]of obvious.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R_8#0",
+   "speaker": null,
+   "en": "Maybe she not feel that way...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R_9#0",
+   "speaker": null,
+   "en": "Me understand. Me will let you kill me,[n]but first me wanted to just talk a while[n]longer...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R_10#0",
+   "speaker": null,
+   "en": "Your words really cruel, especially[n]when me feeling heartbroken and[n]vulnerable...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R_11#0",
+   "speaker": null,
+   "en": "Just so me clear, me was not begging[n]for my life. Me am willing to accept[n]death.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R_12#0",
+   "speaker": null,
+   "en": "You have bad habit of trying to hurry[n]to ending of things, you know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R_13#0",
+   "speaker": null,
+   "en": "...Awww, me just told you me afraid[n]of dying, and you not have anything[n]to say?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R_14#0",
+   "speaker": null,
+   "en": "Me understand. Loss not mean much[n]to you. If you lose, you just strong[n]enough to take.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R_15#0",
+   "speaker": null,
+   "en": "Guh, me not expected you just ignore[n]my feelings like that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R_16#0",
+   "speaker": null,
+   "en": "It useless to appeal to you on emotional[n]level. You really human?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14#0",
+   "speaker": null,
+   "en": "...You come here because you ordered[n]to, right? Humans always slaves to rules[n]and order.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14#1",
+   "speaker": null,
+   "en": "Me not curse you, but me curse your[n]commander! Me curse the one who[n]order you...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_14#0",
+   "speaker": null,
+   "en": "This was my choice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_14#1",
+   "speaker": null,
+   "en": "Fighting me is bad luck.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_14#2",
+   "speaker": null,
+   "en": "Just try to escape.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R#0",
+   "speaker": null,
+   "en": "So, you just outlaw who not follow[n]any rules.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R_2#0",
+   "speaker": null,
+   "en": "Huh? Then me know there no chance[n]for me at all...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R_3#0",
+   "speaker": null,
+   "en": "What...? Really? You pretty eccentric...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R_4#0",
+   "speaker": null,
+   "en": "Hehe, me kind of pleased that you not[n]let yourself be tied down by any rules.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R_5#0",
+   "speaker": null,
+   "en": "Me lost as soon as me decided to[n]fight you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R_6#0",
+   "speaker": null,
+   "en": "Me guess me not can argue with that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R_7#0",
+   "speaker": null,
+   "en": "Awww, so me about to die, but you[n]still talk down to me. Your words[n]really final...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R_8#0",
+   "speaker": null,
+   "en": "You bragging about your strength in[n]roundabout way? You really kind of[n]a jerk.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R_9#0",
+   "speaker": null,
+   "en": "You won already, but you still lecture[n]me? You not need show how strong[n]you are...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R_10#0",
+   "speaker": null,
+   "en": "Those words... actually kind of noble.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R_11#0",
+   "speaker": null,
+   "en": "Those are beautiful words for words[n]coming from a human.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R_12#0",
+   "speaker": null,
+   "en": "...You are my master!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R_13#0",
+   "speaker": null,
+   "en": "Me lost to my own powerlessness...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R_14#0",
+   "speaker": null,
+   "en": "Me not care anymore who deserve me to[n]hate them... Me just hate you, anyway!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R_15#0",
+   "speaker": null,
+   "en": "How much money your commander[n]give you to do this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R_16#0",
+   "speaker": null,
+   "en": "Me not want to meet your commander[n]if he anything like you are.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15#0",
+   "speaker": null,
+   "en": "...Fine. Maybe you kill me, but me dying[n]have lasting impact on you. Make you[n]better human.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15#1",
+   "speaker": null,
+   "en": "So me am going to haunt you for the rest[n]of your life. Me always right behind you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_15#0",
+   "speaker": null,
+   "en": "That would be troublesome.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_15#1",
+   "speaker": null,
+   "en": "I could carry that weight.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_15#2",
+   "speaker": null,
+   "en": "I don't get it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R#0",
+   "speaker": null,
+   "en": "At least me was able to retaliate a little[n]by scaring you tiny bit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R_2#0",
+   "speaker": null,
+   "en": "...Hehe, me looking forward to you[n]being afraid of doing battle with me[n]as formless ghost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R_3#0",
+   "speaker": null,
+   "en": "If you not need to hide weakness, then[n]you truly force to be reckoned with.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R_4#0",
+   "speaker": null,
+   "en": "This situation is no fun for me,[n]you know...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R_5#0",
+   "speaker": null,
+   "en": "You sure? Me am hard to keep in a[n]small heart...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R_6#0",
+   "speaker": null,
+   "en": "...Hehe, then me will have you take care[n]of me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R_7#0",
+   "speaker": null,
+   "en": "Me not really want to do that, though.[n]It not fun, feeling like me owe you favor[n]or something.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R_8#0",
+   "speaker": null,
+   "en": "You sure? Me heavy. It not so easy as[n]you think.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R_9#0",
+   "speaker": null,
+   "en": "Me suppose even noble threats not[n]really effective on you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R_10#0",
+   "speaker": null,
+   "en": "Really? It hard for me to tell true[n]intention behind human words,[n]so me understand.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R_11#0",
+   "speaker": null,
+   "en": "...Fine, me suppose me could teach you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R_12#0",
+   "speaker": null,
+   "en": "You not like talking like philosophy? Well,[n]me not actually like it, either.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R_13#0",
+   "speaker": null,
+   "en": "Me didn't say me would haunt you and[n]you not get any benefit at all...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R_14#0",
+   "speaker": null,
+   "en": "...You not going to kill me? But me ready!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R_15#0",
+   "speaker": null,
+   "en": "Uh-oh. You not going to tell me you[n]never kill before...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R_16#0",
+   "speaker": null,
+   "en": "Me not sure why you threaten someone[n]who already ready to die...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16#0",
+   "speaker": null,
+   "en": "...Just so me clear, even if you defeat me,[n]another assassin just target you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16#1",
+   "speaker": null,
+   "en": "You better enjoy and be drunk on[n]victory while you can. It not last long.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_16#0",
+   "speaker": null,
+   "en": "I'll just keep winning.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_16#1",
+   "speaker": null,
+   "en": "You're just a sore loser.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_16#2",
+   "speaker": null,
+   "en": "I can't drink, I'm underage.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R#0",
+   "speaker": null,
+   "en": "You really bold to say that... Me am[n]impressed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R_2#0",
+   "speaker": null,
+   "en": "...So you choose the path that make[n]more enemies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R_3#0",
+   "speaker": null,
+   "en": "Me don't think you can back up those[n]words. Someday you will lose.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R_4#0",
+   "speaker": null,
+   "en": "You really eager to fight... Me hope[n]it not a farce.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R_5#0",
+   "speaker": null,
+   "en": "Maybe me lose now, but if you lose[n]to someone... then me win.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R_6#0",
+   "speaker": null,
+   "en": "Maybe that true, but it more sensitive[n]thing to do to just overlook that, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R_7#0",
+   "speaker": null,
+   "en": "...Fine. Me admit it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R_8#0",
+   "speaker": null,
+   "en": "Me not like you interpreting what me[n]say that way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R_9#0",
+   "speaker": null,
+   "en": "You hung up on drinking part...? How[n]you can survive world if you so uptight?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R_10#0",
+   "speaker": null,
+   "en": "Oh, underage drinking illegal? You[n]impressive, law-abiding human.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R_11#0",
+   "speaker": null,
+   "en": "Me was just using figure of speech.[n]You not hear that one before? Me[n]could have sworn...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R_12#0",
+   "speaker": null,
+   "en": "Then when you old enough, me make[n]you drink till you pass out, even if me[n]am just ghost!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R_13#0",
+   "speaker": null,
+   "en": "It not easy to escape the cycle. Others[n]always want to prove they strong by[n]beating number one—you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R_14#0",
+   "speaker": null,
+   "en": "Hehe, even while you drunk on victory[n]right now, assassins are sharpening their[n]fangs.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R_15#0",
+   "speaker": null,
+   "en": "You mad? Me get it. Me spoil the mood[n]after you get victory, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R_16#0",
+   "speaker": null,
+   "en": "Me guess just being drunk on victory[n]not good enough for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_SURREND#0",
+   "speaker": null,
+   "en": "...Me weak, lost... What you want to say[n]to me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_SURREND_2#0",
+   "speaker": null,
+   "en": "...Say what you want. You want[n]negotiation, yes?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_SURREND_3#0",
+   "speaker": null,
+   "en": "...Say what you want. You want[n]negotiation, yes?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_SURREND_4#0",
+   "speaker": null,
+   "en": "...Me not think it would be like this.[n]So what you want?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_NEGO_SURREND#0",
+   "speaker": null,
+   "en": "I want you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_NEGO_SURREND#1",
+   "speaker": null,
+   "en": "...Give me money.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_NEGO_SURREND#2",
+   "speaker": null,
+   "en": "I want a rare item.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_NEGO_SURREND#3",
+   "speaker": null,
+   "en": "I want some intel.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_NEGO_SURREND#4",
+   "speaker": null,
+   "en": "Lower the security level.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_FIFTYFI#0",
+   "speaker": null,
+   "en": "Me be in danger if me get found out...[n]But me think about it if you give me[n][var 0] yen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_FIFTYFI_2#0",
+   "speaker": null,
+   "en": "Me could really get into big[n]trouble. Me gonna need[n][f 2 5 3 9999 3] to do it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_FIFTYFI_3#0",
+   "speaker": null,
+   "en": "Me be in danger if me get found out.[n]It really not worth it, but give me life[n]power and me do it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_FIFTYFI_4#0",
+   "speaker": null,
+   "en": "Me be in danger if me get found out.[n]It really not worth it, but give me mind[n]power and me do it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_NEGO_FIFTYFI#0",
+   "speaker": null,
+   "en": "Fine, I'll give it to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_NEGO_FIFTYFI#1",
+   "speaker": null,
+   "en": "I can't meet your demands.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_REQUIRE#0",
+   "speaker": null,
+   "en": "...It so hot. This because you humans[n]build skyscrapers! That the cause of[n]\"heat island effect\"!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_REQUIRE#1",
+   "speaker": null,
+   "en": "But if you feel bad, just give me[n][f 2 5 3 9999 4].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_REQUIRE_2#0",
+   "speaker": null,
+   "en": "*cough* Me never thought me would[n]come down with flu...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_REQUIRE_2#1",
+   "speaker": null,
+   "en": "Me am feeling under the weather,[n]so me have to ask. You have[n][f 2 5 3 9999 4], don't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_REQUIRE_3#0",
+   "speaker": null,
+   "en": "...Grrr, itching! My eyes itching! Me not[n]can believe me am suffering from pollen[n]allergies...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_REQUIRE_3#1",
+   "speaker": null,
+   "en": "You, human. Me need relief. You have[n][f 2 5 3 9999 4] me can have?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_REQUIRE_4#0",
+   "speaker": null,
+   "en": "Wait. You asking me to lie to rest of[n]Shadows?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_REQUIRE_4#1",
+   "speaker": null,
+   "en": "But if me get found out, me will get[n]killed. Maybe me will do it if me get[n][f 2 5 3 9999 3].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_NEGO_REQUIRE#0",
+   "speaker": null,
+   "en": "Hand it over",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_NEGO_REQUIRE#1",
+   "speaker": null,
+   "en": "Don't hand it over",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_PAYFOR_#0",
+   "speaker": null,
+   "en": "Let me go, and me give you[n]something valuable. What you think[n]about [var 0] yen?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_PAYFOR__2#0",
+   "speaker": null,
+   "en": "For this fight, we use money as[n]mediator and stop this. Here,[n][var 0] yen from me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_PAYFOR__3#0",
+   "speaker": null,
+   "en": "Me give you [f 2 5 3 9999 1][n]if you can use it good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_PAYFOR__4#0",
+   "speaker": null,
+   "en": "...Take. It's [f 2 5 3 9999 1].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_NEGO_PAYFOR#0",
+   "speaker": null,
+   "en": "I'll take it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_NEGO_PAYFOR#1",
+   "speaker": null,
+   "en": "You can do better than that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_Re_ACCE#0",
+   "speaker": null,
+   "en": "Me understand. Then, me have no[n]choice but to fight.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_Re_ACCE_2#0",
+   "speaker": null,
+   "en": "...Oh, me get it. Me not see any other[n]options but to fight.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_GET_P#0",
+   "speaker": null,
+   "en": "Me am not a Shadow that belongs here.[n]Me exist in the sea of souls of humans!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_GET_P#1",
+   "speaker": null,
+   "en": "Me am [clr 1][var 2][clr 27].[n]My power is your power...[n]Use it how you want.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_GET_P_2#0",
+   "speaker": null,
+   "en": "Hm? You already have [clr 1][var 2][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_GET_P_3#0",
+   "speaker": null,
+   "en": "...Wait, me can see you not have[n]enough levels. Here, me give you[n][f 2 5 3 9999 1]—you train, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_GET_M#0",
+   "speaker": null,
+   "en": "Me give you [var 0] yen.[n]Me want to give you money[n]since me had good time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_GET_I#0",
+   "speaker": null,
+   "en": "Me give you [f 2 5 3 9999 1].[n]You not have to be shy—it fine[n]if you really excited about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_GET_S#0",
+   "speaker": null,
+   "en": "It up to you if you use info that me tell[n]you to your advantage...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_ENEMY#0",
+   "speaker": null,
+   "en": "Me not want to talk to you. Me just want[n]to hear your screams!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_ENEMY_2#0",
+   "speaker": null,
+   "en": "Don't get cocky... You must die!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_ENEMY_3#0",
+   "speaker": null,
+   "en": "That still not enough? Then me introduce[n]you to friends who have lots of things!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_ENEMY_3#1",
+   "speaker": null,
+   "en": "They're also bloodthirsty!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_ENEMY_4#0",
+   "speaker": null,
+   "en": "...Hehe, not this time! Me am running[n]away!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_ENEMY_5#0",
+   "speaker": null,
+   "en": "Goodbye! Me want to become a human[n]soon!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_ENEMY_6#0",
+   "speaker": null,
+   "en": "...Huh? What? Sit? Play dead? Me[n]should... wait here, then?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_ENEMY_7#0",
+   "speaker": null,
+   "en": "Awoooo! Awoo, awoooo! Me run[n]away with tail between legs!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_ENEMY_8#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_ENEMY_9#0",
+   "speaker": null,
+   "en": "...Grr! Me am going crazy from anger![n]Me no listen to you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_ENEMY_9#1",
+   "speaker": null,
+   "en": "Grr... But that not nice... Me act mature[n]and listen to what you say.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_SECRE#0",
+   "speaker": null,
+   "en": "...You already know this info? Nothing[n]escapes you, human. Me just give you[n]this instead.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_SURRENDER_FROM_C#0",
+   "speaker": null,
+   "en": "Me already know you much stronger[n]than me! Me surrender!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_SUCCESS_SKIMMING#0",
+   "speaker": null,
+   "en": "So you looking at this, huh? Me never[n]thought humans can have good nose[n]for quality.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_ENEMY_SHO#0",
+   "speaker": null,
+   "en": "Guh, gah...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_ENEMY_SLE#0",
+   "speaker": null,
+   "en": "Zzz...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_ENEMY_FLA#0",
+   "speaker": null,
+   "en": "Hot! Me gonna be cooked like well-done[n]steak... Me not taste good as barbecue!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_ENEMY_FLA#1",
+   "speaker": null,
+   "en": "Nnrg! Me endure this with guts though![n]Hey, human... Hurry up and talk if you[n]want something...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_ENEMY_VER#0",
+   "speaker": null,
+   "en": "Me... so dizzy... Me not can tell what[n]ground and what sky...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_ENEMY_VER#1",
+   "speaker": null,
+   "en": "Nnrg! Me endure this with guts though![n]Hey, human... Hurry up and talk if you[n]want something...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_ENEMY_FOR#0",
+   "speaker": null,
+   "en": "Me feel like me forget something...[n]Me not old enough to have memory[n]loss yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_ENEMY_FOR#1",
+   "speaker": null,
+   "en": "...But me no care anymore. Better give[n]up early... Hey, human... talk if you want[n]something...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_ENEMY_DES#0",
+   "speaker": null,
+   "en": "Me not needed in this world anyway...[n]No one needs me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_ENEMY_DES#1",
+   "speaker": null,
+   "en": "Nnrg! Wait, you... need me...? Then, tell[n]me what you want say...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_ENEMY_BRA#0",
+   "speaker": null,
+   "en": "Ah, me hear voice... My master calling...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH#0",
+   "speaker": null,
+   "en": "Me must follow master's orders...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH#1",
+   "speaker": null,
+   "en": "Master wants me to go on walk... Hrm![n]Me remember now...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_2#0",
+   "speaker": null,
+   "en": "Me must follow master's orders...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_2#1",
+   "speaker": null,
+   "en": "Nnrg! Me not fall for that! You not[n]my master!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_3#0",
+   "speaker": null,
+   "en": "Me must follow master's orders...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_3#1",
+   "speaker": null,
+   "en": "Me get it now. Here, take this, Master.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_4#0",
+   "speaker": null,
+   "en": "Me must follow master's orders...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_4#1",
+   "speaker": null,
+   "en": "Nnrg! Me not fall for that! You not[n]my master!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_5#0",
+   "speaker": null,
+   "en": "Me must follow master's orders...[n]Master, this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_6#0",
+   "speaker": null,
+   "en": "Me must follow master's orders...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_6#1",
+   "speaker": null,
+   "en": "Nnrg! Me not fall for that! You not[n]my master!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_7#0",
+   "speaker": null,
+   "en": "*whimper* Master's orders... must be[n]followed. Me awake now. Here, Master...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_11#0",
+   "speaker": null,
+   "en": "Haha... Run home, human![n]King Kamoshida is stronger[n]than everybody else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_12#0",
+   "speaker": null,
+   "en": "Haha... Run home, human![n]Lord Madarame is stronger[n]than everybody else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_13#0",
+   "speaker": null,
+   "en": "Haha... Run home, human![n]Mr. Kaneshiro is stronger[n]than everybody else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_14#0",
+   "speaker": null,
+   "en": "Haha... Run home, human![n]Queen Futaba is stronger[n]than everybody else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_15#0",
+   "speaker": null,
+   "en": "Haha... Run home, human![n]Lord Okumura is stronger[n]than everybody else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_16#0",
+   "speaker": null,
+   "en": "Haha... Run home, human![n]Lady Niijima is stronger[n]than everybody else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_17#0",
+   "speaker": null,
+   "en": "Haha... Run home, human![n]Master Akechi is stronger[n]than everybody else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_18#0",
+   "speaker": null,
+   "en": "Haha... Run home, human![n]Lord Shido is stronger[n]than everybody else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_19#0",
+   "speaker": null,
+   "en": "Haha... Run home, human![n]His Excellency is stronger[n]than everybody else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_10#0",
+   "speaker": null,
+   "en": "Haha... Run home, human![n]The secret boss is stronger[n]than everybody else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_MEMENTOS#0",
+   "speaker": null,
+   "en": "...Wait! Don't shoot! How about[n]we trade!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_MEMENTOS_2#0",
+   "speaker": null,
+   "en": "W-Wait... Me am sure we can talk[n]this out!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_MEMENTOS_3#0",
+   "speaker": null,
+   "en": "...What you doing? You trying[n]to kill me!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GREET_POSSESSING#0",
+   "speaker": null,
+   "en": "Mm, me see [clr 1][var 2][clr 27] inside you.[n]Okay then, me lend help.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_NEGO_POSSESSING_#0",
+   "speaker": null,
+   "en": "Me know humans just want money...[n]Here, take.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_NEGO_POSSESSING__2#0",
+   "speaker": null,
+   "en": "So you want items... Okay, here it is.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GREET_POSSESSED#0",
+   "speaker": null,
+   "en": "Grrr? Wait, me remember your scent.[n]Me really thought we would be friends[n]forever...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_NEGO_POSSESSED#0",
+   "speaker": null,
+   "en": "It no use to talk about past. Let's just[n]talk about now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_NEGO_POSSESSED_M#0",
+   "speaker": null,
+   "en": "...Money you want, right? Here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_NEGO_POSSESSED_I#0",
+   "speaker": null,
+   "en": "...You wanted items? Take this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GREET_POSSESSED_#0",
+   "speaker": null,
+   "en": "Can me you get back together?[n]Why we no talk?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_TALK_POSSESSED_B#0",
+   "speaker": null,
+   "en": "*howl* I remember the past!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_NEGO_POSSESSED_B#0",
+   "speaker": null,
+   "en": "Me guess you right...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_NEGO_POSSESSED_B_2#0",
+   "speaker": null,
+   "en": "Humans only care about money...[n]You satisfied with this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_NEGO_POSSESSED_B_3#0",
+   "speaker": null,
+   "en": "You want items... How about this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_FIRST_CONTACT#0",
+   "speaker": null,
+   "en": "...Then, let's talk. Once me understand[n]you, me lend you my power.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_PRE_QUESTION#0",
+   "speaker": null,
+   "en": "Me feel like me saw you somewhere[n]before... Me guess me am willing to[n]talk to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_PRE_QUESTION_ACQ#0",
+   "speaker": null,
+   "en": "You a pretty agreeable human.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_PRE_QUESTION_DEN#0",
+   "speaker": null,
+   "en": "You cruel... I mean, me can[n]understand, but... Hrm![n]Me remember now...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_TALK_TECH_ITEM#0",
+   "speaker": null,
+   "en": "Hm? Me not be tricked by such bad[n]acting! How you like this!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_TALK_TECH_PERSON#0",
+   "speaker": null,
+   "en": "You good with words... About as good[n]as me... Hrm! Me remember now...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_SETTLE_DOWN#0",
+   "speaker": null,
+   "en": "...Aw, me just make joke. Don't be mad.[n]We just talk about something else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SHOT_1#0",
+   "speaker": null,
+   "en": "What is this!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SHOT_1#1",
+   "speaker": null,
+   "en": "Me think you not intend to talk![n]If that really the case...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SHOT_2#0",
+   "speaker": null,
+   "en": "Hmm! You act really cocky!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SHOT_2#1",
+   "speaker": null,
+   "en": "...Me not tolerate this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SHOT_3#0",
+   "speaker": null,
+   "en": "*growl* Me am running away!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SHOT_4#0",
+   "speaker": null,
+   "en": "...? Me not shot? You missed?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SHOT_4#1",
+   "speaker": null,
+   "en": "M-Me give this to you, so let me go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO#0",
+   "speaker": null,
+   "en": "Me am not a Shadow that belongs here.[n]Me exist in the sea of souls of humans!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO#1",
+   "speaker": null,
+   "en": "Me am [clr 1][var 2][clr 27].[n]My power is your power...[n]Use it how you want.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_2#0",
+   "speaker": null,
+   "en": "Me am not a Shadow that belongs here.[n]Me exist in the sea of souls of humans!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_2#1",
+   "speaker": null,
+   "en": "Me am [clr 1][var 2][clr 27].[n]My power is your power...[n]Use it how you want.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_3#0",
+   "speaker": null,
+   "en": "Me am not a Shadow that belongs here.[n]Me exist in the sea of souls of humans!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_3#1",
+   "speaker": null,
+   "en": "Me am [clr 1][var 2][clr 27].[n]My power is your power...[n]Use it how you want.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_4#0",
+   "speaker": null,
+   "en": "Me am not a Shadow that belongs here.[n]Me exist in the sea of souls of humans!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_4#1",
+   "speaker": null,
+   "en": "Me am [clr 1][var 2][clr 27].[n]My power is your power...[n]Use it how you want.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_5#0",
+   "speaker": null,
+   "en": "Me am not a Shadow that belongs here.[n]Me exist in the sea of souls of humans!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_5#1",
+   "speaker": null,
+   "en": "Me am [clr 1][var 2][clr 27].[n]My power is your power...[n]Use it how you want.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_6#0",
+   "speaker": null,
+   "en": "Me am not a Shadow that belongs here.[n]Me exist in the sea of souls of humans!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_6#1",
+   "speaker": null,
+   "en": "Me am [clr 1][var 2][clr 27].[n]My power is your power...[n]Use it how you want.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_7#0",
+   "speaker": null,
+   "en": "Me am not a Shadow that belongs here.[n]Me exist in the sea of souls of humans!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_7#1",
+   "speaker": null,
+   "en": "Me am [clr 1][var 2][clr 27].[n]My power is your power...[n]Use it how you want.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_8#0",
+   "speaker": null,
+   "en": "Me am not a Shadow that belongs here.[n]Me exist in the sea of souls of humans!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_8#1",
+   "speaker": null,
+   "en": "Me am [clr 1][var 2][clr 27].[n]My power is your power...[n]Use it how you want.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_9#0",
+   "speaker": null,
+   "en": "Me am not a Shadow that belongs here.[n]Me exist in the sea of souls of humans!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_9#1",
+   "speaker": null,
+   "en": "Me am [clr 1][var 2][clr 27].[n]My power is your power...[n]Use it how you want.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_10#0",
+   "speaker": null,
+   "en": "Me am not a Shadow that belongs[n]here. Me exist in the sea of souls[n]of humans!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_10#1",
+   "speaker": null,
+   "en": "Me am [clr 1][var 2][clr 27].[n]My power is your power...[n]Use it how you want.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D01_01#0",
+   "speaker": null,
+   "en": "Well, me know that no matter how hard[n]you fight, King Kamoshida always win.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D01_02#0",
+   "speaker": null,
+   "en": "Hehe... Me wonder if you be so brave[n]in front of King Kamoshida.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D01_03#0",
+   "speaker": null,
+   "en": "...Me should make it clear that[n]King Kamoshida is a lot stronger[n]than you think.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D02_01#0",
+   "speaker": null,
+   "en": "Well, me know that no matter how hard[n]you fight, Lord Madarame always win.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D02_02#0",
+   "speaker": null,
+   "en": "Hehe... Me wonder if you be so brave[n]in front of Lord Madarame.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D02_03#0",
+   "speaker": null,
+   "en": "...Me should make it clear that[n]Lord Madarame is a lot stronger[n]than you think.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D03_01#0",
+   "speaker": null,
+   "en": "Well, me know that no matter how hard[n]you fight, Mr. Kaneshiro always win.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D03_02#0",
+   "speaker": null,
+   "en": "Hehe... Me wonder if you be so brave[n]in front of Mr. Kaneshiro.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D03_03#0",
+   "speaker": null,
+   "en": "...Me should make it clear that[n]Mr. Kaneshiro is a lot stronger[n]than you think.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D04_01#0",
+   "speaker": null,
+   "en": "Well, me think someone with your skill[n]will never reach Queen Futaba.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D04_02#0",
+   "speaker": null,
+   "en": "Hehe... Anyone who disturb Queen[n]Futaba's grave will be destroyed by[n]her curse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D04_03#0",
+   "speaker": null,
+   "en": "...You will pay for disturbing Queen[n]Futaba's grave!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D05_01#0",
+   "speaker": null,
+   "en": "Well, me know that no matter how hard[n]you fight, Lord Okumura always win.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D05_02#0",
+   "speaker": null,
+   "en": "Hehe... Me wonder if you be so brave[n]in front of Lord Okumura.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D05_03#0",
+   "speaker": null,
+   "en": "...Me should make it clear that[n]Lord Okumura is a lot stronger[n]than you think.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D06_01#0",
+   "speaker": null,
+   "en": "Well, me know that no matter how hard[n]you fight, Lady Niijima always win.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D06_02#0",
+   "speaker": null,
+   "en": "Hehe... Me wonder if you be so brave[n]in front of Lady Niijima.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D06_03#0",
+   "speaker": null,
+   "en": "...Me should make it clear that[n]Lady Niijima is a lot stronger[n]than you think.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D07_01#0",
+   "speaker": null,
+   "en": "Well, me know that no matter how hard[n]you fight, Master Akechi always win.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D07_02#0",
+   "speaker": null,
+   "en": "Hehe... Me wonder if you be so brave[n]in front of Master Akechi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D07_03#0",
+   "speaker": null,
+   "en": "...Me should make it clear that[n]Master Akechi is a lot stronger[n]than you think.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D08_01#0",
+   "speaker": null,
+   "en": "Well, me know that no matter how[n]hard you fight, Lord Shido always win.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D08_02#0",
+   "speaker": null,
+   "en": "Hehe... Me wonder if you be so brave[n]in front of Lord Shido.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D08_03#0",
+   "speaker": null,
+   "en": "...Me should make it clear that Lord[n]Shido is a lot stronger than you think.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D09_01#0",
+   "speaker": null,
+   "en": "Well, me know that no matter how hard[n]you fight, His Excellency always win.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D09_02#0",
+   "speaker": null,
+   "en": "Hehe... Me wonder if you be so brave[n]in front of His Excellency.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D09_03#0",
+   "speaker": null,
+   "en": "...Me should make it clear that[n]His Excellency is a lot stronger[n]than you think.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D10_01#0",
+   "speaker": null,
+   "en": "Well, me know that no matter how hard[n]you fight, the secret boss always win.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D10_02#0",
+   "speaker": null,
+   "en": "Hehe... Me wonder if you be so brave[n]in front of the secret boss.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D10_03#0",
+   "speaker": null,
+   "en": "...Me should make it clear that the secret[n]boss is a lot stronger than you think.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_11_1#0",
+   "speaker": null,
+   "en": "...What you plan to do with me?[n]Me lost because me am weak...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_11_2#0",
+   "speaker": null,
+   "en": "...Help me. Me won't tell King[n]Kamoshida.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_11_3#0",
+   "speaker": null,
+   "en": "...Wait! Don't shoot! How about[n]we trade!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_12_1#0",
+   "speaker": null,
+   "en": "...What you plan to do with me?[n]Me lost because me am weak...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_12_2#0",
+   "speaker": null,
+   "en": "...Help me. Me won't tell Lord[n]Madarame.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_12_3#0",
+   "speaker": null,
+   "en": "...Wait! Don't shoot! How about[n]we trade!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_13_1#0",
+   "speaker": null,
+   "en": "...What you plan to do with me?[n]Me lost because me am weak...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_13_2#0",
+   "speaker": null,
+   "en": "...Help me. Me won't tell Mr. Kaneshiro.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_13_3#0",
+   "speaker": null,
+   "en": "...Wait! Don't shoot! How about[n]we trade!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_14_1#0",
+   "speaker": null,
+   "en": "...What you plan to do with me?[n]Me lost because me am weak...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_14_2#0",
+   "speaker": null,
+   "en": "...Help me. Me won't tell Queen Futaba.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_14_3#0",
+   "speaker": null,
+   "en": "...Wait! Don't shoot! How about[n]we trade!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_15_1#0",
+   "speaker": null,
+   "en": "...What you plan to do with me?[n]Me lost because me am weak...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_15_2#0",
+   "speaker": null,
+   "en": "...Help me. Me won't tell Lord Okumura.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_15_3#0",
+   "speaker": null,
+   "en": "...Wait! Don't shoot! How about[n]we trade!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_16_1#0",
+   "speaker": null,
+   "en": "...What you plan to do with me?[n]Me lost because me am weak...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_16_2#0",
+   "speaker": null,
+   "en": "...Help me. Me won't tell Lady Niijima.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_16_3#0",
+   "speaker": null,
+   "en": "...Wait! Don't shoot! How about[n]we trade!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_17_1#0",
+   "speaker": null,
+   "en": "...What you plan to do with me?[n]Me lost because me am weak...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_17_2#0",
+   "speaker": null,
+   "en": "...Help me. Me won't tell Master Akechi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_17_3#0",
+   "speaker": null,
+   "en": "...Wait! Don't shoot! How about[n]we trade!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_18_1#0",
+   "speaker": null,
+   "en": "...What you plan to do with me?[n]Me lost because me am weak...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_18_2#0",
+   "speaker": null,
+   "en": "...Help me. Me won't tell Lord Shido.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_18_3#0",
+   "speaker": null,
+   "en": "...Wait! Don't shoot! How about[n]we trade!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_19_1#0",
+   "speaker": null,
+   "en": "...What you plan to do with me?[n]Me lost because me am weak...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_19_2#0",
+   "speaker": null,
+   "en": "...Help me. Me won't tell His Excellency.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_19_3#0",
+   "speaker": null,
+   "en": "...Wait! Don't shoot! How about[n]we trade!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_10_1#0",
+   "speaker": null,
+   "en": "...What you plan to do with me?[n]Me lost because me am weak...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_10_2#0",
+   "speaker": null,
+   "en": "...Help me. Me won't tell the secret boss.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_10_3#0",
+   "speaker": null,
+   "en": "...Wait! Don't shoot! How about[n]we trade!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_FQ_REACT_GOODMOO#0",
+   "speaker": null,
+   "en": "TalkMsg_FQ_REACT_GOODMOOD",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_FQ_REACT_INTERES#0",
+   "speaker": null,
+   "en": "TalkMsg_FQ_REACT_INTERESTING",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_FQ_REACT_DISPLEA#0",
+   "speaker": null,
+   "en": "TalkMsg_FQ_REACT_DISPLEASURE",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_FQ_REACT_ANGER#0",
+   "speaker": null,
+   "en": "TalkMsg_FQ_REACT_ANGER",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_FQ_REACT_BROKEDO#0",
+   "speaker": null,
+   "en": "Humans have gotten tough.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_HAVE_NO_SECRET#0",
+   "speaker": null,
+   "en": "Sorry, but me not have any info that[n]useful to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_ENEMY_REF#0",
+   "speaker": null,
+   "en": "NO...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_ENEMY_REF_2#0",
+   "speaker": null,
+   "en": "ABSOLUTELY NOT...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_ENEMY_REF_3#0",
+   "speaker": null,
+   "en": "NEGOTIATION!? I REFUSE!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_SHOOT_REACTION01#0",
+   "speaker": null,
+   "en": "N-No mercy for those who oppose...[n]Heheh... Me understand since me[n]the same too...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_SHOOT_REACTION01#1",
+   "speaker": null,
+   "en": "Hrm! Me remember now...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_SHOOT_REACTION02#0",
+   "speaker": null,
+   "en": "*howl* Keep shooting! Battles are where[n]me and you belong—",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_SHOOT_REACTION02#1",
+   "speaker": null,
+   "en": "Hrm! Me remember now...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_SHOOT_REACTION03#0",
+   "speaker": null,
+   "en": "You no like talking long time? Heheh...[n]Me too. If there we are equals, words[n]are not—",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_SHOOT_REACTION03#1",
+   "speaker": null,
+   "en": "Hrm! Me remember now...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_SHOOT_REACTION04#0",
+   "speaker": null,
+   "en": "Y-You dangerous human... Well, me not[n]can say much about you—",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_SHOOT_REACTION04#1",
+   "speaker": null,
+   "en": "Hrm! Me remember now...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_PLEAD_SKIMMING#0",
+   "speaker": null,
+   "en": "Wait! Don't you have something you[n]want say!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_PLEAD_NO_SKIMMIN#0",
+   "speaker": null,
+   "en": "Wait! Save my life!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ACCEPT_ALERT_DOW#0",
+   "speaker": null,
+   "en": "Oh, okay. Me just pretend me not see[n]anything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_NO_REQUIREMENT#0",
+   "speaker": null,
+   "en": "You not trick me! Me know you[n]not have it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_ITEM1#0",
+   "speaker": null,
+   "en": "...Me understand you a bit better. For[n]now, me hope you be happy with this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_ITEM2#0",
+   "speaker": null,
+   "en": "...Me understand you a bit better. For[n]now, me hope you be satisfied with this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_PERSON#0",
+   "speaker": null,
+   "en": "Me remember talking to you before...[n]Hrm! Me remember now...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_PERSON_2#0",
+   "speaker": null,
+   "en": "Me not sure why, but you not seem[n]like stranger to me... Hrm! Me[n]remember now...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_PAYFOR#0",
+   "speaker": null,
+   "en": "All right, me get it... Me not happy[n]about it, but me will do it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_PAYFOR_2#0",
+   "speaker": null,
+   "en": "Oh, me get it... Please, you not make[n]me do this. Not today...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_AGAIN1#0",
+   "speaker": null,
+   "en": "So... What you want to say?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_AGAIN1#1",
+   "speaker": null,
+   "en": "Me think it necessary to ask you one[n]more time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_AGAIN2#0",
+   "speaker": null,
+   "en": "So... What you want to say?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_AGAIN2#1",
+   "speaker": null,
+   "en": "Me think it necessary to ask you one[n]more time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_CARD1#0",
+   "speaker": null,
+   "en": "...Me pretty sure you understand the[n]value of this. Let me go and me go[n]ahead and give it to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_CARD2#0",
+   "speaker": null,
+   "en": "...No, me not feeling it. You be happy[n]with this for now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_COUNTE#0",
+   "speaker": null,
+   "en": "...Me forgive you for saying something[n]so foolish. But that not mean me not[n]kill you now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_COUNTE_2#0",
+   "speaker": null,
+   "en": "Me get it... That mean me need to kill[n]you right here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_ALERT1#0",
+   "speaker": null,
+   "en": "...Because you act this way, me want to[n]introduce you to very violent friend me[n]have!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_ALERT2#0",
+   "speaker": null,
+   "en": "Me not like your attitude! It make me[n]mad! You die here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_INFO1#0",
+   "speaker": null,
+   "en": "Me give you some valuable information.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_INFO2#0",
+   "speaker": null,
+   "en": "You, come closer. Me give you good[n]information.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_MONEY1#0",
+   "speaker": null,
+   "en": "...At the very least, me want you[n]to have this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_MONEY2#0",
+   "speaker": null,
+   "en": "...Me will give you this, so let me go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_8#0",
+   "speaker": null,
+   "en": "Oh, so that the path me need to[n]take... but you already know that[n]information, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_8#1",
+   "speaker": null,
+   "en": "Me just give you this[n][f 2 5 3 9999 1] instead...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_9#0",
+   "speaker": null,
+   "en": "Oh, so that the path me need to take...[n]Me grateful. Okay, me will do what you[n]asked me to do.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_10#0",
+   "speaker": null,
+   "en": "No, me won't be tricked. That not the[n]path me must take!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_11#0",
+   "speaker": null,
+   "en": "Oh, so that the path me need to take...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_11#1",
+   "speaker": null,
+   "en": "Wait, [clr 1][var 2][clr 27][n]is already your Persona. Me just[n]give [f 2 5 3 9999 1] instead...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_12#0",
+   "speaker": null,
+   "en": "Oh, so that the path me need to take...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_12#1",
+   "speaker": null,
+   "en": "Now that me look, you still weak.[n]Sorry, just have this [f 2 5 3 9999 1][n]instead.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_13#0",
+   "speaker": null,
+   "en": "Show me the path that me must take...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_HACKING#0",
+   "speaker": null,
+   "en": "Me was really touched by your words.[n]Me give you this special thing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_SKIMMING_BRAINWA#0",
+   "speaker": null,
+   "en": "Oh, you can tell this thing really[n]great, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_11#0",
+   "speaker": null,
+   "en": "Me truly in debt for you saving my life—[n]Hrm!? Me remember now...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CHARM_TECH_ITEM#0",
+   "speaker": null,
+   "en": "...You not trick me! My intuition[n]really good!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CHARM_TECH_PERSO#0",
+   "speaker": null,
+   "en": "...Gahaha! It really hard to say no[n]to female.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_BONUS_CARD#0",
+   "speaker": null,
+   "en": "Me give you this, so forgive me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_DONATION#0",
+   "speaker": null,
+   "en": "Ah... You forgive if me give money?[n]That more convenient for me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_UNTALKABLE#0",
+   "speaker": null,
+   "en": "Guh... Guhh!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_OP_00_00#0",
+   "speaker": null,
+   "en": "Me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_OP_00_01#0",
+   "speaker": null,
+   "en": "Eat you whole?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_OP_01_00#0",
+   "speaker": null,
+   "en": "Me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_OP_01_01#0",
+   "speaker": null,
+   "en": "What will happen to me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_OP_02_00#0",
+   "speaker": null,
+   "en": "Me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_OP_02_01#0",
+   "speaker": null,
+   "en": "...am strong.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_OP_03_00#0",
+   "speaker": null,
+   "en": "Me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_EN_No_00#0",
+   "speaker": null,
+   "en": "Goodbye. Me will not forget what[n]you done.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_EN_No_01#0",
+   "speaker": null,
+   "en": "...Well, goodbye. Me not regret both[n]of us letting each other live...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_EN_No_02#0",
+   "speaker": null,
+   "en": "...Goodbye. Someday, me will repay[n]my debt to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_EN_bye_00#0",
+   "speaker": null,
+   "en": "...Now we say goodbye. Goodbye,[n]fearless human.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_EN_bye_01#0",
+   "speaker": null,
+   "en": "Goodbye, greedy human. Me take leave.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_EN_bye_02#0",
+   "speaker": null,
+   "en": "Me retreat for today, but me know your[n]scent now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_GIVE_00#0",
+   "speaker": null,
+   "en": "...You, good guy. Me take it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_GIVE_01#0",
+   "speaker": null,
+   "en": "...All right, me take it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_DECLINE#0",
+   "speaker": null,
+   "en": "You, really stingy. Me feel kind of[n]let down...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_DECLINE_2#0",
+   "speaker": null,
+   "en": "...Me really wanted it. You kind of[n]a jerk.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_TAKE_00#0",
+   "speaker": null,
+   "en": "You not have to hide it. Me know you[n]really happy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_TAKE_01#0",
+   "speaker": null,
+   "en": "Me show you mercy, and you show[n]me gratitude.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_DOUBLEU#0",
+   "speaker": null,
+   "en": "Humans are all greedy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_DOUBLEU_2#0",
+   "speaker": null,
+   "en": "How dare you take advantage of me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_AGREE_0#0",
+   "speaker": null,
+   "en": "You, good human. Me happy enough[n]to smile.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_AGREE_0_2#0",
+   "speaker": null,
+   "en": "Me benefit, and you feel relief.[n]Everyone happy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_REFUSE_#0",
+   "speaker": null,
+   "en": "...Me feel disappointed. Me not happy[n]about this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_REFUSE__2#0",
+   "speaker": null,
+   "en": "...You not do it? Me feel disappointed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Reiji_00#0",
+   "speaker": "Ryuji",
+   "en": "Hey, what are you tryin' to pull?[n]Use your head, man!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Reiji_01#0",
+   "speaker": "Ryuji",
+   "en": "It seems like the Shadow reconsidered...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Morgana_00#0",
+   "speaker": "Morgana",
+   "en": "Don't move! Your very life is on the line!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Morgana_01#0",
+   "speaker": "Morgana",
+   "en": "It seems like the Shadow reconsidered...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Ann_00#0",
+   "speaker": "Ann",
+   "en": "Don't move—unless you wanna get[n]filled with lead!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Ann_01#0",
+   "speaker": "Ann",
+   "en": "It seems like the Shadow reconsidered...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Yugo_00#0",
+   "speaker": "Yusuke",
+   "en": "Resistance is futile! Consider well[n]the position you are in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Yugo_01#0",
+   "speaker": "Yusuke",
+   "en": "It seems like the Shadow reconsidered...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Makoto_00#0",
+   "speaker": "Makoto",
+   "en": "Stop resisting and work with us here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Makoto_01#0",
+   "speaker": "Makoto",
+   "en": "It seems like the Shadow reconsidered...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Haruko_00#0",
+   "speaker": "Haru",
+   "en": "Please wait! Do you understand the[n]position you find yourself in?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Haruko_01#0",
+   "speaker": "Haru",
+   "en": "It seems like the Shadow reconsidered...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Akechi_00#0",
+   "speaker": "Akechi",
+   "en": "Wait! You would be wise not to[n]attempt any sudden moves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Akechi_01#0",
+   "speaker": "Akechi",
+   "en": "It seems like the Shadow reconsidered...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Sense_Sixthsense#0",
+   "speaker": "Akechi",
+   "en": "Initiating Sixth Sense!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Sense_Sixthsense#1",
+   "speaker": "Akechi",
+   "en": "Your heightened sense has made clear[n]an option that should not be chosen!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Sense_Negotiatio#0",
+   "speaker": "Akechi",
+   "en": "Initiating Negotiation!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Sense_Negotiatio#1",
+   "speaker": "Akechi",
+   "en": "With heightened negotiation technique,[n]you now receive greater cooperation!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Sense_Gigolo_00#0",
+   "speaker": "Akechi",
+   "en": "Initiating Gigolo!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Sense_Gigolo_00#1",
+   "speaker": "Akechi",
+   "en": "Showing off your refined seduction[n]stimulates the hearts and minds[n]of female Shadows!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Sense_Performanc#0",
+   "speaker": "Akechi",
+   "en": "Initiating Performance!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Sense_Performanc#1",
+   "speaker": "Akechi",
+   "en": "Your splendid antics captivate[n]the enemy Shadow's interest!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Sense_Intelligen#0",
+   "speaker": "Akechi",
+   "en": "Initiate Intelligence!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Sense_Intelligen#1",
+   "speaker": "Akechi",
+   "en": "Your broad display of knowledge[n]wins the respect of male Shadows!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Tisei#0",
+   "speaker": null,
+   "en": "You don't have enough[n]knowledge to choose that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Iroke#0",
+   "speaker": null,
+   "en": "You don't have enough[n]charm to choose that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Ginou#0",
+   "speaker": null,
+   "en": "You don't have enough[n]proficiency to choose that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Hinsei#0",
+   "speaker": null,
+   "en": "You don't have enough[n]kindness to choose that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Yuuki#0",
+   "speaker": null,
+   "en": "You don't have enough[n]guts to choose that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel#0",
+   "speaker": null,
+   "en": "Lend me your power.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel#1",
+   "speaker": null,
+   "en": "Show me the money.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel#2",
+   "speaker": null,
+   "en": "I want an item.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel#3",
+   "speaker": null,
+   "en": "Panther, you handle this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_01#0",
+   "speaker": null,
+   "en": "[clr 2]Join my cause.[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_01#1",
+   "speaker": null,
+   "en": "Give me some money.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_01#2",
+   "speaker": null,
+   "en": "I want an item.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_01#3",
+   "speaker": null,
+   "en": "Panther, you handle this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_02#0",
+   "speaker": null,
+   "en": "Lend me your power.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_02#1",
+   "speaker": null,
+   "en": "[clr 2]Show me the money.[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_02#2",
+   "speaker": null,
+   "en": "I want an item.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_02#3",
+   "speaker": null,
+   "en": "Panther, you handle this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_03#0",
+   "speaker": null,
+   "en": "Lend me your power.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_03#1",
+   "speaker": null,
+   "en": "Give me some money.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_03#2",
+   "speaker": null,
+   "en": "[clr 2]Give me the goods.[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_03#3",
+   "speaker": null,
+   "en": "Panther, you handle this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_04#0",
+   "speaker": null,
+   "en": "Lend me your power.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_04#1",
+   "speaker": null,
+   "en": "Show me the money.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_04#2",
+   "speaker": null,
+   "en": "[clr 2]Give me the goods.[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_04#3",
+   "speaker": null,
+   "en": "Panther, you handle this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Payfor_sel#0",
+   "speaker": null,
+   "en": "I'll take it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Payfor_sel#1",
+   "speaker": null,
+   "en": "[clr 2]You can do better than that.[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Brainwash_sel#0",
+   "speaker": null,
+   "en": "Submit to me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Brainwash_sel#1",
+   "speaker": null,
+   "en": "Give me a donation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Brainwash_sel#2",
+   "speaker": null,
+   "en": "Give me something useful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Brainwash_sel#3",
+   "speaker": null,
+   "en": "Panther, you handle this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_Greet_Possesed_B#0",
+   "speaker": null,
+   "en": "All right, I suppose.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_Greet_Possesed_B#1",
+   "speaker": null,
+   "en": "I didn't ask for this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_Pre_Question#0",
+   "speaker": null,
+   "en": "All right, I suppose.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_Pre_Question#1",
+   "speaker": null,
+   "en": "There's no need for that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Talk_tech#0",
+   "speaker": null,
+   "en": "Yoshida Toranosuke[n]Impression Management! (Provisional)",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_Tech#0",
+   "speaker": null,
+   "en": "Please, help!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_Tech#1",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "CharmTech#0",
+   "speaker": "Ann",
+   "en": "Come on, hot stuff. Can't you be a little[n]more gentle with me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CharmActing#0",
+   "speaker": "Ann",
+   "en": "Wahhhh!!! How c-could you ask[n]that of us!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RareBooster#0",
+   "speaker": null,
+   "en": "Yoshida Toranosuke[n]Impression Management! (Provisional)",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CheapAct#0",
+   "speaker": "Ann",
+   "en": "Joker, this is too scary... We should get[n]out of here. Hey! Could you tell your[n]boss that we're leaving now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_cnt_interruptE#0",
+   "speaker": null,
+   "en": "A different enemy cut into the conversation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_cnt_interruptP#0",
+   "speaker": null,
+   "en": "After conversing with the target[n]once, party members can cut in to[n]speed things up (percent chance).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_cnt_refuse#0",
+   "speaker": null,
+   "en": "Target refused to converse.[n]→This happens if the result of[n]the conversation is a refusal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_cnt_anger#0",
+   "speaker": null,
+   "en": "Target is angry and counterattacks.[n]→Bad case when the result of the[n]conversation is a refusal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_cnt_unusual#0",
+   "speaker": null,
+   "en": "Unable to converse due to[n]status effects.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EOF#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "DebugMsg_ERROR#0",
+   "speaker": null,
+   "en": "(Error)[n]→A variable is set[n]to an invalid value.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DebugMsg_CHARACTER#0",
+   "speaker": null,
+   "en": "(Debug Mode)[n]Target Personality Type",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DebugSel_CHARACTER#0",
+   "speaker": null,
+   "en": "Type A",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DebugSel_CHARACTER#1",
+   "speaker": null,
+   "en": "Type B",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DebugSel_CHARACTER#2",
+   "speaker": null,
+   "en": "Type C",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DebugSel_CHARACTER#3",
+   "speaker": null,
+   "en": "Type D",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DebugSel_CHARACTER#4",
+   "speaker": null,
+   "en": "Random",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DebugMsg_CHECK_VAR#0",
+   "speaker": null,
+   "en": "[var 0].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DebugMsg_ENEMY_LV#0",
+   "speaker": null,
+   "en": "Enemy ID [var 3][n]Enemy Level [var 0][n]Protag Level [var 1][n]AI_CHK_ENIDLV_O([var 0], 1) = [var 2]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_GET_P_4#0",
+   "speaker": "Ann",
+   "en": "Then me give the me inside you[n]this experience...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_AkechiB_00#0",
+   "speaker": "Ann",
+   "en": "Huh, I wouldn't say that's a wise[n]choice... Perhaps you should give[n]this some more thought.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Kasumi_00#0",
+   "speaker": "Ann",
+   "en": "Stop! I think you would be wise not[n]to make any careless moves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Sumire_00#0",
+   "speaker": "Ann",
+   "en": "Stop! I think you would be wise not[n]to make any careless moves.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

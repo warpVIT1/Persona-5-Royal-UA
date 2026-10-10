@@ -1,0 +1,6109 @@
+{
+ "file": "EN/BATTLE/TALK/TALK_03PRIEST.BF",
+ "entries": [
+  {
+   "id": "TalkMsg_DUMMY#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CONTACT_01#0",
+   "speaker": null,
+   "en": "Hmph, such humiliation...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CONTACT_02#0",
+   "speaker": null,
+   "en": "For such a thing to happen again...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CONTACT_03#0",
+   "speaker": null,
+   "en": "Are you saying you'll succumb to such[n]barbarism again...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01#0",
+   "speaker": null,
+   "en": "...I wish to know the true meaning of[n]this behavior.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01#1",
+   "speaker": null,
+   "en": "Do you seek friendly competition with a[n]beloved neighbor? Or have you come to[n]destroy a hated foe?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_01#0",
+   "speaker": null,
+   "en": "You're a beloved neighbor.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_01#1",
+   "speaker": null,
+   "en": "You're a loathsome foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_01#2",
+   "speaker": null,
+   "en": "You sound preachy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R#0",
+   "speaker": null,
+   "en": "...That is a good attitude. Undoubtedly,[n]it will please our Father as well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R_2#0",
+   "speaker": null,
+   "en": "I see. You show no leniency even to[n]those beloved. Do not forget to be[n]strict on yourself as well...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R_3#0",
+   "speaker": null,
+   "en": "Petty words... will not quell this tide.[n]Our Father cannot be deceived.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R_4#0",
+   "speaker": null,
+   "en": "To call the exercise of excessive power[n]\"competition\"... It seems a convenient[n]phrasing, does it not?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R_5#0",
+   "speaker": null,
+   "en": "To despise me is to despise our Father.[n]I want to make that clear.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R_6#0",
+   "speaker": null,
+   "en": "One can honor even an enemy as a[n]worthy opponent... Such virtue is a gift[n]our Father gave to mankind...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R_7#0",
+   "speaker": null,
+   "en": "If so, then I can understand these[n]events. I am grateful for your reply.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R_8#0",
+   "speaker": null,
+   "en": "You see me as an opponent worthy of[n]such resolve? I shall take that as praise.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R_9#0",
+   "speaker": null,
+   "en": "Do not speak such denouncements[n]before thinking. Your attitude only[n]serves to separate you from bliss.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R_10#0",
+   "speaker": null,
+   "en": "Man's view is narrow; self-study has its[n]limits. It would please me if my words[n]prove edifying to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R_11#0",
+   "speaker": null,
+   "en": "\"The best medicine tastes bitter.\"[n]Those are the words of Man. Take[n]my words now as such medicine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R_12#0",
+   "speaker": null,
+   "en": "My word is the word of our Father.[n]I want to make that clear.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R_13#0",
+   "speaker": null,
+   "en": "Hmph, so you are continuing this[n]behavior even now? What a[n]strong-willed human.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R_14#0",
+   "speaker": null,
+   "en": "Children of the same Father have no[n]need for words... is it? A beautiful[n]expression, for a human.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R_15#0",
+   "speaker": null,
+   "en": "Human who cannot grasp my query's[n]aim, know that our Father extends His[n]benevolence, even to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_01_R_16#0",
+   "speaker": null,
+   "en": "My inquiry is the inquiry of our Father.[n]I want to make that clear.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02#0",
+   "speaker": null,
+   "en": "...You have already committed[n]a grave sin.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02#1",
+   "speaker": null,
+   "en": "Do you know what I speak of?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_02#0",
+   "speaker": null,
+   "en": "Sin...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_02#1",
+   "speaker": null,
+   "en": "Please tell me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_02#2",
+   "speaker": null,
+   "en": "I've done nothing wrong.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R#0",
+   "speaker": null,
+   "en": "Ahh, you are close to understanding. To[n]act without recognizing sin... is itself sin.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R_2#0",
+   "speaker": null,
+   "en": "Does my reprimand truly trouble you[n]so...? Good. To be human is to suffer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R_3#0",
+   "speaker": null,
+   "en": "Worship our Father. Spend your[n]remaining years humbly. That will[n]serve as atonement for this sin.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R_4#0",
+   "speaker": null,
+   "en": "...Acknowledge that you have sinned.[n]If you do not, you shall continue to sin[n]through life.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R_5#0",
+   "speaker": null,
+   "en": "To pursue an understanding of good[n]and evil is looked upon favorably. Our[n]Father will be pleased, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R_6#0",
+   "speaker": null,
+   "en": "You ask because you have divined my[n]meaning. Reflecting upon your actions[n]shows an admirable dedication.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R_7#0",
+   "speaker": null,
+   "en": "One's own sins yield one's own[n]enlightenment: this is Man. Proud[n]human... transcend your ignorance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R_8#0",
+   "speaker": null,
+   "en": "Habitual dependence is an issue in[n]and of itself. You should give it ample[n]thought on your own.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R_9#0",
+   "speaker": null,
+   "en": "Humans are born into sin. Know the[n]presence of our Father's divine blessing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R_10#0",
+   "speaker": null,
+   "en": "The youthful inability to recognize sin...[n]It seems Man still requires our Father's[n]benevolence.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R_11#0",
+   "speaker": null,
+   "en": "Foolish Man who has forgotten his[n]awareness of sin. You dare disgrace[n]the name of our Father?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R_12#0",
+   "speaker": null,
+   "en": "...Boldly stated, human. That artless[n]behavior makes a favorable impression.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R_13#0",
+   "speaker": null,
+   "en": "I take it this erratic behavior is born[n]of a nascent cognizance of sin. Such[n]self-reproach is good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R_14#0",
+   "speaker": null,
+   "en": "I had not even imagined such a[n]response. I suppose you are the[n]type of human known as \"unique.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R_15#0",
+   "speaker": null,
+   "en": "You cannot extinguish your sins with[n]gunfire. Man speaks well when he says[n]\"sin begets sin.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_02_R_16#0",
+   "speaker": null,
+   "en": "To assault me is to bear enmity toward[n]our Father. It seems you have added[n]another sin.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03#0",
+   "speaker": null,
+   "en": "There is something you must do, and it[n]is not my murder...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03#1",
+   "speaker": null,
+   "en": "It is to become aware of the gaze of[n]our Father, who watches over you[n]with loving grace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_03#0",
+   "speaker": null,
+   "en": "I don't understand.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_03#1",
+   "speaker": null,
+   "en": "I feel his gaze.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_03#2",
+   "speaker": null,
+   "en": "I prefer a harsher stare.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R#0",
+   "speaker": null,
+   "en": "Why did our Father grant you \"free will\"?[n]It seems an excessive boon, does it not?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R_2#0",
+   "speaker": null,
+   "en": "First, you must have a willingness to[n]understand. Surely you can do this,[n]as sagacious as you are.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R_3#0",
+   "speaker": null,
+   "en": "There is no need to be hasty. Our[n]Father is evenhanded in His mercy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R_4#0",
+   "speaker": null,
+   "en": "If you would go to such lengths to prove[n]a point, you should apply that same[n]obstinacy toward understanding.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R_5#0",
+   "speaker": null,
+   "en": "A good sign, for the distance between[n]you and our Father is the distance you[n]must cross to reach peace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R_6#0",
+   "speaker": null,
+   "en": "Those words... Even if it is but your[n]imagination, I look favorably upon[n]your willingness to understand.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R_7#0",
+   "speaker": null,
+   "en": "Cease your falsehoods. Those words[n]only serve to further debase you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R_8#0",
+   "speaker": null,
+   "en": "You, who commit such folly, dare speak[n]of our Father? What an inflated sense of[n]self-importance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R_9#0",
+   "speaker": null,
+   "en": "Then imagine how you might be viewed[n]if you were to murder me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R_10#0",
+   "speaker": null,
+   "en": "Rest assured, there is both warmth and[n]severity in our Father's gaze...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R_11#0",
+   "speaker": null,
+   "en": "Gentle or harsh, it is up to our Father.[n]The choice is certainly not one to be[n]made by the likes of you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R_12#0",
+   "speaker": null,
+   "en": "Austerity is a favorable trait, especially[n]when directed toward the self.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R_13#0",
+   "speaker": null,
+   "en": "...Ha. You missed. I shall propose a[n]favorable interpretation: it shows[n]your sense of self-reproach.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R_14#0",
+   "speaker": null,
+   "en": "Haha, are you wavering? Our Father is[n]watching you at all times.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R_15#0",
+   "speaker": null,
+   "en": "If you have the time to enact such dire[n]assault, use it instead to reflect upon[n]your actions.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_03_R_16#0",
+   "speaker": null,
+   "en": "All you are doing here is averting your[n]eyes from the truth.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04#0",
+   "speaker": null,
+   "en": "Even at this hour, our merciful Father[n]may grant you forgiveness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04#1",
+   "speaker": null,
+   "en": "Vow that you will use that power in the[n]name of our Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_04#0",
+   "speaker": null,
+   "en": "I'll think about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_04#1",
+   "speaker": null,
+   "en": "No need to be so dramatic.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_04#2",
+   "speaker": null,
+   "en": "I decline.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R#0",
+   "speaker": null,
+   "en": "Unable to act, despite knowing the[n]righteous path... Our Father exists to[n]guide such frailty.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R_2#0",
+   "speaker": null,
+   "en": "Let us regard favorably the mere[n]indication of comprehension. Bid[n]farewell to your abhorrent past.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R_3#0",
+   "speaker": null,
+   "en": "That power is a boon from our Father.[n]Yet, I sense pride within your words.[n]Am I mistaken?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R_4#0",
+   "speaker": null,
+   "en": "Do not equivocate... Even our Father's[n]leniency has limits.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R_5#0",
+   "speaker": null,
+   "en": "Misuse of great power degenerates[n]to mere violence. I am sure you[n]understand, sagacious as you are.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R_6#0",
+   "speaker": null,
+   "en": "I am saying this for your sake. Eternal[n]benevolence begins with love and[n]respect for our Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R_7#0",
+   "speaker": null,
+   "en": "Man, who cannot wield the power he[n]has obtained himself. I pray such pride[n]does not bring ruin.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R_8#0",
+   "speaker": null,
+   "en": "I seek not your opinion. Know that my[n]warning is that of our Father, Himself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R_9#0",
+   "speaker": null,
+   "en": "To refuse our Father's mercy... You are[n]as a serpent in the garden—the very[n]fallen one himself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R_10#0",
+   "speaker": null,
+   "en": "It seems your will has not grown along[n]with your body. May our Father show[n]mercy on pitiable Man.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R_11#0",
+   "speaker": null,
+   "en": "The power to wield our Father's gift of[n]language... Is mastery too heavy a[n]cross to bear?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R_12#0",
+   "speaker": null,
+   "en": "Doubt, deliberation... These too are trials[n]from our Father. If so, will they not bring[n]you growth?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R_13#0",
+   "speaker": null,
+   "en": "That is right. Use that power to strike[n]down the adversaries of our Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R_14#0",
+   "speaker": null,
+   "en": "I know that you have exceptional power.[n]All that remains is to aim it at the proper[n]enemy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R_15#0",
+   "speaker": null,
+   "en": "I will make this clear. Even with the[n]power you hold, you are no match[n]for our Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_04_R_16#0",
+   "speaker": null,
+   "en": "You have not obtained that power on[n]your own. Know it exists solely because[n]our Father allows it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05#0",
+   "speaker": null,
+   "en": "...To behave in such a way, there must be[n]something in this world that is troubling[n]you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05#1",
+   "speaker": null,
+   "en": "...Very well. In the place of our Father,[n]I shall listen to your complaints.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_05#0",
+   "speaker": null,
+   "en": "Why can't we end war?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_05#1",
+   "speaker": null,
+   "en": "No complaints here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_05#2",
+   "speaker": null,
+   "en": "I can't get a girlfriend.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R#0",
+   "speaker": null,
+   "en": "Rise up and extol thine enemy. These[n]acts are significant, and your growth[n]pleases our Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R_2#0",
+   "speaker": null,
+   "en": "Amid all creation, only Man wages such[n]wanton wars. Your very query forms a[n]total repudiation of Man.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R_3#0",
+   "speaker": null,
+   "en": "Impudent Man, who has forgotten our[n]Father's mercy. Your excessive power is[n]the cause of such misery.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R_4#0",
+   "speaker": null,
+   "en": "If all humanity united under the name[n]of our Father, then that strife would be[n]but a dream.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R_5#0",
+   "speaker": null,
+   "en": "Hmhm... You bear your grievances so[n]stoically. I suppose that is preferable to[n]one who only complains.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R_6#0",
+   "speaker": null,
+   "en": "Then what is it that inspires your[n]behavior? I struggle to understand.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R_7#0",
+   "speaker": null,
+   "en": "You need not struggle to contain all your[n]frustrations within. Please, speak frankly[n]and plainly with me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R_8#0",
+   "speaker": null,
+   "en": "No human is without complaints. You[n]must learn to be more honest.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R_9#0",
+   "speaker": null,
+   "en": "Humans who remember gratitude for[n]our Father are beautiful. No one can[n]ignore such appeal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R_10#0",
+   "speaker": null,
+   "en": "The more you desire, the further it[n]retreats... Selflessness brings your[n]wishes closer to fruition.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R_11#0",
+   "speaker": null,
+   "en": "You lack the appeal worthy of such an[n]endeavor. Yes, begin by admonishing[n]yourself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R_12#0",
+   "speaker": null,
+   "en": "Such servility for a child of our[n]magnificent Father... Have the[n]demons already corrupted you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R_13#0",
+   "speaker": null,
+   "en": "Do you wish to solve your problems on[n]your own? Your initiative does make a[n]favorable impression.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R_14#0",
+   "speaker": null,
+   "en": "Your troubles appear quite deeply[n]rooted. All the more reason to express[n]gratitude to our Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R_15#0",
+   "speaker": null,
+   "en": "Desperation leads but to a destructive[n]end. Recall your gratitude to our Father[n]at once.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_05_R_16#0",
+   "speaker": null,
+   "en": "...Violence toward me is violence toward[n]our Father Himself. Reflect upon these[n]words at once.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06#0",
+   "speaker": null,
+   "en": "...I am under the protection of our[n]magnificent Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06#1",
+   "speaker": null,
+   "en": "Therefore, I cannot be destroyed. Desist[n]from this pointlessness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_06#0",
+   "speaker": null,
+   "en": "What are you talking about?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_06#1",
+   "speaker": null,
+   "en": "That's absurd.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_06#2",
+   "speaker": null,
+   "en": "Then I shall desist.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R#0",
+   "speaker": null,
+   "en": "Haha, that is fine... You lent me your ear.[n]That attitude means you have already[n]forsaken conflict.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R_2#0",
+   "speaker": null,
+   "en": "Compassion exists because we keep love[n]and respect in our hearts. Our Father is[n]watching you, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R_3#0",
+   "speaker": null,
+   "en": "Enmity toward me is enmity toward our[n]Father Himself. You should be sagacious[n]enough to fear that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R_4#0",
+   "speaker": null,
+   "en": "What is important is not language[n]comprehension, but rather the[n]contemplation of our Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R_5#0",
+   "speaker": null,
+   "en": "Haha, that is good... Fearing me...[n]It serves as the impetus for you to[n]know the majesty of our Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R_6#0",
+   "speaker": null,
+   "en": "You and I both exist beneath our[n]magnificent Father. Know that this[n]struggle itself serves no purpose.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R_7#0",
+   "speaker": null,
+   "en": "That very comment underlines your[n]doubt. You achieve naught but exposing[n]your own weakness...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R_8#0",
+   "speaker": null,
+   "en": "The depth of my adoration for our[n]Father... It far surpasses the boundaries[n]of your imagination.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R_9#0",
+   "speaker": null,
+   "en": "A wise course of action. Our Father shall[n]forgive you as well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R_10#0",
+   "speaker": null,
+   "en": "Good. Let the thought of striking me[n]down pass from your mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R_11#0",
+   "speaker": null,
+   "en": "Interesting. So that was the extent of[n]your resolve.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R_12#0",
+   "speaker": null,
+   "en": "You do not decide whether or not I am[n]\"saved\"... The decision is our Father's[n]alone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R_13#0",
+   "speaker": null,
+   "en": "Haha, that is enough... I am not your[n]enemy, and more importantly, neither[n]is our Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R_14#0",
+   "speaker": null,
+   "en": "Please, I hope we can reach a verbal[n]understanding... Violence saddens our[n]Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R_15#0",
+   "speaker": null,
+   "en": "...I dare say that you intended to miss,[n]but this too is the work of our Father's[n]divine assistance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_06_R_16#0",
+   "speaker": null,
+   "en": "Venturing to succeed in your pointless[n]crusade... Such folly casts a pall upon[n]our Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07#0",
+   "speaker": null,
+   "en": "...I fear you may have gone astray. Our[n]Father prays you return to the righteous[n]path.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07#1",
+   "speaker": null,
+   "en": "Let me hear you utter words of[n]repentance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_07#0",
+   "speaker": null,
+   "en": "Sorry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_07#1",
+   "speaker": null,
+   "en": "\"Words of repentance.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_07#2",
+   "speaker": null,
+   "en": "Not sorry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R#0",
+   "speaker": null,
+   "en": "Such splendid obedience. Surely, this[n]will please our Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R_2#0",
+   "speaker": null,
+   "en": "If that was your true mind, you would[n]say so without prompting. Give thanks[n]to our Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R_3#0",
+   "speaker": null,
+   "en": "Now, recognize your wretchedness, for[n]in truth you have saddened our Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R_4#0",
+   "speaker": null,
+   "en": "Apologetic words, they profess an[n]acquiescence to punishment. I saw[n]this acceptance within you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R_5#0",
+   "speaker": null,
+   "en": "To commit such mischief with the[n]language our Father provided! The[n]expression itself is unique.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R_6#0",
+   "speaker": null,
+   "en": "That is not what I meant...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R_7#0",
+   "speaker": null,
+   "en": "Our Father sees through shallow[n]words and equivocation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R_8#0",
+   "speaker": null,
+   "en": "You seem to express penitence, yet[n]you show no remorse. Your words are[n]the epitome of human foolishness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R_9#0",
+   "speaker": null,
+   "en": "I speak for our Father Himself, yet[n]you have the temerity to respond[n]with those childish words?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R_10#0",
+   "speaker": null,
+   "en": "Haha, you are like an infant who just[n]learned speech. But human life itself[n]is a mere blink of an eye to me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R_11#0",
+   "speaker": null,
+   "en": "You have been granted permission[n]to apologize—not to choose.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R_12#0",
+   "speaker": null,
+   "en": "Our Father is kind and tolerant;[n]there is value in a human like you[n]rehabilitating.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R_13#0",
+   "speaker": null,
+   "en": "That gunfire... it is your cry for help.[n]Repent and events like these will not[n]occur a second time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R_14#0",
+   "speaker": null,
+   "en": "Doubt is fleeting, but the reality of sin is[n]eternal. I do not want you amassing such[n]transgressions.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R_15#0",
+   "speaker": null,
+   "en": "I take it that you have no intention of[n]apologizing. Does it not pain you to[n]sadden our Father so?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_07_R_16#0",
+   "speaker": null,
+   "en": "You prefer to let your gun do the talking,[n]do you? How quintessentially human,[n]that vulgar manner of speech.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08#0",
+   "speaker": null,
+   "en": "Know that your actions are at once your[n]own and those of Man.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08#1",
+   "speaker": null,
+   "en": "To view me as an enemy is to incur[n]our Father's wrath. Man's future rests[n]in your hands.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_08#0",
+   "speaker": null,
+   "en": "Leave the future to me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_08#1",
+   "speaker": null,
+   "en": "I need your guidance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_FQ_08#2",
+   "speaker": null,
+   "en": "I don't get it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R#0",
+   "speaker": null,
+   "en": "What future can be trusted to one who[n]endangers others so?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R_2#0",
+   "speaker": null,
+   "en": "Spoken with such clarity... Your resolve[n]is most convincing indeed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R_3#0",
+   "speaker": null,
+   "en": "One foolish man is capable of[n]eradicating Mankind. Can you[n]understand if I phrase it thusly?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R_4#0",
+   "speaker": null,
+   "en": "No man will follow you as you are now.[n]Do you truly have any self-awareness?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R_5#0",
+   "speaker": null,
+   "en": "Indeed, humility is the key to opening[n]the way to the future...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R_6#0",
+   "speaker": null,
+   "en": "The Creator is also the Destroyer. It is for[n]your own benefit that you understand[n]our Father's glory.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R_7#0",
+   "speaker": null,
+   "en": "In that case, you must first repent for[n]your past behavior...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R_8#0",
+   "speaker": null,
+   "en": "Do not mistake dependence for any[n]absolution. You must take responsibility[n]for your own actions.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R_9#0",
+   "speaker": null,
+   "en": "First, prepare in yourself a place[n]conducive to understanding. You[n]have not yet reached this place.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R_10#0",
+   "speaker": null,
+   "en": "You have my word; this is no attempt at[n]deception. Treat it as a lesson of the path[n]of mankind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R_11#0",
+   "speaker": null,
+   "en": "Join hands with me in worship of our[n]Father... That is all that is being asked[n]of you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R_12#0",
+   "speaker": null,
+   "en": "You lack understanding because you[n]lack capability. First, realize your own[n]powerlessness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R_13#0",
+   "speaker": null,
+   "en": "Your actions now will bear the burden of[n]Man's future. Live each day in earnest[n]contemplation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R_14#0",
+   "speaker": null,
+   "en": "...Continue to hold the name of our[n]Father in your heart, and you can bid[n]farewell to useless agony.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R_15#0",
+   "speaker": null,
+   "en": "If our Father brings down His hammer[n]of judgment, you will suffer the wrath[n]of all Mankind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_FQ_08_R_16#0",
+   "speaker": null,
+   "en": "You are not worthy of our Father's[n]love; you are completely irredeemable,[n]child of Man.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01#0",
+   "speaker": null,
+   "en": "...Now, allow me to ask this plainly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01#1",
+   "speaker": null,
+   "en": "Can you sacrifice yourself in order to[n]demonstrate your veneration of our[n]Father?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_01#0",
+   "speaker": null,
+   "en": "I can certainly try.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_01#1",
+   "speaker": null,
+   "en": "No can do.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_01#2",
+   "speaker": null,
+   "en": "What's veneration?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R#0",
+   "speaker": null,
+   "en": "Pray that attitude continues on eternally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R_2#0",
+   "speaker": null,
+   "en": "Whether it is possible or not, your[n]attitude makes a favorable impression.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R_3#0",
+   "speaker": null,
+   "en": "Such flippancy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R_4#0",
+   "speaker": null,
+   "en": "Such glib words are clearly false!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R_5#0",
+   "speaker": null,
+   "en": "...Our Father anticipates you shall have[n]a change of heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R_6#0",
+   "speaker": null,
+   "en": "If that is true, I know not the words for[n]conversing with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R_7#0",
+   "speaker": null,
+   "en": "Even our magnanimous Father shall not[n]forgive those words.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R_8#0",
+   "speaker": null,
+   "en": "If you feel the grandeur of our Father,[n]surely you too shall be saved...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R_9#0",
+   "speaker": null,
+   "en": "You... must be tired.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R_10#0",
+   "speaker": null,
+   "en": "It appears you require... guidance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R_11#0",
+   "speaker": null,
+   "en": "...I shall survive to spread the teachings[n]of our Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R_12#0",
+   "speaker": null,
+   "en": "It is difficult to believe that you are[n]human...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R_13#0",
+   "speaker": null,
+   "en": "Leading lost lambs is also my role.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R_14#0",
+   "speaker": null,
+   "en": "...A notice from our Father has been[n]handed down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R_15#0",
+   "speaker": null,
+   "en": "This idiocy is your doing...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_01_R_16#0",
+   "speaker": null,
+   "en": "...A notice from our Father has been[n]handed down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02#0",
+   "speaker": null,
+   "en": "...Both your world and this world,[n]everything is the creation of our[n]omnipotent Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02#1",
+   "speaker": null,
+   "en": "You, who reside in that world of the[n]almighty, what is it that has beleaguered[n]you so?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_02#0",
+   "speaker": null,
+   "en": "Omnipotent?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_02#1",
+   "speaker": null,
+   "en": "I'm not beleaguered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_02#2",
+   "speaker": null,
+   "en": "There's someone I want to save.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R#0",
+   "speaker": null,
+   "en": "Indeed. Meditating upon that is the first[n]step toward happiness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R_2#0",
+   "speaker": null,
+   "en": "...That is a good start. Such speculation[n]has great meaning.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R_3#0",
+   "speaker": null,
+   "en": "Quite so. Your serenity lies there as well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R_4#0",
+   "speaker": null,
+   "en": "If you lack understanding, then I can[n]give you a thorough lesson.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R_5#0",
+   "speaker": null,
+   "en": "...You lack the ability to relate to others,[n]don't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R_6#0",
+   "speaker": null,
+   "en": "My words are those of our Father. Know[n]that you have no choice but to accept[n]them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R_7#0",
+   "speaker": null,
+   "en": "...I know that you are bluffing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R_8#0",
+   "speaker": null,
+   "en": "...Do not pretend at such stoicness. I[n]know what you truly feel.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R_9#0",
+   "speaker": null,
+   "en": "Oh? You wish to aid those in need? An[n]admirable aim.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R_10#0",
+   "speaker": null,
+   "en": "Our Father should look favorably upon[n]your virtuous intentions.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R_11#0",
+   "speaker": null,
+   "en": "Spoken with weapons drawn and aimed,[n]such sentiments are hollow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R_12#0",
+   "speaker": null,
+   "en": "So you have seen that there is suffering[n]even in a world of the almighty?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R_13#0",
+   "speaker": null,
+   "en": "I see. You have decided to challenge[n]this trial alone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R_14#0",
+   "speaker": null,
+   "en": "You need not hasten your reply.[n]Languish over your decision.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R_15#0",
+   "speaker": null,
+   "en": "Know that such obstinacy shall keep[n]you apart from those who would offer[n]understanding.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_02_R_16#0",
+   "speaker": null,
+   "en": "Are you so beleaguered that you[n]cannot even open your mouth?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03#0",
+   "speaker": null,
+   "en": "...You, who forgot our Father's authority[n]and became a victim of the society built[n]by impudent Man...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03#1",
+   "speaker": null,
+   "en": "Think carefully. I am not the one you[n]should detest.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_03#0",
+   "speaker": null,
+   "en": "You're right...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_03#1",
+   "speaker": null,
+   "en": "That's absurd.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_03#2",
+   "speaker": null,
+   "en": "I'll be the judge of that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R#0",
+   "speaker": null,
+   "en": "Very good. I am grateful for your[n]wisdom.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R_2#0",
+   "speaker": null,
+   "en": "To err is human...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R_3#0",
+   "speaker": null,
+   "en": "The reason I appear before you is to[n]guide the way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R_4#0",
+   "speaker": null,
+   "en": "Ha. Could that mean you simply need a[n]little push?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R_5#0",
+   "speaker": null,
+   "en": "Will you never discard your enmity[n]toward me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R_6#0",
+   "speaker": null,
+   "en": "You still do not understand the state of[n]this world.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R_7#0",
+   "speaker": null,
+   "en": "It appears as though my words have not[n]reached you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R_8#0",
+   "speaker": null,
+   "en": "Do you intentionally increase the number[n]of your enemies as a self-imposed[n]trial?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R_9#0",
+   "speaker": null,
+   "en": "Then, I shall entrust this matter to your[n]good discretion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R_10#0",
+   "speaker": null,
+   "en": "I feel the power granted by our Father.[n]The power of free will.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R_11#0",
+   "speaker": null,
+   "en": "Not everything goes the way you expect...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R_12#0",
+   "speaker": null,
+   "en": "My fate rests in your hands...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R_13#0",
+   "speaker": null,
+   "en": "You must be... enjoying this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R_14#0",
+   "speaker": null,
+   "en": "For you, all that you see is your enemy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R_15#0",
+   "speaker": null,
+   "en": "I shall say this once more: ponder this[n]well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_03_R_16#0",
+   "speaker": null,
+   "en": "Though your behavior differs, it seems[n]you are little but an impudent human[n]yourself...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04#0",
+   "speaker": null,
+   "en": "...Yes, I shall be martyred here, and the[n]greatness of our Father will be spoken of[n]for all time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04#1",
+   "speaker": null,
+   "en": "I fear neither death, nor you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_04#0",
+   "speaker": null,
+   "en": "In your situation?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_04#1",
+   "speaker": null,
+   "en": "You're tough.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_04#2",
+   "speaker": null,
+   "en": "Don't push yourself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R#0",
+   "speaker": null,
+   "en": "It is because my beliefs are firmly held...[n]Is that difficult for you in your youth?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R_2#0",
+   "speaker": null,
+   "en": "Cast your eyes elsewhere, look beyond[n]yourself... That alone should suffice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R_3#0",
+   "speaker": null,
+   "en": "Our Father is with me... That is enough.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R_4#0",
+   "speaker": null,
+   "en": "That... is the greatness of our Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R_5#0",
+   "speaker": null,
+   "en": "Yes. Such is the power of faith.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R_6#0",
+   "speaker": null,
+   "en": "Your threats fall far short of reaching[n]our Father...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R_7#0",
+   "speaker": null,
+   "en": "I have more to fear in losing our Father's[n]grace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R_8#0",
+   "speaker": null,
+   "en": "This is but a trifle compared to the[n]greatness of our Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R_9#0",
+   "speaker": null,
+   "en": "...To bear the unbearable is surely the[n]way of all life.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R_10#0",
+   "speaker": null,
+   "en": "Surely under the circumstances, such[n]concern is empty indeed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R_11#0",
+   "speaker": null,
+   "en": "Can you not even discern whether my[n]words are true?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R_12#0",
+   "speaker": null,
+   "en": "...You have a worthless eye for[n]observation, do you not?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R_13#0",
+   "speaker": null,
+   "en": "Are you testing whether or not my[n]words are sincere?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R_14#0",
+   "speaker": null,
+   "en": "...I respect you for fighting bravely.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R_15#0",
+   "speaker": null,
+   "en": "I do not wish to burden you with feelings[n]of guilt over my murder.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_04_R_16#0",
+   "speaker": null,
+   "en": "You are quite childish. A sore loser, I[n]must say.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05#0",
+   "speaker": null,
+   "en": "...Allow me to speak to you as if you[n]were a mature adult.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05#1",
+   "speaker": null,
+   "en": "Out of respect for our Father, let us take[n]a moment's respite...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_05#0",
+   "speaker": null,
+   "en": "If that's what you want.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_05#1",
+   "speaker": null,
+   "en": "What are you telling me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_05#2",
+   "speaker": null,
+   "en": "I'm a minor.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R#0",
+   "speaker": null,
+   "en": "My... how considerate of you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R_2#0",
+   "speaker": null,
+   "en": "A mature negotiation... You are only[n]pretending to understand, are you not?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R_3#0",
+   "speaker": null,
+   "en": "...You are looking for something in[n]return, I suppose?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R_4#0",
+   "speaker": null,
+   "en": "Very considerate of you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R_5#0",
+   "speaker": null,
+   "en": "I did not expect such obtuseness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R_6#0",
+   "speaker": null,
+   "en": "That aspect of your personality is why I[n]think of you as a child.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R_7#0",
+   "speaker": null,
+   "en": "...I do not wish to sadden our Father with[n]this needless quarrel.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R_8#0",
+   "speaker": null,
+   "en": "You cannot make your way through[n]society with such obtuseness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R_9#0",
+   "speaker": null,
+   "en": "You think too little of yourself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R_10#0",
+   "speaker": null,
+   "en": "To realize one's own immaturity... It[n]makes a favorable impression.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R_11#0",
+   "speaker": null,
+   "en": "Do you merely... pretend at maturity?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R_12#0",
+   "speaker": null,
+   "en": "Haha... if so, then I can seize this[n]opportunity...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R_13#0",
+   "speaker": null,
+   "en": "Do you intend to conclude an urgent task?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R_14#0",
+   "speaker": null,
+   "en": "This violence is a pathetic tantrum,[n]nothing more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R_15#0",
+   "speaker": null,
+   "en": "...Our Father grieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_05_R_16#0",
+   "speaker": null,
+   "en": "How can you remain unperturbed, even[n]when faced with the name of our Father...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06#0",
+   "speaker": null,
+   "en": "...You have wounded me, an envoy of[n]our Father. It is inevitable that calamity[n]shall befall you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06#1",
+   "speaker": null,
+   "en": "...The least I can do is extend this small[n]mercy. Name a calamity that you can bear.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_06#0",
+   "speaker": null,
+   "en": "Make it crowded where I shop.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_06#1",
+   "speaker": null,
+   "en": "Give me violence.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_06#2",
+   "speaker": null,
+   "en": "No calamities, please.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R#0",
+   "speaker": null,
+   "en": "...Such a secular calamity.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R_2#0",
+   "speaker": null,
+   "en": "Hmm... So you desire to abstain from[n]material possessions, do you? That[n]makes a favorable impression.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R_3#0",
+   "speaker": null,
+   "en": "I cannot imagine such a glib reply is[n]sincere.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R_4#0",
+   "speaker": null,
+   "en": "I suppose that is technically calamitous,[n]but... oh, never mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R_5#0",
+   "speaker": null,
+   "en": "Perhaps you favor it, but I cannot bear[n]such violence from you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R_6#0",
+   "speaker": null,
+   "en": "You speak as though you have grown[n]inured to suffering violence...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R_7#0",
+   "speaker": null,
+   "en": "If that's all you desire, I can oblige you[n]personally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R_8#0",
+   "speaker": null,
+   "en": "Believe in our Father, and you shall[n]find the strength to bear such calamity.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R_9#0",
+   "speaker": null,
+   "en": "Even innocent sin must be eternally[n]punished.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R_10#0",
+   "speaker": null,
+   "en": "Stating one's intention differs from[n]simple selfishness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R_11#0",
+   "speaker": null,
+   "en": "As far as I'm concerned, meeting you[n]was my own calamity...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R_12#0",
+   "speaker": null,
+   "en": "Do not be unreasonable.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R_13#0",
+   "speaker": null,
+   "en": "My words cannot be silenced by the[n]likes of gunfire.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R_14#0",
+   "speaker": null,
+   "en": "...I see your impatience quite clearly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R_15#0",
+   "speaker": null,
+   "en": "Do you panic when reality is difficult to[n]bear...? Pathetic, isn't it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_06_R_16#0",
+   "speaker": null,
+   "en": "Would you prefer a more practical choice[n]than that of calamities?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07#0",
+   "speaker": null,
+   "en": "...By the way, it seems like there is some[n]misunderstanding here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07#1",
+   "speaker": null,
+   "en": "That power, it originates from our Father.[n]Thus, is it not reasonable to repay him for[n]the favor?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_07#0",
+   "speaker": null,
+   "en": "I never considered it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_07#1",
+   "speaker": null,
+   "en": "This power is all mine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_07#2",
+   "speaker": null,
+   "en": "I don't know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R#0",
+   "speaker": null,
+   "en": "...Bid farewell to all that you were.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R_2#0",
+   "speaker": null,
+   "en": "From this day forward, your[n]consciousness shall be altered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R_3#0",
+   "speaker": null,
+   "en": "What an impudent human... That is[n]enough.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R_4#0",
+   "speaker": null,
+   "en": "How dare you assert your claim to that[n]power without even knowing the source[n]yourself?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R_5#0",
+   "speaker": null,
+   "en": "...Insolent Man, how easily you fall[n]from grace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R_6#0",
+   "speaker": null,
+   "en": "Even though the very power you use to[n]\"earn\" anything is itself a gift from our[n]Father?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R_7#0",
+   "speaker": null,
+   "en": "It seems as though you have grown[n]inebriated on the wine of narcissism.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R_8#0",
+   "speaker": null,
+   "en": "Such arrogance... Is this the true[n]measure of human nature?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R_9#0",
+   "speaker": null,
+   "en": "Undoubtedly, that is because our Father[n]is so close that he cannot be seen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R_10#0",
+   "speaker": null,
+   "en": "Could that be because the power of we[n]envoys is not equal to the task...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R_11#0",
+   "speaker": null,
+   "en": "Though you may not understand now,[n]the day will come when you do.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R_12#0",
+   "speaker": null,
+   "en": "My charity is the benevolence of our[n]Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R_13#0",
+   "speaker": null,
+   "en": "I see. So, such cunning artifice is the[n]product of your \"civilization\"...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R_14#0",
+   "speaker": null,
+   "en": "You, who refuse to travel on the path of[n]humanity, can be considered nothing but[n]a fool.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R_15#0",
+   "speaker": null,
+   "en": "Is this erratic behavior the result of your[n]ignorance in the ways of expressing[n]gratitude?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_07_R_16#0",
+   "speaker": null,
+   "en": "I am not making an unreasonable[n]demand.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08#0",
+   "speaker": null,
+   "en": "...By the way, do you know the origin of[n]life? Both you and I were created by our[n]Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08#1",
+   "speaker": null,
+   "en": "That is to say, we are brothers. There is[n]no reason for us to fight.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_08#0",
+   "speaker": null,
+   "en": "Leave my parents out of this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_08#1",
+   "speaker": null,
+   "en": "You may be right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_08#2",
+   "speaker": null,
+   "en": "But you're a Shadow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R#0",
+   "speaker": null,
+   "en": "You have no parents, save our Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R_2#0",
+   "speaker": null,
+   "en": "Can you confidently bear witness to that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R_3#0",
+   "speaker": null,
+   "en": "Blood as family is an idea inculcated[n]upon the formation of \"society.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R_4#0",
+   "speaker": null,
+   "en": "With time, even you may come to[n]understand.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R_5#0",
+   "speaker": null,
+   "en": "There is no doubt we are brothers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R_6#0",
+   "speaker": null,
+   "en": "At long last, it seems this animosity will[n]dissipate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R_7#0",
+   "speaker": null,
+   "en": "I shall state this plainly... Though[n]brethren, we are not equal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R_8#0",
+   "speaker": null,
+   "en": "Essentially, our Father and His children[n]are one and the same...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R_9#0",
+   "speaker": null,
+   "en": "Basing conflicts on appearances or[n]bloodlines... That is a dangerous[n]ideology, would you not agree?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R_10#0",
+   "speaker": null,
+   "en": "You say that, yet we see common[n]values that connect us both.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R_11#0",
+   "speaker": null,
+   "en": "That, too, is a trial imposed by our[n]Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R_12#0",
+   "speaker": null,
+   "en": "That is nothing more than your attempt[n]to justify your vicious acts of violence.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R_13#0",
+   "speaker": null,
+   "en": "To think that despite our fraternity, we[n]have not the words with which to[n]converse...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R_14#0",
+   "speaker": null,
+   "en": "As long as there is a heart that beats within[n]your chest... then we are brothers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R_15#0",
+   "speaker": null,
+   "en": "I shall ask our Father... Is it truly[n]forgiveness that I should grant to[n]my brother here before me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_08_R_16#0",
+   "speaker": null,
+   "en": "I suppose you are perplexed, are you[n]not? If you cease this battle now, our[n]Father shall forgive you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09#0",
+   "speaker": null,
+   "en": "I see now... and so I understand all that[n]was done. Is this but a test?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09#1",
+   "speaker": null,
+   "en": "You have appeared to test my adoration[n]of our Father. Yes, you are... the Tempter!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_09#0",
+   "speaker": null,
+   "en": "You got me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_09#1",
+   "speaker": null,
+   "en": "You're mistaken.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_09#2",
+   "speaker": null,
+   "en": "Are you okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R#0",
+   "speaker": null,
+   "en": "If you are truly that fiendish Tempter,[n]then I have no chance of victory.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R_2#0",
+   "speaker": null,
+   "en": "The Tempter... The Great Adversary.[n]I have no chance of victory.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R_3#0",
+   "speaker": null,
+   "en": "Do you despise me because I am an[n]envoy of our Father?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R_4#0",
+   "speaker": null,
+   "en": "...I yield to your temptation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R_5#0",
+   "speaker": null,
+   "en": "Beguilers rarely speak the truth.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R_6#0",
+   "speaker": null,
+   "en": "If that is the case, then how do you[n]account for my trembling?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R_7#0",
+   "speaker": null,
+   "en": "You are not the Tempter...? Then I may[n]prove victorious after all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R_8#0",
+   "speaker": null,
+   "en": "An insidious intent with no sense of[n]self-awareness... I would expect no[n]less from the Tempter.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R_9#0",
+   "speaker": null,
+   "en": "There is no need for worry. For I am under[n]the divine protection of our Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R_10#0",
+   "speaker": null,
+   "en": "How vexing... To think that the Tempter[n]has shown me pity...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R_11#0",
+   "speaker": null,
+   "en": "That depends on your approach...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R_12#0",
+   "speaker": null,
+   "en": "Our Father would never... forsake me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R_13#0",
+   "speaker": null,
+   "en": "...I shall not abandon my adoration for[n]our Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R_14#0",
+   "speaker": null,
+   "en": "Wait! If you are the Tempter...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R_15#0",
+   "speaker": null,
+   "en": "You forget yourself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_09_R_16#0",
+   "speaker": null,
+   "en": "Though flesh may perish, the soul lives[n]on... Do you not know this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10#0",
+   "speaker": null,
+   "en": "By the way, you are already in possession[n]of our Father's divine blessing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10#1",
+   "speaker": null,
+   "en": "What do you hope to accomplish by[n]injuring me further...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_10#0",
+   "speaker": null,
+   "en": "More sleep.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_10#1",
+   "speaker": null,
+   "en": "Treasure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_10#2",
+   "speaker": null,
+   "en": "Once I start, I can't stop.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R#0",
+   "speaker": null,
+   "en": "You would sacrifice me to indulge your[n]indolence...? How despicable.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R_2#0",
+   "speaker": null,
+   "en": "I see. Then, do you intend to send me[n]to my eternal slumber?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R_3#0",
+   "speaker": null,
+   "en": "A choice of words that shouldn't be used[n]in the middle of battle...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R_4#0",
+   "speaker": null,
+   "en": "Then, that attitude is likely to prove a[n]hindrance to any peaceful rest.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R_5#0",
+   "speaker": null,
+   "en": "What you suffer from seems to be[n]more than material desire...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R_6#0",
+   "speaker": null,
+   "en": "That is even more unforgivable!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R_7#0",
+   "speaker": null,
+   "en": "I cannot forgive a thief blinded by his[n]own avarice!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R_8#0",
+   "speaker": null,
+   "en": "You believe such petty baubles are worth[n]risking your life?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R_9#0",
+   "speaker": null,
+   "en": "Does that mean you will wound me[n]endlessly?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R_10#0",
+   "speaker": null,
+   "en": "Then do not start.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R_11#0",
+   "speaker": null,
+   "en": "It is that very foolishness that makes Man[n]so endearing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R_12#0",
+   "speaker": null,
+   "en": "So, you will expose your own[n]foolishness to me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R_13#0",
+   "speaker": null,
+   "en": "You cannot even discover what it is you[n]hope to accomplish... That is pathetic,[n]is it not?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R_14#0",
+   "speaker": null,
+   "en": "Human, possessed by avarice, behold[n]my resolve.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R_15#0",
+   "speaker": null,
+   "en": "...Continue along this path and you will[n]forfeit even the divine blessing of our[n]Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_10_R_16#0",
+   "speaker": null,
+   "en": "You cannot progress while aware of your[n]own foolishness, pathetic child of Man...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11#0",
+   "speaker": null,
+   "en": "...Think carefully. I am here because of[n]your desire for salvation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11#1",
+   "speaker": null,
+   "en": "For you to force me to prostrate myself,[n]as one who only seeks your well-being...[n]Is there anything more irrational?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_11#0",
+   "speaker": null,
+   "en": "My apologies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_11#1",
+   "speaker": null,
+   "en": "I don't want salvation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_11#2",
+   "speaker": null,
+   "en": "Shut up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R#0",
+   "speaker": null,
+   "en": "If you seek salvation, I can give you[n]the succor you desire.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R_2#0",
+   "speaker": null,
+   "en": "I wish to convey the sincerity of my[n]words.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R_3#0",
+   "speaker": null,
+   "en": "It seems you have enough of a heart to[n]confess your sins, at least.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R_4#0",
+   "speaker": null,
+   "en": "I will not hear superficial words of regret.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R_5#0",
+   "speaker": null,
+   "en": "If you have the time to open your[n]mouth, then use that time to improve[n]this situation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R_6#0",
+   "speaker": null,
+   "en": "Then how do you explain my presence[n]here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R_7#0",
+   "speaker": null,
+   "en": "That is an excuse to justify your[n]unreasonable actions.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R_8#0",
+   "speaker": null,
+   "en": "I want to remove all obstacles to your[n]obedience.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R_9#0",
+   "speaker": null,
+   "en": "Do you intend to conceal your wanton[n]acts?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R_10#0",
+   "speaker": null,
+   "en": "Crushing an inconvenience... That, too,[n]is irrational.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R_11#0",
+   "speaker": null,
+   "en": "Very well. I shall pray for you in silence.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R_12#0",
+   "speaker": null,
+   "en": "I cannot say that is a good plan. You[n]have nothing to gain from my silence.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R_13#0",
+   "speaker": null,
+   "en": "Even if you are aware of your mistake, you[n]are still too craven to acknowledge it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R_14#0",
+   "speaker": null,
+   "en": "One wonders how many other truths[n]could have been buried in the same[n]fashion, in your world...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R_15#0",
+   "speaker": null,
+   "en": "To yield before wantonness, is this[n]another trial from our Father...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_11_R_16#0",
+   "speaker": null,
+   "en": "Know that piling up irrational acts leads[n]either to isolation or destruction.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12#0",
+   "speaker": null,
+   "en": "...I want to make something clear, so[n]I will venture to pose this question.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12#1",
+   "speaker": null,
+   "en": "Do you... think me a charlatan?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_12#0",
+   "speaker": null,
+   "en": "I don't think that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_12#1",
+   "speaker": null,
+   "en": "I think of you as a foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_12#2",
+   "speaker": null,
+   "en": "You're not one?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R#0",
+   "speaker": null,
+   "en": "That is correct. I am guiding you to your[n]path of happiness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R_2#0",
+   "speaker": null,
+   "en": "From the way you have treated me,[n]I am not sure I should believe you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R_3#0",
+   "speaker": null,
+   "en": "If that is true, for what reason have[n]I received this grave injury?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R_4#0",
+   "speaker": null,
+   "en": "I sense a hidden agenda behind your[n]words... but I will let that go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R_5#0",
+   "speaker": null,
+   "en": "Reconsider that. I am neither a charlatan[n]nor am I your enemy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R_6#0",
+   "speaker": null,
+   "en": "That is a grave misunderstanding.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R_7#0",
+   "speaker": null,
+   "en": "I know. You did not have to put that[n]into words.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R_8#0",
+   "speaker": null,
+   "en": "Is that to say that depending on[n]negotiations, there may be room[n]for a reconciliation?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R_9#0",
+   "speaker": null,
+   "en": "Such callousness. Are you trying to[n]provoke me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R_10#0",
+   "speaker": null,
+   "en": "Clearly a terrible misunderstanding has[n]been made, and must be rectified.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R_11#0",
+   "speaker": null,
+   "en": "You do realize that I am an envoy of[n]our Father?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R_12#0",
+   "speaker": null,
+   "en": "It seems you lack the perspicacity to[n]properly grasp the situation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R_13#0",
+   "speaker": null,
+   "en": "I shall take that as you encouraging[n]me not to \"sell myself short.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R_14#0",
+   "speaker": null,
+   "en": "If I really think about it, I care not about[n]your impression.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R_15#0",
+   "speaker": null,
+   "en": "...You need not be afraid; I am not what[n]you think.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_12_R_16#0",
+   "speaker": null,
+   "en": "The deterioration of Man's ability to[n]converse... it seems this has become[n]a serious problem.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13#0",
+   "speaker": null,
+   "en": "...Ah, you plunge forward toward your[n]own desires, with no regard for others,[n]or even our Father?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13#1",
+   "speaker": null,
+   "en": "It seems the Sons of Man have[n]denounced the word of our Father.[n]Tell me, what worth have you found?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_13#0",
+   "speaker": null,
+   "en": "We have love.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_13#1",
+   "speaker": null,
+   "en": "I can survive alone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_13#2",
+   "speaker": null,
+   "en": "Find it for me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R#0",
+   "speaker": null,
+   "en": "...I have heard that Man today can love[n]humans found in paintings...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R_2#0",
+   "speaker": null,
+   "en": "Love is so often the excuse relied on to[n]veil broader pursuits...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R_3#0",
+   "speaker": null,
+   "en": "It is common to mention \"love\" when[n]one wishes to hide something...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R_4#0",
+   "speaker": null,
+   "en": "That, too, is the providence spoken of[n]by our Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R_5#0",
+   "speaker": null,
+   "en": "I hear that there are many people who[n]go throughout life unwed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R_6#0",
+   "speaker": null,
+   "en": "Your awareness of the sanctity of[n]the individual makes a favorable[n]impression.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R_7#0",
+   "speaker": null,
+   "en": "I suppose that is a benefit of a culture[n]of communication.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R_8#0",
+   "speaker": null,
+   "en": "Your establishment as an individual...[n]Does that make you His equal?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R_9#0",
+   "speaker": null,
+   "en": "...Indeed. I had not considered that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R_10#0",
+   "speaker": null,
+   "en": "I endeavored to do so, but... I'm sorry.[n]I've found nothing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R_11#0",
+   "speaker": null,
+   "en": "That would be like finding a needle in[n]a haystack.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R_12#0",
+   "speaker": null,
+   "en": "I do not have the time to waste my efforts[n]on the behalf of Man.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R_13#0",
+   "speaker": null,
+   "en": "So, you will wield that power to show[n]your worth?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R_14#0",
+   "speaker": null,
+   "en": "I did not mean to imply Man is worthless.[n]Accept my apologies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R_15#0",
+   "speaker": null,
+   "en": "Rather, you should be appreciative that[n]I pointed out your immaturity.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_13_R_16#0",
+   "speaker": null,
+   "en": "That is precisely the fatuousness of which[n]I was speaking!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14#0",
+   "speaker": null,
+   "en": "...Now that I think about it, it was[n]peaceful here, until your arrival.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14#1",
+   "speaker": null,
+   "en": "You have thrown this place into upheaval.[n]What would you think if I did the same to[n]your world?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_14#0",
+   "speaker": null,
+   "en": "I wouldn't allow it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_14#1",
+   "speaker": null,
+   "en": "I hadn't thought of that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_14#2",
+   "speaker": null,
+   "en": "An eye for an eye.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R#0",
+   "speaker": null,
+   "en": "Exactly. It is difficult to allow such[n]violence... Then, I have your assent.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R_2#0",
+   "speaker": null,
+   "en": "Except that, unlike you, I am merciful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R_3#0",
+   "speaker": null,
+   "en": "It was unfair of me to have had[n]expected so much from a fool.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R_4#0",
+   "speaker": null,
+   "en": "If this incident can be used as a good[n]moral lesson, then I, too, am satisfied.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R_5#0",
+   "speaker": null,
+   "en": "If this incident has caused you to broaden[n]your thinking, I am satisfied.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R_6#0",
+   "speaker": null,
+   "en": "Life... is a gift you were given.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R_7#0",
+   "speaker": null,
+   "en": "Well then, moving forward, you must[n]consider these things.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R_8#0",
+   "speaker": null,
+   "en": "You are an imprudent creature by nature.[n]It was unfair of me to have had expected[n]more from you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R_9#0",
+   "speaker": null,
+   "en": "A hate-bearing act only serves to birth[n]hate anew.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R_10#0",
+   "speaker": null,
+   "en": "You must sever those sorrowful chains[n]that bind you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R_11#0",
+   "speaker": null,
+   "en": "Incorrect... Reflect upon the meaning of[n]\"turn the other cheek.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R_12#0",
+   "speaker": null,
+   "en": "That ideology is the antithesis of heroism.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R_13#0",
+   "speaker": null,
+   "en": "Ah, so your actions are based on a[n]true understanding of upheaval...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R_14#0",
+   "speaker": null,
+   "en": "I see. There is a great cause that you too[n]must achieve.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R_15#0",
+   "speaker": null,
+   "en": "Are you pretending you do not see the[n]impropriety before your very eyes?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_14_R_16#0",
+   "speaker": null,
+   "en": "You continue to sow discord even after[n]receiving that warning...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15#0",
+   "speaker": null,
+   "en": "...Once, the world you inhabit was called[n]\"Paradise.\" What is it now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15#1",
+   "speaker": null,
+   "en": "Is it not a breeding ground for impudent[n]humans? How do you view this world of[n]yours?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_15#0",
+   "speaker": null,
+   "en": "Full of corrupt adults.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_15#1",
+   "speaker": null,
+   "en": "Plenty of places to shop.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_15#2",
+   "speaker": null,
+   "en": "Looks normal to me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R#0",
+   "speaker": null,
+   "en": "And all of them the inhabitants of the[n]fallen Paradise...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R_2#0",
+   "speaker": null,
+   "en": "I can only pray that you don't end up[n]the same way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R_3#0",
+   "speaker": null,
+   "en": "Perhaps you should correct your own[n]behavior before criticizing the adults.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R_4#0",
+   "speaker": null,
+   "en": "Then let us strive for a Paradise[n]devoid of distortion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R_5#0",
+   "speaker": null,
+   "en": "That is an intriguing viewpoint... but[n]there is nothing here to discuss.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R_6#0",
+   "speaker": null,
+   "en": "That, too, is another boon from our[n]Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R_7#0",
+   "speaker": null,
+   "en": "That is surely a symptom of Man's[n]bloated avarice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R_8#0",
+   "speaker": null,
+   "en": "Your perspective... I find it to be very[n]pragmatic.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R_9#0",
+   "speaker": null,
+   "en": "So... You have adjusted to this[n]world's current situation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R_10#0",
+   "speaker": null,
+   "en": "You say our Father's world is \"normal\"...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R_11#0",
+   "speaker": null,
+   "en": "What a magnanimous human being.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R_12#0",
+   "speaker": null,
+   "en": "You dare take such a defiant attitude[n]about this world's mediocrity...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R_13#0",
+   "speaker": null,
+   "en": "How long will you continue to avert[n]your eyes?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R_14#0",
+   "speaker": null,
+   "en": "I am the only thing you are focused[n]on, am I not?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R_15#0",
+   "speaker": null,
+   "en": "Of course. How could I hope to be[n]understood by one driven from Paradise?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_15_R_16#0",
+   "speaker": null,
+   "en": "Do you want to say that you are not an[n]\"impudent human\"?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16#0",
+   "speaker": null,
+   "en": "...Hear me. I am the bearer of Man's[n]happiness, dispatched to you by our[n]Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16#1",
+   "speaker": null,
+   "en": "To destroy me is to keep this[n]happiness from Man. You are wise.[n]You understand this, do you not?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_16#0",
+   "speaker": null,
+   "en": "That would be bad.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_16#1",
+   "speaker": null,
+   "en": "What are you trying to say?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_CHAT_SQ_16#2",
+   "speaker": null,
+   "en": "I'm happy enough.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R#0",
+   "speaker": null,
+   "en": "\"Happiness\" is a principle of human[n]conduct.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R_2#0",
+   "speaker": null,
+   "en": "...It seems you have come too late to[n]this realization.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R_3#0",
+   "speaker": null,
+   "en": "Then weep for your insolence, and beg[n]for forgiveness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R_4#0",
+   "speaker": null,
+   "en": "I must tell our Father of this incident.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R_5#0",
+   "speaker": null,
+   "en": "It is a solecism to answer my question[n]with a question...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R_6#0",
+   "speaker": null,
+   "en": "I imagine considering mutual happiness[n]would render even this type of[n]exchange unnecessary.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R_7#0",
+   "speaker": null,
+   "en": "There are certainly higher means of[n]understanding than that of mere[n]language. You should know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R_8#0",
+   "speaker": null,
+   "en": "The answer to that question must be[n]found on your own.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R_9#0",
+   "speaker": null,
+   "en": "Do not forget: your joy can become[n]another's sorrow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R_10#0",
+   "speaker": null,
+   "en": "You praise the current you... A favorable[n]impression.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R_11#0",
+   "speaker": null,
+   "en": "And yet, this too, is a boon from our[n]Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R_12#0",
+   "speaker": null,
+   "en": "Such is your own delusion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R_13#0",
+   "speaker": null,
+   "en": "...With this, happiness has retreated[n]even further away.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R_14#0",
+   "speaker": null,
+   "en": "Why can you not comprehend that[n]ending such conflict is happiness?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R_15#0",
+   "speaker": null,
+   "en": "...My existence is for the purpose of[n]your happiness, as well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_CHAT_SQ_16_R_16#0",
+   "speaker": null,
+   "en": "Fool, who understands not the gracious[n]benevolence of our Father...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_SURREND#0",
+   "speaker": null,
+   "en": "(planned to be cut) Greedy child, unafraid of the divine...[n]What is it that you so desire?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_SURREND_2#0",
+   "speaker": null,
+   "en": "(planned to be cut) Are you really going to pull the trigger?[n]Reconsider your actions. What could[n]such an act accomplish?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_SURREND_3#0",
+   "speaker": null,
+   "en": "(planned to be cut) If you have any mercy, allow me[n]to ask. What can I offer you in place[n]of my life?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_SURREND_4#0",
+   "speaker": null,
+   "en": "(planned to be cut) What humiliation... What would you[n]ask for while pointing that at me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_NEGO_SURREND#0",
+   "speaker": null,
+   "en": "I want you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_NEGO_SURREND#1",
+   "speaker": null,
+   "en": "...Give me money.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_NEGO_SURREND#2",
+   "speaker": null,
+   "en": "I want a rare item.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_NEGO_SURREND#3",
+   "speaker": null,
+   "en": "I want some intel.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_NEGO_SURREND#4",
+   "speaker": null,
+   "en": "Lower the security level.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_FIFTYFI#0",
+   "speaker": null,
+   "en": "You are telling me... to tell a lie with[n]the aim of deceiving other Shadows?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_FIFTYFI#1",
+   "speaker": null,
+   "en": "The mere thought is filthy, but I may[n]entertain the idea if I happen to receive[n][var 0] yen...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_FIFTYFI_2#0",
+   "speaker": null,
+   "en": "You are telling me... to tell a lie with[n]the aim of deceiving other Shadows?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_FIFTYFI_2#1",
+   "speaker": null,
+   "en": "If that came to light, then I would be...[n]Grant me [f 2 5 3 9999 3] yen, and I will[n]risk it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_FIFTYFI_3#0",
+   "speaker": null,
+   "en": "You would have me deceive my brothers?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_FIFTYFI_3#1",
+   "speaker": null,
+   "en": "Might you grant me some of your life[n]force? Let us consider this matter further[n]after that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_FIFTYFI_4#0",
+   "speaker": null,
+   "en": "You would have me deceive my brothers?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_FIFTYFI_4#1",
+   "speaker": null,
+   "en": "Might you grant me some of your[n]energy? Let us consider this matter[n]further after that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_NEGO_FIFTYFI#0",
+   "speaker": null,
+   "en": "Fine, I'll give it to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_NEGO_FIFTYFI#1",
+   "speaker": null,
+   "en": "I can't meet your demands.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_REQUIRE#0",
+   "speaker": null,
+   "en": "What heat... The land is angered by the[n]tyranny of Man. What have I gotten[n]myself mixed up in...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_REQUIRE#1",
+   "speaker": null,
+   "en": "Very well. I shall heed your request. You[n]can provide a tithe of [f 2 5 3 9999 4],[n]correct?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_REQUIRE_2#0",
+   "speaker": null,
+   "en": "...*cough* *cough* I have been visited[n]by the pains of illness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_REQUIRE_2#1",
+   "speaker": null,
+   "en": "I know you are a night burglar, but[n]heed my request. I ask that you[n]provide me one [f 2 5 3 9999 4]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_REQUIRE_3#0",
+   "speaker": null,
+   "en": "...Father, these itchy eyes! I cannot[n]stop scratching.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_REQUIRE_3#1",
+   "speaker": null,
+   "en": "I know not who you are, but do you[n]happen to have any [f 2 5 3 9999 4]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_REQUIRE_4#0",
+   "speaker": null,
+   "en": "However, asking that I involve other[n]Shadows and lie...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_REQUIRE_4#1",
+   "speaker": null,
+   "en": "That is perilous. If exposed, I would[n]be murdered. But were I to receive[n][f 2 5 3 9999 3], I would consider it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_NEGO_REQUIRE#0",
+   "speaker": null,
+   "en": "Hand it over",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_NEGO_REQUIRE#1",
+   "speaker": null,
+   "en": "Don't hand it over",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_PAYFOR_#0",
+   "speaker": null,
+   "en": "...The mercy of our Father. In your world,[n]that is worth [var 0] yen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_PAYFOR__2#0",
+   "speaker": null,
+   "en": "Receive the charity of our Father. In your[n]world, that is worth [var 0] yen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_PAYFOR__3#0",
+   "speaker": null,
+   "en": "Everything is the boon of our Father...[n]This is [f 2 5 3 9999 1].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_PAYFOR__4#0",
+   "speaker": null,
+   "en": "May this be the impetus of your salvation...[n]Take this [f 2 5 3 9999 1].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_NEGO_PAYFOR#0",
+   "speaker": null,
+   "en": "That's enough for me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_GUY_NEGO_PAYFOR#1",
+   "speaker": null,
+   "en": "You've got more, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_Re_ACCE#0",
+   "speaker": null,
+   "en": "Is that so? I will not pressure you, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_Re_ACCE_2#0",
+   "speaker": null,
+   "en": "Hmph. It seems you are deep in sin...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_GET_P#0",
+   "speaker": null,
+   "en": "I am not a Shadow of this place...[n]I've resided within the sea of the[n]human soul since ancient times...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_GET_P#1",
+   "speaker": null,
+   "en": "My name is [clr 1][var 2][clr 27].[n]That is your name as well...[n]Do not forget this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_GET_P_2#0",
+   "speaker": null,
+   "en": "Oh, but [clr 1][var 2][clr 27][n]is already within you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_GET_P_3#0",
+   "speaker": null,
+   "en": "Ahh, but your rank is so low... For your[n]growth, I grant you this [f 2 5 3 9999 1].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_GET_M#0",
+   "speaker": null,
+   "en": "So-called \"money\" has no real value, but[n]in your world this equals [var 0] yen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_GET_I#0",
+   "speaker": null,
+   "en": "Then, I shall award you one[n][f 2 5 3 9999 1]. Do not forget[n]gratitude toward our Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_GET_S#0",
+   "speaker": null,
+   "en": "This is also news from our Father. Do not[n]disseminate it needlessly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_ENEMY#0",
+   "speaker": null,
+   "en": "Our Father advises you not to speak of[n]it to anyone, under any circumstances.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_ENEMY_2#0",
+   "speaker": null,
+   "en": "Covetous human, it seems you require[n]judgment...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_ENEMY_3#0",
+   "speaker": null,
+   "en": "Well then, the next thing I shall grant you[n]is first strike of my brother's judgment!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_ENEMY_4#0",
+   "speaker": null,
+   "en": "...Troublesome human... I shall retreat[n]for now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_ENEMY_5#0",
+   "speaker": null,
+   "en": "And with that, farewell! May the Father[n]watch over you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_ENEMY_6#0",
+   "speaker": null,
+   "en": "...O-Our... Father? I am the Father!?[n]Or... the Mother?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_ENEMY_7#0",
+   "speaker": null,
+   "en": "Don't come any closer, foul creature![n]Father! Help meee!!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_ENEMY_8#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_ENEMY_9#0",
+   "speaker": null,
+   "en": "Infuriating human! How dare you[n]attempt to converse with me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_ENEMY_9#1",
+   "speaker": null,
+   "en": "...But perhaps my anger was misplaced.[n]Speak, and I shall listen to you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_SECRE#0",
+   "speaker": null,
+   "en": "Oh, I did not realize you already knew[n]that. In that case, I shall grant you this[n]instead.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_SURRENDER_FROM_C#0",
+   "speaker": null,
+   "en": "...Constantly battling is no way to show[n]your adoration of our Father. I shall[n]retreat from here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_SUCCESS_SKIMMING#0",
+   "speaker": null,
+   "en": "Oh, are you interested in this? You are[n]an observant human, are you not?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_ENEMY_SHO#0",
+   "speaker": null,
+   "en": "Guh, gah...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_ENEMY_SLE#0",
+   "speaker": null,
+   "en": "Zzz...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_ENEMY_FLA#0",
+   "speaker": null,
+   "en": "Why is it as though I am roasting in the[n]flames of Purgatory...? Ughhh... It burns...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_ENEMY_FLA#1",
+   "speaker": null,
+   "en": "I shall bear this heat in the name of[n]our Father... Now, allow me to hear[n]what you have to say.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_ENEMY_VER#0",
+   "speaker": null,
+   "en": "Hrgh, my sight, I cannot stay focused...[n]Our Father's world is spinning...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_ENEMY_VER#1",
+   "speaker": null,
+   "en": "I shall bear this dizziness in the name of[n]our Father... Now, allow me to hear what[n]you have to say.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_ENEMY_FOR#0",
+   "speaker": null,
+   "en": "I feel as though I am forgetting[n]something...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_ENEMY_FOR#1",
+   "speaker": null,
+   "en": "...But wait, I feel like I've recalled it. Allow[n]me to hear what you have to say.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_ENEMY_DES#0",
+   "speaker": null,
+   "en": "Father, have you forsaken me...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_ENEMY_DES#1",
+   "speaker": null,
+   "en": "Very well. I shall listen to you. At the[n]very least, you seem to need me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_ENEMY_BRA#0",
+   "speaker": null,
+   "en": "Oh... Has a new savior alighted from[n]Heaven?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH#0",
+   "speaker": null,
+   "en": "You are the savior...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH#1",
+   "speaker": null,
+   "en": "...Ah! Your words have awakened me[n]to the truth...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_2#0",
+   "speaker": null,
+   "en": "Ahh... You are the savior...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_2#1",
+   "speaker": null,
+   "en": "...No, I won't be deceived, false savior!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_3#0",
+   "speaker": null,
+   "en": "Ahh... You are the savior...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_3#1",
+   "speaker": null,
+   "en": "Thank you. Please accept this offering.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_4#0",
+   "speaker": null,
+   "en": "Ahh... You are the savior...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_4#1",
+   "speaker": null,
+   "en": "...No, I won't be deceived, false savior!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_5#0",
+   "speaker": null,
+   "en": "Ahh... You are the savior... Thank you.[n]Please accept this treasure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_6#0",
+   "speaker": null,
+   "en": "Ahh... You are the savior...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_6#1",
+   "speaker": null,
+   "en": "...No, I won't be deceived, false savior!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_7#0",
+   "speaker": null,
+   "en": "Oh, so that is my ordained path... Thank[n]you. My eyes are opened. I grant you this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_11#0",
+   "speaker": null,
+   "en": "Fool! Don't you dare defy King Kamoshida[n]from your lowly station.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_12#0",
+   "speaker": null,
+   "en": "Fool! Don't you dare defy Lord Madarame[n]from your lowly station.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_13#0",
+   "speaker": null,
+   "en": "Fool! Don't you dare defy Mr. Kaneshiro[n]from your lowly station.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_14#0",
+   "speaker": null,
+   "en": "Fool! Don't you dare defy the Queen[n]from your lowly station.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_15#0",
+   "speaker": null,
+   "en": "Fool! Don't you dare defy Lord Okumura[n]from your lowly station.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_16#0",
+   "speaker": null,
+   "en": "Fool! Don't you dare defy Lady Niijima[n]from your lowly station.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_17#0",
+   "speaker": null,
+   "en": "Fool! Don't you dare defy Master Akechi[n]from your lowly station.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_18#0",
+   "speaker": null,
+   "en": "Fool! Don't you dare defy Lord Shido[n]from your lowly station.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_19#0",
+   "speaker": null,
+   "en": "Fool! Don't you dare defy His Excellency[n]from your lowly station.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_10#0",
+   "speaker": null,
+   "en": "Fool! Don't you dare defy the secret[n]boss from your lowly station.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_MEMENTOS#0",
+   "speaker": null,
+   "en": "...What are you doing!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_MEMENTOS_2#0",
+   "speaker": null,
+   "en": "It is mortifying to have come face-to-face[n]with such a ruffian...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_MEMENTOS_3#0",
+   "speaker": null,
+   "en": "Hmph, such humiliation...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GREET_POSSESSING#0",
+   "speaker": null,
+   "en": "Oh, you have the mask of [clr 1][var 2][clr 27].[n]Then you are a friend.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_NEGO_POSSESSING_#0",
+   "speaker": null,
+   "en": "It will be my pleasure to cooperate.[n]You desire the thing known as[n]\"money,\" correct?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_NEGO_POSSESSING__2#0",
+   "speaker": null,
+   "en": "I will be unsparing in my support. You[n]desire goods, correct? Take this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GREET_POSSESSED#0",
+   "speaker": null,
+   "en": "We were together once, but now, here[n]we stand on opposite shores...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_NEGO_POSSESSED#0",
+   "speaker": null,
+   "en": "I harbor no ill will. I only wish to avoid[n]needless conflict.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_NEGO_POSSESSED_M#0",
+   "speaker": null,
+   "en": "...Would money be acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_NEGO_POSSESSED_I#0",
+   "speaker": null,
+   "en": "...Are goods acceptable? Please take this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GREET_POSSESSED_#0",
+   "speaker": null,
+   "en": "Some say old friendships can be[n]renewed. How do you feel about[n]talking things over?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_TALK_POSSESSED_B#0",
+   "speaker": null,
+   "en": "Good. It seems we can still come to a[n]mutual understanding...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_NEGO_POSSESSED_B#0",
+   "speaker": null,
+   "en": "I see. Very well then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_NEGO_POSSESSED_B_2#0",
+   "speaker": null,
+   "en": "You are interested in money, I suppose...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_NEGO_POSSESSED_B_3#0",
+   "speaker": null,
+   "en": "I believe this may be what you wanted...[n]Please take it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_FIRST_CONTACT#0",
+   "speaker": null,
+   "en": "...Very well. Discussion is integral to[n]reaching a mutual understanding.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_PRE_QUESTION#0",
+   "speaker": null,
+   "en": "...I know what manner of human you[n]are, but answer me this one thing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_PRE_QUESTION_ACQ#0",
+   "speaker": null,
+   "en": "You chose... wisely.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_PRE_QUESTION_DEN#0",
+   "speaker": null,
+   "en": "You are cold, as am I... My word, I just[n]remembered something!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_TALK_TECH_ITEM#0",
+   "speaker": null,
+   "en": "...Ridiculous. Did you think you could[n]so easily deceive me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_TALK_TECH_PERSON#0",
+   "speaker": null,
+   "en": "You are as eloquent as I am... My word,[n]I just remembered something!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_SETTLE_DOWN#0",
+   "speaker": null,
+   "en": "Y-You shouldn't be causing such a[n]commotion... Which reminds me, I[n]have something to discuss with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SHOT_1#0",
+   "speaker": null,
+   "en": "Coward! You refuse to even entertain[n]my questions!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SHOT_1#1",
+   "speaker": null,
+   "en": "Very well. Allow me to respond in due[n]kind!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SHOT_2#0",
+   "speaker": null,
+   "en": "Oh! Father... I am saved. I offer my[n]sincere gratitude.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SHOT_2#1",
+   "speaker": null,
+   "en": "...You shall regret belittling us...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SHOT_3#0",
+   "speaker": null,
+   "en": "...Have you gone mad!? There is no[n]choice but to flee!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SHOT_4#0",
+   "speaker": null,
+   "en": "Aaaah...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SHOT_4#1",
+   "speaker": null,
+   "en": "He-Here! Take this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO#0",
+   "speaker": null,
+   "en": "I am not a Shadow of this place...[n]I've resided within the sea of the[n]human soul since ancient times...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO#1",
+   "speaker": null,
+   "en": "My name is [clr 1][var 2][clr 27].[n]That is your name as well...[n]Do not forget this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_2#0",
+   "speaker": null,
+   "en": "I am not a Shadow of this place...[n]I've resided within the sea of the[n]human soul since ancient times...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_2#1",
+   "speaker": null,
+   "en": "My name is [clr 1][var 2][clr 27].[n]That is your name as well...[n]Do not forget this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_3#0",
+   "speaker": null,
+   "en": "I am not a Shadow of this place...[n]I've resided within the sea of the[n]human soul since ancient times...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_3#1",
+   "speaker": null,
+   "en": "My name is [clr 1][var 2][clr 27].[n]That is your name as well...[n]Do not forget this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_4#0",
+   "speaker": null,
+   "en": "I am not a Shadow of this place...[n]I've resided within the sea of the[n]human soul since ancient times...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_4#1",
+   "speaker": null,
+   "en": "My name is [clr 1][var 2][clr 27].[n]That is your name as well...[n]Do not forget this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_5#0",
+   "speaker": null,
+   "en": "I am not a Shadow of this place...[n]I've resided within the sea of the[n]human soul since ancient times...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_5#1",
+   "speaker": null,
+   "en": "My name is [clr 1][var 2][clr 27].[n]That is your name as well...[n]Do not forget this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_6#0",
+   "speaker": null,
+   "en": "I am not a Shadow of this place...[n]I've resided within the sea of the[n]human soul since ancient times...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_6#1",
+   "speaker": null,
+   "en": "My name is [clr 1][var 2][clr 27].[n]That is your name as well...[n]Do not forget this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_7#0",
+   "speaker": null,
+   "en": "I am not a Shadow of this place...[n]I've resided within the sea of the[n]human soul since ancient times...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_7#1",
+   "speaker": null,
+   "en": "My name is [clr 1][var 2][clr 27].[n]That is your name as well...[n]Do not forget this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_8#0",
+   "speaker": null,
+   "en": "I am not a Shadow of this place...[n]I've resided within the sea of the[n]human soul since ancient times...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_8#1",
+   "speaker": null,
+   "en": "My name is [clr 1][var 2][clr 27].[n]That is your name as well...[n]Do not forget this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_9#0",
+   "speaker": null,
+   "en": "I am not a Shadow of this place...[n]I've resided within the sea of the[n]human soul since ancient times...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_9#1",
+   "speaker": null,
+   "en": "My name is [clr 1][var 2][clr 27].[n]That is your name as well...[n]Do not forget this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_10#0",
+   "speaker": null,
+   "en": "I am not a Shadow of this place...[n]I've resided within the sea of the[n]human soul since ancient times...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_10#1",
+   "speaker": null,
+   "en": "My name is [clr 1][var 2][clr 27].[n]That is your name as well...[n]Do not forget this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D01_01#0",
+   "speaker": null,
+   "en": "Prepare yourself for King Kamoshida's[n]judgment of your folly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D01_02#0",
+   "speaker": null,
+   "en": "Hah... Do you think your power will truly[n]be a match against King Kamoshida?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D01_03#0",
+   "speaker": null,
+   "en": "Allow me to warn you: King Kamoshida[n]is not as lenient as I.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D02_01#0",
+   "speaker": null,
+   "en": "Prepare yourself for Lord Madarame's[n]judgment of your folly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D02_02#0",
+   "speaker": null,
+   "en": "Hah... Do you think your power will truly[n]be a match against Lord Madarame?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D02_03#0",
+   "speaker": null,
+   "en": "Allow me to warn you: Lord Madarame[n]is not as lenient as I.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D03_01#0",
+   "speaker": null,
+   "en": "Prepare yourself for Mr. Kaneshiro's[n]judgment of your folly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D03_02#0",
+   "speaker": null,
+   "en": "Hah... Do you think your power will truly[n]be a match against Mr. Kaneshiro?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D03_03#0",
+   "speaker": null,
+   "en": "Allow me to warn you: Mr. Kaneshiro[n]is not as lenient as I.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D04_01#0",
+   "speaker": null,
+   "en": "The rugged road that leads to the Queen[n]of this regal tomb... Can you overcome it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D04_02#0",
+   "speaker": null,
+   "en": "Hmph... A villain like you could never[n]reach the Queen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D04_03#0",
+   "speaker": null,
+   "en": "...Leave the Queen be. The Queen is not[n]the kind to be trifled with by petty bandits.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D05_01#0",
+   "speaker": null,
+   "en": "Prepare yourself for Lord Okumura's[n]judgment of your folly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D05_02#0",
+   "speaker": null,
+   "en": "Hah... Do you think your power will truly[n]be a match against Lord Okumura?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D05_03#0",
+   "speaker": null,
+   "en": "Allow me to warn you: Lord Okumura[n]is not as lenient as I.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D06_01#0",
+   "speaker": null,
+   "en": "Prepare yourself for Lady Niijima's[n]judgment of your folly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D06_02#0",
+   "speaker": null,
+   "en": "Hah... Do you think your power will truly[n]be a match against Lady Niijima?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D06_03#0",
+   "speaker": null,
+   "en": "Allow me to warn you: Lady Niijima[n]is not as lenient as I.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D07_01#0",
+   "speaker": null,
+   "en": "Prepare yourself for Master Akechi's[n]judgment of your folly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D07_02#0",
+   "speaker": null,
+   "en": "Hah... Do you think your power will truly[n]be a match against Master Akechi?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D07_03#0",
+   "speaker": null,
+   "en": "Allow me to warn you: Master Akechi[n]is not as lenient as I.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D08_01#0",
+   "speaker": null,
+   "en": "Prepare yourself for Lord Shido's[n]judgment of your folly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D08_02#0",
+   "speaker": null,
+   "en": "Hah... Do you think your power will truly[n]be a match against Lord Shido?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D08_03#0",
+   "speaker": null,
+   "en": "Allow me to warn you: Lord Shido is[n]not as lenient as I.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D09_01#0",
+   "speaker": null,
+   "en": "Prepare yourself for His Excellency's[n]judgment of your folly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D09_02#0",
+   "speaker": null,
+   "en": "Hah... Do you think your power will truly[n]be a match against His Excellency?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D09_03#0",
+   "speaker": null,
+   "en": "Allow me to warn you: His Excellency[n]is not as lenient as I.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D10_01#0",
+   "speaker": null,
+   "en": "Prepare yourself for the secret boss's[n]judgment of your folly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D10_02#0",
+   "speaker": null,
+   "en": "Hah... Do you think your power will truly[n]be a match against the secret boss?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ED_bye_D10_03#0",
+   "speaker": null,
+   "en": "Allow me to warn you: the secret boss[n]is not as lenient as I.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_11_1#0",
+   "speaker": null,
+   "en": "Wait! I will inform King Kamoshida!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_11_2#0",
+   "speaker": null,
+   "en": "...Stay your hand! If you attack, you[n]will reveal yourself to King Kamoshida!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_11_3#0",
+   "speaker": null,
+   "en": "Have mercy on me! I will do anything...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_12_1#0",
+   "speaker": null,
+   "en": "Wait! I will inform Lord Madarame!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_12_2#0",
+   "speaker": null,
+   "en": "...Stay your hand! If you attack, you[n]will reveal yourself to Lord Madarame!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_12_3#0",
+   "speaker": null,
+   "en": "Have mercy on me! I will do anything...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_13_1#0",
+   "speaker": null,
+   "en": "Wait! I will inform Mr. Kaneshiro!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_13_2#0",
+   "speaker": null,
+   "en": "...Stay your hand! If you attack, you[n]will reveal yourself to Mr. Kaneshiro!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_13_3#0",
+   "speaker": null,
+   "en": "Have mercy on me! I will do anything...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_14_1#0",
+   "speaker": null,
+   "en": "Wait! I will inform the Queen!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_14_2#0",
+   "speaker": null,
+   "en": "...Stay your hand! If you attack, you[n]will reveal yourself to Queen Futaba!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_14_3#0",
+   "speaker": null,
+   "en": "Have mercy on me! I will do anything...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_15_1#0",
+   "speaker": null,
+   "en": "Wait! I will inform Lord Okumura!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_15_2#0",
+   "speaker": null,
+   "en": "...Stay your hand! If you attack, you[n]will reveal yourself to Lord Okumura!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_15_3#0",
+   "speaker": null,
+   "en": "Have mercy on me! I will do anything...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_16_1#0",
+   "speaker": null,
+   "en": "Wait! I will inform Lady Niijima!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_16_2#0",
+   "speaker": null,
+   "en": "...Stay your hand! If you attack, you[n]will reveal yourself to Lady Niijima!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_16_3#0",
+   "speaker": null,
+   "en": "Have mercy on me! I will do anything...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_17_1#0",
+   "speaker": null,
+   "en": "Wait! I will inform Master Akechi!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_17_2#0",
+   "speaker": null,
+   "en": "...Stay your hand! If you attack, you[n]will reveal yourself to Master Akechi!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_17_3#0",
+   "speaker": null,
+   "en": "Have mercy on me! I will do anything...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_18_1#0",
+   "speaker": null,
+   "en": "Wait! I will inform Lord Shido!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_18_2#0",
+   "speaker": null,
+   "en": "...Stay your hand! If you attack, you[n]will reveal yourself to Lord Shido!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_18_3#0",
+   "speaker": null,
+   "en": "Have mercy on me! I will do anything...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_19_1#0",
+   "speaker": null,
+   "en": "Wait! I will inform His Excellency!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_19_2#0",
+   "speaker": null,
+   "en": "...Stay your hand! If you attack, you[n]will reveal yourself to His Excellency!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_19_3#0",
+   "speaker": null,
+   "en": "Have mercy on me! I will do anything...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_10_1#0",
+   "speaker": null,
+   "en": "Wait! I will inform the secret boss!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_10_2#0",
+   "speaker": null,
+   "en": "...Stay your hand! If you attack, you[n]will reveal yourself to the secret boss!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CONTACT_10_3#0",
+   "speaker": null,
+   "en": "Have mercy on me! I will do anything...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_FQ_REACT_GOODMOO#0",
+   "speaker": null,
+   "en": "(planned to be cut) Hmhm... I feel better already.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_FQ_REACT_INTERES#0",
+   "speaker": null,
+   "en": "(planned to be cut) You seem to have right attitude.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_FQ_REACT_DISPLEA#0",
+   "speaker": null,
+   "en": "(planned to be cut) ... I don't feel so good anymore.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_FQ_REACT_ANGER#0",
+   "speaker": null,
+   "en": "(planned to be cut) How infuriating. You should think[n]before you speak.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_FQ_REACT_BROKEDO#0",
+   "speaker": null,
+   "en": "Very well. It would be foolish to[n]expect anymore from you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_HAVE_NO_SECRET#0",
+   "speaker": null,
+   "en": "Unfortunately... I do not happen to[n]have any information that would be[n]of use to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_ENEMY_REF#0",
+   "speaker": null,
+   "en": "I will not be bowed by threats! I need[n]only to persevere in my faith!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_ENEMY_REF_2#0",
+   "speaker": null,
+   "en": "I have nothing to say to the likes of bandits.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_ENEMY_REF_3#0",
+   "speaker": null,
+   "en": "This negotiation is just a waste of words!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_SHOOT_REACTION01#0",
+   "speaker": null,
+   "en": "U-Using the prestige of the strong... I see[n]myself within you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_SHOOT_REACTION01#1",
+   "speaker": null,
+   "en": "Ah! This time spent with you has[n]awakened me to the truth...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_SHOOT_REACTION02#0",
+   "speaker": null,
+   "en": "Being aggressive because you have a[n]safeguard... I see myself within you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_SHOOT_REACTION02#1",
+   "speaker": null,
+   "en": "Ah! This time spent with you has[n]awakened me to the truth...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_SHOOT_REACTION03#0",
+   "speaker": null,
+   "en": "N-No mercy for the weak... It's like I am[n]staring into a mirror...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_SHOOT_REACTION03#1",
+   "speaker": null,
+   "en": "Ah! This time spent with you has[n]awakened me to the truth...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_SHOOT_REACTION04#0",
+   "speaker": null,
+   "en": "P-Power is the measure of one's worth...[n]That is my belief as well...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_SHOOT_REACTION04#1",
+   "speaker": null,
+   "en": "Ah! This time spent with you has[n]awakened me to the truth...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_PLEAD_SKIMMING#0",
+   "speaker": null,
+   "en": "Halt! You have been watching me all this[n]time. Is there something you want to say?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_PLEAD_NO_SKIMMIN#0",
+   "speaker": null,
+   "en": "I surrender! Please, just spare my life!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_ACCEPT_ALERT_DOW#0",
+   "speaker": null,
+   "en": "I understand. I will report to everyone[n]that there is nothing wrong.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_NO_REQUIREMENT#0",
+   "speaker": null,
+   "en": "You do not have what I require!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_ITEM1#0",
+   "speaker": null,
+   "en": "I offer you this. Forget all about me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_ITEM2#0",
+   "speaker": null,
+   "en": "Now, let's seal the deal with this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_PERSON#0",
+   "speaker": null,
+   "en": "That passion sounds familiar... Ah! This[n]time spent has awakened me to the truth...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_PERSON_2#0",
+   "speaker": null,
+   "en": "I can resonate with that... Ah! This time[n]spent has awakened me to the truth...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_PAYFOR#0",
+   "speaker": null,
+   "en": "I understand what you are saying, but...[n]there is something that does not quite[n]make sense.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_PAYFOR_2#0",
+   "speaker": null,
+   "en": "...I see. I understand you, human.[n]However, let us settle things with this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_AGAIN1#0",
+   "speaker": null,
+   "en": "In the end, what was it you wanted to[n]convey?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_AGAIN2#0",
+   "speaker": null,
+   "en": "In the end, what was it you wanted to[n]convey?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_CARD1#0",
+   "speaker": null,
+   "en": "I feel there is no more need for[n]conversation. Take this, and let us[n]say our farewells.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_CARD2#0",
+   "speaker": null,
+   "en": "Then please accept this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_COUNTE#0",
+   "speaker": null,
+   "en": "Feel the wrath of the heavens!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_COUNTE_2#0",
+   "speaker": null,
+   "en": "Now, accept your judgment!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_ALERT1#0",
+   "speaker": null,
+   "en": "I shall have you know the power of my[n]forces!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_ALERT2#0",
+   "speaker": null,
+   "en": "...I cannot forgive you! No matter what[n]happens!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_INFO1#0",
+   "speaker": null,
+   "en": "I will grant you great knowledge, so[n]won't you spare me this nonsense?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_INFO2#0",
+   "speaker": null,
+   "en": "Look, I'll grant you information, so[n]meet me halfway here, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_MONEY1#0",
+   "speaker": null,
+   "en": "...Take this at least.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_SQ_MONEY2#0",
+   "speaker": null,
+   "en": "...And with that, I'll give you this. So[n]look the other way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_8#0",
+   "speaker": null,
+   "en": "Oh, so that is my ordained path...[n]However, it appears you already[n]have the information you seek.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_8#1",
+   "speaker": null,
+   "en": "Then allow me to offer you this[n][f 2 5 3 9999 1] instead...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_9#0",
+   "speaker": null,
+   "en": "Ahh, you are the savior... Thank you.[n]It seems peace has come...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_10#0",
+   "speaker": null,
+   "en": "...No, I won't be deceived, false savior!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_11#0",
+   "speaker": null,
+   "en": "Ahh, you are the savior...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_11#1",
+   "speaker": null,
+   "en": "You are already have the Persona[n][clr 1][var 2][clr 27]... Please take[n]this [f 2 5 3 9999 1] instead.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_12#0",
+   "speaker": null,
+   "en": "Ahh, you are the savior...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_12#1",
+   "speaker": null,
+   "en": "However, your rank is below my[n]own. Allow me to grant you this[n][f 2 5 3 9999 1] instead.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_BRAINWASH_13#0",
+   "speaker": null,
+   "en": "Teach me about the great savior...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_HACKING#0",
+   "speaker": null,
+   "en": "The me you see here has been deeply[n]tainted, but I offer you my most valued[n]possession.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_SKIMMING_BRAINWA#0",
+   "speaker": null,
+   "en": "Oh, how befitting of the chosen one that[n]you would recognize the sacredness of[n]this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_RESULT_GET_PERSO_11#0",
+   "speaker": null,
+   "en": "I thank you from the bottom of my...[n]my... Ah! Your kindness has awakened[n]me to the truth...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CHARM_TECH_ITEM#0",
+   "speaker": null,
+   "en": "...I'm shocked, speechless. Did you think[n]that would deceive me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_CHARM_TECH_PERSO#0",
+   "speaker": null,
+   "en": "Now that you have confessed to me, it[n]would not bode well for me to disregard[n]your story.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_BONUS_CARD#0",
+   "speaker": null,
+   "en": "...I admire those words! I would like to[n]end it with this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_DONATION#0",
+   "speaker": null,
+   "en": "It is a mere trifle, but please accept[n]this aid.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_UNTALKABLE#0",
+   "speaker": null,
+   "en": "Nnn... Ggghh!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_OP_00_00#0",
+   "speaker": null,
+   "en": "My heart...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_OP_00_01#0",
+   "speaker": null,
+   "en": "...Is pure as the driven snow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_OP_01_00#0",
+   "speaker": null,
+   "en": "Even if it is destroyed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_OP_01_01#0",
+   "speaker": null,
+   "en": "I shall forgive you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_OP_02_00#0",
+   "speaker": null,
+   "en": "My intentions...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_OP_02_01#0",
+   "speaker": null,
+   "en": "...I want you to understand them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_OP_03_00#0",
+   "speaker": null,
+   "en": "This kind treatment...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_EN_No_00#0",
+   "speaker": null,
+   "en": "...Farewell and remember: the good[n]you do for others is the good you do[n]for yourself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_EN_No_01#0",
+   "speaker": null,
+   "en": "...Did I narrowly survive? I am going to[n]thank you now for granting me your[n]mercy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_EN_No_02#0",
+   "speaker": null,
+   "en": "...And with that I must depart. Give your[n]all and do your best.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_EN_bye_00#0",
+   "speaker": null,
+   "en": "Prepare yourself for the judgment of[n]your folly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_EN_bye_01#0",
+   "speaker": null,
+   "en": "Hmph... The heavens will not allow[n]such savagery to run rampant.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_EN_bye_02#0",
+   "speaker": null,
+   "en": "I shall pray you achieve penitence by[n]our next meeting...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_GIVE_00#0",
+   "speaker": null,
+   "en": "...I shall accept your feeling.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_GIVE_01#0",
+   "speaker": null,
+   "en": "...Then, I shall take that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_DECLINE#0",
+   "speaker": null,
+   "en": "To lose the chance for atonement to[n]selfish desires... What foolishness...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_DECLINE_2#0",
+   "speaker": null,
+   "en": "Such frivolous behavior... but I shall[n]not say a word...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_TAKE_00#0",
+   "speaker": null,
+   "en": "This is a boon from our Father. Reflect[n]upon that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_TAKE_01#0",
+   "speaker": null,
+   "en": "This will save you, I suppose.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_DOUBLEU#0",
+   "speaker": null,
+   "en": "Foolish human, possessed by greed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_DOUBLEU_2#0",
+   "speaker": null,
+   "en": "Such bottomless greed. Just like[n]Abaddon, leader of locusts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_AGREE_0#0",
+   "speaker": null,
+   "en": "Thank you for being so considerate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_AGREE_0_2#0",
+   "speaker": null,
+   "en": "This is not for my benefit. Please think[n]of it as benefiting the world.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_REFUSE_#0",
+   "speaker": null,
+   "en": "Hmph, what a shame... This was for[n]your benefit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_NEGO_REFUSE__2#0",
+   "speaker": null,
+   "en": "I suppose there is a very good reason why[n]you would refuse my request, correct?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Reiji_00#0",
+   "speaker": "Ryuji",
+   "en": "Hey, what are you tryin' to pull? Use[n]your head, man!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Reiji_01#0",
+   "speaker": "Ryuji",
+   "en": "Seems like the Shadow[n]reconsidered...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Morgana_00#0",
+   "speaker": "Morgana",
+   "en": "Don't move! Your very life is on the line!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Morgana_01#0",
+   "speaker": "Morgana",
+   "en": "It seems like the Shadow[n]reconsidered...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Ann_00#0",
+   "speaker": "Ann",
+   "en": "Don't move—unless you wanna get[n]filled with lead!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Ann_01#0",
+   "speaker": "Ann",
+   "en": "It seems like the Shadow[n]reconsidered...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Yugo_00#0",
+   "speaker": "Yusuke",
+   "en": "Resistance is futile! Consider well[n]the position you are in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Yugo_01#0",
+   "speaker": "Yusuke",
+   "en": "It seems like the Shadow[n]reconsidered...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Makoto_00#0",
+   "speaker": "Makoto",
+   "en": "Stop resisting and work with us here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Makoto_01#0",
+   "speaker": "Makoto",
+   "en": "It seems like the Shadow[n]reconsidered...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Haruko_00#0",
+   "speaker": "Haru",
+   "en": "Please wait! Do you understand the[n]position you find yourself in?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Haruko_01#0",
+   "speaker": "Haru",
+   "en": "It seems like the Shadow[n]reconsidered...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Akechi_00#0",
+   "speaker": "Akechi",
+   "en": "Wait! You would be wise not to[n]attempt any sudden moves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Akechi_01#0",
+   "speaker": "Akechi",
+   "en": "It seems like the Shadow[n]reconsidered...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Sense_Sixthsense#0",
+   "speaker": "Akechi",
+   "en": "Initiating Sixth Sense!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Sense_Sixthsense#1",
+   "speaker": "Akechi",
+   "en": "Your heightened sense has made clear[n]an option that should not be chosen!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Sense_Negotiatio#0",
+   "speaker": "Akechi",
+   "en": "Initiating Negotiation!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Sense_Negotiatio#1",
+   "speaker": "Akechi",
+   "en": "With heightened negotiation technique,[n]you now receive greater cooperation!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Sense_Gigolo_00#0",
+   "speaker": "Akechi",
+   "en": "Initiating Gigolo!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Sense_Gigolo_00#1",
+   "speaker": "Akechi",
+   "en": "Showing off your refined seduction[n]stimulates the hearts and minds[n]of female Shadows!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Sense_Performanc#0",
+   "speaker": "Akechi",
+   "en": "Initiate Performance!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Sense_Performanc#1",
+   "speaker": "Akechi",
+   "en": "Your splendid antics captivate[n]the enemy Shadow's interest!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Sense_Intelligen#0",
+   "speaker": "Akechi",
+   "en": "Initiate Intelligence!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Sense_Intelligen#1",
+   "speaker": "Akechi",
+   "en": "Your broad display of knowledge[n]wins the respect of[n]male Shadows!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Tisei#0",
+   "speaker": null,
+   "en": "You don't have enough[n]knowledge to choose that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Iroke#0",
+   "speaker": null,
+   "en": "You don't have enough[n]charm to choose that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Ginou#0",
+   "speaker": null,
+   "en": "You don't have enough[n]proficiency to choose that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Hinsei#0",
+   "speaker": null,
+   "en": "You don't have enough[n]kindness to choose that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Yuuki#0",
+   "speaker": null,
+   "en": "You don't have enough[n]guts to choose that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel#0",
+   "speaker": null,
+   "en": "Lend me your power.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel#1",
+   "speaker": null,
+   "en": "Show me the money.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel#2",
+   "speaker": null,
+   "en": "I want an item.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel#3",
+   "speaker": null,
+   "en": "Panther, you handle this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_01#0",
+   "speaker": null,
+   "en": "[clr 2]Join my cause.[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_01#1",
+   "speaker": null,
+   "en": "Show me the money.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_01#2",
+   "speaker": null,
+   "en": "I want an item.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_01#3",
+   "speaker": null,
+   "en": "Panther, you handle this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_02#0",
+   "speaker": null,
+   "en": "Lend me your power.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_02#1",
+   "speaker": null,
+   "en": "[clr 2]Show me the money.[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_02#2",
+   "speaker": null,
+   "en": "I want an item.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_02#3",
+   "speaker": null,
+   "en": "Panther, you handle this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_03#0",
+   "speaker": null,
+   "en": "Lend me your power.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_03#1",
+   "speaker": null,
+   "en": "Show me the money.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_03#2",
+   "speaker": null,
+   "en": "[clr 2]Give me the goods.[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_03#3",
+   "speaker": null,
+   "en": "Panther, you handle this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_04#0",
+   "speaker": null,
+   "en": "Lend me your power.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_04#1",
+   "speaker": null,
+   "en": "Show me the money.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_04#2",
+   "speaker": null,
+   "en": "[clr 2]Give me the goods.[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Surrender_sel_04#3",
+   "speaker": null,
+   "en": "Panther, you handle this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Payfor_sel#0",
+   "speaker": null,
+   "en": "I'll take it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Payfor_sel#1",
+   "speaker": null,
+   "en": "[clr 2]You can do better than that.[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Brainwash_sel#0",
+   "speaker": null,
+   "en": "Submit to me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Brainwash_sel#1",
+   "speaker": null,
+   "en": "Give me a donation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Brainwash_sel#2",
+   "speaker": null,
+   "en": "Give me something useful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Nego_Brainwash_sel#3",
+   "speaker": null,
+   "en": "Panther, you handle this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_Greet_Possesed_B#0",
+   "speaker": null,
+   "en": "All right, I suppose.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_Greet_Possesed_B#1",
+   "speaker": null,
+   "en": "I didn't ask for this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_Pre_Question#0",
+   "speaker": null,
+   "en": "All right, I suppose.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_Pre_Question#1",
+   "speaker": null,
+   "en": "There's no need for that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Talk_tech#0",
+   "speaker": null,
+   "en": "Yoshida Toranosuke[n]Impression Management! (Provisional)",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_Tech#0",
+   "speaker": null,
+   "en": "Please, help...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CharmTech#0",
+   "speaker": "Ann",
+   "en": "Come on, hot stuff. Can't you be a[n]little more gentle with me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CharmActing#0",
+   "speaker": "Ann",
+   "en": "No... How could you take that from us?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RareBooster#0",
+   "speaker": null,
+   "en": "Yoshida Toranosuke[n]Impression Management! (Provisional)",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CheapAct#0",
+   "speaker": "Ann",
+   "en": "Joker, this is too scary... we should[n]get out of here. Hey! Could you tell[n]your boss that we're leaving now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_cnt_interruptE#0",
+   "speaker": null,
+   "en": "A different enemy cut into[n]the conversation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_cnt_interruptP#0",
+   "speaker": null,
+   "en": "After conversing with target once,[n]party members can cut in to speed[n]things up (percent chance).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_cnt_refuse#0",
+   "speaker": null,
+   "en": "Target refused to converse.[n]→This happens if the result of[n]the conversation is a refusal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_cnt_anger#0",
+   "speaker": null,
+   "en": "Target is angry and counterattacks.[n]Bad outcome when the result of[n]the conversation is a refusal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_cnt_unusual#0",
+   "speaker": null,
+   "en": "Unable to converse due to[n]status effects.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EOF#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "DebugMsg_ERROR#0",
+   "speaker": null,
+   "en": "(Error) →A variable is set to an invalid value.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DebugMsg_CHARACTER#0",
+   "speaker": null,
+   "en": "(Debug Mode)[n]Target Personality Type",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DebugSel_CHARACTER#0",
+   "speaker": null,
+   "en": "Type A",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DebugSel_CHARACTER#1",
+   "speaker": null,
+   "en": "Type B",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DebugSel_CHARACTER#2",
+   "speaker": null,
+   "en": "Type C",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DebugSel_CHARACTER#3",
+   "speaker": null,
+   "en": "Type D",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DebugSel_CHARACTER#4",
+   "speaker": null,
+   "en": "Random",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DebugMsg_CHECK_VAR#0",
+   "speaker": null,
+   "en": "[var 0].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DebugMsg_ENEMY_LV#0",
+   "speaker": null,
+   "en": "Enemy ID [var 3][n]Enemy Level [var 0][n]Protag Level [var 1][n]AI_CHK_ENIDLV_O([var 0], 1) = [var 2]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_GUY_RESULT_GET_P_4#0",
+   "speaker": "Ann",
+   "en": "In that case, I shall lend a hand to[n]the me within you. This should be[n]a good experience.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_AkechiB_00#0",
+   "speaker": "Ann",
+   "en": "Huh, I wouldn't say that's a wise[n]choice... Perhaps you should give[n]this some more thought.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Kasumi_00#0",
+   "speaker": "Ann",
+   "en": "Stop! I think you would be wise not[n]to make any careless moves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_Coop_Sumire_00#0",
+   "speaker": "Ann",
+   "en": "Stop! I think you would be wise not[n]to make any careless moves.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

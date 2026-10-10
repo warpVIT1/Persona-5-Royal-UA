@@ -1,0 +1,1538 @@
+{
+ "file": "EN/INIT/DATMSG.PAK/datQuestHelp.bmd",
+ "entries": [
+  {
+   "id": "quest00#0",
+   "speaker": null,
+   "en": "This mission hasn't occurred.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest_notice_00#0",
+   "speaker": null,
+   "en": "Change the heart of the target in Mementos!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest_clear_01#0",
+   "speaker": null,
+   "en": "It looks like we successfully changed the target's[n]heart. Let's go check and see.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest_clear_02#0",
+   "speaker": null,
+   "en": "It seems we successfully changed the target's heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest_faild#0",
+   "speaker": null,
+   "en": "It looks like the target disappeared into the depths of[n]Mementos...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest01_0#0",
+   "speaker": null,
+   "en": "Ann told me about a twisted host who leeches off[n]women, then dumps them once he has no use for[n]them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest01_2#0",
+   "speaker": null,
+   "en": "I got some interesting info from Ann. We have[n]a name now, so let's meet up at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest02_0#0",
+   "speaker": null,
+   "en": "A housewife who covets and takes other people's things[n]is troubling those around her...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest02_1#0",
+   "speaker": null,
+   "en": "This housewife who covets and takes other people's[n]things can be found on Central Street.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest02_2#0",
+   "speaker": null,
+   "en": "Mishima told me about a housewife who takes[n]people's things. We have a name—let's meet at[n]the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest03_0#0",
+   "speaker": null,
+   "en": "A student in front of the Shujin Academy gate cruelly[n]bullies this student, pretending it's a joke...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest03_1#0",
+   "speaker": null,
+   "en": "I learned about some bullying near the school gate.[n]Let's go check it out when we have time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest03_2#0",
+   "speaker": null,
+   "en": "I found the bullying Shujin student. We have a name[n]now, so let's meet up at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest04_0#0",
+   "speaker": null,
+   "en": "Ryuji told me about a cheap and selfish mother who[n]refuses to pay for school lunches.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest04_2#0",
+   "speaker": null,
+   "en": "Ryuji told me about a cheap and selfish mother.[n]We have a name, so let's meet up at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest05_0#0",
+   "speaker": null,
+   "en": "I hear there's a housewife whose sense of entitlement[n]makes her an unbearable complainer...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest05_1#0",
+   "speaker": null,
+   "en": "I heard from Mishima that the forum posted about a[n]complaining housewife.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest05_2#0",
+   "speaker": null,
+   "en": "I got info from Mishima about the complaining[n]housewife. We have a name—let's meet at the[n]hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest07_0#0",
+   "speaker": null,
+   "en": "A female student is possessed by dangerous feelings[n]of jealousy over the boy she likes...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest07_1#0",
+   "speaker": null,
+   "en": "Mishima told me the rumor about a cyberstalker[n]student. Let's search the Shujin campus for her.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest07_2#0",
+   "speaker": null,
+   "en": "I heard about the cyberstalker from Mishima.[n]We have a name, so let's meet up at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest08_2#0",
+   "speaker": null,
+   "en": "The target seems to be somewhere inside Mementos.[n]Let's find our target!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest09_0#0",
+   "speaker": null,
+   "en": "A guy who works at a bank misuses his authority to[n]embezzle money from his place of employment...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest09_1#0",
+   "speaker": null,
+   "en": "I hear there's a criminal who embezzles money[n]from a bank...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest09_2#0",
+   "speaker": null,
+   "en": "Mishima told me about an embezzler. We have a[n]name, so let's meet up at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest10_0#0",
+   "speaker": null,
+   "en": "A troubling customer is hassling an employee at[n]the convenience store where I work part-time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest10_1#0",
+   "speaker": null,
+   "en": "I heard from my convenience store co-worker[n]about the target who's been hassling employees...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest10_2#0",
+   "speaker": null,
+   "en": "I learned about the target at the convenience store.[n]We have a name—let's meet at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest11_0#0",
+   "speaker": null,
+   "en": "Inspired by the Phantom Thieves, a burglary ring[n]has been stealing from restaurants in Shibuya...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest11_1#0",
+   "speaker": null,
+   "en": "I learned about a burglary ring that secretly operates[n]in Shibuya. Let's find some leads on them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest11_2#0",
+   "speaker": null,
+   "en": "I got a lead on Shibuya's burglary ring. We have[n]a name now, so let's meet up at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest12_0#0",
+   "speaker": null,
+   "en": "There's a student who has bullies under his control,[n]causing crimes like some kind of gang leader...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest12_1#0",
+   "speaker": null,
+   "en": "This is the bully behind the bully whose heart we[n]changed. We can find him near the school gate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest12_2#0",
+   "speaker": null,
+   "en": "I've found the leader who towers above the other[n]bullies. We have a name—let's meet at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest13_0#0",
+   "speaker": null,
+   "en": "The mother of a florist employee is gambling away[n]her income with no consideration for her family.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest13_1#0",
+   "speaker": null,
+   "en": "I heard from my florist co-worker about her[n]mother who can't quit her gambling addiction.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest13_2#0",
+   "speaker": null,
+   "en": "I learned about a gambling addict at my part-time[n]job. I have a name now, so let's meet at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest15_0#0",
+   "speaker": null,
+   "en": "A self-important old man clings to past glories,[n]harshly criticizing anyone who happens to be younger.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest15_1#0",
+   "speaker": null,
+   "en": "Mishima told me a rumor about an arrogant and[n]cantankerous old man mentioned on the forum.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest15_2#0",
+   "speaker": null,
+   "en": "I learned about an ornery old man from Mishima.[n]We have a name, so let's meet up at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest19_0#0",
+   "speaker": null,
+   "en": "An unethical land developer is threatening an[n]old man to sell his movie theater in Yongen-Jaya.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest19_1#0",
+   "speaker": null,
+   "en": "I heard from Mishima that the forum posted about[n]an unethical land developer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest19_2#0",
+   "speaker": null,
+   "en": "Mishima told me about the land developer in[n]Yongen-Jaya. We have a name—let's meet at[n]the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest21_0#0",
+   "speaker": null,
+   "en": "A female student who fancies herself a queen[n]treats her underclassmen like slaves...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest21_1#0",
+   "speaker": null,
+   "en": "I heard from Mishima that the forum posted about a[n]tyrannical student at school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest21_2#0",
+   "speaker": null,
+   "en": "Mishima told me about a tyrannical female student[n]at Kosei. We have a name—let's meet at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest22_0#0",
+   "speaker": null,
+   "en": "A desperate employee who can't stand up to his boss[n]is scheming to cause major trouble...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest22_2#0",
+   "speaker": null,
+   "en": "Yusuke told me about an employee driven by[n]despair. We have a name, so let's meet up at[n]the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest23_0#0",
+   "speaker": null,
+   "en": "An older student is blackmailing his underclassman[n]to act as his personal gofer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest23_1#0",
+   "speaker": null,
+   "en": "I heard a rumor at the convenience store[n]about a Shujin student who pushes around[n]an underclassman.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest23_2#0",
+   "speaker": null,
+   "en": "A Shujin student forced his schoolmate to be his[n]gofer. I got a name—let's meet at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest24_0#0",
+   "speaker": null,
+   "en": "A youth copycatting Kaneshiro is swindling money[n]with his group on Central Street.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest24_1#0",
+   "speaker": null,
+   "en": "I heard from Mishima that the forum posted about[n]a young Kaneshiro copycat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest24_2#0",
+   "speaker": null,
+   "en": "I learned about the Kaneshiro copycat from Mishima.[n]We have a name—let's meet at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest25_0#0",
+   "speaker": null,
+   "en": "Futaba told me about a negligent police officer who[n]is ignoring the stalker incident reports...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest25_2#0",
+   "speaker": null,
+   "en": "I learned about a negligent police officer from Futaba.[n]We have a name—let's meet at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest26_0#0",
+   "speaker": null,
+   "en": "I hear a middle-aged manager is misusing his[n]authority to abuse his subordinates...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest26_1#0",
+   "speaker": null,
+   "en": "I heard at the bar I work at about a middle-aged[n]manager abusing his subordinates...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest26_2#0",
+   "speaker": null,
+   "en": "I learned about an abusive middle-aged manager.[n]We have a name—let's meet at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest27_0#0",
+   "speaker": null,
+   "en": "Some player is using cheats to win in online battles in[n]Gun About, the hit video game...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest27_1#0",
+   "speaker": null,
+   "en": "There's a rumor in the gaming world about a player[n]cheating in online Gun About matches...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest27_2#0",
+   "speaker": null,
+   "en": "An irritable gamer told me about an infamous[n]cheater. We have a name—let's meet at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest28_0#0",
+   "speaker": null,
+   "en": "Morgana told me about a student using her mother's[n]position as PTA president to harass her teacher.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest28_2#0",
+   "speaker": null,
+   "en": "Morgana told me some student is harassing her[n]teacher. We have a name—let's meet at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest29_0#0",
+   "speaker": null,
+   "en": "There's supposedly a murderer out in Shibuya who[n]will eventually kill again unless he's stopped...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest29_1#0",
+   "speaker": null,
+   "en": "Mishima told me the forum posted about a killer who[n]roams Shibuya.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest29_2#0",
+   "speaker": null,
+   "en": "I've finally got the homeless contract killer's name.[n]Let's meet up at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest30_0#0",
+   "speaker": null,
+   "en": "There's a daughter being forced to live her life to[n]fulfill her mother's own dreams...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest30_1#0",
+   "speaker": null,
+   "en": "At the convenience store, I heard about a daughter[n]forced to live her life for her mother's dreams.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest30_2#0",
+   "speaker": null,
+   "en": "I've got the name of the mother living vicariously[n]through her own child. Let's meet at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest31_0#0",
+   "speaker": null,
+   "en": "A boy in Akihabara has been illegally downloading[n]video games and is even bragging about it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest31_1#0",
+   "speaker": null,
+   "en": "Mishima told me about a boy pirating video games[n]who's been mentioned on the forum.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest31_2#0",
+   "speaker": null,
+   "en": "I learned about a boy guilty of video game piracy.[n]We have a name, so let's meet up at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest32_0#0",
+   "speaker": null,
+   "en": "Haru told me about a rich and handsome playboy[n]who charms women into giving him money...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest32_2#0",
+   "speaker": null,
+   "en": "I learned about a charmer fooling women out of their[n]money. We have a name—let's meet at the hideout.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest33_0#0",
+   "speaker": null,
+   "en": "An immoral producer working in entertainment[n]is taking advantage of young women dreaming of[n]fame.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest33_1#0",
+   "speaker": null,
+   "en": "Mishima told me a rumor about an entertainment[n]producer who forces clients to sleep with him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest33_2#0",
+   "speaker": null,
+   "en": "I've got the name of that immoral producer. Let's[n]meet up at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest34_0#0",
+   "speaker": null,
+   "en": "I heard from Mishima about a store manager who[n]steals cash from the register and harasses part-timers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest34_2#0",
+   "speaker": null,
+   "en": "I learned about a corrupt store manager from[n]Mishima. We have a name—let's meet at the[n]hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest35_0#0",
+   "speaker": null,
+   "en": "An indie idol is riding the Phantom Thieves'[n]popularity and using lies to attain greater[n]fame...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest35_1#0",
+   "speaker": null,
+   "en": "Mishima told me a rumor about an indie idol at[n]Central Street who's been acting pretty strangely.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest35_2#0",
+   "speaker": null,
+   "en": "I've got the name of that indie idol, so let's meet up[n]at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest36_0#0",
+   "speaker": null,
+   "en": "Some manager at a company does no work, but[n]takes all the credit for his subordinates' efforts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest36_1#0",
+   "speaker": null,
+   "en": "I learned about some imperious manager from[n]Mishima. Let's go to that Shinjuku bar to investigate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest36_2#0",
+   "speaker": null,
+   "en": "At the bar, I learned about an imperious manager.[n]We've got a name—let's meet at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest39_0#0",
+   "speaker": null,
+   "en": "An older teacher at Shujin is picking on new hires,[n]forcing them to do her grunt work...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest39_1#0",
+   "speaker": null,
+   "en": "Mishima told me a rumor about an older teacher[n]at Shujin who picks on the newly hired teachers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest39_2#0",
+   "speaker": null,
+   "en": "We learned an older Shujin teacher is picking on new[n]hires. We have a name—let's meet at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest40_0#0",
+   "speaker": null,
+   "en": "I hear someone is indiscriminately assaulting[n]homeless people and office workers around[n]Shibuya...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest40_1#0",
+   "speaker": null,
+   "en": "Mishima told me someone's been attacking people.[n]Let's go to the underground mall to investigate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest40_2#0",
+   "speaker": null,
+   "en": "I learned at the florist about someone attacking[n]people. We have a name—let's meet at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest42_0#0",
+   "speaker": null,
+   "en": "Someone erased critical data and isn't showing up to[n]work due to an unjust grudge against his company.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest42_1#0",
+   "speaker": null,
+   "en": "I heard at the bar I work at about a guy who erased[n]critical company data because of a petty grudge.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest42_2#0",
+   "speaker": null,
+   "en": "I learned about a vindictive employee at the bar. We have a[n]name—let's meet at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest48_0#0",
+   "speaker": null,
+   "en": "Some college student is abusing cats just to blow off[n]steam...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest48_1#0",
+   "speaker": null,
+   "en": "Let's gather info about the cat abuse by working[n]part-time at the Central Street convenience store.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest48_2#0",
+   "speaker": null,
+   "en": "I learned about the cat abuser at the convenience[n]store. We have a name—let's meet at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest49_0#0",
+   "speaker": null,
+   "en": "A greedy man who keeps borrowing money[n]is trying to escape his debt by going overseas.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest49_1#0",
+   "speaker": null,
+   "en": "Mishima told me about a debtor running from[n]his debts who's been mentioned on the forum.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest49_2#0",
+   "speaker": null,
+   "en": "Mishima told me about a debtor running from his[n]debts. We have a name—let's meet at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest50_0#0",
+   "speaker": null,
+   "en": "A group is going around, committing fraud[n]to exploit the elderly and take their money...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest50_1#0",
+   "speaker": null,
+   "en": "Mishima told me about a young man exploiting[n]the elderly who's been mentioned on the forum.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest50_2#0",
+   "speaker": null,
+   "en": "I learned about a youth who's exploiting the elderly.[n]We have a name—let's meet at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest51_0#0",
+   "speaker": null,
+   "en": "Shinya's mother, Hanae Oda, has an aggressive[n]behavior problem, and it's affecting her son badly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest51_1#0",
+   "speaker": null,
+   "en": "Let's help Shinya with his problem by changing his[n]mother's heart in Mementos.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest51_2#0",
+   "speaker": null,
+   "en": "I want to help Shinya and change his mother's heart.[n]We have her name—let's meet at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest51_3#0",
+   "speaker": null,
+   "en": "I successfully changed Shinya's mother's heart for[n]him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest52_0#0",
+   "speaker": null,
+   "en": "A woman is consulting the Shinjuku fortune teller[n]for help because of her boyfriend's physical abuse...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest52_1#0",
+   "speaker": null,
+   "en": "Let's prove that fate can change to the fortune[n]teller by changing the abusive boyfriend's heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest52_2#0",
+   "speaker": null,
+   "en": "I've got the name of the guy who beats his girlfriend,[n]so let's discuss this at the hideout.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest52_3#0",
+   "speaker": null,
+   "en": "I successfully changed the heart of the abusive[n]boyfriend that the fortune teller told me about.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest53_0#0",
+   "speaker": null,
+   "en": "Yuichi Fukurai, the ADP chairman, controls Chihaya...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest53_1#0",
+   "speaker": null,
+   "en": "Let's help Chihaya by changing the ADP chairman's[n]heart in Mementos.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest53_2#0",
+   "speaker": null,
+   "en": "Let's expose the ADP chairman's true nature for[n]Chihaya. I got his name—let's meet at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest53_3#0",
+   "speaker": null,
+   "en": "I successfully changed the ADP chairman's heart for[n]Chihaya.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest54_0#0",
+   "speaker": null,
+   "en": "Iwai has a deal related to his[n]model guns with his former ally[n]Tsuda, but he's in trouble...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest54_1#0",
+   "speaker": null,
+   "en": "Let's change Tsuda's heart in Mementos and solve[n]Iwai's problem.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest54_2#0",
+   "speaker": null,
+   "en": "Iwai's former ally is threatening him to modify guns.[n]We have his name—let's meet at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest54_3#0",
+   "speaker": null,
+   "en": "I successfully changed Tsuda's heart for Iwai.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest55_0#0",
+   "speaker": null,
+   "en": "In her university hospital days, Takemi was blamed[n]for Medical Director Oyamada's mistake.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest55_1#0",
+   "speaker": null,
+   "en": "Let's change Medical Chief of Staff Oyamada's heart[n]in Mementos.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest55_2#0",
+   "speaker": null,
+   "en": "Takemi's former boss is trying to crush her practice.[n]We have his name—let's meet at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest55_3#0",
+   "speaker": null,
+   "en": "I successfully changed the medical chief of staff's[n]heart for Takemi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest56_0#0",
+   "speaker": null,
+   "en": "Kawakami is being extorted by her former student's[n]guardians who blame her for his death.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest56_1#0",
+   "speaker": null,
+   "en": "Let's change the hearts of her former student's[n]guardians in Mementos to help Kawakami.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest56_2#0",
+   "speaker": null,
+   "en": "I want to punish that couple for threatening[n]Kawakami. I have their names—let's meet at[n]the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest56_3#0",
+   "speaker": null,
+   "en": "I successfully changed Takase's guardians' hearts for[n]Kawakami.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest57_0#0",
+   "speaker": null,
+   "en": "Ohya wants to investigate the case of her missing[n]partner, but her boss is stopping her.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest57_1#0",
+   "speaker": null,
+   "en": "Let's change Ohya's boss's heart so Ohya can[n]investigate why her partner is missing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest57_2#0",
+   "speaker": null,
+   "en": "I want to stop Ohya's boss from interfering with[n]Ohya. We have a name—let's meet at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest57_3#0",
+   "speaker": null,
+   "en": "I successfully changed Ohya's boss's heart for Ohya.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest58_0#0",
+   "speaker": null,
+   "en": "Mitsuyo Togo is a stage mother who controls her[n]daughter Hifumi...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest58_1#0",
+   "speaker": null,
+   "en": "Let's change Hifumi's mother's heart in Mementos[n]and solve Hifumi's problem.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest58_2#0",
+   "speaker": null,
+   "en": "Hifumi is in anguish after her mother urged her to[n]throw a match. Let's meet at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest58_3#0",
+   "speaker": null,
+   "en": "I successfully changed Hifumi's mother's heart for[n]Hifumi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest59_0#0",
+   "speaker": null,
+   "en": "Futaba's best friend Kana is being exploited by her[n]parents...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest59_1#0",
+   "speaker": null,
+   "en": "Let's change Kana's parents' hearts in Mementos so[n]we can solve Futaba's problem.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest59_2#0",
+   "speaker": null,
+   "en": "I want to save Futaba's best friend. We have their[n]names, so let's meet up at the hideout.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest59_3#0",
+   "speaker": null,
+   "en": "I successfully changed Kana's parents' hearts for[n]Futaba.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest60_0#0",
+   "speaker": null,
+   "en": "Futaba's uncle is trying to take parental custody of[n]Futaba from Boss...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest60_1#0",
+   "speaker": null,
+   "en": "Let's change Futaba's uncle's heart in Mementos and[n]solve Sojiro's problem.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest60_2#0",
+   "speaker": null,
+   "en": "I have to stop Futaba's uncle from threatening[n]Leblanc. Let's talk to Futaba and figure something[n]out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest60_3#0",
+   "speaker": null,
+   "en": "I successfully changed Futaba's uncle's heart for[n]Sojiro's sake.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest70_2#0",
+   "speaker": null,
+   "en": "I obtained information on the target.[n]We have a name now, so let's meet up[n]at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest70_3#0",
+   "speaker": null,
+   "en": "Let's steal the target's heart in Mementos!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest70_4#0",
+   "speaker": null,
+   "en": "I successfully changed the target's heart. Let's[n]return to the real world and see what happens.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest70_5#0",
+   "speaker": null,
+   "en": "It looks like I was able to change the target's heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest71_2#0",
+   "speaker": null,
+   "en": "Ryuji told me about an unreasonable complainer.[n]We have a name, so let's meet up at the hideout![n]The Meta-Nav says \"Skill Card: Charge.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest71_3#0",
+   "speaker": null,
+   "en": "Let's change the unreasonable complainer's heart in[n]Mementos and save the accessory store in Shibuya.[n]The Meta-Nav says \"Skill Card: Charge.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest71_4#0",
+   "speaker": null,
+   "en": "I successfully changed the unreasonable complainer's[n]heart. Let's return to the real world and see what[n]happens.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest71_5#0",
+   "speaker": null,
+   "en": "I successfully changed the unreasonable[n]complainer's heart. It seems that peace has[n]returned to the accessory store in Shibuya.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest72_1#0",
+   "speaker": null,
+   "en": "Morgana told me about some cat abductions that[n]are happening. Ask around Yongen for information!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest72_2#0",
+   "speaker": null,
+   "en": "I've gathered information on the cat abductions.[n]Let's meet at the hideout and go to Mementos!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest72_3#0",
+   "speaker": null,
+   "en": "I've gathered information on the cat abductions.[n]Let's change the target's heart in Mementos!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest72_4#0",
+   "speaker": null,
+   "en": "I successfully changed the cat abductor's heart.[n]Let's return to the real world and see what happens.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest72_5#0",
+   "speaker": null,
+   "en": "I successfully changed the cat abductor's heart.[n]Hopefully we'll see cats in Yongen again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest73_1#0",
+   "speaker": null,
+   "en": "Ann told me about someone who hates Shiho.[n]Ask around the school courtyard for information.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest73_2#0",
+   "speaker": null,
+   "en": "I've gathered information on the person who[n]hates Shiho. We have a name, so let's meet up[n]at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest73_3#0",
+   "speaker": null,
+   "en": "I've gathered information on the person who hates[n]Shiho. Let's change the target's heart in Mementos!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest73_4#0",
+   "speaker": null,
+   "en": "I successfully changed the target's heart. Let's[n]return to the real world and see what happens.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest73_5#0",
+   "speaker": null,
+   "en": "I successfully changed the target's heart.[n]Ann will be relieved.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest74_1#0",
+   "speaker": null,
+   "en": "Makoto told me about a woman committing[n]investment frauds. Ask around for info in Shibuya[n]and Shinjuku!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest74_2#0",
+   "speaker": null,
+   "en": "I've gathered information on the woman committing[n]investment frauds. Let's meet up at the hideout and[n]go to Mementos!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest74_3#0",
+   "speaker": null,
+   "en": "I've gathered information on the woman committing[n]investment frauds. Let's change the target's heart in[n]Mementos!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest74_4#0",
+   "speaker": null,
+   "en": "I successfully changed the heart of the woman who[n]was committing investment frauds. Let's return to[n]the real world and see what happens.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest74_5#0",
+   "speaker": null,
+   "en": "I successfully changed the heart of the woman who[n]was committing investment frauds. The fraud victims[n]have seen justice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest75_1#0",
+   "speaker": null,
+   "en": "Futaba told me about \"Tackle,\" who has been[n]causing problems in Akihabara. Ask around for[n]info in Akihabara and Shinjuku!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest75_2#0",
+   "speaker": null,
+   "en": "I've gathered information on \"Tackle,\" the man who's[n]been causing problems in Akihabara. Let's meet up at[n]the hideout and go to Mementos!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest75_3#0",
+   "speaker": null,
+   "en": "I've gathered information on \"Tackle,\" the man[n]who's been causing problems in Akihabara. Let's[n]change the target's heart in Mementos!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest75_4#0",
+   "speaker": null,
+   "en": "I've successfully changed \"Tackle's\" heart. Let's[n]return to the real world and see what happens.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest75_5#0",
+   "speaker": null,
+   "en": "I've successfully changed \"Tackle's\" heart.[n]Peace has returned to Akihabara.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest76_1#0",
+   "speaker": null,
+   "en": "Yusuke told me about a popular doujin artist[n]who's been suspected of plagiarism. Ask around[n]in Akihabara and gather information!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest76_2#0",
+   "speaker": null,
+   "en": "I've gathered information on the popular doujin[n]artist who's suspected of plagiarism. Let's meet up[n]at the hideout and go to Mementos!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest76_3#0",
+   "speaker": null,
+   "en": "I've gathered information on the popular doujin[n]artist who's suspected of plagiarism. Let's change[n]the target's heart in Mementos!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest76_4#0",
+   "speaker": null,
+   "en": "I've gathered information on the popular doujin[n]artist who's suspected of plagiarism. Let's return[n]to the real world and see what happens.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest76_5#0",
+   "speaker": null,
+   "en": "I've gathered information on the popular doujin[n]artist who's suspected of plagiarism. She's repented[n]and will work harder to write manga from now on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest77_1#0",
+   "speaker": null,
+   "en": "Haru told me about a dishonest businessperson[n]dealing in health foods. Ask around for info in[n]Yongen-Jaya!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest77_2#0",
+   "speaker": null,
+   "en": "I've gathered information on the shady health[n]food business. Let's meet at the hideout and go[n]to Mementos!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest77_3#0",
+   "speaker": null,
+   "en": "I've gathered information on the shady health food[n]business. Let's change the target's heart in Mementos!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest77_4#0",
+   "speaker": null,
+   "en": "I successfully changed the heart of the dishonest[n]health food seller. Let's return to the real world[n]and see what happens.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest77_5#0",
+   "speaker": null,
+   "en": "I successfully changed the heart of the dishonest[n]health foods seller. Now more people will be able[n]to seek proper treatment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest78_1#0",
+   "speaker": null,
+   "en": "I heard about a man who's overly obsessed[n]with idols. Ask around in Akihabara and gather[n]information!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest78_2#0",
+   "speaker": null,
+   "en": "I gathered information on the man who's overly[n]obsessed with idols in Akihabara. Let's meet up[n]at the hideout and go to Mementos!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest78_3#0",
+   "speaker": null,
+   "en": "I gathered information on the man who's overly[n]obsessed with idols in Akihabara. Let's change the[n]target's heart in Mementos!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest78_4#0",
+   "speaker": null,
+   "en": "I successfully changed the heart of the man who[n]was overly obsessed with idols. Let's return to the[n]real world and see what happens.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest78_5#0",
+   "speaker": null,
+   "en": "I successfully changed the heart of the man who[n]was overly obsessed with idols. Now his family[n]will have peace again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest79_1#0",
+   "speaker": null,
+   "en": "I heard about a false accusation incident that[n]happened on Central Street. I should cooperate[n]with Akechi and gather more information!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest79_2#0",
+   "speaker": null,
+   "en": "I gathered information on the false accusation[n]incident. Let's meet up at the hideout and go to[n]Mementos!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest79_3#0",
+   "speaker": null,
+   "en": "I gathered information on the false accusation[n]incident. Let's change the target's heart in[n]Mementos!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest79_4#0",
+   "speaker": null,
+   "en": "I successfully changed the heart of congressman[n]who pressed false charges against his son. Let's[n]return to the real world and see what happens.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest79_5#0",
+   "speaker": null,
+   "en": "I successfully changed the congressman who[n]pressed false charges against his son. The son[n]was also arrested for extortion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest80_1#0",
+   "speaker": null,
+   "en": "I heard about AIMaask OUZI. I should ask students[n]around Kichijoji during the afternoon!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest80_2#0",
+   "speaker": null,
+   "en": "I gathered information on AIMaask OUZI. Let's[n]meet up at the hideout and go to Mementos!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest80_3#0",
+   "speaker": null,
+   "en": "I gathered information on AIMaask OUZI. Let's[n]change the target's heart in Mementos!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest80_4#0",
+   "speaker": null,
+   "en": "I successfully changed the heart of AIMaask OUZI.[n]Let's return to the real world and see what happens.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest80_5#0",
+   "speaker": null,
+   "en": "I successfully changed the heart of AIMaask OUZI.[n]His family will finally have peace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest81_2#0",
+   "speaker": null,
+   "en": "I heard about a cruel womanizer from Ann. Let's[n]meet up at the hideout and go to Mementos!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest81_3#0",
+   "speaker": null,
+   "en": "I heard about a cruel womanizer from Ann.[n]Let's change the target's heart in Mementos!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest81_4#0",
+   "speaker": null,
+   "en": "I successfully changed the heart of the cruel[n]womanizer. Let's return to the real world and[n]see what happens.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest81_5#0",
+   "speaker": null,
+   "en": "I successfully changed the heart of the cruel[n]womanizer. The women can be at ease now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest82_1#0",
+   "speaker": null,
+   "en": "Mishima told you about an old man causing trouble.[n]Ask around for info in Kichijoji at night!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest82_2#0",
+   "speaker": null,
+   "en": "I gathered information on the trouble making[n]old man. Let's meet up at the hideout and go to[n]Mementos!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest82_3#0",
+   "speaker": null,
+   "en": "I gathered information on the trouble making old[n]man. Let's change the target's heart in Mementos!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest82_4#0",
+   "speaker": null,
+   "en": "I changed the heart of the old man causing trouble[n]in Kichijoji at night. Let's return to the real world[n]and see what happens.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest82_5#0",
+   "speaker": null,
+   "en": "I changed the heart of the old man causing trouble[n]in Kichijoji at night. Now peace will return to Kichijoji.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest83_1#0",
+   "speaker": null,
+   "en": "Sumire told you about a table tennis player who's[n]been accused of playing fixed matches. Ask around[n]for info in Shibuya!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest83_2#0",
+   "speaker": null,
+   "en": "I've gathered information on the table tennis player[n]who's been accused of playing fixed matches. Let's[n]meet up at the hideout and go to Mementos!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest83_3#0",
+   "speaker": null,
+   "en": "I've gathered information on the table tennis player[n]who's been accused of playing fixed matches. Let's[n]change the target's heart in Mementos!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest83_4#0",
+   "speaker": null,
+   "en": "I successfully changed the heart of the table tennis[n]player who's been accused of playing fixed matches.[n]Let's return to the real world and see what happens.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest83_5#0",
+   "speaker": null,
+   "en": "I successfully changed the heart of the table tennis[n]player who's been accused of playing fixed matches.[n]Let's hope that she can shine once more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest84_2#0",
+   "speaker": null,
+   "en": "Mishima told me about a boy who wishes for his[n]own death. Let's meet up at the hideout and go to[n]Mementos!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest84_3#0",
+   "speaker": null,
+   "en": "I obtained information on the boy who wishes[n]for his own death. Let's change the target's heart[n]in Mementos!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest84_4#0",
+   "speaker": null,
+   "en": "I successfully changed the boy's heart. Let's return[n]to the real world and see what happens.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest84_5#0",
+   "speaker": null,
+   "en": "I successfully changed the boy's heart. Now the[n]siblings can have peace again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest85_2#0",
+   "speaker": null,
+   "en": "Futaba told me about a mother who neglects her[n]daughter. Let's meet up at the hideout and go to[n]Mementos!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest85_3#0",
+   "speaker": null,
+   "en": "I heard about a mother who neglects her daughter.[n]Let's change the target's heart in Mementos!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest85_4#0",
+   "speaker": null,
+   "en": "I successfully changed the heart of the negligent[n]mother. Let's go back to the real world and see[n]what happens.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest85_5#0",
+   "speaker": null,
+   "en": "I successfully changed the heart of the negligent[n]mother. Peace will return to the family.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

@@ -1,0 +1,1916 @@
+{
+ "file": "EN/FIELD/NPC/CORP015.BF",
+ "entries": [
+  {
+   "id": "MSG_C15_PRECOOP_00_00#0",
+   "speaker": "Ohya",
+   "en": "Hey, where's my glass...? Didn't I[n]order a refill?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_PRECOOP_00_00#1",
+   "speaker": "Ohya",
+   "en": "How much did I drink today?[n]What time is it? Ah, who cares.[n]...Wait, I care.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_PRECOOP_00_01#0",
+   "speaker": "Morgana",
+   "en": "She's so drunk that she hasn't[n]even noticed you're here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_PRECOOP_00_01#1",
+   "speaker": "Morgana",
+   "en": "If we have her write articles,[n]it'll have an effect on the[n]Metaverse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_PRECOOP_00_01#2",
+   "speaker": "Morgana",
+   "en": "We might be able to use her[n]if we do it right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_PRECOOP_00_01#3",
+   "speaker": "Morgana",
+   "en": "Should we try forming a deal[n]with Ohya?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C15_PRECOOP_00_02#0",
+   "speaker": null,
+   "en": "Form a deal with her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C15_PRECOOP_00_02#1",
+   "speaker": null,
+   "en": "Don't form a deal with her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_PRECOOP_00_03#0",
+   "speaker": "Morgana",
+   "en": "Keep in mind that she's drunk.[n]Now, do a good job negotiating,[n]okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_PRECOOP_00_04#0",
+   "speaker": "Morgana",
+   "en": "You're not gonna do it? We could[n]really use her articles, though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_PRECOOP_00_05#0",
+   "speaker": "Ohya",
+   "en": "Gimme 'nother... Mmmnn, put it[n]on my tab.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_RANK_10#0",
+   "speaker": "Ohya",
+   "en": "Yo! There you are!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_QUEST_00#0",
+   "speaker": "Ohya",
+   "en": "I'm exhausted from working five times[n]my usual work load...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_QUEST_00#1",
+   "speaker": "Ohya",
+   "en": "'S no way I could face any of this sober.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_QUEST_01#0",
+   "speaker": "Ohya",
+   "en": "Oh, there you are.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OOYA_SASOI_THROUGH_1#0",
+   "speaker": "Ohya",
+   "en": "What happened the other day?[n]Didn't you have any info for me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OOYA_SASOI_THROUGH_1#1",
+   "speaker": "Ohya",
+   "en": "I'm counting on you, as my own[n]private source.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OOYA_SASOI_THROUGH_2#0",
+   "speaker": "Ohya",
+   "en": "Is the Phantom Thieves boom over[n]already? If you're a serious fan, you[n]gotta show up! Just kidding.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OOYA_SASOI_THROUGH_2#1",
+   "speaker": "Ohya",
+   "en": "I mean, do what you want. You kids[n]nowadays really enjoy your freedom.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_WEATHER_00#0",
+   "speaker": "Ohya",
+   "en": "I can't write when it's raining. I just can't[n]get into the mood...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_WEATHER_00#1",
+   "speaker": "Ohya",
+   "en": "So, inevitably, I wind up drinking here[n]instead.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_WEATHER_00#2",
+   "speaker": "Ohya",
+   "en": "Inevitably, okay? Inevitably!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_WEATHER_01#0",
+   "speaker": "Ohya",
+   "en": "The press office goes crazy when it[n]snows in the city. Even when it's just[n]one or two centimeters.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_WEATHER_02#0",
+   "speaker": "Ohya",
+   "en": "Sheesh, I hate how it's always raining[n]this time of year.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_WEATHER_02#1",
+   "speaker": "Ohya",
+   "en": "When the weather's crappy, not even[n]my writing skills can improve the dull[n]photos.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_WEATHER_03#0",
+   "speaker": "Ohya",
+   "en": "I heard the Kanto region was directly hit[n]by the typhoon. It's all over the news.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_WEATHER_03#1",
+   "speaker": "Ohya",
+   "en": "But I'm doing what I want here by[n]covering the bar.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_WEATHER_04#0",
+   "speaker": "Ohya",
+   "en": "Ah-choo!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_WEATHER_04#1",
+   "speaker": "Ohya",
+   "en": "Hmmm... suppose someone's talking[n]about me behind my back, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_WEATHER_05#0",
+   "speaker": "Ohya",
+   "en": "It's really coming down out there.[n]Did you get wet?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_WEATHER_05#1",
+   "speaker": "Ohya",
+   "en": "Why don't you sit and wait it out?[n]I'm sure you brought me some[n]good info, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_WEATHER_06#0",
+   "speaker": "Ohya",
+   "en": "It's another hot summer this year.[n]I bet we're gonna break some[n]record temperatures.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_WEATHER_06#1",
+   "speaker": "Ohya",
+   "en": "Although I'd be pretty happy to let[n]those records stay unbroken.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_WEATHER_06#2",
+   "speaker": "Ohya",
+   "en": "Still, this time of year is the best[n]for a nice, refreshing cold one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_WEATHER_07#0",
+   "speaker": "Ohya",
+   "en": "I hear the flu's going around.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_WEATHER_07#1",
+   "speaker": "Ohya",
+   "en": "You should wear a mask... Places like[n]a crowded train can be dangerous.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_WEATHER_08#0",
+   "speaker": "Ohya",
+   "en": "Holy crap, it's cold... I can't hold my[n]camera steady when I'm shivering[n]my ass off!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_WEATHER_08#1",
+   "speaker": "Ohya",
+   "en": "The best thing for a day like today is[n]to coop up somewhere warm with[n]a nice, frosty beer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_WEATHER_08#2",
+   "speaker": "Ohya",
+   "en": "You wanna go get a drink? It'd help[n]you feel all fuzzy and warm... Well,[n]not like you actually can.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_TIME_01#0",
+   "speaker": "Ohya",
+   "en": "A runaway-train incident, huh? Is it[n]related to the psychotic breakdowns?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_TIME_02#0",
+   "speaker": "Ohya",
+   "en": "Kamoshida, the perverted teacher.[n]Hm, that might make a good story.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_TIME_03#0",
+   "speaker": "Ohya",
+   "en": "The authorities are really working the[n]Kaneshiro case. It's best to stay away[n]from him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_TIME_03#1",
+   "speaker": "Ohya",
+   "en": "But I guess that doesn't have[n]anything to do with you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_TIME_04#0",
+   "speaker": "Ohya",
+   "en": "Oh, there you are. I was wondering[n]where my informant had gone to.[n]Isn't it warm out?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_TIME_04#1",
+   "speaker": "Ohya",
+   "en": "Speaking of which, the public's[n]starting to warm up to the Phantom[n]Thieves. Your favorites!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_TIME_05#0",
+   "speaker": "Ohya",
+   "en": "So you came, Phantom Thieves[n]believer. I wonder what's next,[n]now that the Medjed case is over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_TIME_05#1",
+   "speaker": "Ohya",
+   "en": "But how the heck would you[n]know, right? Riiiiiight?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_TIME_06#0",
+   "speaker": "Ohya",
+   "en": "Okumura Foods... that was unexpected,[n]huh? And then your principal commits[n]suicide...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_TIME_06#1",
+   "speaker": "Ohya",
+   "en": "The public blames the Phantom Thieves[n]for both incidents, but something doesn't[n]add up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_TIME_06#2",
+   "speaker": "Ohya",
+   "en": "Maybe you're rubbing off on me. But[n]I guess a journalist's gotta question[n]everything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_TIME_07#0",
+   "speaker": "Ohya",
+   "en": "I wonder if the Phantom Thieves[n]leader really died. There hasn't[n]been any comment from the police.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_TIME_07#1",
+   "speaker": "Ohya",
+   "en": "I don't like that detective, the Akechi[n]guy... He's so cocky.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_TIME_08#0",
+   "speaker": "Ohya",
+   "en": "Oh, there you are. Wow, you look[n]really serious.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_TIME_08#1",
+   "speaker": "Ohya",
+   "en": "You want a drink to loosen up?[n]...Just kidding.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_TIME_09#0",
+   "speaker": "Ohya",
+   "en": "Oh, there you are... but judging from[n]that look, you've got your own problems[n]on your mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_TIME_09#1",
+   "speaker": "Ohya",
+   "en": "Things aren't great for me either. I keep[n]looking for something newsworthy, but[n]everyone and everything's doing fine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_TIME_09#2",
+   "speaker": "Ohya",
+   "en": "The heck's going on here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_SECOMD_00#0",
+   "speaker": "Ohya",
+   "en": "You still need something from me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BEGIN_NOTCOOP_00#0",
+   "speaker": "Ohya",
+   "en": "I have to go back to work at the office, so[n]Lala-chan said she'll keep you company.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_COOP_00_00#0",
+   "speaker": "Ohya",
+   "en": "Do you have a lot of info on the[n]Phantom Thieves?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_COOP_10_00#0",
+   "speaker": "Ohya",
+   "en": "You want me to write something?[n]Sure, I'll see what I can do.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_COOP_10_01#0",
+   "speaker": "Ohya",
+   "en": "Obviously you're here to see me, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_COOP_10_01#1",
+   "speaker": "Ohya",
+   "en": "And info on the Phantom Thieves is on[n]the way?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_SPOT_01_00#0",
+   "speaker": "Ohya",
+   "en": "*sigh* I can't gather any news because[n]of the chief. He doubts that I'm dating[n]a younger guy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_SPOT_01_00#1",
+   "speaker": "Ohya",
+   "en": "Hey, should we try going on an actual[n]date? Any beaches around here or[n]something?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_SPOT_01_00#2",
+   "speaker": "Ohya",
+   "en": "...Just kidding. You have some Phantom[n]Thieves info for me again today, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_SPOT_02_00#0",
+   "speaker": "Ohya",
+   "en": "I've been stuck at work lately, so I[n]haven't had any decent food...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_SPOT_02_00#1",
+   "speaker": "Ohya",
+   "en": "I wish I could go eat sushi, now that[n]I got my bonus...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_SPOT_02_00#2",
+   "speaker": "Ohya",
+   "en": "Oh, did you bring me some Phantom[n]Thieves info?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_SPOT_03_00#0",
+   "speaker": "Ohya",
+   "en": "Hey... why don't we do something that[n]an actual couple might do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_SPOT_03_00#1",
+   "speaker": "Ohya",
+   "en": "Maybe go to Odaiba...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_SPOT_03_00#2",
+   "speaker": "Ohya",
+   "en": "A-Anyway, you brought me some info on the[n]Phantom Thieves, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_SPOT_04_00#0",
+   "speaker": "Ohya",
+   "en": "I wish I could chug some sake and forget[n]everything. Maybe somewhere with...[n]teppanyaki...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_SPOT_04_00#1",
+   "speaker": "Ohya",
+   "en": "Ah, well, I probably shouldn't be talking[n]like that to a kid.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_SPOT_04_00#2",
+   "speaker": "Ohya",
+   "en": "Do you have some Phantom[n]Thieves info for me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_SPOT_05_00#0",
+   "speaker": "Ohya",
+   "en": "I haven't been home lately, so my[n]place is like a trash can... Have you[n]been keeping your room clean?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_SPOT_05_00#1",
+   "speaker": "Ohya",
+   "en": "I can check for you if you want![n]...Just kidding.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_SPOT_05_00#2",
+   "speaker": "Ohya",
+   "en": "So, did you bring me some Phantom[n]Thieves info?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_COOP_01_00#0",
+   "speaker": "Ohya",
+   "en": "Have you heard any good gossip?[n]My deadline's coming up, and[n]I'm all out of material.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_COOP_01_00#1",
+   "speaker": "Ohya",
+   "en": "Sit down. I'll treat ya.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_COOP_02_00#0",
+   "speaker": "Ohya",
+   "en": "Take a seat. Any new info?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_COOP_03_00#0",
+   "speaker": "Ohya",
+   "en": "You brought me some news, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_COOP_04_00#0",
+   "speaker": "Ohya",
+   "en": "The higher-ups are starting to get[n]tired of one-off articles.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_COOP_04_00#1",
+   "speaker": "Ohya",
+   "en": "You have anything good to share?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_COOP_05_00#0",
+   "speaker": "Ohya",
+   "en": "Hey... you have some info to share,[n]riiight?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_COOP_05_00#1",
+   "speaker": "Ohya",
+   "en": "Need s'more info on the Phantom[n]Thievesssss. So sit your pretty lil[n]butt down...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_COOP_06_00#0",
+   "speaker": "Ohya",
+   "en": "*sigh* ...God, my head is splitting.[n]Work's been tough... I need a break...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_COOP_06_00#1",
+   "speaker": "Ohya",
+   "en": "You have any good stories? I'm takin'[n]a little break, so I'm all ears.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_COOP_07_00#0",
+   "speaker": "Ohya",
+   "en": "Can I talk to you about Kayo for a bit?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C15_COOP_07_02#0",
+   "speaker": null,
+   "en": "Ohya seems awfully tired...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C15_COOP_07_02#1",
+   "speaker": null,
+   "en": "I acquired the chief's name.[n]Let's go to Mementos[n]and change his heart...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_COOP_07_03#0",
+   "speaker": "Ohya",
+   "en": "So you won't believe how weird the[n]chief's been acting!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_COOP_07_03#1",
+   "speaker": "Ohya",
+   "en": "Sit down so I can give you the details!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_COOP_08_00#0",
+   "speaker": "Ohya",
+   "en": "I gotta talk to you about Kayo's case...[n]It's important.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_COOP_08_00#1",
+   "speaker": "Ohya",
+   "en": "Do you have a minute...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_COOP_09_00#0",
+   "speaker": "Ohya",
+   "en": "I have to tell you something.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_COOP_09_00#1",
+   "speaker": "Ohya",
+   "en": "Could you join me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_COOP_09_01#0",
+   "speaker": "Ohya",
+   "en": "There's a place I wanna go today.[n]You'll come with me, riiight?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_DOUZOKUSEI#0",
+   "speaker": null,
+   "en": "I feel I can become closer with[n]Ohya thanks to the [var 2][n]Persona [clr 1][var 5][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANKUP_OK#0",
+   "speaker": null,
+   "en": "I feel like my bond with Ohya[n]will grow stronger soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANKUP_NG#0",
+   "speaker": null,
+   "en": "I don't think my bond with[n]Ohya will deepen just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANK_MAX_00#0",
+   "speaker": null,
+   "en": "I have a strong bond[n]with Ohya...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANK_MAX_01#0",
+   "speaker": null,
+   "en": "I have a special bond[n]with Ohya...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_NIGHT#0",
+   "speaker": "Morgana",
+   "en": "What are you gonna do? Are you[n]gonna hang out with Ohya?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_SHIDOU#0",
+   "speaker": "Morgana",
+   "en": "Nobody thinks you're alive at this point,[n]so it should be okay as long as you're[n]careful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_SHIDOU#1",
+   "speaker": "Morgana",
+   "en": "What are you gonna do? Are you[n]gonna hang out with Ohya?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK#0",
+   "speaker": null,
+   "en": "Hang out with her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK#1",
+   "speaker": null,
+   "en": "Check bond with Ohya",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK#2",
+   "speaker": null,
+   "en": "Decline",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_YES_01_00#0",
+   "speaker": "Ohya",
+   "en": "For real? From the look of it, you must[n]have good info, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_YES_01_00#1",
+   "speaker": "Ohya",
+   "en": "Give me the details about the Kamoshida[n]incident.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_YES_02_00#0",
+   "speaker": "Ohya",
+   "en": "Seriously, where do you get this stuff[n]from? True believers are scary...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_YES_02_00#1",
+   "speaker": "Ohya",
+   "en": "Hey, you want a drink?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_YES_03_00#0",
+   "speaker": "Ohya",
+   "en": "Sorry, but let's go somewhere else.[n]You can give me the info later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_YES_03_00#1",
+   "speaker": "Ohya",
+   "en": "We gotta get outta here quickly.[n]Someone problematic might've[n]found out about us...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_YES_04_00#0",
+   "speaker": "Ohya",
+   "en": "All right, let's hear it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_YES_05_00#0",
+   "speaker": "Ohya",
+   "en": "I'm expecting a lot from you...[n]Okay, take a seat!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_YES_06_00#0",
+   "speaker": "Ohya",
+   "en": "Lala-chan, two drinks please...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_YES_06_00#1",
+   "speaker": "Ohya",
+   "en": "Here, take a seat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_YES_07_01#0",
+   "speaker": "Ohya",
+   "en": "Okay... Sit down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_YES_07_00#0",
+   "speaker": "Ohya",
+   "en": "Now, take a seat!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_YES_08_00#0",
+   "speaker": "Ohya",
+   "en": "Thanks. Stop standing and sit down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_YES_09_00#0",
+   "speaker": "Ohya",
+   "en": "Well then, let's go to Skytree today.[n]I wanna see that view.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_YES_09_00#1",
+   "speaker": "Ohya",
+   "en": "Okay, let's head out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_YES_09_00#2",
+   "speaker": "Ohya",
+   "en": "Lala-chan, put it on my tab.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_YES_09_01#0",
+   "speaker": "Ohya",
+   "en": "Take a seat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_YES_09_02#0",
+   "speaker": "Ohya",
+   "en": "Sorry, I have to take this. Just a minute.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_COOP_ESCAPE#0",
+   "speaker": "Morgana",
+   "en": "Well, I'm gonna walk around. Let me[n]know when you're ready to leave.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_YES_00_00#0",
+   "speaker": "Ohya",
+   "en": "Oh, I look forward to it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_YES_10_00#0",
+   "speaker": "Ohya",
+   "en": "Sit next to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_YES_10_01#0",
+   "speaker": "Ohya",
+   "en": "Sit down. So, what type of article[n]do you want me to write?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C15_SPOT_01_01#0",
+   "speaker": null,
+   "en": "Maybe I should invite[n]her to Seaside Park...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C15_SPOT_01_02#0",
+   "speaker": null,
+   "en": "Invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C15_SPOT_01_02#1",
+   "speaker": null,
+   "en": "Don't invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_SPOT_01_03#0",
+   "speaker": "Ohya",
+   "en": "Oh, not bad. It's a bit far, but we[n]can make it if we leave now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_SPOT_01_03#1",
+   "speaker": "Ohya",
+   "en": "All right! Operation Secret Lovers,[n]commence!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C15_SPOT_02_01#0",
+   "speaker": null,
+   "en": "Maybe I should invite her[n]out for expensive sushi...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C15_SPOT_02_02#0",
+   "speaker": null,
+   "en": "Invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C15_SPOT_02_02#1",
+   "speaker": null,
+   "en": "Don't invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_SPOT_02_03#0",
+   "speaker": "Ohya",
+   "en": "I see... a sushi shop in Ginza, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_SPOT_02_03#1",
+   "speaker": "Ohya",
+   "en": "Sounds good. Let's go! I'll treat you,[n]of course.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C15_SPOT_03_01#0",
+   "speaker": null,
+   "en": "Maybe I should invite her to ride[n]the Odaiba Ferris wheel with me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C15_SPOT_03_02#0",
+   "speaker": null,
+   "en": "Invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C15_SPOT_03_02#1",
+   "speaker": null,
+   "en": "Don't invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_SPOT_03_03#0",
+   "speaker": "Ohya",
+   "en": "What!? A Ferris wheel!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_SPOT_03_03#1",
+   "speaker": "Ohya",
+   "en": "Wow, that's usually just for kids,[n]but... whatever! Let's go before[n]I change my mind!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C15_SPOT_04_01#0",
+   "speaker": null,
+   "en": "Maybe I should invite her to[n]go get monjayaki with me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C15_SPOT_04_02#0",
+   "speaker": null,
+   "en": "Invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C15_SPOT_04_02#1",
+   "speaker": null,
+   "en": "Don't invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_SPOT_04_03#0",
+   "speaker": "Ohya",
+   "en": "Ooh, good idea. I'm surprised you[n]know about that place... Pretty[n]well-informed, I see.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_SPOT_04_03#1",
+   "speaker": "Ohya",
+   "en": "You can't drink alcohol, so you're[n]in charge of making the monja.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C15_SPOT_05_01#0",
+   "speaker": null,
+   "en": "Should I invite her to my room?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C15_SPOT_05_02#0",
+   "speaker": null,
+   "en": "Invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C15_SPOT_05_02#1",
+   "speaker": null,
+   "en": "Don't invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_SPOT_05_03#0",
+   "speaker": "Ohya",
+   "en": "Whoa, is that okay!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_SPOT_05_03#1",
+   "speaker": "Ohya",
+   "en": "Let's go, then! I'm super excited!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_COOP_CANCEL_00#0",
+   "speaker": "Ohya",
+   "en": "Booo...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_COOP_CANCEL_00#1",
+   "speaker": "Ohya",
+   "en": "Lala-chaaan, give me a refill!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_KANDA#0",
+   "speaker": null,
+   "en": "You can now go to [clr 1]Kanda[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINJUKU#0",
+   "speaker": null,
+   "en": "You can now go to [clr 2]Shinjuku[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_AKIHABARA#0",
+   "speaker": null,
+   "en": "You can now go to [clr 2]Akihabara[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_AKIHABARA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_INOKASHIRA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Inokashira Park[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_INOKASHIRA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_OGIKUBO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ogikubo Ramen[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_OGIKUBO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy eating ramen[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ODAIBA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Odaiba Seaside Park[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ODAIBA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like such parks to[n]hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_UENO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ueno Museum[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_UENO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy art museums[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TSUKISHIMA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Tsukishima Monja[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TSUKISHIMA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy eating monjayaki[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_HARAJUKU#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Harajuku Takenoko Street[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_HARAJUKU#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy Takenoko Street[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TYUKAGAI#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Motomachi Chinatown[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TYUKAGAI#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MAIHAMA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Maihama Destinyland[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MAIHAMA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ASAKUSA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Asakusa[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ASAKUSA#1",
+   "speaker": null,
+   "en": "You can also invite people who may[n]enjoy the Skytree or Nakamise Street[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_IKEBUKURO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ikebukuro Planetarium[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_IKEBUKURO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MEIJIJINGU#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Meiji Shrine[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MEIJIJINGU#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MEIJIJINGU#2",
+   "speaker": null,
+   "en": "Furthermore, you can go by[n]yourself to pay homage to[n]the shrine if you wish.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SUIDOUBASH#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Suidobashi Dome Town[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SUIDOUBASH#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHIBUYA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Shibuya Wilton Hotel[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHIBUYA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_GINZA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ginza Sushi Bar[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_GINZA#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may enjoy eating expensive sushi[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_JINBOCHO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Jinbocho Book Town[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_JINBOCHO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_JINBOCHO#2",
+   "speaker": null,
+   "en": "Furthermore, you can go by[n]yourself for some shopping[n]if you so desire.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ICHIGAYA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ichigaya Fishing Pond[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ICHIGAYA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy fishing to[n]hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ICHIGAYA#2",
+   "speaker": null,
+   "en": "Furthermore, you can go by[n]yourself and try your hand at[n]fishing if you so choose.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINAGAWA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Shinagawa Aquarium[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINAGAWA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy the aquarium[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_NAKANO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Nakano Commerce Building District[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_NAKANO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy that location[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_00#0",
+   "speaker": "Ohya",
+   "en": "I've been waiting for you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_00#1",
+   "speaker": "Ohya",
+   "en": "Isn't it kinda refreshing to see each[n]other like this in broad daylight?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_00#2",
+   "speaker": "Ohya",
+   "en": "Okay, let's start off this celebratory[n]moment with something to drink!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C15_BYEGREET_00_01#0",
+   "speaker": null,
+   "en": "I don't want any alcohol...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C15_BYEGREET_00_01#1",
+   "speaker": null,
+   "en": "Wait until I'm of age.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C15_BYEGREET_00_01#2",
+   "speaker": null,
+   "en": "Well, maybe just one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_02#0",
+   "speaker": "Ohya",
+   "en": "Sorry! Mostly joking about the booze.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_02#1",
+   "speaker": "Ohya",
+   "en": "But you'll join me once you're old[n]enough, riiight?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_03#0",
+   "speaker": "Ohya",
+   "en": "Oho, I'll hold you to that, 'kay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_04#0",
+   "speaker": "Ohya",
+   "en": "That's the spirit! Oh, no, sorry—[n]I was just kidding.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_04#1",
+   "speaker": "Ohya",
+   "en": "You can join in on the booze once[n]you're of age.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_05#0",
+   "speaker": "Ohya",
+   "en": "...So, I'm thinking it's time for me to[n]write an article about Kayo's case.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_05#1",
+   "speaker": "Ohya",
+   "en": "Ever since all that stuff happened[n]with Shido, the stories haven't[n]stopped rolling in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_05#2",
+   "speaker": "Ohya",
+   "en": "...But it looks like I can finally avenge her.[n]And it's all thanks to your hard work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_05#3",
+   "speaker": "Ohya",
+   "en": "Here. It's a record of all the struggles[n]we shared.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_06#0",
+   "speaker": "Ohya",
+   "en": "...Thank you so much. You better keep[n]it up when you're back home too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_06#1",
+   "speaker": "Ohya",
+   "en": "...Whoa! Wait... What the hell?[n]No, I'm okay. I just have something[n]in my eye, is all!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_07#0",
+   "speaker": "Ohya",
+   "en": "...Whoa! Wait... What the hell?[n]No, I'm okay. I just have something[n]in my eye, is all!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_01_00#0",
+   "speaker": "Ohya",
+   "en": "Do you have ESP?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_01_00#1",
+   "speaker": "Ohya",
+   "en": "I'm surprised you knew where I was...[n]Are you here to say goodbye?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C15_BYEGREET_01_01#0",
+   "speaker": null,
+   "en": "Yep.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C15_BYEGREET_01_01#1",
+   "speaker": null,
+   "en": "I wanted to thank you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C15_BYEGREET_01_01#2",
+   "speaker": null,
+   "en": "Are you busy?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_01_02#0",
+   "speaker": "Ohya",
+   "en": "Ahaha... Thanks. I wanted to speak with[n]you about something too...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_01_03#0",
+   "speaker": "Ohya",
+   "en": "...That's my line.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_01_04#0",
+   "speaker": "Ohya",
+   "en": "As you can see, it's my day off!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_01_05#0",
+   "speaker": "Ohya",
+   "en": "So... I'm close to being able to report on[n]Kayo's case.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_01_05#1",
+   "speaker": "Ohya",
+   "en": "Ever since all that stuff happened[n]with Shido, the stories haven't[n]stopped rolling in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_01_05#2",
+   "speaker": "Ohya",
+   "en": "...But it looks like I can finally avenge her.[n]And it's all thanks to your hard work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_01_05#3",
+   "speaker": "Ohya",
+   "en": "Here. It's a record of all the struggles[n]we shared.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_01_06#0",
+   "speaker": "Ohya",
+   "en": "...Take care of yourself over there. I'll[n]call you, so you can keep me updated[n]on things.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_01_06#1",
+   "speaker": "Ohya",
+   "en": "In a way, we're accomplices, you know?[n]So I won't let you ignore my calls, got it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_01_07#0",
+   "speaker": "Ohya",
+   "en": "In a way, we're accomplices, you know?[n]So I won't let you ignore my calls, got it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_00_5#0",
+   "speaker": "Ohya",
+   "en": "I've been waiting for you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_00_5#1",
+   "speaker": "Ohya",
+   "en": "Isn't it kinda refreshing to see each[n]other like this in broad daylight?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_00_5#2",
+   "speaker": "Ohya",
+   "en": "Okay, let's start off this celebratory[n]moment with something to drink!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C15_BYEGREET_00_01_5#0",
+   "speaker": null,
+   "en": "I don't want any alcohol...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C15_BYEGREET_00_01_5#1",
+   "speaker": null,
+   "en": "Wait until I'm of age.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C15_BYEGREET_00_01_5#2",
+   "speaker": null,
+   "en": "Well, maybe just one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_02_5#0",
+   "speaker": "Ohya",
+   "en": "Sorry! Mostly joking about the booze.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_02_5#1",
+   "speaker": "Ohya",
+   "en": "But you'll join me once you're old[n]enough, riiight?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_03_5#0",
+   "speaker": "Ohya",
+   "en": "Fiiine... I'll be waiting!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_03_5#1",
+   "speaker": "Ohya",
+   "en": "One of these days, we gotta have an[n]all-night bender, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_04_5#0",
+   "speaker": "Ohya",
+   "en": "That's the spirit! Oh, sorry, I was just[n]kidding.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_04_5#1",
+   "speaker": "Ohya",
+   "en": "You can join in on the booze once[n]you're of age.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_05_5#0",
+   "speaker": "Ohya",
+   "en": "...So, I'm thinking it's time for me to[n]write an article about Kayo's case.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_05_5#1",
+   "speaker": "Ohya",
+   "en": "Ever since all that stuff happened[n]with Shido, the stories haven't[n]stopped rolling in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_05_5#2",
+   "speaker": "Ohya",
+   "en": "...But it looks like I can finally avenge her.[n]And it's all thanks to your hard work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_05_5#3",
+   "speaker": "Ohya",
+   "en": "You know, you and I are partners now.[n]In a lot of ways.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_05_5#4",
+   "speaker": "Ohya",
+   "en": "Here. It's a record of all the struggles[n]we shared.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_06_5#0",
+   "speaker": "Ohya",
+   "en": "*sigh* So this is it, huh? You go your[n]way, and I go mine? It's gonna get[n]so boring around here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_06_5#1",
+   "speaker": "Ohya",
+   "en": "Though something tells me going[n]home isn't gonna keep you from[n]stirring up some trouble.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_06_5#2",
+   "speaker": "Ohya",
+   "en": "Call it a reporter's hunch, I guess.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_06_5#3",
+   "speaker": "Ohya",
+   "en": "I suppose you're just a permanent[n]person of interest. So no dropping[n]off the map, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_00_07_5#0",
+   "speaker": "Ohya",
+   "en": "I suppose you're just a permanent[n]person of interest. So no dropping[n]off the map, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_01_00_5#0",
+   "speaker": "Ohya",
+   "en": "Do you have ESP?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_01_00_5#1",
+   "speaker": "Ohya",
+   "en": "I'm surprised you knew where I was...[n]Are you here to say goodbye?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C15_BYEGREET_01_01_5#0",
+   "speaker": null,
+   "en": "Yep.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C15_BYEGREET_01_01_5#1",
+   "speaker": null,
+   "en": "I wanted to thank you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C15_BYEGREET_01_01_5#2",
+   "speaker": null,
+   "en": "Are you busy?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_01_02_5#0",
+   "speaker": "Ohya",
+   "en": "Ahaha... Thanks. I wanted to speak with[n]you about something too...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_01_03_5#0",
+   "speaker": "Ohya",
+   "en": "...That's my line.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_01_04_5#0",
+   "speaker": "Ohya",
+   "en": "As you can see, it's my day off!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_01_05_5#0",
+   "speaker": "Ohya",
+   "en": "So... I'm close to being able to report on[n]Kayo's case.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_01_05_5#1",
+   "speaker": "Ohya",
+   "en": "Ever since all that stuff happened[n]with Shido, the stories haven't[n]stopped rolling in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_01_05_5#2",
+   "speaker": "Ohya",
+   "en": "...But it looks like I can finally avenge her.[n]And it's all thanks to your hard work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_01_05_5#3",
+   "speaker": "Ohya",
+   "en": "Here. It's a record of the struggles[n]we shared.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_01_06_5#0",
+   "speaker": "Ohya",
+   "en": "By the way, I heard the Phantom[n]Thieves are disbanding? It's gonna be[n]so boring around here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_01_06_5#1",
+   "speaker": "Ohya",
+   "en": "It's not every day you get to chase[n]after a bunch of young revolutionaries[n]like them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_01_06_5#2",
+   "speaker": "Ohya",
+   "en": "Hold on, though... I bet you got more[n]tricks up your sleeve. You're going[n]home, not turning over a new leaf!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_01_06_5#3",
+   "speaker": "Ohya",
+   "en": "I'll be keeping an ear out for your next[n]adventure, okay? I promise, I'll tell[n]your story to the world!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C15_BYEGREET_01_07_5#0",
+   "speaker": "Ohya",
+   "en": "I'll be keeping an ear out for your next[n]adventure, okay? I promise, I'll tell[n]your story to the world!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

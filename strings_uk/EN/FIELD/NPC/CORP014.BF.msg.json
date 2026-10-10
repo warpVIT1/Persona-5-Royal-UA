@@ -1,0 +1,887 @@
+{
+ "file": "EN/FIELD/NPC/CORP014.BF",
+ "entries": [
+  {
+   "id": "MSG_C14_PRECOOP_00_00#0",
+   "speaker": "Kawakami",
+   "en": "As I've been saying...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_00_01#0",
+   "speaker": "Kawakami",
+   "en": "Get home safely, [lName]-kun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_00_02#0",
+   "speaker": "Kawakami",
+   "en": "Well then, I have another matter to[n]attend to, so I have to excuse myself...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_00_03#0",
+   "speaker": "Ms. Chouno",
+   "en": "No! We're not finished talking yet!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_00_04#0",
+   "speaker": "Kawakami",
+   "en": "But I...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_00_05#0",
+   "speaker": "Ms. Chouno",
+   "en": "There's been a series of scandals on[n]this campus. We're all being called[n]into question.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_00_05#1",
+   "speaker": "Ms. Chouno",
+   "en": "And yet you leave work earlier than[n]anyone—and you barely make it to[n]the faculty meetings!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_00_05#2",
+   "speaker": "Ms. Chouno",
+   "en": "Explain yourself! Don't tell me you're[n]out running around at night!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_00_06#0",
+   "speaker": "Morgana",
+   "en": "Kawakami's being grilled by Chouno.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_00_06#1",
+   "speaker": "Morgana",
+   "en": "She said she'd do anything if we helped[n]her out, so let's clear up Chouno's[n]suspicions.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_00_20#0",
+   "speaker": "Kawakami",
+   "en": "No, as I've said before...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_00_21#0",
+   "speaker": "Ms. Chouno",
+   "en": "Today, you're going to explain to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_00_21#1",
+   "speaker": "Ms. Chouno",
+   "en": "Why do you always arrive late in the[n]morning and leave earlier at night in[n]such a rush?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_00_22#0",
+   "speaker": "Morgana",
+   "en": "Chouno cornered her again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_00_22#1",
+   "speaker": "Morgana",
+   "en": "She said she'd do anything if we helped[n]her out, so let's clear up Chouno's[n]suspicions.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C14_PRECOOP_10_00#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MND_C14_PRECOOP_10_00#1",
+   "speaker": null,
+   "en": "If I had [clr 26][stLvLabel 1 3][clr 27] level of [stIcon 1][clr 26][stLabel 1][clr 27],[n]I might be able to persuade[n]the women...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_10_01#0",
+   "speaker": "Morgana",
+   "en": "Can you think of anything...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_10_01#1",
+   "speaker": "Morgana",
+   "en": "You gotta polish your [stIcon 1][clr 26][stLabel 1][clr 27] to come[n]up with a line that'll persuade them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_10_01#2",
+   "speaker": "Morgana",
+   "en": "I feel bad for Kawakami, but we'll have[n]to deal with it later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_10_02#0",
+   "speaker": "Kawakami",
+   "en": "E-Excuse me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_10_02#1",
+   "speaker": "Kawakami",
+   "en": "I have to go! Have a good evening!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_10_03#0",
+   "speaker": "Ms. Chouno",
+   "en": "Oh! She got away again...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C14_PRECOOP_20_00#0",
+   "speaker": null,
+   "en": "Chouno might believe me[n]at my current [stIcon 1][clr 26]Charm[clr 27] level!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_20_01#0",
+   "speaker": "Ms. Chouno",
+   "en": "The school's closing soon,[n]Mr. [lName]. Head on home[n]before it gets late.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_20_01#1",
+   "speaker": "Ms. Chouno",
+   "en": "Or did you need something from[n]Ms. Kawakami?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C14_PRECOOP_20_02#0",
+   "speaker": null,
+   "en": "I have a question for her.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C14_PRECOOP_20_02#1",
+   "speaker": null,
+   "en": "No, I'm good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_20_03#0",
+   "speaker": "Ms. Chouno",
+   "en": "...What?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_20_04#0",
+   "speaker": "Kawakami",
+   "en": "Huh...? Oh! Y-You have another[n]question!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_20_05#0",
+   "speaker": "Ms. Chouno",
+   "en": "...Another question?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_20_06#0",
+   "speaker": "Kawakami",
+   "en": "Th-That's right!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_20_06#1",
+   "speaker": "Kawakami",
+   "en": "[lName]-kun's questions are[n]complicated, so I take time at[n]night to help him...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_20_07#0",
+   "speaker": "Ms. Chouno",
+   "en": "So you're giving individual lessons[n]outside of school hours, hm?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_20_07#1",
+   "speaker": "Ms. Chouno",
+   "en": "What passion! You are the ideal teacher!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_20_07#2",
+   "speaker": "Ms. Chouno",
+   "en": "A passionate teacher is exactly what[n]we need at this school. I'm sorry for[n]suspecting you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_20_07#3",
+   "speaker": "Ms. Chouno",
+   "en": "Well then, keep up the hard work,[n]you two.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_20_08#0",
+   "speaker": "Kawakami",
+   "en": "She just kind of convinced herself...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_20_08#1",
+   "speaker": "Kawakami",
+   "en": "But that did clear up her suspicion,[n]so... thanks.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_20_08#2",
+   "speaker": "Kawakami",
+   "en": "Could you come with me for a bit?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_20_09#0",
+   "speaker": "Kawakami",
+   "en": "I can't talk about this at school...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_20_09_01#0",
+   "speaker": "Kawakami",
+   "en": "This is the address and phone number[n]of my night job.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C14_PRECOOP_20_10#0",
+   "speaker": null,
+   "en": "I received Kawakami's[n]phone number.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_20_11#0",
+   "speaker": "Kawakami",
+   "en": "Call at night and request me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_20_11#1",
+   "speaker": "Kawakami",
+   "en": "Just be careful that it doesn't show up[n]in your call history though, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_20_12#0",
+   "speaker": "Morgana",
+   "en": "Yeah, you did it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_20_12#1",
+   "speaker": "Morgana",
+   "en": "No call history means a public telephone.[n]Let's call from [clr 2]Leblanc's yellow phone[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_20_12#2",
+   "speaker": "Morgana",
+   "en": "Let's call Kawakami when you're free,[n]and invite her to meet you at your room!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_20_13#0",
+   "speaker": "Kawakami",
+   "en": "Okay, I have to go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_30_00#0",
+   "speaker": "Kawakami",
+   "en": "What!? Hold on...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_PRECOOP_99_00#0",
+   "speaker": "Kawakami",
+   "en": "I can be there right away if you[n]request me, so call me at night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_00#0",
+   "speaker": "Kawakami",
+   "en": "...I've been waiting for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_00#1",
+   "speaker": "Kawakami",
+   "en": "Even though it's Sunday, aren't you[n]nervous being at school, just the two[n]of us?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_00#2",
+   "speaker": "Kawakami",
+   "en": "It sure was a crazy year, huh? Try to be[n]a little more diligent with school once[n]you're home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C14_BYEGREET_00_01#0",
+   "speaker": null,
+   "en": "Okay.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C14_BYEGREET_00_01#1",
+   "speaker": null,
+   "en": "I'll be an honor student.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C14_BYEGREET_00_01#2",
+   "speaker": null,
+   "en": "I've always been diligent.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_02#0",
+   "speaker": "Kawakami",
+   "en": "Wow, you're so obedient.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_03#0",
+   "speaker": "Kawakami",
+   "en": "That's the spirit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_04#0",
+   "speaker": "Kawakami",
+   "en": "I don't really think that's true...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_05#0",
+   "speaker": "Kawakami",
+   "en": "Here... I got you a present.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_06#0",
+   "speaker": "Kawakami",
+   "en": "You get special treatment, Master... [clr 2][f 1 9 0][clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_06#1",
+   "speaker": "Kawakami",
+   "en": "So... make sure you let me know if[n]you need anything, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_06#2",
+   "speaker": "Kawakami",
+   "en": "I would've probably been crushed[n]if you weren't there for me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_06#3",
+   "speaker": "Kawakami",
+   "en": "I think I would've retired in shame,[n]never being able to face myself...[n]or my students.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_06#4",
+   "speaker": "Kawakami",
+   "en": "[lName]-kun... thank you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_06#5",
+   "speaker": "Kawakami",
+   "en": "Hey... once you graduate from high[n]school, you should get your own place.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_06#6",
+   "speaker": "Kawakami",
+   "en": "I'll do all your household chores.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_07#0",
+   "speaker": "Kawakami",
+   "en": "I'll do all your household chores.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_00#0",
+   "speaker": "Kawakami",
+   "en": "Oh... [lName]-kun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_00#1",
+   "speaker": "Kawakami",
+   "en": "What a coincidence. I'm about to[n]give a lecture. Did you... come to[n]see the campus?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_00#2",
+   "speaker": "Kawakami",
+   "en": "You're going back home tomorrow,[n]right...? Make sure you keep up your[n]studies there, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C14_BYEGREET_01_01#0",
+   "speaker": null,
+   "en": "Thanks for everything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C14_BYEGREET_01_01#1",
+   "speaker": null,
+   "en": "I'll work hard.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C14_BYEGREET_01_01#2",
+   "speaker": null,
+   "en": "I don't think I can.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_02#0",
+   "speaker": "Kawakami",
+   "en": "Of course. And let me know if there's[n]anything you need.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_03#0",
+   "speaker": "Kawakami",
+   "en": "You are preparing for your entrance[n]exams, after all...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_03#1",
+   "speaker": "Kawakami",
+   "en": "Let me know if there's anything you[n]need, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_04#0",
+   "speaker": "Kawakami",
+   "en": "You'll do just fine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_04#1",
+   "speaker": "Kawakami",
+   "en": "But let me know if there's anything[n]you need.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_05#0",
+   "speaker": "Kawakami",
+   "en": "Oh yeah, here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_06#0",
+   "speaker": "Kawakami",
+   "en": "It's a present... a memento of my[n]career as a maid.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_06#1",
+   "speaker": "Kawakami",
+   "en": "I never could've survived everything[n]I went through if you weren't there[n]for me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_06#2",
+   "speaker": "Kawakami",
+   "en": "I think I would've retired in shame,[n]never being able to face myself...[n]or my students.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_06#3",
+   "speaker": "Kawakami",
+   "en": "...To be honest, I wanted to attend[n]your graduation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_06#4",
+   "speaker": "Kawakami",
+   "en": "Be sure to work hard back home.[n]I'll be cheering you on from here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_07#0",
+   "speaker": "Kawakami",
+   "en": "Be sure to work hard back home.[n]I'll be cheering you on from here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_00_5#0",
+   "speaker": "Kawakami",
+   "en": "...I've been waiting for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_00_5#1",
+   "speaker": "Kawakami",
+   "en": "Even though it's Sunday, aren't you[n]nervous being at school, just the two[n]of us?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_00_5#2",
+   "speaker": "Kawakami",
+   "en": "It sure was a crazy year, huh? Try to be[n]a little more diligent with school once[n]you're home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C14_BYEGREET_00_01_5#0",
+   "speaker": null,
+   "en": "Okay.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C14_BYEGREET_00_01_5#1",
+   "speaker": null,
+   "en": "I'll be an honor student.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C14_BYEGREET_00_01_5#2",
+   "speaker": null,
+   "en": "I've always been diligent.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_02_5#0",
+   "speaker": "Kawakami",
+   "en": "Wow, you're so obedient.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_03_5#0",
+   "speaker": "Kawakami",
+   "en": "That's the spirit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_04_5#0",
+   "speaker": "Kawakami",
+   "en": "I don't really think that's true...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_05_5#0",
+   "speaker": "Kawakami",
+   "en": "This is the last time we'll see each[n]other for a while. You can at least[n]look a little sad about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_05_5#1",
+   "speaker": "Kawakami",
+   "en": "I'm kidding. Honestly, seeing you so[n]happy gives me peace of mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_05_5#2",
+   "speaker": "Kawakami",
+   "en": "This year has felt so fulfilling...[n]I had to take care of you sometimes,[n]but I also learned from you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_05_5#3",
+   "speaker": "Kawakami",
+   "en": "So this isn't meant to thank you for[n]all of that, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_06_5#0",
+   "speaker": "Kawakami",
+   "en": "You get special treatment, Master... [clr 2][f 1 9 0][clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_06_5#1",
+   "speaker": "Kawakami",
+   "en": "So... make sure you let me know if[n]you need anything, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_06_5#2",
+   "speaker": "Kawakami",
+   "en": "It wasn't even for that long, but...[n]you're my student and my master.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_06_5#3",
+   "speaker": "Kawakami",
+   "en": "No matter where you are, no[n]matter how long it takes, you'll[n]always have me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_06_5#4",
+   "speaker": "Kawakami",
+   "en": "Take care. If you ever need me,[n]just say the word, and I'm there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_00_07_5#0",
+   "speaker": "Kawakami",
+   "en": "Take care. If you ever need me,[n]just say the word, and I'm there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_00_5#0",
+   "speaker": "Kawakami",
+   "en": "Oh... [lName]-kun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_00_5#1",
+   "speaker": "Kawakami",
+   "en": "What a coincidence. I'm about to[n]give a lecture. Did you... come to[n]see the campus?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_00_5#2",
+   "speaker": "Kawakami",
+   "en": "You're going back home tomorrow,[n]right...? Make sure you keep up your[n]studies there, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C14_BYEGREET_01_01_5#0",
+   "speaker": null,
+   "en": "Thanks for everything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C14_BYEGREET_01_01_5#1",
+   "speaker": null,
+   "en": "I'll work hard.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C14_BYEGREET_01_01_5#2",
+   "speaker": null,
+   "en": "I don't think I can.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_02_5#0",
+   "speaker": "Kawakami",
+   "en": "Of course. And let me know if there's[n]anything you need.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_03_5#0",
+   "speaker": "Kawakami",
+   "en": "You are preparing for your entrance[n]exams, after all...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_03_5#1",
+   "speaker": "Kawakami",
+   "en": "Let me know if there's anything you[n]need, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_04_5#0",
+   "speaker": "Kawakami",
+   "en": "You'll do just fine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_04_5#1",
+   "speaker": "Kawakami",
+   "en": "But let me know if there's anything[n]you need.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_05_5#0",
+   "speaker": "Kawakami",
+   "en": "This is the last time we'll see each[n]other for a while. You can at least[n]look a little sad about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_05_5#1",
+   "speaker": "Kawakami",
+   "en": "I'm kidding. Honestly, seeing you so[n]happy gives me peace of mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_05_5#2",
+   "speaker": "Kawakami",
+   "en": "Now that you're heading out into the[n]world, I've got a present for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_06_5#0",
+   "speaker": "Kawakami",
+   "en": "It sounds like the setup to a joke.[n]A student bumps into his teacher[n]in a full French maid outfit...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_06_5#1",
+   "speaker": "Kawakami",
+   "en": "But somehow, that opened up all kinds[n]of new paths in my life.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_06_5#2",
+   "speaker": "Kawakami",
+   "en": "You taught me so much. You're not[n]just my best student... you were a[n]great master.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_06_5#3",
+   "speaker": "Kawakami",
+   "en": "I can make up for all the times I[n]distanced myself from my students.[n]I'll help anyone who needs it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_06_5#4",
+   "speaker": "Kawakami",
+   "en": "The point is, I'll put in the work.[n]I learned a lot from you, and I won't[n]let that go to waste.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C14_BYEGREET_01_07_5#0",
+   "speaker": "Kawakami",
+   "en": "The point is, I'll put in the work.[n]I learned a lot from you, and I won't[n]let that go to waste.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

@@ -1,0 +1,1503 @@
+{
+ "file": "EN/EVENT_DATA/SCRIPT/E700/E760_781.BF",
+ "entries": [
+  {
+   "id": "MSG_GAMESTART#0",
+   "speaker": "Morgana",
+   "en": "Let's start up Pro Golfer Sarutahiko.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAMESTART_NULL#0",
+   "speaker": null,
+   "en": "Time to start playing[n]Pro Golfer Sarutahiko...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_FI#0",
+   "speaker": "Morgana",
+   "en": "By the way, haven't you read that[n]secret technique book?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_FI#1",
+   "speaker": "Morgana",
+   "en": "Apparently there's a trick to slow the[n]bar down, making it easier to beat the[n]game...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_NU#0",
+   "speaker": null,
+   "en": "Now that I think about it, I've[n]actually read a book on secret[n]video game techniques...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_NU#1",
+   "speaker": null,
+   "en": "It said there's a way to slow[n]the bar down, making it easier[n]to get through the game...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_FI_2#0",
+   "speaker": "Morgana",
+   "en": "So, do you want to use the trick?[n]It'll slow the bar down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_201_6_0#0",
+   "speaker": null,
+   "en": "Should I use the trick I[n]read about in that book?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_001_0_0#0",
+   "speaker": null,
+   "en": "Use the technique",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_001_0_0#1",
+   "speaker": null,
+   "en": "Play the game normally",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_YE#0",
+   "speaker": "Morgana",
+   "en": "Makes sense, since you've learned[n]how to. All right, let's do this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_203_6_0#0",
+   "speaker": null,
+   "en": "This should make the[n]game a bit less difficult...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_NO#0",
+   "speaker": "Morgana",
+   "en": "Whoa, you're fired up! All right, go for it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_202_6_0#0",
+   "speaker": null,
+   "en": "I should try using my[n]own skills to beat it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_016_0_0#0",
+   "speaker": "Morgana",
+   "en": "Oh, there's a practice course.[n]Let's try that one first.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_016_1_0#0",
+   "speaker": null,
+   "en": "I should give the practice course a go...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_017_0_0#0",
+   "speaker": "Morgana",
+   "en": "All right, time to practice a[n]normal-distance shot.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_017_1_0#0",
+   "speaker": null,
+   "en": "First up is a normal-distance[n]shot practice...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_018_0_0#0",
+   "speaker": null,
+   "en": "Press [f 1 10 75] to move the bar from the start[n]to the right. Press [f 1 10 75] again to try and[n]stop the bar within the designated area.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_0_0#0",
+   "speaker": "Morgana",
+   "en": "Oh, I think you did it. Not a bad shot.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_019_1_0#0",
+   "speaker": null,
+   "en": "That was a good shot...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_020_0_0#0",
+   "speaker": "Morgana",
+   "en": "Your ball's in the rough now.[n]That wasn't the best shot...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_020_1_0#0",
+   "speaker": null,
+   "en": "My ball ended up landing in[n]the rough. That was bad...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_021_0_0#0",
+   "speaker": "Morgana",
+   "en": "Oh, the screen changed. It looks like[n]you're stuck in the sand now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_021_1_0#0",
+   "speaker": null,
+   "en": "The situation is different now. My[n]ball is in a sand trap, so I guess[n]this is bunker shot practice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_022_0_0#0",
+   "speaker": "Morgana",
+   "en": "Not bad! You managed to get[n]yourself out of the bunker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_022_1_0#0",
+   "speaker": null,
+   "en": "I managed to successfully get[n]my ball out of the bunker...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_023_0_0#0",
+   "speaker": "Morgana",
+   "en": "Your ball went in the pond![n]This might be a problem...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_023_1_0#0",
+   "speaker": null,
+   "en": "Shoot, my ball veered[n]off course... into a pond.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_024_0_0#0",
+   "speaker": "Morgana",
+   "en": "Oooh, you're near the flag now! It looks[n]like this is practice for getting your ball[n]on the green.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_024_1_0#0",
+   "speaker": null,
+   "en": "The situation changed again. I'm[n]right in front of the green now, so[n]this must be short shot practice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_025_0_0#0",
+   "speaker": "Morgana",
+   "en": "Hey, you did it! The ball's[n]on the green now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_025_1_0#0",
+   "speaker": null,
+   "en": "I got the ball on the green!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_026_0_0#0",
+   "speaker": "Morgana",
+   "en": "Uh, your ball shot off into the[n]woods... That wasn't so good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_026_1_0#0",
+   "speaker": null,
+   "en": "I shanked the ball off into[n]the woods... What a failure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_027_0_0#0",
+   "speaker": "Morgana",
+   "en": "Looks like that's the end of the practice[n]course. I guess we'll finish here for today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_027_1_0#0",
+   "speaker": null,
+   "en": "It seems like I finished the[n]entire practice course...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_200_0_0#0",
+   "speaker": "Morgana",
+   "en": "Huh, it looks like this next hole is par three...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_200_0_0#1",
+   "speaker": "Morgana",
+   "en": "You'll just need to finish it within[n]three strokes, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_200_0_0#2",
+   "speaker": "Morgana",
+   "en": "Remember, the first shot is crucial.[n]Make sure you aim well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_200_1_0#0",
+   "speaker": null,
+   "en": "This is a par-three course...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_200_1_0#1",
+   "speaker": null,
+   "en": "That means I just have to[n]finish within three strokes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_200_1_0#2",
+   "speaker": null,
+   "en": "I should be extra careful about[n]how I aim my first shot...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_201_0_0#0",
+   "speaker": "Morgana",
+   "en": "You have to finish this course in[n]three strokes or less.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_201_0_0#1",
+   "speaker": "Morgana",
+   "en": "Remember, the first shot is crucial.[n]Make sure you aim well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_201_1_0#0",
+   "speaker": null,
+   "en": "I need to finish this course[n]in three strokes or under...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_201_1_0#1",
+   "speaker": null,
+   "en": "I should be extra careful about[n]how I aim my first shot...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_250_0_0#0",
+   "speaker": "Morgana",
+   "en": "Nice! You got it on the green.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_250_1_0#0",
+   "speaker": null,
+   "en": "The ball's on the green now. That was[n]a pretty good shot...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_251_0_0#0",
+   "speaker": "Morgana",
+   "en": "Man, in the rough right off the bat...[n]Do better on your next one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_251_1_0#0",
+   "speaker": null,
+   "en": "It went straight onto the[n]rough... What a mess.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_203_0_0#0",
+   "speaker": "Morgana",
+   "en": "You have two shots left now. I wonder[n]if you'll be able to sink it in the cup...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_203_1_0#0",
+   "speaker": null,
+   "en": "Two shots to go... I hope I can[n]manage to get it in the hole...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_Green_Rest1_#0",
+   "speaker": "Morgana",
+   "en": "Whoa, you got it in!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Stage02_Green_Rest1_#0",
+   "speaker": null,
+   "en": "It went in the cup...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_253_0_0#0",
+   "speaker": "Morgana",
+   "en": "Oh, it's stuck in the bunker now...[n]That could have gone better.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_253_1_0#0",
+   "speaker": null,
+   "en": "Ugh, right in the bunker...[n]That was horrible.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_204_0_0#0",
+   "speaker": "Morgana",
+   "en": "You have one shot left now. I wonder[n]if you'll be able to sink it in the cup...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_204_1_0#0",
+   "speaker": null,
+   "en": "One shot to go... I hope I can[n]manage to get it in the hole...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_205_0_0#0",
+   "speaker": "Morgana",
+   "en": "Your second shot is from the rough,[n]huh... It won't be easy to hit with all[n]that grass in the way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_205_1_0#0",
+   "speaker": null,
+   "en": "My second shot is from the rough...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_254_0_0#0",
+   "speaker": "Morgana",
+   "en": "You got it out of the rough,[n]but it just rolled back in...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_254_1_0#0",
+   "speaker": null,
+   "en": "...It ended up in a different[n]area of the rough.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_206_0_0#0",
+   "speaker": "Morgana",
+   "en": "This is your third and final shot...[n]Do you really think you can finish[n]it from here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_206_1_0#0",
+   "speaker": null,
+   "en": "This is the third shot... It's my last chance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_252_0_0#0",
+   "speaker": "Morgana",
+   "en": "Whoa, you actually got it out...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_252_0_0#1",
+   "speaker": "Morgana",
+   "en": "And you even made it into the cup!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_252_1_0#0",
+   "speaker": null,
+   "en": "I got it out of the rough...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_252_1_0#1",
+   "speaker": null,
+   "en": "And made it into the hole...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_255_0_0#0",
+   "speaker": "Morgana",
+   "en": "...You ended up in a bunker.[n]That's not good at all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_255_1_0#0",
+   "speaker": null,
+   "en": "...I shot it into another bunker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_270_0_0#0",
+   "speaker": "Morgana",
+   "en": "Whoa, you cleared that no problem.[n]You even have a shot left over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_270_1_0#0",
+   "speaker": null,
+   "en": "I still have one shot left...[n]That was actually pretty good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_271_0_0#0",
+   "speaker": "Morgana",
+   "en": "You really cut it close there, but[n]you did it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_271_1_0#0",
+   "speaker": null,
+   "en": "I somehow managed to finish...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_300_0_0#0",
+   "speaker": "Morgana",
+   "en": "This course is 360 yards... At least[n]it's par-four.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_300_0_0#1",
+   "speaker": "Morgana",
+   "en": "In any case, you should try to[n]clear it in four strokes, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_300_1_0#0",
+   "speaker": null,
+   "en": "This course is... 360 yards.[n]It's a par-four hole...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_300_1_0#1",
+   "speaker": null,
+   "en": "That means I have four[n]strokes to finish it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_302_0_0#0",
+   "speaker": "Morgana",
+   "en": "All right, you're going to have[n]to clear this within four strokes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_302_0_0#1",
+   "speaker": "Morgana",
+   "en": "Remember, the first shot is crucial.[n]Make sure you aim well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_302_1_0#0",
+   "speaker": null,
+   "en": "I have to finish this course[n]within four strokes...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_302_1_0#1",
+   "speaker": null,
+   "en": "I should be extra careful about[n]how I aim my first shot...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_350_0_0#0",
+   "speaker": "Morgana",
+   "en": "Man, that was a great shot! You really[n]reduced the distance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_350_1_0#0",
+   "speaker": null,
+   "en": "What a shot! I reduced the[n]distance by a great margin...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_351_0_0#0",
+   "speaker": "Morgana",
+   "en": "That was quick... It's in the rough.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_351_1_0#0",
+   "speaker": null,
+   "en": "...I shot the ball straight[n]into the rough.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_303_0_0#0",
+   "speaker": "Morgana",
+   "en": "You still have three shots to go.[n]Keep your momentum rolling.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_303_1_0#0",
+   "speaker": null,
+   "en": "I still have three more shots.[n]Let's keep things moving...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_352_0_0#0",
+   "speaker": "Morgana",
+   "en": "Nice, the ball's on the green!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_352_1_0#0",
+   "speaker": null,
+   "en": "That went well...! The ball[n]is all the way on the green.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_353_0_0#0",
+   "speaker": "Morgana",
+   "en": "You shot it right into that rough patch in[n]the center. Your aim wasn't bad though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_353_1_0#0",
+   "speaker": null,
+   "en": "It landed in the rough right in[n]the center of the fairway. That's[n]a pretty unfortunate twist...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_308_0_0#0",
+   "speaker": "Morgana",
+   "en": "This is your second shot... Be careful[n]though. Your ball is surrounded by grass.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_308_0_0#1",
+   "speaker": "Morgana",
+   "en": "If you mess up here, you might as well[n]quit trying to beat this stage. Just take[n]your time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_308_1_0#0",
+   "speaker": null,
+   "en": "Time for my second shot.[n]There's grass all around the ball...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_308_1_0#1",
+   "speaker": null,
+   "en": "I won't be able to clear the[n]stage under par if I mess up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_356_0_0#0",
+   "speaker": "Morgana",
+   "en": "...It sunk right into another[n]patch of rough. You're done.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_356_1_0#0",
+   "speaker": null,
+   "en": "It sunk into the rough on the[n]other side... I guess I lose.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_306_0_0#0",
+   "speaker": "Morgana",
+   "en": "This is your third shot. Maybe[n]you can get it in the cup!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_306_1_0#0",
+   "speaker": null,
+   "en": "This is my third shot.[n]Hopefully I can sink this one...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_354_0_0#0",
+   "speaker": "Morgana",
+   "en": "Hey, it went in! Nice job!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_354_1_0#0",
+   "speaker": null,
+   "en": "My aim was perfect,[n]it went right into the hole...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_355_0_0#0",
+   "speaker": "Morgana",
+   "en": "It went clear past the hole[n]and fell into a bunker...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_355_1_0#0",
+   "speaker": null,
+   "en": "The ball cleared the hole...[n]and landed in a bunker instead.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_304_0_0#0",
+   "speaker": "Morgana",
+   "en": "All right, we're back in the center of the[n]fairway. You have two shots left now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_304_0_0#1",
+   "speaker": "Morgana",
+   "en": "You won't be able to finish unless you[n]can get your ball on the green with this[n]shot...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_304_1_0#0",
+   "speaker": null,
+   "en": "I'm back in the center of the fairway.[n]Two shots remaining...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_304_1_0#1",
+   "speaker": null,
+   "en": "If I don't get it on the green with this shot,[n]I won't be able to finish under par...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_309_0_0#0",
+   "speaker": "Morgana",
+   "en": "This is your third shot. Do you think[n]you'll be able to get it on the green?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_309_1_0#0",
+   "speaker": null,
+   "en": "This is my third shot. I hope I can get it[n]on the green...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_357_0_0#0",
+   "speaker": "Morgana",
+   "en": "No... You didn't hit it far enough...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_357_1_0#0",
+   "speaker": null,
+   "en": "That wasn't enough distance...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_307_0_0#0",
+   "speaker": "Morgana",
+   "en": "All right, your fourth shot...[n]This is the last one. Really aim[n]hard for the cup!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_307_1_0#0",
+   "speaker": null,
+   "en": "This is my fourth and final shot...[n]I need to aim well...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_310_0_0#0",
+   "speaker": "Morgana",
+   "en": "This is your last shot. Can you[n]really make it from here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_310_1_0#0",
+   "speaker": null,
+   "en": "This is my last shot...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_358_0_0#0",
+   "speaker": "Morgana",
+   "en": "You couldn't get it out of the[n]bunker... I guess this is the end.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_358_1_0#0",
+   "speaker": null,
+   "en": "I couldn't get it out of the bunker...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_370_0_0#0",
+   "speaker": "Morgana",
+   "en": "Whoa, you cleared that no problem.[n]You even have a shot left over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_370_1_0#0",
+   "speaker": null,
+   "en": "I still have one shot left... That was[n]actually pretty good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_371_0_0#0",
+   "speaker": "Morgana",
+   "en": "You really cut it close there,[n]but you did it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_371_1_0#0",
+   "speaker": null,
+   "en": "I somehow managed to finish...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_400_0_0#0",
+   "speaker": "Morgana",
+   "en": "Holy... This advanced course is a[n]par-five hole covering a total distance[n]of 580 yards...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_400_0_0#1",
+   "speaker": "Morgana",
+   "en": "At least you have five strokes to clear it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_400_1_0#0",
+   "speaker": null,
+   "en": "This is a par-five advanced course[n]spanning a total distance of 580 yards...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_400_1_0#1",
+   "speaker": null,
+   "en": "I have five strokes to clear it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_402_0_0#0",
+   "speaker": "Morgana",
+   "en": "So we're trying the advanced course again?[n]You just have to finish within five strokes,[n]huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_402_1_0#0",
+   "speaker": null,
+   "en": "This is the advanced course...[n]I have to finish within five strokes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_401_0_0#0",
+   "speaker": "Morgana",
+   "en": "All right, take it easy here.[n]This is your first shot.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_401_1_0#0",
+   "speaker": null,
+   "en": "It's my first shot...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_450_0_0#0",
+   "speaker": "Morgana",
+   "en": "Man, that was a great shot![n]You really reduced the distance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_450_1_0#0",
+   "speaker": null,
+   "en": "That was a great shot...![n]I really reduced the distance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_451_0_0#0",
+   "speaker": "Morgana",
+   "en": "...You hit it right into the rough.[n]That's a pretty careless first shot.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_451_1_0#0",
+   "speaker": null,
+   "en": "...It went straight into the rough.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_403_0_0#0",
+   "speaker": "Morgana",
+   "en": "You're not in a bad position. Four[n]more shots left, so this should be[n]a piece of cake.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_403_1_0#0",
+   "speaker": null,
+   "en": "This is going well. I still have four[n]shots remaining...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_452_0_0#0",
+   "speaker": "Morgana",
+   "en": "That was some great aim! Your next[n]shot should put you on the green.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_452_1_0#0",
+   "speaker": null,
+   "en": "That went well...! I'm almost[n]on the green at this point.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_453_0_0#0",
+   "speaker": "Morgana",
+   "en": "Oh... It's in the rough...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_453_1_0#0",
+   "speaker": null,
+   "en": "It sunk into the rough...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_410_0_0#0",
+   "speaker": "Morgana",
+   "en": "So your second shot is coming in[n]from the rough, huh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_410_0_0#1",
+   "speaker": "Morgana",
+   "en": "Judging by the total distance[n]of this course, I think you'll be[n]done for if you mess this up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_410_1_0#0",
+   "speaker": null,
+   "en": "My second shot is from the rough.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_410_1_0#1",
+   "speaker": null,
+   "en": "Judging by how long this[n]course is, I can't afford[n]any more mistakes...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_458_0_0#0",
+   "speaker": "Morgana",
+   "en": "You got it out of this rough patch, but it[n]ended up in one on the other side of the[n]fairway...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_458_1_0#0",
+   "speaker": null,
+   "en": "It went right over the fairway into[n]another rough patch...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_406_0_0#0",
+   "speaker": "Morgana",
+   "en": "Be careful with this shot, okay?[n]The green is right ahead.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_406_1_0#0",
+   "speaker": null,
+   "en": "I wonder if I'll be able[n]to get it on the green...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_454_0_0#0",
+   "speaker": "Morgana",
+   "en": "Oh... You did it! The ball got all the[n]way to the green!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_454_1_0#0",
+   "speaker": null,
+   "en": "The ball's on the green...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_404_0_0#0",
+   "speaker": "Morgana",
+   "en": "This is your third shot now...[n]You're still far from the green.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_404_1_0#0",
+   "speaker": null,
+   "en": "This might be my third shot...[n]but I'm still a long way off from[n]the green itself...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_411_0_0#0",
+   "speaker": "Morgana",
+   "en": "Your third shot is from the rough...[n]There's no more room for errors.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_411_1_0#0",
+   "speaker": null,
+   "en": "My third shot is from the[n]rough... I can't afford to[n]mess up now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_459_0_0#0",
+   "speaker": "Morgana",
+   "en": "Well, that's not good... It ended[n]up in the rough on the other side.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_459_1_0#0",
+   "speaker": null,
+   "en": "It crossed the fairway[n]and landed in the rough[n]on the other side...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_408_0_0#0",
+   "speaker": "Morgana",
+   "en": "Time for your fourth shot. Do[n]you think you can make it into[n]the cup from here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_408_1_0#0",
+   "speaker": null,
+   "en": "Time to take my fourth shot.[n]I wonder if I can get this one[n]in the hole...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_457_0_0#0",
+   "speaker": "Morgana",
+   "en": "You used way too much power...[n]It's in the bunker now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_457_1_0#0",
+   "speaker": null,
+   "en": "It fell in the bunker...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_407_0_0#0",
+   "speaker": "Morgana",
+   "en": "So this is your fourth shot... Can you[n]get it on the green?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_407_1_0#0",
+   "speaker": null,
+   "en": "It's my fourth shot...[n]I should try aiming[n]for the green...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_455_0_0#0",
+   "speaker": "Morgana",
+   "en": "Uhhh... It fell in the pond in front of the[n]green...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_455_1_0#0",
+   "speaker": null,
+   "en": "Uh-oh. It fell in a pond...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_412_0_0#0",
+   "speaker": "Morgana",
+   "en": "The next shot will be your fourth.[n]Let's try aiming for the green.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_412_1_0#0",
+   "speaker": null,
+   "en": "This is my fourth shot.[n]I should aim for the[n]green if possible...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_460_0_0#0",
+   "speaker": "Morgana",
+   "en": "It fell in the pond again...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_460_1_0#0",
+   "speaker": null,
+   "en": "It ended up in the pond again...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_409_0_0#0",
+   "speaker": "Morgana",
+   "en": "This is your fifth shot. You won't get[n]another chance at this, so aim well!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_409_1_0#0",
+   "speaker": null,
+   "en": "This is my last shot...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_456_0_0#0",
+   "speaker": "Morgana",
+   "en": "Wow, the ball made a beeline[n]straight into the hole!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_456_1_0#0",
+   "speaker": null,
+   "en": "I got it in the cup...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_413_0_0#0",
+   "speaker": "Morgana",
+   "en": "This is your fifth shot. You need[n]to sink this one, no matter what.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_413_1_0#0",
+   "speaker": null,
+   "en": "It's my last shot...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_461_0_0#0",
+   "speaker": "Morgana",
+   "en": "You couldn't get yourself out of[n]the bunker...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_461_1_0#0",
+   "speaker": null,
+   "en": "Shoot, my ball's still[n]down in the bunker...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_470_0_0#0",
+   "speaker": "Morgana",
+   "en": "Whoa, you cleared that no problem.[n]You even have a shot left over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_470_1_0#0",
+   "speaker": null,
+   "en": "I still have one shot left... That was[n]actually pretty good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_471_0_0#0",
+   "speaker": "Morgana",
+   "en": "You really cut it close there, but[n]you did it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_471_1_0#0",
+   "speaker": null,
+   "en": "I somehow managed to finish...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CLEAR_URA_MORU#0",
+   "speaker": "Morgana",
+   "en": "The secret technique book helped, huh?[n]You're always looking for the most efficient[n]way to do things. I admire that about you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CLEAR_URA_MORU#1",
+   "speaker": "Morgana",
+   "en": "It looks like you learned how to be[n]attentive to small details through[n]controlling your shots.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_CLEAR_URA_NULL#0",
+   "speaker": null,
+   "en": "I think the technique made it a[n]bit less exciting than usual...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_CLEAR_URA_NULL#1",
+   "speaker": null,
+   "en": "But it feels like the attention[n]I had to pay to my aim helped[n]me refine my [stIcon 2][clr 26][stLabel 2][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CLEAR_MORU#0",
+   "speaker": "Morgana",
+   "en": "It looks like you learned how to be[n]attentive to small details through[n]controlling your shots.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_CLEAR_NULL#0",
+   "speaker": null,
+   "en": "It feels like I've managed to[n]hone my [stIcon 2][clr 26][stLabel 2][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_800_0_0#0",
+   "speaker": "Morgana",
+   "en": "There's no way you'll be able to[n]finish under par from here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_800_1_0#0",
+   "speaker": null,
+   "en": "I have no hope of finishing[n]under par from here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAMEOVER_MORU#0",
+   "speaker": "Morgana",
+   "en": "You got a game over, huh...[n]What a depressing screen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_GAMEOVER_NULL#0",
+   "speaker": null,
+   "en": "I got a game over...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FAILED_UP#0",
+   "speaker": "Morgana",
+   "en": "You failed... but you learned to be attentive[n]to small details through controlling your[n]shots.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_FAILED_UP#0",
+   "speaker": null,
+   "en": "I failed... but the attention I had[n]to pay to my aim helped me refine[n]my proficiency...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HINTO_BOOK_NO#0",
+   "speaker": "Morgana",
+   "en": "I wish there was a way to make this[n]game a little easier...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_HINTO_BOOK_NO#0",
+   "speaker": null,
+   "en": "If only there was a way to[n]lower the game's difficulty...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HINTO_BOOK00#0",
+   "speaker": "Morgana",
+   "en": "Don't you have a book on secret[n]techniques? Maybe you should[n]try giving it a read sometime.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_HINTO_BOOK04#0",
+   "speaker": null,
+   "en": "Now that I think about it, I have[n]a book on secret techniques...[n]Maybe I should read it sometime.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_DONE_M#0",
+   "speaker": "Morgana",
+   "en": "Is it too tough for you? We'll just[n]have to try again next time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BOOK_DONE_N#0",
+   "speaker": null,
+   "en": "This is pretty difficult... I'll[n]have to give it another try later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAME_END_MORU#0",
+   "speaker": "Morgana",
+   "en": "It's getting late. Let's call it a night, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_GAME_END_NULL#0",
+   "speaker": null,
+   "en": "I think I've practiced enough for today...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAME_END_MORU_DAY#0",
+   "speaker": "Morgana",
+   "en": "That took a really long time...[n]We should probably stop playing[n]games for now, don't you think?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_GAME_END_NULL_DAY#0",
+   "speaker": null,
+   "en": "Hm, I should probably take a[n]break from all the video games...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEBUG#0",
+   "speaker": "for debug",
+   "en": "Debug Mode",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#0",
+   "speaker": null,
+   "en": "with morgana",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#1",
+   "speaker": null,
+   "en": "no morgana",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEBUG_2#0",
+   "speaker": "for debug",
+   "en": "Debug Mode",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_2#0",
+   "speaker": null,
+   "en": "Stage 1",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_2#1",
+   "speaker": null,
+   "en": "Stage 2",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_2#2",
+   "speaker": null,
+   "en": "Stage 3",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_2#3",
+   "speaker": null,
+   "en": "Stage 4",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEBUG_3#0",
+   "speaker": "for debug",
+   "en": "Debug Mode",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_3#0",
+   "speaker": null,
+   "en": "1st time",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_3#1",
+   "speaker": null,
+   "en": "2nd time",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

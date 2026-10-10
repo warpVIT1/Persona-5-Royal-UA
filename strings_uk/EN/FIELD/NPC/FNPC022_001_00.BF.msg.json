@@ -1,0 +1,1202 @@
+{
+ "file": "EN/FIELD/NPC/FNPC022_001_00.BF",
+ "entries": [
+  {
+   "id": "MSG_001_01#0",
+   "speaker": "[f 7 1]",
+   "en": "Hey, do you want to learn some stuff[n]about this place?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_01#1",
+   "speaker": "[f 7 1]",
+   "en": "Like I mentioned before, this place is[n]where many people's memories are[n]given shape—including your own!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_01#2",
+   "speaker": "[f 7 1]",
+   "en": "You should be able to access your[n]memories in all sorts of ways here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_01#3",
+   "speaker": "[f 7 1]",
+   "en": "Install all sorts of models, listen to[n]music, watch videos, check out[n]pictures, play cards...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_01#4",
+   "speaker": "[f 7 1]",
+   "en": "If you wanted, I bet you could even[n]change your own appearance!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_01#5",
+   "speaker": "[f 7 1]",
+   "en": "You can check out all of your[n]accomplishments, and even—",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_01#6",
+   "speaker": "[f 7 1]",
+   "en": "Oh... I probably shouldn't just dump[n]all of this on you at once, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_01#7",
+   "speaker": "[f 7 1]",
+   "en": "I can explain all that stuff in more detail—[n]what do you want to learn about?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_002_01#0",
+   "speaker": null,
+   "en": "Placing models.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_002_01#1",
+   "speaker": null,
+   "en": "Listening to music.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_002_01#2",
+   "speaker": null,
+   "en": "Watching movies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_002_01#3",
+   "speaker": null,
+   "en": "Looking at pictures.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_002_01#4",
+   "speaker": null,
+   "en": "Playing cards.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_002_01#5",
+   "speaker": null,
+   "en": "Changing my appearance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_002_01#6",
+   "speaker": null,
+   "en": "Learning my accomplishments.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_002_01#7",
+   "speaker": null,
+   "en": "Nothing right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_01#0",
+   "speaker": "[f 7 1]",
+   "en": "If you want to place some models in[n]here, you'll want to check out that[n]box over there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_01#1",
+   "speaker": "[f 7 1]",
+   "en": "It takes the memories in your heart and[n]turns them into all sorts of models—[n]you have to pay for them, though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_01#2",
+   "speaker": "[f 7 1]",
+   "en": "Then you can put them in a few[n]different spots here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_01#3",
+   "speaker": "[f 7 1]",
+   "en": "Thinking about all the possibilities[n]is getting me excited! I wonder how[n]you'll end up decorating the place?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_01#4",
+   "speaker": "[f 7 1]",
+   "en": "Oh, one more thing—whenever you place[n]a model, the cognitions of people you've[n]formed bonds with might appear too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_01#5",
+   "speaker": "[f 7 1]",
+   "en": "I bet they have some interesting stuff[n]to say!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_004_01#0",
+   "speaker": "[f 7 1]",
+   "en": "Over there, you can listen to whatever[n]music you remember.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_004_01#1",
+   "speaker": "[f 7 1]",
+   "en": "I wonder what kind of music you have[n]in your heart? Let me listen, too!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_005_01#0",
+   "speaker": "[f 7 1]",
+   "en": "See that giant screen?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_005_01#1",
+   "speaker": "[f 7 1]",
+   "en": "You can watch a whole bunch of your[n]past experiences there if you pay a toll.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_005_01#2",
+   "speaker": "[f 7 1]",
+   "en": "Just like at the movies! I'm extra curious[n]about your memories, mister!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_006_01#0",
+   "speaker": "[f 7 1]",
+   "en": "In that case, you should go over to the[n]Gallery. There are all kinds of pictures[n]there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_006_01#1",
+   "speaker": "[f 7 1]",
+   "en": "Not only can you see pictures of your[n]memories, but there are a bunch of[n]special ones, too!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_006_01#2",
+   "speaker": "[f 7 1]",
+   "en": "The more memories you make,[n]the cooler the gallery will look!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_006_01#3",
+   "speaker": "[f 7 1]",
+   "en": "Good luck filling the whole thing![n]I look forward to seeing it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_007_01#0",
+   "speaker": "[f 7 1]",
+   "en": "It looks like you can play a game called[n]Tycoon over in the cards area.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_007_01#1",
+   "speaker": "[f 7 1]",
+   "en": "You even get prizes for winning![n]That should be a lot of fun for you[n]and your teammates!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_007_01#2",
+   "speaker": "[f 7 1]",
+   "en": "Play a few hands when you have the[n]time—I'll watch from over here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_008_01#0",
+   "speaker": "[f 7 1]",
+   "en": "For that, you should try stepping on[n]those big floor panels upstairs.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_008_01#1",
+   "speaker": "[f 7 1]",
+   "en": "I bet there are all kinds of outfits[n]you can wear—or even different[n]forms!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_008_01#2",
+   "speaker": "[f 7 1]",
+   "en": "Taking a different form from what you're[n]used to is always so weird—but even[n]THAT's possible here, it seems.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_009_01#0",
+   "speaker": "[f 7 1]",
+   "en": "Then you want to check out the Awards[n]area.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_009_01#1",
+   "speaker": "[f 7 1]",
+   "en": "Apparently, you get neat-looking[n]awards for doing different things.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_009_01#2",
+   "speaker": "[f 7 1]",
+   "en": "Whenever you get one, it shows up[n]on that wall there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_009_01#3",
+   "speaker": "[f 7 1]",
+   "en": "Give it a shot if you're feeling up to it.[n]I'll be cheering you on!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_01#0",
+   "speaker": "[f 7 1]",
+   "en": "Oh, okay.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_01#1",
+   "speaker": "[f 7 1]",
+   "en": "Well, I'll be here if you need me.[n]Come on back if you wanna know[n]anything else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_01#2",
+   "speaker": "[f 7 1]",
+   "en": "That takes care of that then. Good job.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_011_01#0",
+   "speaker": "[f 7 1]",
+   "en": "So, what would you like to learn about?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_012_01#0",
+   "speaker": null,
+   "en": "What this place is.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_012_01#1",
+   "speaker": null,
+   "en": "Placing models.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_012_01#2",
+   "speaker": null,
+   "en": "Listening to music.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_012_01#3",
+   "speaker": null,
+   "en": "Watching movies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_012_01#4",
+   "speaker": null,
+   "en": "Looking at pictures.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_012_01#5",
+   "speaker": null,
+   "en": "Playing cards.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_012_01#6",
+   "speaker": null,
+   "en": "Changing my appearance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_012_01#7",
+   "speaker": null,
+   "en": "Learning my accomplishments.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_012_01#8",
+   "speaker": null,
+   "en": "Nothing right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_013_01#0",
+   "speaker": "[f 7 1]",
+   "en": "This place was created by the cognitions[n]of people like you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_013_01#1",
+   "speaker": "[f 7 1]",
+   "en": "Here, all your memories and emotions[n]coalesce and take form.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_013_01#2",
+   "speaker": "[f 7 1]",
+   "en": "All sorts of wishes can be granted here.[n]Explore the place and see what kind[n]of stuff you find!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_014_01#0",
+   "speaker": "[f 7 1]",
+   "en": "If you want to place some models in[n]here, you'll want to check out that[n]box over there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_014_01#1",
+   "speaker": "[f 7 1]",
+   "en": "It takes the memories in your heart and[n]turns them into all sorts of models—[n]you have to pay for them, though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_014_01#2",
+   "speaker": "[f 7 1]",
+   "en": "Then you can put them in a few[n]different spots here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_014_01#3",
+   "speaker": "[f 7 1]",
+   "en": "Thinking about all the possibilities[n]is getting me excited! I wonder how[n]you'll end up decorating the place?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_014_01#4",
+   "speaker": "[f 7 1]",
+   "en": "Oh, one more thing—whenever you place[n]a model, the cognitions of people you've[n]formed bonds with might appear too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_014_01#5",
+   "speaker": "[f 7 1]",
+   "en": "I bet they have some interesting stuff[n]to say!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_015_01#0",
+   "speaker": "[f 7 1]",
+   "en": "Over there, you can listen to whatever[n]music you remember.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_015_01#1",
+   "speaker": "[f 7 1]",
+   "en": "I wonder what kind of music you have[n]in your heart? Let me listen, too!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_016_01#0",
+   "speaker": "[f 7 1]",
+   "en": "See that giant screen?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_016_01#1",
+   "speaker": "[f 7 1]",
+   "en": "You can watch a whole bunch of your[n]past experiences there if you pay a toll.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_016_01#2",
+   "speaker": "[f 7 1]",
+   "en": "Just like at the movies! I'm extra curious[n]about your memories, mister!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_017_01#0",
+   "speaker": "[f 7 1]",
+   "en": "In that case, you should go over to the[n]Gallery. There are all kinds of pictures[n]there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_017_01#1",
+   "speaker": "[f 7 1]",
+   "en": "Not only can you see pictures of your[n]memories, but there are a bunch of[n]special ones, too!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_017_01#2",
+   "speaker": "[f 7 1]",
+   "en": "The more memories you make,[n]the cooler the gallery will look!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_017_01#3",
+   "speaker": "[f 7 1]",
+   "en": "Good luck filling the whole thing![n]I look forward to seeing it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_01#0",
+   "speaker": "[f 7 1]",
+   "en": "It looks like you can play a game called[n]Tycoon over in the cards area.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_01#1",
+   "speaker": "[f 7 1]",
+   "en": "You even get prizes for winning![n]That should be a lot of fun for you[n]and your teammates!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_01#2",
+   "speaker": "[f 7 1]",
+   "en": "Play a few hands when you have the[n]time—I'll watch from over here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_01#0",
+   "speaker": "[f 7 1]",
+   "en": "For that, you should try stepping on[n]those big floor panels upstairs.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_01#1",
+   "speaker": "[f 7 1]",
+   "en": "I bet there are all kinds of outfits[n]you can wear—or even different[n]forms!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_01#2",
+   "speaker": "[f 7 1]",
+   "en": "Taking a different form from what you're[n]used to is always so weird—but even[n]THAT's possible here, it seems.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_020_01#0",
+   "speaker": "[f 7 1]",
+   "en": "Then you want to check out the Awards[n]area.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_020_01#1",
+   "speaker": "[f 7 1]",
+   "en": "Apparently, you get neat-looking[n]awards for doing different things.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_020_01#2",
+   "speaker": "[f 7 1]",
+   "en": "Whenever you get one, it shows up[n]on that wall there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_020_01#3",
+   "speaker": "[f 7 1]",
+   "en": "Give it a shot if you're feeling up to it.[n]I'll be cheering you on!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_021_01#0",
+   "speaker": "[f 7 1]",
+   "en": "Oh, okay.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_021_01#1",
+   "speaker": "[f 7 1]",
+   "en": "Well, I'll be here if you need me.[n]Come on back if you wanna know[n]anything else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_021_01#2",
+   "speaker": "[f 7 1]",
+   "en": "That takes care of that then. Good job.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_031_01#0",
+   "speaker": "[f 7 1]",
+   "en": "You collected all of the models![n]That must have been a lot of work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_031_01#1",
+   "speaker": "[f 7 1]",
+   "en": "When you fill the room with models,[n]I get to hear all sorts of conversations.[n]It's pretty fun!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_031_01#2",
+   "speaker": "[f 7 1]",
+   "en": "I hope you think so too— are you[n]having fun?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_032_01#0",
+   "speaker": "[f 7 1]",
+   "en": "You got all the music! I knew you[n]could do it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_032_01#1",
+   "speaker": "[f 7 1]",
+   "en": "I've heard music makes humans[n]remember stuff that happened when[n]they first heard it. Is that true?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_032_01#2",
+   "speaker": "[f 7 1]",
+   "en": "If so, that's really interesting! Does[n]any of the music here make you feel[n]\"nostalgic\" like that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_033_01#0",
+   "speaker": "[f 7 1]",
+   "en": "You collected all the videos![n]That's amazing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_033_01#1",
+   "speaker": "[f 7 1]",
+   "en": "Sometimes I watch them when you're[n]not around. I've learned so much from[n]them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_033_01#2",
+   "speaker": "[f 7 1]",
+   "en": "And it's all thanks to your hard work.[n]Good job!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_034_01#0",
+   "speaker": "[f 7 1]",
+   "en": "Look how vibrant the wall is now![n]You got every single picture.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_034_01#1",
+   "speaker": "[f 7 1]",
+   "en": "Those pictures sure have taught me[n]a whole lot... I knew they would.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_034_01#2",
+   "speaker": "[f 7 1]",
+   "en": "Thanks for collecting them! Good job!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_041_01#0",
+   "speaker": "[f 7 1]",
+   "en": "Looks like you got an award!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_041_01#1",
+   "speaker": "[f 7 1]",
+   "en": "Every time you accomplish something[n]great, that wall seems like it'll get[n]shinier.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_041_01#2",
+   "speaker": "[f 7 1]",
+   "en": "Almost like it's giving you a compliment!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_041_01#3",
+   "speaker": "[f 7 1]",
+   "en": "You know what? I'll do it too—good job!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_042_01#0",
+   "speaker": "[f 7 1]",
+   "en": "I can tell the wall is getting shinier.[n]You must really be getting into[n]the challenges by now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_042_01#1",
+   "speaker": "[f 7 1]",
+   "en": "I'm learning a lot watching you[n]take those on so eagerly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_042_01#2",
+   "speaker": "[f 7 1]",
+   "en": "What award do you think you'll try to[n]get next time? Well, whichever one[n]you pick, I'm cheering for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_043_01#0",
+   "speaker": "[f 7 1]",
+   "en": "Oh, that's right. I meant to tell you[n]the next time I saw you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_043_01#1",
+   "speaker": "[f 7 1]",
+   "en": "I've noticed a bunch more awards[n]on the wall there—that must be your[n]doing. Good job!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_043_01#2",
+   "speaker": "[f 7 1]",
+   "en": "I'm going to work just as hard as you[n]on my studies!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_044_01#0",
+   "speaker": "[f 7 1]",
+   "en": "Wow... Look at all those awards!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_044_01#1",
+   "speaker": "[f 7 1]",
+   "en": "Wasn't it a lot of work to earn those?[n]You're a really hard worker, mister.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_044_01#2",
+   "speaker": "[f 7 1]",
+   "en": "It looks like there are still a lot of awards[n]left, but I bet you just might be able to[n]get them all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_044_01#3",
+   "speaker": "[f 7 1]",
+   "en": "Good job—but don't overdo it, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_045_01#0",
+   "speaker": "[f 7 1]",
+   "en": "I heard you have even more awards now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_045_01#1",
+   "speaker": "[f 7 1]",
+   "en": "But, you can still go further—you can[n]tell too, can't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_046_01#0",
+   "speaker": "[f 7 1]",
+   "en": "Whoooa...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_046_01#1",
+   "speaker": "[f 7 1]",
+   "en": "The wall is so sparkly!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_046_01#2",
+   "speaker": "[f 7 1]",
+   "en": "You've put in so much work! That's[n]impressive. Only a few more and...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_046_01#3",
+   "speaker": "[f 7 1]",
+   "en": "Ah, maybe I shouldn't get my hopes up?[n]But, you HAVE already come this far...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_046_01#4",
+   "speaker": "[f 7 1]",
+   "en": "Hmm, now I don't know what to think.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_047_01#0",
+   "speaker": "[f 7 1]",
+   "en": "I've been watching you for a while now.[n]I've seen the challenges you've beaten...[n]the awards you've gotten.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_047_01#1",
+   "speaker": "[f 7 1]",
+   "en": "Just a teeny bit further to go... I really[n]hope I get to see the entire wall sparkle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_047_01#2",
+   "speaker": "[f 7 1]",
+   "en": "So, I know these last few are gonna[n]be hard, but... this is the time to[n]tough it out!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_048_01#0",
+   "speaker": "[f 7 1]",
+   "en": "You really did it... You finally got[n]every single reward! Good job!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_048_01#1",
+   "speaker": "[f 7 1]",
+   "en": "You put in all that effort, and now[n]the wall is so shiny! I've learned a[n]whole lot along the way, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_048_01#2",
+   "speaker": "[f 7 1]",
+   "en": "I'm so glad I met you. I want to tell[n]that person all about you now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051_01#0",
+   "speaker": "[f 7 1]",
+   "en": "You got the \"Stamp By Me\" award![n]Good job collecting all those stamps!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051_01#1",
+   "speaker": "[f 7 1]",
+   "en": "I guess humans really do love games,[n]huh? I learned something new today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_052_01#0",
+   "speaker": "[f 7 1]",
+   "en": "You got the \"Flowers for a Certain Boy\"[n]award? Good job collecting all those[n]flowers!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_052_01#1",
+   "speaker": "[f 7 1]",
+   "en": "Drinking them helped me a lot with[n]my studies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_052_01#2",
+   "speaker": "[f 7 1]",
+   "en": "Although, there are still lots of things[n]I don't understand...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_052_01#3",
+   "speaker": "[f 7 1]",
+   "en": "There's just so much to learn about[n]humans!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_01#0",
+   "speaker": "[f 7 1]",
+   "en": "You got the \"Senpai in Life\" award![n]Thank you so much for all your help[n]with my studies! Good job!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_01#1",
+   "speaker": "[f 7 1]",
+   "en": "I'm not totally sure why, but I feel[n]great—revitalized, even!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_01#2",
+   "speaker": "[f 7 1]",
+   "en": "It's like I can reach an ever fuller[n]understanding of humans now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_01#3",
+   "speaker": "[f 7 1]",
+   "en": "...So, with all that said, I should get back[n]to my studies!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_061_01#0",
+   "speaker": "[f 7 1]",
+   "en": "Good morning... Did I get that right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_061_01#1",
+   "speaker": "[f 7 1]",
+   "en": "Humans have different greetings for[n]different times of day, right? I learned[n]that in my studies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_061_01#2",
+   "speaker": "[f 7 1]",
+   "en": "I prefer stuff that can be used in any[n]situation, though. Isn't \"good job\"[n]such a great phrase for anything?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_062_01#0",
+   "speaker": "[f 7 1]",
+   "en": "Getting started bright and early, huh?[n]I'll make sure I work just as hard.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_062_01#1",
+   "speaker": "[f 7 1]",
+   "en": "...But, taking a little break while[n]you're here is totally fine too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_063_01#0",
+   "speaker": "[f 7 1]",
+   "en": "I learned that humans like to do their[n]activities at the same time of day[n]every day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_063_01#1",
+   "speaker": "[f 7 1]",
+   "en": "Do you get lots of sleep every night?[n]You do wake up bright and early[n]every morning...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_064_01#0",
+   "speaker": "[f 7 1]",
+   "en": "\"Good morning,\" was it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_064_01#1",
+   "speaker": "[f 7 1]",
+   "en": "...Well, to be honest, time doesn't[n]have any meaning in a place like this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_064_01#2",
+   "speaker": "[f 7 1]",
+   "en": "Around here, it's all about attitude[n]instead!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_065_01#0",
+   "speaker": "[f 7 1]",
+   "en": "Good afternoon! This is a great time[n]of day, isn't it? I'm a fan, at least.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_065_01#1",
+   "speaker": "[f 7 1]",
+   "en": "I learned that a lot of humans work[n]more efficiently when the sun's in[n]their hemisphere. Is that true for you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_066_01#0",
+   "speaker": "[f 7 1]",
+   "en": "Oh! Hey, have you eaten lunch yet?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_066_01#1",
+   "speaker": "[f 7 1]",
+   "en": "Humans need food in order to stay[n]healthy, right? Make sure you eat[n]something before you starve to death.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_067_01#0",
+   "speaker": "[f 7 1]",
+   "en": "You know what's nice? Taking your time[n]eating a nice afternoon meal...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_067_01#1",
+   "speaker": "[f 7 1]",
+   "en": "...I'm getting kinda sleepy, though.[n]Humans get sleepy around this time[n]too, don't they?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_068_01#0",
+   "speaker": "[f 7 1]",
+   "en": "Hey there! Good to see your body[n]functioning properly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_068_01#1",
+   "speaker": "[f 7 1]",
+   "en": "Looking at a person's face and[n]commenting on their health is one way[n]humans greet each other, isn't it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_068_01#2",
+   "speaker": "[f 7 1]",
+   "en": "I've sure learned a whole lot from my[n]studies, huh, mister?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_069_01#0",
+   "speaker": "[f 7 1]",
+   "en": "Good evening. It really feels like[n]the day's come to an end, doesn't it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_069_01#1",
+   "speaker": "[f 7 1]",
+   "en": "Little kids should be in bed by[n]now— Well, I'm an exception.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_070_01#0",
+   "speaker": "[f 7 1]",
+   "en": "Have you eaten dinner yet?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_070_01#1",
+   "speaker": "[f 7 1]",
+   "en": "Humans have to think about so much[n]stuff about eating—carbohydrates,[n]proteins, all sorts of vitamins...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_070_01#2",
+   "speaker": "[f 7 1]",
+   "en": "It seems like an awful lot of work—[n]or is it actually fun?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_071_01#0",
+   "speaker": "[f 7 1]",
+   "en": "Good evening.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_071_01#1",
+   "speaker": "[f 7 1]",
+   "en": "I get to hear all sorts of voices whenever[n]I'm here. It makes me want to stay up[n]and listen all night long.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_072_01#0",
+   "speaker": "[f 7 1]",
+   "en": "Hi! It seems like you've taken a real[n]shine to this place, am I right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_072_01#1",
+   "speaker": "[f 7 1]",
+   "en": "Well, if that's so, then I'm glad.[n]Our meeting here must've been[n]pretty important.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_073_01#0",
+   "speaker": "[f 7 1]",
+   "en": "Well hello there. It's awfully late.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_073_01#1",
+   "speaker": "[f 7 1]",
+   "en": "It sure does feel nice taking it easy here.[n]Maybe you could try relaxing over in[n]the cards area?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_073_01#2",
+   "speaker": "[f 7 1]",
+   "en": "You go have fun. I'll watch from here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_074_01#0",
+   "speaker": "[f 7 1]",
+   "en": "It's nice to see you working hard this[n]late—most kids are asleep by now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_074_01#1",
+   "speaker": "[f 7 1]",
+   "en": "*yawn* Now that I'm thinking about it,[n]maybe I should actually join them in[n]that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_075_01#0",
+   "speaker": "[f 7 1]",
+   "en": "Look how late it is. It's the middle[n]of the night!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_075_01#1",
+   "speaker": "[f 7 1]",
+   "en": "Doesn't it feel like we could get in[n]trouble or something, being here[n]so late? It's kind of exciting!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_076_01#0",
+   "speaker": "[f 7 1]",
+   "en": "Are you starting to feel tired? It is pretty[n]late.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_076_01#1",
+   "speaker": "[f 7 1]",
+   "en": "Just take it easy and don't overdo it.[n]Rest is important for you humans,[n]you know.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

@@ -1,0 +1,705 @@
+{
+ "file": "EN/INIT/DATMSG.PAK/datSpecificHelp.bmd",
+ "entries": [
+  {
+   "id": "specific_006#0",
+   "speaker": null,
+   "en": "Increases damage from attacks that[n]targets foe's weaknesses by 50%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_009#0",
+   "speaker": null,
+   "en": "Decreases SP cost of[n]healing skills by half.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_010#0",
+   "speaker": null,
+   "en": "Decreases SP cost of[n]healing skills by 75%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_014#0",
+   "speaker": null,
+   "en": "Decreases SP cost of[n]support skills by half.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_015#0",
+   "speaker": null,
+   "en": "Decreases SP cost of[n]support skills by 75%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_017#0",
+   "speaker": null,
+   "en": "Increases chance of[n]inflicting ailments.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_022#0",
+   "speaker": null,
+   "en": "Increases chance of inflicting[n]Shock to Downed foes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_023#0",
+   "speaker": null,
+   "en": "Increases chance of inflicting[n]ailments to Downed foes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_024#0",
+   "speaker": null,
+   "en": "Increases chance of inflicting[n]Freeze during 1 More.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_030#0",
+   "speaker": null,
+   "en": "Decreases SP cost of[n]magic skills by 75%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_038#0",
+   "speaker": null,
+   "en": "Increases damage to foes[n]when low on HP.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_046#0",
+   "speaker": null,
+   "en": "Strengthens magic skills[n]targeting one foe by 20%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_054#0",
+   "speaker": null,
+   "en": "Strengthens magic skills[n]targeting all foes by 20%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_057#0",
+   "speaker": null,
+   "en": "Strengthens Phys skills[n]by 20%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_058#0",
+   "speaker": null,
+   "en": "Strengthens Phys skills[n]by 30%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_062#0",
+   "speaker": null,
+   "en": "Doubles Counter damage.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_063#0",
+   "speaker": null,
+   "en": "Triples Counter damage.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_065#0",
+   "speaker": null,
+   "en": "Strengthens magic[n]skills by 50%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_070#0",
+   "speaker": null,
+   "en": "Decreases chance of being[n]inflicted by ailments.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_071#0",
+   "speaker": null,
+   "en": "Prevents being inflicted[n]by ailments.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_073#0",
+   "speaker": null,
+   "en": "Increases damage after[n]a Baton Pass.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_074#0",
+   "speaker": null,
+   "en": "Greatly increases damage[n]after a Baton Pass.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_078#0",
+   "speaker": null,
+   "en": "Increases chance of inflicting[n]ailments after a Baton Pass.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_079#0",
+   "speaker": null,
+   "en": "Increases chance of inflicting[n]Burn after a Baton Pass.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_086#0",
+   "speaker": null,
+   "en": "After a Baton Pass, allows use of skills[n]only available when surrounded.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_087#0",
+   "speaker": null,
+   "en": "Allows use of skills only[n]available when surrounded.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_088#0",
+   "speaker": null,
+   "en": "Rain/Snow/Pollen Warning[n]always in effect.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_094#0",
+   "speaker": null,
+   "en": "Increases Technical[n]damage by 25%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_095#0",
+   "speaker": null,
+   "en": "Increases Technical[n]damage by 50%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_097#0",
+   "speaker": null,
+   "en": "Increases Attack by 25%[n]per ailment inflicted on foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_098#0",
+   "speaker": null,
+   "en": "Increases Attack by 40%[n]per ailment inflicted on foe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_102#0",
+   "speaker": null,
+   "en": "Increases the chance[n]of insta-kills.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_103#0",
+   "speaker": null,
+   "en": "Greatly increases the[n]chance of insta-kills.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_129#0",
+   "speaker": null,
+   "en": "All-Out Attacks may defeat all foes[n]and restore 25% HP to all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_131#0",
+   "speaker": null,
+   "en": "All-Out Attacks may defeat all foes[n]and fully restore HP to all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_132#0",
+   "speaker": null,
+   "en": "May increase allies' physical[n]attacks by 40%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_133#0",
+   "speaker": null,
+   "en": "May increase allies' physical[n]attacks by 80%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_135#0",
+   "speaker": null,
+   "en": "Increases effect of allies'[n]healing skills.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_136#0",
+   "speaker": null,
+   "en": "Increases effect of allies' healing[n]skills. May decrease SP cost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_138#0",
+   "speaker": null,
+   "en": "May decrease SP cost of[n]allies' magic skills.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_139#0",
+   "speaker": null,
+   "en": "May decrease SP cost of[n]allies' magic skills by half.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_141#0",
+   "speaker": null,
+   "en": "May slightly increase allies'[n]chance to avoid physical attacks.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_142#0",
+   "speaker": null,
+   "en": "May increase allies' chance[n]to avoid physical attacks.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_144#0",
+   "speaker": null,
+   "en": "Increases allies' chance of inflicting[n]Burn/Freeze/Shock by 25%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_145#0",
+   "speaker": null,
+   "en": "Increases allies' chance of inflicting[n]Burn/Freeze/Shock by 50%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_147#0",
+   "speaker": null,
+   "en": "Decreases allies' chance of being[n]inflicted by ailments by 25%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_148#0",
+   "speaker": null,
+   "en": "Decreases allies' chance of being[n]inflicted by ailments by 50%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_150#0",
+   "speaker": null,
+   "en": "May decrease SP cost of allies'[n]support skills by half.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_151#0",
+   "speaker": null,
+   "en": "May decrease SP cost of allies'[n]support/Almighty skills by half.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_152#0",
+   "speaker": null,
+   "en": "Decreases SP cost of allies'[n]support/Almighty skills by half.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_153#0",
+   "speaker": null,
+   "en": "Increases chance of ally not[n]being Downed when attacked.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_154#0",
+   "speaker": null,
+   "en": "Greatly increases chance of ally not[n]being Downed when attacked.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_156#0",
+   "speaker": null,
+   "en": "Decreases SP cost of[n]Fire skills by half.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_157#0",
+   "speaker": null,
+   "en": "Decreases SP cost of[n]Fire skills by 75%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_158#0",
+   "speaker": null,
+   "en": "Decreases SP cost of[n]Ice skills by half.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_159#0",
+   "speaker": null,
+   "en": "Decreases SP cost of[n]Ice skills by 75%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_160#0",
+   "speaker": null,
+   "en": "Decreases SP cost of[n]Elec skills by half.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_161#0",
+   "speaker": null,
+   "en": "Decreases SP cost of[n]Elec skills by 75%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_162#0",
+   "speaker": null,
+   "en": "Decreases SP cost of[n]Wind skills by half.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_163#0",
+   "speaker": null,
+   "en": "Decreases SP cost of[n]Wind skills by 75%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_164#0",
+   "speaker": null,
+   "en": "Decreases SP cost of[n]Psy skills by half.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_165#0",
+   "speaker": null,
+   "en": "Decreases SP cost of[n]Psy skills by 75%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_166#0",
+   "speaker": null,
+   "en": "Decreases SP cost of[n]Nuke skills by half.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_167#0",
+   "speaker": null,
+   "en": "Decreases SP cost of[n]Nuke skills by 75%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_168#0",
+   "speaker": null,
+   "en": "Decreases SP cost of[n]Bless skills by half.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_169#0",
+   "speaker": null,
+   "en": "Decreases SP cost of[n]Bless skills by 75%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_170#0",
+   "speaker": null,
+   "en": "Decreases SP cost of[n]Curse skills by half.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_171#0",
+   "speaker": null,
+   "en": "Decreases SP cost of[n]Curse skills by 75%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_173#0",
+   "speaker": null,
+   "en": "Increases amount of HP[n]restored to self by 50%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_174#0",
+   "speaker": null,
+   "en": "Doubles amount of HP[n]restored to self.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_175#0",
+   "speaker": null,
+   "en": "Increases amount of SP[n]restored to self by 50%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_176#0",
+   "speaker": null,
+   "en": "Doubles amount of SP[n]restored to self.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_177#0",
+   "speaker": null,
+   "en": "Doubles amount of HP/SP[n]restored to self.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_178#0",
+   "speaker": null,
+   "en": "Increases effect period of support [n]skills cast on allies by 1 turn.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_179#0",
+   "speaker": null,
+   "en": "Increases effect period of support [n]skills cast on allies by 2 turns.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_180#0",
+   "speaker": null,
+   "en": "Increases effect period of support [n]skills cast on self by 1 turn.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_181#0",
+   "speaker": null,
+   "en": "Increases effect period of support [n]skills cast on self by 2 turns.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_182#0",
+   "speaker": null,
+   "en": "Doubles effect of Drain-type[n]skills and passives.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_184#0",
+   "speaker": null,
+   "en": "Expendable items not used[n]up after a Baton Pass.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_185#0",
+   "speaker": null,
+   "en": "Decreases SP cost by half[n]after a Baton Pass.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_186#0",
+   "speaker": null,
+   "en": "Decreases damage from attacks[n]that targets weaknesses.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_187#0",
+   "speaker": null,
+   "en": "High chance of ally avoiding attacks[n]by foes inflicted by ailments.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_188#0",
+   "speaker": null,
+   "en": "Triples effect of Charge/[n]Concentrate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_190#0",
+   "speaker": null,
+   "en": "Revives with 1 HP when KO'd.[n]Usable 4 times per battle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_191#0",
+   "speaker": null,
+   "en": "Increases Attack by 50%[n]during 1 More.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_192#0",
+   "speaker": null,
+   "en": "Increases chance of triggering[n]ally's Persona traits.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_193#0",
+   "speaker": null,
+   "en": "Increases chance of triggering[n]ally's Follow-Up attack.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_194#0",
+   "speaker": null,
+   "en": "Increases Attack/Defense based[n]on Inmate Registry completion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_195#0",
+   "speaker": null,
+   "en": "Decreases HP/SP cost to 0[n]during 1 More.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_196#0",
+   "speaker": null,
+   "en": "Decreases SP cost to 0[n]for insta-kill skills.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_197#0",
+   "speaker": null,
+   "en": "Doubles amount of HP/SP[n]restored to self.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_281#0",
+   "speaker": null,
+   "en": "Acquire bonus Traits when[n]fusing with a Treasure Demon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_282#0",
+   "speaker": null,
+   "en": "Acquire bonus Traits when[n]fusing with a Treasure Demon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_283#0",
+   "speaker": null,
+   "en": "Acquire bonus Traits when[n]fusing with a Treasure Demon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_284#0",
+   "speaker": null,
+   "en": "Acquire bonus Traits when[n]fusing with a Treasure Demon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_285#0",
+   "speaker": null,
+   "en": "Acquire bonus Traits when[n]fusing with a Treasure Demon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_286#0",
+   "speaker": null,
+   "en": "Acquire bonus Traits when[n]fusing with a Treasure Demon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_287#0",
+   "speaker": null,
+   "en": "Acquire bonus Traits when[n]fusing with a Treasure Demon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_288#0",
+   "speaker": null,
+   "en": "Acquire bonus Traits when[n]fusing with a Treasure Demon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "specific_289#0",
+   "speaker": null,
+   "en": "Acquire bonus Traits when[n]fusing with a Treasure Demon.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

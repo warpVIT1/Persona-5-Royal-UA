@@ -1,0 +1,1825 @@
+{
+ "file": "EN/FIELD/HIT/FHIT_001_004_00.BF",
+ "entries": [
+  {
+   "id": "GENERIC_HELP_00#0",
+   "speaker": null,
+   "en": "Should I spend time[n]alone with Ohya...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GENERIC_HELP_01#0",
+   "speaker": null,
+   "en": "Should I spend time[n]alone with Takemi...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GENERIC_HELP_02#0",
+   "speaker": null,
+   "en": "Should I spend time[n]alone with Kawakami...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GENERIC_HELP_03#0",
+   "speaker": null,
+   "en": "Should I spend time[n]alone with Hifumi...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GENERIC_HELP_04#0",
+   "speaker": null,
+   "en": "Should I spend time[n]alone with Chihaya...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GENERIC_HELP_05#0",
+   "speaker": null,
+   "en": "Should I spend time[n]alone with Futaba...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GENERIC_HELP_06#0",
+   "speaker": null,
+   "en": "Should I spend time[n]alone with Ann...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GENERIC_HELP_07#0",
+   "speaker": null,
+   "en": "Should I spend time[n]alone with Makoto...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GENERIC_HELP_08#0",
+   "speaker": null,
+   "en": "Should I spend time[n]alone with Haru...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GENERIC_HELP_09#0",
+   "speaker": null,
+   "en": "Should I spend time[n]alone with Sumire...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GENERIC_HELP_10#0",
+   "speaker": null,
+   "en": "Perhaps I won't invite anyone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_CDSHOP#0",
+   "speaker": "Morgana",
+   "en": "This store has stuff on sale all year...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_SUPERM#0",
+   "speaker": "Morgana",
+   "en": "We don't have time for shopping.[n]Let's go see everyone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_MIYAGE#0",
+   "speaker": "Morgana",
+   "en": "You don't need gifts. All you need is[n]your words.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_JEWELR#0",
+   "speaker": "Morgana",
+   "en": "You don't have time to buy jewelry.[n]Let's go say bye to everyone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_ACCESS#0",
+   "speaker": "Morgana",
+   "en": "This store was pretty hip. I wonder if[n]your hometown has one?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_SPORTS#0",
+   "speaker": "Morgana",
+   "en": "Your hometown has a shoe store, right?[n]Let's go say bye to everyone first.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_UMBREL#0",
+   "speaker": "Morgana",
+   "en": "Do you remember when I came prepared[n]with an umbrella that one time? Came in[n]handy, didn't it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_ORIENT#0",
+   "speaker": "Morgana",
+   "en": "There aren't that many stores that are this[n]hip... Although, it's not quite my style.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_SHOES_#0",
+   "speaker": "Morgana",
+   "en": "Your shoes look pretty good after being[n]worn for a year.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_BAGSHO#0",
+   "speaker": "Morgana",
+   "en": "...I like the bag you have now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_DRESSS#0",
+   "speaker": "Morgana",
+   "en": "You came to this store with Sumire, right?[n]It'd be nice to go shopping again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_DRESSS_2#0",
+   "speaker": "Morgana",
+   "en": "This is the clothing store that Ann likes.[n]I don't think they have anything for me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_BRANDS#0",
+   "speaker": "Morgana",
+   "en": "This store was always booming.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_FLOWER#0",
+   "speaker": "Morgana",
+   "en": "If anything, you should be the one[n]receiving flowers, right? Let's go say bye[n]to everyone!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_WATCHS#0",
+   "speaker": "Morgana",
+   "en": "Stop wasting time! Let's go say bye to[n]everyone!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_LEATHE#0",
+   "speaker": "Morgana",
+   "en": "Still smells like animals... Let's get moving[n]before we start to smell too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_COSME_#0",
+   "speaker": "Morgana",
+   "en": "No time to go shopping. Let's go say bye[n]to everyone!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_SHOESS#0",
+   "speaker": "Morgana",
+   "en": "You don't need the high heels.[n]Let's go meet everyone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_PHOTO_#0",
+   "speaker": "Morgana",
+   "en": "You have memories that can't be turned[n]into pictures. Let's go meet everyone, one[n]last time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_DEADEN#0",
+   "speaker": "Morgana",
+   "en": "You don't know anyone who would go[n]past here, do you? Let's go somewhere[n]else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_place#0",
+   "speaker": "Morgana",
+   "en": "You don't need to be here right now,[n]do you? Come on, let's head somewhere[n]else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_etc#0",
+   "speaker": "Morgana",
+   "en": "What's wrong? Come on, we should go say[n]goodbye to the others!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LastKeyfree#0",
+   "speaker": "Morgana",
+   "en": "We can't wait any longer... We have[n]to prepare, and fast!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103#0",
+   "speaker": null,
+   "en": "There's nothing[n]I need to do here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103#1",
+   "speaker": null,
+   "en": "I should go check[n]up on everyone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103to0108_Error_Not#0",
+   "speaker": null,
+   "en": "This is no time[n]for shopping...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103to0108_Error_Not#1",
+   "speaker": null,
+   "en": "I should go check[n]up on everyone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103to0108_Error_Not_2#0",
+   "speaker": null,
+   "en": "This is no time for detours...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103to0108_Error_Not_2#1",
+   "speaker": null,
+   "en": "I should go check[n]up on everyone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPORTS_NOTOPEN#0",
+   "speaker": null,
+   "en": "This place seems to have[n]all sorts of sports supplies,[n]from new to old...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPORTS_NOTOPEN#1",
+   "speaker": null,
+   "en": "I should come shopping[n]here when I have the time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPORTS_SELECT#0",
+   "speaker": "Sports Store Employee",
+   "en": "Welcome. We have the best deals.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPORTS_THANKS#0",
+   "speaker": "Sports Store Employee",
+   "en": "Thank you! We hope to see you again[n]soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPORTS_NOT_BUY#0",
+   "speaker": "Sports Store Employee",
+   "en": "Please drop by again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CDSHOP_P5R#0",
+   "speaker": "Morgana",
+   "en": "There's an autograph on a poster inside[n]the store. Let's see...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CDSHOP_P5R#1",
+   "speaker": "Morgana",
+   "en": "...Can't read anything...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SportShop_MayCueInfo#0",
+   "speaker": "Morgana",
+   "en": "These are cues for billiards... You don't[n]know how to use them, do you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SportShop_MayCueInfo#1",
+   "speaker": "Morgana",
+   "en": "There was a book being sold nearby.[n]Maybe it'll teach you how to use them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SUPERMARKET_NOTOPEN#0",
+   "speaker": null,
+   "en": "This place seems to have[n]some expensive products,[n]made up of different materials...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SUPERMARKET_NOTOPEN#1",
+   "speaker": null,
+   "en": "I should come shopping[n]when I need something...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SUPERMARKET_SELECT#0",
+   "speaker": "Supermarket Employee",
+   "en": "Please take your time to look around.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SUPERMARKET_THANKS#0",
+   "speaker": "Supermarket Employee",
+   "en": "Thank you very much. We look forward[n]to seeing you again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SUPERMARKET_NOT_BUY#0",
+   "speaker": "Supermarket Employee",
+   "en": "Please come again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MIYAGE#0",
+   "speaker": "Morgana",
+   "en": "There's a lot of stuff sold here,[n]but what kind of shop is this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_MIYAGE#0",
+   "speaker": null,
+   "en": "They handle miscellaneous goods in this[n]souvenir shop...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JEWELRY_NOTOPEN#0",
+   "speaker": null,
+   "en": "They sell jewelry accessories here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JEWELRY_NOTOPEN#1",
+   "speaker": null,
+   "en": "I should come here when I[n]need them...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JEWELRY_START#0",
+   "speaker": "Jewelry Store Employee",
+   "en": "Welcome. Ah, please refrain from[n]touching any of the merchandise...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JEWELRY_THANKS#0",
+   "speaker": "Jewelry Store Employee",
+   "en": "Thank you very much. We look forward[n]to seeing you again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JEWELRY_NOT_BUY#0",
+   "speaker": "Jewelry Store Employee",
+   "en": "...We look forward to seeing you again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ACCESSORIES_NOTOPEN#0",
+   "speaker": null,
+   "en": "A lot of accessories[n]are being sold here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ACCESSORIES_NOTOPEN#1",
+   "speaker": null,
+   "en": "I should come here[n]when I need some...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ACCESSORIES_SELECT#0",
+   "speaker": "Accessory Shop Employee",
+   "en": "Welcome! We have accessories that[n]even students can afford.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ACCESSORIES_THANKS#0",
+   "speaker": "Accessory Shop Employee",
+   "en": "Thank you very much! Come again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ACCESSORIES_NOT_BUY#0",
+   "speaker": "Accessory Shop Employee",
+   "en": "Okay... Come again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShoesShop_Moru#0",
+   "speaker": "Morgana",
+   "en": "It's not like you're on a sports team,[n]so why get athletic shoes?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShoesShop#0",
+   "speaker": null,
+   "en": "There's a huge amount of[n]athletic shoes stacked together...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UMBRELLA_SHOP_MORU#0",
+   "speaker": "Morgana",
+   "en": "Keep an umbrella handy in case of[n]sudden rain. We certainly can't allow[n]me to get wet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UMBRELLA_SHOP#0",
+   "speaker": null,
+   "en": "They have all sorts of umbrellas[n]here. They've got some expensive[n]ones, some cheaper vinyl types...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ORIENTAL_SHOP#0",
+   "speaker": null,
+   "en": "It's a store that handles[n]miscellaneous Japanese goods.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ORIENTAL_SHOP#1",
+   "speaker": null,
+   "en": "If I buy something here and[n]give it to someone, I might[n]really make them happy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ORIENTAL_SHOP_START#0",
+   "speaker": "Sundries Shop Employee",
+   "en": "Welcome. Why not change things up[n]and buy some small Japanese-style[n]goods?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ORIENTAL_SHOP_THANKS#0",
+   "speaker": "Sundries Shop Employee",
+   "en": "Thank you very much. Please come again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ORIENTAL_SHOP_NOT_BU#0",
+   "speaker": "Sundries Shop Employee",
+   "en": "Please come again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SHOES_REPAIR_MORU#0",
+   "speaker": "Morgana",
+   "en": "Your shoes are still clean, you know?[n]It doesn't look like they need any repairs.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SHOES_REPAIR#0",
+   "speaker": null,
+   "en": "My shoes don't need any[n]repairing...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BAGSHOP_MORU#0",
+   "speaker": "Morgana",
+   "en": "They all seem too small and cramped[n]for me to fit in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BAGSHOP#0",
+   "speaker": null,
+   "en": "There's a huge amount of shoes[n]here designed for women.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DRESSSHOP_MORU#0",
+   "speaker": "Morgana",
+   "en": "All these clothes start looking the same[n]when they're placed next to each other...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DRESSSHOP#0",
+   "speaker": null,
+   "en": "They sell clothing made for women.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BRANDSHOP_MORU#0",
+   "speaker": "Morgana",
+   "en": "Everyone's looking at these products[n]pretty eagerly. Are they popular brands[n]or something?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BRANDSHOP#0",
+   "speaker": null,
+   "en": "It's a brand shop for women.[n]There's a crowd of people...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Flower_ByebyeEnd#0",
+   "speaker": "Morgana",
+   "en": "You're done here, right? Let's go[n]somewhere else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FlowerLAstDay#0",
+   "speaker": "Hanasaki",
+   "en": "Oh, [fName]. How are you?[n]Will you—",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FlowerLAstDay#1",
+   "speaker": "Hanasaki",
+   "en": "...Oh, you're going back to your[n]hometown.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FlowerLAstDay#2",
+   "speaker": "Hanasaki",
+   "en": "Flowers grow everywhere, so please[n]remember this store when you see[n]flowers... Hehe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FlowerLAstDay#3",
+   "speaker": "Hanasaki",
+   "en": "Good luck over there. You have my[n]support.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FLOWERSHOP_NOTOPEN#0",
+   "speaker": null,
+   "en": "There are various types of[n]flowers on display. I should[n]buy some next time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FLOWER_BAITO_COMMIT_#0",
+   "speaker": "Morgana",
+   "en": "You applied to work part-time at this[n]flower shop, didn't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FlowerShop_ActQ#0",
+   "speaker": "Morgana",
+   "en": "The flowers smell nice... What are you[n]going to do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FLOWER_SEL#0",
+   "speaker": null,
+   "en": "I'll work here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FLOWER_SEL#1",
+   "speaker": null,
+   "en": "I'll do some shopping.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FLOWER_SEL#2",
+   "speaker": null,
+   "en": "Nothing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FLOWER_NotBaitoDay#0",
+   "speaker": "Morgana",
+   "en": "If I remember correctly, you applied[n]for a part-time job here, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FLOWER_NotBaitoDay#1",
+   "speaker": "Morgana",
+   "en": "I think they only needed people to work[n]in the [clr 2]daytime[clr 27]. You can work another[n]time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FLOWER_NotBaitoDay_c#0",
+   "speaker": "Morgana",
+   "en": "I think they only needed people during[n]the [clr 2]afternoon[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FLOWERSHOP_START_01#0",
+   "speaker": "Florist",
+   "en": "Giving someone flowers will always[n]make their day. Care to buy some[n]for a present?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FLOWERSHOP_START_02#0",
+   "speaker": "Florist",
+   "en": "We also deal in other products, such as[n]natural oils and tree bark. Feel free to[n]browse around.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FLOWERSHOP_START_03#0",
+   "speaker": "Florist",
+   "en": "Having flowers nearby can really[n]brighten your mood. I recommend[n]feeding them plant nutrients.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FLOWERSHOP_START_04#0",
+   "speaker": "Hanasaki",
+   "en": "Welcome. What would you like today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FLOWERSHOP_BUY_END#0",
+   "speaker": "Florist",
+   "en": "Thank you for your purchase.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FLOWERSHOP_BUY_END_n#0",
+   "speaker": "Hanasaki",
+   "en": "Thank you for your purchase.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FLOWERSHOP_NOTBUY_EN#0",
+   "speaker": "Florist",
+   "en": "Thank you very much. We hope[n]you'll come by again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FLOWERSHOP_NOTBUY_EN_2#0",
+   "speaker": "Hanasaki",
+   "en": "Thank you very much. We hope[n]you'll come by again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FlowerBaito_Start#0",
+   "speaker": "Morgana",
+   "en": "You may be able to work on your[n][stIcon 4][clr 26][stLabel 4][clr 27] if you work at a[n]flower store.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FlowerBaito_StartSPd#0",
+   "speaker": "Morgana",
+   "en": "I heard that a lot of people will show up[n]on [clr 2]Wednesdays and Saturdays[clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Flower_ParamUpInfo#0",
+   "speaker": null,
+   "en": "I feel like my [stIcon 1][clr 26][stLabel 0][clr 27][n]is going to improve soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Flower_ParamEndInfo#0",
+   "speaker": null,
+   "en": "I think I have enough[n][stIcon 4][clr 26][stLabel 4][clr 27] already...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FlowerBaito_Ask#0",
+   "speaker": "Morgana",
+   "en": "Wanna use this time to work?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_FlowerBaitoFix#0",
+   "speaker": null,
+   "en": "I'll work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_FlowerBaitoFix#1",
+   "speaker": null,
+   "en": "Let me think about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SYSTEM_SHORTCUT_FLOW#0",
+   "speaker": null,
+   "en": "You can now quick travel to the[n][clr 6]Flower Shop[clr 0] in Shibuya.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WATCHSHOP_MORU#0",
+   "speaker": "Morgana",
+   "en": "Can't you tell the time with your cell[n]phone without having to buy an[n]expensive watch?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WATCHSHOP#0",
+   "speaker": null,
+   "en": "There's a wide variety[n]of watches here, with styles[n]for both young and old people...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LEATHERSHOP_MORU#0",
+   "speaker": "Morgana",
+   "en": "Hrm? This shop kind of smells like[n]animals to me... Can we go somewhere[n]else?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LEATHERSHOP#0",
+   "speaker": null,
+   "en": "The scent of leather fills the air...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COSME_NOTOPEN#0",
+   "speaker": null,
+   "en": "They sell perfume and make-up here.[n]I should come when I need some...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COSME_INFO#0",
+   "speaker": "Cosmetics Shop Clerk",
+   "en": "Welcome. Are you here to buy a gift?[n]Or maybe something for yourself?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COSME_THANKS#0",
+   "speaker": "Cosmetics Shop Clerk",
+   "en": "Thank you very much!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COSME_NOTBUY#0",
+   "speaker": "Cosmetics Shop Clerk",
+   "en": "We look forward to your next visit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SHOESSHOP_MORU#0",
+   "speaker": "Morgana",
+   "en": "Look at how high those heels are.[n]They could almost be used as weapons.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SHOESSHOP#0",
+   "speaker": null,
+   "en": "They sell shoes with[n]high heels here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHOTO_MACHINE_MORU#0",
+   "speaker": "Morgana",
+   "en": "It seems to have lots of functions to[n]make people look better in their[n]pictures, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHOTO_MACHINE_MORU#1",
+   "speaker": "Morgana",
+   "en": "It's a certification photo machine,[n]right? These pictures shouldn't be[n]manipulated...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHOTO_MACHINE#0",
+   "speaker": null,
+   "en": "It's a certification[n]photo machine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHOTO_MACHINE#1",
+   "speaker": null,
+   "en": "It seems to have different[n]functions, like make-up mode[n]or one that slims your face...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEADEND01_MORU#0",
+   "speaker": "Morgana",
+   "en": "Looks like there's nothing up ahead.[n]Let's turn back.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEADEND01#0",
+   "speaker": null,
+   "en": "There's nothing up ahead[n]that I need to check out...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_CO_NG_COMMON_000#0",
+   "speaker": null,
+   "en": "I don't think I have any time to take[n]any detours...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_NG_UNDER_0#0",
+   "speaker": null,
+   "en": "It looks like the ticket gates for the[n][clr 2]Ginza Line[clr 27] are on this floor...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_NG_Hideout#0",
+   "speaker": null,
+   "en": "There's a connecting accessway[n]up ahead.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_NG_Hideout#1",
+   "speaker": null,
+   "en": "The route I need to transfer onto isn't[n]this way though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_CHK_AUTO_M#0",
+   "speaker": null,
+   "en": "It's a vending machine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_CHK_AUTO_M#1",
+   "speaker": null,
+   "en": "I'm not thirsty...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_CHK_BAKERY#0",
+   "speaker": null,
+   "en": "There are rows of freshly baked bread[n]lined up in the bakery.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10920100_CHK_BAKERY#1",
+   "speaker": null,
+   "en": "The appetizing scent of bread is wafting[n]through the surrounding area...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E243301_CHK_SHOP_NG_#0",
+   "speaker": "Morgana",
+   "en": "You don't need to be here right[n]now, do you? Come on, let's head[n]somewhere else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E243301_CHK_SHOP_NG__2#0",
+   "speaker": "Morgana",
+   "en": "What's wrong? Let's go somewhere[n]else already!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E243301_CHK_SHOP_NG__3#0",
+   "speaker": "Morgana",
+   "en": "You don't need to be here right now,[n]do you? Let's stop by again when you[n]have the time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_NG_GINZASE#0",
+   "speaker": "Ann",
+   "en": "We have to transfer onto the JL at[n]Shibuya. Can we hurry?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_NG_HIDEOUT#0",
+   "speaker": "Ryuji",
+   "en": "We gotta get on the JL next. Shouldn't[n]we be headin' toward the square?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24420300_NG_GINZASE#0",
+   "speaker": "Ryuji",
+   "en": "Hold up. We gotta ride the JL to get to[n]Shinjuku. The ticket gates for it are[n]toward the square.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24420300_NG_HIDEOUT#0",
+   "speaker": "Ryuji",
+   "en": "Where you goin'? Let's head to[n]Shinjuku already!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E655104_CHK_SHOP_NG_#0",
+   "speaker": "Morgana",
+   "en": "Hey, the chief said to get flowers, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E655104_CHK_SHOP_NG__2#0",
+   "speaker": "Morgana",
+   "en": "You don't need anything from here[n]right now, do you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E655104_CHK_SHOP_NG__3#0",
+   "speaker": "Morgana",
+   "en": "This isn't a flower store.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E655104_CHK_SHOP_NG__4#0",
+   "speaker": "Morgana",
+   "en": "Hmm, these aren't bad but... Let's just[n]go buy flowers for now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E655104_CHK_SHOP_NG__5#0",
+   "speaker": "Morgana",
+   "en": "You're doing this on purpose, aren't[n]you? This isn't the place, you know?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E655104_CHK_SHOP_NG__6#0",
+   "speaker": "Morgana",
+   "en": "We're supposed to go to the flower store![n]Let's go! The flower store! THE FLOWER[n]STORE!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E655104_CHK_SHOP_NG__7#0",
+   "speaker": "Morgana",
+   "en": "You worked at a flower store before,[n]haven't you? Let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E655104_CHK_SHOP_NG__8#0",
+   "speaker": "Morgana",
+   "en": "I heard that there's a flower store in[n]the underground mall. Let's go check[n]it out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E655104_CHK_SHOP_NG__9#0",
+   "speaker": "Morgana",
+   "en": "Hey! We're gonna go buy flowers,[n]aren't we?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_FLOWER_000#0",
+   "speaker": "Hanasaki",
+   "en": "Oh, [lName]-kun? What brings you[n]here today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E65510400_FLOWER_000#0",
+   "speaker": null,
+   "en": "I'm here for a gift.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E65510400_FLOWER_000#1",
+   "speaker": null,
+   "en": "I'm here for a surprise present.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_FLOWER_001#0",
+   "speaker": "Hanasaki",
+   "en": "I see! Okay, leave it to me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_FLOWER_002#0",
+   "speaker": "Hanasaki",
+   "en": "That should do it. I tried to keep it as[n]simple as possible.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_FLOWER_002#1",
+   "speaker": "Hanasaki",
+   "en": "Okay, that comes out to...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_FLOWER_002_2#0",
+   "speaker": "Morgana",
+   "en": "Hold on! Let me cover this one. You've[n]been taking care of me yourself, so...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_FLOWER_002_2#1",
+   "speaker": "Morgana",
+   "en": "I need to express appreciation for[n]you, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_FLOWER_003#0",
+   "speaker": "Hanasaki",
+   "en": "Good luck! I'm rooting for you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_FLOWER_100#0",
+   "speaker": "Female Shop Worker",
+   "en": "Welcome! What kind of flowers are[n]you looking for today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E65510400_FLOWER_100#0",
+   "speaker": null,
+   "en": "I'm here for a gift.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E65510400_FLOWER_100#1",
+   "speaker": null,
+   "en": "I'm here for a surprise present",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_FLOWER_101#0",
+   "speaker": "Female Shop Worker",
+   "en": "Understood. I'll get right on that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_FLOWER_103#0",
+   "speaker": "Female Shop Worker",
+   "en": "Here you go! I tried to keep it as simple[n]as possible.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_FLOWER_103#1",
+   "speaker": "Female Shop Worker",
+   "en": "The total comes out to...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_FLOWER_103_2#0",
+   "speaker": "Morgana",
+   "en": "Hold on! Let me cover this one. You've[n]been taking care of me yourself, so...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_FLOWER_103_2#1",
+   "speaker": "Morgana",
+   "en": "I need to express appreciation for[n]you, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_FLOWER_104#0",
+   "speaker": "Female Shop Worker",
+   "en": "Thanks for your purchase. Good luck!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_FLOWER_005#0",
+   "speaker": "Morgana",
+   "en": "That's it! The gift is ready!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_000_00#0",
+   "speaker": "Morgana",
+   "en": "Okay, now you're all ready for the date.[n]You know who you plan on inviting...[n]right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_000_00#1",
+   "speaker": "Morgana",
+   "en": "Don't worry, I'm a gentleman who[n]knows his manners. I won't be tagging[n]along.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_000_00#2",
+   "speaker": "Morgana",
+   "en": "All right, good luck out there!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E65510400_TEL_001_00#0",
+   "speaker": null,
+   "en": "I'm going to invite...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E65510400_TEL_001_00#0",
+   "speaker": null,
+   "en": "Spend time with Ohya[ref 0 0]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E65510400_TEL_001_00#1",
+   "speaker": null,
+   "en": "Spend time with Takemi[ref 1 1]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E65510400_TEL_001_00#2",
+   "speaker": null,
+   "en": "Spend time with Kawakami[ref 2 2]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E65510400_TEL_001_00#3",
+   "speaker": null,
+   "en": "Spend time with Hifumi[ref 3 3]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E65510400_TEL_001_00#4",
+   "speaker": null,
+   "en": "Spend time with Chihaya[ref 4 4]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E65510400_TEL_001_00#5",
+   "speaker": null,
+   "en": "Spend time with Futaba[ref 5 5]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E65510400_TEL_001_00#6",
+   "speaker": null,
+   "en": "Spend time with Ann[ref 6 6]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E65510400_TEL_001_00#7",
+   "speaker": null,
+   "en": "Spend time with Makoto[ref 7 7]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E65510400_TEL_001_00#8",
+   "speaker": null,
+   "en": "Spend time with Haru[ref 8 8]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E65510400_TEL_001_00#9",
+   "speaker": null,
+   "en": "Spend time with Sumire[ref 9 9]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_002_00#0",
+   "speaker": "Ohya",
+   "en": "Heeey! What's up?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_002_01#0",
+   "speaker": "Takemi",
+   "en": "What? Something wrong?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_002_02#0",
+   "speaker": "Kawakami",
+   "en": "Sorry, I'm at the school right now...[n]What do you need?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_002_03#0",
+   "speaker": "Hifumi",
+   "en": "Yes...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_002_04#0",
+   "speaker": "Chihaya",
+   "en": "Oh, [lName]-san? Is something[n]wrong?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_002_05#0",
+   "speaker": "Futaba",
+   "en": "Hey you. What's going on?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_002_06#0",
+   "speaker": "Ann",
+   "en": "Hey. What's up?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_002_07#0",
+   "speaker": "Makoto",
+   "en": "[fName]? Is something wrong?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_002_08#0",
+   "speaker": "Haru",
+   "en": "[fName]-kun? Is something the[n]matter?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_002_09#0",
+   "speaker": "Sumire",
+   "en": "Yes, Yoshizawa speaking.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E65510400_TEL_002_00#0",
+   "speaker": null,
+   "en": "I want you to come to Shinagawa.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E65510400_TEL_002_00#1",
+   "speaker": null,
+   "en": "Let's go to Shinagawa.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_003_00#0",
+   "speaker": "Ohya",
+   "en": "Right now? Just like that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_003_00#1",
+   "speaker": "Ohya",
+   "en": "Well, what my boyfriend wants, he gets![n]Lemme finish up work and I'll get going.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_003_01#0",
+   "speaker": "Takemi",
+   "en": "Shinagawa? Why? Well, I guess that's[n]a stupid question...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_003_01#1",
+   "speaker": "Takemi",
+   "en": "I'm at work, but I can take off early.[n]I'll see you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_003_02#0",
+   "speaker": "Kawakami",
+   "en": "Right now? That's kind of sudden.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_003_02#1",
+   "speaker": "Kawakami",
+   "en": "But sure. I'm almost done with work,[n]so I can head over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_003_03#0",
+   "speaker": "Hifumi",
+   "en": "To... Shinagawa?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_003_03#1",
+   "speaker": "Hifumi",
+   "en": "Sure... Let me get my things, and I'll[n]head over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_003_03#2",
+   "speaker": "Hifumi",
+   "en": "I'll see you later...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_003_04#0",
+   "speaker": "Chihaya",
+   "en": "Shinagawa? Sure...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_003_04#1",
+   "speaker": "Chihaya",
+   "en": "I'll close up early so I can go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_003_05#0",
+   "speaker": "Futaba",
+   "en": "Shinagawa...? O-Okay, I guess.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_003_05#1",
+   "speaker": "Futaba",
+   "en": "Are you out right now? Could you come[n]get— Uh... never mind. I can meet up[n]with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_003_05#2",
+   "speaker": "Futaba",
+   "en": "Alrighty, see you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_003_06#0",
+   "speaker": "Ann",
+   "en": "Shinagawa? Okay, sure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_003_06#1",
+   "speaker": "Ann",
+   "en": "And it just happens to be on White Day,[n]huh? I've actually been kinda looking[n]forward to this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_003_06#2",
+   "speaker": "Ann",
+   "en": "Okay, let me get ready and I'll head over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_003_07#0",
+   "speaker": "Makoto",
+   "en": "Huh? Um... okay.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_003_07#1",
+   "speaker": "Makoto",
+   "en": "Thank god you said something. I was[n]getting kind of worried. Today's, well...[n]you know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_003_07#2",
+   "speaker": "Makoto",
+   "en": "Okay. Let me get changed, and I'll meet[n]you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_003_08#0",
+   "speaker": "Haru",
+   "en": "To Shinagawa? Ah... Sure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_003_08#1",
+   "speaker": "Haru",
+   "en": "So... It's a date, then! I'd be happy to.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_003_08#2",
+   "speaker": "Haru",
+   "en": "Okay, let me go get ready. I'll meet you[n]there?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_003_09#0",
+   "speaker": "Sumire",
+   "en": "Right now? Of course, that's fine!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_003_09#1",
+   "speaker": "Sumire",
+   "en": "I don't have practice today, so I'll head[n]over right away.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65510400_TEL_003_09#2",
+   "speaker": "Sumire",
+   "en": "See you there!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E65510400_TEL_004_00#0",
+   "speaker": null,
+   "en": "I should get ready to[n]head to Shinagawa...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E65510400_TEL_005_00#0",
+   "speaker": null,
+   "en": "I should return to Leblanc...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "EX_0103_0108_LOCK_mes01#0",
+   "speaker": "Female Guest",
+   "en": "The lucky bags here are suppose to be[n]amazing. I heard they're worth 10 times[n]what it costs to buy them!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "EX_0103_0108_LOCK_mes02#0",
+   "speaker": "Male Guest",
+   "en": "I guess everyone's heard, there are so[n]many people.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "EX_0103_0108_LOCK_mes02#1",
+   "speaker": "Male Guest",
+   "en": "Although I do suspect some people[n]plan on selling what they get.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "EX_0103_0108_LOCK_mes03#0",
+   "speaker": "Female Guest",
+   "en": "Yeah, it's crazy how many people there[n]are! But I really want to get one!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "EX_0103_0108_LOCK_mes04#0",
+   "speaker": null,
+   "en": "The line seems to be for the lucky bags.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "EX_0103_0108_LOCK_mes04#1",
+   "speaker": null,
+   "en": "I don't think I can go in any further...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "EX_0103_0108_LOCK_mes00#0",
+   "speaker": null,
+   "en": "It's too crowded for me to go in[n]any further...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_OK_Chishiki#0",
+   "speaker": null,
+   "en": "I feel like my [stIcon 1][clr 26][stLabel 0][clr 27][n]is going to improve soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_NG_Chishiki#0",
+   "speaker": null,
+   "en": "I don't think my [stIcon 1][clr 26][stLabel 0][clr 27][n]is going to improve just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_L_TISIK#0",
+   "speaker": null,
+   "en": "It looks like I still have a lot of[n]room for improvement...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_M_TISIK#0",
+   "speaker": null,
+   "en": "I can feel something[n]coming to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_S_TISIK#0",
+   "speaker": null,
+   "en": "I think I'm close to a breakthrough[n]with my [stIcon 0][clr 26][stLabel 0][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_OK_Miryoku#0",
+   "speaker": null,
+   "en": "I feel like my [stIcon 1][clr 26][stLabel 0][clr 27][n]is going to improve soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_NG_Miryoku#0",
+   "speaker": null,
+   "en": "I don't think my [stIcon 1][clr 26][stLabel 0][clr 27][n]is going to improve just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_L_MIRYO#0",
+   "speaker": null,
+   "en": "It looks like I still have a lot of[n]room for improvement...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_M_MIRYO#0",
+   "speaker": null,
+   "en": "I can feel something[n]coming to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_S_MIRYO#0",
+   "speaker": null,
+   "en": "I think I'm close to a breakthrough[n]with my [stIcon 1][clr 26][stLabel 1][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_OK_Kiyou#0",
+   "speaker": null,
+   "en": "I feel like my [stIcon 2][clr 26][stLabel 2][clr 27][n]is going to improve soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_NG_Kiyou#0",
+   "speaker": null,
+   "en": "I don't think my [stIcon 2][clr 26][stLabel 2][clr 27][n]is going to improve just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_OK_Kiyou_Beef#0",
+   "speaker": null,
+   "en": "If things go well, I think my[n][stIcon 1][clr 26][stLabel 1][clr 27] might improve...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_L_KIYOU#0",
+   "speaker": null,
+   "en": "It looks like I still have a lot of[n]room for improvement...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_M_KIYOU#0",
+   "speaker": null,
+   "en": "I can feel something[n]coming to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_S_KIYOU#0",
+   "speaker": null,
+   "en": "I think I'm close to a breakthrough[n]with my [stIcon 2][clr 26][stLabel 2][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_OK_Dokyo#0",
+   "speaker": null,
+   "en": "I feel like my [stIcon 3][clr 26][stLabel 3][clr 27][n]are going to improve soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_NG_Dokyo#0",
+   "speaker": null,
+   "en": "I don't think my [stIcon 3][clr 26][stLabel 3][clr 27][n]are going to improve just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_L_DOKYO#0",
+   "speaker": null,
+   "en": "It looks like I still have a lot of[n]room for improvement...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_M_DOKYO#0",
+   "speaker": null,
+   "en": "I can feel something[n]coming to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_S_DOKYO#0",
+   "speaker": null,
+   "en": "I think I'm close to a breakthrough[n]with my [stIcon 3][clr 26][stLabel 3][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_OK_Yasasisa#0",
+   "speaker": null,
+   "en": "I feel like my [stIcon 4][clr 26][stLabel 4][clr 27][n]is going to improve soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_NG_Yasasisa#0",
+   "speaker": null,
+   "en": "I don't think my [stIcon 4][clr 26][stLabel 4][clr 27][n]is going to improve just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_OK_Yasasisa_F#0",
+   "speaker": null,
+   "en": "If things go well, I think my[n][stIcon 4][clr 26][stLabel 4][clr 27] might improve...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_L_YASAS#0",
+   "speaker": null,
+   "en": "It looks like I still have a lot of[n]room for improvement...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_M_YASAS#0",
+   "speaker": null,
+   "en": "I can feel something[n]coming to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_S_YASAS#0",
+   "speaker": null,
+   "en": "I think I'm close to a breakthrough[n]with my [stIcon 4][clr 26][stLabel 4][clr 27]...",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

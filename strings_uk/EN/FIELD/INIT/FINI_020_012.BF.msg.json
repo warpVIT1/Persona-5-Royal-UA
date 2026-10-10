@@ -1,0 +1,509 @@
+{
+ "file": "EN/FIELD/INIT/FINI_020_012.BF",
+ "entries": [
+  {
+   "id": "MSG_000_1ST_0_0#0",
+   "speaker": "Morgana",
+   "en": "It's kind of calming to see such an[n]imposing building...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Jingu2nd#0",
+   "speaker": "Morgana",
+   "en": "Mm, this place is as calming as it always is.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_008_0_0#0",
+   "speaker": "Morgana",
+   "en": "Are you going to pray for something?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JINGU_THINK_SEL#0",
+   "speaker": null,
+   "en": "Let's pray for strong bonds.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JINGU_THINK_SEL#1",
+   "speaker": null,
+   "en": "Actually, let's go home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_011_0_0#0",
+   "speaker": "Morgana",
+   "en": "I see... Forming deep bonds will really help[n]us in our Phantom Thieves' missions!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_0#0",
+   "speaker": "Morgana",
+   "en": "What? We came all the way here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RSTART#0",
+   "speaker": "Morgana",
+   "en": "So do you want to pray after all?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Loop_CoopMaxError#0",
+   "speaker": "Morgana",
+   "en": "So, what're you gonna do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Loop_CoopMaxError_En#0",
+   "speaker": "Morgana",
+   "en": "Yeah, sounds good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_012_0_0#0",
+   "speaker": "Morgana",
+   "en": "How much do you want to put in?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_payMoney#0",
+   "speaker": null,
+   "en": "Nothing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_payMoney#1",
+   "speaker": null,
+   "en": "5 yen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_payMoney#2",
+   "speaker": null,
+   "en": "1,000 yen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PayMoney_Nothave#0",
+   "speaker": "Morgana",
+   "en": "Huh? You don't have enough money.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PayMoney_0#0",
+   "speaker": "Morgana",
+   "en": "Is that even allowed...? Make sure you[n]bring some money next time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PayMoney_5#0",
+   "speaker": "Morgana",
+   "en": "5 yen... Here's hoping for relationships[n]that are worth more, yeah?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PayMoney_1000#0",
+   "speaker": "Morgana",
+   "en": "Wow, that's quite the splurge!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WhoPray#0",
+   "speaker": "Morgana",
+   "en": "Well, take your time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIGAN_1ST#0",
+   "speaker": "Morgana",
+   "en": "Do you know how to pray?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIGAN_1ST#1",
+   "speaker": "Morgana",
+   "en": "I'm pretty sure you bow twice, clap twice,[n]then bow once.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_NGChara#0",
+   "speaker": null,
+   "en": "I get the feeling that I don't[n]need to pray for [var 0]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#0",
+   "speaker": null,
+   "en": "Think about Ryuji",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#1",
+   "speaker": null,
+   "en": "[clr 30]Think about Ryuji[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#2",
+   "speaker": null,
+   "en": "Think about Ann",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#3",
+   "speaker": null,
+   "en": "[clr 30]Think about Ann[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#4",
+   "speaker": null,
+   "en": "Think about Yusuke",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#5",
+   "speaker": null,
+   "en": "[clr 30]Think about Yusuke[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#6",
+   "speaker": null,
+   "en": "Think about Makoto",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#7",
+   "speaker": null,
+   "en": "[clr 30]Think about Makoto[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#8",
+   "speaker": null,
+   "en": "Think about Futaba",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#9",
+   "speaker": null,
+   "en": "[clr 30]Think about Futaba[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#10",
+   "speaker": null,
+   "en": "Think about Haru",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#11",
+   "speaker": null,
+   "en": "[clr 30]Think about Haru[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#12",
+   "speaker": null,
+   "en": "Think about Sojiro",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#13",
+   "speaker": null,
+   "en": "[clr 30]Think about Sojiro[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#14",
+   "speaker": null,
+   "en": "Think about Mishima",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#15",
+   "speaker": null,
+   "en": "[clr 30]Think about Mishima[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#16",
+   "speaker": null,
+   "en": "Think about Takemi",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#17",
+   "speaker": null,
+   "en": "[clr 30]Think about Takemi[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#18",
+   "speaker": null,
+   "en": "Think about Iwai",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#19",
+   "speaker": null,
+   "en": "[clr 30]Think about Iwai[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#20",
+   "speaker": null,
+   "en": "Think about Kawakami",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#21",
+   "speaker": null,
+   "en": "[clr 30]Think about Kawakami[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#22",
+   "speaker": null,
+   "en": "Think about Yoshida",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#23",
+   "speaker": null,
+   "en": "[clr 30]Think about Yoshida[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#24",
+   "speaker": null,
+   "en": "Think about Ohya",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#25",
+   "speaker": null,
+   "en": "[clr 30]Think about Ohya[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#26",
+   "speaker": null,
+   "en": "Think about Chihaya",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#27",
+   "speaker": null,
+   "en": "[clr 30]Think about Chihaya[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#28",
+   "speaker": null,
+   "en": "Think about Hifumi",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#29",
+   "speaker": null,
+   "en": "[clr 30]Think about Hifumi[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#30",
+   "speaker": null,
+   "en": "Think about Shinya",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#31",
+   "speaker": null,
+   "en": "[clr 30]Think about Shinya[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#32",
+   "speaker": null,
+   "en": "Think about Akechi",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#33",
+   "speaker": null,
+   "en": "[clr 30]Think about Akechi[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#34",
+   "speaker": null,
+   "en": "Think about [sumi 10 1]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#35",
+   "speaker": null,
+   "en": "[clr 30]Think about [sumi 10 1][clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#36",
+   "speaker": null,
+   "en": "Think about Maruki",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WhoPray#37",
+   "speaker": null,
+   "en": "[clr 30]Think about Maruki[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Think_Chara#0",
+   "speaker": null,
+   "en": "I should pray for a stronger[n]bond with [var 0]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Chara_Result_5#0",
+   "speaker": null,
+   "en": "I can see [var 0]'s face[n]clearly in my mind...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Chara_Result_5#1",
+   "speaker": null,
+   "en": "I feel like our bond[n]has grown deeper...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Chara_Result_10#0",
+   "speaker": null,
+   "en": "I can see [var 0]'s face[n]clearly in my mind...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Chara_Result_10#1",
+   "speaker": null,
+   "en": "......!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Chara_Result_10#2",
+   "speaker": null,
+   "en": "They were smiling...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Chara_Result_10#3",
+   "speaker": null,
+   "en": "I feel like our bond has grown[n]significantly deeper...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_045_0_0#0",
+   "speaker": "Morgana",
+   "en": "Hey, who was your prayer about?[n]...Er, maybe I shouldn't ask. It won't[n]work if you tell someone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_045_0_0#1",
+   "speaker": "Morgana",
+   "en": "Anyway, let's head home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RankMax_Error#0",
+   "speaker": "Morgana",
+   "en": "Hm...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RankMax_Error#1",
+   "speaker": "Morgana",
+   "en": "I think the bonds you have with everyone[n]are already really strong.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RankMax_Error#2",
+   "speaker": "Morgana",
+   "en": "You've got other stuff to do, right? You[n]don't need any divine intervention right[n]now. Come on, let's go someplace else.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

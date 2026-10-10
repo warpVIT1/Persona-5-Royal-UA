@@ -1,0 +1,1118 @@
+{
+ "file": "EN/EVENT_DATA/SCRIPT/E700/E766_001.BF",
+ "entries": [
+  {
+   "id": "MSG_START_1ST_R#0",
+   "speaker": "Ryuji",
+   "en": "No, wait! I almost went in there, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_1ST_R#1",
+   "speaker": "Ryuji",
+   "en": "Why'd you make me come here?[n]And to a confessional?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_START_1ST_R#0",
+   "speaker": null,
+   "en": "It's for the Phantom Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_START_1ST_R#1",
+   "speaker": null,
+   "en": "Something good will happen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_1_R#0",
+   "speaker": "Ryuji",
+   "en": "Really? Well, if you say so...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_2_R#0",
+   "speaker": "Ryuji",
+   "en": "Somethin' good, huh? I still don't get[n]the point of goin' to a confessional...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_2_R#1",
+   "speaker": "Ryuji",
+   "en": "Well, this is for us Phantom Thieves,[n]right? Fine, I'll go in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_R#0",
+   "speaker": "Ryuji",
+   "en": "Haha, I ended up talkin' about a bunch[n]of stuff...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_R#1",
+   "speaker": "Ryuji",
+   "en": "I thought I'd hafta admit the worst things[n]I ever done, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_R#2",
+   "speaker": "Ryuji",
+   "en": "They really listen. You can talk about[n]all the small stuff rattlin' in your head[n]that's botherin' you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_R#3",
+   "speaker": "Ryuji",
+   "en": "Y'know, this turned out to be better[n]than I thought. I really liked doin' this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DONE_R#0",
+   "speaker": "Ryuji",
+   "en": "All right, we better start headin' home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STRAT_COM_R#0",
+   "speaker": "Ryuji",
+   "en": "Wha— You called me up outta nowhere[n]to get me over to this place again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_COM_2_R#0",
+   "speaker": "Ryuji",
+   "en": "Aw, hell—this is for us Phantom Thieves,[n]right? Fine, I'll go in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_2_R#0",
+   "speaker": "Ryuji",
+   "en": "Y'know, once you start talkin' to the guy,[n]you start likin' it. Man, I got a load off my[n]chest.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_2_R#1",
+   "speaker": "Ryuji",
+   "en": "All right, we better start headin' home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_1ST_A#0",
+   "speaker": "Ann",
+   "en": "Wait, you want me to go into the[n]confessional!? This is so sudden!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_1ST_A#1",
+   "speaker": "Ann",
+   "en": "Hey, you're not trying to tell me[n]something, are you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_START_1ST_A#0",
+   "speaker": null,
+   "en": "It's for the Phantom Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_START_1ST_A#1",
+   "speaker": null,
+   "en": "Something good will happen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_1_A#0",
+   "speaker": "Ann",
+   "en": "Ah... I see.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_1_A#1",
+   "speaker": "Ann",
+   "en": "This is my first time at a confessional, so[n]I have no idea what I'm doing, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_1_A#2",
+   "speaker": "Ann",
+   "en": "I guess this'll be a good learning[n]experience. Okay... I guess I'm[n]going in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_2_A#0",
+   "speaker": "Ann",
+   "en": "Something good? Oh, we're doing this[n]for the Phantom Thieves?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_2_A#1",
+   "speaker": "Ann",
+   "en": "I guess I'll give it a try... In any case, you[n]should've told me more beforehand!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_A#0",
+   "speaker": "Ann",
+   "en": "...That wasn't as bad as I thought.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_A#1",
+   "speaker": "Ann",
+   "en": "I thought confessing sins would be[n]scarier. Like I'd have to relive all my[n]guilt or something.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_A#2",
+   "speaker": "Ann",
+   "en": "But they give you good advice and[n]they'll also listen if you want to talk[n]about your past.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_A#3",
+   "speaker": "Ann",
+   "en": "I guess it is pretty important to take[n]the time to just reflect. Thanks, this[n]was a good idea.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DONE_A#0",
+   "speaker": "Ann",
+   "en": "Well then, we should start heading home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_COM_A#0",
+   "speaker": "Ann",
+   "en": "You called me here so suddenly,[n]just like the last time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_COM_2_A#0",
+   "speaker": "Ann",
+   "en": "I get that you want me to do this for the[n]Phantom Thieves, though... All right,[n]I'll go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_2_A#0",
+   "speaker": "Ann",
+   "en": "Phew! Once I started talking...[n]Well, I didn't realize there was[n]so much I wanted to talk about.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_2_A#1",
+   "speaker": "Ann",
+   "en": "Well then, we should start heading home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STRAT_COM_MR_1ST#0",
+   "speaker": "Morgana",
+   "en": "All right, I'm going in. Oh, and you are[n]too. I'll need you to interpret for me,[n]please.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_MR_1ST#0",
+   "speaker": "Morgana",
+   "en": "I see... I really do have a lot to reflect on,[n]even if it's just about whatever happened[n]recently.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_MR_1ST#1",
+   "speaker": "Morgana",
+   "en": "After some serious reflection, I was[n]able to rediscover just how marvelous[n]I really am.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DONE_MR_1ST#0",
+   "speaker": "Morgana",
+   "en": "All right, let's go home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STRAT_COM_MR#0",
+   "speaker": "Morgana",
+   "en": "Well, I hope you don't mind coming[n]along to interpret for me again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STRAT_COM_2_MR#0",
+   "speaker": "Morgana",
+   "en": "Talking like that makes me feel so much[n]better. I didn't realize I held back my[n]tongue so much...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STRAT_COM_2_MR#1",
+   "speaker": "Morgana",
+   "en": "All right, let's go home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_1ST_Y#0",
+   "speaker": "Yusuke",
+   "en": "I've come by because you've invited[n]me here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_1ST_Y#1",
+   "speaker": "Yusuke",
+   "en": "But, a confessional? This feels too[n]sudden.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_START_1ST_Y#0",
+   "speaker": null,
+   "en": "It's for the Phantom Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_START_1ST_Y#1",
+   "speaker": null,
+   "en": "Something good will happen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_1_Y#0",
+   "speaker": "Yusuke",
+   "en": "Ah, of course. I suppose I'll just have to[n]do it then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_1_Y#1",
+   "speaker": "Yusuke",
+   "en": "Perhaps the old masters confided in[n]men of the cloth. In that case, I now[n]follow in their footsteps...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_2_Y#0",
+   "speaker": "Yusuke",
+   "en": "Something good? I see, you wish for me[n]to do this for the sake of the Phantom[n]Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_2_Y#1",
+   "speaker": "Yusuke",
+   "en": "I wish you had told me from the very[n]beginning. I was needlessly surprised...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_2_Y#2",
+   "speaker": "Yusuke",
+   "en": "Very well... I suppose I shall enter.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_Y#0",
+   "speaker": "Yusuke",
+   "en": "That wasn't bad at all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_Y#1",
+   "speaker": "Yusuke",
+   "en": "Reflecting on the you in the past to[n]attain deeper insights... that inspire[n]the you in the present.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_Y#2",
+   "speaker": "Yusuke",
+   "en": "Yes, this was a meaningful use of time.[n]Fascinating, how many little things[n]I could remember...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DONE_Y#0",
+   "speaker": "Yusuke",
+   "en": "Well then, we should head home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_COM_Y#0",
+   "speaker": "Yusuke",
+   "en": "You always want to do things at a[n]moment's notice...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_COM_2_Y#0",
+   "speaker": "Yusuke",
+   "en": "Oh—in that case, I shall enter.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_2_Y#0",
+   "speaker": "Yusuke",
+   "en": "Talking about mundane life makes me[n]realize the beauty and value found in a[n]fleeting moment...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_2_Y#1",
+   "speaker": "Yusuke",
+   "en": "Well then, we should head home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_1ST_M#0",
+   "speaker": "Makoto",
+   "en": "I came because you called me here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_1ST_M#1",
+   "speaker": "Makoto",
+   "en": "But this is really short notice. This had[n]better be important.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_START_1ST_M#0",
+   "speaker": null,
+   "en": "It's for the Phantom Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_START_1ST_M#1",
+   "speaker": null,
+   "en": "Something good will happen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_1_M#0",
+   "speaker": "Makoto",
+   "en": "Oh... Okay, I get it now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_1_M#1",
+   "speaker": "Makoto",
+   "en": "You should have said so from the start.[n]I was feeling anxious for no reason...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_1_M#2",
+   "speaker": "Makoto",
+   "en": "Anyway, I'll go in. You know, I'm actually[n]a little excited about this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_2_M#0",
+   "speaker": "Makoto",
+   "en": "Something good? Oh, is this for the[n]Phantom Thieves?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_2_M#1",
+   "speaker": "Makoto",
+   "en": "You should have said that from the start.[n]Since you called me so suddenly,[n]I assumed the worst.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_2_M#2",
+   "speaker": "Makoto",
+   "en": "Well, I'm going in. Don't go home[n]without me, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_M#0",
+   "speaker": "Makoto",
+   "en": "You know, that wasn't too bad.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_M#1",
+   "speaker": "Makoto",
+   "en": "I guess this was like counseling.[n]It wasn't anything like a dramatic[n]confession of my worst sins...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_M#2",
+   "speaker": "Makoto",
+   "en": "I talked about my memories a little.[n]It helped me feel a bit more at ease.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DONE_M#0",
+   "speaker": "Makoto",
+   "en": "Well, let's go home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_COM_M#0",
+   "speaker": "Makoto",
+   "en": "You called me to meet here on such[n]short notice again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_COM_2_M#0",
+   "speaker": "Makoto",
+   "en": "Well, this is for the Phantom Thieves,[n]yes? All right, I'll go in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_2_M#0",
+   "speaker": "Makoto",
+   "en": "Phew... I feel kind of relieved after[n]being able to talk so much about[n]whatever I felt like.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_2_M#1",
+   "speaker": "Makoto",
+   "en": "Well, let's go home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_1ST_H#0",
+   "speaker": "Haru",
+   "en": "I was wondering why you called me[n]so suddenly. This is a confessional,[n]isn't it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_1ST_H#1",
+   "speaker": "Haru",
+   "en": "Um, is there something I need to be[n]confessing?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_START_1ST_H#0",
+   "speaker": null,
+   "en": "It's for the Phantom Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_START_1ST_H#1",
+   "speaker": null,
+   "en": "Something good will happen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_1_H#0",
+   "speaker": "Haru",
+   "en": "Oh... So that's why!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_1_H#1",
+   "speaker": "Haru",
+   "en": "If this is for the Phantom Thieves, then[n]I have to do this. I'm a little nervous[n]though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_2_H#0",
+   "speaker": "Haru",
+   "en": "Something good? I see, this is for the[n]Phantom Thieves, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_2_H#1",
+   "speaker": "Haru",
+   "en": "You should have told me that from[n]the very beginning. You got me so[n]worried over nothing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_2_H#2",
+   "speaker": "Haru",
+   "en": "Well, I'll be going in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_H#0",
+   "speaker": "Haru",
+   "en": "Phew... That was a little bit exhausting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_H#1",
+   "speaker": "Haru",
+   "en": "I thought confessionals would be scary,[n]but you can go to them to talk about[n]your problems...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_H#2",
+   "speaker": "Haru",
+   "en": "They also listened to me reminisce[n]about the past, too. I feel so much[n]better now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DONE_H#0",
+   "speaker": "Haru",
+   "en": "Well, shall we head home?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_COM_H#0",
+   "speaker": "Haru",
+   "en": "You always call me out of the blue[n]to meet you here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_COM_2_H#0",
+   "speaker": "Haru",
+   "en": "Well, if this is for the Phantom Thieves,[n]then I guess I'll go in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_2_H#0",
+   "speaker": "Haru",
+   "en": "Phew, I feel so exhausted after talking[n]so much.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_2_H#1",
+   "speaker": "Haru",
+   "en": "Well, shall we head home?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_1ST_G#0",
+   "speaker": "Akechi",
+   "en": "This is a confessional, isn't it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_1ST_G#1",
+   "speaker": "Akechi",
+   "en": "Your sudden summons surprised me,[n]but... Have I done something to offend[n]you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_START_1ST_G#0",
+   "speaker": null,
+   "en": "It's for the Phantom Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_START_1ST_G#1",
+   "speaker": null,
+   "en": "Something good will happen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_1_G#0",
+   "speaker": "Akechi",
+   "en": "I see, for the Phantom Thieves...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_1_G#1",
+   "speaker": "Akechi",
+   "en": "All right, I'll go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_2_G#0",
+   "speaker": "Akechi",
+   "en": "Something good? I see. This is for the[n]Phantom Thieves, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_2_G#1",
+   "speaker": "Akechi",
+   "en": "All right, I'll go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_G#0",
+   "speaker": "Akechi",
+   "en": "I see...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_G#1",
+   "speaker": "Akechi",
+   "en": "So you reflect upon your past through[n]conversation. It's not a bad way to[n]organize your thoughts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_G#2",
+   "speaker": "Akechi",
+   "en": "This was a fairly valuable experience.[n]Thank you for inviting me here today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DONE_G#0",
+   "speaker": "Akechi",
+   "en": "Well, we better head back home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_COM_G#0",
+   "speaker": "Akechi",
+   "en": "You've called me here so abruptly again...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_COM_2_G#0",
+   "speaker": "Akechi",
+   "en": "But this is for the Phantom Thieves,[n]right? Okay, I'll go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_2_G#0",
+   "speaker": "Akechi",
+   "en": "That was pleasant. I was able to get my[n]thoughts worked out, just by talking[n]freely.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_2_G#1",
+   "speaker": "Akechi",
+   "en": "Well, we better head back home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_1ST_BG#0",
+   "speaker": "Akechi",
+   "en": "Is this... a confessional?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_1ST_BG#1",
+   "speaker": "Akechi",
+   "en": "You summon me out of the blue and ask[n]to meet here... You're quite the character.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_START_1ST_BG#0",
+   "speaker": null,
+   "en": "It's for the Phantom Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_START_1ST_BG#1",
+   "speaker": null,
+   "en": "Something good will happen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_1_BG#0",
+   "speaker": "Akechi",
+   "en": "Hmph. You think I don't already know that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_1_BG#1",
+   "speaker": "Akechi",
+   "en": "Fine, I'll go in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_2_BG#0",
+   "speaker": "Akechi",
+   "en": "Something good, huh... For the Phantom[n]Thieves, I assume?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_2_BG#1",
+   "speaker": "Akechi",
+   "en": "Fine, I'll go in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_BG#0",
+   "speaker": "Akechi",
+   "en": "I see...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_BG#1",
+   "speaker": "Akechi",
+   "en": "So you reflect upon your past through[n]conversation. It's not a bad way to[n]organize your thoughts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_BG#2",
+   "speaker": "Akechi",
+   "en": "This was a fairly valuable experience...[n]I suppose I owe you thanks.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DONE_BG#0",
+   "speaker": "Akechi",
+   "en": "Let's head home. You don't[n]have much time left, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_COM_BG#0",
+   "speaker": "Akechi",
+   "en": "Good grief... This again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_COM_2_BG#0",
+   "speaker": "Akechi",
+   "en": "I understand how important it is to[n]strengthen our resolve... I'll go in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_2_BG#0",
+   "speaker": "Akechi",
+   "en": "That was worthwhile. I was[n]able to organize my thoughts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_2_BG#1",
+   "speaker": "Akechi",
+   "en": "Alright, let's head home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_1ST_YS#0",
+   "speaker": "Sumire",
+   "en": "S-Senpai! I was wondering why[n]you called me so suddenly...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_1ST_YS#1",
+   "speaker": "Sumire",
+   "en": "We're in a church right now, so this[n]must be a confessional... Did I do[n]something wrong...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_START_1ST_YS#0",
+   "speaker": null,
+   "en": "It's for the Phantom Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_START_1ST_YS#1",
+   "speaker": null,
+   "en": "Something good will happen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_1_YS#0",
+   "speaker": "Sumire",
+   "en": "Okay...? I'm still confused, but[n]I'll go inside!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_2_YS#0",
+   "speaker": "Sumire",
+   "en": "Oh... You didn't mention anything[n]like that before...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHOICE_2_YS#1",
+   "speaker": "Sumire",
+   "en": "But I'm guessing it's important, right?[n]Then I'll head inside!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_YS#0",
+   "speaker": "Sumire",
+   "en": "*giggle* ...I ended up talking a lot.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_YS#1",
+   "speaker": "Sumire",
+   "en": "I always imagined confessionals to be[n]this scary place where you get yelled at[n]to \"Repent your sins!\" or something...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_YS#2",
+   "speaker": "Sumire",
+   "en": "I didn't realize I could share minor[n]concerns, like losing weight... Oops,[n]did I say that out loud?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_YS#3",
+   "speaker": "Sumire",
+   "en": "Thank you so much for inviting me to[n]this. It was fun!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DONE_YS#0",
+   "speaker": "Sumire",
+   "en": "Well then, let's head home!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_COM_YS#0",
+   "speaker": "Sumire",
+   "en": "You're very good at getting people[n]to meet you on short notice, Senpai...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_COM_2_YS#0",
+   "speaker": "Sumire",
+   "en": "Alright, I'll go inside. Please wait for me[n]here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_2_YS#0",
+   "speaker": "Sumire",
+   "en": "I find it surprisingly relaxing in there. I[n]wonder if it's due to the dim lighting...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_2_YS#1",
+   "speaker": "Sumire",
+   "en": "Well then, let's head home!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_002_0_0#0",
+   "speaker": "Ryuji",
+   "en": "Yo! I keep you waitin'?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_0_0#0",
+   "speaker": "Morgana",
+   "en": "Phew... Thanks for being my interpreter[n]in there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_004_0_0#0",
+   "speaker": "Ann",
+   "en": "Sorry about the wait. I hope it wasn't[n]too long.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_005_0_0#0",
+   "speaker": "Yusuke",
+   "en": "Ah... Were you waiting for any extended[n]period of time?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_006_0_0#0",
+   "speaker": "Makoto",
+   "en": "I'm sorry... Did you have to wait long?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_007_0_0#0",
+   "speaker": "Haru",
+   "en": "My apologies for making you wait.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_008_0_0#0",
+   "speaker": "Akechi",
+   "en": "Oh, sorry to have made you wait.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_008_1_0#0",
+   "speaker": "Akechi",
+   "en": "Hmph... Sorry to keep you waiting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_009_0_0#0",
+   "speaker": "Sumire",
+   "en": "Apologies for the wait! I'm ready to[n]go now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#0",
+   "speaker": null,
+   "en": "Ryuji Sakamoto",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#1",
+   "speaker": null,
+   "en": "Morgana",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#2",
+   "speaker": null,
+   "en": "Ann Takamaki",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#3",
+   "speaker": null,
+   "en": "Yusuke Kitagawa",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#4",
+   "speaker": null,
+   "en": "Makoto Niijima",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#5",
+   "speaker": null,
+   "en": "Haru Okumura",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#6",
+   "speaker": null,
+   "en": "Goro Akechi",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_3#0",
+   "speaker": null,
+   "en": "first time",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_3#1",
+   "speaker": null,
+   "en": "general",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

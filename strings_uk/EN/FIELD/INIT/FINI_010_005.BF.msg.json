@@ -1,0 +1,432 @@
+{
+ "file": "EN/FIELD/INIT/FINI_010_005.BF",
+ "entries": [
+  {
+   "id": "HELP_GIM_01#0",
+   "speaker": null,
+   "en": "Cost: 10,000 yen[n]Only usable in the daytime[n]on weekends and holidays",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_GIM_02#0",
+   "speaker": null,
+   "en": "Cost: 50,000 yen[n]Only usable in the daytime",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_GIM_03#0",
+   "speaker": null,
+   "en": "Cost: 100,000 yen[n]Usable any day, any time",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_005_0_0#0",
+   "speaker": "Personal Trainer",
+   "en": "Hey, welcome.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_005_0_0#1",
+   "speaker": "Personal Trainer",
+   "en": "This is Protein Lovers, a gym for[n]anyone who wants a healthy bod.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_009_0_0#0",
+   "speaker": "Personal Trainer",
+   "en": "Looks like you're not a member yet.[n]You should consider it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_016_0_0#0",
+   "speaker": "Personal Trainer",
+   "en": "So, which membership package[n]would you like?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_017_0_0#0",
+   "speaker": null,
+   "en": "Bronze Pass[ref 0 0]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_017_0_0#1",
+   "speaker": null,
+   "en": "Silver Pass[ref 1 1]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_017_0_0#2",
+   "speaker": null,
+   "en": "Gold Pass[ref 2 2]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NO_MONEY#0",
+   "speaker": "Morgana",
+   "en": "You don't have the money for that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_0_0#0",
+   "speaker": "Personal Trainer",
+   "en": "Oh, you don't wanna become[n]a member? You totally should![n]We can sweat it out together!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_019_0_0#0",
+   "speaker": null,
+   "en": "On second thought...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_019_0_0#1",
+   "speaker": null,
+   "en": "Maybe another time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_020_0_0#0",
+   "speaker": "Personal Trainer",
+   "en": "I see... I hope you come again!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_021_0_0#0",
+   "speaker": "Personal Trainer",
+   "en": "Gotcha. That one, huh? Come[n]on over whenever you like!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_021_0_0#1",
+   "speaker": "Personal Trainer",
+   "en": "Now, to commemorate your[n]membership, you can train today[n]no matter which pass you chose.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_021_0_0#2",
+   "speaker": "Personal Trainer",
+   "en": "You came all the way here,[n]so why not have at it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_022_0_0#0",
+   "speaker": null,
+   "en": "I'll train.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_022_0_0#1",
+   "speaker": null,
+   "en": "I'll pass.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_023_0_0#0",
+   "speaker": "Personal Trainer",
+   "en": "Once you leave, you can only come[n]back during your designated time[n]slots. You okay with that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_024_0_0#0",
+   "speaker": null,
+   "en": "I don't mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_024_0_0#1",
+   "speaker": null,
+   "en": "I'll train.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_025_0_0#0",
+   "speaker": "Personal Trainer",
+   "en": "I see... Well, come again[n]when you feel like it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_026_0_0#0",
+   "speaker": "Personal Trainer",
+   "en": "All righty then! Go on and train[n]to your heart's content!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_027_0_0#0",
+   "speaker": "Personal Trainer",
+   "en": "Ooh, didn't expect you to choose[n]that one. You must be planning[n]some serious training.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_027_0_0#1",
+   "speaker": "Personal Trainer",
+   "en": "Now the gym is your oyster![n]Come on over to break a[n]sweat whenever you want!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_027_0_0#2",
+   "speaker": "Personal Trainer",
+   "en": "Well then, do you wanna[n]start training right away?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_028_0_0#0",
+   "speaker": null,
+   "en": "I'll train.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_028_0_0#1",
+   "speaker": null,
+   "en": "I'll pass.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_029_0_0#0",
+   "speaker": "Personal Trainer",
+   "en": "I see... Well, come again[n]when you feel like it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_030_0_0#0",
+   "speaker": "Personal Trainer",
+   "en": "All righty then! Go on and train[n]to your heart's content!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_031_0_0#0",
+   "speaker": "Personal Trainer",
+   "en": "Hey! Welcome!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_032_0_0#0",
+   "speaker": "Personal Trainer",
+   "en": "So, what are you here for?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_033_0_0#0",
+   "speaker": null,
+   "en": "I want to get a membership.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_033_0_0#1",
+   "speaker": null,
+   "en": "I want to change my pass.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_033_0_0#2",
+   "speaker": null,
+   "en": "I want to train.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_033_0_0#3",
+   "speaker": null,
+   "en": "I don't need anything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_034_0_0#0",
+   "speaker": "Personal Trainer",
+   "en": "You got it! Which pass[n]would you like?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_035_0_0#0",
+   "speaker": null,
+   "en": "Silver Pass[ref 0 1]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_035_0_0#1",
+   "speaker": null,
+   "en": "Gold Pass[ref 1 2]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_036_0_0#0",
+   "speaker": "Personal Trainer",
+   "en": "I see... Well, come again[n]when you feel like it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_EVENT_NEXT_000_00#0",
+   "speaker": null,
+   "en": "I don't see my friends here...[n]I should go somewhere else...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IKEDA_001_0_0#0",
+   "speaker": "Ikeda-senpai",
+   "en": "Oh, you're that guy that was with[n]Sakamoto...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_IKEDA_002_0_0#0",
+   "speaker": null,
+   "en": "What's bonkin'?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_IKEDA_002_0_0#1",
+   "speaker": null,
+   "en": "Hello.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_IKEDA_002_0_0#2",
+   "speaker": null,
+   "en": "I'm his friend.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IKEDA_003_0_0#0",
+   "speaker": "Ikeda-senpai",
+   "en": "Oh no, not you too...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IKEDA_003_1_0#0",
+   "speaker": "Ikeda-senpai",
+   "en": "Hahah, no need to be so polite.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IKEDA_003_2_0#0",
+   "speaker": "Ikeda-senpai",
+   "en": "I thought so.[n]No wonder you looked familiar.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IKEDA_004_0_0#0",
+   "speaker": "Ikeda-senpai",
+   "en": "S'it true that Sakamoto wants to go[n]back to the track team so much that[n]he's moving just so he can do rehab?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IKEDA_004_0_0#1",
+   "speaker": "Ikeda-senpai",
+   "en": "I felt so happy hearing that![n]It'd be lame if he didn't do anything!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IKEDA_004_0_0#2",
+   "speaker": "Ikeda-senpai",
+   "en": "So, I'm plannin' on helping him as[n]much as possible.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IKEDA_004_0_0#3",
+   "speaker": "Ikeda-senpai",
+   "en": "Don't you think it'd be awesome if he[n]and I'd be able to run together again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IKEDA_004_0_1#0",
+   "speaker": "Ikeda-senpai",
+   "en": "So I heard Sakamoto's not coming back[n]to the team...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IKEDA_004_0_1#1",
+   "speaker": "Ikeda-senpai",
+   "en": "I feel like it's a waste of talent, but if that's[n]the path he chooses, I'll accept it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IKEDA_004_0_1#2",
+   "speaker": "Ikeda-senpai",
+   "en": "Maybe he'll want to come back one of[n]these days.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IKEDA_004_0_1#3",
+   "speaker": "Ikeda-senpai",
+   "en": "If that happens, I sure would love to run[n]with him again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IKEDA_END_0#0",
+   "speaker": "Ikeda-senpai",
+   "en": "I can run with Sakamoto again.[n]This is so awesome!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IKEDA_END_1#0",
+   "speaker": "Ikeda-senpai",
+   "en": "Well, if Sakamoto comes back to the[n]track team one day, I sure would want[n]to run with him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_IKEDA_010_0_0#0",
+   "speaker": null,
+   "en": "I said my goodbyes to Ikeda-senpai.[n]I should go elsewhere.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

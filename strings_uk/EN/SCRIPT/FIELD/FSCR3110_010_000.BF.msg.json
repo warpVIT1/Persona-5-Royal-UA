@@ -1,0 +1,334 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR3110_010_000.BF",
+ "entries": [
+  {
+   "id": "MSG_Coffee_SojiroGoHome#0",
+   "speaker": "Sojiro",
+   "en": "You know how to brew coffee? Hmph...[n]Well, you can give it a try.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Coffee_SojiroGoHome#1",
+   "speaker": "Sojiro",
+   "en": "I'm gonna head home. Don't waste the[n]beans, got it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Coffee_SojiroGoHome_#0",
+   "speaker": "Sojiro",
+   "en": "Don't waste the beans, got it? I'm gonna[n]head home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Coffee_AkechiGoHome_#0",
+   "speaker": "Akechi",
+   "en": "I suppose I'll leave as well. Thank you for the[n]coffee.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COFFEE_START_1ST_MOR#0",
+   "speaker": "Morgana",
+   "en": "So, this is where the chief brews his famous[n]coffee...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COFFEE_START_1ST#0",
+   "speaker": null,
+   "en": "Some utensils for brewing coffee[n]are lined up on the counter.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COFFEE_START_MORUGAN#0",
+   "speaker": "Morgana",
+   "en": "Are you going to try making some coffee?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COFFEE_START_MORUGAN_2#0",
+   "speaker": "Morgana",
+   "en": "Are you making some coffee for tomorrow?[n]Not a bad idea.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COFFEE_START#0",
+   "speaker": null,
+   "en": "Should I brew some coffee?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COFFEE_RETUNE#0",
+   "speaker": null,
+   "en": "Maybe I should brew[n]some coffee after all?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COFFEE_START_THINK_S#0",
+   "speaker": null,
+   "en": "I'll brew some coffee.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COFFEE_START_THINK_S#1",
+   "speaker": null,
+   "en": "Let's call Kawakami.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COFFEE_START_THINK_S#2",
+   "speaker": null,
+   "en": "No, never mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CoffeeStart_Kakawami#0",
+   "speaker": "Morgana",
+   "en": "Oh yeah, you could ask Kawakami to do it[n]for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CMM_MAX_MOR#0",
+   "speaker": "Morgana",
+   "en": "That should save us some time. Let's call her[n]over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_NO_MONEY_MO#0",
+   "speaker": "Morgana",
+   "en": "It costs [var 0] yen to call Kawakami[n]over, right? You don't have enough[n]money...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_NO_MONEY#0",
+   "speaker": null,
+   "en": "I need [var 0] yen to call[n]over Kawakami, but I don't[n]have enough money on me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_START_MORUG#0",
+   "speaker": "Morgana",
+   "en": "It costs [var 0] yen to call Kawakami[n]over. You still wanna do it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_START#0",
+   "speaker": null,
+   "en": "Calling over Kawakami[n]will cost [var 0] yen...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TeacherOrder#0",
+   "speaker": null,
+   "en": "Request assistance",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TeacherOrder#1",
+   "speaker": null,
+   "en": "Don't request assistance",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_NO_CALL_MOR#0",
+   "speaker": "Morgana",
+   "en": "Hm? Changed your mind?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_NO_CALL#0",
+   "speaker": null,
+   "en": "I'll just have to brew it myself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Coffee_KawaAnotherOn#0",
+   "speaker": "Morgana",
+   "en": "Hm? You already asked her to do something[n]else. She can't do two things at the same[n]time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Coffee_KawaAnotherOn#0",
+   "speaker": null,
+   "en": "I've already asked Kawakami[n]to do something else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COFFEE_RETUNE_MORUGA#0",
+   "speaker": "Morgana",
+   "en": "What do you wanna do? Are you going to[n]make some coffee after all?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_KAWAKAMI#0",
+   "speaker": "Kawakami",
+   "en": "Hello, Master! Thanks for calling. This is[n]Becky!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_KAWAKAMI#1",
+   "speaker": "Kawakami",
+   "en": "Oh, wait, it's you... Did you want to use the[n]delivery service?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_KAWAKAMI#2",
+   "speaker": "Kawakami",
+   "en": "Okay, I'll be there soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_KAWAKAMI_OffDa#0",
+   "speaker": "Kawakami",
+   "en": "Hi, this is Becky! I'm really sorry, but I'm off[n]today...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_KAWAKAMI_OffDa#1",
+   "speaker": "Kawakami",
+   "en": "Oh, wait, it's you... I'm off today, but if you[n]just want housekeeping, I don't mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_KAWAKAMI_OffDa#2",
+   "speaker": "Kawakami",
+   "en": "It's still work, so I'll head over after I change.[n]Hold on for a bit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_RMAX_KAWAKAMI#0",
+   "speaker": "Kawakami",
+   "en": "Hi, this is Kawakami. Oh, it's you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_RMAX_KAWAKAMI#1",
+   "speaker": "Kawakami",
+   "en": "I quit that maid job, but I'll still take requests[n]from you, you know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_RMAX_KAWAKAMI#2",
+   "speaker": "Kawakami",
+   "en": "...I'll head over there. Just wait for me a bit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_MAX_KAWAKAMI#0",
+   "speaker": "Kawakami",
+   "en": "Sorry to keep you waiting![n]You just want me to make[n]some coffee, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TEST_KAWAKAMI#0",
+   "speaker": "Kawakami",
+   "en": "Thank you for your continued patronage![n]That will be [var 1] yen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_KAWAKAMI#0",
+   "speaker": "Kawakami",
+   "en": "Hm... So, you just want me to make some[n]coffee, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Kawakami_Maid_Talk#0",
+   "speaker": "Kawakami",
+   "en": "Oh, this outfit?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Kawakami_Maid_Talk#1",
+   "speaker": "Kawakami",
+   "en": "I might have quit my job, but it'd be[n]complicated if a teacher visited her[n]student for personal reasons...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Kawakami_Maid_Talk#2",
+   "speaker": "Kawakami",
+   "en": "So, I'll be coming here in this outfit to hide[n]my identity. I hope you don't mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ToolMake_requested#0",
+   "speaker": "Morgana",
+   "en": "Wait, didn't you ask Kawakami to make[n]infiltration tools?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ToolMake_requested#0",
+   "speaker": null,
+   "en": "I've already asked Kawakami to[n]make infiltration tools for me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_laundry_requested#0",
+   "speaker": "Morgana",
+   "en": "Wait, you already asked Kawakami to[n]handle your laundry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_laundry_requested#0",
+   "speaker": null,
+   "en": "I already asked Kawakami[n]to do my laundry though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_curry_requested#0",
+   "speaker": "Morgana",
+   "en": "Wait, didn't you already ask Kawakami to[n]make curry?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_curry_requested#0",
+   "speaker": null,
+   "en": "I already asked Kawakami[n]to make me curry though...",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

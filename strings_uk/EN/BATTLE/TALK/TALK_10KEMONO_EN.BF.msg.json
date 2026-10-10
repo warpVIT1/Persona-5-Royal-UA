@@ -1,0 +1,313 @@
+{
+ "file": "EN/BATTLE/TALK/TALK_10KEMONO_EN.BF",
+ "entries": [
+  {
+   "id": "EnTalkMsg_DUMMY#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "DebugMsg_ERROR#0",
+   "speaker": null,
+   "en": "(Error)",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_00#0",
+   "speaker": null,
+   "en": "Friend in danger. They live or die,[n]it up to me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_00#1",
+   "speaker": null,
+   "en": "Me want [f 2 5 3 9999 3]. Give me[n]if you want save them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_01#0",
+   "speaker": null,
+   "en": "Gwahahaha... Your friend no can move[n]like this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_01#1",
+   "speaker": null,
+   "en": "...Me want [var 0] yen.[n]Then me maybe save friend.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_02#0",
+   "speaker": null,
+   "en": "If you want save friend, listen to[n]what me say.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_02#1",
+   "speaker": null,
+   "en": "Me want your health. Let me drain some.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_03#0",
+   "speaker": null,
+   "en": "Friend in danger. What you do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_03#1",
+   "speaker": null,
+   "en": "Me lacking stamina lately. Give me[n]some of yours.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_EN_CONTACT#0",
+   "speaker": null,
+   "en": "Fine, you win.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_EN_CONTACT#1",
+   "speaker": null,
+   "en": "I can't meet your demands.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_EN_CONTACT#2",
+   "speaker": null,
+   "en": "Call Thieves Guild ([var 5] left).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_EN_CONTACT#3",
+   "speaker": null,
+   "en": "[clr 2]You're up, Panther.[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_00#0",
+   "speaker": null,
+   "en": "...This not enough. Give more. This[n]time me want [f 2 5 3 9999 3].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_01#0",
+   "speaker": null,
+   "en": "...This not enough. Me still want more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_01#1",
+   "speaker": null,
+   "en": "Give [var 0] yen this time. You not care[n]what happen to friend?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_02#0",
+   "speaker": null,
+   "en": "...Me not contented. Me still want more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_02#1",
+   "speaker": null,
+   "en": "If you want to save friend... Oh![n]Me know, you give health this time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_03#0",
+   "speaker": null,
+   "en": "Grrrr... This still not enough. You still[n]look calm... Give more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_03#1",
+   "speaker": null,
+   "en": "Me drain your stamina this time.[n]You want to save friend?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_AGREE_00#0",
+   "speaker": null,
+   "en": "Mwahahaha, me contented. Me give[n]back your friend.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_AGREE_01#0",
+   "speaker": null,
+   "en": "...Okay. Me contented. Me will release[n]friend now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_SLAY_00#0",
+   "speaker": null,
+   "en": "You discarding friend? Human heartless!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_SLAY_01#0",
+   "speaker": null,
+   "en": "Me see, you no care about friend.[n]Then, me do this...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FORGIVE_00#0",
+   "speaker": null,
+   "en": "...Me see, they not precious friend.[n]How boring.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FORGIVE_00#1",
+   "speaker": null,
+   "en": "Me return this human and leave.[n]Me go now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FORGIVE_01#0",
+   "speaker": null,
+   "en": "You horrible. Worse than beast.[n]Me no want to become like you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FORGIVE_01#1",
+   "speaker": null,
+   "en": "Me return this human and leave.[n]Me go now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FLEE_00#0",
+   "speaker": null,
+   "en": "This too much trouble... Me leave now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FLEE_01#0",
+   "speaker": null,
+   "en": "Me tired. No more words. Me leaving[n]now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_ACCEPT_00#0",
+   "speaker": null,
+   "en": "...Me have no problems. We back to[n]fighting now. Awooo!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_ACCEPT_01#0",
+   "speaker": null,
+   "en": "...Me think this okay? Well, let's start[n]fight again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FALTER_00#0",
+   "speaker": null,
+   "en": "Grrr! What coward trick!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FALTER_01#0",
+   "speaker": null,
+   "en": "Grrr! You coward!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FAKE_CRIED00#0",
+   "speaker": null,
+   "en": "Hey! Why you cry!? Ugh, me forgive[n]you for [f 2 5 3 9999 3].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FAKE_CRIED01#0",
+   "speaker": null,
+   "en": "Hrm!? What going on!? Hrgh, me let[n]you go for [var 0] yen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FAKE_CRIED02#0",
+   "speaker": null,
+   "en": "What wrong!? Why water from eye?[n]Fine... me let you off hook for health.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FAKE_CRIED03#0",
+   "speaker": null,
+   "en": "What wrong!? Why water from eye?[n]Hrgh, me let you go for your stamina.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FAKE_COUP00#0",
+   "speaker": null,
+   "en": "Nngh, me no know what do when girl[n]cry... Me sorry... Leaving!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FAKE_COUP01#0",
+   "speaker": null,
+   "en": "...What this feeling? Me no like this.[n]Me leave now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_NO_REQUIREMENT#0",
+   "speaker": null,
+   "en": "You not trick me! Me know you not[n]have it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CharmActing#0",
+   "speaker": "Ann",
+   "en": "No... How could you take that from us?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NetEngo#0",
+   "speaker": null,
+   "en": "Another band of thieves[n]responded to the call!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

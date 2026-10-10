@@ -1,0 +1,4562 @@
+{
+ "file": "EN/INIT/DATMSG.PAK/datSkillCardHelp.bmd",
+ "entries": [
+  {
+   "id": "item_000#0",
+   "speaker": null,
+   "en": "BLANK",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_001#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Fire skill[n]Agi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_002#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Fire skill[n]Agilao.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_003#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Fire skill[n]Agidyne.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_004#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Fire skill[n]Maragi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_005#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Fire skill[n]Maragion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_006#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Fire skill[n]Maragidyne.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_007#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Ice skill[n]Bufu.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_008#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Ice skill[n]Bufula.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_009#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Ice skill[n]Bufudyne.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_00A#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Ice skill[n]Mabufu.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_00B#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Ice skill[n]Mabufula.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_00C#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Ice skill[n]Mabufudyne.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_00D#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Wind skill[n]Garu.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_00E#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Wind skill[n]Garula.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_00F#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Wind skill[n]Garudyne.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_010#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Wind skill[n]Magaru.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_011#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Wind skill[n]Magarula.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_012#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Wind skill[n]Magarudyne.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_013#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Elec skill[n]Zio.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_014#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Elec skill[n]Zionga.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_015#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Elec skill[n]Ziodyne.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_016#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Elec skill[n]Mazio.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_017#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Elec skill[n]Mazionga.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_018#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Elec skill[n]Maziodyne.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_019#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Bless skill[n]Hama.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_01A#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Bless skill[n]Hamaon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_01B#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Bless skill[n]Mahama.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_01C#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Bless skill[n]Mahamaon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_01D#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Bless skill[n]Kouha.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_01E#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Bless skill[n]Kouga.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_01F#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Bless skill[n]Kougaon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_020#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Bless skill[n]Makouha.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_021#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Bless skill[n]Makouga.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_022#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Bless skill[n]Makougaon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_023#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Curse skill[n]Mudo.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_024#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Curse skill[n]Mudoon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_025#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Curse skill[n]Mamudo.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_026#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Curse skill[n]Mamudoon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_027#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Curse skill[n]Eiha.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_028#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Curse skill[n]Eiga.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_029#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Curse skill[n]Eigaon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_02A#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Curse skill[n]Maeiha.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_02B#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Curse skill[n]Maeiga.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_02C#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Curse skill[n]Maeigaon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_02D#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Almighty skill[n]Megido.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_02E#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Almighty skill[n]Megidola.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_02F#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Almighty skill[n]Megidolaon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_030#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Nuke skill[n]Frei.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_031#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Nuke skill[n]Freila.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_032#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Nuke skill[n]Freidyne.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_033#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Nuke skill[n]Mafrei.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_034#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Nuke skill[n]Mafreila.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_035#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Nuke skill[n]Mafreidyne.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_036#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the ailment skill[n]Dazzler.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_037#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the ailment skill[n]Nocturnal Flash.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_038#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the ailment skill[n]Pulinpa.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_039#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the ailment skill[n]Tentarafoo.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_03A#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the ailment skill[n]Evil Touch.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_03B#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the ailment skill[n]Evil Smile.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_03C#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the ailment skill[n]Makajama.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_03D#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the ailment skill[n]Makajamaon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_03E#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_03F#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_040#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the ailment skill[n]Dormina.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_041#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the ailment skill[n]Lullaby.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_042#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the ailment skill[n]Taunt.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_043#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the ailment skill[n]Wage War.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_044#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the ailment skill[n]Ominous Words.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_045#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the ailment skill[n]Abysmal Surge.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_046#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the ailment skill[n]Marin Karin.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_047#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the ailment skill[n]Brain Jack.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_048#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_049#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_04A#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_04B#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_04C#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Almighty skill[n]Life Drain.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_04D#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Almighty skill[n]Spirit Drain.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_04E#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_04F#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_050#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Almighty skill[n]Foul Breath.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_051#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Almighty skill[n]Stagnant Air.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_052#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Almighty skill[n]Ghastly Wail.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_053#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Fire skill[n]Inferno.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_054#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Fire skill[n]Blazing Hell.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_055#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Ice skill[n]Diamond Dust.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_056#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Ice skill[n]Ice Age.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_057#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Wind skill[n]Panta Rhei.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_058#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Wind skill[n]Vacuum Wave.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_059#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Elec skill[n]Thunder Reign.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_05A#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Elec skill[n]Wild Thunder.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_05B#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Bless skill[n]Divine Judgment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_05C#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_05D#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Curse skill[n]Demonic Decree.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_05E#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_05F#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Nuke skill[n]Atomic Flare.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_060#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Nuke skill[n]Cosmic Flare.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_061#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_062#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_063#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Psy skill[n]Psi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_064#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Psy skill[n]Psio.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_065#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Psy skill[n]Psiodyne.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_066#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Psy skill[n]Mapsi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_067#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Psy skill[n]Mapsio.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_068#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Psy skill[n]Mapsiodyne.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_069#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Psy skill[n]Psycho Force.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_06A#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Psy skill[n]Psycho Blast.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_06B#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Lunge.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_06C#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Assault Dive.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_06D#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Megaton Raid.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_06E#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]God's Hand.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_06F#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Lucky Punch.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_070#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Miracle Punch.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_071#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Cleave.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_072#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Giant Slice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_073#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Brave Blade.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_074#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Sword Dance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_075#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_076#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_077#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Cornered Fang.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_078#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Rising Slash.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_079#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Deadly Fury.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_07A#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Gun skill[n]Snap.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_07B#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Gun skill[n]Triple Down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_07C#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Gun skill[n]One-shot Kill.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_07D#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Gun skill[n]Riot Gun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_07E#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Vajra Blast.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_07F#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Vorpal Blade.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_080#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Vicious Strike.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_081#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Heat Wave.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_082#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Gigantomachia.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_083#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Rampage.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_084#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Swift Strike.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_085#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Deathbound.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_086#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Agneyastra.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_087#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Double Fangs.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_088#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Tempest Slash.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_089#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Myriad Slashes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_08A#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Sledgehammer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_08B#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Skull Cracker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_08C#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Terror Claw.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_08D#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Headbutt.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_08E#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_08F#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Gun skill[n]Dream Needle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_090#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Hysterical Slap.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_091#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Negative Pile.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_092#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Brain Shake.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_093#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Flash Bomb.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_094#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Mind Slice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_095#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Bloodbath.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_096#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Memory Blow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_097#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_098#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Dormin Rush.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_099#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Oni-Kagura.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_09A#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Bad Beat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_09B#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Brain Buster.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_09C#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the healing skill[n]Dia.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_09D#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the healing skill[n]Diarama.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_09E#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the healing skill[n]Diarahan.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_09F#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the healing skill[n]Media.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0A0#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the healing skill[n]Mediarama.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0A1#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the healing skill[n]Mediarahan.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0A2#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the healing skill[n]Recarm.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0A3#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the healing skill[n]Samarecarm.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0A4#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0A5#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the healing skill[n]Amrita Drop.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0A6#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the healing skill[n]Amrita Shower.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0A7#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the healing skill[n]Mabaisudi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0A8#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the healing skill[n]Salvation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0A9#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the healing skill[n]Patra.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0AA#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the healing skill[n]Energy Shower.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0AB#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the healing skill[n]Energy Drop.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0AC#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the healing skill[n]Baisudi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0AD#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the healing skill[n]Me Patra.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0AE#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Tarukaja.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0AF#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Rakukaja.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0B0#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Sukukaja.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0B1#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Heat Riser.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0B2#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Matarukaja.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0B3#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Marakukaja.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0B4#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Masukukaja.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0B5#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Thermopylae.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0B6#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Tarunda.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0B7#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Rakunda.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0B8#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Sukunda.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0B9#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Debilitate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0BA#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Matarunda.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0BB#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Marakunda.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0BC#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Masukunda.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0BD#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Dekunda.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0BE#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Dekaja.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0BF#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Charge.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0C0#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Concentrate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0C1#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Rebellion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0C2#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Revolution.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0C3#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Tetrakarn.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0C4#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Makarakarn.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0C5#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Tetraja.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0C6#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Tetra Break.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0C7#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Makara Break.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0C8#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Fire Wall.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0C9#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Ice Wall.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0CA#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Elec Wall.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0CB#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Wind Wall.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0CC#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Fire Break.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0CD#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Ice Break.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0CE#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Wind Break.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0CF#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Elec Break.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0D0#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0D1#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0D2#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Nuke Wall.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0D3#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Psy Wall.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0D4#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Nuke Break.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0D5#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Psy Break.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0D6#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Counter.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0D7#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Counterstrike.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0D8#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]High Counter.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0D9#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Endure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0DA#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Enduring Soul.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0DB#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Dodge Bless.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0DC#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Dodge Curse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0DD#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Survival Trick.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0DE#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Dodge Fire.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0DF#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Evade Fire.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0E0#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Dodge Ice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0E1#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Evade Ice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0E2#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Dodge Wind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0E3#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Evade Wind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0E4#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Dodge Elec.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0E5#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Evade Elec.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0E6#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Dodge Phys.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0E7#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Evade Phys.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0E8#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Fire Boost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0E9#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Fire Amp.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0EA#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Ice Boost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0EB#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Ice Amp.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0EC#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Wind Boost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0ED#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Wind Amp.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0EE#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Elec Boost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0EF#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Elec Amp.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0F0#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Angelic Grace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0F1#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Divine Grace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0F2#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Regenerate 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0F3#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Regenerate 2.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0F4#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Regenerate 3.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0F5#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Invigorate 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0F6#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Invigorate 2.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0F7#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Invigorate 3.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0F8#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Attack Master.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0F9#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Auto-Mataru.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0FA#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Defense Master.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0FB#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Auto-Maraku.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0FC#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Speed Master.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0FD#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Auto-Masuku.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0FE#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Fast Heal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_0FF#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Insta-Heal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_100#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Arms Master.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_101#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Spell Master.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_102#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Sharp Student.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_103#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Apt Pupil.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_104#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Ali Dance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_105#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Firm Stance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_106#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Life Aid.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_107#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Victory Cry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_108#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Growth 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_109#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Growth 2.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_10A#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Growth 3.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_10B#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Unshaken Will.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_10C#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Evade Bless.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_10D#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Evade Curse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_10E#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_10F#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Resist Fire.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_110#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Null Fire.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_111#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Repel Fire.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_112#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Drain Fire.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_113#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Resist Ice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_114#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Null Ice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_115#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Repel Ice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_116#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Drain Ice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_117#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Resist Wind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_118#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Null Wind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_119#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Repel Wind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_11A#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Drain Wind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_11B#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Resist Elec.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_11C#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Null Elec.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_11D#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Repel Elec.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_11E#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Drain Elec.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_11F#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Resist Bless.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_120#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Null Bless.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_121#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Repel Bless.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_122#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Drain Bless.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_123#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Resist Curse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_124#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Null Curse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_125#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Repel Curse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_126#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Drain Curse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_127#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Resist Phys.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_128#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Null Phys.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_129#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Repel Phys.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_12A#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Drain Phys.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_12B#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Ailment Boost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_12C#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Hama Boost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_12D#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Mudo Boost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_12E#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Dizzy Boost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_12F#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Confuse Boost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_130#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Fear Boost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_131#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Forget Boost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_132#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Sleep Boost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_133#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Rage Boost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_134#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Despair Boost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_135#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_136#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Brainwash Boost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_137#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Resist Dizzy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_138#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Resist Confuse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_139#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Resist Fear.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_13A#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Resist Forget.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_13B#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Resist Sleep.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_13C#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Resist Rage.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_13D#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Resist Despair.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_13E#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_13F#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Resist Brainwash.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_140#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Null Dizzy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_141#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Null Confuse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_142#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Null Fear.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_143#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Null Forget.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_144#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Null Sleep.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_145#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Null Rage.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_146#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Null Despair.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_147#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Null Brainwash.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_148#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Burn Boost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_149#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Freeze Boost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_14A#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Shock Boost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_14B#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Fortified Moxy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_14C#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Adverse Resolve.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_14D#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Last Stand.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_14E#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Heat Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_14F#0",
+   "speaker": null,
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_150#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Touch n' Go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_151#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Climate Decorum.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_152#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Ambient Aid.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_153#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Gun Boost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_154#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Gun Amp.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_155#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Trigger Happy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_156#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Resist Nuke.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_157#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Null Nuke.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_158#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Repel Nuke.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_159#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Drain Nuke.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_15A#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Resist Psy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_15B#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Null Psy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_15C#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Repel Psy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_15D#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Drain Psy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_15E#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Nuke Boost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_15F#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Nuke Amp.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_160#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Psy Boost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_161#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Psy Amp.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_162#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Dodge Nuke.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_163#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Evade Nuke.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_164#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Dodge Psy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_165#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Evade Psy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_166#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Bless Boost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_167#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Bless Amp.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_168#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Curse Boost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_169#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Curse Amp.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_16A#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Magic Ability.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_16B#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Fortify Spirit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_16C#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Almighty Boost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_16D#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Almighty Amp.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_16E#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Zenith Defense.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_16F#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]Soul Chain.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_170#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_171#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Kill Rush.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_172#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Gatling Blow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_173#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Gun skill[n]Double Shot.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_174#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Power Slash.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_175#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the Physical skill[n]Death Scythe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_176#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_177#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_178#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Taunting Aura.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_179#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the support skill[n]Concealment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_17A#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_17B#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_17C#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_17D#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_17E#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_17F#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_180#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_181#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the passive skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_182#0",
+   "speaker": null,
+   "en": "A blank card with[n]nothing written on it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_183#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_184#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Ailment Dmg Up+.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_185#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Insta-kill SP (Low).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_186#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Insta-kill SP (Mid).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_187#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Insta-kill SP (High).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_188#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Technical Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_189#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Technical Up+.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_18A#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Low HP Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_18B#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Low HP Atk Up+.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_18C#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]WEAK Hit Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_18D#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]WEAK Hit Up+.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_18E#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Null Insta-kill.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_18F#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]HP Cost -10%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_190#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]HP Cost -25%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_191#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Crit Atk Up 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_192#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Crit Atk Up 2.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_193#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Crit Atk Up 3.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_194#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Crit Atk Up 4.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_195#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Crit Atk Up ★.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_196#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_197#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_198#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_199#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]SP Recovery 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_19A#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]SP Recovery 2.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_19B#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]SP Recovery 3.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_19C#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]SP Recovery 4.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_19D#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]SP Recovery ★.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_19E#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_19F#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1A0#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1A1#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Ailment Up 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1A2#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Ailment Up 2.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1A3#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Ailment Up 3.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1A4#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Ailment Up 4.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1A5#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Ailment Up ★.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1A6#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1A7#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1A8#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1A9#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Magic Atk Cost 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1AA#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Magic Atk Cost 2.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1AB#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Magic Atk Cost 3.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1AC#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Magic Atk Cost 4.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1AD#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Magic Atk Cost ★.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1AE#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1AF#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1B0#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1B1#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Phys HP Cost 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1B2#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Phys HP Cost 2.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1B3#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Phys HP Cost 3.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1B4#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Phys HP Cost 4.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1B5#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Phys HP Cost ★.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1B6#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1B7#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1B8#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1B9#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Single-Target Up 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1BA#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Single-Target Up 2.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1BB#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Single-Target Up 3.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1BC#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Single-Target Up 4.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1BD#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Single-Target Up Up ★.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1BE#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1BF#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1C0#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1C1#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Army Might 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1C2#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Mult-Target Up 2.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1C3#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Mult-Target Up 3.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1C4#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Mult-Target Up 4.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1C5#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Mult-Target Up ★.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1C6#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1C7#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1C8#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1C9#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Phys Up 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1CA#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Phys Up 2.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1CB#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Phys Up 3.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1CC#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Phys Up 4.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1CD#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Phys Up ★.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1CE#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1CF#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1D0#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1D1#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Magic Up 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1D2#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Magic Up 2.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1D3#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Magic Up 3.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1D4#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Magic Up 4.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1D5#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Magic Up ★.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1D6#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1D7#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1D8#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1D9#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Baton Pass Up 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1DA#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Baton Pass Up 2.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1DB#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Baton Pass Up 3.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1DC#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Baton Pass Up 4.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1DD#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Baton Pass Up ★.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1DE#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1DF#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1E0#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1E1#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Ambush Up 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1E2#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Ambush Up 2.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1E3#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Ambush Up 3.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1E4#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Ambush Up 4.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1E5#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Ambush Up ★.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1E6#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1E7#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1E8#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1E9#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]1 More Up 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1EA#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]1 More Up 2.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1EB#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]1 More Up 3.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1EC#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]1 More Up 4.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1ED#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]1 More Up ★.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1EE#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1EF#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1F0#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1F1#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Ailment Multiplier 1",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1F2#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Ailment Multiplier 2.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1F3#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Ailment Multiplier 3.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1F4#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Ailment Multiplier 4.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1F5#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Ailment Multiplier ★.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1F6#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1F7#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1F8#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]BLANK.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1F9#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Phys Up (Low).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1FA#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Phys Up (Mid).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1FB#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Phys Up (High).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1FC#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Heal Cost (Low).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1FD#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Heal Cost (Mid).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1FE#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Heal Cost (High).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_1FF#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Magic Up (Low).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_200#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Magic Up (Mid).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_201#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Magic Up (High).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_202#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Phys Cost (Low).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_203#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Phys Cost (Mid).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_204#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Phys Cost (High).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_205#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Magic Cost (Low).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_206#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Magic Cost (Mid).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_207#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Magic Cost (High).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_208#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Technical Up (Low).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_209#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Technical Up (Mid).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_20A#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Technical Up (High).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_20B#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Attack Cost (Low).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_20C#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Attack Cost (Mid).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_20D#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Attack Cost (High).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_20E#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Up (Low).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_20F#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Up (Mid).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_210#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Up (High).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_211#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Backup Support.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_212#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Sure Escape.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_213#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_214#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_215#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_216#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_217#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_218#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_219#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_21A#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_21B#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_21C#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_21D#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_21E#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_21F#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_220#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_221#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_222#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_223#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_224#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_225#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_226#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_227#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_228#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_229#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_22A#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_22B#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_22C#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_22D#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_22E#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_22F#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_230#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_231#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_232#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_233#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_234#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_235#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_236#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_237#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_238#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_239#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_23A#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_23B#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_23C#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_23D#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_23E#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_23F#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_240#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_241#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_242#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_243#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_244#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_245#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_246#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_247#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_248#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_249#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_24A#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_24B#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_24C#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_24D#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_24E#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_24F#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_250#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_251#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_252#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_253#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_254#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_255#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_256#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_257#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_258#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_259#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_25A#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_25B#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_25C#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_25D#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_25E#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_25F#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_260#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_261#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_262#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_263#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_264#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_265#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_266#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_267#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_268#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_269#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_26A#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_26B#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_26C#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_26D#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_26E#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_26F#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_270#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_271#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_272#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_273#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_274#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_275#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_276#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_277#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_278#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_279#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_27A#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_27B#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_27C#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_27D#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_27E#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_27F#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_280#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_281#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_282#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_283#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_284#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_285#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_286#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_287#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_288#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_289#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Item_28A#0",
+   "speaker": null,
+   "en": "Allows you to learn[n]the trait skill[n]Critical Atk Up.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

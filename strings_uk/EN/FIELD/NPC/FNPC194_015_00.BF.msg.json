@@ -1,0 +1,656 @@
+{
+ "file": "EN/FIELD/NPC/FNPC194_015_00.BF",
+ "entries": [
+  {
+   "id": "TEST_MES#0",
+   "speaker": null,
+   "en": "Test",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_RYUJI_01_01#0",
+   "speaker": "Ryuji",
+   "en": "I think I'm gettin' kinda carsick...[n]Drivin' around on train tracks ain't[n]exactly the smoothest ride in the world.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_RYUJI_02_01#0",
+   "speaker": "Ryuji",
+   "en": "That platform on the other side looks[n]real crowded. I wonder where they're[n]all goin'...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_RYUJI_03_01#0",
+   "speaker": "Ryuji",
+   "en": "Ahhh, nothing beats the feeling of[n]the earth under your feet! I get all[n]antsy when I ain't grounded.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_RYUJI_04_01#0",
+   "speaker": "Ryuji",
+   "en": "Yo, what're you doin' this weekend?[n]We should hang out!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_RYUJI_05_01#0",
+   "speaker": "Ryuji",
+   "en": "We're on a roll right now! Let's keep[n]changin' those hearts!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_RYUJI_06_01#0",
+   "speaker": "Ryuji",
+   "en": "You're really good at makin' those[n]lockpicks, ya know that? I wish I had[n]that kinda skill.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_RYUJI_07_01#0",
+   "speaker": "Ryuji",
+   "en": "The weirdest shit happens here...[n]I swear, it makes those lame haunted[n]houses look like friggin' jokes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_RYUJI_08_01#0",
+   "speaker": "Ryuji",
+   "en": "Ain't it gettin' spookier in here?[n]Should we, uh... Should we call it[n]a day for now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_RYUJI_09_01#0",
+   "speaker": "Ryuji",
+   "en": "I know things are a mess up there[n]right now, but we can't just blow off[n]a person who needs help, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_RYUJI_10_01#0",
+   "speaker": "Ryuji",
+   "en": "This place is so enormous... There just[n]HAS to be something at the end!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_RYUJI_11_01#0",
+   "speaker": "Ryuji",
+   "en": "Now there's a surprise... I didn't expect[n]Mementos to just keep goin' like this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_RYUJI_12_01#0",
+   "speaker": "Ryuji",
+   "en": "Gettin' the blood pumping's the best[n]way to warm up on a cold day like this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MONA_01_01#0",
+   "speaker": "Morgana",
+   "en": "I bet you're nice and comfy riding[n]around in me, right? You sure didn't[n]expect that, didja?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MONA_SEL_01_01#0",
+   "speaker": null,
+   "en": "Yes, it's quite nice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MONA_SEL_01_01#1",
+   "speaker": null,
+   "en": "Actually, I'm carsick right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MONA_01_02#0",
+   "speaker": "Morgana",
+   "en": "Heheh, knew it! Keep the[n]compliments coming!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MONA_01_03#0",
+   "speaker": "Morgana",
+   "en": "Well... Uh... Driving on the tracks is[n]going to be bumpy. Nothing I can do[n]about that!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MONA_02_01#0",
+   "speaker": "Morgana",
+   "en": "It's all thanks to Mishima that we can[n]change targets' hearts in Mementos.[n]Make sure to thank him for his help!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MONA_03_01#0",
+   "speaker": "Morgana",
+   "en": "Could this... Could this finally be my[n]chance to sit beside Panther and...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MONA_04_01#0",
+   "speaker": "Morgana",
+   "en": "I've been finding some scratches on[n]my frame... Please drive carefully...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MONA_05_01#0",
+   "speaker": "Morgana",
+   "en": "Hey, I just wanna say, uh... Sorry about[n]before. I'm not going anywhere without[n]you anymore.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MONA_06_01#0",
+   "speaker": "Morgana",
+   "en": "With as many people as we have with[n]us now, we're sure to reach the bottom[n]of Mementos eventually!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MONA_07_01#0",
+   "speaker": "Morgana",
+   "en": "I just realized I'm pretty full up![n]I might be a little slow-going, but[n]I'll get us where we need to be!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MONA_08_01#0",
+   "speaker": "Morgana",
+   "en": "Changing the target's heart is great and[n]all, but we've gotta be as prepared as[n]we possibly can.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MONA_09_01#0",
+   "speaker": "Morgana",
+   "en": "I told you I'd stick with you, Joker.[n]Make sure you don't disappear on me[n]either, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MONA_10_01#0",
+   "speaker": "Morgana",
+   "en": "Just a little further... Then I finally[n]learn the truth about myself...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MONA_11_01#0",
+   "speaker": "Morgana",
+   "en": "Oh wow, I never thought I'd be carrying[n]around as many as nine people...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MONA_12_01#0",
+   "speaker": "Morgana",
+   "en": "I can keep going! This is the time[n]to show you what I'm made of!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_ANN_01_01#0",
+   "speaker": "Ann",
+   "en": "This place is so creepy. What's with[n]these, like, blood vessely things[n]all over the place?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_ANN_02_01#0",
+   "speaker": "Ann",
+   "en": "My nose has been bothering me...[n]Was the pollen really bad today or[n]something?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_ANN_03_01#0",
+   "speaker": "Ann",
+   "en": "I'm so glad Makoto's with us now![n]I was sick of doing this with just a[n]bunch of guys...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_ANN_04_01#0",
+   "speaker": "Ann",
+   "en": "I feel like we're being watched from[n]the other side of the platform...[n]It's giving me the heebie-jeebies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_ANN_05_01#0",
+   "speaker": "Ann",
+   "en": "Oh yeah, have you been collecting[n]stamps? There always seems to be[n]one by the floor exit there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_ANN_06_01#0",
+   "speaker": "Ann",
+   "en": "The Phantom Thieves have been crazy[n]popular lately. It's a little scary, actually.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_ANN_07_01#0",
+   "speaker": "Ann",
+   "en": "We can't lose sight of who we really are[n]ever again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_ANN_08_01#0",
+   "speaker": "Ann",
+   "en": "There are still a whole bunch of people[n]lined up on the other platform. It's[n]creepy how their train never comes...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_ANN_09_01#0",
+   "speaker": "Ann",
+   "en": "It feels wrong not seeing you at school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_ANN_10_01#0",
+   "speaker": "Ann",
+   "en": "I just realized the year's almost over![n]We've been exploring Mementos for[n]a whole six months now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_ANN_11_01#0",
+   "speaker": "Ann",
+   "en": "It's gotten really cold out lately...[n]I think it's about time I bought[n]some warmer clothes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_ANN_12_01#0",
+   "speaker": "Ann",
+   "en": "It's nice diving back into Mementos[n]after the first shrine visit of the year.[n]I really never get tired of this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_YUUSUKE_02_01#0",
+   "speaker": "Yusuke",
+   "en": "I never could've imagined seeing this in[n]Shibuya's underground... It seems I'm[n]always discovering new things with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_YUUSUKE_03_01#0",
+   "speaker": "Yusuke",
+   "en": "This lack of visibility is rather[n]unsettling... How immense[n]is this place?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_YUUSUKE_04_01#0",
+   "speaker": "Yusuke",
+   "en": "Hmm... A tail makes sitting in a chair[n]rather uncomfortable...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_YUUSUKE_05_01#0",
+   "speaker": "Yusuke",
+   "en": "I suppose as the Phantom Thieves,[n]we should be grateful that people[n]are constantly providing us targets.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_YUUSUKE_06_01#0",
+   "speaker": "Yusuke",
+   "en": "Such a wealth of inspiration...[n]Does anyone have a pencil and paper!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_YUUSUKE_07_01#0",
+   "speaker": "Yusuke",
+   "en": "It's grown quite cramped in here...[n]Very different from when I first joined[n]back in May.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_YUUSUKE_08_01#0",
+   "speaker": "Yusuke",
+   "en": "My, I've grown quite hungry... Perhaps[n]I will bring a snack next time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_YUUSUKE_09_01#0",
+   "speaker": "Yusuke",
+   "en": "*chuckle* I'm pleased that I have the[n]opportunity to explore this place[n]again with you, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_YUUSUKE_10_01#0",
+   "speaker": "Yusuke",
+   "en": "Our long exploration of Mementos[n]is finally reaching an end... Whatever[n]could we find there?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_YUUSUKE_11_01#0",
+   "speaker": "Yusuke",
+   "en": "Could I ask for a bit more space in[n]the car? It's grown quite cramped...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_YUUSUKE_12_01#0",
+   "speaker": "Yusuke",
+   "en": "It's grown cold out... Nothing tops[n]hot pot for dinner on days like these.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MAKOTO_03_01#0",
+   "speaker": "Makoto",
+   "en": "The collective unconscious of the[n]masses—I understand the logic,[n]but... why a train station?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MAKOTO_04_01#0",
+   "speaker": "Makoto",
+   "en": "The weather's been rather fickle lately...[n]I wish we had more sunny days.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MAKOTO_05_01#0",
+   "speaker": "Makoto",
+   "en": "How's it going? Would you like me[n]to take over? I'm actually fairly[n]confident in my driving.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MAKOTO_06_01#0",
+   "speaker": "Makoto",
+   "en": "Ummm, do you ever hear strange[n]voices when we're here? It— It's just[n]my imagination, right...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MAKOTO_SEL_06_01#0",
+   "speaker": null,
+   "en": "It's your imagination.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MAKOTO_SEL_06_01#1",
+   "speaker": null,
+   "en": "Look, behind you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MAKOTO_06_02#0",
+   "speaker": "Makoto",
+   "en": "Ah, right... It's relieving, hearing that[n]from you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MAKOTO_06_03#0",
+   "speaker": "Makoto",
+   "en": "Eep— H-Hey! Are you trying to get[n]smacked here!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MAKOTO_07_01#0",
+   "speaker": "Makoto",
+   "en": "Sis is going to be okay... right?[n]I'm sure she'll understand...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MAKOTO_08_01#0",
+   "speaker": "Makoto",
+   "en": "I've been feeling pretty fit lately.[n]I suppose Shadow fighting makes[n]for good exercise.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MAKOTO_09_01#0",
+   "speaker": "Makoto",
+   "en": "Have you been keeping a balanced diet?[n]Be sure to take good care of your body.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MAKOTO_10_01#0",
+   "speaker": "Makoto",
+   "en": "Don't push yourself too hard, all right?[n]You're lucky to be alive at all, so losing[n]you here would be especially sad.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MAKOTO_11_01#0",
+   "speaker": "Makoto",
+   "en": "I can't believe the winter wind cuts[n]all the way into Mementos... Maybe[n]I should bring an extra layer next time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MAKOTO_12_01#0",
+   "speaker": "Makoto",
+   "en": "Mona seems to be getting a bit sluggish...[n]Maybe I should get him something to[n]drink later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HARU_05_01#0",
+   "speaker": "Haru",
+   "en": "It's so different here with you all than it[n]was when it was just Mona-chan and[n]myself. I have so many friends now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HARU_06_01#0",
+   "speaker": "Haru",
+   "en": "*giggle* It feels like it's been ages since[n]I made those posts on the Phan-Site...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HARU_07_01#0",
+   "speaker": "Haru",
+   "en": "Don't worry about me, I'm fine.[n]We have to help those people[n]relying on us.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HARU_08_01#0",
+   "speaker": "Haru",
+   "en": "For some reason, I just got a craving[n]for some of Boss's coffee.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HARU_SEL_08_01#0",
+   "speaker": null,
+   "en": "Stop by anytime.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HARU_SEL_08_01#1",
+   "speaker": null,
+   "en": "I'll make you some.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HARU_08_02#0",
+   "speaker": "Haru",
+   "en": "Thank you! I'll be sure to visit soon then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HARU_08_03#0",
+   "speaker": "Haru",
+   "en": "You... You will? Oh, thank you![n]I'm delighted to hear it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HARU_09_01#0",
+   "speaker": "Haru",
+   "en": "Say, Joker, the soil has been especially[n]fertile lately—do you think you could[n]sneak up to the roof sometime?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HARU_10_01#0",
+   "speaker": "Haru",
+   "en": "I wonder what's waiting for us beyond[n]here... I wonder if Mona-chan will be[n]all right, too...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HARU_11_01#0",
+   "speaker": "Haru",
+   "en": "The Phantom Thieves are back in action![n]I'm so happy we're all together again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HARU_12_01#0",
+   "speaker": "Haru",
+   "en": "I still can't forgive Crow-kun for[n]what he did... But, I really am glad[n]that he survived.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HUTABA_04_01#0",
+   "speaker": "Futaba",
+   "en": "Wh-Whoa... S-So many people...[n]I-I'm okay, I've got this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HUTABA_05_01#0",
+   "speaker": "Futaba",
+   "en": "No matter the layout of this maze,[n]I can see right through it! ...I think![n]...Sometimes!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HUTABA_06_01#0",
+   "speaker": "Futaba",
+   "en": "Say, if we dyed Mona's fur, would that[n]change his car-mode's paint job too?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HUTABA_07_01#0",
+   "speaker": "Futaba",
+   "en": "Watching the trains blow through here[n]reminds me of when we went to Akiba[n]together... Oh, I'm fine now, though!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HUTABA_08_01#0",
+   "speaker": "Futaba",
+   "en": "Nobody knows what'll happen from[n]here on out—I gotta make sure I do[n]my job.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HUTABA_09_01#0",
+   "speaker": "Futaba",
+   "en": "If you can't ever go back to school,[n]I'll just hafta take you under my wing,[n]Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HUTABA_10_01#0",
+   "speaker": "Futaba",
+   "en": "Hmm, I think we'll be able to go a bit[n]further, but... what is this I'm picking up?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HUTABA_11_01#0",
+   "speaker": "Futaba",
+   "en": "This floor is clearly different from[n]anything we've seen before. Stay[n]on your toes!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HUTABA_12_01#0",
+   "speaker": "Futaba",
+   "en": "Man, we've got one OP team here![n]I feel like we could do anything!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_AKECHI_07_01#0",
+   "speaker": "Akechi",
+   "en": "So you're attempting to help people[n]even now? Now that's something.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_AKECHI_08_01#0",
+   "speaker": "Akechi",
+   "en": "You're very strong, Joker. I've glimpsed[n]your true power yet again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_AKECHI_11_01#0",
+   "speaker": "Akechi",
+   "en": "Whoever would have guessed I would[n]team up with YOU again. Just don't[n]hold me back, got it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_AKECHI_12_01#0",
+   "speaker": "Akechi",
+   "en": "...I'll pass on the friendly chatter.[n]Once our business is concluded,[n]we're done.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_YOSHIZAWA_11_#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Thank you so much for bringing me[n]along, Joker-senpai—I promise I won't[n]be a burden!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_YOSHIZAWA_12_#0",
+   "speaker": "[sumi 10 0]",
+   "en": "I'm done pretending... Please, give me strength, Kasumi!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

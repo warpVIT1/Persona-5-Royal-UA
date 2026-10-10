@@ -1,0 +1,1944 @@
+{
+ "file": "EN/FIELD/NPC/CORP011.BF",
+ "entries": [
+  {
+   "id": "MSG_TWINS_OUTING_1ST_001#0",
+   "speaker": "Justine",
+   "en": "So you've come, Inmate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_1ST_002#0",
+   "speaker": "Caroline",
+   "en": "You're late! Next time we expect you[n]in front of us within two seconds of[n]our calling!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TWINS_OUTING_1ST#0",
+   "speaker": null,
+   "en": "\"Special\" how?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TWINS_OUTING_1ST#1",
+   "speaker": null,
+   "en": "So, not the usual?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_1ST_003#0",
+   "speaker": "Caroline",
+   "en": "Enlighten him, Justine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_1ST_003_2#0",
+   "speaker": "Caroline",
+   "en": "It's completely different. Enlighten him,[n]Justine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_1ST_004#0",
+   "speaker": "Justine",
+   "en": "We've got some new duties lined up[n]for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_1ST_004#1",
+   "speaker": "Justine",
+   "en": "Let's call them \"special assignments\"!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_1ST_004#2",
+   "speaker": "Justine",
+   "en": "To the point: there are a number of[n]places in your reality's society that[n]may foster your rehabilitation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_1ST_004#3",
+   "speaker": "Justine",
+   "en": "You will prove the value of these places[n]to us—in person.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_1ST_005#0",
+   "speaker": "Caroline",
+   "en": "Rejoice, Inmate—we're joining you in[n]your world for your own sake!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_1ST_006#0",
+   "speaker": "Caroline",
+   "en": "We will select various locations that[n]we suspect could be vital to your[n]rehabilitation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_1ST_006#1",
+   "speaker": "Caroline",
+   "en": "Should you recognize a place that we[n]mention, then you are to escort us there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL2_TWINS_OUTING_1ST#0",
+   "speaker": null,
+   "en": "Trying to get out of here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL2_TWINS_OUTING_1ST#1",
+   "speaker": null,
+   "en": "You want to go explore?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_1ST_007#0",
+   "speaker": "Justine",
+   "en": "Are those ears of yours just for decoration?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_1ST_007#1",
+   "speaker": "Justine",
+   "en": "These are special assignments for the sake[n]of your rehabilitation. Work just as hard[n]at them as you do the rest of your duties.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_1ST_007#2",
+   "speaker": "Justine",
+   "en": "We will await you in front of the door—[n]like this—whenever a special assignment[n]is available.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_1ST_008#0",
+   "speaker": "Caroline",
+   "en": "Should you meet our expectations, we'll[n]scrape together some sort of reward for[n]you—so no slacking off!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_1ST_009#0",
+   "speaker": "Justine",
+   "en": "We ought to mention: these special[n]assignments will not be available[n]indefinitely.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_1ST_009#1",
+   "speaker": "Justine",
+   "en": "To phrase it for your comprehension,[n]you will have until the end of the year[n]to complete them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_1ST_009#2",
+   "speaker": "Justine",
+   "en": "You are also required to continue[n]working towards your rehabilitation[n]to earn these assignments.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_1ST_010#0",
+   "speaker": "Caroline",
+   "en": "We're really going out of our way for[n]you here—don't tell us we never did[n]anything special for you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_1ST_011#0",
+   "speaker": "Justine",
+   "en": "That concludes our explanation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_1ST_011#1",
+   "speaker": "Justine",
+   "en": "We will now introduce the first special[n]assignment—are you prepared?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL3_TWINS_OUTING_1ST#0",
+   "speaker": null,
+   "en": "I am prepared.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL3_TWINS_OUTING_1ST#1",
+   "speaker": null,
+   "en": "I wasn't expecting this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_QuestSt#0",
+   "speaker": "Justine",
+   "en": "Then listen closely.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_QuestSt#1",
+   "speaker": "Justine",
+   "en": "The first location we have chosen is...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_1ST_012#0",
+   "speaker": "Caroline",
+   "en": "What!? Quit whining, Inmate!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_1ST_013#0",
+   "speaker": "Justine",
+   "en": "How disappointing that you would[n]be caught unawares...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_1ST_013#1",
+   "speaker": "Justine",
+   "en": "Return to us when you are ready to[n]begin your special assignment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_1ST_013#2",
+   "speaker": "Justine",
+   "en": "But do not forget—these special[n]assignments will only be available[n]for a limited time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_QuestSt_2#0",
+   "speaker": "Justine",
+   "en": "I trust you've come for your special[n]assignment?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_QuestSt_3#0",
+   "speaker": "Caroline",
+   "en": "All right, time to name the location—[n]Justine, you do the honors.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_QuestSt_4#0",
+   "speaker": "Justine",
+   "en": "Listen closely: the place we wish to[n]evaluate for your rehabilitation is...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_QuestSt_5#0",
+   "speaker": "Caroline",
+   "en": "Well? If you know where it is, then[n]escort us there immediately!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_C#0",
+   "speaker": "Caroline",
+   "en": "So, what'll it be?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TWINS_OUTING_Quest_C#0",
+   "speaker": null,
+   "en": "Let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TWINS_OUTING_Quest_C#1",
+   "speaker": null,
+   "en": "Not right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_OKGO_01#0",
+   "speaker": "Justine",
+   "en": "Good answer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_OKGO_02#0",
+   "speaker": "Caroline",
+   "en": "Then we're off! Lead the way, Inmate!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Cancel_#0",
+   "speaker": "Justine",
+   "en": "I see...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Cancel_#1",
+   "speaker": "Justine",
+   "en": "Speak to us again when you wish[n]to hear the details of your special[n]assignment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Cancel_#2",
+   "speaker": "Justine",
+   "en": "But do not forget—these special[n]assignments will only be available[n]for a limited time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Cancel__2#0",
+   "speaker": "Caroline",
+   "en": "What?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Cancel__2#1",
+   "speaker": "Caroline",
+   "en": "Then get back to your regular duties!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Cancel__2#2",
+   "speaker": "Caroline",
+   "en": "Talk to us again when you want to hear[n]the details of your special assignment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Cancel__2#3",
+   "speaker": "Caroline",
+   "en": "We're really busy, you know. You'd[n]better not be slacking off while we[n]break our backs for you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TWINS_OUTING_Quest_C#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MND_TWINS_OUTING_Quest_C#1",
+   "speaker": null,
+   "en": "Nowhere comes to mind...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_C_2#0",
+   "speaker": "Justine",
+   "en": "It appears you're unaware of such a[n]location.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_C_3#0",
+   "speaker": "Caroline",
+   "en": "Are you REALLY working hard at your[n]rehabilitation? If you don't know the[n]place, then you'd better find it quick!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_C_4#0",
+   "speaker": "Caroline",
+   "en": "Report back to us the moment you[n]find it! Got it!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_C_5#0",
+   "speaker": "Caroline",
+   "en": "Wait a minute...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_C_5#1",
+   "speaker": "Caroline",
+   "en": "It doesn't seem like we're going to find[n]what we're looking for at this time.[n]Come back again later, Inmate!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_C_6#0",
+   "speaker": "Caroline",
+   "en": "Wait a minute...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_C_6#1",
+   "speaker": "Caroline",
+   "en": "It doesn't seem like we're going to find[n]what we're looking for with this weather.[n]Come back again later, Inmate!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_C_7#0",
+   "speaker": "Caroline",
+   "en": "Wait a minute. Given the time and[n]this weather...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_C_7#1",
+   "speaker": "Caroline",
+   "en": "It doesn't seem like we're going to[n]find what we're looking for. Come[n]back again later, Inmate!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_End#0",
+   "speaker": "Justine",
+   "en": "This assignment proved to be a very[n]valuable experience.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_End#1",
+   "speaker": "Justine",
+   "en": "However, your rehabilitation is far from[n]over... Do not grow complacent.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest01#0",
+   "speaker": "Justine",
+   "en": "...one that has grown quite popular[n]lately. It's purported to offer foods that[n]simulate the feeling of being in space.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest01_2#0",
+   "speaker": "Justine",
+   "en": "...one that has grown quite popular[n]lately. It's purported to offer foods that[n]simulate the feeling of being in space.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest01_3#0",
+   "speaker": "Caroline",
+   "en": "The food is apparently massive enough[n]to rival the size of the universe itself[n]and resembles a mysterious spacecraft.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest01_4#0",
+   "speaker": "Justine",
+   "en": "If this food exemplifies both the unknown[n]and the vast nothingness of space, it is sure[n]to stimulate the heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest01_4#1",
+   "speaker": "Justine",
+   "en": "Does this description bring any locations[n]to mind?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TWINS_OUTING_Quest01#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MND_TWINS_OUTING_Quest01#1",
+   "speaker": null,
+   "en": "It could be the Big Bang[n]Burger over in Shibuya...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TWINS_OUTING_Quest_C_2#0",
+   "speaker": null,
+   "en": "You mean Big Bang Burger?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TWINS_OUTING_Quest_C_2#1",
+   "speaker": null,
+   "en": "I'd rather not do this now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest01_5#0",
+   "speaker": "Caroline",
+   "en": "Big Bang Burger? The name is fitting,[n]I suppose.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest01_6#0",
+   "speaker": "Justine",
+   "en": "We shall confirm our intel for ourselves.[n]Lead the way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_N#0",
+   "speaker": "Justine",
+   "en": "Apparently, this place lies in the center[n]of a town heavily frequented by young[n]humans.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_N#1",
+   "speaker": "Justine",
+   "en": "Should you search there, you will[n]most likely find it eventually.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest02#0",
+   "speaker": "Justine",
+   "en": "...one that many young people are said[n]to visit. Here, one has the opportunity[n]to view the fantasies of humans.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest02_2#0",
+   "speaker": "Caroline",
+   "en": "We hear there are a variety of fantasies[n]available for perusal there—and all[n]outside of a Palace! How strange.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest02_3#0",
+   "speaker": "Justine",
+   "en": "Yes. These fantasies... They are the[n]cognitions of others given form. They[n]will undoubtedly support your efforts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest02_3#1",
+   "speaker": "Justine",
+   "en": "Does such a location sound familiar[n]to you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TWINS_OUTING_Quest02#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MND_TWINS_OUTING_Quest02#1",
+   "speaker": null,
+   "en": "It could be the movie[n]theater over in Shibuya...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TWINS_OUTING_Quest_C_3#0",
+   "speaker": null,
+   "en": "You mean the movie theater?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TWINS_OUTING_Quest_C_3#1",
+   "speaker": null,
+   "en": "I'd rather not do this now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest02_4#0",
+   "speaker": "Caroline",
+   "en": "The what? The \"moving theater\"!?[n]Is this place cursed to wander the[n]land or something!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest02_5#0",
+   "speaker": "Justine",
+   "en": "We shall confirm our intel for ourselves.[n]Lead the way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_N_2#0",
+   "speaker": "Justine",
+   "en": "As I mentioned previously, the location[n]apparently lies in the center of a town[n]heavily frequented by young people.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_N_2#1",
+   "speaker": "Justine",
+   "en": "Should you search there, you will[n]most likely find it eventually.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest03#0",
+   "speaker": "Justine",
+   "en": "...where one hones both the body and[n]spirit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest03_2#0",
+   "speaker": "Caroline",
+   "en": "Trainees gather there to test and push[n]their limits using various pieces of[n]equipment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest03_3#0",
+   "speaker": "Justine",
+   "en": "I had not expected a rehabilitation[n]facility on this side... As wardens, we[n]must see such training for ourselves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest03_3#1",
+   "speaker": "Justine",
+   "en": "Does such a location sound familiar[n]to you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TWINS_OUTING_Quest03#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MND_TWINS_OUTING_Quest03#1",
+   "speaker": null,
+   "en": "It could be the[n]gym in Shibuya...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TWINS_OUTING_Quest_C_4#0",
+   "speaker": null,
+   "en": "You mean the gym?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TWINS_OUTING_Quest_C_4#1",
+   "speaker": null,
+   "en": "I'd rather not do this now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest03_4#0",
+   "speaker": "Caroline",
+   "en": "So you do have an idea of where it is![n]Then today, you're getting a special[n]training regimen!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest03_5#0",
+   "speaker": "Justine",
+   "en": "If you don't keep up the pace, you will[n]die. Now, take us there at once.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_N_3#0",
+   "speaker": "Justine",
+   "en": "If you cannot find the place on your[n]own, perhaps you should seek help[n]from someone else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_N_3#1",
+   "speaker": "Justine",
+   "en": "Should you deepen your bonds with[n]individuals who train themselves,[n]perhaps you will be led to it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest04#0",
+   "speaker": "Justine",
+   "en": "...where one offers up faith and[n]words of devotion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest04_2#0",
+   "speaker": "Caroline",
+   "en": "Every day, lost sheep flock there to[n]pray. There are even cases where[n]individuals will confess to crimes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest04_3#0",
+   "speaker": "Justine",
+   "en": "Confessing one's crimes due to a fear of[n]divine punishment... This has a familiar[n]ring to our own Inmate's rehabilitation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest04_3#1",
+   "speaker": "Justine",
+   "en": "Does such a location sound familiar[n]to you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TWINS_OUTING_Quest04#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MND_TWINS_OUTING_Quest04#1",
+   "speaker": null,
+   "en": "It could be the[n]church in Kanda...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TWINS_OUTING_Quest_C_5#0",
+   "speaker": null,
+   "en": "You mean the church?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TWINS_OUTING_Quest_C_5#1",
+   "speaker": null,
+   "en": "I'd rather not do this now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest04_4#0",
+   "speaker": "Caroline",
+   "en": "Oh, so it's called a church? Let's witness[n]this so-called faith that humans offer[n]with our own two eyes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest04_5#0",
+   "speaker": "Justine",
+   "en": "Lead us there, Inmate. Now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_N_4#0",
+   "speaker": "Justine",
+   "en": "If you cannot find the place on your own,[n]remember the overall mission you were[n]given.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_N_4#1",
+   "speaker": "Justine",
+   "en": "Should you continue along the \"path of[n]your rehabilitation,\" as our master puts[n]it, perhaps you will find it eventually.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest05#0",
+   "speaker": "Justine",
+   "en": "...somehow capable of simulating[n]the ocean despite being indoors.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest05_2#0",
+   "speaker": "Caroline",
+   "en": "Rumor has it that sea creatures from[n]all around the world have been[n]gathered in this one place.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest05_3#0",
+   "speaker": "Justine",
+   "en": "What an incredulous claim, recreating[n]something as vast as the ocean within[n]a building...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest05_3#1",
+   "speaker": "Justine",
+   "en": "Does such a location sound familiar[n]to you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TWINS_OUTING_Quest05#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MND_TWINS_OUTING_Quest05#1",
+   "speaker": null,
+   "en": "It could be the aquarium[n]in Shinagawa...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TWINS_OUTING_Quest_C_6#0",
+   "speaker": null,
+   "en": "You mean the aquarium?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TWINS_OUTING_Quest_C_6#1",
+   "speaker": null,
+   "en": "I'd rather not do this now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest05_4#0",
+   "speaker": "Caroline",
+   "en": "Oh, an aquarium, huh? Guess we'll see[n]how well it's recreated Mother Ocean.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest05_5#0",
+   "speaker": "Justine",
+   "en": "Let us see just what humanity is[n]capable of. Now, lead us there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_N_5#0",
+   "speaker": "Justine",
+   "en": "If there is a limit to what you can[n]discover on your own, you may want[n]to turn to the knowledge of others.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_N_5#1",
+   "speaker": "Justine",
+   "en": "We've heard that you can acquire a book[n]containing such knowledge in a place[n]where young people gather...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_N_5#2",
+   "speaker": "Justine",
+   "en": "Perhaps you should begin your search[n]there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest06#0",
+   "speaker": "Justine",
+   "en": "...a present-day Tower of Babel.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest06_2#0",
+   "speaker": "Caroline",
+   "en": "It looms high in the heavens—so high that[n]the humans down below on earth are no[n]longer even visible to the naked eye.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest06_3#0",
+   "speaker": "Justine",
+   "en": "Such a grand structure would be far too[n]dangerous for humans... We find that[n]we have a duty to investigate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest06_3#1",
+   "speaker": "Justine",
+   "en": "Does this location sound at all[n]familiar to you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TWINS_OUTING_Quest06#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MND_TWINS_OUTING_Quest06#1",
+   "speaker": null,
+   "en": "It could be the[n]Skytree in Asakusa...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TWINS_OUTING_Quest_C_7#0",
+   "speaker": null,
+   "en": "You mean the Skytree?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TWINS_OUTING_Quest_C_7#1",
+   "speaker": null,
+   "en": "I'd rather not do this now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest06_4#0",
+   "speaker": "Caroline",
+   "en": "So it's named the Skytree, huh? That's[n]pretty impressive-sounding! It's no[n]Tower of Babel, but still, quite fine!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest06_5#0",
+   "speaker": "Justine",
+   "en": "Yes, the boldness of the moniker is[n]quite promising. Take us there at once.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_N_6#0",
+   "speaker": "Justine",
+   "en": "If you cannot find the place on your[n]own, perhaps you should seek help[n]from someone else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_N_6#1",
+   "speaker": "Justine",
+   "en": "Should you deepen your bonds with[n]individuals who train their spirits,[n]perhaps you will happen upon it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest07#0",
+   "speaker": "Justine",
+   "en": "...an odd feature of the city where slaves[n]attend to the needs of visitors.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest07_2#0",
+   "speaker": "Caroline",
+   "en": "Apparently, the slaves in this camp refer[n]to visitors as \"Master,\" and their behavior[n]can even be controlled to some degree.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest07_3#0",
+   "speaker": "Justine",
+   "en": "I wonder how this compares to our[n]devotion for our own master. This could[n]make a strong example for the Inmate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest07_3#1",
+   "speaker": "Justine",
+   "en": "Does such a location sound familiar[n]to you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TWINS_OUTING_Quest07#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MND_TWINS_OUTING_Quest07#1",
+   "speaker": null,
+   "en": "It could be the maid[n]café in Akihabara...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TWINS_OUTING_Quest_C_8#0",
+   "speaker": null,
+   "en": "You mean the maid café?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TWINS_OUTING_Quest_C_8#1",
+   "speaker": null,
+   "en": "I'd rather not do this now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest07_4#0",
+   "speaker": "Caroline",
+   "en": "What is it that makes a café \"made\"?[n]Is it the slaves? I wanna find out!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest07_5#0",
+   "speaker": "Justine",
+   "en": "We shall do just that. Inmate, take us[n]there immediately.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_N_7#0",
+   "speaker": "Justine",
+   "en": "We've heard it exists in an area where[n]the entire town is apparently constructed[n]from electricity...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_N_7#1",
+   "speaker": "Justine",
+   "en": "Should you search there, you will[n]most likely find it eventually.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest08#0",
+   "speaker": "Justine",
+   "en": "...one halfway detached from this[n]world—it is said the time spent there[n]is like that of a dream.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest08_2#0",
+   "speaker": "Caroline",
+   "en": "Men and women of all ages swarm the[n]land, forgetting reality in search of[n]happiness and wonder.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest08_3#0",
+   "speaker": "Justine",
+   "en": "This sounds like a similar form of[n]escapism as the fantasies we saw[n]in the movie theater...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest08_3#1",
+   "speaker": "Justine",
+   "en": "A sinister trap that ensorcels humans...[n]If such a place truly exists, then we must[n]observe it in action ourselves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest08_3#2",
+   "speaker": "Justine",
+   "en": "Does this location sound at all[n]familiar to you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TWINS_OUTING_Quest08#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MND_TWINS_OUTING_Quest08#1",
+   "speaker": null,
+   "en": "It could be Destinyland[n]over in Maihama...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TWINS_OUTING_Quest_C_9#0",
+   "speaker": null,
+   "en": "You mean Destinyland?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TWINS_OUTING_Quest_C_9#1",
+   "speaker": null,
+   "en": "I'd rather not do this now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest08_4#0",
+   "speaker": "Caroline",
+   "en": "DESTINYland? Hmph, what an absurd[n]name! Come on, let's get going, Inmate![n]Go, go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest08_5#0",
+   "speaker": "Justine",
+   "en": "Caroline, what excites you so?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_N_8#0",
+   "speaker": "Justine",
+   "en": "If there is a limit to what you can[n]discover on your own, you may want[n]to turn to the knowledge of others.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_N_8#1",
+   "speaker": "Justine",
+   "en": "We've heard of someone who resides[n]deep within the minds of the masses[n]who has the book with this information.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_N_8#2",
+   "speaker": "Justine",
+   "en": "Perhaps you should begin your search[n]there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest09#0",
+   "speaker": "Justine",
+   "en": "...the castle of your own master, Inmate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest09_2#0",
+   "speaker": "Caroline",
+   "en": "The individual responsible for your[n]successful rehabilitation in your own[n]world—this is a person of great import.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest09_3#0",
+   "speaker": "Justine",
+   "en": "As your wardens, we would be remiss[n]to forgo a meeting with this person.[n]Take us to your master immediately.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TWINS_OUTING_Quest09#0",
+   "speaker": null,
+   "en": "The destination is quite obvious—[n]as such, further elaboration is[n]unnecessary.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TWINS_OUTING_Quest_C_10#0",
+   "speaker": null,
+   "en": "Sure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TWINS_OUTING_Quest_C_10#1",
+   "speaker": null,
+   "en": "Not right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest09_4#0",
+   "speaker": "Caroline",
+   "en": "Excellent. Let's move out, on the double!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest09_5#0",
+   "speaker": "Justine",
+   "en": "What kind of person could your[n]master be? Well, lead the way[n]so we may find out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_N_9#0",
+   "speaker": "Justine",
+   "en": "If you cannot find the place on your own,[n]remember the overall mission you were[n]given.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_N_9#1",
+   "speaker": "Justine",
+   "en": "Should you continue along the \"path of[n]your rehabilitation,\" as our master puts[n]it, perhaps you will find it eventually.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest11#0",
+   "speaker": "Justine",
+   "en": "...a place where land, water, and sun[n]all meet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest11_2#0",
+   "speaker": "Caroline",
+   "en": "People around here have been looking[n]grimmer than ever lately—probably[n]because of \"the heat,\" as they say.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest11_3#0",
+   "speaker": "Justine",
+   "en": "During this season, large numbers of[n]humans gather at a scorching border[n]between \"Mother Ocean\" and the land.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest11_3#1",
+   "speaker": "Justine",
+   "en": "Why would they subject themselves[n]to such a harsh environment...?[n]We demand a satisfactory answer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest11_3#2",
+   "speaker": "Justine",
+   "en": "Does this location sound familiar,[n]Inmate?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TWINS_OUTING_Quest11#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MND_TWINS_OUTING_Quest11#1",
+   "speaker": null,
+   "en": "It could be Miura Beach...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TWINS_OUTING_Quest_C_11#0",
+   "speaker": null,
+   "en": "You mean Miura Beach?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TWINS_OUTING_Quest_C_11#1",
+   "speaker": null,
+   "en": "I'd rather not do this now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest11_4#0",
+   "speaker": "Caroline",
+   "en": "Ooh, so you do know it! C'mon, let's go![n]Move it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest11_5#0",
+   "speaker": "Justine",
+   "en": "I've heard that humans can fall prey[n]to \"heatstrokes\" during this season.[n]Let us take care to avoid a similar fate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_N_10#0",
+   "speaker": "Justine",
+   "en": "You have been granted access to[n]the location, so further questioning[n]is unnecessary.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest12#0",
+   "speaker": "Justine",
+   "en": "...a repository for so-called \"art exhibits.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest12_2#0",
+   "speaker": "Caroline",
+   "en": "Apparently, such places collect many[n]objects solely for the purpose of[n]displaying them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest12_3#0",
+   "speaker": "Justine",
+   "en": "Autumn is supposedly referred to as[n]\"the season of the arts\" in your world,[n]so it is especially appropriate timing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest12_3#1",
+   "speaker": "Justine",
+   "en": "Art is an expression of the heart.[n]It echoes the soul of both artists[n]and viewers... or so I've heard.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest12_3#2",
+   "speaker": "Justine",
+   "en": "The strength of one's heart is the strength[n]of their Persona... I am certain this place[n]shall aid the Inmate's rehabilitation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest12_3#3",
+   "speaker": "Justine",
+   "en": "Does this location sound familiar[n]to you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TWINS_OUTING_Quest12#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MND_TWINS_OUTING_Quest12#1",
+   "speaker": null,
+   "en": "It could be the art[n]museum in Ueno...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TWINS_OUTING_Quest_C_12#0",
+   "speaker": null,
+   "en": "You mean the art museum?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TWINS_OUTING_Quest_C_12#1",
+   "speaker": null,
+   "en": "I'd rather not do this now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest12_4#0",
+   "speaker": "Caroline",
+   "en": "Ah, so you do know it! Take us there[n]immediately, Inmate!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest12_5#0",
+   "speaker": "Justine",
+   "en": "What is it that humans call art?[n]We shall see for ourselves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_N_11#0",
+   "speaker": "Justine",
+   "en": "If you cannot find the place on your[n]own, perhaps you could seek help[n]from someone else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_N_11#1",
+   "speaker": "Justine",
+   "en": "Should you deepen your bonds with[n]individuals with a deep understanding[n]of art, it may reveal itself to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest13#0",
+   "speaker": "Justine",
+   "en": "...a nightmarish place for acquiring gifts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest13_2#0",
+   "speaker": "Caroline",
+   "en": "Apparently, when the cold winds arrive,[n]humans gather in a number of areas[n]and search high and low for gifts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest13_3#0",
+   "speaker": "Justine",
+   "en": "The specific one we seek is buried[n]beneath another similar area. People[n]flock there for all manner of goods.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest13_3#1",
+   "speaker": "Justine",
+   "en": "Such unchecked greed condensed into[n]one location... This place sounds like a[n]maelstrom of human desire.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest13_3#2",
+   "speaker": "Justine",
+   "en": "We believe it necessary to ascertain[n]just how much of a threat this place is.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest13_3#3",
+   "speaker": "Justine",
+   "en": "Inmate, does this place sound at all[n]familiar to you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TWINS_OUTING_Quest13#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MND_TWINS_OUTING_Quest13#1",
+   "speaker": null,
+   "en": "It could be the underground[n]mall in Shibuya...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TWINS_OUTING_Quest_C_13#0",
+   "speaker": null,
+   "en": "You mean the Shibuya mall?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TWINS_OUTING_Quest_C_13#1",
+   "speaker": null,
+   "en": "I'd rather not do this now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest13_4#0",
+   "speaker": "Caroline",
+   "en": "So you've heard of it! Then let's get going,[n]Inmate—and you better keep your[n]greed in check while we're there!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest13_5#0",
+   "speaker": "Justine",
+   "en": "We will not be held responsible if you[n]are consumed by your desires. Now,[n]take us there at once.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_Quest_N_12#0",
+   "speaker": "Justine",
+   "en": "You have been granted access to[n]the location, so further questioning[n]is unnecessary.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LVZ_OUTING_1ST#0",
+   "speaker": "Lavenza",
+   "en": "Good day—thank you for coming.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LVZ_OUTING_1ST#1",
+   "speaker": "Lavenza",
+   "en": "...If I may be abrupt, could I ask a favor[n]of you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL__LVZ_OUTING_1ST_7075#0",
+   "speaker": null,
+   "en": "A favor?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL__LVZ_OUTING_1ST_7075#1",
+   "speaker": null,
+   "en": "Depends on what.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LVZ_OUTING_1ST_7075_#0",
+   "speaker": "Lavenza",
+   "en": "The truth is...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LVZ_OUTING_Common#0",
+   "speaker": "Lavenza",
+   "en": "I still have memories from when I was[n]split in two... Spending time with you[n]and visiting all sorts of places together.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LVZ_OUTING_Common_01#0",
+   "speaker": "Lavenza",
+   "en": "So, I have been wondering... would you[n]show me your current home?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LVZ_OUTING_Common_01#1",
+   "speaker": "Lavenza",
+   "en": "I would like to see the room that has[n]shaped you into the person you have[n]become.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LVZ_OUTING_Common_01#2",
+   "speaker": "Lavenza",
+   "en": "I do understand my timing is not the[n]most appropriate, given the current[n]state of the world, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_LVZ_OUTING_Ask#0",
+   "speaker": null,
+   "en": "Sure, let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_LVZ_OUTING_Ask#1",
+   "speaker": null,
+   "en": "Maybe next time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_10_02#0",
+   "speaker": "Lavenza",
+   "en": "Are you certain?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_10_02#1",
+   "speaker": "Lavenza",
+   "en": "Thank you so much. Let us be off[n]immediately.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_10_03#0",
+   "speaker": "Lavenza",
+   "en": "I see... Another time then, perhaps.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_10_NG#0",
+   "speaker": "Lavenza",
+   "en": "Thank you so much for offering to[n]indulge my request, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_10_NG#1",
+   "speaker": "Lavenza",
+   "en": "It doesn't seem that I will find what[n]I'm looking for at this exact time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_10_NG#2",
+   "speaker": "Lavenza",
+   "en": "I apologize for causing such trouble,[n]but would you be willing to return[n]after sunset to take me to your home?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TWINS_OUTING_10_NG#3",
+   "speaker": "Lavenza",
+   "en": "I shall be waiting for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_00#0",
+   "speaker": "Lavenza",
+   "en": "So, you have come to say farewell.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_00#1",
+   "speaker": "Lavenza",
+   "en": "I have some words of reflection[n]for you in this time of parting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_00#2",
+   "speaker": "Lavenza",
+   "en": "If one wishes to belong, they must[n]be willing to sacrifice their own[n]needs and desires at times.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_00#3",
+   "speaker": "Lavenza",
+   "en": "Furthermore, one may even have to[n]cast away their very selves for the[n]sake of those who accompany them...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_00#4",
+   "speaker": "Lavenza",
+   "en": "In truth, I would never have come to[n]learn these things if not for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_00#5",
+   "speaker": "Lavenza",
+   "en": "...I pray you do not lose sight[n]of yourself in the future.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C11_BYEGREET_00_01#0",
+   "speaker": null,
+   "en": "Thank you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C11_BYEGREET_00_01#1",
+   "speaker": null,
+   "en": "I'll carve my own path forward.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C11_BYEGREET_00_01#2",
+   "speaker": null,
+   "en": "I wish you could guide me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_02#0",
+   "speaker": "Lavenza",
+   "en": "Hm... I believe I should be the one[n]thanking you in this situation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_03#0",
+   "speaker": "Lavenza",
+   "en": "Yes, I should have expected[n]that answer from you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_04#0",
+   "speaker": "Lavenza",
+   "en": "I am grateful for those kind words,[n]but you no longer need my guidance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_05#0",
+   "speaker": "Lavenza",
+   "en": "...I have more than mere words[n]to give you today though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_05#1",
+   "speaker": "Lavenza",
+   "en": "Allow me to grant you a parting[n]gift, not as the one who leads[n]you, but simply as Lavenza.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_05#2",
+   "speaker": "Lavenza",
+   "en": "It is an item that will commemorate[n]the man who fought for his beliefs,[n]even though it nearly killed him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_06#0",
+   "speaker": "Lavenza",
+   "en": "This is the key to the cell that[n]held you captive for so long.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_06#1",
+   "speaker": "Lavenza",
+   "en": "In the past, guests of the Velvet[n]Room have received their keys[n]upon their very first visits.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_06#2",
+   "speaker": "Lavenza",
+   "en": "However, I was unable to pass it[n]on to you at that point. This is[n]the least I can do for you now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_06#3",
+   "speaker": "Lavenza",
+   "en": "With this key in hand, you will be[n]able to break free of whatever trials[n]may imprison you in the future.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_07#0",
+   "speaker": "Lavenza",
+   "en": "...Though of course, you have already[n]chosen the path of true freedom.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_07#1",
+   "speaker": "Lavenza",
+   "en": "My only advice to you would be[n]that you remember the others who[n]made that path possible for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_07#2",
+   "speaker": "Lavenza",
+   "en": "Such a superb Trickster as yourself[n]may already know that at this point.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_08#0",
+   "speaker": "Lavenza",
+   "en": "Such a superb Trickster as yourself[n]may already know that at this point.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_00_5#0",
+   "speaker": "Lavenza",
+   "en": "So, you have come to say farewell.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_00_5#1",
+   "speaker": "Lavenza",
+   "en": "I have some words of reflection[n]for you in this time of parting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_00_5#2",
+   "speaker": "Lavenza",
+   "en": "This twisted, broken world sought to[n]crush you. Yet you salvaged it, and[n]with your ideals stitched it whole.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_00_5#3",
+   "speaker": "Lavenza",
+   "en": "You were a true Trickster of this[n]modern age. A beloved champion[n]of a burdened public.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_00_5#4",
+   "speaker": "Lavenza",
+   "en": "And a man of such great heights...[n]Well, where will his path take[n]him next, I wonder?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C11_BYEGREET_00_01_5#0",
+   "speaker": null,
+   "en": "I don't know either.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C11_BYEGREET_00_01_5#1",
+   "speaker": null,
+   "en": "Won't you guide me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C11_BYEGREET_00_01_5#2",
+   "speaker": null,
+   "en": "Care to join me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_02_5#0",
+   "speaker": "Lavenza",
+   "en": "I suspect no one does. Indeed,[n]few could even imagine what[n]you will do next.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_02_5#1",
+   "speaker": "Lavenza",
+   "en": "But that seems only right... It's what[n]makes you a Trickster.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_03_5#0",
+   "speaker": "Lavenza",
+   "en": "What further guidance do you need[n]from me? From here on, all will unfold[n]as you wish it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_03_5#1",
+   "speaker": "Lavenza",
+   "en": "That said... should you desire me[n]to keep watch over you, perhaps[n]I could oblige.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_04_5#0",
+   "speaker": "Lavenza",
+   "en": "...Now, I don't know about that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_04_5#1",
+   "speaker": "Lavenza",
+   "en": "To accompany a Trickster on so[n]twisting and winding a path?[n]I fear I'd soon be outpaced.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_05_5#0",
+   "speaker": "Lavenza",
+   "en": "...I have more than mere words[n]to give you today though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_05_5#1",
+   "speaker": "Lavenza",
+   "en": "Allow me to grant you a parting gift,[n]not as the one who leads you, but[n]simply as Lavenza.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_05_5#2",
+   "speaker": "Lavenza",
+   "en": "This is my blessing to you, to[n]carry on your journey.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_06_5#0",
+   "speaker": "Lavenza",
+   "en": "You were confined to your cell[n]for so long. Now, at last, it seems[n]only right that you bear its key.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_06_5#1",
+   "speaker": "Lavenza",
+   "en": "In the past, guests of the Velvet[n]Room have received their keys[n]upon their very first visits.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_06_5#2",
+   "speaker": "Lavenza",
+   "en": "However, I was unable to pass it[n]on to you at that point. This is[n]the least I can do for you now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_06_5#3",
+   "speaker": "Lavenza",
+   "en": "With this key in hand, you will be[n]able to break free of whatever trials[n]may imprison you in the future.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_07_5#0",
+   "speaker": "Lavenza",
+   "en": "Though of course, you have already[n]chosen the path of true freedom.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_07_5#1",
+   "speaker": "Lavenza",
+   "en": "By inspiring others to take up arms,[n]and fight for their own beliefs...[n]you may change the world itself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_07_5#2",
+   "speaker": "Lavenza",
+   "en": "You walk the path of a true[n]Trickster. May it lead you to[n]fortune beyond imagining.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C11_BYEGREET_00_08_5#0",
+   "speaker": "Lavenza",
+   "en": "You walk the path of a true Trickster.[n]May it lead you to fortune beyond[n]imagining.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

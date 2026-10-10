@@ -1,0 +1,390 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR7000_001_040.BF",
+ "entries": [
+  {
+   "id": "MSG_DUMMY#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#0",
+   "speaker": null,
+   "en": "Apply",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#1",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BAITO_MAGAZINE_1ST_0#0",
+   "speaker": "Morgana",
+   "en": "A part-time job, huh? Well, you do need[n]money.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BAITO_MAGAZINE_1ST_0#1",
+   "speaker": "Morgana",
+   "en": "There are conditions for applying though,[n]right? You sure you've got this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BAITO_MAGAZINE_1ST_0_2#0",
+   "speaker": "Morgana",
+   "en": "So, what kind of jobs are there?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BAITO_MAGAZINE#0",
+   "speaker": "Morgana",
+   "en": "Are there any good ones?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Tell#0",
+   "speaker": "Morgana",
+   "en": "Let's call them right now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Tell_may#0",
+   "speaker": "Morgana",
+   "en": "Yeah, we can go to Shibuya at night now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Tell_may#1",
+   "speaker": "Morgana",
+   "en": "Let's call them right now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Tell_Bar#0",
+   "speaker": "Morgana",
+   "en": "I don't know how I feel about this, but...[n]if you wanna do it, give them a call.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BAITO_MAGAZINE_Error#0",
+   "speaker": "Morgana",
+   "en": "The flower shop is at the [clr 2]underground[n]mall[clr 27] in Shibuya, right? Wait, was your[n]shift today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BAITO_MAGAZINE_Error_2#0",
+   "speaker": "Morgana",
+   "en": "The convenience store is on [clr 2]Central[n]Street[clr 27], right? Be sure to check your[n]shift dates before you go, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BAITO_MAGAZINE_Error_3#0",
+   "speaker": "Morgana",
+   "en": "The beef bowl shop is on [clr 2]Central Street[clr 27].[n]Do you have a shift today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BAITO_MAGAZINE_Error_4#0",
+   "speaker": "Morgana",
+   "en": "The bar in [clr 2]Shinjuku[clr 27], huh... You're gonna[n]go work, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Flower_Start#0",
+   "speaker": "Morgana",
+   "en": "A part-time job at a flower shop, huh?[n]Being around all those flowers might[n]boost your [stIcon 4][clr 26][stLabel 4][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Flower_Start#1",
+   "speaker": "Morgana",
+   "en": "It seems kinda tough, though. You sure[n]you wanna do it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Flower_Tell#0",
+   "speaker": "Phone",
+   "en": "Hi, this is the flower shop Rafflesia.[n]Would you like to order some flowers?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Flower_Tell#1",
+   "speaker": "Phone",
+   "en": "Oh, you saw our ad?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Flower_Tell_O#0",
+   "speaker": "Phone",
+   "en": "Thank you. We don't have enough staff,[n]so we need the help.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Flower_Tell_O#1",
+   "speaker": "Phone",
+   "en": "As for what days... We can work around[n]your schedule.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Flower_Tell_O#2",
+   "speaker": "Phone",
+   "en": "Just come straight to the store next time[n]you're available.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Flower_Tell_O#3",
+   "speaker": "Phone",
+   "en": "We're in the [clr 2]Shibuya Underground[n]Shopping Mall[clr 27]. I'll be waiting for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Flower_Tell_O_2#0",
+   "speaker": "Morgana",
+   "en": "You got the job! Nice going!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Flower_NG#0",
+   "speaker": "Morgana",
+   "en": "The requirements say you gotta be[n]charming. I don't think you've got[n]what it takes right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Flower_NG_par#0",
+   "speaker": null,
+   "en": "Your [stIcon 1][clr 26][stLabel 1][clr 27] needs to be [clr 2][stLvLabel 1 2][clr 27][n]to work at the flower shop.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Convini_Start#0",
+   "speaker": "Morgana",
+   "en": "A part-time job at a convenience store,[n]huh? Sounds typical for a student.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Convini_Start#1",
+   "speaker": "Morgana",
+   "en": "Couldn't hurt to improve your[n][stIcon 1][clr 26][stLabel 1][clr 27] by working in customer[n]service.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Convini_Start#2",
+   "speaker": "Morgana",
+   "en": "Hey, why don't you apply?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Convini_Tell#0",
+   "speaker": "Phone",
+   "en": "Hi, this is Triple Seven on Central Street.[n]You're calling about the job opening?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Convini_Tell#1",
+   "speaker": "Phone",
+   "en": "Hold on. I'll get the manager.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Convini_Tell_#0",
+   "speaker": "Man's Voice",
+   "en": "Thanks for waiting. So, you wanted to[n]apply for a part-time job?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Convini_Tell_#1",
+   "speaker": "Man's Voice",
+   "en": "You're a student, right? I'll plan your[n]schedule around the days you're[n]available.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Convini_Tell_#2",
+   "speaker": "Man's Voice",
+   "en": "I'm always in the store, so you can come[n]straight here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Convini_Tell_#3",
+   "speaker": "Man's Voice",
+   "en": "I look forward to working with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Convini_Tell__2#0",
+   "speaker": "Morgana",
+   "en": "You got the job! Nice going!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_BeefDon_Start#0",
+   "speaker": "Morgana",
+   "en": "Ooh, a part-time job at the beef bowl[n]shop, huh? Seems tough, but you might[n]improve your [stIcon 2][clr 26][stLabel 2][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_BeefDon_Start#1",
+   "speaker": "Morgana",
+   "en": "What do you wanna do? Gonna apply?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_BeefDon_Tell#0",
+   "speaker": "Phone",
+   "en": "Hello. This is Ore no Beko on Central[n]Street. How many people are you[n]ordering for?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_BeefDon_Tell#1",
+   "speaker": "Phone",
+   "en": "Oh, you're calling about the job opening.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_BeefDon_Tell_#0",
+   "speaker": "Man's Voice",
+   "en": "This is great timing. We're in need of[n]some extra hands. I'd take just about[n]anyone at this point.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_BeefDon_Tell_#1",
+   "speaker": "Man's Voice",
+   "en": "You don't mind working at night, do you?[n]Stop by any time you're free to work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_BeefDon_Tell_#2",
+   "speaker": "Man's Voice",
+   "en": "I'll be waiting! We're right by the[n]entrance to Central Street.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_BeefDon_Tell_#3",
+   "speaker": "Man's Voice",
+   "en": "Hope to see you soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_BeefDon_Tell__2#0",
+   "speaker": "Morgana",
+   "en": "That settles it. You'd better work hard,[n]okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_BeefDon_NG#0",
+   "speaker": "Morgana",
+   "en": "...Wait, isn't this a night job?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_BeefDon_NG_pa#0",
+   "speaker": null,
+   "en": "You can only work at the[n]beef bowl shop at night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Bar_Start#0",
+   "speaker": "Morgana",
+   "en": "A part-time job at a bar? Wait, isn't that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Bar_Start#1",
+   "speaker": "Morgana",
+   "en": "Are you serious?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Bar_Tell#0",
+   "speaker": "Phone",
+   "en": "Hello hello! This is Crossroads!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Bar_Tell_OK_0#0",
+   "speaker": "Phone",
+   "en": "You're calling about the part-time job?[n]Oh, thank you! You're a real life saver.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Bar_Tell_OK_0#1",
+   "speaker": "Phone",
+   "en": "Ooh, I recognize this voice. You're that[n]boy from the other day, aren't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Bar_Tell_OK_0#2",
+   "speaker": "Phone",
+   "en": "You got curious about us, hmm? I'd be[n]pleased to have you work for us.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Bar_Tell_OK_0#3",
+   "speaker": "Phone",
+   "en": "You're welcome to come by anytime![n]I'll be waiting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Bar_Tell_OK_0_2#0",
+   "speaker": "Morgana",
+   "en": "Well... that settles it. I-I guess that works,[n]right?",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

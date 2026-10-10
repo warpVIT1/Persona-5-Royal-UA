@@ -1,0 +1,866 @@
+{
+ "file": "EN/EVENT_DATA/SCRIPT/E700/E767_101.BF",
+ "entries": [
+  {
+   "id": "MSG_Start_1st_000#0",
+   "speaker": "Morgana",
+   "en": "You look pretty spiffy when you're holding[n]a cue stick.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Start_1st_001#0",
+   "speaker": "Ryuji",
+   "en": "No kiddin'. He's got the aura of a pro...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Start_1st_002#0",
+   "speaker": "Ann",
+   "en": "Have you played somewhere before? You[n]do seem to know some unexpected stuff...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Start_1st#0",
+   "speaker": null,
+   "en": "I'll leave it to your imagination.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Start_1st#1",
+   "speaker": null,
+   "en": "What's a cue stick?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Start_1st_003_00#0",
+   "speaker": "Morgana",
+   "en": "Man, what a tease...! I think we're in for a[n]good show here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Start_1st_003_01#0",
+   "speaker": "Morgana",
+   "en": "Oh c'mon! It's that thing you've got in[n]your hands! What was that about having[n]the aura of a pro...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Start_1st_004#0",
+   "speaker": "Ryuji",
+   "en": "Heheh. I'm getting pumped now.[n]Alright, let's get started!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Start_Common_Ryuji#0",
+   "speaker": "Ryuji",
+   "en": "Heheh... I can't wait to play! Let's get[n]started already!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Start_Common_moru#0",
+   "speaker": "Morgana",
+   "en": "Looks like we're all here! I'll be cheering[n]all of you on!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Start_Common_Anne#0",
+   "speaker": "Ann",
+   "en": "Okay, let's get started! I hope I can[n]do this...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Start_Common_Yusuke#0",
+   "speaker": "Yusuke",
+   "en": "This atmosphere... It stimulates my[n]senses...! Now, let us begin!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Start_Common_Makoto#0",
+   "speaker": "Makoto",
+   "en": "I'm ready. Now, let's get started.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Start_Common_Futaba#0",
+   "speaker": "Futaba",
+   "en": "It seems everyone has arrived! Leave the[n]support to me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Start_Common_Haru#0",
+   "speaker": "Haru",
+   "en": "It's so exciting to be here with everyone![n]Okay, I'll do my best!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Start_Common_Akechi#0",
+   "speaker": "Akechi",
+   "en": "Now then, shall we begin? Try to stay calm[n]and steady your aim, all right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Start_Common_Akechi_#0",
+   "speaker": "Akechi",
+   "en": "All right, let's get started.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Start_Common_Yoshiza#0",
+   "speaker": "Sumire",
+   "en": "This is kind of nerve-racking, isn't it?[n]But I'm confident in my ability to focus!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PreBreak_Ryuji#0",
+   "speaker": "Ryuji",
+   "en": "This intensity right before the game starts...[n]I love it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PreBreak_moru#0",
+   "speaker": "Morgana",
+   "en": "Will you go boldly, or with caution...?[n]The decision here is important.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PreBreak_Anne#0",
+   "speaker": "Ann",
+   "en": "Form is really important, huh? If you don't[n]make a clean shot, the ball's gonna curve.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PreBreak_Yusuke#0",
+   "speaker": "Yusuke",
+   "en": "Hmm... What unique posture...[n]I can see keen beauty...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PreBreak_Makoto#0",
+   "speaker": "Makoto",
+   "en": "Stabilize your form, then take aim...[n]There's a lot to learn here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PreBreak_Futaba#0",
+   "speaker": "Futaba",
+   "en": "That sound when the balls scatter is[n]so satisfying!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PreBreak_Haru#0",
+   "speaker": "Haru",
+   "en": "If you don't stay calm, it will lead to failure.[n]Okay, just relax...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PreBreak_Akechi#0",
+   "speaker": "Akechi",
+   "en": "Now, shall we see what you can do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PreBreak_Akechi_Blac#0",
+   "speaker": "Akechi",
+   "en": "Well, your form isn't bad, I suppose...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PreBreak_Yoshizawa#0",
+   "speaker": "Sumire",
+   "en": "If you focus too much on finger[n]positioning, you'll neglect your overall[n]form. It's important to maintain balance!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotGood_Ryuji#0",
+   "speaker": "Ryuji",
+   "en": "Whoa! Nice!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotGood_moru#0",
+   "speaker": "Morgana",
+   "en": "Wow! That was just like a pro!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotGood_Anne#0",
+   "speaker": "Ann",
+   "en": "Wow! You're a pro!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotGood_Yusuke#0",
+   "speaker": "Yusuke",
+   "en": "What an entrancing sight...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotGood_Makoto#0",
+   "speaker": "Makoto",
+   "en": "Wow... I couldn't look away from it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotGood_Futaba#0",
+   "speaker": "Futaba",
+   "en": "You did it...! What a showoff!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotGood_Haru#0",
+   "speaker": "Haru",
+   "en": "Wow... That was amazing...! It was like[n]magic!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotGood_Akechi#0",
+   "speaker": "Akechi",
+   "en": "Hey, not bad. That was almost perfect,[n]I'd say.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotGood_Akechi_Blac#0",
+   "speaker": "Akechi",
+   "en": "That was a pretty good shot.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotGood_Yoshizawa#0",
+   "speaker": "Sumire",
+   "en": "Th-That was too good! I'm stunned...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotBad_Ryuji#0",
+   "speaker": "Ryuji",
+   "en": "Well, uh, don't let it get to ya.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotBad_moru#0",
+   "speaker": "Morgana",
+   "en": "A-Are you okay...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotBad_Anne#0",
+   "speaker": "Ann",
+   "en": "A-Are you all right...? Don't let it get to you,[n]okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotBad_Yusuke#0",
+   "speaker": "Yusuke",
+   "en": "Do not fear. Your passion was what[n]mattered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotBad_Makoto#0",
+   "speaker": "Makoto",
+   "en": "I could tell what you were going for. You[n]just have to make it a success next time...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotBad_Futaba#0",
+   "speaker": "Futaba",
+   "en": "Don't dwell on it, or you've already lost...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotBad_Haru#0",
+   "speaker": "Haru",
+   "en": "Don't feel bad, okay...? You know what[n]they say: failure is the mother of success.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotBad_Akechi#0",
+   "speaker": "Akechi",
+   "en": "...That's unfortunate. Sometimes that[n]happens when you overthink it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotBad_Akechi_Black#0",
+   "speaker": "Akechi",
+   "en": "That wasn't on purpose... was it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotBad_Yoshizawa#0",
+   "speaker": "Sumire",
+   "en": "Don't worry about it. Everybody learns[n]from their failures...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotBad_Ryuji_JumpMi#0",
+   "speaker": "Ryuji",
+   "en": "That was a close one...! Nice reflexes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotBad_moru_JumpMis#0",
+   "speaker": "Morgana",
+   "en": "A-Are you okay...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotBad_Anne_JumpMis#0",
+   "speaker": "Ann",
+   "en": "That was close...! I thought it hit you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotBad_Yusuke_JumpM#0",
+   "speaker": "Yusuke",
+   "en": "Good thing it didn't hit you. I have to say[n]though, that was a splendid flight.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotBad_Makoto_JumpM#0",
+   "speaker": "Makoto",
+   "en": "How did you dodge that just now!? ...Oh,[n]now isn't really the time to be impressed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotBad_Futaba_JumpM#0",
+   "speaker": "Futaba",
+   "en": "Glad you're okay! That was a frame-perfect[n]evasion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotBad_Haru_JumpMis#0",
+   "speaker": "Haru",
+   "en": "Wh-What a relief. It's a good thing it[n]didn't hit you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotBad_Akechi_JumpM#0",
+   "speaker": "Akechi",
+   "en": "...It's important to focus, you know?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotBad_Akechi_Black_2#0",
+   "speaker": "Akechi",
+   "en": "You might want to try focusing more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotBad_Yoshizawa_Ju#0",
+   "speaker": "Sumire",
+   "en": "Th-That was an impressive dodge.[n]I'm glad it didn't hit you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PlayEnd_Ryuji#0",
+   "speaker": "Ryuji",
+   "en": "Oh man, that was fun! My arms are killin'[n]me now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PlayEnd_moru#0",
+   "speaker": "Morgana",
+   "en": "Even without winning, pocketing the balls[n]is fun on its own!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PlayEnd_Anne#0",
+   "speaker": "Ann",
+   "en": "Even if you don't win, it's fun just to sink[n]the balls into the pockets!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PlayEnd_Yusuke#0",
+   "speaker": "Yusuke",
+   "en": "The sound of the balls rolling and falling[n]into the pockets... What a truly satisfying[n]sound...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PlayEnd_Makoto#0",
+   "speaker": "Makoto",
+   "en": "It won't happen every time, but it feels[n]great when the balls move the way you[n]want them to!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PlayEnd_Futaba#0",
+   "speaker": "Futaba",
+   "en": "Nice work! My hands are all sweaty now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PlayEnd_Haru#0",
+   "speaker": "Haru",
+   "en": "I had so much fun just watching the balls[n]rolling smoothly across the table.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PlayEnd_Akechi#0",
+   "speaker": "Akechi",
+   "en": "Playing billiards with a large group isn't[n]so bad. It put on just the right amount of[n]pressure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PlayEnd_Akechi_Black#0",
+   "speaker": "Akechi",
+   "en": "I suppose that wasn't bad for a day of[n]entertainment... Only joking.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PlayEnd_Yoshizawa#0",
+   "speaker": "Sumire",
+   "en": "It's so interesting how your own[n]uncertainty can appear in the movement[n]of the balls!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Happy_Ryuji#0",
+   "speaker": "Ryuji",
+   "en": "That was a blast! Let's do it again[n]sometime.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Happy_Anne#0",
+   "speaker": "Ann",
+   "en": "That was so much fun. You gotta invite me[n]again sometime.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Happy_Yusuke#0",
+   "speaker": "Yusuke",
+   "en": "Look at how much time we spent...[n]And what fulfilling time it was.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Happy_Makoto#0",
+   "speaker": "Makoto",
+   "en": "That was fun. Please invite me for next[n]time too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Happy_Futaba#0",
+   "speaker": "Futaba",
+   "en": "What an emotional roller coaster... I like it![n]Lemme join next time too!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Happy_Haru#0",
+   "speaker": "Haru",
+   "en": "That was fun! Please invite me next[n]time too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Happy_Akechi#0",
+   "speaker": "Akechi",
+   "en": "That was a nice diversion. Thanks for[n]inviting me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Happy_Akechi_Black#0",
+   "speaker": "Akechi",
+   "en": "Billiards really is a good game. Wasn't that[n]thrilling?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Happy_Yoshizawa#0",
+   "speaker": "Sumire",
+   "en": "That was a lot of fun! Please invite me[n]again sometime!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BillBye_Ryuji#0",
+   "speaker": "Ryuji",
+   "en": "Welp, seeya.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BillBye_Moru#0",
+   "speaker": "Morgana",
+   "en": "Time to go home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BillBye_Anne#0",
+   "speaker": "Ann",
+   "en": "See you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BillBye_Yusuke#0",
+   "speaker": "Yusuke",
+   "en": "Until we meet again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BillBye_Makoto#0",
+   "speaker": "Makoto",
+   "en": "Well then, see you later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BillBye_Futaba#0",
+   "speaker": "Futaba",
+   "en": "Time to make like a tree!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BillBye_Haru#0",
+   "speaker": "Haru",
+   "en": "All right, see you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BillBye_Akechi#0",
+   "speaker": "Akechi",
+   "en": "See you later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BillBye_Akechi_Black#0",
+   "speaker": "Akechi",
+   "en": "Now, let's head back.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BillBye_Yoshizawa#0",
+   "speaker": "Sumire",
+   "en": "I'll see you later!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SpecialShot_Thinking#0",
+   "speaker": null,
+   "en": "The way the balls are positioned...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SpecialShot_Thinking#1",
+   "speaker": null,
+   "en": "I'll need to make a difficult[n]shot to clear this...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TechRankUp_Info#0",
+   "speaker": "Morgana",
+   "en": "You actually pulled off that shot...![n]That's why you're our leader!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TechRankUp_Info#1",
+   "speaker": "Morgana",
+   "en": "Looks like your challenge brought[n]everyone together.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TechRankUp_Miss#0",
+   "speaker": "Morgana",
+   "en": "You messed up that trick shot, but keep[n]trying and don't be discouraged.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TechRankUp_Miss#1",
+   "speaker": "Morgana",
+   "en": "Yeah... I bet it'd go better if you had[n]some more [stIcon 2][clr 26][stLabel 2][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_NeedParamRank_Back#0",
+   "speaker": null,
+   "en": "To perform a successful [clr 2]behind-the-[n]back shot[clr 27], you need enough[n][stIcon 2][clr 26][stLabel 2][clr 27] to be [clr 2][stLvLabel 2 2][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_NeedParamRank_Jump#0",
+   "speaker": null,
+   "en": "To perform a successful [clr 2]jump shot[clr 27],[n]you need enough [stIcon 2][clr 26][stLabel 2][clr 27][n]to be [clr 2][stLvLabel 2 3][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_NeedParamRank_Masse#0",
+   "speaker": null,
+   "en": "To perform a successful [clr 2]massé shot[clr 27],[n]you need enough [stIcon 2][clr 26][stLabel 2][clr 27][n]to be [clr 2][stLvLabel 2 5][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HumanParam_PreInfo#0",
+   "speaker": "Morgana",
+   "en": "Glad to see everyone had fun. I gotta say[n]though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HumanParam_Atama#0",
+   "speaker": "Morgana",
+   "en": "Thanks to playing billiards, it looks[n]like you've gotten better at analyzing[n]situations!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HumanParam_Miryoku#0",
+   "speaker": "Morgana",
+   "en": "Thanks to playing billiards, it looks like[n]you've learned to present yourself a bit[n]more attractively, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HumanParam_Kiyousa#0",
+   "speaker": "Morgana",
+   "en": "Thanks to playing billiards, you've gotten[n]more experience with precise hand[n]movements, haven't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HumanParam_Dokyo#0",
+   "speaker": "Morgana",
+   "en": "Thanks to playing billiards, I think you've[n]learned more about making bold decisions[n]when the time calls for it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TenchoInfo_1st_000#0",
+   "speaker": "Casually Dressed Man",
+   "en": "Hey there. Sorry to interrupt your fun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TenchoInfo_1st_001#0",
+   "speaker": "Casually Dressed Man",
+   "en": "Billiards has a lot of intricacies, doesn't it?[n]I'm glad you've taken a liking to the game.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TenchoInfo_1st_002#0",
+   "speaker": "Casually Dressed Man",
+   "en": "If you'd like to learn more about it,[n]there's a book I'd recommend reading.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TenchoInfo_1st_002#1",
+   "speaker": "Casually Dressed Man",
+   "en": "It's called [clr 3][var 0][clr 27].[n]It covers everything from the basics[n]to practical applications.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TenchoInfo_1st_003#0",
+   "speaker": "Casually Dressed Man",
+   "en": "The only problem is, it's quite a rare book.[n]You might have some difficulty finding it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TenchoInfo_1st_003#1",
+   "speaker": "Casually Dressed Man",
+   "en": "You may have a better chance of getting it[n]at a [clr 2]specialty shop[clr 27] that sells sports supplies,[n]as opposed to an ordinary bookstore.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TenchoInfo_1st_003#2",
+   "speaker": "Casually Dressed Man",
+   "en": "Oops, I didn't mean to hold you up right as[n]you were leaving. Please, do come again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TenchoInfo_1st_010#0",
+   "speaker": "Morgana",
+   "en": "A book on billiards, huh... Next time we're[n]free, we should check to see if we can find[n]it at a sporting goods store.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TenchoInfo_2nd_000#0",
+   "speaker": "Casually Dressed Man",
+   "en": "Hey there. Sorry to interrupt your fun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TenchoInfo_2nd_001#0",
+   "speaker": "Casually Dressed Man",
+   "en": "It looks like you're trying to learn[n]technical shots.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TenchoInfo_2nd_002#0",
+   "speaker": "Casually Dressed Man",
+   "en": "Let's see... I think you'd be able to pull off[n]a really advanced shot.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TenchoInfo_2nd_002#1",
+   "speaker": "Casually Dressed Man",
+   "en": "It's called a \"massé shot.\" It allows a ball[n]to make a sharp... Oops.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TenchoInfo_2nd_003#0",
+   "speaker": "Casually Dressed Man",
+   "en": "I suppose there isn't much point to me[n]explaining it now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TenchoInfo_2nd_003#1",
+   "speaker": "Casually Dressed Man",
+   "en": "Let me give you this book. I think it will be[n]quite useful to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TenchoInfo_2nd_010#0",
+   "speaker": "Morgana",
+   "en": "Massé shots, huh... If you're confident[n]in your [stIcon 2][clr 26][stLabel 2][clr 27], maybe you[n]should give it a try next time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotType_Back_000#0",
+   "speaker": "Morgana",
+   "en": "Whoa! Are you going for that shot...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotType_Jump_000#0",
+   "speaker": "Morgana",
+   "en": "That cue... Are you going for that shot...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ShotType_Masse_000#0",
+   "speaker": "Morgana",
+   "en": "That pose... Are you going for that shot...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BackEnd_MyQueIsHave#0",
+   "speaker": "Morgana",
+   "en": "Didn't you buy your own cue stick before?[n]Looks like you didn't get to use it today...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BackEnd_MyQueIsHave#1",
+   "speaker": "Morgana",
+   "en": "Well, you can't walk the path of billiards in[n]one day. Let's come play again sometime.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BackEnd_MyQueIsNotHa#0",
+   "speaker": "Morgana",
+   "en": "Oh yeah... That billiards book had some[n]information on other trick shots too,[n]didn't it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BackEnd_MyQueIsNotHa#1",
+   "speaker": "Morgana",
+   "en": "I think one of them required a special cue[n]stick, right? We should look for one when[n]we have a chance.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

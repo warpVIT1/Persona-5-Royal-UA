@@ -1,0 +1,460 @@
+{
+ "file": "EN/INIT/CMPTABLE.BIN/camp_msg.bmd",
+ "entries": [
+  {
+   "id": "system_yes_no#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_yes_no#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_card_drop#0",
+   "speaker": null,
+   "en": "Do you wish to release[n][clr 1][var 0][clr 0]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_card_drop_ng#0",
+   "speaker": null,
+   "en": "You cannot release an[n]equipped Persona.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_card_dokubou#0",
+   "speaker": null,
+   "en": "You cannot release a[n]Persona in Lockdown.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_card_set#0",
+   "speaker": null,
+   "en": "Equip this Persona's mask?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_equip_change#0",
+   "speaker": null,
+   "en": "You are already wearing[n][clr 1][var 0][clr 0]'s mask.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_equip_houma_#0",
+   "speaker": null,
+   "en": "You cannot equip the mask[n]of a Treasure Demon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_equip_dokubo#0",
+   "speaker": null,
+   "en": "You cannot equip [clr 1][var 0][clr 0]'s[n]mask while it is in Lockdown.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_config_retur#0",
+   "speaker": null,
+   "en": "Return to the title screen?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_config_retur_2#0",
+   "speaker": null,
+   "en": "Return to the game?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_quest_offer#0",
+   "speaker": null,
+   "en": "You have accepted the request[n][clr 1][var 0][clr 0].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_quest_end#0",
+   "speaker": null,
+   "en": "You have completed the request[n][clr 1][var 0][clr 0].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_quest_first#0",
+   "speaker": null,
+   "en": "You can verify requests[n]from the Request menu.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_skillcard_al#0",
+   "speaker": null,
+   "en": "It already knows the[n]skill [clr 1][var 0][clr 0].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_skillcard_ch#0",
+   "speaker": null,
+   "en": "Teach this Persona the skill[n][clr 1][var 0][clr 0]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_skillcard_en#0",
+   "speaker": null,
+   "en": "[clr 1][var 1][clr 0] learned[n]the skill [clr 1][var 0][clr 0]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_skillcard_rm#0",
+   "speaker": null,
+   "en": "All skill slots are currently full.[n]Please select a skill to forget.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_skillcard_rm_2#0",
+   "speaker": null,
+   "en": "Forget [clr 1][var 0][clr 0]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_skillcard_ch_2#0",
+   "speaker": null,
+   "en": "[clr 1][var 0][clr 0] learned[n]the skill [clr 1][var 1][clr 0].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_skillcard_ba#0",
+   "speaker": null,
+   "en": "Currently unavailable.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_item_notuse_#0",
+   "speaker": null,
+   "en": "This cannot be used here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_item_notuse__2#0",
+   "speaker": null,
+   "en": "You cannot use this now. ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_item_notuse__3#0",
+   "speaker": null,
+   "en": "This is already in use. ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_item_notuse__4#0",
+   "speaker": null,
+   "en": "Using this will have no effect.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_book_read#0",
+   "speaker": null,
+   "en": "Read [f 2 5 3 9999 0]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_config_cancel#0",
+   "speaker": null,
+   "en": "Exit the Config menu without[n]saving your changes?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_config_difficult#0",
+   "speaker": null,
+   "en": "The difficulty has been[n]set to [clr 2][var 0][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_config_warning_sa#0",
+   "speaker": null,
+   "en": "[clr 2]SAFE[clr 27] difficulty allows you to enjoy the[n]story without pressure. When defeated in[n]battle, you have unlimited retries.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_config_warning_sa#1",
+   "speaker": null,
+   "en": "Because of the radical difference[n]in difficulty of SAFE mode, you will[n]not be able to revert this setting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_config_warning_sa#2",
+   "speaker": null,
+   "en": "Are you sure you wish to[n]change the difficulty?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_quest_pictur#0",
+   "speaker": null,
+   "en": "An icon will appear above those[n]who have requests for you. This[n]icon will change color once you[n]have accepted the request.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_party_member#0",
+   "speaker": null,
+   "en": "The number of participants in[n]battle is over by [clr 3][var 0][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_ps_skill_get_over#0",
+   "speaker": null,
+   "en": "All skill slots are currently full.[n]Please select a skill to forget.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_ps_skill_get_over_se#0",
+   "speaker": null,
+   "en": "[clr 1][var 0][clr 0] cannot be relearned[n]once forgotten. Is this OK?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_ps_skill_chgend_end#0",
+   "speaker": null,
+   "en": "This will end skill organization.[n]Is this OK?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_player_lvup_#0",
+   "speaker": null,
+   "en": "I feel even stronger![n]My max HP and SP went up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_player_lvup__2#0",
+   "speaker": null,
+   "en": "I can now create Personas[n]up to level [var 0]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_player_lvup__3#0",
+   "speaker": null,
+   "en": "[clr 1][var 0][clr 0] has learned[n]a new skill!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_skill_rememb#0",
+   "speaker": null,
+   "en": "Finish skill recollection?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_difficult_sa#0",
+   "speaker": null,
+   "en": "For those who wish to enjoy the story. If you[n]fall in battle, you can retry as many times as[n]you like. Note that you [clr 2]cannot change the[n]difficulty[clr 27] once selecting this option.[n] [n]This choice will not affect the story.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_difficult_ea#0",
+   "speaker": null,
+   "en": "For those looking for a casual experience.[n]Battles are optimized for beginning players,[n]and you can change the difficulty at any time.[n] [n]This choice will not affect the story.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_difficult_no#0",
+   "speaker": null,
+   "en": "For those who want balance between exciting[n]gameplay and a riveting story. You can[n]change the difficulty at any time.[n] [n]This choice will not affect the story.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_difficult_ha#0",
+   "speaker": null,
+   "en": "For those seeking expert-level challenge[n]with little margin of error in battle. You[n]can change the difficulty at any time.[n] [n]This choice will not affect the story.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_difficult_ch#0",
+   "speaker": null,
+   "en": "The most difficult setting, tailored just for[n]those seeking a ruthlessly brutal challenge.[n]You can change the difficulty at any time.[n] [n]This choice will not affect the story.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_difficult_co#0",
+   "speaker": null,
+   "en": "Do you wish to begin the game[n]with [clr 2][var 0][clr 27] difficulty?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_network_cofi#0",
+   "speaker": null,
+   "en": "You will gain access to various[n]in-game features by connecting to[n]the network. Do you wish to connect?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_network_yes#0",
+   "speaker": null,
+   "en": "Network features have been turned[n]ON. You can toggle this option at[n]any time in the Config menu.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_network_no#0",
+   "speaker": null,
+   "en": "Network features have been turned[n]OFF. You can toggle this option at[n]any time in the Config menu.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_network_sync#0",
+   "speaker": null,
+   "en": "Connecting to the network...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_sklcard_rank#0",
+   "speaker": null,
+   "en": "It looks like I need to deepen my[n]bond further before I can ask him[n]to duplicate this card...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_characard_al#0",
+   "speaker": null,
+   "en": "It already knows the[n]skill [clr 1][var 0][clr 0].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_characard_ba#0",
+   "speaker": null,
+   "en": "Currently unavailable.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_persona_chan#0",
+   "speaker": null,
+   "en": "The Persona's Trait has changed!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_camp_ps_param_up_01#0",
+   "speaker": null,
+   "en": "[clr 1][var 0][clr 0]'s [var 1][n]increased by [clr 2][var 2][clr 0].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_camp_ps_param_up_02#0",
+   "speaker": null,
+   "en": "[clr 1][var 0][clr 0]'s [var 1] increased[n]by [clr 2][var 2][clr 0] and [var 3] by [clr 2][var 4][clr 0].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_camp_ps_param_up_03#0",
+   "speaker": null,
+   "en": "[clr 1][var 0][clr 0]'s [var 1] increased by [clr 2][var 2][clr 0],[n][var 3] by [clr 2][var 4][clr 0], and [var 5] by [clr 2][var 6][clr 0].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_camp_ps_param_up_04#0",
+   "speaker": null,
+   "en": "[clr 1][var 0][clr 0]'s [var 1] increased by [clr 2][var 2][clr 0],[n][var 3] by [clr 2][var 4][clr 0], [var 5] by [clr 2][var 6][clr 0],[n]and [var 7] by [clr 2][var 8][clr 0].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_camp_ps_param_up_05#0",
+   "speaker": null,
+   "en": "[clr 1][var 0][clr 0]'s [var 1] increased by [clr 2][var 2][clr 0],[n][var 3] by [clr 2][var 4][clr 0], [var 5] by [clr 2][var 6][clr 0],[n][var 7] by [clr 2][var 8][clr 0], and [var 9] by [clr 2][var 10][clr 0].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_root_mypalac#0",
+   "speaker": null,
+   "en": "Would you like to go to the Thieves Den?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_camp_network_connect#0",
+   "speaker": null,
+   "en": "Connecting to the network...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_camp_network_connect_2#0",
+   "speaker": null,
+   "en": "Network access has been canceled.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_root_not_ava#0",
+   "speaker": null,
+   "en": "You can't go from within a Palace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_camp_root_not_ava_2#0",
+   "speaker": null,
+   "en": "Now's not the time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_device_missing_xb#0",
+   "speaker": null,
+   "en": "The controller has been disconnected.[n]Please reconnect the controller.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

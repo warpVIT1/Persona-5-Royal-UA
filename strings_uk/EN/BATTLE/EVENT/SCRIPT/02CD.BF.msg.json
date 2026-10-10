@@ -1,0 +1,341 @@
+{
+ "file": "EN/BATTLE/EVENT/SCRIPT/02CD.BF",
+ "entries": [
+  {
+   "id": "MSG_BTL_START_000#0",
+   "speaker": "Shadow Saeki",
+   "en": "I won't let you get in the way!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_START_001#0",
+   "speaker": "Ann",
+   "en": "Joker, let's try talking to her. Maybe we[n]can calm her down!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SYS_MSG#0",
+   "speaker": null,
+   "en": "By [clr 2]weakening[clr 27] the enemy, you will be able to[n]speak to them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SYS_MSG#1",
+   "speaker": null,
+   "en": "By choosing the correct answers, you will be able[n]to change the target's heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_DIA_BF__000_000#0",
+   "speaker": "Shadow Saeki",
+   "en": "I'm gonna make everyone pay!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ATTACK_NG__000_0#0",
+   "speaker": "Ann",
+   "en": "What!? She just healed herself!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ATTACK_NG__000_0_2#0",
+   "speaker": "Ann",
+   "en": "Hey Joker, let's see if we can calm her[n]down! It might be easier to change her[n]heart that way!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP_FIRST#0",
+   "speaker": "Ann",
+   "en": "Okay! Looks like we can talk to her now![n]Let's try and get through to her!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MORE_BOKO#0",
+   "speaker": "Ann",
+   "en": "We aren't getting anywhere like this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MORE_BOKO#1",
+   "speaker": "Ann",
+   "en": "Looks like we'll have to weaken her a[n]little more!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_000_000#0",
+   "speaker": "Shadow Saeki",
+   "en": "What the hell did I ever do to Shiho!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP01_000#0",
+   "speaker": null,
+   "en": "You spat on her.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP01_000#1",
+   "speaker": null,
+   "en": "You tore apart her things.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP01_000#2",
+   "speaker": null,
+   "en": "You made fun of her.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_001_000#0",
+   "speaker": "Shadow Saeki",
+   "en": "It's her fault Mr. Kamoshida can't teach us[n]anymore! She's getting what she deserves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_002_000#0",
+   "speaker": "Shadow Saeki",
+   "en": "See!? You don't know anything!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_002_001#0",
+   "speaker": "Ann",
+   "en": "Looks like we couldn't convince her! We[n]might need to think of something else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP02_000#0",
+   "speaker": null,
+   "en": "Stop complaining.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP02_000#1",
+   "speaker": null,
+   "en": "The volleyball team is done.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP02_000#2",
+   "speaker": null,
+   "en": "You were close with him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_001_000#0",
+   "speaker": "Shadow Saeki",
+   "en": "What the hell are you talking about!?[n]You know nothing about me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_001_001#0",
+   "speaker": "Ann",
+   "en": "But... I do know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_001_002#0",
+   "speaker": "Ann",
+   "en": "Shiho told me that you're the one she[n]trusts the most on the volleyball team.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_002_000#0",
+   "speaker": "Shadow Saeki",
+   "en": "You know nothing about me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_002_001#0",
+   "speaker": "Ann",
+   "en": "Looks like we couldn't convince her! We[n]might need to think of something else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_000_000#0",
+   "speaker": "Shadow Saeki",
+   "en": "I trusted Shiho too...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_000_001#0",
+   "speaker": "Shadow Saeki",
+   "en": "And when she attempted suicide, I was[n]so upset that I couldn't do anything to[n]help.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_000_002#0",
+   "speaker": "Shadow Saeki",
+   "en": "Sure, Mr. Kamoshida did terrible things[n]to her... But that didn't matter to me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP03_000#0",
+   "speaker": null,
+   "en": "Because you hated him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP03_000#1",
+   "speaker": null,
+   "en": "You admired him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP03_000#2",
+   "speaker": null,
+   "en": "You loved him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_001_000#0",
+   "speaker": "Shadow Saeki",
+   "en": "I came to Shujin just because I wanted to be[n]on the volleyball team. Learning under[n]Mr. Kamoshida was a dream come true.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_001_001#0",
+   "speaker": "Shadow Saeki",
+   "en": "I became friends with Shiho, and I got[n]to compete alongside teammates I could[n]trust...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_001_002#0",
+   "speaker": "Shadow Saeki",
+   "en": "I was starting to believe we could even[n]win the nationals...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_001_003#0",
+   "speaker": "Shadow Saeki",
+   "en": "All of this... It's all Shiho's fault!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_002_000#0",
+   "speaker": "Shadow Saeki",
+   "en": "That's not true! You don't know anything!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_002_001#0",
+   "speaker": "Ann",
+   "en": "Looks like we couldn't convince her! We[n]might need to think of something else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_END_000#0",
+   "speaker": "Ann",
+   "en": "You were jealous of Shiho, weren't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_END_001#0",
+   "speaker": "Shadow Saeki",
+   "en": "Me...? Jealous of Shiho?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_END_002#0",
+   "speaker": "Ann",
+   "en": "You were envious of Shiho because[n]the teacher you admired only ever[n]acknowledged her.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_END_003#0",
+   "speaker": "Shadow Saeki",
+   "en": "Ugh... It is true that Mr. Kamoshida only[n]paid attention to Shiho. He never even[n]tried to coach me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_END_004#0",
+   "speaker": "Ann",
+   "en": "You were suffering... and so was[n]the person you were jealous of.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_END_005#0",
+   "speaker": "Ann",
+   "en": "You weren't the only person who felt[n]betrayed by someone you admired.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_END_006#0",
+   "speaker": "Ann",
+   "en": "But even despite everything, Shiho is still[n]trying to keep moving forward.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_END_007#0",
+   "speaker": "Shadow Saeki",
+   "en": "Ngh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_END_008#0",
+   "speaker": "Shadow Saeki",
+   "en": "She was the one who had it rough... and I...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_OFF#0",
+   "speaker": "Shadow Saeki",
+   "en": "Why do I have to talk about anything!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_OFF_2#0",
+   "speaker": "Shadow Saeki",
+   "en": "I have nothing to say to you!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

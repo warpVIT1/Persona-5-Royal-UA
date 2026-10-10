@@ -1,0 +1,369 @@
+{
+ "file": "EN/FIELD/NPC/FNPC153_006_00.BF",
+ "entries": [
+  {
+   "id": "TEST_MES#0",
+   "speaker": null,
+   "en": "Test",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e205_111_mes01#0",
+   "speaker": "Security Guard",
+   "en": "Hey, who're you guys? I don't[n]recognize you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e205_111_mes01#1",
+   "speaker": "Security Guard",
+   "en": "You must be new. Be careful, I think[n]we've got intruders.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e205_111_mes01#2",
+   "speaker": "Security Guard",
+   "en": "Not like they'll make it past the[n]courtyard. Anyway, did you need[n]something?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e205_111_selA#0",
+   "speaker": null,
+   "en": "How do you control the terminal?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e205_111_selA#1",
+   "speaker": null,
+   "en": "What's the terminal's password?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e205_111_selA_0_#0",
+   "speaker": "Security Guard",
+   "en": "Huh? You just gotta put in the \"hint\"[n]for the password.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e205_111_selA_0_#1",
+   "speaker": "Security Guard",
+   "en": "Get it? \"Hint\"? It's 4468! Hahaha!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e205_111_selA_0_#2",
+   "speaker": "Security Guard",
+   "en": "Hold up—why don't you guys know that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e205_111_selA_0_#3",
+   "speaker": "Security Guard",
+   "en": "Wait... are you the intruders!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e205_111_selA_1_#0",
+   "speaker": "Security Guard",
+   "en": "Huh? Don't you know the \"hint\"?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e205_111_selA_1_#1",
+   "speaker": "Security Guard",
+   "en": "Get it? \"Hint\"? It's 4468! Hahaha!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e205_111_selA_1_#2",
+   "speaker": "Security Guard",
+   "en": "Hold up—why don't you guys know that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e205_111_selA_1_#3",
+   "speaker": "Security Guard",
+   "en": "Wait... are you the intruders!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e205_111_selA_2_#0",
+   "speaker": "Morgana",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e205_111_mes02#0",
+   "speaker": "Ryuji",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e205_111_selB#0",
+   "speaker": null,
+   "en": "Definitely not.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e205_111_selB#1",
+   "speaker": null,
+   "en": "That's right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e205_111_selB#2",
+   "speaker": null,
+   "en": "What do you think?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e205_111_selB_0_#0",
+   "speaker": "Security Guard",
+   "en": "That's just what an intruder would say!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e205_111_selB_1_#0",
+   "speaker": "Security Guard",
+   "en": "That's just what an intruder would say!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e205_111_selB_2_#0",
+   "speaker": "Security Guard",
+   "en": "I'll show you what I think!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e210_144_mes01#0",
+   "speaker": "Security Guard",
+   "en": "You don't look familiar. You new hires[n]or something?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e210_144_selA#0",
+   "speaker": null,
+   "en": "Sure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e210_144_selA#1",
+   "speaker": null,
+   "en": "Basically.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e210_144_selA_0_#0",
+   "speaker": "Security Guard",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e210_144_selA_1_#0",
+   "speaker": "Security Guard",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e210_144_selA_2_#0",
+   "speaker": "Morgana",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e210_144_mes02#0",
+   "speaker": "Security Guard",
+   "en": "Ah, okay. So, what's up?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e210_144_selB#0",
+   "speaker": null,
+   "en": "I want to know the password.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e210_144_selB#1",
+   "speaker": null,
+   "en": "I want to disable the security.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e210_144_selB_0_#0",
+   "speaker": "Security Guard",
+   "en": "Forget already, didja?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e210_144_selB_1_#0",
+   "speaker": "Security Guard",
+   "en": "Forget, didja?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e210_144_mes03#0",
+   "speaker": "Security Guard",
+   "en": "Happens to me all the time. That[n]password is a real pain to remember.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e210_144_mes03#1",
+   "speaker": "Security Guard",
+   "en": "That's why I left myself a note at[n]Lord Madarame's feet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e210_144_mes03#2",
+   "speaker": "Security Guard",
+   "en": "So now, whenever I forget, I just look[n]at Lord Madarame's feet to help me[n]remember.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e210_144_mes03#3",
+   "speaker": "Security Guard",
+   "en": "It's a little weird you guys don't know[n]the password though. And the way[n]you're dressed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e210_144_mes03#4",
+   "speaker": "Security Guard",
+   "en": "Wait... Are you the intruders?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e210_144_selC#0",
+   "speaker": null,
+   "en": "That's right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e210_144_selC#1",
+   "speaker": null,
+   "en": "We're the Phantom Thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e210_144_selC#2",
+   "speaker": null,
+   "en": "Of course not.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e210_144_selC_0_#0",
+   "speaker": "Security Guard",
+   "en": "I knew it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e210_144_selC_1_#0",
+   "speaker": "Security Guard",
+   "en": "Don't lie to me! You're just ordinary[n]thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e210_144_selC_2_#0",
+   "speaker": "Security Guard",
+   "en": "I don't think so!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e210_144_mes04#0",
+   "speaker": "Ryuji",
+   "en": "Well, I guess we got what we came[n]here for.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e210_144_mes05#0",
+   "speaker": "Yusuke",
+   "en": "He said he wrote the password down[n]at Madarame's feet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e210_144_mes6#0",
+   "speaker": "Ann",
+   "en": "Like, he wrote it on Madarame's actual[n]feet? That can't be it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e210_144_mes7#0",
+   "speaker": "Yusuke",
+   "en": "Do you suppose it's a metaphor?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e210_144_mes8#0",
+   "speaker": "Morgana",
+   "en": "Well, whatever he's talking about,[n]it can't be far—not if he needs to[n]check quickly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e210_144_mes8#1",
+   "speaker": "Morgana",
+   "en": "Let's look for anything feet-sy!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

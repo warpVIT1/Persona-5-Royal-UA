@@ -1,0 +1,327 @@
+{
+ "file": "EN/BATTLE/EVENT/SCRIPT/02CF.BF",
+ "entries": [
+  {
+   "id": "MSG_BTL_START_000#0",
+   "speaker": "Shadow Amai",
+   "en": "I'm going to be a billionaire! And if[n]you're trying to get in my way, then[n]I'll send you to hell!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_START_001#0",
+   "speaker": "Makoto",
+   "en": "Joker, please try talking to her! I'm sure[n]we can calm her down if we talk things over!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SYS_MSG#0",
+   "speaker": null,
+   "en": "By holding up the enemy, you will be able[n]to have a conversation with the target.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SYS_MSG#1",
+   "speaker": null,
+   "en": "By choosing the correct answers, you[n]will be able to change the target's heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_DIA_BF__000_000#0",
+   "speaker": "Shadow Amai",
+   "en": "Billionaire power!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ATTACK_NG__000_0#0",
+   "speaker": "Makoto",
+   "en": "Be careful, she healed!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ATTACK_NG__000_0_2#0",
+   "speaker": "Makoto",
+   "en": "Joker, please try talking to her! I'm sure[n]she'll calm down after talking about this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_000_000#0",
+   "speaker": "Makoto",
+   "en": "People who bought coins from you are[n]stating that they're victims of your scam.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_000_001#0",
+   "speaker": "Shadow Amai",
+   "en": "Scam? I have no idea what you're talking[n]about!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_000_002#0",
+   "speaker": "Shadow Amai",
+   "en": "All I told them is that they'll have money[n]in the future! They're just desperate because[n]they're broke!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP01_000#0",
+   "speaker": null,
+   "en": "How far into the future?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP01_000#1",
+   "speaker": null,
+   "en": "They're just digital points.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP01_000#2",
+   "speaker": null,
+   "en": "How much will it be worth?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_001_000#0",
+   "speaker": "Makoto",
+   "en": "You call it \"Virtual Currency,\" but it[n]sounds like it doesn't actually have[n]any monetary value.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_001_001#0",
+   "speaker": "Shadow Amai",
+   "en": "Wh-What!? Like you brats would even[n]know how it works!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_001_002#0",
+   "speaker": "Shadow Amai",
+   "en": "It's super popular on my social networking[n]account! All the billionaires are even[n]recommending it to others!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_002_000#0",
+   "speaker": "Shadow Amai",
+   "en": "Why bother asking!? It's not like you[n]could afford it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_002_001#0",
+   "speaker": "Makoto",
+   "en": "It doesn't sound like that convinced her.[n]Try saying something else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP02_000#0",
+   "speaker": null,
+   "en": "Those accounts are yours.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP02_000#1",
+   "speaker": null,
+   "en": "They're all working with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP02_000#2",
+   "speaker": null,
+   "en": "Just deliver the coins.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_001_000#0",
+   "speaker": "Makoto",
+   "en": "It's a trap to make it seem more legitimate,[n]isn't it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_001_001#0",
+   "speaker": "Shadow Amai",
+   "en": "Y-You don't have any proof! Stop accusing[n]me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_002_000#0",
+   "speaker": "Shadow Amai",
+   "en": "Ugh, you're so stupid!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_002_001#0",
+   "speaker": "Makoto",
+   "en": "It doesn't sound like that convinced her.[n]Try saying something else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_000_000#0",
+   "speaker": "Shadow Amai",
+   "en": "You can do whatever you want with the[n]coins! Why don't they just sell them if[n]they're so upset! Geez!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP03_000#0",
+   "speaker": null,
+   "en": "There's no way to sell them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP03_000#1",
+   "speaker": null,
+   "en": "The coins are virtual.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP03_000#2",
+   "speaker": null,
+   "en": "You should buy it off of them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_001_000#0",
+   "speaker": "Makoto",
+   "en": "How are they supposed to sell them if[n]the only site where they can is always[n]under construction?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_001_001#0",
+   "speaker": "Shadow Amai",
+   "en": "Well, that's—",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_001_002#0",
+   "speaker": "Shadow Amai",
+   "en": "I-If they don't need it, then why don't they[n]just use it up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_002_000#0",
+   "speaker": "Shadow Amai",
+   "en": "Now you're just complaining! Get a brain,[n]moron!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_002_001#0",
+   "speaker": "Makoto",
+   "en": "It doesn't sound like that convinced her.[n]Try saying something else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP04_000#0",
+   "speaker": null,
+   "en": "It's not worth anything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP04_000#1",
+   "speaker": null,
+   "en": "Everything's over priced.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP04_000#2",
+   "speaker": null,
+   "en": "You can't use it for anything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP04_001_000#0",
+   "speaker": "Makoto",
+   "en": "And where do we buy items with the[n]points you created?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP04_001_001#0",
+   "speaker": "Shadow Amai",
+   "en": "I-It's under construction...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP04_001_002#0",
+   "speaker": "Makoto",
+   "en": "That is enough!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP04_001_003#0",
+   "speaker": "Makoto",
+   "en": "You might think you're being clever and[n]getting away with it, but what you're doing[n]is inhuman!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP04_001_004#0",
+   "speaker": "Shadow Amai",
+   "en": "Inhuman...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP04_002_000#0",
+   "speaker": "Shadow Amai",
+   "en": "I never said anything like that!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP04_002_001#0",
+   "speaker": "Makoto",
+   "en": "It doesn't sound like that convinced her.[n]Try saying something else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_END#0",
+   "speaker": "Shadow Amai",
+   "en": "...I'm sorry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_OFF#0",
+   "speaker": "Shadow Amai",
+   "en": "You can't talk to her!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

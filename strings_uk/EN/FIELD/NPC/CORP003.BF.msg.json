@@ -1,0 +1,2938 @@
+{
+ "file": "EN/FIELD/NPC/CORP003.BF",
+ "entries": [
+  {
+   "id": "MSG_C03_BEGIN_D05_10_00#0",
+   "speaker": "Haru",
+   "en": "Is there something you need?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D05_30_00#0",
+   "speaker": "Haru",
+   "en": "We must first secure a route to[n]the Treasure, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D05_30_00#1",
+   "speaker": "Haru",
+   "en": "Are we infiltrating today? If so,[n]we should gather at the hideout.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D05_40_00#0",
+   "speaker": "Haru",
+   "en": "I don't want to marry that man...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D05_40_00#1",
+   "speaker": "Haru",
+   "en": "We need to secure a route to the[n]Treasure soon. Are we gathering[n]at the hideout today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D05_50_00#0",
+   "speaker": "Haru",
+   "en": "So if we send this calling card out,[n]the Treasure should appear at the[n]location we found before?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D05_50_00#1",
+   "speaker": "Haru",
+   "en": "Well, when are we sending it? We[n]will need to gather before we do.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D05_00_00#0",
+   "speaker": null,
+   "en": "Let's meet up with the others.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D05_00_00#1",
+   "speaker": null,
+   "en": "Hold on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D05_00_00#0",
+   "speaker": "Haru",
+   "en": "I understand. I'll need to change[n]first, so you can go on ahead.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D05_31_00#0",
+   "speaker": "Haru",
+   "en": "Is there a problem?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D05_32_00#0",
+   "speaker": null,
+   "en": "Be patient.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D05_32_00#1",
+   "speaker": null,
+   "en": "I want to learn more about you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D05_33_00#0",
+   "speaker": "Haru",
+   "en": "Yes, you're right. My apologies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D05_33_00#1",
+   "speaker": "Haru",
+   "en": "Just let me know when you're ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D05_35_00#0",
+   "speaker": "Haru",
+   "en": "What!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D05_35_00#1",
+   "speaker": "Haru",
+   "en": "U-Um well... I'm interested in[n]cultivating various plants...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D05_35_00#2",
+   "speaker": "Haru",
+   "en": "But I think changing my father's[n]heart is more important right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D05_35_00#3",
+   "speaker": "Haru",
+   "en": "I absolutely cannot marry that man...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D05_80_00#0",
+   "speaker": "Morgana",
+   "en": "So, Haru's interested in gardening.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D05_80_00#1",
+   "speaker": "Morgana",
+   "en": "You know, you might be able to[n]help her if you were a little more[n]proficient...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D05_80_00#2",
+   "speaker": "Morgana",
+   "en": "But I guess our operation takes[n]priority right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D05_41_00#0",
+   "speaker": "Haru",
+   "en": "Um, it's almost the 10th... Are we[n]going to be all right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D05_41_00#1",
+   "speaker": "Haru",
+   "en": "I'll be waiting for your call, so[n]let me know when you're ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D05_51_00#0",
+   "speaker": "Haru",
+   "en": "All we have to do is steal the[n]Treasure, yes? Why don't we send[n]the calling card now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D05_51_00#1",
+   "speaker": "Haru",
+   "en": "I am ready to go at any time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D05_60_00#0",
+   "speaker": "Haru",
+   "en": "My father has locked himself away[n]inside the study. Our only option is[n]to wait until he decides to speak.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D05_60_00#1",
+   "speaker": "Haru",
+   "en": "He will change... right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D05_60_00#2",
+   "speaker": "Haru",
+   "en": "That aside, do you have any[n]business up here, [fName]-kun?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D05_60_01#0",
+   "speaker": null,
+   "en": "I came to see you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D05_60_01#1",
+   "speaker": null,
+   "en": "I'm here for the vegetables.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D05_60_01#2",
+   "speaker": null,
+   "en": "Nothing in particular.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D99_00_00#0",
+   "speaker": "Haru",
+   "en": "Oh, [fName]-kun! Hello.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D99_00_00#1",
+   "speaker": "Haru",
+   "en": "What are your thoughts on this[n]flowerbed?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D99_00_00#2",
+   "speaker": "Haru",
+   "en": "I brought it here in the hopes[n]of doing some serious gardening.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D99_01_00#0",
+   "speaker": "Morgana",
+   "en": "Wow... She's so diligent...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D99_02_00#0",
+   "speaker": "Haru",
+   "en": "Let me know if you'd like me to[n]grow any vegetables.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D99_02_00#1",
+   "speaker": "Haru",
+   "en": "So, what should we do today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D00_10_00#0",
+   "speaker": "Haru",
+   "en": "[fName]-kun, do you have[n]any business up here today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D00_10_01#0",
+   "speaker": null,
+   "en": "I came to see you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D00_10_01#1",
+   "speaker": null,
+   "en": "I'm here for the vegetables.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D00_10_01#2",
+   "speaker": null,
+   "en": "Nothing in particular.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D00_20_00#0",
+   "speaker": "Haru",
+   "en": "Exams are approaching, so I was[n]thinking I would finish a little early[n]here and go study.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D00_20_00#1",
+   "speaker": "Haru",
+   "en": "If it's all right with you, would you[n]like to study together?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D00_20_00#2",
+   "speaker": "Haru",
+   "en": "I may be able to teach you a thing or[n]two. I'm a year above you, after all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D00_20_01#0",
+   "speaker": null,
+   "en": "That sounds great.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D00_20_01#1",
+   "speaker": null,
+   "en": "I'd rather garden.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D00_20_01#2",
+   "speaker": null,
+   "en": "Not right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D00_20_02#0",
+   "speaker": "Haru",
+   "en": "Okay, leave it to me! I'll go change,[n]so wait for me at the library.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D00_21_02#0",
+   "speaker": "Haru",
+   "en": "Hm? There's no need to be so[n]reserved, you know. Well, let me[n]know if you ever feel up to it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D00_30_00#0",
+   "speaker": "Haru",
+   "en": "[fName]-kun, have you[n]decided on any plans for today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D00_31_00#0",
+   "speaker": null,
+   "en": "Let's hang out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D00_31_00#1",
+   "speaker": null,
+   "en": "I'm here for the vegetables.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D00_31_00#2",
+   "speaker": null,
+   "en": "Let's meet up with the others.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D00_31_00#3",
+   "speaker": null,
+   "en": "Not yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D00_31_10#0",
+   "speaker": "Haru",
+   "en": "Huh? At a time like this...?[n]Is this perhaps part of your[n]grand infiltration strategy?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D00_31_10#0",
+   "speaker": null,
+   "en": "It's a secret.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D00_31_10#1",
+   "speaker": null,
+   "en": "I dunno.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D00_31_11#0",
+   "speaker": "Haru",
+   "en": "*giggle* You make it sound[n]like it's really important.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D00_31_11#1",
+   "speaker": "Haru",
+   "en": "I suppose relaxation is pretty[n]vital at times like these...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D00_31_12#0",
+   "speaker": "Haru",
+   "en": "Well, perhaps you should[n]think about it a little more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D00_31_12#1",
+   "speaker": "Haru",
+   "en": "That aside, contact me when[n]you've decided on your schedule.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D00_40_00#0",
+   "speaker": "Haru",
+   "en": "The deadline is close. We need to[n]secure an infiltration route...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D00_40_00#1",
+   "speaker": "Haru",
+   "en": "Shall we assemble now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D00_50_00#0",
+   "speaker": "Haru",
+   "en": "We now know the location of the[n]Treasure. All that is left is delivering[n]the calling card.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D00_50_00#1",
+   "speaker": "Haru",
+   "en": "We'll need to assemble before we can[n]do that though, yes?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D00_99_00#0",
+   "speaker": null,
+   "en": "Let's meet up with the others.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D00_99_00#1",
+   "speaker": null,
+   "en": "I want to see the vegetables.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D00_99_00#2",
+   "speaker": null,
+   "en": "Hold on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D00_99_00#0",
+   "speaker": "Haru",
+   "en": "I understand. I'll need to change first,[n]so you can go on ahead.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D00_31_00#0",
+   "speaker": "Haru",
+   "en": "*sigh* We need to secure our[n]infiltration route though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D00_31_00#1",
+   "speaker": "Haru",
+   "en": "I'll be waiting, so please contact me[n]when you're ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D00_41_00#0",
+   "speaker": "Haru",
+   "en": "That won't help us find the Treasure.[n]We need to secure an infiltration route.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D00_41_00#1",
+   "speaker": "Haru",
+   "en": "Please contact me when you're ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D00_51_00#0",
+   "speaker": "Haru",
+   "en": "Oh, okay. Does this have to do with[n]your plan somehow?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D00_51_00#1",
+   "speaker": "Haru",
+   "en": "All we have to do now is send the[n]calling card. Please let me know[n]when you're ready, [fName]-kun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D00_60_00#0",
+   "speaker": "Haru",
+   "en": "All we can do now is watch...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D00_60_00#1",
+   "speaker": "Haru",
+   "en": "Oh, is there something you need?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D00_60_01#0",
+   "speaker": null,
+   "en": "I came to see you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D00_60_01#1",
+   "speaker": null,
+   "en": "I'm here for the vegetables.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D00_60_01#2",
+   "speaker": null,
+   "en": "Nothing in particular.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D06_50_00#0",
+   "speaker": "Haru",
+   "en": "We just need to wait until the day[n]of the announcement. I'll be taking[n]care of these plants until then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D06_50_00#1",
+   "speaker": "Haru",
+   "en": "Did you need something in the[n]meantime, [fName]-kun?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D06_50_01#0",
+   "speaker": null,
+   "en": "I came to see you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D06_50_01#1",
+   "speaker": null,
+   "en": "I'm here for the vegetables.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D06_50_01#2",
+   "speaker": null,
+   "en": "Nothing in particular.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D07_10_00#0",
+   "speaker": "Haru",
+   "en": "This is a great time to recharge our[n]batteries. Anyway, do you need[n]something up here, [fName]-kun?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D07_10_01#0",
+   "speaker": null,
+   "en": "I came to see you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D07_10_01#1",
+   "speaker": null,
+   "en": "I'm here for the vegetables.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D07_10_01#2",
+   "speaker": null,
+   "en": "Nothing in particular.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D07_20_00#0",
+   "speaker": "Haru",
+   "en": "Exams are approaching, so I was[n]thinking I would finish a little early[n]here and go study.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D07_20_00#1",
+   "speaker": "Haru",
+   "en": "If it's all right with you, would you[n]like to study together?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D07_20_00#2",
+   "speaker": "Haru",
+   "en": "I'm a third year, so I should be able[n]to teach you some things.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D07_20_01#0",
+   "speaker": null,
+   "en": "That would be great.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D07_20_01#1",
+   "speaker": null,
+   "en": "I want to see the vegetables.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D07_20_01#2",
+   "speaker": null,
+   "en": "Let me think about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D07_20_02#0",
+   "speaker": "Haru",
+   "en": "Okay. In that case, let's head over[n]to the diner.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D07_21_02#0",
+   "speaker": "Haru",
+   "en": "I can teach you some things you may[n]not otherwise understand, so let me[n]know if you'd ever like to study.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D07_30_00#0",
+   "speaker": "Haru",
+   "en": "What do you want to do[n]today, [fName]-kun?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D07_31_00#0",
+   "speaker": null,
+   "en": "Let's hang out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D07_31_00#1",
+   "speaker": null,
+   "en": "I want to see the vegetables.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D07_31_00#2",
+   "speaker": null,
+   "en": "Let's meet up with the others.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D07_31_00#3",
+   "speaker": null,
+   "en": "I haven't decided yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D07_31_10#0",
+   "speaker": "Haru",
+   "en": "Huh? At a time like this...?[n]Is this perhaps part of your[n]grand infiltration strategy?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D07_31_10#0",
+   "speaker": null,
+   "en": "It's a secret.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D07_31_10#1",
+   "speaker": null,
+   "en": "I dunno.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D07_31_11#0",
+   "speaker": "Haru",
+   "en": "*giggle* You make it sound[n]like it's really important.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D07_31_11#1",
+   "speaker": "Haru",
+   "en": "I suppose relaxation is pretty[n]vital at times like these...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D07_31_12#0",
+   "speaker": "Haru",
+   "en": "Well, perhaps you should think[n]about it a little more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D07_31_12#1",
+   "speaker": "Haru",
+   "en": "That aside, contact me when[n]you've decided on your schedule.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D07_40_00#0",
+   "speaker": "Haru",
+   "en": "I'd like to go to the Palace today.[n]We must settle the score with[n]Shido concerning my father...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D07_50_00#0",
+   "speaker": "Haru",
+   "en": "Can we send the calling card? We must[n]settle the score with Shido concerning[n]my father...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D07_99_00#0",
+   "speaker": null,
+   "en": "Let's do it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D07_99_00#1",
+   "speaker": null,
+   "en": "Let's check the vegetables first.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D07_99_00#2",
+   "speaker": null,
+   "en": "Not yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D07_99_00#0",
+   "speaker": "Haru",
+   "en": "All right then. I'll head over once you've[n]had a chance to contact the others.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D07_31_00#0",
+   "speaker": "Haru",
+   "en": "Sure... But first we need to secure a route.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D07_31_00#1",
+   "speaker": "Haru",
+   "en": "I'll be waiting, so please contact me[n]when you're ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D07_41_00#0",
+   "speaker": "Haru",
+   "en": "Can you please focus?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D07_41_00#1",
+   "speaker": "Haru",
+   "en": "I'll be waiting, so please contact me[n]when you're ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D07_51_00#0",
+   "speaker": "Haru",
+   "en": "Can you please focus?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_ACTION_D07_51_00#1",
+   "speaker": "Haru",
+   "en": "Our next move is to send the calling[n]card, so contact us when you're ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D07_60_00#0",
+   "speaker": "Haru",
+   "en": "Nobody should have mental[n]shutdowns anymore, yes?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D07_60_00#1",
+   "speaker": "Haru",
+   "en": "That aside, what brings you to[n]this rooftop, [fName]-kun?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D07_60_01#0",
+   "speaker": null,
+   "en": "I came to see you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D07_60_01#1",
+   "speaker": null,
+   "en": "I'm here for the vegetables.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D07_60_01#2",
+   "speaker": null,
+   "en": "Nothing in particular.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D10_50_00#0",
+   "speaker": "Haru",
+   "en": "We just need to wait until the day[n]of the announcement. I'll be taking[n]care of these plants until then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D10_50_00#1",
+   "speaker": "Haru",
+   "en": "Did you need something in the[n]meantime, [fName]-kun?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D10_50_00#0",
+   "speaker": null,
+   "en": "I came to see you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D10_50_00#1",
+   "speaker": null,
+   "en": "I'm here for the vegetables.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D10_50_00#2",
+   "speaker": null,
+   "en": "Nothing in particular.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D09_10_00#0",
+   "speaker": "Haru",
+   "en": "Oh, [fName]-kun! What brings you[n]here today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D09_10_01#0",
+   "speaker": null,
+   "en": "I came to see you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D09_10_01#1",
+   "speaker": null,
+   "en": "I'm here for the vegetables.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D09_10_01#2",
+   "speaker": null,
+   "en": "Nothing in particular.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D09_20_00#0",
+   "speaker": "Haru",
+   "en": "What is the plan today, [fName]-kun?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D09_20_00#1",
+   "speaker": "Haru",
+   "en": "Considering the circumstances, don't[n]we need to prioritize finding a route to[n]the Treasure?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D09_20_01#0",
+   "speaker": null,
+   "en": "Let's hang out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D09_20_01#1",
+   "speaker": null,
+   "en": "I want to see the vegetables.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D09_20_01#2",
+   "speaker": null,
+   "en": "Let's meet up with the others.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D09_20_01#3",
+   "speaker": null,
+   "en": "I haven't decided yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D09_20_02#0",
+   "speaker": "Haru",
+   "en": "Huh? Hang out...? Can we afford to...?[n]But the actualization is a problem we[n]need to solve...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D09_20_02#0",
+   "speaker": null,
+   "en": "We can't get impatient.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D09_20_02#1",
+   "speaker": null,
+   "en": "That's true...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D09_20_03#0",
+   "speaker": "Haru",
+   "en": "*giggle* Nothing seems to faze you,[n][fName]-kun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D09_20_03#1",
+   "speaker": "Haru",
+   "en": "But, I suppose relaxation is pretty vital[n]at times like these...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D09_20_04#0",
+   "speaker": "Haru",
+   "en": "Yes. I think this is a very crucial time[n]right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D09_20_04#1",
+   "speaker": "Haru",
+   "en": "Please contact me when you've decided[n]on your schedule.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D09_30_00#0",
+   "speaker": "Haru",
+   "en": "I really think we need to do something[n]about Dr. Maruki...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D09_30_00#1",
+   "speaker": "Haru",
+   "en": "Could we go to the Palace today? We[n]can't just ignore the situation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D09_40_00#0",
+   "speaker": "Haru",
+   "en": "All that's left is to wait for the day Dr.[n]Maruki mentioned... We have to stop him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D09_40_00#1",
+   "speaker": "Haru",
+   "en": "But until then, I suppose I'll take care[n]of the plants here. What are your plans,[n][fName]-kun?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D09_40_01#0",
+   "speaker": null,
+   "en": "Let's meet at the hideout.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D09_40_01#1",
+   "speaker": null,
+   "en": "Let's check the vegetables first.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_ACTION_D09_40_01#2",
+   "speaker": null,
+   "en": "I haven't decided.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D09_40_02#0",
+   "speaker": "Haru",
+   "en": "All right then. I'll head over once you've[n]had a chance to contact the others.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D09_40_03#0",
+   "speaker": "Haru",
+   "en": "Okay... But we do need to secure a route.[n]It looks like the actualization is only[n]spreading further.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D09_40_03#1",
+   "speaker": "Haru",
+   "en": "I'll be waiting, so please contact me[n]when you're ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D09_40_04#0",
+   "speaker": "Haru",
+   "en": "[fName]-kun! You need to focus!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D09_40_04#1",
+   "speaker": "Haru",
+   "en": "We have to fight Dr. Maruki if we want[n]to be able to return to our reality!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D09_40_04#2",
+   "speaker": "Haru",
+   "en": "Please contact me when you're ready[n]to go. I'll be waiting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_CONNECT_OK_00#0",
+   "speaker": "Haru",
+   "en": "*giggle* Why, thank you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_CONNECT_HARVEST_#0",
+   "speaker": "Haru",
+   "en": "*giggle* That makes me happy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_CONNECT_CANCEL_0#0",
+   "speaker": "Haru",
+   "en": "I'm here taking care of the garden[n]every day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_CONNECT_CANCEL_0#1",
+   "speaker": "Haru",
+   "en": "Feel free to stop by when you want[n]to see its progress.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_COOPNG_00#0",
+   "speaker": "Haru",
+   "en": "I was thinking of going home for[n]today after checking on my plants.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_COOPNG_00#1",
+   "speaker": "Haru",
+   "en": "Feel free to contact me in case of[n]emergency though. I'll gladly come.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_EVOLUTION_WAIT#0",
+   "speaker": "Haru",
+   "en": "I've been thinking about something...[n]Once things have calmed down a bit,[n]can we talk?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_EVOLUTION_WAIT#1",
+   "speaker": "Haru",
+   "en": "Feel free to contact me in case of[n]emergency though. I'll gladly come.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_PRECOOP_30_00#0",
+   "speaker": "Haru",
+   "en": "In that case, I'd like to use this[n]opportunity to bring my most[n]recent harvest to Sakura-san.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C03_PRECOOP_30_01#0",
+   "speaker": null,
+   "en": "This may be a good opportunity[n]to deepen my bond with Haru...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_PRECOOP_30_02#0",
+   "speaker": "Haru",
+   "en": "I'd like to stop by Leblanc today...[n]Could you join me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_PRECOOP_30_01#0",
+   "speaker": null,
+   "en": "Sure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_PRECOOP_30_01#1",
+   "speaker": null,
+   "en": "I'm kinda busy right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_PRECOOP_31_00#0",
+   "speaker": "Haru",
+   "en": "Great! Let us go then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_PRECOOP_00_99#0",
+   "speaker": "Haru",
+   "en": "I see... Please reconsider if you find[n]yourself with some spare time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_00_00#0",
+   "speaker": "Haru",
+   "en": "Oh, if it's okay with you, do you[n]think you could help tend the planters with me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_01_00#0",
+   "speaker": "Haru",
+   "en": "Can I ask you for a little advice?[n]About the vegetables, as well as[n]some other things...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_01_01#0",
+   "speaker": "Haru",
+   "en": "My apologies. I'm quite busy[n]taking care of the planters.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_01_01#1",
+   "speaker": "Haru",
+   "en": "It takes some time for someone[n]as clumsy as myself...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C03_COOP_01_01#0",
+   "speaker": null,
+   "en": "Haru seems to be busy taking care[n]of the planters by herself...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C03_COOP_01_02#0",
+   "speaker": null,
+   "en": "I would only get in her way with my[n]current level of [stIcon 2][clr 26][stLabel 2][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C03_COOP_01_02#1",
+   "speaker": null,
+   "en": "I might be able to help her[n]if my [stIcon 2][clr 26][stLabel 2][clr 27] were[clr 26][stLvLabel 2 5][clr 27] though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C03_COOP_01_03#0",
+   "speaker": null,
+   "en": "Given my current [stIcon 2][clr 26][stLabel 2][clr 27],[n]I could help Haru with anything...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_02_00#0",
+   "speaker": "Haru",
+   "en": "The vegetables in the planters are[n]doing well. I could show them to[n]you if you'd like.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_03_00#0",
+   "speaker": "Haru",
+   "en": "Oh, right! I found a place that serves[n]an especially rare type of coffee.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_03_00#1",
+   "speaker": "Haru",
+   "en": "Would you be interested in joining[n]me there?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C03_COOP_03_01#0",
+   "speaker": null,
+   "en": "Haru is inviting me out... I'll have[n]to act like a proper gentleman...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C03_COOP_03_02#0",
+   "speaker": null,
+   "en": "But I don't think I'll be able to[n]with my current [stIcon 2][clr 26][stLabel 2][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C03_COOP_03_02#1",
+   "speaker": null,
+   "en": "I might be able to do it if my[n][stIcon 2][clr 26][stLabel 2][clr 27] were [clr 26][stLvLabel 2 5][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C03_COOP_03_03#0",
+   "speaker": null,
+   "en": "Given my current [stIcon 2][clr 26][stLabel 2][clr 27], I think[n]I can escort Haru like a gentleman!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_04_00#0",
+   "speaker": "Haru",
+   "en": "Um, I'd like you to spend some[n]time with me if you're free...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_04_00#1",
+   "speaker": "Haru",
+   "en": "I need to speak with you about[n]Takakura-san...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_05_00#0",
+   "speaker": "Haru",
+   "en": "I'm thinking of going to find some[n]books to help me study coffee.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_05_00#1",
+   "speaker": "Haru",
+   "en": "Would you mind coming with me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_06_00#0",
+   "speaker": "Haru",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_06_00#1",
+   "speaker": "Haru",
+   "en": "...Ah, I'm sorry! I was spacing out for[n]a moment there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_06_00#2",
+   "speaker": "Haru",
+   "en": "Um, would you like to check on the[n]planters with me? I would appreciate[n]the opportunity to speak with you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_07_00#0",
+   "speaker": "Haru",
+   "en": "Oh, yes. There was something I wanted[n]to talk with you about.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_07_00#1",
+   "speaker": "Haru",
+   "en": "I've thought a great deal... both about[n]Takakura-san and the company.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_07_00#2",
+   "speaker": "Haru",
+   "en": "Do you have some time to talk today...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_08_00#0",
+   "speaker": "Haru",
+   "en": "I managed to secure an appointment[n]to meet up with Takakura-san.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_08_00#1",
+   "speaker": "Haru",
+   "en": "If it's not too much trouble, I'd like you[n]to join us...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_08_00#2",
+   "speaker": "Haru",
+   "en": "Do you have time today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_09_00#0",
+   "speaker": "Haru",
+   "en": "So, I went over to the company the[n]other day and... I have some news.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_09_00#1",
+   "speaker": "Haru",
+   "en": "Are you free to speak today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_09_01#0",
+   "speaker": "Haru",
+   "en": "So, I went over to the company the[n]other day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_09_01#1",
+   "speaker": "Haru",
+   "en": "There's a great deal I'd like to tell you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_09_01#2",
+   "speaker": "Haru",
+   "en": "Are you free to speak today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_10_00#0",
+   "speaker": "Haru",
+   "en": "Hee hee... Are you worried[n]about the planters?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_10_10#0",
+   "speaker": "Haru",
+   "en": "Hee hee... Are you worried[n]about the planters?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_DOUZOKUSEI#0",
+   "speaker": null,
+   "en": "I feel I can become closer with[n]Haru thanks to the [var 2][n]Persona [clr 1][var 5][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANKUP_OK#0",
+   "speaker": null,
+   "en": "I feel like my bond with Haru[n]will grow stronger soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANKUP_NG#0",
+   "speaker": null,
+   "en": "I don't think my bond with[n]Haru will deepen just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANK_MAX_00#0",
+   "speaker": null,
+   "en": "I have a solid bond[n]with Haru...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANK_MAX_01#0",
+   "speaker": null,
+   "en": "I have a special bond[n]with Haru...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_DUNGEON#0",
+   "speaker": "Morgana",
+   "en": "It's good to take a break every so often.[n]Do you want to hang out with Haru?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_DAY#0",
+   "speaker": "Morgana",
+   "en": "So, what will it be? Are you going to[n]spend time with Haru?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_SHIDOU#0",
+   "speaker": "Morgana",
+   "en": "Nobody thinks you're alive at[n]this point, so it should be okay[n]as long as you're careful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_SHIDOU#1",
+   "speaker": "Morgana",
+   "en": "So, what will it be? Are you going to[n]spend time with Haru?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK#0",
+   "speaker": null,
+   "en": "Hang out with her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK#1",
+   "speaker": null,
+   "en": "Check bond with Haru",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK#2",
+   "speaker": null,
+   "en": "Decline",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_YES_01_00#0",
+   "speaker": "Haru",
+   "en": "So you'll help me? Well, if you insist.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_YES_02_00#0",
+   "speaker": "Haru",
+   "en": "Oh, so you'll take a look? Thank you.[n]It really helps.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_YES_03_00#0",
+   "speaker": "Haru",
+   "en": "Then it's decided.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_YES_03_00#1",
+   "speaker": "Haru",
+   "en": "This particular restaurant is in an[n]expensive hotel buffet. Hopefully[n]the coffee lives up to that reputation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_YES_04_00#0",
+   "speaker": "Haru",
+   "en": "Thank you. Let's get some coffee[n]while we talk...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_YES_04_00#1",
+   "speaker": "Haru",
+   "en": "Oh, I know! Why don't we try it at[n]Big Bang Burger for a change?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_YES_05_00#0",
+   "speaker": "Haru",
+   "en": "Thank you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_YES_05_00#1",
+   "speaker": "Haru",
+   "en": "How about Jinbocho? It would be[n]the perfect place to look.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_YES_05_00#2",
+   "speaker": "Haru",
+   "en": "Well, let's get going.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_YES_06_00#0",
+   "speaker": "Haru",
+   "en": "That's good to hear. Thank you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_YES_06_00#1",
+   "speaker": "Haru",
+   "en": "The truth is...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_YES_07_00#0",
+   "speaker": "Haru",
+   "en": "Okay. Thank you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_YES_07_00#1",
+   "speaker": "Haru",
+   "en": "You see...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_YES_08_00#0",
+   "speaker": "Haru",
+   "en": "Thank you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_YES_08_00#1",
+   "speaker": "Haru",
+   "en": "I'm sure I'll be able to express myself[n]if you're there with me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_YES_08_00#2",
+   "speaker": "Haru",
+   "en": "Well, I'll contact Takakura-san now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_YES_09_00#0",
+   "speaker": "Haru",
+   "en": "Thank you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_YES_09_00#1",
+   "speaker": "Haru",
+   "en": "Um... can we talk at your place?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_YES_09_00#2",
+   "speaker": "Haru",
+   "en": "O-Oh, that's not how I meant it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_YES_09_00#3",
+   "speaker": "Haru",
+   "en": "I-I just wanted to have some of Boss's[n]coffee! You're okay with spending[n]time there, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_YES_09_10#0",
+   "speaker": "Haru",
+   "en": "Thank you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_YES_09_10#1",
+   "speaker": "Haru",
+   "en": "I'd like to drink a nice cup of Boss's[n]coffee. Could we head to Leblanc?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_COOP_ESCAPE#0",
+   "speaker": "Morgana",
+   "en": "Well, I'm gonna go take a walk while[n]you're busy with her. Let me know[n]when you're ready to leave.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_SPOT_00_00#0",
+   "speaker": "Haru",
+   "en": "What shall we do today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_SPOT_00_01#0",
+   "speaker": null,
+   "en": "Let's go somewhere fun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_SPOT_00_01#1",
+   "speaker": null,
+   "en": "Let's go to my room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_SPOT_00_01#2",
+   "speaker": null,
+   "en": "Let's tend to the garden.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_SPOT_00_10#0",
+   "speaker": "Haru",
+   "en": "Very well. Where are you going[n]to take me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_SPOT_00_10#1",
+   "speaker": "Haru",
+   "en": "I would like to go somewhere[n]normal people visit...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_MYROOM_00_00#0",
+   "speaker": "Haru",
+   "en": "Yes, that sounds good...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_YES_00_00#0",
+   "speaker": "Haru",
+   "en": "Then it's decided.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_YES_00_07#0",
+   "speaker": "Haru",
+   "en": "Then it's decided. Make sure you[n]hide if anyone comes, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_YES_10_00#0",
+   "speaker": "Haru",
+   "en": "Then it's decided.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_YES_10_07#0",
+   "speaker": "Haru",
+   "en": "Then it's decided. I'll protect you[n]if anybody comes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_YES_10_10#0",
+   "speaker": "Haru",
+   "en": "Then it's decided.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_YES_10_17#0",
+   "speaker": "Haru",
+   "en": "Then it's decided. I'll protect you[n]if anybody comes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_CANCEL_00#0",
+   "speaker": "Haru",
+   "en": "I see... Maybe next time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D10_REV#0",
+   "speaker": "Haru",
+   "en": "Oh, [fName]-kun...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D10_REV#1",
+   "speaker": "Haru",
+   "en": "It's gotten colder recently, hasn't it?[n]Did you need something today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BEGIN_D10_REV_OK#0",
+   "speaker": "Haru",
+   "en": "[fName]-kun... What brings you[n]here today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_REV#0",
+   "speaker": null,
+   "en": "I came to see you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_REV#1",
+   "speaker": null,
+   "en": "I'm here for the vegetables.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_REV#2",
+   "speaker": null,
+   "en": "Let's meet at the hideout.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_REV#3",
+   "speaker": null,
+   "en": "Nothing in particular.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_10_00_REV#0",
+   "speaker": "Haru",
+   "en": "...Um, do you have some time to spare[n]right now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_10_00_REV#1",
+   "speaker": "Haru",
+   "en": "There's something I need to tell you...[n]Is that okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANK_MAX__REV#0",
+   "speaker": null,
+   "en": "It seems like Haru has something on[n]her mind...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_3RD_REV#0",
+   "speaker": "Morgana",
+   "en": "Haru...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_3RD_REV#1",
+   "speaker": "Morgana",
+   "en": "What's the plan? Are you going to[n]spend the day with Haru?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_REV2#0",
+   "speaker": null,
+   "en": "Hang out with her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_REV2#1",
+   "speaker": null,
+   "en": "Check bond with Haru",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_REV2#2",
+   "speaker": null,
+   "en": "Decline",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_YES_10_00_REV#0",
+   "speaker": "Haru",
+   "en": "...Thank you. Then could we go to my[n]place for today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_YES_10_00_REV#1",
+   "speaker": "Haru",
+   "en": "I'll treat you to some delicious black tea.[n]Just wait a moment while I get changed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_HARVEST_REV#0",
+   "speaker": "Haru",
+   "en": "Did you come to check the planters...?[n]They're doing just fine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_COOP_ESCAPE_#0",
+   "speaker": "Morgana",
+   "en": "Okay, then I'll take my leave... I'm[n]leaving Lady Ann to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_CANCEL_REV#0",
+   "speaker": "Haru",
+   "en": "Oh, okay. Sorry...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_COOP_CANCEL_REV#1",
+   "speaker": "Haru",
+   "en": "Let me know when you've got time,[n][fName]-kun. I'll be waiting here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_KANDA#0",
+   "speaker": null,
+   "en": "You can now go to [clr 1]Kanda[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINJUKU#0",
+   "speaker": null,
+   "en": "You can now go to [clr 2]Shinjuku[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_AKIHABARA#0",
+   "speaker": null,
+   "en": "You can now go to [clr 2]Akihabara[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_AKIHABARA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_INOKASHIRA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Inokashira Park[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_INOKASHIRA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_OGIKUBO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ogikubo Ramen[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_OGIKUBO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy eating ramen[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ODAIBA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Odaiba Seaside Park[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ODAIBA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like such parks to[n]hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_UENO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ueno Museum[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_UENO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy art museums[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TSUKISHIMA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Tsukishima Monja[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TSUKISHIMA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy eating monjayaki[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_HARAJUKU#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Harajuku Takenoko Street[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_HARAJUKU#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy Takenoko Street[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TYUKAGAI#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Motomachi Chinatown[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TYUKAGAI#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MAIHAMA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Maihama Destinyland[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MAIHAMA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ASAKUSA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Asakusa[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ASAKUSA#1",
+   "speaker": null,
+   "en": "You can also invite people who may[n]enjoy the Skytree or Nakamise Street[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_IKEBUKURO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ikebukuro Planetarium[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_IKEBUKURO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MEIJIJINGU#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Meiji Shrine[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MEIJIJINGU#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MEIJIJINGU#2",
+   "speaker": null,
+   "en": "Furthermore, you can go by[n]yourself to pay homage to[n]the shrine if you wish.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SUIDOUBASH#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Suidobashi Dome Town[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SUIDOUBASH#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHIBUYA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Shibuya Wilton Hotel[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHIBUYA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_GINZA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ginza Sushi Bar[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_GINZA#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may enjoy eating expensive sushi[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_JINBOCHO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Jinbocho Book Town[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_JINBOCHO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_JINBOCHO#2",
+   "speaker": null,
+   "en": "Furthermore, you can go by[n]yourself for some shopping[n]if you so desire.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ICHIGAYA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ichigaya Fishing Pond[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ICHIGAYA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy fishing to[n]hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ICHIGAYA#2",
+   "speaker": null,
+   "en": "Furthermore, you can go by[n]yourself and try your hand at[n]fishing if you so choose.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINAGAWA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Shinagawa Aquarium[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINAGAWA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy the aquarium[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_NAKANO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Nakano Commerce Building District[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_NAKANO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy that location[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_00#0",
+   "speaker": "Haru",
+   "en": "...You made it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_00#1",
+   "speaker": "Haru",
+   "en": "You know, I've asked for your help[n]so many times to this point...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_00#2",
+   "speaker": "Haru",
+   "en": "But thanks to you, the new coffee[n]shop venture is progressing toward[n]opening its first location.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_BYEGREET_00_01#0",
+   "speaker": null,
+   "en": "That's a relief.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_BYEGREET_00_01#1",
+   "speaker": null,
+   "en": "I hope it will be successful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_BYEGREET_00_01#2",
+   "speaker": null,
+   "en": "How does the coffee taste?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_02#0",
+   "speaker": "Haru",
+   "en": "It truly is...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_02#1",
+   "speaker": "Haru",
+   "en": "Furthermore, I'm going to be involved[n]in its growth while I attend university...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_02#2",
+   "speaker": "Haru",
+   "en": "It will be difficult to handle both[n]at the same time, but it will be the[n]perfect chance to learn the ropes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_02#3",
+   "speaker": "Haru",
+   "en": "That way I'll be able to make sure[n]everything goes smoothly when I[n]finally open my own café.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_03#0",
+   "speaker": "Haru",
+   "en": "Thank you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_03#1",
+   "speaker": "Haru",
+   "en": "Furthermore, I'm going to be involved[n]in its growth while I attend university...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_03#2",
+   "speaker": "Haru",
+   "en": "It will be difficult to handle both[n]at the same time, but it will be the[n]perfect chance to learn the ropes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_03#3",
+   "speaker": "Haru",
+   "en": "That way I'll be able to make sure[n]everything goes smoothly when I[n]finally open my own café.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_04#0",
+   "speaker": "Haru",
+   "en": "I haven't tried it yet, but I hope it[n]will be similar to Leblanc's.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_04#1",
+   "speaker": "Haru",
+   "en": "Beyond that, I'm going to be involved[n]in its growth while I attend university...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_04#2",
+   "speaker": "Haru",
+   "en": "It will be difficult to handle both[n]at the same time, but it will be the[n]perfect chance to learn the ropes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_04#3",
+   "speaker": "Haru",
+   "en": "That way I'll be able to make sure[n]everything goes smoothly when I[n]finally open my own café.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_05#0",
+   "speaker": "Haru",
+   "en": "And, um... I want you to be with me[n]when that happens.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_05#1",
+   "speaker": "Haru",
+   "en": "By the way, I tried making something[n]for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_06#0",
+   "speaker": "Haru",
+   "en": "I'd like to sell handcrafted goods at[n]my café as well... so this is the first[n]step in my practice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_06#1",
+   "speaker": "Haru",
+   "en": "Sorry if the dye comes out when you[n]use it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_06#2",
+   "speaker": "Haru",
+   "en": "Oh, maybe I should try making hats[n]next! How do matching ones sound?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_06#3",
+   "speaker": "Haru",
+   "en": "This is... my promise to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_07#0",
+   "speaker": "Haru",
+   "en": "This is... my promise to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_00#0",
+   "speaker": "Haru",
+   "en": "[fName]-kun...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_00#1",
+   "speaker": "Haru",
+   "en": "It's a little strange meeting here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_00#2",
+   "speaker": "Haru",
+   "en": "That reminds me, the new coffee[n]shop venture is progressing toward[n]opening its first location.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_BYEGREET_01_01#0",
+   "speaker": null,
+   "en": "You did great.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_BYEGREET_01_01#1",
+   "speaker": null,
+   "en": "That's wonderful news.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_BYEGREET_01_01#2",
+   "speaker": null,
+   "en": "Hope there's a branch near me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_02#0",
+   "speaker": "Haru",
+   "en": "The most important part has yet to[n]come though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_02#1",
+   "speaker": "Haru",
+   "en": "To tell you the truth, I'm going to stay[n]involved in management of the café[n]while I go to college.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_02#2",
+   "speaker": "Haru",
+   "en": "I'll learn everything there is to know...[n]until one day I can open my very own[n]shop.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_03#0",
+   "speaker": "Haru",
+   "en": "It truly is...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_03#1",
+   "speaker": "Haru",
+   "en": "To tell you the truth, I'm going to stay[n]involved in management of the café[n]while I go to college.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_03#2",
+   "speaker": "Haru",
+   "en": "I'll learn everything there is to know...[n]until one day I can open my very own[n]shop.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_04#0",
+   "speaker": "Haru",
+   "en": "Of course! I'll let you know when we're[n]coming.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_04#1",
+   "speaker": "Haru",
+   "en": "To tell you the truth, I'm going to stay[n]involved in management of the café[n]while I go to college.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_04#2",
+   "speaker": "Haru",
+   "en": "I'll learn everything there is to know...[n]until one day I can open my very own[n]shop.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_05#0",
+   "speaker": "Haru",
+   "en": "By the way, I tried making something[n]for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_06#0",
+   "speaker": "Haru",
+   "en": "I'd like to sell handcrafted goods at[n]my café as well... so this is the first[n]step in my practice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_06#1",
+   "speaker": "Haru",
+   "en": "Sorry if the dye comes out when you[n]use it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_06#2",
+   "speaker": "Haru",
+   "en": "...[fName]-kun, thank you for[n]being there to help me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_06#3",
+   "speaker": "Haru",
+   "en": "You're... my hero. I hope to return the[n]favor someday.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_07#0",
+   "speaker": "Haru",
+   "en": "You're... my hero. I hope to return the[n]favor someday.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_00_5#0",
+   "speaker": "Haru",
+   "en": "...You made it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_00_5#1",
+   "speaker": "Haru",
+   "en": "You know, I've asked for your help[n]so many times to this point...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_00_5#2",
+   "speaker": "Haru",
+   "en": "But thanks to you, the new coffee[n]shop venture is progressing toward[n]opening its first location.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_00_5#3",
+   "speaker": "Haru",
+   "en": "Actually, I'll be involved with its launch,[n]even while attending college.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_BYEGREET_00_01_5#0",
+   "speaker": null,
+   "en": "Looks like it's taking off.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_BYEGREET_00_01_5#1",
+   "speaker": null,
+   "en": "I'm looking forward to it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_BYEGREET_00_01_5#2",
+   "speaker": null,
+   "en": "How will the coffee taste?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_02_5#0",
+   "speaker": "Haru",
+   "en": "Yes. I'm not just rebuilding my[n]company—I'm chasing my dream.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_02_5#1",
+   "speaker": "Haru",
+   "en": "It may be difficult, balancing my[n]studies and the company. But I swear[n]I'll see it through.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_02_5#2",
+   "speaker": "Haru",
+   "en": "Besides, if I can do that, I'm certain I[n]can run my own café.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_03_5#0",
+   "speaker": "Haru",
+   "en": "Yes... I confess, I'm excited to see[n]what the future has in store.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_03_5#1",
+   "speaker": "Haru",
+   "en": "I can only imagine it'll be difficult.[n]I'll have to balance my studies and[n]managing the company...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_03_5#2",
+   "speaker": "Haru",
+   "en": "But it's all for the sake of making my[n]dream come true. I swear I'll make[n]this work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_04_5#0",
+   "speaker": "Haru",
+   "en": "Well, quality tests are ongoing among[n]my employees. We don't want to lose[n]that local brewing flavor.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_04_5#1",
+   "speaker": "Haru",
+   "en": "I can only imagine it'll be difficult.[n]I'll have to balance my studies and[n]managing the company...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_04_5#2",
+   "speaker": "Haru",
+   "en": "But it's all for the sake of making my[n]dream come true. I swear I'll make[n]this work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_05_5#0",
+   "speaker": "Haru",
+   "en": "...That said, of course, it does make[n]me a bit nervous. I have to wonder[n]if it's really within my power...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_05_5#1",
+   "speaker": "Haru",
+   "en": "But as long as I have you, I have to[n]ensure I'm worthy of your support—[n]and your pride.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_05_5#2",
+   "speaker": "Haru",
+   "en": "By the way, I tried making something[n]for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_06_5#0",
+   "speaker": "Haru",
+   "en": "I'd like to sell handcrafted goods at[n]my café as well... so this is the first[n]step in my practice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_06_5#1",
+   "speaker": "Haru",
+   "en": "I have my grandfather's reputation[n]to think of, after all... and my father's[n]legacy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_06_5#2",
+   "speaker": "Haru",
+   "en": "It has to be a comforting, welcoming[n]place for everyone—someplace to[n]spend your peaceful hours.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_06_5#3",
+   "speaker": "Haru",
+   "en": "When my café's ready to open, you'll[n]be the first to know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_06_5#4",
+   "speaker": "Haru",
+   "en": "I've already decided you're going to be[n]my first customer, [fName]-kun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_07_5#0",
+   "speaker": "Haru",
+   "en": "When my café's ready to open, you'll[n]be the first to know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_00_07_5#1",
+   "speaker": "Haru",
+   "en": "I've already decided you're going to be[n]my first customer, [fName]-kun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_00_5#0",
+   "speaker": "Haru",
+   "en": "[fName]-kun...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_00_5#1",
+   "speaker": "Haru",
+   "en": "It's a little strange meeting here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_00_5#2",
+   "speaker": "Haru",
+   "en": "That reminds me, the new coffee[n]shop venture is progressing toward[n]opening its first location.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_00_5#3",
+   "speaker": "Haru",
+   "en": "Actually, I'll be involved with its[n]launch even while attending college.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_BYEGREET_01_01_5#0",
+   "speaker": null,
+   "en": "So you're going for your dream.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_BYEGREET_01_01_5#1",
+   "speaker": null,
+   "en": "What about your own café?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C03_BYEGREET_01_01_5#2",
+   "speaker": null,
+   "en": "I'd love to go enjoy a cup.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_02_5#0",
+   "speaker": "Haru",
+   "en": "Indeed. It's an early step, but[n]nevertheless an important one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_02_5#1",
+   "speaker": "Haru",
+   "en": "I can only imagine it'll be difficult.[n]I'll have to balance my studies and[n]managing the company...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_02_5#2",
+   "speaker": "Haru",
+   "en": "But it's all for the sake of making my[n]dream come true. I swear I'll make[n]this work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_03_5#0",
+   "speaker": "Haru",
+   "en": "That may be quite a ways off. But[n]in the meantime, I want to learn[n]as much as I can.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_03_5#1",
+   "speaker": "Haru",
+   "en": "Perhaps I can study the fundamentals[n]of management now and eventually[n]put them to use in my own café.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_03_5#2",
+   "speaker": "Haru",
+   "en": "It may be difficult, balancing my[n]studies and the company. But I[n]swear I'll see it through.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_04_5#0",
+   "speaker": "Haru",
+   "en": "We do have plans to expand into[n]other regions! Perhaps one may pop[n]up in your town, [fName]-kun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_04_5#1",
+   "speaker": "Haru",
+   "en": "From now on, I'll have to balance my[n]studies and the company. No easy[n]task, I'm sure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_04_5#2",
+   "speaker": "Haru",
+   "en": "But it's all for the sake of making my[n]dream come true. I swear I'll make[n]this work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_05_5#0",
+   "speaker": "Haru",
+   "en": "By the way, I tried making something[n]for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_06_5#0",
+   "speaker": "Haru",
+   "en": "I'd like to sell handcrafted goods at[n]my café as well... so this is the first[n]step in my practice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_06_5#1",
+   "speaker": "Haru",
+   "en": "I want to live up to my grandfather's[n]reputation, after all... and my father's[n]legacy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_06_5#2",
+   "speaker": "Haru",
+   "en": "It has to be a comforting, welcoming[n]place for everyone—someplace to[n]spend your peaceful hours.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_06_5#3",
+   "speaker": "Haru",
+   "en": "Once it opens, we should all meet up[n]there. Just like our days at Leblanc...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C03_BYEGREET_01_07_5#0",
+   "speaker": "Haru",
+   "en": "Once it opens, we should all meet up[n]there. Just like our days at Leblanc...",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

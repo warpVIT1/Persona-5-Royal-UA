@@ -1,0 +1,2308 @@
+{
+ "file": "EN/FIELD/NPC/CORP017.BF",
+ "entries": [
+  {
+   "id": "MND_C17_PREOPEN_99_99#0",
+   "speaker": null,
+   "en": "A high school girl is[n]playing shogi here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_PREOPEN_00_00#0",
+   "speaker": "Morgana",
+   "en": "That girl's playing shogi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_PREOPEN_00_00#1",
+   "speaker": "Morgana",
+   "en": "Maybe she's Hifumi Togo, the one[n]Yusuke mentioned...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_PREOPEN_00_00#2",
+   "speaker": "Morgana",
+   "en": "Why don't you go ask her?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_PREOPEN_00_01#0",
+   "speaker": null,
+   "en": "Togo-san?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_PREOPEN_00_01#1",
+   "speaker": null,
+   "en": "Hifumi-chan?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_PREOPEN_00_10#0",
+   "speaker": "Shogi-Playing Student",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_PREOPEN_00_10#1",
+   "speaker": "Shogi-Playing Student",
+   "en": "...You have the wrong person.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_PREOPEN_00_11#0",
+   "speaker": "Morgana",
+   "en": "But she's the only weirdo who plays[n]shogi at a church...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_PREOPEN_00_11#1",
+   "speaker": "Morgana",
+   "en": "She's a famous shogi player, so maybe[n]you need a certain level of charm to[n]interest her...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C17_PREOPEN_00_12#0",
+   "speaker": null,
+   "en": "If I get my [stIcon 1][clr 26][stLabel 1][clr 27][n]up to [clr 26][stLvLabel 1 3][clr 27] level,[n]she might listen to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_PREOPEN_01_00#0",
+   "speaker": "Shogi-Playing Student",
+   "en": "Um... yes...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C17_PREOPEN_01_00_1#0",
+   "speaker": null,
+   "en": "My overflowing [stIcon 1][clr 26][stLabel 1][clr 27][n]seems to have reached Hifumi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_PREOPEN_01_00_2#0",
+   "speaker": "Shogi-Playing Student",
+   "en": "I'm Hifumi Togo...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_PREOPEN_01_01#0",
+   "speaker": null,
+   "en": "Playing shogi at a church?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_PREOPEN_01_01#1",
+   "speaker": null,
+   "en": "Playing shogi by yourself?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_PREOPEN_01_02#0",
+   "speaker": "Hifumi",
+   "en": "Strange, hm...? I did receive approval[n]to do so though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_PREOPEN_01_03#0",
+   "speaker": "Hifumi",
+   "en": "I'm doing some research, so...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_PREOPEN_01_04#0",
+   "speaker": "Hifumi",
+   "en": "Experimenting with new tactics is best[n]to do alone in a place like this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_PREOPEN_01_04#1",
+   "speaker": "Hifumi",
+   "en": "...Well, I suppose that doesn't sound[n]terribly plausible to someone who[n]doesn't play...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_PREOPEN_01_04#2",
+   "speaker": "Hifumi",
+   "en": "Don't mind me; please go ahead and pray.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_PREOPEN_02_00#0",
+   "speaker": "Hifumi",
+   "en": "I received approval from the church[n]to study shogi here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_PREOPEN_02_00#1",
+   "speaker": "Hifumi",
+   "en": "Please don't mind me. Feel free to[n]continue with your worship.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C17_PREOPEN_10_00#0",
+   "speaker": null,
+   "en": "Hifumi Togo seems to take a[n]very tactical approach to[n]playing shogi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C17_PREOPEN_10_00#1",
+   "speaker": null,
+   "en": "I feel like I can learn some[n]tactics for the Phantom Thieves[n]from her shogi expertise.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C17_PREOPEN_10_01#0",
+   "speaker": null,
+   "en": "I should ask her if[n]she'll teach me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_PREOPEN_10_02#0",
+   "speaker": null,
+   "en": "Ask her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_PREOPEN_10_02#1",
+   "speaker": null,
+   "en": "Don't ask her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_PREOPEN_10_99#0",
+   "speaker": "Morgana",
+   "en": "You're not gonna ask her?[n]Tactics are important for[n]the Phantom Thieves, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_QUEST#0",
+   "speaker": "Hifumi",
+   "en": "[lName]-kun...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HIFUMI_SASOI_THROUGH#0",
+   "speaker": "Hifumi",
+   "en": "I'm sorry for inviting you out[n]of the blue the other day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HIFUMI_SASOI_THROUGH#1",
+   "speaker": "Hifumi",
+   "en": "You'll lose your edge if you[n]don't play on a regular basis.[n]Please keep that in mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HIFUMI_SASOI_THROUGH_2#0",
+   "speaker": "Hifumi",
+   "en": "I'd hate to think that I misread[n]your passion for shogi...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HIFUMI_SASOI_THROUGH_2#1",
+   "speaker": "Hifumi",
+   "en": "I know you may be busy, but[n]please take your lessons more[n]seriously.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_WEATHER_00#0",
+   "speaker": "Hifumi",
+   "en": "My thinking gets sharper on rainy[n]days. The sound of raindrops[n]increases my focus.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_WEATHER_01#0",
+   "speaker": "Hifumi",
+   "en": "It's rare to see it snow... I can tell[n]a chill is going to set in soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_WEATHER_02#0",
+   "speaker": "Hifumi",
+   "en": "I wonder if the rain is going to[n]continue for a while. The sound[n]of rain heightens my focus.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_WEATHER_03#0",
+   "speaker": "Hifumi",
+   "en": "I can hear the ferocity of the[n]wind outside... Perhaps we[n]should head home early...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_WEATHER_04#0",
+   "speaker": "Hifumi",
+   "en": "It's allergy season again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_WEATHER_04#1",
+   "speaker": "Hifumi",
+   "en": "Are you doing all right? It's crucial that[n]you don't lose focus at a time like this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_WEATHER_05#0",
+   "speaker": "Hifumi",
+   "en": "Although my thinking gets sharper[n]on rainy days...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_WEATHER_05#1",
+   "speaker": "Hifumi",
+   "en": "It's raining too hard today... The noise[n]is making it hard to focus.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_WEATHER_06#0",
+   "speaker": "Hifumi",
+   "en": "It's hot outside, but I'm clear-headed[n]since it's so cool inside here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_WEATHER_07#0",
+   "speaker": "Hifumi",
+   "en": "There are a lot more people wearing[n]masks. I suppose it's because of the flu...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_WEATHER_07#1",
+   "speaker": "Hifumi",
+   "en": "I hope you're being cautious,[n][lName]-kun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_WEATHER_08#0",
+   "speaker": "Hifumi",
+   "en": "It seems especially cold today...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_WEATHER_08#1",
+   "speaker": "Hifumi",
+   "en": "Try to stay warm, all right? I don't want[n]you getting sick, [lName]-kun...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_TIME_01#0",
+   "speaker": "Hifumi",
+   "en": "Hello.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_TIME_02#0",
+   "speaker": "Hifumi",
+   "en": "Hello.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_TIME_03#0",
+   "speaker": "Hifumi",
+   "en": "A first-class shogi player is similar[n]to an artist.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_TIME_03#1",
+   "speaker": "Hifumi",
+   "en": "Ideal placements on the board bring[n]the pieces to life... That is art at its[n]highest form.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_TIME_04#0",
+   "speaker": "Hifumi",
+   "en": "Good evening, [lName]-kun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_TIME_04#1",
+   "speaker": "Hifumi",
+   "en": "It's even hotter this summer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_TIME_05#0",
+   "speaker": "Hifumi",
+   "en": "I'm going to Los Angeles for a school[n]trip soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_TIME_05#1",
+   "speaker": "Hifumi",
+   "en": "We're going to the beach, so I bought a[n]swimsuit, but dressing like that in front[n]of people...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_TIME_05#2",
+   "speaker": "Hifumi",
+   "en": "Oh, sorry for bringing up such a personal[n]topic.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_TIME_05_1#0",
+   "speaker": "Hifumi",
+   "en": "I was happy to be able to see you[n]in Hawaii...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_TIME_05_1#1",
+   "speaker": "Hifumi",
+   "en": "You came to see me today too...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_TIME_05_2#0",
+   "speaker": "Hifumi",
+   "en": "I traveled overseas for a school trip.[n]The weather was really nice there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_TIME_05_2#1",
+   "speaker": "Hifumi",
+   "en": "It's still so hot here in Japan...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_TIME_06#0",
+   "speaker": "Hifumi",
+   "en": "\"The gold's key to victory lies[n]in retreating\"...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_TIME_06#1",
+   "speaker": "Hifumi",
+   "en": "This means at times, retreating[n]is an effective strategy in order[n]to attack with your next move.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_TIME_06#2",
+   "speaker": "Hifumi",
+   "en": "It may be good for you to[n]remember that as well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_TIME_07#0",
+   "speaker": "Hifumi",
+   "en": "\"A meijin knows no standard moves\"...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_TIME_07#1",
+   "speaker": "Hifumi",
+   "en": "There are no set principles for victory.[n]You must always seek to make the best[n]move possible.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_TIME_07#2",
+   "speaker": "Hifumi",
+   "en": "Please continue to do what you believe[n]is right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_TIME_08#0",
+   "speaker": "Hifumi",
+   "en": "\"A vulgar good move\"... A move that[n]anyone can conceive.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_TIME_08#1",
+   "speaker": "Hifumi",
+   "en": "However, there aren't many people who[n]can implement their own strategy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_TIME_08#2",
+   "speaker": "Hifumi",
+   "en": "I hope you continue to do what you[n]believe in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_TIME_09#0",
+   "speaker": "Hifumi",
+   "en": "In the endgame, speed can be more[n]important than any previous gains.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_TIME_09#1",
+   "speaker": "Hifumi",
+   "en": "As the match draws to its close, one's[n]generals become more expendable in[n]the name of cornering your foe's king.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_TIME_09#2",
+   "speaker": "Hifumi",
+   "en": "...Still, these principles only help in shogi.[n]Strategies are rarely so clear-cut when it[n]comes to real-life interpersonal matters.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_SECOND_00#0",
+   "speaker": "Hifumi",
+   "en": "What's the matter?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BEGIN_NOTCOOP_00#0",
+   "speaker": "Hifumi",
+   "en": "I'm thinking of heading home[n]for the day. We'll continue[n]your lessons at another time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_COOP_00_00#0",
+   "speaker": "Hifumi",
+   "en": "If it's all right with you, let's play a match.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_COOP_10_00#0",
+   "speaker": "Hifumi",
+   "en": "We can play a match, if you'd like...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_COOP_10_01#0",
+   "speaker": "Hifumi",
+   "en": "How about a match?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_01_00#0",
+   "speaker": "Hifumi",
+   "en": "I'd like to teach you shogi at[n]different locations from time[n]to time, to change up the mood.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_01_00#1",
+   "speaker": "Hifumi",
+   "en": "Somewhere outside, without[n]too many people... There may[n]not be many such places.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_01_00#2",
+   "speaker": "Hifumi",
+   "en": "Well then, shall we play a match[n]today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_02_00#0",
+   "speaker": "Hifumi",
+   "en": "In addition to practice, reading[n]books about shogi is important[n]for winning as well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_02_00#1",
+   "speaker": "Hifumi",
+   "en": "I've read all my textbooks...[n]Where can I gain knowledge[n]that I have yet to discover...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_02_00#2",
+   "speaker": "Hifumi",
+   "en": "Oh, never mind. May I request[n]a match?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_03_00#0",
+   "speaker": "Hifumi",
+   "en": "Even though we're dating, all I do is[n]teach you how to play shogi...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_03_00#1",
+   "speaker": "Hifumi",
+   "en": "It would be nice to go out somewhere,[n]but I don't know of any good places...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_03_00#2",
+   "speaker": "Hifumi",
+   "en": "...Anyway, let's play a match.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_04_00#0",
+   "speaker": "Hifumi",
+   "en": "Since it's my day off, I was thinking we[n]could take a trip to somewhere far away...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_04_00#1",
+   "speaker": "Hifumi",
+   "en": "An amusement park, for example...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_04_00#2",
+   "speaker": "Hifumi",
+   "en": "Oh, what am I saying...? It's time for our[n]lesson. Shall we begin?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_05_00#0",
+   "speaker": "Hifumi",
+   "en": "It would be nice to dine out once[n]in a while. However, I can't help[n]but wonder what we would eat...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_05_00#1",
+   "speaker": "Hifumi",
+   "en": "Tactical analysis with variety[n]taken into consideration...[n]leaves me with... a buffet?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_05_00#2",
+   "speaker": "Hifumi",
+   "en": "Oh, never mind. How about[n]we play a match?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_06_00#0",
+   "speaker": "Hifumi",
+   "en": "Um, I was hoping to visit your room[n]today...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_06_00#1",
+   "speaker": "Hifumi",
+   "en": "O-Oh, no! I mean I simply wanted[n]to know more about my opponent...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_06_00#2",
+   "speaker": "Hifumi",
+   "en": "Um... Shall we play a match today,[n]as usual?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_COOP_01_00#0",
+   "speaker": "Hifumi",
+   "en": "Do you remember our promise? You[n]become my playing partner so that I[n]can research new moves...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_COOP_01_00#1",
+   "speaker": "Hifumi",
+   "en": "In order to do so, I would like you to[n]start off by learning the basics of shogi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_COOP_01_00#2",
+   "speaker": "Hifumi",
+   "en": "Would you like to play a match?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_COOP_02_00#0",
+   "speaker": "Morgana",
+   "en": "Hifumi's talking to someone.[n]She seems kinda troubled.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_COOP_03_00#0",
+   "speaker": "Hifumi",
+   "en": "You have more aptitude for this than I[n]imagined. I also sense an ambitious[n]spirit within you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_COOP_03_00#1",
+   "speaker": "Hifumi",
+   "en": "I should've taken into account your[n]improvement throughout our lessons.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_COOP_03_00#2",
+   "speaker": "Hifumi",
+   "en": "I have something in mind, but let's play[n]a match first... In fact, let's play right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_COOP_04_00#0",
+   "speaker": "Morgana",
+   "en": "Hifumi's talking to a woman.[n]She seems troubled again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_COOP_05_00#0",
+   "speaker": "Hifumi",
+   "en": "...I'm sorry. I'm not in the mood to[n]teach shogi today...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_COOP_05_00#1",
+   "speaker": "Hifumi",
+   "en": "Um, could you join me for a walk?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_COOP_06_00#0",
+   "speaker": "Hifumi",
+   "en": "Um, do you have some time today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_COOP_06_00#1",
+   "speaker": "Hifumi",
+   "en": "I'd like to request a match with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_COOP_07_00#0",
+   "speaker": "Hifumi",
+   "en": "I'm sorry. I'm not in the mood for[n]a match right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_COOP_07_00#1",
+   "speaker": "Hifumi",
+   "en": "I can't teach you shogi right now...[n]or rather, from now on...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_COOP_07_00#2",
+   "speaker": "Hifumi",
+   "en": "I'm... at checkmate right now. My only[n]option is to concede... but... I can't[n]seem to give up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_COOP_07_00#3",
+   "speaker": "Hifumi",
+   "en": "I'm not sure what my next move is[n]after this checkmate...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C17_COOP_07_01#0",
+   "speaker": null,
+   "en": "Hifumi seems troubled...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C17_COOP_07_01#1",
+   "speaker": null,
+   "en": "If my [stIcon 0][clr 26][stLabel 0][clr 27] was at [clr 26][stLvLabel 0 5][clr 27][n]level, I might be able to show[n]Hifumi her next move...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C17_COOP_07_02#0",
+   "speaker": null,
+   "en": "Hifumi seems troubled...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C17_COOP_07_02#1",
+   "speaker": null,
+   "en": "With my overflowing [stIcon 0][clr 26][stLabel 0][clr 27],[n]I might be able to show Hifumi[n]her next move...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_COOP_07_10#0",
+   "speaker": "Hifumi",
+   "en": "I'm happy that I was able to talk to you,[n]but I just can't make my mind up right[n]now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_COOP_07_10#1",
+   "speaker": "Hifumi",
+   "en": "Even though it was all for the good of[n]my family, those fixed matches... and[n]my mother...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C17_COOP_07_11#0",
+   "speaker": null,
+   "en": "Hifumi is troubled about[n]what she should do...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C17_COOP_07_11#1",
+   "speaker": null,
+   "en": "I acquired Hifumi's mother's[n]name. Let's go to Mementos[n]and change her mother's heart...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_COOP_07_20#0",
+   "speaker": "Hifumi",
+   "en": "...The thing is, something unexpected[n]happened...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_COOP_07_20#1",
+   "speaker": "Hifumi",
+   "en": "Can we talk?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_COOP_08_00#0",
+   "speaker": "Hifumi",
+   "en": "I did what I could to prepare for the[n]exhibition match.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_COOP_08_00#1",
+   "speaker": "Hifumi",
+   "en": "And so... Oh, do you have some time?[n]...I'm feeling a bit anxious.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_COOP_09_00#0",
+   "speaker": "Hifumi",
+   "en": "From a teacher to her student, there's[n]something I'd like to ask you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_COOP_09_00#1",
+   "speaker": "Hifumi",
+   "en": "Will you play a match with me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_COOP_09_01#0",
+   "speaker": "Hifumi",
+   "en": "Um, may I ask you to join me today?[n]Maybe we can talk as we play...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_DOUZOKUSEI#0",
+   "speaker": null,
+   "en": "I feel I can become closer with[n]Hifumi thanks to the [var 2][n]Persona [clr 1][var 5][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANKUP_OK#0",
+   "speaker": null,
+   "en": "I feel like my bond with Hifumi[n]will grow stronger soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANKUP_QUEST#0",
+   "speaker": null,
+   "en": "I feel like my bond with Hifumi[n]will grow stronger soon, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANKUP_NG#0",
+   "speaker": null,
+   "en": "I don't think my bond with[n]Hifumi will deepen just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANK_MAX_00#0",
+   "speaker": null,
+   "en": "I have a strong bond[n]with Hifumi...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANK_MAX_01#0",
+   "speaker": null,
+   "en": "I have a special bond[n]with Hifumi...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_SHIDOU#0",
+   "speaker": "Morgana",
+   "en": "Nobody thinks you're alive at this point,[n]so it should be okay as long as you're[n]careful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_DAY#0",
+   "speaker": "Morgana",
+   "en": "So, what are you thinking? Do you[n]want to hang out with Hifumi?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_DAY_3_5#0",
+   "speaker": "Morgana",
+   "en": "What are you gonna do? Are you[n]gonna talk to Hifumi?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_DAY_2#0",
+   "speaker": "Morgana",
+   "en": "So, what are you thinking? Do you[n]want to hang out with Hifumi?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK#0",
+   "speaker": null,
+   "en": "Hang out with her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK#1",
+   "speaker": null,
+   "en": "Check bond with Hifumi",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK#2",
+   "speaker": null,
+   "en": "Decline",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_3_5#0",
+   "speaker": null,
+   "en": "Go talk to her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_3_5#1",
+   "speaker": null,
+   "en": "Check bond with Hifumi",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_3_5#2",
+   "speaker": null,
+   "en": "Decline",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_YES_01_00#0",
+   "speaker": "Hifumi",
+   "en": "Well then, I look forward to this match.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_YES_03_00#0",
+   "speaker": "Hifumi",
+   "en": "After we finish this match, let's go to a[n]secondhand bookstore.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_YES_05_00#0",
+   "speaker": "Hifumi",
+   "en": "Thank you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_YES_05_00#1",
+   "speaker": "Hifumi",
+   "en": "I was thinking of going to the area[n]around the Skytree today...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_YES_05_00#2",
+   "speaker": "Hifumi",
+   "en": "Let's head on over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_YES_06_00#0",
+   "speaker": "Hifumi",
+   "en": "Thank you. I look forward to it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_YES_07_01#0",
+   "speaker": "Hifumi",
+   "en": "What...? You'll help me think...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_YES_07_01#1",
+   "speaker": "Hifumi",
+   "en": "Thank you...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_YES_07_00#0",
+   "speaker": "Hifumi",
+   "en": "Please sit down so we can talk.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_YES_08_00#0",
+   "speaker": "Hifumi",
+   "en": "Thank you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_YES_08_00#1",
+   "speaker": "Hifumi",
+   "en": "...After I confessed, I was scorned by the[n]media. I bet everyone wants me to lose.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_YES_08_00#2",
+   "speaker": "Hifumi",
+   "en": "However, I'm not going to give them the[n]satisfaction. I'm going to win... with these[n]very hands.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_YES_08_01#0",
+   "speaker": null,
+   "en": "Give it all you got.[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_YES_08_01#1",
+   "speaker": null,
+   "en": "Do you feel confident?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_YES_08_01#2",
+   "speaker": null,
+   "en": "You can do it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_YES_08_02#0",
+   "speaker": "Hifumi",
+   "en": "Of course!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_YES_08_03#0",
+   "speaker": "Hifumi",
+   "en": "...No.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_YES_08_03#1",
+   "speaker": "Hifumi",
+   "en": "But I don't intend to simply let him win.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_YES_08_04#0",
+   "speaker": "Hifumi",
+   "en": "We shall see.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_YES_08_04#1",
+   "speaker": "Hifumi",
+   "en": "But I'll do my very best.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_YES_08_05#0",
+   "speaker": "Hifumi",
+   "en": "Well, it's time. I have to go to the venue.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_YES_08_05#1",
+   "speaker": "Hifumi",
+   "en": "You won't be able to go inside the match[n]room, but you can watch over the[n]internet, if you'd like.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_YES_08_05#2",
+   "speaker": "Hifumi",
+   "en": "Now... I should be going.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_YES_09_00#0",
+   "speaker": "Hifumi",
+   "en": "I have a favor to ask of you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_YES_09_00#1",
+   "speaker": "Hifumi",
+   "en": "I want to do a lesson in your room...[n]Is that... all right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_YES_09_01#0",
+   "speaker": "Hifumi",
+   "en": "Thank you. Please take a seat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_COOP_ESCAPE#0",
+   "speaker": "Morgana",
+   "en": "Well, I'm gonna walk around. Let me[n]know when you're ready to leave.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_YES_00_00#0",
+   "speaker": "Hifumi",
+   "en": "Now, time for the lesson.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_YES_10_00#0",
+   "speaker": "Hifumi",
+   "en": "Thanks for your concern.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_YES_10_00#1",
+   "speaker": "Hifumi",
+   "en": "No holding back... Okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_YES_10_01#0",
+   "speaker": "Hifumi",
+   "en": "Thanks for your concern.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_YES_10_01#1",
+   "speaker": "Hifumi",
+   "en": "No holding back... I'll be giving it my all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C17_SPOT_01_01#0",
+   "speaker": null,
+   "en": "Maybe I should invite[n]her to Inokashira Park...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_SPOT_01_02#0",
+   "speaker": null,
+   "en": "Invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_SPOT_01_02#1",
+   "speaker": null,
+   "en": "Don't invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_01_03#0",
+   "speaker": "Hifumi",
+   "en": "I see... That's an excellent idea.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_01_03#1",
+   "speaker": "Hifumi",
+   "en": "I know it's sudden, but I'd like[n]you to take me there. I might be[n]able to think of a good move.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C17_SPOT_02_01#0",
+   "speaker": null,
+   "en": "Jinbocho might have some old[n]textbooks for Hifumi...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C17_SPOT_02_01#1",
+   "speaker": null,
+   "en": "Maybe I should invite[n]her to Book Town...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_SPOT_02_02#0",
+   "speaker": null,
+   "en": "Invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_SPOT_02_02#1",
+   "speaker": null,
+   "en": "Don't invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_02_03#0",
+   "speaker": "Hifumi",
+   "en": "Indeed, that place may have knowledge[n]that I have yet to discover...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_02_03#1",
+   "speaker": "Hifumi",
+   "en": "Well then, let's go there right away.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C17_SPOT_03_01#0",
+   "speaker": null,
+   "en": "Maybe I should invite her to ride[n]the Odaiba Ferris wheel with me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_SPOT_03_02#0",
+   "speaker": null,
+   "en": "Invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_SPOT_03_02#1",
+   "speaker": null,
+   "en": "Don't invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_03_03#0",
+   "speaker": "Hifumi",
+   "en": "What!? Are you sure!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_03_03#1",
+   "speaker": "Hifumi",
+   "en": "I'm sorry, it's supposed to be time[n]for your lesson...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_03_03#2",
+   "speaker": "Hifumi",
+   "en": "That sounds great. I'd love that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C17_SPOT_04_01#0",
+   "speaker": null,
+   "en": "Maybe I should invite[n]her to Destinyland...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_SPOT_04_02#0",
+   "speaker": null,
+   "en": "Invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_SPOT_04_02#1",
+   "speaker": null,
+   "en": "Don't invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_04_03#0",
+   "speaker": "Hifumi",
+   "en": "What!? Are you sure!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_04_03#1",
+   "speaker": "Hifumi",
+   "en": "I'm sorry, it's supposed to be time[n]for your lesson...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_04_03#2",
+   "speaker": "Hifumi",
+   "en": "This would be my first time, so[n]I'll be relying on you a lot.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C17_SPOT_05_01#0",
+   "speaker": null,
+   "en": "Maybe I should invite her to go[n]to the Wilton buffet with me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_SPOT_05_02#0",
+   "speaker": null,
+   "en": "Invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_SPOT_05_02#1",
+   "speaker": null,
+   "en": "Don't invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_05_03#0",
+   "speaker": "Hifumi",
+   "en": "Is this a place you recommend?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_05_03#1",
+   "speaker": "Hifumi",
+   "en": "Coming from you, it must be great.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C17_SPOT_06_01#0",
+   "speaker": null,
+   "en": "Should I invite her to my room?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_SPOT_06_02#0",
+   "speaker": null,
+   "en": "Invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_SPOT_06_02#1",
+   "speaker": null,
+   "en": "Don't invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_06_03#0",
+   "speaker": "Hifumi",
+   "en": "What...!? Are you sure!? I-I'll go get[n]ready right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_SPOT_06_03#1",
+   "speaker": "Hifumi",
+   "en": "I-I don't need to bring the shogi board[n]today, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_COOP_CANCEL_00#0",
+   "speaker": "Hifumi",
+   "en": "Is that so...? Please feel free to stop[n]by again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_COOP_CANCEL_24#0",
+   "speaker": "Morgana",
+   "en": "Aren't you going to help her out?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_KANDA#0",
+   "speaker": null,
+   "en": "You can now go to [clr 1]Kanda[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINJUKU#0",
+   "speaker": null,
+   "en": "You can now go to [clr 2]Shinjuku[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_AKIHABARA#0",
+   "speaker": null,
+   "en": "You can now go to [clr 2]Akihabara[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_AKIHABARA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_INOKASHIRA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Inokashira Park[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_INOKASHIRA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_OGIKUBO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ogikubo Ramen[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_OGIKUBO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy eating ramen[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ODAIBA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Odaiba Seaside Park[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ODAIBA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like such parks to[n]hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_UENO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ueno Museum[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_UENO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy art museums[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TSUKISHIMA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Tsukishima Monja[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TSUKISHIMA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy eating monjayaki[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_HARAJUKU#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Harajuku Takenoko Street[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_HARAJUKU#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy Takenoko Street[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TYUKAGAI#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Motomachi Chinatown[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TYUKAGAI#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MAIHAMA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Maihama Destinyland[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MAIHAMA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ASAKUSA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Asakusa[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ASAKUSA#1",
+   "speaker": null,
+   "en": "You can also invite people who may[n]enjoy the Skytree or Nakamise Street[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_IKEBUKURO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ikebukuro Planetarium[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_IKEBUKURO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MEIJIJINGU#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Meiji Shrine[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MEIJIJINGU#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MEIJIJINGU#2",
+   "speaker": null,
+   "en": "Furthermore, you can go by[n]yourself to pay homage to[n]the shrine if you wish.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SUIDOUBASH#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Suidobashi Dome Town[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SUIDOUBASH#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHIBUYA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Shibuya Wilton Hotel[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHIBUYA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_GINZA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ginza Sushi Bar[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_GINZA#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may enjoy eating expensive sushi[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_JINBOCHO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Jinbocho Book Town[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_JINBOCHO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_JINBOCHO#2",
+   "speaker": null,
+   "en": "Furthermore, you can go by[n]yourself for some shopping[n]if you so desire.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ICHIGAYA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ichigaya Fishing Pond[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ICHIGAYA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy fishing to[n]hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ICHIGAYA#2",
+   "speaker": null,
+   "en": "Furthermore, you can go by[n]yourself and try your hand at[n]fishing if you so choose.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINAGAWA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Shinagawa Aquarium[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINAGAWA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy the aquarium[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_NAKANO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Nakano Commerce Building District[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_NAKANO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy that location[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_00#0",
+   "speaker": "Hifumi",
+   "en": "Oh! I've been waiting for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_00#1",
+   "speaker": "Hifumi",
+   "en": "I have a shogi tournament tomorrow,[n]so I can't see you off, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_00#2",
+   "speaker": "Hifumi",
+   "en": "Um... have a safe trip.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_BYEGREET_00_01#0",
+   "speaker": null,
+   "en": "Will do.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_BYEGREET_00_01#1",
+   "speaker": null,
+   "en": "Good luck tomorrow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_BYEGREET_00_01#2",
+   "speaker": null,
+   "en": "I'll come visit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_02#0",
+   "speaker": "Hifumi",
+   "en": "...Please take care of yourself. I'll visit[n]once things have calmed down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_02#1",
+   "speaker": "Hifumi",
+   "en": "If I do well, that will make it ten straight[n]wins... I'll work hard so I can give you a[n]good report.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_03#0",
+   "speaker": "Hifumi",
+   "en": "Yes, I'll do my best...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_03#1",
+   "speaker": "Hifumi",
+   "en": "If I do well, that will make it ten straight[n]wins... I'll work hard so I can give you a[n]good report.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_04#0",
+   "speaker": "Hifumi",
+   "en": "I'm happy to hear that... I'll visit you[n]as well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_04#1",
+   "speaker": "Hifumi",
+   "en": "If I do well, that will make it ten straight[n]wins... I'll work hard so I can give you[n]a good report.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_05#0",
+   "speaker": "Hifumi",
+   "en": "After hearing that you're going home,[n]I prepared myself for this moment[n]every day...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_05#1",
+   "speaker": "Hifumi",
+   "en": "But this isn't our last farewell. ...Oh yes,[n]please take this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_06#0",
+   "speaker": "Hifumi",
+   "en": "The lance piece moves exclusively[n]forward. No other direction is[n]possible until it is promoted.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_06#1",
+   "speaker": "Hifumi",
+   "en": "Thanks to you, I became stronger.[n]...Not just as a shogi player, but as[n]a person as well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_06#2",
+   "speaker": "Hifumi",
+   "en": "I plan on continuing to challenge[n]myself to see how far I can go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_06#3",
+   "speaker": "Hifumi",
+   "en": "...You won't be victorious if you take[n]your eyes off them. It is the same in[n]shogi and romance, yes?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_07#0",
+   "speaker": "Hifumi",
+   "en": "...You won't be victorious if you take[n]your eyes off them. It is the same in[n]shogi and romance, yes?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_00#0",
+   "speaker": "Hifumi",
+   "en": "Ohhh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_00#1",
+   "speaker": "Hifumi",
+   "en": "...You came to visit. You're going home[n]tomorrow, correct?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_00#2",
+   "speaker": "Hifumi",
+   "en": "To tell you the truth... I have an important[n]shogi tournament tomorrow as well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_BYEGREET_01_01#0",
+   "speaker": null,
+   "en": "I'll be cheering you on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_BYEGREET_01_01#1",
+   "speaker": null,
+   "en": "You're working hard.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_BYEGREET_01_01#2",
+   "speaker": null,
+   "en": "How confident are you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_02#0",
+   "speaker": "Hifumi",
+   "en": "Thank you very much.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_02#1",
+   "speaker": "Hifumi",
+   "en": "If I do well, that will make it ten straight[n]wins... I'll work hard so I can give you a[n]good report.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_03#0",
+   "speaker": "Hifumi",
+   "en": "Yes, thanks to you... Lately, I've been[n]able to sense my own growth.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_03#1",
+   "speaker": "Hifumi",
+   "en": "If I do well, that will make it ten straight[n]wins... I'll work hard so I can give you a[n]good report.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_04#0",
+   "speaker": "Hifumi",
+   "en": "It's against someone I can't take lightly.[n]Strangely though, I don't feel as if I'll lose...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_04#1",
+   "speaker": "Hifumi",
+   "en": "If I do well, that will make it ten straight[n]wins... I'll work hard so I can give you[n]a good report.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_05#0",
+   "speaker": "Hifumi",
+   "en": "Oh yes, here... I want you to have this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_06#0",
+   "speaker": "Hifumi",
+   "en": "The lance piece moves exclusively[n]forward. Until it is promoted, it can[n]only move onward, never back.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_06#1",
+   "speaker": "Hifumi",
+   "en": "...I learned much more than just new[n]moves on the shogi board from you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_06#2",
+   "speaker": "Hifumi",
+   "en": "I truly am no match for you... which is[n]strange... considering I'm your former[n]teacher.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_07#0",
+   "speaker": "Hifumi",
+   "en": "I truly am no match for you... which is[n]strange... considering I'm your former[n]teacher.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_00_5#0",
+   "speaker": "Hifumi",
+   "en": "Oh! I've been waiting for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_00_5#1",
+   "speaker": "Hifumi",
+   "en": "I have a shogi tournament tomorrow,[n]so I can't see you off, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_00_5#2",
+   "speaker": "Hifumi",
+   "en": "Um... have a safe trip.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_BYEGREET_00_01_5#0",
+   "speaker": null,
+   "en": "Will do.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_BYEGREET_00_01_5#1",
+   "speaker": null,
+   "en": "Good luck tomorrow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_BYEGREET_00_01_5#2",
+   "speaker": null,
+   "en": "I'll come visit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_02_5#0",
+   "speaker": "Hifumi",
+   "en": "...Please take care of yourself. I'll visit[n]once things have calmed down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_02_5#1",
+   "speaker": "Hifumi",
+   "en": "If I do well, that will make it ten straight[n]wins... I'll work hard so I can give you a[n]good report.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_03_5#0",
+   "speaker": "Hifumi",
+   "en": "Yes, I'll do my best...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_03_5#1",
+   "speaker": "Hifumi",
+   "en": "If I do well, that will make it ten straight[n]wins... I'll work hard so I can give you a[n]good report.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_04_5#0",
+   "speaker": "Hifumi",
+   "en": "I'm happy to hear that... I'll visit you[n]as well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_04_5#1",
+   "speaker": "Hifumi",
+   "en": "If I do well, that will make it ten straight[n]wins... I'll work hard so I can give you[n]a good report.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_05_5#0",
+   "speaker": "Hifumi",
+   "en": "After hearing that you're going home,[n]I prepared myself for this moment[n]every day...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_05_5#1",
+   "speaker": "Hifumi",
+   "en": "But somehow, seeing your face has[n]dispelled all anxiety. If anything, I feel[n]oddly optimistic.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_05_5#2",
+   "speaker": "Hifumi",
+   "en": "It's a strange clarity. Like I can see all[n]possibilities on the board, and grasp[n]all of them at once...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_05_5#3",
+   "speaker": "Hifumi",
+   "en": "Thus, my next move is clear. I'd like to[n]give you this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_06_5#0",
+   "speaker": "Hifumi",
+   "en": "The lance piece moves exclusively[n]forward. No other direction is[n]possible until it is promoted.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_06_5#1",
+   "speaker": "Hifumi",
+   "en": "Our lives demand the maneuvers of[n]a Lance. And so we shall continue[n]onward on our own paths.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_06_5#2",
+   "speaker": "Hifumi",
+   "en": "However, a promoted Lance can also[n]move sideways. If so deployed, it can[n]even end up next to another...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_06_5#3",
+   "speaker": "Hifumi",
+   "en": "...So now we will part ways, if only[n]briefly. When we have promoted,[n]we'll find each other again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_00_07_5#0",
+   "speaker": "Hifumi",
+   "en": "...So now we will part ways, if only[n]briefly. When we have promoted,[n]we will find each other again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_00_5#0",
+   "speaker": "Hifumi",
+   "en": "Oh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_00_5#1",
+   "speaker": "Hifumi",
+   "en": "...You came to visit. You're going home[n]tomorrow, correct?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_00_5#2",
+   "speaker": "Hifumi",
+   "en": "To tell you the truth... I have an important[n]shogi tournament tomorrow as well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_BYEGREET_01_01_5#0",
+   "speaker": null,
+   "en": "I'll be cheering you on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_BYEGREET_01_01_5#1",
+   "speaker": null,
+   "en": "You're working hard.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C17_BYEGREET_01_01_5#2",
+   "speaker": null,
+   "en": "How confident are you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_02_5#0",
+   "speaker": "Hifumi",
+   "en": "Thank you very much.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_02_5#1",
+   "speaker": "Hifumi",
+   "en": "If I do well, that will make it ten straight[n]wins... I'll work hard so I can give you a[n]good report.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_03_5#0",
+   "speaker": "Hifumi",
+   "en": "Yes, thanks to you... Lately, I've been[n]able to sense my own growth.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_03_5#1",
+   "speaker": "Hifumi",
+   "en": "If I do well, that will make it ten straight[n]wins... I'll work hard so I can give you a[n]good report.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_04_5#0",
+   "speaker": "Hifumi",
+   "en": "It's against someone I can't take lightly.[n]Strangely though, I don't feel as if I'll lose...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_04_5#1",
+   "speaker": "Hifumi",
+   "en": "If I do well, that will make it ten straight[n]wins... I'll work hard so I can give you[n]a good report.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_05_5#0",
+   "speaker": "Hifumi",
+   "en": "That's quite a smile. Like a knight[n]standing victorious at the end of a[n]grand siege...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_05_5#1",
+   "speaker": "Hifumi",
+   "en": "But I suppose a knight can't remain[n]idle for too long... His presence is still[n]needed elsewhere, I take it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_05_5#2",
+   "speaker": "Hifumi",
+   "en": "If my shogi skills have truly helped[n]such a dauntless champion, then it[n]has been an honor and a pleasure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_05_5#3",
+   "speaker": "Hifumi",
+   "en": "From one player to another, I have a[n]parting gift for you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_06_5#0",
+   "speaker": "Hifumi",
+   "en": "The lance piece moves exclusively[n]forward. Until it is promoted, it can[n]only move onward, never back.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_06_5#1",
+   "speaker": "Hifumi",
+   "en": "So let us continue on our own paths.[n]Even if we have to part ways for now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_06_5#2",
+   "speaker": "Hifumi",
+   "en": "One day, when the two of us Lances[n]have been promoted, we will retrace[n]our steps and meet again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C17_BYEGREET_01_07_5#0",
+   "speaker": "Hifumi",
+   "en": "One day, when the two of us Lances[n]have been promoted, we will retrace[n]our steps and meet again.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

@@ -1,0 +1,943 @@
+{
+ "file": "EN/BATTLE/EVENT/SCRIPT/0308.BF",
+ "entries": [
+  {
+   "id": "MSG_BTLSTART_000_008#0",
+   "speaker": "Haru",
+   "en": "It's time you surrender, Father!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_000_007#0",
+   "speaker": "Futaba",
+   "en": "You're trapped! Give it up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_010_000#0",
+   "speaker": "Shadow Okumura",
+   "en": "Give up...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_030_000#0",
+   "speaker": "Shadow Okumura",
+   "en": "Try saying that after you've taken down[n]my company's elite soldiers!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_040_008#0",
+   "speaker": "Haru",
+   "en": "No! There are more!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_040_007#0",
+   "speaker": "Futaba",
+   "en": "What, more of them!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_050_000#0",
+   "speaker": "Shadow Okumura",
+   "en": "Go, my employees! Be the foundation[n]upon which my victory is built...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMMON_000_008#0",
+   "speaker": "Haru",
+   "en": "Even more!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMMON_000_007#0",
+   "speaker": "Futaba",
+   "en": "They've got more!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMMON_010_000#0",
+   "speaker": "Shadow Okumura",
+   "en": "Every problem can be solved with[n]more manpower...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMMON_010_000#1",
+   "speaker": "Shadow Okumura",
+   "en": "That is the strength of my company!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMMON_020_008#0",
+   "speaker": "Haru",
+   "en": "Happiness based on the sacrifices of[n]others isn't true happiness...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMMON_020_007#0",
+   "speaker": "Futaba",
+   "en": "That's not something to be proud of...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOMB_000_008#0",
+   "speaker": "Haru",
+   "en": "I-It self-destructed...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOMB_000_007#0",
+   "speaker": "Futaba",
+   "en": "Did it just blow itself up...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOMB_010_000#0",
+   "speaker": "Shadow Okumura",
+   "en": "Hahaha! My workers will obey any[n]order I give to them!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOMB_010_000#1",
+   "speaker": "Shadow Okumura",
+   "en": "Don't you think their loyalty is[n]incredible!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOMB_020_008#0",
+   "speaker": "Haru",
+   "en": "I can't believe this...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOMB_020_007#0",
+   "speaker": "Futaba",
+   "en": "They just aren't allowed to disobey[n]you...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SENNMU_000_000#0",
+   "speaker": "Shadow Okumura",
+   "en": "Hm...!? It seems ordinary workers are[n]not fit for the job!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SENNMU_000_000#1",
+   "speaker": "Shadow Okumura",
+   "en": "Executive Director! Come to me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SENNMU_010_000#0",
+   "speaker": "Shadow Okumura",
+   "en": "Now then, fulfill your duty as my[n]right-hand man!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SENNMU_020_000#0",
+   "speaker": "Shadow Okumura",
+   "en": "For the eternal prosperity of[n]Okumura Foods!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SENMU75_000_000#0",
+   "speaker": "Shadow Okumura",
+   "en": "Hm...!? What are you doing!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SENMU75_000_000#1",
+   "speaker": "Shadow Okumura",
+   "en": "Work harder! Contribute more! The fate[n]of my company rests upon how hard[n]you work!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SENMU25_000_000#0",
+   "speaker": "Shadow Okumura",
+   "en": "Hey! Losing is not an option here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SENMU25_000_000#1",
+   "speaker": "Shadow Okumura",
+   "en": "You carry the Okumura Foods company[n]name! Kill those thieves, even if it costs[n]you your life!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ONRY_000_000#0",
+   "speaker": "Shadow Okumura",
+   "en": "What...!? Even him...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ONRY_030_000#0",
+   "speaker": "Shadow Okumura",
+   "en": "Grrr, someone! Is there anyone here!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ONRY_040_000#0",
+   "speaker": "Shadow Okumura",
+   "en": "Wh-Why isn't anyone coming!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ONRY_050_008#0",
+   "speaker": "Haru",
+   "en": "Father... you've been forsaken even by[n]your own employees...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ONRY_050_008#1",
+   "speaker": "Haru",
+   "en": "Let's end this, Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ONRY_050_007#0",
+   "speaker": "Futaba",
+   "en": "Is that the last of the minions?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ONRY_051_007#0",
+   "speaker": "Futaba",
+   "en": "Let's finish him, Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_000_008EX#0",
+   "speaker": "Haru",
+   "en": "It's time you surrender, Father!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_000_007EX#0",
+   "speaker": "Futaba",
+   "en": "You're trapped! Give it up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_010_000EX#0",
+   "speaker": "Shadow Okumura",
+   "en": "Give up...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_030_000EX#0",
+   "speaker": "Shadow Okumura",
+   "en": "Try saying that after you've taken down[n]my company's elite soldiers!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_040_008EX#0",
+   "speaker": "Haru",
+   "en": "No! There are more!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_040_007EX#0",
+   "speaker": "Futaba",
+   "en": "Wha— More enemies!? [clr 2]If we don't take[n]'em down quick[clr 27], we're doomed!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_050_000EX#0",
+   "speaker": "Shadow Okumura",
+   "en": "Go, my employees! Be the foundation[n]upon which my victory is built...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMMON_000_008EX#0",
+   "speaker": "Haru",
+   "en": "Even more!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMMON_000_007EX#0",
+   "speaker": "Futaba",
+   "en": "They've got more!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMMON_010_000EX#0",
+   "speaker": "Shadow Okumura",
+   "en": "Every problem can be solved with[n]more manpower...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMMON_010_000EX#1",
+   "speaker": "Shadow Okumura",
+   "en": "That is the strength of my company!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMMON_020_008EX#0",
+   "speaker": "Haru",
+   "en": "Happiness based on the sacrifices of[n]others isn't true happiness...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMMON_020_007EX#0",
+   "speaker": "Futaba",
+   "en": "That's not something to be proud of...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOMB_000_008EX#0",
+   "speaker": "Haru",
+   "en": "I-It self-destructed...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOMB_000_007EX#0",
+   "speaker": "Futaba",
+   "en": "Did it just blow itself up...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOMB_010_000EX#0",
+   "speaker": "Shadow Okumura",
+   "en": "Hahaha! My workers will obey any[n]order I give to them!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOMB_010_000EX#1",
+   "speaker": "Shadow Okumura",
+   "en": "Don't you think their loyalty is[n]incredible!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOMB_020_008EX#0",
+   "speaker": "Haru",
+   "en": "I can't believe this...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOMB_020_007EX#0",
+   "speaker": "Futaba",
+   "en": "They just aren't allowed to disobey[n]you...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SENNMU_000_000EX#0",
+   "speaker": "Shadow Okumura",
+   "en": "Hm...!? It seems ordinary workers are[n]not fit for the job!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SENNMU_000_000EX#1",
+   "speaker": "Shadow Okumura",
+   "en": "Executive Director! Come to me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SENNMU_010_000EX#0",
+   "speaker": "Shadow Okumura",
+   "en": "Now then, fulfill your duty as my[n]right-hand man!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SENNMU_020_000EX#0",
+   "speaker": "Shadow Okumura",
+   "en": "For the eternal prosperity of[n]Okumura Foods!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SENMU75_000_000EX#0",
+   "speaker": "Shadow Okumura",
+   "en": "Hm...!? What are you doing!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SENMU75_000_000EX#1",
+   "speaker": "Shadow Okumura",
+   "en": "Work harder! Contribute more! The fate[n]of my company rests upon how hard[n]you work!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SENMU25_000_000EX#0",
+   "speaker": "Shadow Okumura",
+   "en": "Hey! Losing is not an option here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SENMU25_000_000EX#1",
+   "speaker": "Shadow Okumura",
+   "en": "You carry the Okumura Foods company[n]name! Kill those thieves, even if it costs[n]you your life!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ONRY_000_000EX#0",
+   "speaker": "Shadow Okumura",
+   "en": "What...!? Even him...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ONRY_030_000EX#0",
+   "speaker": "Shadow Okumura",
+   "en": "Grrr, someone! Is there anyone here!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ONRY_040_000EX#0",
+   "speaker": "Shadow Okumura",
+   "en": "Wh-Why isn't anyone coming!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ONRY_050_008EX#0",
+   "speaker": "Haru",
+   "en": "Father... you've been forsaken even by[n]your own employees...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ONRY_050_008EX#1",
+   "speaker": "Haru",
+   "en": "Let's end this, Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ONRY_050_007EX#0",
+   "speaker": "Futaba",
+   "en": "Is that the last of the minions?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ONRY_051_007EX#0",
+   "speaker": "Futaba",
+   "en": "Let's finish him, Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_ADD_001#0",
+   "speaker": "Shadow Okumura",
+   "en": "Now, my devoted workers! Targeting[n]them at random won't do the trick!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_ADD_001#1",
+   "speaker": "Shadow Okumura",
+   "en": "You have to take each one out individually—[n]here, target that one first!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_TARGET_001#0",
+   "speaker": "Shadow Okumura",
+   "en": "The pompous man in the black coat!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_TARGET_002#0",
+   "speaker": "Shadow Okumura",
+   "en": "The obnoxious blond one!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_TARGET_003#0",
+   "speaker": "Shadow Okumura",
+   "en": "That... bizarre, black-and-white thing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_TARGET_004#0",
+   "speaker": "Shadow Okumura",
+   "en": "The slutty-looking woman in red!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_TARGET_005#0",
+   "speaker": "Shadow Okumura",
+   "en": "The oddball with the fox mask!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_TARGET_006#0",
+   "speaker": "Shadow Okumura",
+   "en": "The barbaric, dark-haired woman!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_TARGET_007#0",
+   "speaker": "Shadow Okumura",
+   "en": "The phony with the face of my daughter!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_TARGET_NON1#0",
+   "speaker": "Corporobo",
+   "en": "I CANNOT FIND THE TARGET!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_TARGET_NON2#0",
+   "speaker": "Corporobo",
+   "en": "PRESIDENT OKUMURA! I CANNOT[n]FIND THE TARGET!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_TARGET_CHAN#0",
+   "speaker": "Shadow Okumura",
+   "en": "There, you've taken them out. Next,[n]focus on that one!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_TARGET_CHAN_2#0",
+   "speaker": "Shadow Okumura",
+   "en": "Ugh, what an underhanded move![n]Target that one instead!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_TARGET_CHAN_3#0",
+   "speaker": "Shadow Okumura",
+   "en": "Hey! What's the holdup? Can't you[n]scrap heaps do one simple job?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_TARGET_CHAN_3#1",
+   "speaker": "Shadow Okumura",
+   "en": "Enough of this! Target that one next!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SYAIN_ESCAPED01#0",
+   "speaker": "Futaba",
+   "en": "Wha— Hey! Where do you think you're[n]going!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SYAIN_ESCAPED02#0",
+   "speaker": "Shadow Okumura",
+   "en": "Hmph, losing some disposable[n]employees is nothing to me. I have[n]more than enough to replace them!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SYAIN_ESCAPED02#1",
+   "speaker": "Shadow Okumura",
+   "en": "You've made a grave error[n]underestimating my company[n]body!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SYAIN_REINFORCED#0",
+   "speaker": "Futaba",
+   "en": "Dammit, just how many of them are[n]there!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SYAIN_REINFORCED_2#0",
+   "speaker": "Futaba",
+   "en": "Taking 'em down one at a time won't[n]do the trick—[clr 2]get rid of 'em all at once[clr 27][n]so you can strike Okumura!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SYAIN_SWEPT01#0",
+   "speaker": "Shadow Okumura",
+   "en": "Hmph, so my ordinary workers can't[n]meet demands here. In that case...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SYAIN_SWEPT02#0",
+   "speaker": "Shadow Okumura",
+   "en": "Ugh, damn these thieves... Chief Clerk![n]Get in here and take care of this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SYAIN_SWEPT03#0",
+   "speaker": "Shadow Okumura",
+   "en": "Dammit! Hey, Section Chief! Get these[n]loudmouth brats out of my sight!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SYAIN_SWEPT04#0",
+   "speaker": "Shadow Okumura",
+   "en": "Argh... Your time has arrived, Chief[n]Director! Go forth and show them[n]the weight of the corporate elite!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_EP_00#0",
+   "speaker": "Shadow Okumura",
+   "en": "Seriously, how useless can you all be!?[n]Whatever's become of company loyalty?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_EP_02#0",
+   "speaker": "Shadow Okumura",
+   "en": "...Very well then, Haru! Teach our[n]employees how to demonstrate[n]their loyalty properly!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_EP_03#0",
+   "speaker": "Cognitive Haru Okumura",
+   "en": "Yes, Father!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_EP_03B#0",
+   "speaker": "Haru",
+   "en": "Huh!? M-Me!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_EP_03C#0",
+   "speaker": "Futaba",
+   "en": "Wha— Noir!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_EP_04#0",
+   "speaker": "Shadow Okumura",
+   "en": "My Haru faithfully obeys my orders![n]After all, she's nothing like your[n]charlatan!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_EP_05#0",
+   "speaker": "Haru",
+   "en": "Basically... that's my father's cognitive[n]version of me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_EP_05B#0",
+   "speaker": "Futaba",
+   "en": "I see... So that's Okumura's cognition[n]of Haru...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_EP_07#0",
+   "speaker": "Futaba",
+   "en": "Hey guys, don't let this get to you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_EP_07#1",
+   "speaker": "Futaba",
+   "en": "Just remember: once we take Okumura[n]down, it'll all be over. Let's wrap this up[n]quick!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_EP_08#0",
+   "speaker": "Shadow Okumura",
+   "en": "Not happening. You shouldn't have[n]underestimated the strength of my[n]company.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_EP_08#1",
+   "speaker": "Shadow Okumura",
+   "en": "Employees, fall in line!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_ENHANCE#0",
+   "speaker": "Shadow Okumura",
+   "en": "I won't let some petty thieves stand[n]in the company's— No, in MY way!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_ENHANCE_2#0",
+   "speaker": "Shadow Okumura",
+   "en": "Any who disagrees with my vision[n]will be struck down as an example!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_ENHANCE_3#0",
+   "speaker": "Cognitive Haru Okumura",
+   "en": "My father's words are absolute.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_ENHANCE_4#0",
+   "speaker": "Cognitive Haru Okumura",
+   "en": "There are no flaws in my father's logic.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_ENHANCE_5#0",
+   "speaker": "Shadow Okumura",
+   "en": "There's a good daughter! Now I can[n]take pride in my work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_ENHANCE_6#0",
+   "speaker": "Shadow Okumura",
+   "en": "That's right, Haru. One must strike[n]the enemy while the iron is hot!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_GO_01#0",
+   "speaker": "Shadow Okumura",
+   "en": "Dammit! If that's how it is...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_GO_01#1",
+   "speaker": "Shadow Okumura",
+   "en": "Haru, I command you to go forth![n]Show them the might of our company!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_GO_02#0",
+   "speaker": "Cognitive Haru Okumura",
+   "en": "Yes, Father!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_GO_02B#0",
+   "speaker": "Shadow Okumura",
+   "en": "Okumura Foods will be gutted if I fall![n]Do you grasp the situation here, Haru?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_GO_02B2#0",
+   "speaker": "Cognitive Haru Okumura",
+   "en": "Of course, Father!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_GO_02C#0",
+   "speaker": "Shadow Okumura",
+   "en": "Well, then protect me—even if it costs you[n]your life!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_GO_02C2#0",
+   "speaker": "Cognitive Haru Okumura",
+   "en": "As you wish, Father!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_GO_02D#0",
+   "speaker": "Haru",
+   "en": "This is how my father sees me...[n]Nothing more than a puppet[n]that dances when ordered...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_GO_02E#0",
+   "speaker": "Futaba",
+   "en": "I can't believe this guy! A child isn't some[n]kinda puppet or tool to be used!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_GO_02F#0",
+   "speaker": "Cognitive Haru Okumura",
+   "en": "THIS IS FOR MY FATHER'S SAKE.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_GO_02G#0",
+   "speaker": "Shadow Okumura",
+   "en": "What's the holdup, Haru!? If you don't[n]stop them, my dreams...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_GO_03#0",
+   "speaker": "Shadow Okumura",
+   "en": "Gah, it seems I've no other choice...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_GO_04#0",
+   "speaker": "Shadow Okumura",
+   "en": "Haru—self-destruct! Detonate and take[n]those damned thieves with you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_GO_05#0",
+   "speaker": "Futaba",
+   "en": "No way!? Okumura's even willing to[n]sacrifice his own daughter!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_GO_05B#0",
+   "speaker": "Haru",
+   "en": "...Everyone, let's destroy it before[n]it can self-destruct!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_GO_05B2#0",
+   "speaker": "Futaba",
+   "en": "But, Noir... That's...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_GO_05B3#0",
+   "speaker": "Haru",
+   "en": "I am no longer my father's subservient[n]puppet! The real me is standing right[n]here, opposing him!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_GO_05C#0",
+   "speaker": "Futaba",
+   "en": "Joker, don't let it detonate! That isn't[n]the real Noir—destroy it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_GO_06#0",
+   "speaker": "Shadow Okumura",
+   "en": "Wha—!? Even Haru couldn't stop them!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_GO_06#1",
+   "speaker": "Shadow Okumura",
+   "en": "I've had enough! Someone, get in here![n]...Anyone!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_GO_06B#0",
+   "speaker": "Shadow Okumura",
+   "en": "So, even Haru couldn't finish them off...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_GO_06B#1",
+   "speaker": "Shadow Okumura",
+   "en": "I've had enough! Someone, get in here![n]...Anyone!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_GO_07A#0",
+   "speaker": "Haru",
+   "en": "Father, the time's come to end this.[n]I hope you've prepared!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ADD_HARU_GO_07#0",
+   "speaker": "Futaba",
+   "en": "We've found our chance! Joker, let's[n]put an end to this!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

@@ -1,0 +1,1692 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR3000_000_000.BF",
+ "entries": [
+  {
+   "id": "MSG_BED_MORGANA_HOUKAGO_#0",
+   "speaker": "Morgana",
+   "en": "Whoa, wait, you're going to bed? Isn't[n]there still stuff you need to do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_GOGO_00#0",
+   "speaker": "Morgana",
+   "en": "Taking a nap, even though you have[n]the whole day free? That seems like[n]such a waste...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_HEATISLA#0",
+   "speaker": "Morgana",
+   "en": "How can you even sleep in this heat?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_TE#0",
+   "speaker": "Morgana",
+   "en": "You've got exams coming up. Aren't you[n]going to study?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_FriendVi#0",
+   "speaker": "Morgana",
+   "en": "Hey... Are you really going to sleep?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_00#0",
+   "speaker": "Morgana",
+   "en": "Going to bed already?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_SEL_00#0",
+   "speaker": null,
+   "en": "Sleep",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_SEL_00#1",
+   "speaker": null,
+   "en": "Pass time until deadline",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_SEL_00#2",
+   "speaker": null,
+   "en": "Don't sleep yet",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_KAWAKAMI#0",
+   "speaker": "Morgana",
+   "en": "You asked Kawakami to do something,[n]didn't you? Are you going to wait until[n]she's done?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BED_MORGANA_KAWAKAMI#0",
+   "speaker": null,
+   "en": "I asked Kawakami to do something[n]for me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_KAWAKAMI_SEL_01#0",
+   "speaker": null,
+   "en": "Wait for Kawakami",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_KAWAKAMI_SEL_01#1",
+   "speaker": null,
+   "en": "Pass time until deadline",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_KAWAKAMI_SEL_01#2",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_01#0",
+   "speaker": "Morgana",
+   "en": "Let's call it a day and go to bed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_SEL_01#0",
+   "speaker": null,
+   "en": "Sleep",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_SEL_01#1",
+   "speaker": null,
+   "en": "Lay low until the deadline",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_SEL_01#2",
+   "speaker": null,
+   "en": "Don't sleep yet",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_02#0",
+   "speaker": "Morgana",
+   "en": "Tomorrow's our only chance at the[n]Treasure, so it's do or die. Let's knock[n]this out of the park!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_SEL_02#0",
+   "speaker": null,
+   "en": "Sleep",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_SEL_02#1",
+   "speaker": null,
+   "en": "Lay low until the deadline",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_SEL_02#2",
+   "speaker": null,
+   "en": "Don't sleep yet",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_03#0",
+   "speaker": "Morgana",
+   "en": "Now all we have to do is wait for them[n]to have a change of heart. Tonight, you[n]can take it easy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_SEL_03#0",
+   "speaker": null,
+   "en": "Sleep",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_SEL_03#1",
+   "speaker": null,
+   "en": "Lay low until the deadline",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_SEL_03#2",
+   "speaker": null,
+   "en": "Don't sleep yet",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_04#0",
+   "speaker": "Morgana",
+   "en": "There's no point in worrying about it[n]now. Let's go to sleep.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_SEL_04#0",
+   "speaker": null,
+   "en": "Sleep",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_SEL_04#1",
+   "speaker": null,
+   "en": "Lay low until the deadline",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_SEL_04#2",
+   "speaker": null,
+   "en": "Don't sleep yet",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_NIGHT_0411#0",
+   "speaker": null,
+   "en": "I feel exhausted. Maybe it's because[n]of all the weird stuff that's been[n]happening to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_NIGHT_0412#0",
+   "speaker": null,
+   "en": "I feel exhausted. Maybe it's because of[n]the Metaverse...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_NIGHT_0413#0",
+   "speaker": null,
+   "en": "I'm beat from running around all day...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_NIGHT_0414#0",
+   "speaker": null,
+   "en": "Stealing Kamoshida's distorted desires...[n]Can we really do it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_NIGHT_0414#1",
+   "speaker": null,
+   "en": "Anyway, I should get some sleep.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_04_2#0",
+   "speaker": "Morgana",
+   "en": "Tomorrow's going to be a busy day.[n]Keep it together, all right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_04_3#0",
+   "speaker": "Morgana",
+   "en": "You're meeting up with Ryuji tomorrow,[n]so don't oversleep!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_05#0",
+   "speaker": "Morgana",
+   "en": "There's no point in overthinking it.[n]Let's just go to bed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_05_2#0",
+   "speaker": "Morgana",
+   "en": "I can't wait until the party!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_05_3#0",
+   "speaker": "Morgana",
+   "en": "Oh, man, I am SO looking forward to[n]the party!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_05_4#0",
+   "speaker": "Morgana",
+   "en": "It's tomorrow! I can't wait!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_05_5#0",
+   "speaker": "Morgana",
+   "en": "From tomorrow on, we're officially the[n]Phantom Thieves. I hope we find a big[n]shot we can target soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_05_6#0",
+   "speaker": "Morgana",
+   "en": "Exams are coming up. Don't you have[n]to study?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_05_7#0",
+   "speaker": "Morgana",
+   "en": "Tomorrow's the last day of exam...[n]Let's get some sleep.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_05_8#0",
+   "speaker": "Morgana",
+   "en": "We're going to the exhibition tomorrow,[n]right? Don't oversleep!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_05_8#1",
+   "speaker": "Morgana",
+   "en": "\"Ichiryusai Madarame: An Infinite Font[n]of Ideas,\" huh...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_05_8#2",
+   "speaker": "Morgana",
+   "en": "I read the blurb on the ticket, but it[n]seems that this Madarame is actually[n]an amazing artist...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_05_8#3",
+   "speaker": "Morgana",
+   "en": "Some of his pieces might be worth[n]looking at, after all...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_05_9#0",
+   "speaker": "Morgana",
+   "en": "You guys are cleaning the city all day[n]tomorrow, right? Let's go to sleep so[n]we're not exhausted.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_D0#0",
+   "speaker": "Morgana",
+   "en": "Tomorrow, we're going with Lady Ann[n]to Madarame's house to try and change[n]Madarame's cognition.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_D0#1",
+   "speaker": "Morgana",
+   "en": "Don't worry—I'll be with you. Just kick[n]back and wait for me to do my thing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_D0_2#0",
+   "speaker": "Morgana",
+   "en": "Yusuke's with us, so let's get a fresh[n]start tomorrow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_D0_2#1",
+   "speaker": "Morgana",
+   "en": "We'll definitely make Madarame have[n]a change of heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_06#0",
+   "speaker": "Morgana",
+   "en": "People will be paying a lot of attention[n]to the Phantom Thieves, so try not to[n]stand out too much.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_06_2#0",
+   "speaker": "Morgana",
+   "en": "Well, in any case, we need to find our[n]next big target.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_06_3#0",
+   "speaker": "Yusuke",
+   "en": "You needn't worry about breakfast for[n]me tomorrow. I'll be fine with some[n]grilled fish and miso soup.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_06_4#0",
+   "speaker": "Morgana",
+   "en": "Let's make our next plan a success and[n]have another party!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_06_5#0",
+   "speaker": "Morgana",
+   "en": "Well, since things got to this point,[n]we'll just have to prepare ourselves[n]and deal with it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_06_5#1",
+   "speaker": "Morgana",
+   "en": "We'll see our way through this somehow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_06_6#0",
+   "speaker": "Morgana",
+   "en": "As long as we know who we're aiming[n]for, we'll figure the rest out somehow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_06_6#1",
+   "speaker": "Morgana",
+   "en": "Tomorrow's going to be a busy day,[n]so let's get to bed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_06_7#0",
+   "speaker": "Morgana",
+   "en": "We can't do anything if we can't[n]infiltrate the Palace. We'll have to[n]think of something.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_06_8#0",
+   "speaker": "Morgana",
+   "en": "I'm looking forward to seeing how[n]things will go with our new member!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_07#0",
+   "speaker": "Morgana",
+   "en": "Even the police couldn't handle this[n]criminal, but we changed his heart.[n]It's not been done before.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_07_2#0",
+   "speaker": "Morgana",
+   "en": "Your exams begin tomorrow. Did you[n]study enough for them?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_07_3#0",
+   "speaker": "Morgana",
+   "en": "In any case, it's good that exams are[n]over. Let's go to sleep.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_07_4#0",
+   "speaker": "Morgana",
+   "en": "I'm so excited about the fireworks[n]tomorrow!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_07_5#0",
+   "speaker": "Morgana",
+   "en": "An internationally known enemy...[n]I hope we can figure out a good way[n]to fight back!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_07_6#0",
+   "speaker": "Morgana",
+   "en": "We don't have nearly enough intel.[n]All we can do is wait for them to[n]make a move.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_07_7#0",
+   "speaker": "Morgana",
+   "en": "First there was Medjed, then Alibaba,[n]and now Futaba Sakura...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_07_7#1",
+   "speaker": "Morgana",
+   "en": "We don't have any info on any of them.[n]What in the world is going on?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_07_8#0",
+   "speaker": "Morgana",
+   "en": "I guess we won't find answers just by[n]thinking about it. Let's get to bed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_07_9#0",
+   "speaker": "Morgana",
+   "en": "For the honor of the Phantom Thieves,[n]we have to beat Medjed!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_08#0",
+   "speaker": "Morgana",
+   "en": "There's no point in getting all worked up.[n]Let's get to sleep.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_08_2#0",
+   "speaker": "Morgana",
+   "en": "We're just going to have to trust Futaba...[n]Let's get some sleep.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_08_3#0",
+   "speaker": "Morgana",
+   "en": "I wonder what's going to happen[n]tomorrow...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_08_4#0",
+   "speaker": "Morgana",
+   "en": "Next is Ryuji and Lady Ann, huh? They[n]seemed confident, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_08_5#0",
+   "speaker": "Morgana",
+   "en": "She's really starting to come out of her[n]shell. She's very close to being ready for[n]her beach debut.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_08_6#0",
+   "speaker": "Morgana",
+   "en": "We'll continue her training tomorrow.[n]This beach trip should be the finishing[n]touch!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_08_7#0",
+   "speaker": "Morgana",
+   "en": "Tomorrow's when we hit the beach![n]Everything we've been doing has been[n]leading up to this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_08_8#0",
+   "speaker": "Morgana",
+   "en": "Only two more days of summer break,[n]huh? This summer went by in a flash.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_08_8#1",
+   "speaker": "Morgana",
+   "en": "Well, we managed to gain a new and[n]very reliable friend, so it was all time[n]well spent.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_08_9#0",
+   "speaker": "Morgana",
+   "en": "Do you remember what I said to you[n]last night?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_08_9#1",
+   "speaker": "Morgana",
+   "en": "I... I might...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_08_9#2",
+   "speaker": "Morgana",
+   "en": "Uh, never mind. Let's get to sleep!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_08_10#0",
+   "speaker": "Morgana",
+   "en": "Sushi... I feel like I might dream about it[n]tonight.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_09#0",
+   "speaker": "Morgana",
+   "en": "Hey...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_09#1",
+   "speaker": "Morgana",
+   "en": "Uh... Never mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_09#2",
+   "speaker": "Morgana",
+   "en": "Have fun on your trip...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_09_2#0",
+   "speaker": "Morgana",
+   "en": "Actually, there's something I want to[n]talk to you about...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_09_2#1",
+   "speaker": "Morgana",
+   "en": "Never mind, you should probably get[n]some rest. Don't worry, it's nothing[n]important.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_09_3#0",
+   "speaker": "Morgana",
+   "en": "Okay, let's get to sleep.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_09_4#0",
+   "speaker": "Morgana",
+   "en": "I want to help Haru. Won't you help me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_09_5#0",
+   "speaker": "Morgana",
+   "en": "We're going to start looking for[n]Okumura's Treasure tomorrow. I'm[n]counting on you, for Haru's sake!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_10#0",
+   "speaker": "Morgana",
+   "en": "What in the world's going on...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_10_2#0",
+   "speaker": "Morgana",
+   "en": "We still don't know anything...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_10_3#0",
+   "speaker": "Morgana",
+   "en": "So all we can do right now is sit tight[n]and wait?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_10_4#0",
+   "speaker": "Morgana",
+   "en": "You've got exams beginning next week.[n]Have you studied enough?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_10_5#0",
+   "speaker": "Morgana",
+   "en": "Even with all this stuff going on, you[n]still have to keep up with your studies,[n]all right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_10_6#0",
+   "speaker": "Morgana",
+   "en": "Your exams start tomorrow. How about[n]getting in one last study session?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_10_7#0",
+   "speaker": "Morgana",
+   "en": "We are NOT gonna let ourselves get[n]caught while we stand falsely accused[n]like this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_10_7#1",
+   "speaker": "Morgana",
+   "en": "We've gotta get through this, no matter[n]what it takes!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_10_8#0",
+   "speaker": "Morgana",
+   "en": "We've gotta find out who's behind[n]all this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_10_9#0",
+   "speaker": "Morgana",
+   "en": "Don't worry. I'm sure it'll work out,[n]so let's go to sleep.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_10_10#0",
+   "speaker": "Futaba",
+   "en": "It's so late already...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BED_MORGANA_NIGHT_10#0",
+   "speaker": null,
+   "en": "Sleep",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BED_MORGANA_NIGHT_10#1",
+   "speaker": null,
+   "en": "Don't sleep yet",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_10_11#0",
+   "speaker": "Futaba",
+   "en": "Is Sojiro still awake?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_10_11#1",
+   "speaker": "Futaba",
+   "en": "This is kind of awkward...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BED_MORGANA_NIGHT_10_2#0",
+   "speaker": null,
+   "en": "Go home or he'll worry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BED_MORGANA_NIGHT_10_2#1",
+   "speaker": null,
+   "en": "You can sleep on the sofa.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_10_12#0",
+   "speaker": "Morgana",
+   "en": "Wait, shouldn't you sleep on the sofa,[n]so that Futaba can go ahead and sleep[n]on the bed?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_10_13#0",
+   "speaker": "Futaba",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_10_14#0",
+   "speaker": "Futaba",
+   "en": "...I'm gonna go home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_10_14#1",
+   "speaker": "Futaba",
+   "en": "Night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_10_15#0",
+   "speaker": "Morgana",
+   "en": "We're not done quite yet... This is just[n]the beginning!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_10_16#0",
+   "speaker": "Morgana",
+   "en": "It's not going to end here! We've gotta[n]track down who's pulling the strings[n]behind this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_D0_3#0",
+   "speaker": "Morgana",
+   "en": "I can't wait to see the look on Niijima's[n]face at the trial tomorrow. She's in for a[n]surprise!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_11#0",
+   "speaker": "Morgana",
+   "en": "Once we send out the calling card, we[n]need to get ready to steal the Treasure.[n]Let's prepare tonight.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_11_2#0",
+   "speaker": "Morgana",
+   "en": "We're sending out the calling card[n]tomorrow, right? You'd better get[n]everything ready tonight.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_11_3#0",
+   "speaker": "Sojiro",
+   "en": "I guess I'll head home... Go to bed,[n]all right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_11_4#0",
+   "speaker": "Morgana",
+   "en": "If only we knew the keyword...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_11_5#0",
+   "speaker": "Morgana",
+   "en": "I'll help you out. Let's get some payback[n]on Shido.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_NIGHT_1123_000#0",
+   "speaker": "Morgana",
+   "en": "We're all meeting up in our uniforms[n]tomorrow. Don't forget to get changed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BED_NIGHT_1123_001#0",
+   "speaker": null,
+   "en": "I should wear my school uniform when[n]I head out tomorrow...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_11_6#0",
+   "speaker": "Morgana",
+   "en": "Our enemies know all about the[n]cognitive world. Their guard is down,[n]but we should be careful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_12#0",
+   "speaker": "Morgana",
+   "en": "Now then... did we get it right on[n]the mark?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_SEL_06#0",
+   "speaker": null,
+   "en": "Sleep",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_SEL_06#1",
+   "speaker": null,
+   "en": "Lay low until the deadline",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_SEL_06#2",
+   "speaker": null,
+   "en": "Don't sleep yet",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_12_2#0",
+   "speaker": "Morgana",
+   "en": "Going to bed already?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_SEL_08#0",
+   "speaker": null,
+   "en": "Sleep",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_SEL_08#1",
+   "speaker": null,
+   "en": "Lay low until the deadline",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_SEL_08#2",
+   "speaker": null,
+   "en": "Don't sleep yet",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_12_3#0",
+   "speaker": "Morgana",
+   "en": "Okay... Good night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_12_4#0",
+   "speaker": "Morgana",
+   "en": "Can't sleep?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_12_4#1",
+   "speaker": "Morgana",
+   "en": "Me too, actually.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_01_2#0",
+   "speaker": "Morgana",
+   "en": "Make everyone happy, huh.[n]But even so...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_01_2#1",
+   "speaker": "Morgana",
+   "en": "...Anyway. Let's think about it tomorrow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_01_3#0",
+   "speaker": "Morgana",
+   "en": "Do you want to take a break for today...?[n]I want to think on it a bit more...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_01_4#0",
+   "speaker": "Morgana",
+   "en": "This isn't going to be easy... Let's keep[n]our guard up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_01_5#0",
+   "speaker": "Morgana",
+   "en": "We're gonna get pretty busy. Let's rest[n]well and prepare for tomorrow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_LONELY_NIGHT#0",
+   "speaker": null,
+   "en": "I should get to bed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_LONELY_GOGO#0",
+   "speaker": null,
+   "en": "Maybe I'll take a nap...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_SEL_LONELY#0",
+   "speaker": null,
+   "en": "Sleep",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_SEL_LONELY#1",
+   "speaker": null,
+   "en": "Lay low until the deadline",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_SEL_LONELY#2",
+   "speaker": null,
+   "en": "Don't sleep yet",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_SEL_DAYTIME#0",
+   "speaker": null,
+   "en": "Sleep",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_SEL_DAYTIME#1",
+   "speaker": null,
+   "en": "Pass time until the deadline",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_BED_SEL_DAYTIME#2",
+   "speaker": null,
+   "en": "Don't sleep",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BED_GOTO_RESULTDAY#0",
+   "speaker": null,
+   "en": "Should I really just pass time until the[n]deadline...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BED_GOTO_RESULTDAY#0",
+   "speaker": null,
+   "en": "Pass time until the deadline",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BED_GOTO_RESULTDAY#1",
+   "speaker": null,
+   "en": "Think it over",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MY_BED_RYUJI_OUT#0",
+   "speaker": "Ryuji",
+   "en": "Hittin' the sack? I'll head home then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MY_BED_ANNE_OUT#0",
+   "speaker": "Ann",
+   "en": "Going to bed? Okay, I'll head out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MY_BED_YUSUKE_OUT#0",
+   "speaker": "Yusuke",
+   "en": "Hm? Going to bed? Then, I will head[n]home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MY_BED_MAKOTO_OUT#0",
+   "speaker": "Makoto",
+   "en": "Are you going to bed?[n]I'll go home then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MY_BED_AKECHI_OUT#0",
+   "speaker": "Akechi",
+   "en": "Going to bed? Goodbye, then, thank you[n]for having me over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MY_BED_FUTABA_OUT#0",
+   "speaker": "Futaba",
+   "en": "You're sleeping now? I'll see you later[n]then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MY_BED_HARU_OUT#0",
+   "speaker": "Haru",
+   "en": "Are you going to bed? I'll be heading out[n]then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MY_BED_MISHIMA_OUT#0",
+   "speaker": "Mishima",
+   "en": "You're going to bed? I'd better head out,[n]too. See ya.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHK_BED_CALL_GROUPCH#0",
+   "speaker": "Morgana",
+   "en": "Hm? Looks like you got invited to a chat.[n]I wonder what's up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BED_CHECK_mes01#0",
+   "speaker": null,
+   "en": "I should put some sheets on the bed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BED_CHECK_mes02#0",
+   "speaker": null,
+   "en": "I guess this works for a bed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_SHEET_SEL#0",
+   "speaker": null,
+   "en": "Put on sheets",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_SHEET_SEL#1",
+   "speaker": null,
+   "en": "Hold off",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BED_CHECK_0410_EV_mes01#0",
+   "speaker": null,
+   "en": "Maybe I'll skip writing in my journal and[n]just go to sleep...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BED_CHECK_0410_EV_SEL#0",
+   "speaker": null,
+   "en": "Sleep",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BED_CHECK_0410_EV_SEL#1",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BED_CHECK_0410_EV_mes02#0",
+   "speaker": null,
+   "en": "Let me sit down on the sofa and write[n]in my journal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BED_CHECK_0410_END_mes01#0",
+   "speaker": null,
+   "en": "I guess I'll change and go to bed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Good_Type01_St#0",
+   "speaker": null,
+   "en": "I had a dream where I was on the[n]school roof, talking with [var 0][n]about our futures...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Good_Type01_02#0",
+   "speaker": null,
+   "en": "I had a dream where I was[n]in a quiet café, asking[n][var 0] for advice...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Good_Type02_St#0",
+   "speaker": null,
+   "en": "I had a dream where [var 0][n]made a home-cooked meal for me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Good_Type02_02#0",
+   "speaker": null,
+   "en": "I dreamed that [var 0] and I[n]went mountain climbing, and then[n]we watched the sunrise together...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Good_Type03_St#0",
+   "speaker": null,
+   "en": "I dreamed that [var 0] and I[n]watched a film together, moving[n]the two of us to tears...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Good_Type04_St#0",
+   "speaker": null,
+   "en": "I had a dream where I went on[n]a train trip with [var 0]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Good_Type05_St#0",
+   "speaker": null,
+   "en": "I dreamed that I went stargazing[n]together with [var 0]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Good_End#0",
+   "speaker": null,
+   "en": "I feel a little closer to [var 0]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Bad_Type01_Sta#0",
+   "speaker": null,
+   "en": "I dreamed that I got stranded on a[n]snowy mountain with [var 0]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Bad_Type02_Sta#0",
+   "speaker": null,
+   "en": "I dreamed that I went out to eat with[n][var 0], but I forgot my wallet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Bad_Type03_Sta#0",
+   "speaker": null,
+   "en": "I had a dream where [var 0][n]saw right through a lie I made...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Bad_Type04_Sta#0",
+   "speaker": null,
+   "en": "I dreamed that [var 0] and I[n]went to the beach, but the waves[n]washed away my swimming trunks...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Bad_Type04_02_#0",
+   "speaker": null,
+   "en": "I dreamed that [var 0] and I[n]went to the beach, but I somehow[n]ended up lost and alone at sea...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Bad_Type05_Sta#0",
+   "speaker": null,
+   "en": "I dreamed that I was being chased[n]by a gigantic [var 0]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Bad_Type05_02_#0",
+   "speaker": null,
+   "en": "I had a dream where I couldn't make it[n]to the place [var 0] and I agreed[n]to meet up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Bad_End#0",
+   "speaker": null,
+   "en": "I'm glad that was just a dream.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Nightmare_KAMO#0",
+   "speaker": null,
+   "en": "I had a dream where I was running away[n]from a giant volleyball...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Nightmare_KAMO_2#0",
+   "speaker": null,
+   "en": "I had a dream where I got expelled and[n]was forced to live on the streets...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Nightmare_MADA#0",
+   "speaker": null,
+   "en": "I had a dream where I was a nude[n]model and had to stand naked[n]in front of a huge crowd...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Nightmare_MADA_2#0",
+   "speaker": null,
+   "en": "I had a dream where I got sued[n]and had to go to court...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Nightmare_KANE#0",
+   "speaker": null,
+   "en": "I had a dream where I was[n]endlessly counting stacks[n]of all these past due bills...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Nightmare_KANE_2#0",
+   "speaker": null,
+   "en": "I dreamed that some embarrassing[n]picture of me was being spread around...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Nightmare_FUTA#0",
+   "speaker": null,
+   "en": "I dreamed that my cell phone got[n]hacked, and it racked up a huge bill...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Nightmare_FUTA_2#0",
+   "speaker": null,
+   "en": "I had a dream where I was[n]wandering aimlessly in a desert...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Nightmare_OKU#0",
+   "speaker": null,
+   "en": "I had a dream where I was ejected into[n]outer space and was slowly dying of[n]suffocation...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Nightmare_OKU_#0",
+   "speaker": null,
+   "en": "I had a dream where I was trapped,[n]doing endless work as part of an[n]assembly line...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Nightmare_KENJ#0",
+   "speaker": null,
+   "en": "I had a dream where I was trying to[n]bargain with some poker dealer[n]all night...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Nightmare_KENJ_2#0",
+   "speaker": null,
+   "en": "I had a dream where I lost all my money[n]at a casino...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Nightmare_SHID#0",
+   "speaker": null,
+   "en": "I had a dream where I was giving a[n]speech in front of a crowd of people...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Nightmare_SHID_2#0",
+   "speaker": null,
+   "en": "I had a dream where I was trying to[n]escape a sinking ship, but I ended up[n]getting trapped...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Nightmare_LAST#0",
+   "speaker": null,
+   "en": "I had a dream where I lost everything...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Nightmare_LAST_2#0",
+   "speaker": null,
+   "en": "I'm glad it was just a dream.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Nightmare_Comm#0",
+   "speaker": null,
+   "en": "I had a dream where I was just falling,[n]and there was no end to it all...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Nightmare_Atam#0",
+   "speaker": null,
+   "en": "I feel I've gained some[n][stIcon 0][clr 26][stLabel 0][clr 27] from this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Nightmare_Irok#0",
+   "speaker": null,
+   "en": "I feel I've gained some[n][stIcon 1][clr 26][stLabel 1][clr 27] from this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Nightmare_Kiyo#0",
+   "speaker": null,
+   "en": "I feel I've gained some[n][stIcon 2][clr 26][stLabel 2][clr 27] from this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Nightmare_Doky#0",
+   "speaker": null,
+   "en": "I feel I've gained some[n][stIcon 3][clr 26][stLabel 3][clr 27] from this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_MoruOn_Start#0",
+   "speaker": null,
+   "en": "I feel a strange weight[n]pressing down on my body...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_MoruOn_End#0",
+   "speaker": null,
+   "en": "Maybe I'm just feeling[n]the stress of daily life...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_MoruOn_Start_A#0",
+   "speaker": null,
+   "en": "I feel like I have indigestion...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_MoruOn_End_A#0",
+   "speaker": null,
+   "en": "Did I eat anything strange today...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_MoruOn_Start_B#0",
+   "speaker": null,
+   "en": "I'm having a hard time breathing...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_MoruOn_End_B#0",
+   "speaker": null,
+   "en": "I guess I must be more[n]tired than I thought.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_MoruOn_Start_0#0",
+   "speaker": null,
+   "en": "I feel a strange weight[n]pressing down on my body...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_MoruOn_End_041#0",
+   "speaker": null,
+   "en": "Is this the stress of Kamoshida's threat[n]weighing on me...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_MoruOn_Start_0_2#0",
+   "speaker": null,
+   "en": "So heavy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_MoruOn_End_091#0",
+   "speaker": null,
+   "en": "My body feels like a boulder slowly[n]sinking into quicksand...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Doubt_Off_Star#0",
+   "speaker": null,
+   "en": "I had a dream where I was at the park,[n]talking with [var 0].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DREAM_Doubt_Off_End#0",
+   "speaker": null,
+   "en": "I can vividly remember that smile.[n]I also felt relief, like I was being[n]forgiven for something...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_04_4#0",
+   "speaker": "Morgana",
+   "en": "Hm? You going to sleep for today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MSG_BED_MORGANA_NIGH#0",
+   "speaker": null,
+   "en": "Sleep",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MSG_BED_MORGANA_NIGH#1",
+   "speaker": null,
+   "en": "Don't sleep yet",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_04_5#0",
+   "speaker": "Morgana",
+   "en": "You're going to bed? We're definitely[n]going to the Palace tomorrow! Don't[n]forget that!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MSG_BED_MORGANA_NIGH_2#0",
+   "speaker": null,
+   "en": "Sleep",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MSG_BED_MORGANA_NIGH_2#1",
+   "speaker": null,
+   "en": "Don't sleep yet",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_04_6#0",
+   "speaker": "Morgana",
+   "en": "Going to bed? I guess there's nothing[n]you can do now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MSG_BED_MORGANA_NIGH_3#0",
+   "speaker": null,
+   "en": "Sleep",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MSG_BED_MORGANA_NIGH_3#1",
+   "speaker": null,
+   "en": "Don't sleep yet",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_04_7#0",
+   "speaker": "Morgana",
+   "en": "You going to sleep...? Yeah... I guess that[n]makes sense...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MSG_BED_MORGANA_NIGH_4#0",
+   "speaker": null,
+   "en": "Sleep",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MSG_BED_MORGANA_NIGH_4#1",
+   "speaker": null,
+   "en": "Don't sleep yet",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_04_8#0",
+   "speaker": "Morgana",
+   "en": "Hm? You going to sleep for today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_04_9#0",
+   "speaker": "Morgana",
+   "en": "Going to bed already? We should send[n]out the calling card as soon possible.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_04_10#0",
+   "speaker": "Morgana",
+   "en": "You're gonna sleep? We're definitely[n]going to the hideout tomorrow!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_04_11#0",
+   "speaker": "Morgana",
+   "en": "You're gonna sleep? We're definitely[n]going to the hideout tomorrow!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_04_12#0",
+   "speaker": "Morgana",
+   "en": "You going to sleep...? Yeah... I guess that[n]makes sense...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_GOGO_042#0",
+   "speaker": "Morgana",
+   "en": "You're going to sleep!? Do you[n]understand our situation...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_GOGO_050#0",
+   "speaker": "Morgana",
+   "en": "This is no time for... Oh well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_GOGO_042_2#0",
+   "speaker": "Morgana",
+   "en": "You're going to sleep!? Do you[n]understand our situation...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_GOGO_050_2#0",
+   "speaker": "Morgana",
+   "en": "Hey! There's no time to sleep!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

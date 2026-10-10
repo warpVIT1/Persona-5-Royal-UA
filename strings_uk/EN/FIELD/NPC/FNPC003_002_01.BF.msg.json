@@ -1,0 +1,726 @@
+{
+ "file": "EN/FIELD/NPC/FNPC003_002_01.BF",
+ "entries": [
+  {
+   "id": "MSG_MORGANA_C0#0",
+   "speaker": "Morgana",
+   "en": "People in the city are all pretty terrible,[n]but it's hard finding someone with a[n]Palace...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REQ_00#0",
+   "speaker": "Morgana",
+   "en": "So you want to make some infiltration[n]tools, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REQ_00#1",
+   "speaker": "Morgana",
+   "en": "Just gather the [clr 2]materials[clr 27] in the Metaverse,[n]then I'll help you[n]make them!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_00#0",
+   "speaker": "Kawakami",
+   "en": "Don't talk to me while I'm working.[n]You don't want me to mess up, do you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUUSUKE_0611_001_00#0",
+   "speaker": "Yusuke",
+   "en": "Aren't you going to sleep yet?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUUSUKE_0611_001_00#1",
+   "speaker": "Yusuke",
+   "en": "I will be fine here. I sleep in my studio[n]on occasion, so this is luxurious in[n]comparison.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUUSUKE_0611_002_00#0",
+   "speaker": "Yusuke",
+   "en": "I enjoy going to a bathhouse every[n]once in a while. The hot water is[n]quite relaxing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1026_000_00#0",
+   "speaker": "Futaba",
+   "en": "It's my fault...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1026_000_00#1",
+   "speaker": "Futaba",
+   "en": "All this happened because I kept the[n]calling card...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1026_000_00#2",
+   "speaker": "Futaba",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_10#0",
+   "speaker": "Futaba",
+   "en": "It's so late already...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_10_2#0",
+   "speaker": "Futaba",
+   "en": "Is Sojiro still awake?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_10_2#1",
+   "speaker": "Futaba",
+   "en": "This is kind of awkward...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BED_MORGANA_NIGHT_10#0",
+   "speaker": null,
+   "en": "Go home or he'll worry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BED_MORGANA_NIGHT_10#1",
+   "speaker": null,
+   "en": "You can sleep on the sofa.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_10_3#0",
+   "speaker": "Morgana",
+   "en": "Wait, shouldn't you sleep on the sofa,[n]so that Futaba can go ahead and sleep[n]on the bed?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_10_4#0",
+   "speaker": "Futaba",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_10_5#0",
+   "speaker": "Futaba",
+   "en": "...I'm gonna go home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BED_MORGANA_NIGHT_10_5#1",
+   "speaker": "Futaba",
+   "en": "Night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_000_00#0",
+   "speaker": "Futaba",
+   "en": "Remember how I hijacked your phone[n]during the school trip? That kinda came[n]in handy!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_FUTABA_1121_001_00#0",
+   "speaker": null,
+   "en": "How so?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_FUTABA_1121_001_00#1",
+   "speaker": null,
+   "en": "I'm not interested.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_000_01#0",
+   "speaker": "Futaba",
+   "en": "Oh, you wanna hear it again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_FUTABA_1121_001_01#0",
+   "speaker": null,
+   "en": "Definitely.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_FUTABA_1121_001_01#1",
+   "speaker": null,
+   "en": "Not now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_002_00#0",
+   "speaker": "Futaba",
+   "en": "Well, remember how I put that wiretap[n]app in Akechi's phone?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_002_00#1",
+   "speaker": "Futaba",
+   "en": "Basically that let me see GPS info for[n]two phones: yours and his.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_002_00#2",
+   "speaker": "Futaba",
+   "en": "I'd be able to tell the precise moment[n]Sae Niijima, who had your phone,[n]ran into Akechi!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_002_00#3",
+   "speaker": "Futaba",
+   "en": "That's when I saw my chance and beep—[n]sent the signal to activate the Metaverse[n]Navigator.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_002_00#4",
+   "speaker": "Futaba",
+   "en": "But there was the chance they'd just[n]pass each other without saying a[n]single word.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_002_00#5",
+   "speaker": "Futaba",
+   "en": "That's why we needed you to tell Sae[n]Niijima to show the phone to Akechi!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_003_00#0",
+   "speaker": "Morgana",
+   "en": "This plan still surprises me no matter[n]how many times I hear it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_004_00#0",
+   "speaker": "Futaba",
+   "en": "Still, I couldn't just directly hack into[n]the Metaverse Nav. It's a mysterious[n]app, after all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_004_00#1",
+   "speaker": "Futaba",
+   "en": "But you know how it has that bookmark[n]function? All you have to do is push the[n]button.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_004_00#2",
+   "speaker": "Futaba",
+   "en": "Making the phone think he was pushing[n]that button was totally doable.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_004_00#3",
+   "speaker": "Futaba",
+   "en": "Mwehehehe... Pretty good, huh!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_002_01#0",
+   "speaker": "Futaba",
+   "en": "Whattt? That's no fun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_003_01#0",
+   "speaker": "Morgana",
+   "en": "[fName] is tired. You can tell[n]him some other time, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_100_00#0",
+   "speaker": "Futaba",
+   "en": "It may not have looked like it, but[n]everyone else was risking their lives too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_100_00#1",
+   "speaker": "Futaba",
+   "en": "Though there's no doubt you were the[n]most at risk. I mean, you actually got[n]arrested.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_100_00#2",
+   "speaker": "Futaba",
+   "en": "...But it seems like all the drugs and stuff[n]made you forget the details of the plan.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_100_00#3",
+   "speaker": "Futaba",
+   "en": "Want me to explain how it all went[n]down? It might take a bit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_FUTABA_1121_101_00#0",
+   "speaker": null,
+   "en": "Definitely.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_FUTABA_1121_101_00#1",
+   "speaker": null,
+   "en": "Not now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_102_00#0",
+   "speaker": "Futaba",
+   "en": "Well, since the rest of us didn't get[n]captured, we had to act.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_102_00#1",
+   "speaker": "Futaba",
+   "en": "We had to pretend we never wanted[n]you to get arrested... Pretend the[n]suicide news was a real shock...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_102_00#2",
+   "speaker": "Futaba",
+   "en": "Basically, we had to act like we didn't[n]know anything, 24/7.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_102_00#3",
+   "speaker": "Futaba",
+   "en": "The enemy knows who we are, so we[n]couldn't let our guard down even once[n]while you were gone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_102_00#4",
+   "speaker": "Futaba",
+   "en": "If they had people watching us and[n]realized what our plan was, they[n]would have killed you immediately.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_103_00#0",
+   "speaker": "Futaba",
+   "en": "...Wanna hear more?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_FUTABA_1121_104_00#0",
+   "speaker": null,
+   "en": "I do.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_FUTABA_1121_104_00#1",
+   "speaker": null,
+   "en": "That's enough for now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_105_00#0",
+   "speaker": "Futaba",
+   "en": "Another tough part was figuring out[n]how to get Sae Niijima and Akechi[n]back from the Metaverse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_105_00#1",
+   "speaker": "Futaba",
+   "en": "In order to return to reality, you have to[n]go back to the point where you came[n]into the Metaverse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_105_00#2",
+   "speaker": "Futaba",
+   "en": "So, Sae and Akechi had to go through[n]where the Nav was activated, as in...[n]the hall where they met.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_105_00#3",
+   "speaker": "Futaba",
+   "en": "Akechi would just come back the same[n]way after the assassination. The real[n]issue was Sae Niijima.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_105_00#4",
+   "speaker": "Futaba",
+   "en": "We needed to stop her for a moment[n]before she headed back toward the[n]interrogation room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_105_00#5",
+   "speaker": "Futaba",
+   "en": "But nothing can be sent to a phone[n]inside a Palace. So... I had to program[n]the messages in beforehand.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_105_00#6",
+   "speaker": "Futaba",
+   "en": "In doing so, I made it seem like the[n]messages were coming at that exact[n]moment in time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_105_00#7",
+   "speaker": "Futaba",
+   "en": "That part was kinda last minute, so I[n]had to pull an all-nighter trying to[n]get it set up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_106_00#0",
+   "speaker": "Futaba",
+   "en": "...I'm really on a roll here! Wanna hear[n]some more?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_FUTABA_1121_107_00#0",
+   "speaker": null,
+   "en": "Yes, please.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_FUTABA_1121_107_00#1",
+   "speaker": null,
+   "en": "That's enough, I think.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_108_00#0",
+   "speaker": "Futaba",
+   "en": "Lemme see, another problematic[n]thing was...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_108_00#1",
+   "speaker": "Futaba",
+   "en": "Oh yeah! Tying Akechi up! That was[n]really tough...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_109_00#0",
+   "speaker": "Futaba",
+   "en": "Uhhh, I obviously don't mean the[n]real Akechi. Even if we could do that,[n]it would ruin our plan.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_109_00#1",
+   "speaker": "Futaba",
+   "en": "The one we had to tie up was Sae[n]Niijima's cognitive Akechi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_109_00#2",
+   "speaker": "Futaba",
+   "en": "...This part's really complicated. I know[n]you're tired. You sure you wanna hear[n]all of this now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_FUTABA_1121_110_00#0",
+   "speaker": null,
+   "en": "Definitely.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_FUTABA_1121_110_00#1",
+   "speaker": null,
+   "en": "Actually, maybe not.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_111_00#0",
+   "speaker": "Futaba",
+   "en": "Well, we needed to lure Akechi into[n]Sae Niijima's Palace and have him kill[n]the cognitive [fName].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_111_00#1",
+   "speaker": "Futaba",
+   "en": "But Akechi would have entered the[n]Palace immediately after meeting[n]Sae Niijima in the hallway, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_111_00#2",
+   "speaker": "Futaba",
+   "en": "Because of that, there was a pretty[n]decent chance he'd run into the[n]cognitive Akechi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_111_00#3",
+   "speaker": "Futaba",
+   "en": "And if that happened, Akechi would've[n]totally realized we'd lured him into[n]the Palace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_112_00#0",
+   "speaker": "Futaba",
+   "en": "Nobody actually even thought of this[n]possibility until the night before the[n]assassination...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_112_00#1",
+   "speaker": "Futaba",
+   "en": "Makoto realized in the middle of the[n]night, then it was a huge mess trying[n]to figure out what to do.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_112_00#2",
+   "speaker": "Futaba",
+   "en": "In the end, we chose to sneak into[n]the Metaverse while the plan was[n]happening to tie up the cognition.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_112_00#3",
+   "speaker": "Futaba",
+   "en": "Because you told Sae to show him[n]the phone, we expected her to chat[n]with him for at least a bit...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_112_00#4",
+   "speaker": "Futaba",
+   "en": "So, we had a few minutes to strike after[n]the cognitive Akechi showed up, but[n]before the Nav activated.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_112_00#5",
+   "speaker": "Futaba",
+   "en": "It was Operation: Tie Him Up! Though[n]it wasn't really much of an operation[n]in the end...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_113_00#0",
+   "speaker": "Futaba",
+   "en": "Thankfully, Sae Niijima didn't know[n]his true nature, so the one that[n]appeared was an ordinary kid.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_113_00#1",
+   "speaker": "Futaba",
+   "en": "It was pretty simple surrounding him,[n]knocking him out, and tossing him on[n]another floor.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_113_00#2",
+   "speaker": "Futaba",
+   "en": "But man, watching Makoto's skill was[n]super amazing... I guess she does use[n]knuckles as her weapon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_113_00#3",
+   "speaker": "Futaba",
+   "en": "Basically what I'm trying to say is,[n]appreciate what everyone else did.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_114_00#0",
+   "speaker": "Futaba",
+   "en": "...Phew. I just can't help but rant when[n]I'm talking about stuff that interests me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_114_00#1",
+   "speaker": "Futaba",
+   "en": "Sorry 'bout that. Just focus on resting[n]up. You don't have to worry about[n]anything else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_114_00#2",
+   "speaker": "Futaba",
+   "en": "And seriously... well done,[n][fName].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_102_01#0",
+   "speaker": "Futaba",
+   "en": "I guess that's understandable.[n]You must be pretty exhausted.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_102_01#1",
+   "speaker": "Futaba",
+   "en": "Just focus on resting up. You don't[n]have to worry about anything else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_1121_102_01#2",
+   "speaker": "Futaba",
+   "en": "And seriously...[n]well done, [fName].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MASTER_1121_000_00#0",
+   "speaker": "Sojiro",
+   "en": "Oh, by the way...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MASTER_1121_000_00#1",
+   "speaker": "Sojiro",
+   "en": "The police report on your death isn't[n]gonna show up at your school. No[n]need to worry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MASTER_1121_000_00#2",
+   "speaker": "Sojiro",
+   "en": "Seems Prosecutor Niijima worked out[n]some kinda deal with the higher-ups[n]or something.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MASTER_1121_000_00#3",
+   "speaker": "Sojiro",
+   "en": "I mean, they haven't even said anything[n]to me even. As long as you stay quiet,[n]you'll be fine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MASTER_1121_000_00#4",
+   "speaker": "Sojiro",
+   "en": "And I guess if they reported your death[n]now, they'd basically be saying you[n]were a phantom thief.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MASTER_1121_000_00#5",
+   "speaker": "Sojiro",
+   "en": "They can't really go announcing what[n]the Phantom Thieves are, so I'm sure[n]they'll avoid that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_1121_100_00#0",
+   "speaker": "Morgana",
+   "en": "At any rate... I'm glad you're back safe[n]and sound.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_1121_100_00#1",
+   "speaker": "Morgana",
+   "en": "But even that's putting it too lightly.[n]You had it rough in there, didn't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MORUGANA_1121_101_00#0",
+   "speaker": null,
+   "en": "Don't worry about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MORUGANA_1121_101_00#1",
+   "speaker": null,
+   "en": "Only a little.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_1121_102_00#0",
+   "speaker": "Morgana",
+   "en": "Akechi was after you all along. I knew[n]it was risky, but we had no choice but[n]to depend on him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_1121_102_00#1",
+   "speaker": "Morgana",
+   "en": "But thanks to your tenacity, you were[n]able to fool him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_1121_102_00#2",
+   "speaker": "Morgana",
+   "en": "It's payback time. Let's make him regret[n]underestimating the Phantom Thieves!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

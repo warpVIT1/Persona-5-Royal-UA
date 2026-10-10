@@ -1,0 +1,432 @@
+{
+ "file": "EN/FIELD/KF_EVENT/NPC/ENPC243_303_00.BF",
+ "entries": [
+  {
+   "id": "YESNO_SEL#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_000_000_00#0",
+   "speaker": null,
+   "en": "Dummy",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_HOST_001_0#0",
+   "speaker": "Male Host",
+   "en": "My shift's finally over. Ugh, I feel awful.[n]I drank a shitton.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_HOST_001_0#1",
+   "speaker": "Male Host",
+   "en": "Maybe I should find a new job.[n]You know any opportunities for[n]making money quick?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_HOST_002_0#0",
+   "speaker": "Male Player",
+   "en": "You mean like those sneaky guys[n]in the back alleys? You'd prolly[n]have to swindle some kids.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_HOST_003_0#0",
+   "speaker": "Male Host",
+   "en": "God, I could never be a pusher.[n]I don't want to get arrested.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_HOST_101_0#0",
+   "speaker": "Male Player",
+   "en": "I saw one of those guys going for[n]a high schooler just the other day.[n]Kids are prolly easy to trick...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_HOST_102_0#0",
+   "speaker": "Male Host",
+   "en": "In that alleyway, I assume? God,[n]it'd be so bad to get wrapped up[n]in that stuff.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_POLICE_001#0",
+   "speaker": "Patrolling Policeman",
+   "en": "Once again, nothing to report.[n]There are many people falling[n]victim, yet no perpetrators...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_POLICE_001#1",
+   "speaker": "Patrolling Policeman",
+   "en": "They appear and disappear as they[n]please... Not only that, but they blend[n]in with normal teenagers...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_POLICE_002#0",
+   "speaker": "Alert Officer",
+   "en": "Stop complaining! If we don't try getting[n]information, people will say the police[n]are useless!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_POLICE_002#1",
+   "speaker": "Alert Officer",
+   "en": "The media are already on our case,[n]and the higher-ups aren't doing a[n]thing... This is bad for morale...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_POLICE_101#0",
+   "speaker": "Patrolling Policeman",
+   "en": "We can't talk to every single young[n]person who walks by here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_POLICE_102#0",
+   "speaker": "Alert Officer",
+   "en": "Yeah, there are a lot of kids...[n]They're just not sending enough[n]officers. What can we do...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_HOMELESS_0#0",
+   "speaker": "Man Wearing Hat",
+   "en": "What's wrong, kid? Don't see[n]guys like me very often?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E24330100_HOMELESS_0#0",
+   "speaker": null,
+   "en": "I want a part-time job.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E24330100_HOMELESS_0#1",
+   "speaker": null,
+   "en": "Are you in the mafia?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_HOMELESS_0_2#0",
+   "speaker": "Man Wearing Hat",
+   "en": "Hm? Is that supposed to be some[n]kinda password? I have no idea[n]what you're talking about.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_HOMELESS_0_3#0",
+   "speaker": "Man Wearing Hat",
+   "en": "Why are you talking about that[n]dangerous stuff all of a sudden?[n]I don't know anything about them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_HOMELESS_0_4#0",
+   "speaker": "Man Wearing Hat",
+   "en": "I haven't been here long.[n]Try talking to someone else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E24330100_HOMELESS_0_2#0",
+   "speaker": null,
+   "en": "Introduce me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E24330100_HOMELESS_0_2#1",
+   "speaker": null,
+   "en": "Don't play dumb with me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_HOMELESS_0_5#0",
+   "speaker": "Man Wearing Hat",
+   "en": "That ain't so easy... I only know[n]one guy around here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_HOMELESS_0_6#0",
+   "speaker": "Man Wearing Hat",
+   "en": "Are you confusing me with someone else?[n]I've got a friend around here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_HOMELESS_0_7#0",
+   "speaker": "Man Wearing Hat",
+   "en": "Sometimes I see him in the alley across[n]the way, but I don't think he's there today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_HOMELESS_0_7#1",
+   "speaker": "Man Wearing Hat",
+   "en": "He might be near the station.[n]Go there if you wanna see him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_HOMELESS_0_8#0",
+   "speaker": "Morgana",
+   "en": "Hm, maybe this other person would[n]know something...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_HOMELESS_0_8#1",
+   "speaker": "Morgana",
+   "en": "Apparently he's near the train station,[n]so let's go take a look over there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_HOMELESS_1#0",
+   "speaker": "Man Wearing Hat",
+   "en": "I come to Shibuya and all anyone[n]talks about is scams and muggings.[n]What a dangerous place...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_HOMELESS_1#1",
+   "speaker": "Man Wearing Hat",
+   "en": "And now I've got a kid asking me[n]some weird questions. What is[n]this world coming to...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_HOMELESS_1_2#0",
+   "speaker": "Morgana",
+   "en": "He said his friend's over by the station.[n]Let's look there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_HOMELESS_2#0",
+   "speaker": "Man Wearing Hat",
+   "en": "You again? I take it you found[n]your guy at the station?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_HOMELESS_2#1",
+   "speaker": "Man Wearing Hat",
+   "en": "Then please stop talking to me.[n]I don't wanna get involved in[n]all this shady business.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_YUSUKE_001#0",
+   "speaker": "Yusuke",
+   "en": "...I was simply wondering where[n]the arcade is. I'll be going now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_YUSUKE_002#0",
+   "speaker": "Older Officer",
+   "en": "Arcade...? You're a high school[n]student, aren't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_YUSUKE_002#1",
+   "speaker": "Older Officer",
+   "en": "You'd better not be looking for trouble.[n]All kinds of shady activity happens at[n]arcades.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_YUSUKE_003#0",
+   "speaker": "Yusuke",
+   "en": "What are you talking about?[n]It's nothing more than a place[n]you go to play games...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_YUSUKE_101#0",
+   "speaker": "Older Officer",
+   "en": "Look, just don't get into that stuff[n]until you're an adult, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_YUSUKE_102#0",
+   "speaker": "Yusuke",
+   "en": "I truly haven't the slightest idea[n]what you're talking about...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_YUSUKE_103#0",
+   "speaker": "Morgana",
+   "en": "It looks like Yusuke's in trouble.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_YUSUKE_103#1",
+   "speaker": "Morgana",
+   "en": "I guess we can go in his place though.[n]We want the back alley in front of the[n]arcade, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_MAKOTO_001#0",
+   "speaker": "Makoto",
+   "en": "Are you investigating here with[n]your friends today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_MAKOTO_001#1",
+   "speaker": "Makoto",
+   "en": "I hope something comes of it.[n]I'll be counting on you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_MAKOTO_002#0",
+   "speaker": "Morgana",
+   "en": "Is she following us? Nah, that can't be.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330100_MAKOTO_101#0",
+   "speaker": "Makoto",
+   "en": "I bought my study guides,[n]so next on the list is...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330300_OUTLAW_001#0",
+   "speaker": "Menacing Man",
+   "en": "Hey, aren't you interested in all[n]the hottest brand names?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330300_OUTLAW_001#1",
+   "speaker": "Menacing Man",
+   "en": "We're having a special sale just over there.[n]How 'bout you go take a peek?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330300_OUTLAW_002#0",
+   "speaker": "Pierced Man",
+   "en": "We ordered way too much,[n]so I have a ton left over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330300_OUTLAW_002#1",
+   "speaker": "Pierced Man",
+   "en": "My boss'll kill me if I go back to him[n]with all these extras.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330300_OUTLAW_002#2",
+   "speaker": "Pierced Man",
+   "en": "Look, I'll sell 'em to you for cheap.[n]Whaddya say?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330300_OUTLAW_003#0",
+   "speaker": "Bespectacled Student",
+   "en": "What should we do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330300_OUTLAW_004#0",
+   "speaker": "Brown-Haired Student",
+   "en": "It depends on the price, wouldn't you say?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330300_OUTLAW_005#0",
+   "speaker": "Pierced Man",
+   "en": "Hey, what about you?[n]These are unforgettable deals.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL__E24330300_OUTLAW_00#0",
+   "speaker": null,
+   "en": "I'm busy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL__E24330300_OUTLAW_00#1",
+   "speaker": null,
+   "en": "I'm not interested.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330300_OUTLAW_007#0",
+   "speaker": "Pierced Man",
+   "en": "Well that's disappointing. Come back[n]if you change your mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330300_OUTLAW_008#0",
+   "speaker": "Menacing Man",
+   "en": "C'mon, the shop's right around here.[n]How about you come take a look?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330300_OUTLAW_009#0",
+   "speaker": "Morgana",
+   "en": "It seems like some kind of sale.[n]You probably shouldn't bother.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330300_OUTLAW_101#0",
+   "speaker": "Menacing Man",
+   "en": "You're free to look as much as you want.[n]It's fine by me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24330300_OUTLAW_102#0",
+   "speaker": "Morgana",
+   "en": "Hey, don't talk to him. Let's get moving.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

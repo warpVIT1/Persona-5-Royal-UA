@@ -1,0 +1,348 @@
+{
+ "file": "EN/EVENT_DATA/SCRIPT/E700/E761_301.BF",
+ "entries": [
+  {
+   "id": "MSG_rnd00#0",
+   "speaker": "Morgana",
+   "en": "*sniff sniff*... I smell soap from the[n]bathhouse next-door...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_rnd01#0",
+   "speaker": "Morgana",
+   "en": "Well, I hope this will wash clean...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_rnd02#0",
+   "speaker": "Morgana",
+   "en": "It would have been nice if you had[n]a washing machine in your room...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_rnd03#0",
+   "speaker": "Morgana",
+   "en": "The shaking of the washing machine[n]makes it feel pretty comfortable when[n]you sit on top.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_rnd_2_00#0",
+   "speaker": "Morgana",
+   "en": "All right, how'd it come out?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_rnd_2_01#0",
+   "speaker": "Morgana",
+   "en": "Let's see what we got.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_rnd_2_02#0",
+   "speaker": "Morgana",
+   "en": "Let's look inside. I wonder if it[n]got clean...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GET_ITEM#0",
+   "speaker": "Morgana",
+   "en": "Oooh! This is much cleaner than[n]I expected!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TEST_SOJIRO_00#0",
+   "speaker": "Sojiro",
+   "en": "Oh... it's you. I don't normally see kids[n]your age in here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TEST_SOJIRO_00#1",
+   "speaker": "Sojiro",
+   "en": "I don't know what you're washing, but I'll[n]give you credit for covering the cost on[n]your own.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TEST_SOJIRO_00#2",
+   "speaker": "Sojiro",
+   "en": "Well, I'll get out of your hair. Don't forget[n]to lock up later, you hear?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TEST_SOJIRO_01#0",
+   "speaker": "Sojiro",
+   "en": "Hey, you doing laundry again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TEST_SOJIRO_01#1",
+   "speaker": "Sojiro",
+   "en": "Is this where the kids like to hang out[n]these days? You're an odd one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TEST_SOJIRO_01#2",
+   "speaker": "Sojiro",
+   "en": "Well, I'll get out of your hair. Don't forget[n]to lock up later, you hear?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TEST_TAKEMI_00_0#0",
+   "speaker": "Takemi",
+   "en": "Hm... I didn't expect to run into you here,[n]of all places.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TEST_TAKEMI_00_0#1",
+   "speaker": "Takemi",
+   "en": "You have me a bit worried, given your[n]medical situation. But don't worry, I[n]won't pry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TEST_TAKEMI_01_0#0",
+   "speaker": "Takemi",
+   "en": "...Hello again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TEST_TAKEMI_01_0#1",
+   "speaker": "Takemi",
+   "en": "You look healthy, as always. Do you[n]even need my medicine?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TEST_TAKEMI_00_1#0",
+   "speaker": "Takemi",
+   "en": "Good evening.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TEST_TAKEMI_00_1#1",
+   "speaker": "Takemi",
+   "en": "You seem to be doing all right. Glad to[n]see it, as I've been careful with all that[n]I make for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TEST_TAKEMI_00_1#2",
+   "speaker": "Takemi",
+   "en": "I have to thank you, my little guinea pig.[n]The data I've gathered has been a great[n]help.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOR_MASTER_COMMENT#0",
+   "speaker": "Morgana",
+   "en": "Feels good to be praised by the chief,[n]huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOR_DOCTER_COMMENT_0#0",
+   "speaker": "Morgana",
+   "en": "That was a lot of lab coats...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOR_DOCTER_COMMENT_0_2#0",
+   "speaker": "Morgana",
+   "en": "Something's fishy about that doctor.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TAKEMI_coin_1st_01#0",
+   "speaker": "Takemi",
+   "en": "Good evening. Sorry, but a student's[n]night life is of no interest to me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TAKEMI_coin_1st_02#0",
+   "speaker": "Takemi",
+   "en": "Just kidding. What are you doing here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TAKEMI#0",
+   "speaker": null,
+   "en": "I needed to drop by...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TAKEMI#1",
+   "speaker": null,
+   "en": "Just doing my laundry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TAKEMI_coin_1st_03#0",
+   "speaker": "Takemi",
+   "en": "Wow, you're the first person I've known[n]who actually uses this laundromat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TAKEMI_coin_1st_03#1",
+   "speaker": "Takemi",
+   "en": "Heh... You must be enjoying yourself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TAKEMI_coin_1st_04#0",
+   "speaker": "Takemi",
+   "en": "I'll see you back at the clinic. Have a[n]good night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TAKEMI_coin_01#0",
+   "speaker": "Takemi",
+   "en": "Good evening. Doing some more laundry?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TAKEMI_coin_02#0",
+   "speaker": "Takemi",
+   "en": "I saw a student walk out, so I knew it[n]must be you. Heh... You've really[n]settled in here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TAKEMI_coin_03#0",
+   "speaker": "Takemi",
+   "en": "I'll see you back at the clinic. Have a[n]good night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOJIRO_coin_1st_01#0",
+   "speaker": "Sojiro",
+   "en": "Oh... it's you. I couldn't see who it was[n]in the dark.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOJIRO_coin_1st_02#0",
+   "speaker": "Sojiro",
+   "en": "What are you doing here? It's getting late.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SOJIRO#0",
+   "speaker": null,
+   "en": "I needed to stop by...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SOJIRO#1",
+   "speaker": null,
+   "en": "Just finished my laundry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOJIRO_coin_1st_03#0",
+   "speaker": "Sojiro",
+   "en": "Oh, so you're actually paying to do your[n]laundry? Good for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOJIRO_coin_1st_03#1",
+   "speaker": "Sojiro",
+   "en": "Takes me back to my own school days...[n]Man, I'm gettin' old.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOJIRO_coin_1st_04#0",
+   "speaker": "Sojiro",
+   "en": "Anyway, don't forget to lock up shop[n]when you get home. See you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOJIRO_coin_01#0",
+   "speaker": "Sojiro",
+   "en": "Oh, it's you. I was just about to head[n]home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOJIRO_coin_02#0",
+   "speaker": "Sojiro",
+   "en": "Don't forget to lock— Er, you know what[n]to do by now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOJIRO_coin_03#0",
+   "speaker": "Sojiro",
+   "en": "All right, it's on you. Night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEBUG#0",
+   "speaker": "Debug",
+   "en": "Debug Mode",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#0",
+   "speaker": null,
+   "en": "Sojiro (1st)",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#1",
+   "speaker": null,
+   "en": "Sojiro (normal)",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#2",
+   "speaker": null,
+   "en": "Takemi (1st)",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#3",
+   "speaker": null,
+   "en": "Takemi (normal)",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

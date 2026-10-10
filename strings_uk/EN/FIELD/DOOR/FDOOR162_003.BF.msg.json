@@ -1,0 +1,68 @@
+{
+ "file": "EN/FIELD/DOOR/FDOOR162_003.BF",
+ "entries": [
+  {
+   "id": "NOT_OPEN_DOOR#0",
+   "speaker": null,
+   "en": "The door is tightly sealed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "LOCK_DOOR#0",
+   "speaker": null,
+   "en": "The door is locked.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FLD162_010_notkey_mes_01#0",
+   "speaker": "Akechi",
+   "en": "What are you doing? There's no point[n]inspecting that right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FLD162_010_notkey_3rd_me#0",
+   "speaker": "Futaba",
+   "en": "Figures it won't open normally.[n]Try checking that authentication[n]device on the side there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FLD162_03_notkey_check_g#0",
+   "speaker": "Futaba",
+   "en": "Let's check out the security door first.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FLD162_03_notkey_check_g#1",
+   "speaker": "Futaba",
+   "en": "We might learn something.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FLD162_010_enemy_return_#0",
+   "speaker": "Patrolman in Lab Coat",
+   "en": "Someone requested a replacement[n]ID card after their's stopped working,[n]but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FLD162_010_enemy_return_#1",
+   "speaker": "Patrolman in Lab Coat",
+   "en": "Now I can't find whoever made the[n]request! I don't have time for this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FLD162_010_enemy_return_#2",
+   "speaker": "Patrolman in Lab Coat",
+   "en": "Tch, whatever. If someone really[n]needs it, they'll call about it.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

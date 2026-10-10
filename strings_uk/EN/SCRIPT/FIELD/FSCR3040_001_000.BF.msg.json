@@ -1,0 +1,208 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR3040_001_000.BF",
+ "entries": [
+  {
+   "id": "SHELF_CLEAN_mes00#0",
+   "speaker": null,
+   "en": "There are a lot of books just piled up[n]haphazardly here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHELF_CLEAN_NG_TEACHER#0",
+   "speaker": null,
+   "en": "I should be able to use the[n]shelves if I organize the books.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHELF_CLEAN_NG_TEACHER#1",
+   "speaker": null,
+   "en": "I can't handle this all on my own,[n]though. Maybe if I asked some[n]kind of cleaning professional...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHELF_CLEAN_NG_mes01#0",
+   "speaker": null,
+   "en": "I'm too tired to clean...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHELF_CLEAN_MENU#0",
+   "speaker": null,
+   "en": "I might be able to put something[n]here if I clean up a bit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHELF_CLEAN_MENU#1",
+   "speaker": null,
+   "en": "Should I spend some time cleaning?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHELF_CLEAN_MENU_SEL#0",
+   "speaker": null,
+   "en": "Clean",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHELF_CLEAN_MENU_SEL#1",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHELF_CLEAN_mes01#0",
+   "speaker": null,
+   "en": "A couple of books in this[n]pile of mostly old magazines[n]look pretty interesting...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHELF_CLEAN_mes01#1",
+   "speaker": null,
+   "en": "[clr 4]\"Fun Single Life\"[clr 27] and[n][clr 4]\"Having Fun in Shibuya\"[clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHELF_CLEAN_mes01#2",
+   "speaker": null,
+   "en": "These might have some good[n]information that'll help me[n]live on my own in the big city...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHELF_CLEAN_mes01#3",
+   "speaker": null,
+   "en": "If I want to read them, I could[n]probably concentrate on them[n]better at the counter in Leblanc.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHELF_CLEAN_ITEM_GET#0",
+   "speaker": null,
+   "en": "You obtained [clr 4]\"Fun Single Life\"[clr 27][n]and [clr 4]\"Having Fun in Shibuya\"[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHELF_CLEAN_mes02#0",
+   "speaker": null,
+   "en": "These shelves seem[n]a little more organized now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHELF_CLEAN_PARAM_UP#0",
+   "speaker": null,
+   "en": "Organizing that pile of magazines[n]without knocking it over increased[n]my [clr 1]cleverness[clr 27]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHELF_CLEAN_END_mes01#0",
+   "speaker": null,
+   "en": "I could probably put something here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHELF_CLEAN_END_mes01#1",
+   "speaker": null,
+   "en": "Once things calm down, maybe[n]I can buy some [clr 2]furniture[clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHELF_CLEAN_END_mes02#0",
+   "speaker": "Morgana",
+   "en": "Since you cleaned this shelf, it would be nice[n]to put something on it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHELF_CLEAN_END_mes02#1",
+   "speaker": "Morgana",
+   "en": "This room is pretty bland, but all this quiet[n]makes it feel kind of gloomy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHELF_CLEAN_END_mes02#2",
+   "speaker": "Morgana",
+   "en": "Oh, I know! Having a [clr 2]CD player[clr 27] here would[n]be quite nice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHELF_CLEAN_END_mes02#3",
+   "speaker": "Morgana",
+   "en": "If you put on some music on while you train[n]yourself, getting in the rhythm may make it[n]more effective.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHELF_CLEAN_END_mes02#4",
+   "speaker": "Morgana",
+   "en": "Okay, let's look for a [clr 2]CD player[clr 27] so we can[n]put it on the shelf.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHELF_CLEAN_END_CD#0",
+   "speaker": "Morgana",
+   "en": "I think it'd be good to put the [clr 2]CD player[clr 27] you[n]have on this shelf.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHELF_CLEAN_END_CD#1",
+   "speaker": "Morgana",
+   "en": "Do you want to put the [clr 2]CD player[clr 27] on the[n]table?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHELF_CLEAN_END_CD#0",
+   "speaker": null,
+   "en": "Sure, let's do that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHELF_CLEAN_END_CD#1",
+   "speaker": null,
+   "en": "No, not really.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHELF_CLEAN_END_CD_OK#0",
+   "speaker": "Morgana",
+   "en": "All right! Let's set it up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHELF_CLEAN_END_CD_NO#0",
+   "speaker": "Morgana",
+   "en": "You're not going to do it? Just so you know,[n]you can only put the TV on this table!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHELF_CLEAN_END_mes03#0",
+   "speaker": null,
+   "en": "I should get to bed...",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

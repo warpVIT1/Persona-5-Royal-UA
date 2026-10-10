@@ -1,0 +1,1650 @@
+{
+ "file": "EN/EVENT_DATA/SCRIPT/E700/E760_711.BF",
+ "entries": [
+  {
+   "id": "MSG_GAMESTART#0",
+   "speaker": "Morgana",
+   "en": "Let's start up the Legend of Gambla[n]Goemon USA.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAMESTART_NULL#0",
+   "speaker": null,
+   "en": "Time to start up the Legend of Gambla[n]Goemon USA...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_FI#0",
+   "speaker": "Morgana",
+   "en": "By the way, haven't you read[n]that secret technique book?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_FI#1",
+   "speaker": "Morgana",
+   "en": "If you get stuck, Goemon will cut[n]through the problem using his[n]specialty cheat...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_NU#0",
+   "speaker": null,
+   "en": "Now that I think about it, I've[n]actually read a book on secret[n]video game techniques...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_NU#1",
+   "speaker": null,
+   "en": "It said Goemon will cut through[n]any obstacle in my way with[n]his special cheat trick...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_FI_2#0",
+   "speaker": "Morgana",
+   "en": "So, do you want to use the trick?[n]It'll make the game easier.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_201_6_0#0",
+   "speaker": null,
+   "en": "Should I use the secret technique?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_001_0_0#0",
+   "speaker": null,
+   "en": "Use the technique",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_001_0_0#1",
+   "speaker": null,
+   "en": "Play the game normally",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_YE#0",
+   "speaker": "Morgana",
+   "en": "Yeah. You should use whatever means[n]are available to you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_203_6_0#0",
+   "speaker": null,
+   "en": "Okay, I think this should make the[n]game a bit less difficult...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_NO#0",
+   "speaker": "Morgana",
+   "en": "Spoken like a true warrior. Good luck!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_202_6_0#0",
+   "speaker": null,
+   "en": "I should try using my[n]own skills to beat it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Ura01#0",
+   "speaker": "Morgana",
+   "en": "Damn... You missed. And we're out of[n]chances...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Ura01#1",
+   "speaker": "Morgana",
+   "en": "Wait, what's that? Goemon's hand[n]is glowing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Ura_kooni#0",
+   "speaker": "Imp",
+   "en": "Ack... That's bright!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Ura_oni#0",
+   "speaker": "Demon",
+   "en": "Hrgh... So bright!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Ura_enma#0",
+   "speaker": "King Yama",
+   "en": "Harrumph! Such powerful light!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Ura02#0",
+   "speaker": "Morgana",
+   "en": "H-Hey, the pips on the dice changed!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Ura_kooni03#0",
+   "speaker": "Imp",
+   "en": "Huh? I thought it was something else...[n]Well, you win.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Ura_oni03#0",
+   "speaker": "Demon",
+   "en": "Hm? I thought it was something else...[n]You win.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Ura_enma03#0",
+   "speaker": "King Yama",
+   "en": "Harrumph... I thought it was something[n]else. You win.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_0#0",
+   "speaker": "Morgana",
+   "en": "So, this game is about a notorious[n]thief who fell down into hell...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_205_6_0#0",
+   "speaker": null,
+   "en": "This game is apparently about a[n]famous thief who fell down into[n]the depths of hell...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_110_0_0#0",
+   "speaker": "Morgana",
+   "en": "Wait, I see someone up ahead... Is that[n]an imp?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_225_6_0#0",
+   "speaker": null,
+   "en": "I see someone up ahead... It looks like[n]an imp.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STEP2_START_02_MORU_#0",
+   "speaker": "Morgana",
+   "en": "Look, there's another gate up ahead...[n]and a big guy standing in front of it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_STEP2_START_02_st2#0",
+   "speaker": null,
+   "en": "There's a big guy standing in front of[n]a gate...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STEP2_START_02_MORU__2#0",
+   "speaker": "Morgana",
+   "en": "Is that... a shrine? There's a giant demon[n]guy in red clothes standing over there...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_STEP2_START_02_st3#0",
+   "speaker": null,
+   "en": "Is that a shrine...? There's a[n]giant in red clothing over there...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_TUTORI#0",
+   "speaker": "Imp",
+   "en": "So the deceitful thief who ravaged the[n]world has shamelessly entered this[n]infernal domain...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_TUTORI#1",
+   "speaker": "Imp",
+   "en": "I shall show you the horrors of hell...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_TUTORI#2",
+   "speaker": "Imp",
+   "en": "At least, I would... but it'd be boring to[n]treat the famous Goemon the same as[n]any old person.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_TUTORI#3",
+   "speaker": "Imp",
+   "en": "Instead, we will use the two dice in[n]my hand for a little game. I call it...[n]High or Low!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAMBLE_TUTORIAL_MORU#0",
+   "speaker": "Morgana",
+   "en": "Hm, it sounds like we just have to beat[n]this imp in a dice game...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAMBLE_TUTORIAL_02#0",
+   "speaker": null,
+   "en": "I guess I just need to beat this imp at[n]a dice game...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_TUTORI_2#0",
+   "speaker": "Imp",
+   "en": "First, you'll have to choose between[n]either high or low.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_TUTORI_2#1",
+   "speaker": "Imp",
+   "en": "I will call a number before rolling the dice.[n]If you think the dice will show a higher[n]number than mine, you call \"high.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_TUTORI_2#2",
+   "speaker": "Imp",
+   "en": "If you think the dice will show a lower[n]number, you call \"low.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_TUTORI_2#3",
+   "speaker": "Imp",
+   "en": "I'll roll the dice three times. If you call it[n]right just once, I'll let you pass.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_TUTORI_2#4",
+   "speaker": "Imp",
+   "en": "And that's it... Do you understand the[n]rules?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMBLE_TUTORIAL_YES_NO#0",
+   "speaker": null,
+   "en": "Absolutely.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMBLE_TUTORIAL_YES_NO#1",
+   "speaker": null,
+   "en": "Not quite.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAMBLE_TUTORIAL_2_MO#0",
+   "speaker": "Morgana",
+   "en": "It's the imp again. Do you want to ask it[n]about the rules?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAMBLE_TUTORIAL_2_02#0",
+   "speaker": null,
+   "en": "The imp is up ahead... Should I go ask it[n]the rules?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMBLE_TUTORIAL_STEP2_YE#0",
+   "speaker": null,
+   "en": "Ask about the rules",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GAMBLE_TUTORIAL_STEP2_YE#1",
+   "speaker": null,
+   "en": "Don't ask",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_TUTORI_3#0",
+   "speaker": "Imp",
+   "en": "I'll roll the dice three times. If you call[n]it right just once, I'll let you pass.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STEP2_START_st2#0",
+   "speaker": "Demon",
+   "en": "Hmph. Do you truly think you can[n]escape from hell so easily?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STEP2_START_st2#1",
+   "speaker": "Demon",
+   "en": "I am a Red Demon. My mere presence[n]can make a crying child fall silent.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STEP2_START_03_MORU_#0",
+   "speaker": "Morgana",
+   "en": "Do you think he'll want us to play[n]another dice game?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_STEP2_START_03_st2#0",
+   "speaker": null,
+   "en": "I wonder if we'll need to[n]play another dice game...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAMBLE_TUTORIAL_STEP#0",
+   "speaker": "Morgana",
+   "en": "Hm, the demon is still there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAMBLE_TUTORIAL_STEP#1",
+   "speaker": "Morgana",
+   "en": "We'll have to play another gambling[n]game. Do you want to go ask about[n]the rules again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAMBLE_TUTORIAL_STEP_2#0",
+   "speaker": null,
+   "en": "A demon is waiting for me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAMBLE_TUTORIAL_STEP_2#1",
+   "speaker": null,
+   "en": "I'm about to face another[n]gambling challenge. Maybe I[n]should ask for the rules again...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STEP2_START_04_st2#0",
+   "speaker": "Demon",
+   "en": "I'm sure the imp told you the rules...[n]but do you need to hear them again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_TUTORI_4#0",
+   "speaker": "Demon",
+   "en": "First, you will have to choose between[n]either high or low.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_TUTORI_4#1",
+   "speaker": "Demon",
+   "en": "I will call a number before rolling the dice.[n]If you think the dice will show a higher[n]number than mine, you call \"high.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_TUTORI_4#2",
+   "speaker": "Demon",
+   "en": "If you think the dice will show a lower[n]number, you call \"low.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_TUTORI_4#3",
+   "speaker": "Demon",
+   "en": "Win two rounds in a row, and I will let you[n]pass.[n][vp 8 2 0 0 65535 0]You will have three chances.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_TUTORI_4#4",
+   "speaker": "Demon",
+   "en": "That's all there is to it... Do you understand[n]the rules, now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_TUTORI_5#0",
+   "speaker": "Demon",
+   "en": "Win two rounds in a row, and I will let[n]you pass.[n][vp 8 2 0 0 65535 0]You will have three chances.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STEP2_START_st3#0",
+   "speaker": "King Yama",
+   "en": "So you've come! Wonderful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STEP2_START_st3#1",
+   "speaker": "King Yama",
+   "en": "My name is King Yama. Whatever[n]happens down in this land of torment[n]is my doing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STEP2_START_03_MORU__2#0",
+   "speaker": "Morgana",
+   "en": "Do you think he'll want us to play[n]another dice game?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_STEP2_START_03_st3#0",
+   "speaker": null,
+   "en": "I wonder if we'll need to[n]play another dice game...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAMBLE_TUTORIAL_STEP_3#0",
+   "speaker": "Morgana",
+   "en": "Hm, King Yama is still there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAMBLE_TUTORIAL_STEP_3#1",
+   "speaker": "Morgana",
+   "en": "We'll have to play another gambling[n]game. Do you want to go ask about[n]the rules again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAMBLE_TUTORIAL_STEP_4#0",
+   "speaker": null,
+   "en": "King Yama is waiting for me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAMBLE_TUTORIAL_STEP_4#1",
+   "speaker": null,
+   "en": "I'm about to face another[n]gambling challenge. Maybe I[n]should ask for the rules again...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STEP2_START_02_st3#0",
+   "speaker": "King Yama",
+   "en": "I'm sure the others told you the rules...[n]but would you like to hear them again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_TUTORI_6#0",
+   "speaker": "King Yama",
+   "en": "First, you must choose either high or low.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_TUTORI_6#1",
+   "speaker": "King Yama",
+   "en": "I will call a number before rolling the dice.[n]If you think the dice will show a higher[n]number than mine, you call \"high.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_TUTORI_6#2",
+   "speaker": "King Yama",
+   "en": "Win all three rounds, and I will let you pass.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_TUTORI_6#3",
+   "speaker": "King Yama",
+   "en": "You will have three chances.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_TUTORI_6#4",
+   "speaker": "King Yama",
+   "en": "That's all there is to it... Do you understand[n]the rules, now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_TUTORI_7#0",
+   "speaker": "King Yama",
+   "en": "You may have beaten the others, but[n]defeating me will not be so easy!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_TUTORI_7#1",
+   "speaker": "King Yama",
+   "en": "Win all three rounds, and I will let you pass.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_TUTORI_7#2",
+   "speaker": "King Yama",
+   "en": "You will have three chances.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_TUTORI_7#3",
+   "speaker": "King Yama",
+   "en": "If I win, you will remain here to suffer[n]for all eternity!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_START_#0",
+   "speaker": "Imp",
+   "en": "Then let's begin. My first number is[n][clr 2]\"[var 0]\"[clr 27]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_START_#1",
+   "speaker": "Imp",
+   "en": "Based on my [clr 2]\"[var 0]\"[clr 27], what will you choose:[n]High or low? Place your bet!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_START__2#0",
+   "speaker": "Imp",
+   "en": "Let's move on to the second round.[n]The number is [clr 2]\"[var 0]\"[clr 27]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_START__2#1",
+   "speaker": "Imp",
+   "en": "Based on my [clr 2]\"[var 0]\"[clr 27], what will you choose:[n]High or low? Place your bet!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_START__3#0",
+   "speaker": "Imp",
+   "en": "Hehe, this is the final round. The number is[n][clr 2]\"[var 0]\"[clr 27]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_START__3#1",
+   "speaker": "Imp",
+   "en": "Based on my [clr 2]\"[var 0]\"[clr 27], what will you choose:[n]High or low? Place your bet!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_START__4#0",
+   "speaker": null,
+   "en": "High",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_START__4#1",
+   "speaker": null,
+   "en": "Low",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_TEN_st#0",
+   "speaker": "Imp",
+   "en": "Ah, you've called \"high\"... so if the dice[n]show any number above [clr 2]\"[var 0]\"[clr 27], you win.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_CHI_st#0",
+   "speaker": "Imp",
+   "en": "Oh, you've called \"low\"... so if the dice[n]show any number below [clr 2]\"[var 0]\"[clr 27], you win.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_GO_st1#0",
+   "speaker": "Imp",
+   "en": "Well then, let's see the results!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_START__5#0",
+   "speaker": "Demon",
+   "en": "Then let us begin. My first number is [clr 2]\"[var 0]\"[clr 27]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_START__5#1",
+   "speaker": "Demon",
+   "en": "Based on my [clr 2]\"[var 0]\"[clr 27], what will you call:[n]High or low? Place your bet!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_START__6#0",
+   "speaker": "Demon",
+   "en": "Let us move on to the second round.[n]The number is [clr 2]\"[var 0]\"[clr 27]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_START__6#1",
+   "speaker": "Demon",
+   "en": "Based on my [clr 2]\"[var 0]\"[clr 27], what will you call:[n]High or low? Place your bet!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_START__7#0",
+   "speaker": "Demon",
+   "en": "This is the final round... The number is[n][clr 2]\"[var 0]\"[clr 27]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_START__7#1",
+   "speaker": "Demon",
+   "en": "Based on my [clr 2]\"[var 0]\"[clr 27], what will you call:[n]High or low? Place your bet!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_TEN_st_2#0",
+   "speaker": "Demon",
+   "en": "Ah, you've called \"high\"... so if the dice[n]show any number above [clr 2]\"[var 0]\"[clr 27], you win.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_CHI_st_2#0",
+   "speaker": "Demon",
+   "en": "Oh, you've called \"low\"... so if the dice[n]show any number below [clr 2]\"[var 0]\"[clr 27], you win.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_GO_st2#0",
+   "speaker": "Demon",
+   "en": "Well, then, let us find out what it will be!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_START__8#0",
+   "speaker": "King Yama",
+   "en": "Then let us begin. My first number is [clr 2]\"[var 0]\"[clr 27]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_START__8#1",
+   "speaker": "King Yama",
+   "en": "Based on my [clr 2]\"[var 0]\"[clr 27], what will you call:[n]High or low? Place your bet!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_START__9#0",
+   "speaker": "King Yama",
+   "en": "Let us move on to the second round.[n]The number is [clr 2]\"[var 0]\"[clr 27]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_START__9#1",
+   "speaker": "King Yama",
+   "en": "Based on my [clr 2]\"[var 0]\"[clr 27], what will you call:[n]High or low? Place your bet!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_START__10#0",
+   "speaker": "King Yama",
+   "en": "Hehe, this is the final round. The number is[n][clr 2]\"[var 0]\"[clr 27]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_START__10#1",
+   "speaker": "King Yama",
+   "en": "Based on my [clr 2]\"[var 0]\"[clr 27], what will you call:[n]High or low? Place your bet!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_TEN_st_3#0",
+   "speaker": "King Yama",
+   "en": "Ah, you've called \"high\"... so if the dice[n]show any number above [clr 2]\"[var 0]\"[clr 27], you win.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_CHI_st_3#0",
+   "speaker": "King Yama",
+   "en": "Oho, you've called \"low\"... so if the dice[n]show any number below [clr 2]\"[var 0]\"[clr 27], you win.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_GO_st3#0",
+   "speaker": "King Yama",
+   "en": "Now then, the moment of truth!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_Win_st1#0",
+   "speaker": "Imp",
+   "en": "Nghhh... What incredible luck!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_Win_st2#0",
+   "speaker": "Demon",
+   "en": "Nghhh... But your luck shall soon run out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_Win_st2#1",
+   "speaker": "Demon",
+   "en": "Now, call high or low based on the[n]previous roll of the dice!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_Win_st2#2",
+   "speaker": "Demon",
+   "en": "Based on [clr 2]\"[var 0]\"[clr 27], what will you call:[n]High or low? Place your bet!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_Win_02_s#0",
+   "speaker": "Demon",
+   "en": "Nghhh... What incredible luck!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_Win_st3#0",
+   "speaker": "King Yama",
+   "en": "Nghhh... not bad, I must say...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_Win_st3#1",
+   "speaker": "King Yama",
+   "en": "Now, call high or low based on the[n]previous roll of the dice!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_Win_st3#2",
+   "speaker": "King Yama",
+   "en": "Based on [clr 2]\"[var 0]\"[clr 27], what will you call:[n]High or low? Place your bet!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_Win_02_s_2#0",
+   "speaker": "King Yama",
+   "en": "Grrr... I did not expect to be cornered[n]in this manner...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_Win_02_s_2#1",
+   "speaker": "King Yama",
+   "en": "If you can correctly call the next round,[n]I shall concede defeat. Let us see what[n]destiny has in store for you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_Win_02_s_2#2",
+   "speaker": "King Yama",
+   "en": "Based on [clr 2]\"[var 0]\"[clr 27], what will you call:[n]High or low? Place your bet!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_Win_03_s#0",
+   "speaker": "King Yama",
+   "en": "Nghhh... What incredible luck!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Moru_Retry#0",
+   "speaker": "Morgana",
+   "en": "Damn... You missed. All right, let's get[n]the next one right!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Moru_Game_Over#0",
+   "speaker": "Morgana",
+   "en": "Damn... You missed. And we're all out of[n]chances...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_CLEAR01_#0",
+   "speaker": "Imp",
+   "en": "Not bad... You are free to proceed!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_CLEAR02_#0",
+   "speaker": "Morgana",
+   "en": "Hey, the imp's gone and the gate opened...[n]It looks like you can keep going now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_JIGOKU_GAME_CLEAR02_#0",
+   "speaker": null,
+   "en": "The imp disappeared and the gate opened...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_CLEAR01__2#0",
+   "speaker": "Demon",
+   "en": "Not bad... You are free to proceed!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_CLEAR02__2#0",
+   "speaker": "Morgana",
+   "en": "Hey, the demon's gone and the gate[n]opened... It looks like you can move[n]onward now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_CLEAR02__3#0",
+   "speaker": null,
+   "en": "The demon disappeared[n]and the gate opened...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_CLEAR01__3#0",
+   "speaker": "King Yama",
+   "en": "Hrgh, y-you won!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_CLEAR01__3#1",
+   "speaker": "King Yama",
+   "en": "It seems as though your fate...[n]has not yet come to an end.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_CLEAR01__3#2",
+   "speaker": "King Yama",
+   "en": "The world of the living is nothing but[n]suffering... I hope you have the strength[n]to survive it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_CLEAR02__4#0",
+   "speaker": "Morgana",
+   "en": "Whoa, the gates of hell are opening...[n]Nice going, Goemon!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_CLEAR02__5#0",
+   "speaker": null,
+   "en": "The gates of hell are opening... I can[n]finally get out!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_RESULT01#0",
+   "speaker": "Morgana",
+   "en": "You somehow managed to clear[n]that stage.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_RESULT01#1",
+   "speaker": "Morgana",
+   "en": "I loved that attitude you had.[n]Your persistence is so cool!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_RESULT01_2#0",
+   "speaker": null,
+   "en": "I managed to clear the stage...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_RESULT01_2#1",
+   "speaker": null,
+   "en": "I feel like I learned how[n]to keep pushing forward without[n]ever giving up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_RESULT_U#0",
+   "speaker": "Morgana",
+   "en": "Good thing you used that secret[n]technique. I don't think we would've[n]made it through without it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_RESULT_U#1",
+   "speaker": "Morgana",
+   "en": "I loved that attitude you had.[n]Your persistence is so cool!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_RESULT_U_2#0",
+   "speaker": null,
+   "en": "I made it through somehow, thanks to[n]that secret technique...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_RESULT_U_2#1",
+   "speaker": null,
+   "en": "I feel like I learned how[n]to keep pushing forward without[n]ever giving up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_OVER_st1#0",
+   "speaker": "Imp",
+   "en": "Bwahahaha! Too bad for you. You lose!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_OVER_st1#1",
+   "speaker": "Imp",
+   "en": "You shall spend all of eternity[n]in these fiery depths!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_OVER_st2#0",
+   "speaker": "Demon",
+   "en": "Gwahaha, how unfortunate.[n]This is your loss!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_OVER_st2#1",
+   "speaker": "Demon",
+   "en": "You shall spend all of eternity[n]in these fiery depths!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_OVER_st3#0",
+   "speaker": "King Yama",
+   "en": "Hehehe, it looks as though you have used[n]up all three chances.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_OVER_st3#1",
+   "speaker": "King Yama",
+   "en": "I suppose that was the extent of your[n]good fortune.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_OVER_st3#2",
+   "speaker": "King Yama",
+   "en": "Just relax as you descend into[n]the infernal pits of hell![n]Gahahahaha!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_S2_CLEAR#0",
+   "speaker": "Morgana",
+   "en": "All right, you finished the Legend of[n]Gambla Goemon USA!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_JIGOKU_GAME_S2_CLEAR#0",
+   "speaker": null,
+   "en": "I finally finished the Legend of Gambla[n]Goemon USA...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_THINK_#0",
+   "speaker": "Morgana",
+   "en": "Nice, you got it right!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_JIGOKU_GAMBLE_THINK_#0",
+   "speaker": null,
+   "en": "I guessed correctly...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_THINK__2#0",
+   "speaker": "Morgana",
+   "en": "Just as I'd expect from Goemon.[n]Our opponent hasn't even noticed[n]a thing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_JIGOKU_GAMBLE_THINK__2#0",
+   "speaker": null,
+   "en": "The enemy didn't notice our trick...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_LOSE#0",
+   "speaker": "Morgana",
+   "en": "You got it wrong...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_JIGOKU_GAMBLE_LOSE#0",
+   "speaker": null,
+   "en": "I guessed wrong...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_OVER_COM#0",
+   "speaker": "Morgana",
+   "en": "What do you think's going to happen to[n]Goemon now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_OVER_COM_2#0",
+   "speaker": null,
+   "en": "I wonder what'll happen to Goemon now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FAILED_UP#0",
+   "speaker": "Morgana",
+   "en": "You might not have won...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FAILED_UP#1",
+   "speaker": "Morgana",
+   "en": "But I loved that attitude you had.[n]Your persistence is so cool!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_FAILED_UP#0",
+   "speaker": null,
+   "en": "I lost...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_FAILED_UP#1",
+   "speaker": null,
+   "en": "But I feel like I learned how to[n]keep pushing forward without ever[n]giving up... at least a bit...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_END_MORU#0",
+   "speaker": "Morgana",
+   "en": "Well, victory in this game really comes[n]down to luck. Just accept your defeat[n]with dignity.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HINTO_BOOK_NO#0",
+   "speaker": "Morgana",
+   "en": "I wish there was a way to make this[n]game a little easier...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_HINTO_BOOK_NO#0",
+   "speaker": null,
+   "en": "If only there was a way to[n]lower the game's difficulty...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HINTO_BOOK00#0",
+   "speaker": "Morgana",
+   "en": "Don't you have a book on secret[n]techniques? Maybe you should[n]try giving it a read sometime.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_HINTO_BOOK04#0",
+   "speaker": null,
+   "en": "Now that I think about it, I have[n]a book on secret techniques...[n]Maybe I should read it sometime.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_DONE_M#0",
+   "speaker": "Morgana",
+   "en": "This is pretty difficult... Let's give it another[n]try sometime!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BOOK_DONE_N#0",
+   "speaker": null,
+   "en": "This is pretty difficult... I'll[n]have to give it another try later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_END_MORU_2#0",
+   "speaker": "Morgana",
+   "en": "Well, it's starting to get late.[n]Let's head to sleep soon, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAME_END_MORU_3#0",
+   "speaker": "Morgana",
+   "en": "That took a really long time...[n]We should probably stop playing[n]games for now, don't you think?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_JIGOKU_GAME_END#0",
+   "speaker": null,
+   "en": "It's getting late...[n]I should head to bed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_JIGOKU_GAME_END_DAY#0",
+   "speaker": null,
+   "en": "Hm, I should probably take a[n]break from all the video games...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PASS_MORU#0",
+   "speaker": "Morgana",
+   "en": "All right, let's enjoy this ending!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_PASS#0",
+   "speaker": null,
+   "en": "Time to enjoy the ending...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_0_0#0",
+   "speaker": "Morgana",
+   "en": "So this manual says if you send in the[n]password you see after the ending...[n]you get a prize?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_0_0#1",
+   "speaker": "Morgana",
+   "en": "...This is a promotion from years ago[n]though. There's probably no point in[n]doing it now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_0_0#2",
+   "speaker": "Morgana",
+   "en": "But I guess it wouldn't hurt to write it[n]down anyway. Maybe some antique[n]game stores are into that kind of thing?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_053_1_0#0",
+   "speaker": null,
+   "en": "Supposedly if I send in the password[n]shown after the ending, I get some[n]kind of prize.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_053_1_0#1",
+   "speaker": null,
+   "en": "But... this is a very old promotion.[n]It's probably not still running...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_053_1_0#2",
+   "speaker": null,
+   "en": "Maybe I should write it[n]down, just in case...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S1_1_1#0",
+   "speaker": "Imp",
+   "en": "Snake eyes... Even!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S1_1_2#0",
+   "speaker": "Imp",
+   "en": "A one and a two... Odd!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S1_1_3#0",
+   "speaker": "Imp",
+   "en": "A one and a three... Even!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S1_1_4#0",
+   "speaker": "Imp",
+   "en": "A one and a four... Odd!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S1_1_5#0",
+   "speaker": "Imp",
+   "en": "A one and a five... Even!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S1_1_6#0",
+   "speaker": "Imp",
+   "en": "A one and a six... Odd!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S1_2_2#0",
+   "speaker": "Imp",
+   "en": "Two twos... Even!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S1_3_2#0",
+   "speaker": "Imp",
+   "en": "A two and a three... Odd!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S1_4_2#0",
+   "speaker": "Imp",
+   "en": "A two and a four... Even!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S1_5_2#0",
+   "speaker": "Imp",
+   "en": "A two and a five... Odd!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S1_6_2#0",
+   "speaker": "Imp",
+   "en": "A two and a six... Even!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S1_3_3#0",
+   "speaker": "Imp",
+   "en": "Double threes... Even!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S1_4_3#0",
+   "speaker": "Imp",
+   "en": "A three and a four... Odd!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S1_5_3#0",
+   "speaker": "Imp",
+   "en": "A three and a five... Even!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S1_6_3#0",
+   "speaker": "Imp",
+   "en": "A three and a six... Odd!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S1_4_4#0",
+   "speaker": "Imp",
+   "en": "Dual fours... Even!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S1_5_4#0",
+   "speaker": "Imp",
+   "en": "A four and a five... Odd!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S1_6_4#0",
+   "speaker": "Imp",
+   "en": "A four and a six... Even!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S1_5_5#0",
+   "speaker": "Imp",
+   "en": "A pair of fives... Even!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S1_5_6#0",
+   "speaker": "Imp",
+   "en": "A five and a six... Odd!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S1_6_6#0",
+   "speaker": "Imp",
+   "en": "A set of sixes... Even!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S2_1_1#0",
+   "speaker": "King Yama",
+   "en": "Snake eyes? It's even!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S2_1_2#0",
+   "speaker": "King Yama",
+   "en": "A one and a two? It's odd!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S2_1_3#0",
+   "speaker": "King Yama",
+   "en": "A one and a three? It's even!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S2_1_4#0",
+   "speaker": "King Yama",
+   "en": "A one and a four? It's odd!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S2_1_5#0",
+   "speaker": "King Yama",
+   "en": "A one and a five? It's even!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S2_1_6#0",
+   "speaker": "King Yama",
+   "en": "A one and a six? It's odd!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S2_2_2#0",
+   "speaker": "King Yama",
+   "en": "Two twos? It's even!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S2_3_2#0",
+   "speaker": "King Yama",
+   "en": "A two and a three? It's odd!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S2_4_2#0",
+   "speaker": "King Yama",
+   "en": "A two and a four? It's even!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S2_5_2#0",
+   "speaker": "King Yama",
+   "en": "A two and a five? It's odd!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S2_6_2#0",
+   "speaker": "King Yama",
+   "en": "A two and a six? It's even!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S2_3_3#0",
+   "speaker": "King Yama",
+   "en": "Double threes? It's even!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S2_4_3#0",
+   "speaker": "King Yama",
+   "en": "A three and a four? It's odd!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S2_5_3#0",
+   "speaker": "King Yama",
+   "en": "A three and a five? It's even!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S2_6_3#0",
+   "speaker": "King Yama",
+   "en": "A three and a six? It's odd!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S2_4_4#0",
+   "speaker": "King Yama",
+   "en": "Dual fours? It's even!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S2_5_4#0",
+   "speaker": "King Yama",
+   "en": "A four and a five? It's odd!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S2_6_4#0",
+   "speaker": "King Yama",
+   "en": "A four and a six? It's even!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S2_5_5#0",
+   "speaker": "King Yama",
+   "en": "A pair of fives? It's even!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S2_5_6#0",
+   "speaker": "King Yama",
+   "en": "A five and a six? It's odd!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIGOKU_GAMBLE_S2_6_6#0",
+   "speaker": "King Yama",
+   "en": "A set of sixes? It's even!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEBUG#0",
+   "speaker": "for debug",
+   "en": "debug mode",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#0",
+   "speaker": null,
+   "en": "with morgana",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#1",
+   "speaker": null,
+   "en": "no morgana",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEBUG_2#0",
+   "speaker": "for debug",
+   "en": "debug mode",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_2#0",
+   "speaker": null,
+   "en": "Stage 1",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_2#1",
+   "speaker": null,
+   "en": "Stage 2",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEBUG_3#0",
+   "speaker": "for debug",
+   "en": "debug mode",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_3#0",
+   "speaker": null,
+   "en": "1st time",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_3#1",
+   "speaker": null,
+   "en": "2nd time",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

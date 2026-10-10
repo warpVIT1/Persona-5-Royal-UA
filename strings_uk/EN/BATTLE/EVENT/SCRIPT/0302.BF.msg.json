@@ -1,0 +1,943 @@
+{
+ "file": "EN/BATTLE/EVENT/SCRIPT/0302.BF",
+ "entries": [
+  {
+   "id": "MSG_BTLARTISTENTRY_000_0#0",
+   "speaker": "Shadow Madarame",
+   "en": "Now... let's begin, you vermin!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLARTISTENTRY_010_0#0",
+   "speaker": "Yusuke",
+   "en": "You used others for your own[n]despicable desires, Madarame...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLARTISTENTRY_010_0#1",
+   "speaker": "Yusuke",
+   "en": "You aren't even worth the art[n]you \"create\"!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLARTISTENTRY_020_0#0",
+   "speaker": "Morgana",
+   "en": "Don't let your guard down, Joker![n]We don't know what he's gonna do!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLHOLDUP_100_002#0",
+   "speaker": "Morgana",
+   "en": "Madarame's out!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLHOLDUP_010_000#0",
+   "speaker": "Shadow Madarame",
+   "en": "Dammit... I'm the great Madarame...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLHOLDUP_011_000#0",
+   "speaker": "Shadow Madarame",
+   "en": "The Madarame who gathers a full[n]crowd every time he opens an exhibit!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLHOLDUP_012_000#0",
+   "speaker": "Shadow Madarame",
+   "en": "I'm not someone that worthless brats[n]like you are allowed to defy!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLHOLDUP_020_004#0",
+   "speaker": "Yusuke",
+   "en": "Enough of your egotistic ranting!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLHOLDUP_020_004#1",
+   "speaker": "Yusuke",
+   "en": "Taste the wrath of all those you[n]preyed upon!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLHOLDUP_021_002#0",
+   "speaker": "Morgana",
+   "en": "You're STILL saying that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLHOLDUP_021_002#1",
+   "speaker": "Morgana",
+   "en": "There's no need to hold back then![n]Let's get him, Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTISTSPECIAL_00#0",
+   "speaker": "Shadow Madarame",
+   "en": "Grrr... impertinent brats...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTISTSPECIAL_00#1",
+   "speaker": "Shadow Madarame",
+   "en": "It seems you need a good whipping[n]to make you understand!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSEAL_000_002#0",
+   "speaker": "Morgana",
+   "en": "What is this attack!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSEAL_000_002#1",
+   "speaker": "Morgana",
+   "en": "There has to be more than just our[n]color changing! We should be cautious!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSEAL_100_002#0",
+   "speaker": "Morgana",
+   "en": "I know! Do you have the \"cleanser\"[n]we brought!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSEAL_100_002#1",
+   "speaker": "Morgana",
+   "en": "We brought it for times like these![n]Use it to wash the color away!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPORT_000_002#0",
+   "speaker": "Morgana",
+   "en": "He's changed again...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPORT_990_03#0",
+   "speaker": "Morgana",
+   "en": "What do we do!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_REPORT_999_000#0",
+   "speaker": null,
+   "en": "Use that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_REPORT_999_000#1",
+   "speaker": null,
+   "en": "Turn the tables on him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPORT_991_03#0",
+   "speaker": "Morgana",
+   "en": "......!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPORT_991_03#1",
+   "speaker": "Morgana",
+   "en": "Isn't that the same thing Madarame's[n]been using?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPORT_991_03#2",
+   "speaker": "Morgana",
+   "en": "Let's try covering him with paint!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPORT_010_002#0",
+   "speaker": "Morgana",
+   "en": "...Hey, Joker. I thought up a good idea[n]to make him suffer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_REPORT_020_000#0",
+   "speaker": null,
+   "en": "I'm all ears.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_REPORT_020_000#1",
+   "speaker": null,
+   "en": "That's sudden.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_REPORT_020_000#2",
+   "speaker": null,
+   "en": "I'll hear you out later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPORT_030_002#0",
+   "speaker": "Morgana",
+   "en": "All right. Look over there!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPORT_030_002#1",
+   "speaker": "Morgana",
+   "en": "See that suspicious bucket sitting[n]around?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPORT_031_002#0",
+   "speaker": "Morgana",
+   "en": "Just hear me out first!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPORT_031_002#1",
+   "speaker": "Morgana",
+   "en": "Look! See that suspicious bucket sitting[n]around?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPORT_032_002#0",
+   "speaker": "Morgana",
+   "en": "C'mon! This is important!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPORT_032_002#1",
+   "speaker": "Morgana",
+   "en": "Look! See that suspicious bucket sitting[n]around?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPORT_040_03#0",
+   "speaker": "Morgana",
+   "en": "Isn't that the same thing Madarame's[n]been using?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPORT_040_03#1",
+   "speaker": "Morgana",
+   "en": "Let's try covering him with paint!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "charaorder_Reiji_00#0",
+   "speaker": null,
+   "en": "We're gonna paint over him, yeah!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "charaorder_Reiji_01#0",
+   "speaker": null,
+   "en": "I can go whenever man!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "charaorder_Morgana_00#0",
+   "speaker": null,
+   "en": "Let's paint over him!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "charaorder_Morgana_01#0",
+   "speaker": null,
+   "en": "Leave it to me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "charaorder_Ann_00#0",
+   "speaker": null,
+   "en": "We should paint over him!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "charaorder_Ann_01#0",
+   "speaker": null,
+   "en": "I'm ready for it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "charaorder_Yugo_00#0",
+   "speaker": null,
+   "en": "Time to bestow the humiliation of being[n]painted over to him...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "charaorder_Yugo_01#0",
+   "speaker": null,
+   "en": "I'll do it. Leave it to me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PAINT_USE_EVE_000_00#0",
+   "speaker": "Shadow Madarame",
+   "en": "N-Nghhhhhh...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PAINT_USE_EVE_000_00#1",
+   "speaker": "Shadow Madarame",
+   "en": "Wh-What the...!? My powers... They're[n]suddenly draining...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLUSE_RECARM_000_00#0",
+   "speaker": "Morgana",
+   "en": "They regenerated!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLUSE_RECARM_000_00#1",
+   "speaker": "Morgana",
+   "en": "Dammit... Those things can come back[n]if we don't take them down at once!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTIST80_000_000#0",
+   "speaker": "Shadow Madarame",
+   "en": "N-Ngh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTIST80_001_000#0",
+   "speaker": "Shadow Madarame",
+   "en": "Stop this... Is this how you show your[n]gratitude to the man who raised you!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTIST80_010_004#0",
+   "speaker": "Yusuke",
+   "en": "Silence! Don't waste your breath!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTIST40_000_000#0",
+   "speaker": "Shadow Madarame",
+   "en": "Dammit... Dammit...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTIST40_001_000#0",
+   "speaker": "Shadow Madarame",
+   "en": "Stop it, you brats, or else...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTIST40_010_004#0",
+   "speaker": "Yusuke",
+   "en": "You think we'll be daunted by such[n]threats!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTISTEND_000_00#0",
+   "speaker": "Shadow Madarame",
+   "en": "Ngh... D-Damn brats...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTISTEND_000_00#1",
+   "speaker": "Shadow Madarame",
+   "en": "Even if you cry for help someday...[n]you'll regret this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTISTEND_000_00#2",
+   "speaker": "Shadow Madarame",
+   "en": "No adult will help you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTIST25_010_004#0",
+   "speaker": "Yusuke",
+   "en": "I hope you're prepared to go down,[n]Madarame!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLARTISTENTRY_000_0_2#0",
+   "speaker": "Shadow Madarame",
+   "en": "Now... let's begin, you vermin!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLARTISTENTRY_010_0_2#0",
+   "speaker": "Yusuke",
+   "en": "You used others for your own[n]despicable desires, Madarame...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLARTISTENTRY_010_0_2#1",
+   "speaker": "Yusuke",
+   "en": "You aren't even worth the art[n]you \"create\"!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLARTISTENTRY_020_0_2#0",
+   "speaker": "Morgana",
+   "en": "Don't let your guard down, Joker![n]We don't know what he's gonna do!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLHOLDUP_100_002EX#0",
+   "speaker": "Morgana",
+   "en": "Madarame's out!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLHOLDUP_010_000EX#0",
+   "speaker": "Shadow Madarame",
+   "en": "Dammit... I'm the great Madarame...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLHOLDUP_011_000EX#0",
+   "speaker": "Shadow Madarame",
+   "en": "The Madarame who gathers a full[n]crowd every time he opens an exhibit!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLHOLDUP_012_000EX#0",
+   "speaker": "Shadow Madarame",
+   "en": "I'm not someone that worthless brats[n]like you are allowed to defy!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLHOLDUP_020_004EX#0",
+   "speaker": "Yusuke",
+   "en": "Enough of your egotistic ranting!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLHOLDUP_020_004EX#1",
+   "speaker": "Yusuke",
+   "en": "Taste the wrath of all those you've[n]preyed upon!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLHOLDUP_021_002EX#0",
+   "speaker": "Morgana",
+   "en": "You're STILL saying that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLHOLDUP_021_002EX#1",
+   "speaker": "Morgana",
+   "en": "There's no need to hold back then![n]Let's get him, Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTISTSPECIAL_00_2#0",
+   "speaker": "Shadow Madarame",
+   "en": "Grrr... impertinent brats...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTISTSPECIAL_00_2#1",
+   "speaker": "Shadow Madarame",
+   "en": "It seems you need a good whipping[n]to make you understand!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSEAL_000_002EX#0",
+   "speaker": "Morgana",
+   "en": "What is this attack!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSEAL_000_002EX#1",
+   "speaker": "Morgana",
+   "en": "There has to be more than just our[n]color changing! We should be cautious!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPORT_000_002EX#0",
+   "speaker": "Morgana",
+   "en": "That paint-coating attack is a real[n]hassle...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPORT_990_03EX#0",
+   "speaker": "Morgana",
+   "en": "What's the plan?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_REPORT_999_000EX#0",
+   "speaker": null,
+   "en": "Use that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_REPORT_999_000EX#1",
+   "speaker": null,
+   "en": "Turn the tables on him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPORT_991_03EX#0",
+   "speaker": "Morgana",
+   "en": "......!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPORT_991_03EX#1",
+   "speaker": "Morgana",
+   "en": "Isn't that the same thing Madarame's[n]been using?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPORT_991_03EX#2",
+   "speaker": "Morgana",
+   "en": "Let's try covering him with paint!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPORT_010_002EX#0",
+   "speaker": "Morgana",
+   "en": "...Hey, Joker. I thought up a good idea[n]to make him suffer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_REPORT_020_000EX#0",
+   "speaker": null,
+   "en": "I'm all ears.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_REPORT_020_000EX#1",
+   "speaker": null,
+   "en": "That's sudden.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_REPORT_020_000EX#2",
+   "speaker": null,
+   "en": "I'll hear you out later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPORT_030_002EX#0",
+   "speaker": "Morgana",
+   "en": "All right. Look over there!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPORT_030_002EX#1",
+   "speaker": "Morgana",
+   "en": "See that suspicious bucket sitting[n]around?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPORT_031_002EX#0",
+   "speaker": "Morgana",
+   "en": "Just hear me out first!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPORT_031_002EX#1",
+   "speaker": "Morgana",
+   "en": "Look! See that suspicious bucket sitting[n]around?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPORT_032_002EX#0",
+   "speaker": "Morgana",
+   "en": "C'mon! This is important!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPORT_032_002EX#1",
+   "speaker": "Morgana",
+   "en": "Look! See that suspicious bucket sitting[n]around?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPORT_040_03EX#0",
+   "speaker": "Morgana",
+   "en": "Isn't that the same thing Madarame's[n]been using?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPORT_040_03EX#1",
+   "speaker": "Morgana",
+   "en": "Let's try covering him with paint!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "charaorder_Reiji_00EX#0",
+   "speaker": null,
+   "en": "We're gonna paint over him, yeah!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "charaorder_Reiji_01EX#0",
+   "speaker": null,
+   "en": "I can go whenever man!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "charaorder_Morgana_00EX#0",
+   "speaker": null,
+   "en": "Let's paint over him!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "charaorder_Morgana_01EX#0",
+   "speaker": null,
+   "en": "Leave it to me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "charaorder_Ann_00EX#0",
+   "speaker": null,
+   "en": "We should paint over him!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "charaorder_Ann_01EX#0",
+   "speaker": null,
+   "en": "I'm ready for it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "charaorder_Yugo_00EX#0",
+   "speaker": null,
+   "en": "Time to bestow the humiliation of being[n]painted over to him...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "charaorder_Yugo_01EX#0",
+   "speaker": null,
+   "en": "I'll do it. Leave it to me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PAINT_USE_EVE_000_00_2#0",
+   "speaker": "Shadow Madarame",
+   "en": "N-Nghhhhhh...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PAINT_USE_EVE_000_00_2#1",
+   "speaker": "Shadow Madarame",
+   "en": "Wh-What the...!? My powers... They're[n]suddenly draining...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLUSE_RECARM_000_00_2#0",
+   "speaker": "Morgana",
+   "en": "They regenerated!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLUSE_RECARM_000_00_2#1",
+   "speaker": "Morgana",
+   "en": "Dammit... Those things can come back[n]if we don't take them down at once!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTIST80_000_000_2#0",
+   "speaker": "Shadow Madarame",
+   "en": "N-Ngh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTIST80_001_000_2#0",
+   "speaker": "Shadow Madarame",
+   "en": "Stop this... Is this how you show your[n]gratitude to the man who raised you!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTIST80_010_004_2#0",
+   "speaker": "Yusuke",
+   "en": "Silence! Don't waste your breath!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTIST40_000_000_2#0",
+   "speaker": "Shadow Madarame",
+   "en": "Dammit... Dammit...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTIST40_001_000_2#0",
+   "speaker": "Shadow Madarame",
+   "en": "Stop it, you brats, or else...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTIST40_010_004_2#0",
+   "speaker": "Yusuke",
+   "en": "You think we'll be daunted by such[n]threats!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTISTEND_000_00_2#0",
+   "speaker": "Shadow Madarame",
+   "en": "Ngh... D-Damn brats...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTISTEND_000_00_2#1",
+   "speaker": "Shadow Madarame",
+   "en": "Even if you cry for help someday...[n]you'll regret this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTISTEND_000_00_2#2",
+   "speaker": "Shadow Madarame",
+   "en": "No adult will help you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTIST25_010_004_2#0",
+   "speaker": "Yusuke",
+   "en": "I hope you're prepared to go down,[n]Madarame!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESPONSE_COPY_STARTE#0",
+   "speaker": "Shadow Madarame",
+   "en": "I'm the great artist, Madarame! If you[n]brats can't fathom that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESPONSE_COPY_STARTE_2#0",
+   "speaker": "Shadow Madarame",
+   "en": "Then you'll witness it for yourselves![n]Behold my master craft!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESPONSE_COPY_EX#0",
+   "speaker": "Morgana",
+   "en": "Wha—!? He made copies of himself!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESPONSE_COPY_EX#1",
+   "speaker": "Morgana",
+   "en": "...Ha, I see. Creating duplicates IS his[n]specialty!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTIST40_010_005#0",
+   "speaker": "Morgana",
+   "en": "Gratitude!? You robbed your students[n]of their futures! Why should they be[n]grateful?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTIST25_010_003#0",
+   "speaker": "Morgana",
+   "en": "That's still better than being used[n]by somebody like you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTIST25_010_003#1",
+   "speaker": "Morgana",
+   "en": "Come on, Joker—let's put an end to this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTIST80_010_003#0",
+   "speaker": "Morgana",
+   "en": "Threaten us all you like—you're not[n]going to stop us now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTIST_FAKE_000_#0",
+   "speaker": "Ersatz Sorrow",
+   "en": "You dare defy an esteemed elder?[n]May you all be frozen in fear!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTIST_FAKE_000__2#0",
+   "speaker": "Ersatz Fury",
+   "en": "Damn clueless brats... My fiery rage[n]shall reduce you all to mere ashes!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTIST_FAKE_000__3#0",
+   "speaker": "Ersatz Mirth",
+   "en": "Disappear from my sight without a trace,[n]like dust scattered in the wind!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ARTIST_FAKE_000__4#0",
+   "speaker": "Ersatz Joy",
+   "en": "My brilliance strikes like a flash of[n]lightning—and now you'll taste it[n]for yourselves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESPONSE_COPY_EX_FAI#0",
+   "speaker": "Morgana",
+   "en": "Hey, something seems wrong! Could[n]he have...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESPONSE_COPY_EX_FAI_2#0",
+   "speaker": "Shadow Madarame",
+   "en": "What!? I, the great Madarame... made[n]an error!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESPONSE_COPY_EX_FAI_3#0",
+   "speaker": "Yusuke",
+   "en": "So this is the true limit of your skill...[n]How infantile.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESPONSE_COPY_EX_FAI_3#1",
+   "speaker": "Yusuke",
+   "en": "To think you'd fail to produce even one[n]of your counterfeits—please, don't[n]disappoint me any further!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESPONSE_COPY_EX_FAI_4#0",
+   "speaker": "Morgana",
+   "en": "Looks like you've reached your limit...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESPONSE_COPY_EX_FAI_4#1",
+   "speaker": "Morgana",
+   "en": "Failing to even make a counterfeit?[n]You're really looking like a joke now!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

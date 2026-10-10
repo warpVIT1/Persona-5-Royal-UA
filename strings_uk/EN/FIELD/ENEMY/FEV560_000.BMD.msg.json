@@ -1,0 +1,495 @@
+{
+ "file": "EN/FIELD/ENEMY/FEV560_000.BMD",
+ "entries": [
+  {
+   "id": "MSG_NML05_FIND_01_01#0",
+   "speaker": null,
+   "en": "INTRUDERS DETECTED!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_FIND_01_02#0",
+   "speaker": null,
+   "en": "INTRUDERS! INTRUDERS!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_FIND_01_03#0",
+   "speaker": null,
+   "en": "INTRUDERS DETECTED.[n]COMMENCING ELIMINATION!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_FIND_01_04#0",
+   "speaker": null,
+   "en": "INTRUDERS DETECTED.[n]ENGAGING INTERCEPTOR[n]SEQUENCE!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_FIND_01_05#0",
+   "speaker": null,
+   "en": "INTRUDERS DETECTED[n]WITHIN FACILITY!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_PURSUE_01_01#0",
+   "speaker": null,
+   "en": "HALT! HALT!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_PURSUE_01_02#0",
+   "speaker": null,
+   "en": "ELIMINATE! ELIMINATE!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_PURSUE_01_03#0",
+   "speaker": null,
+   "en": "TARGET LOCKED.[n]COMMENCING PURSUIT!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_PURSUE_01_04#0",
+   "speaker": null,
+   "en": "INTRUDERS SHALL[n]BE ELIMINATED[n]IMMEDIATELY!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_PURSUE_01_05#0",
+   "speaker": null,
+   "en": "INTRUDERS AT LARGE!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_LOST_01_01#0",
+   "speaker": null,
+   "en": "TARGET SIGNAL[n]VANISHED.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_LOST_01_02#0",
+   "speaker": null,
+   "en": "TARGET SIGNAL LOST.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_LOST_01_03#0",
+   "speaker": null,
+   "en": "INTRUDERS HAVE[n]ESCAPED.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_LOST_01_04#0",
+   "speaker": null,
+   "en": "INTRUDER ESCAPE[n]CONFIRMED.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_LOST_01_05#0",
+   "speaker": null,
+   "en": "INTRUDERS HAVE EXITED[n]DETECTABLE RANGE.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_NML_01_01#0",
+   "speaker": null,
+   "en": "NOTHING TO REPORT.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_NML_01_02#0",
+   "speaker": null,
+   "en": "ALL CLEAR IN[n]THE VICINITY.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_NML_01_03#0",
+   "speaker": null,
+   "en": "REPORT: ALL CLEAR.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_NML_01_04#0",
+   "speaker": null,
+   "en": "NOTHING TO REPORT.[n]CONTINUING PATROL MODE.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_NML_01_05#0",
+   "speaker": null,
+   "en": "NO RESULTS FOUND[n]WITHIN SEARCH RANGE.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_NML_01_06#0",
+   "speaker": null,
+   "en": "ENTERING SAFE MODE.[n]BEGINNING RECHARGE.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_NML_01_07#0",
+   "speaker": null,
+   "en": "TARGET EXITED SEARCH[n]RANGE. NOW RETURNING[n]TO STANDARD RANGE.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_NML_01_08#0",
+   "speaker": null,
+   "en": "OUR COMPANY PUTS[n]THE CUSTOMER FIRST.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_NML_01_09#0",
+   "speaker": null,
+   "en": "EXCESSIVE PHYSICAL[n]EXERTION DETECTED.[n]REPORTING VIOLENCE.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_NML_01_10#0",
+   "speaker": null,
+   "en": "WORKER CHAT RECEIVED.[n]LEVEL OF RESISTANCE:[n]IN ACCEPTABLE RANGE.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_ALT_01_01#0",
+   "speaker": null,
+   "en": "CONTINUING ALERT MODE.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_ALT_01_02#0",
+   "speaker": null,
+   "en": "ON ALERT. MAINTAINING[n]INTRUDER SEARCH.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_ALT_01_03#0",
+   "speaker": null,
+   "en": "INTRUDERS SHALL BE[n]ELIMINATED UPON[n]DISCOVERY.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_ALT_01_04#0",
+   "speaker": null,
+   "en": "ALERT MODE. INTRUDER[n]SEARCH TOP PRIORITY.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_ALT_01_05#0",
+   "speaker": null,
+   "en": "INCREASING ALERT.[n]SEARCH AND ELIMINATE[n]INTRUDERS IMMEDIATELY.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_ALT_01_06#0",
+   "speaker": null,
+   "en": "DECREASE IN WORKER[n]PULSE DETECTED.[n]REQUEST REPLACEMENT.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_ALT_01_07#0",
+   "speaker": null,
+   "en": "EMPLOYEE WORK ETHIC[n]PROBLEMATIC. EXECUTING[n]COERCION INITIATIVE.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_ALT_01_08#0",
+   "speaker": null,
+   "en": "CALCULATING INTRUDER[n]ESCAPE ROUTE. CHANCE OF[n]ENCOUNTER: 80%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_ALT_01_09#0",
+   "speaker": null,
+   "en": "DAMAGE DETECTED.[n]PRIORITIZING INTRUDER[n]ELIMINATION.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_ALT_01_10#0",
+   "speaker": null,
+   "en": "SENDING SECURITY DATA.[n]SENDING SECURITY DATA.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_REPORT_01_01#0",
+   "speaker": null,
+   "en": "EMERGENCY MODE.[n]RETURNING TEMPORARILY.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_REPORT_01_02#0",
+   "speaker": null,
+   "en": "REPORT MODE ENGAGED.[n]COMMENCING REPORT.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_REPORT_01_03#0",
+   "speaker": null,
+   "en": "ABNORMALITY DETECTED.[n]TRANSMITTING DATA.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_REPORT_01_04#0",
+   "speaker": null,
+   "en": "ABNORMAL SITUATION[n]ENCOUNTERED.[n]REPORT MODE ENGAGED.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_REPORT_01_05#0",
+   "speaker": null,
+   "en": "TRANSMITTING[n]INTRUDER DATA.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_01_#0",
+   "speaker": null,
+   "en": "GUARD MODE.[n]MAINTAINING[n]PROTECTION.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_01__2#0",
+   "speaker": null,
+   "en": "MAINTAINING PROTECTION[n]AND PATROL.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_01__3#0",
+   "speaker": null,
+   "en": "DURING PROTECTION,[n]INTRUDERS SHALL[n]BE ELIMINATED.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_01__4#0",
+   "speaker": null,
+   "en": "GUARD MODE.[n]PROTECTION[n]TOP PRIORITY.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_01__5#0",
+   "speaker": null,
+   "en": "PROTECTING MACHINE[n]CORE. INTRUDERS SHALL[n]BE ELIMINATED.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_01#0",
+   "speaker": null,
+   "en": "INTRUDERS DETECTED.[n]AWAITING ORDERS.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_01_2#0",
+   "speaker": null,
+   "en": "INTRUDERS DETECTED.[n]REQUESTING SECURITY[n]ESCALATION.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_01_3#0",
+   "speaker": null,
+   "en": "REPORT: INTRUDERS[n]DETECTED. REQUESTING[n]SECURITY ESCALATION.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_01_4#0",
+   "speaker": null,
+   "en": "INTRUDERS AT LARGE.[n]REQUESTING BACKUP.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_01_5#0",
+   "speaker": null,
+   "en": "REPORT: INTRUDERS[n]AT LARGE. REQUESTING[n]BACKUP.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_FREE_01_0#0",
+   "speaker": null,
+   "en": "ENTERING SAFE MODE.[n]BEGINNING RECHARGE.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_FREE_01_0_2#0",
+   "speaker": null,
+   "en": "SENDING SECURITY DATA.[n]SENDING SECURITY DATA.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_FREE_01_0_3#0",
+   "speaker": null,
+   "en": "TARGET EXITED SEARCH[n]RANGE. NOW RETURNING[n]TO STANDARD RANGE.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_FREE_01_0_4#0",
+   "speaker": null,
+   "en": "RECEIVING INTRUDER[n]DATA...[n]UPDATE COMPLETE.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_FREE_01_0_5#0",
+   "speaker": null,
+   "en": "ABNORMAL AUDITORY[n]SIGNAL DETECTED.[n]COMMENCING ANALYSIS.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_FREE_01_0_6#0",
+   "speaker": null,
+   "en": "HEAT INCREASE DETECTED.[n]ENTERING TEMPERATURE[n]TRACKING MODE.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_FREE_01_0_7#0",
+   "speaker": null,
+   "en": "STATE OF GATE THREE:[n]OPEN. POSSIBLE[n]INTRUDER AT LARGE.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_FREE_01_0_8#0",
+   "speaker": null,
+   "en": "OUR COMPANY PUTS[n]THE CUSTOMER FIRST.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_FREE_01_0_9#0",
+   "speaker": null,
+   "en": "DECREASE IN WORKER[n]PULSE DETECTED.[n]REQUEST REPLACEMENT.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_FREE_01_1#0",
+   "speaker": null,
+   "en": "EMPLOYEE WORK ETHIC[n]PROBLEMATIC. EXECUTING[n]COERCION INITIATIVE.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_FREE_01_1_2#0",
+   "speaker": null,
+   "en": "PRODUCT ABNORMALITY[n]DETECTED: WITHIN[n]ACCEPTABLE SALE RANGE.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_FREE_01_1_3#0",
+   "speaker": null,
+   "en": "CALCULATING INTRUDER[n]ESCAPE ROUTE. CHANCE OF[n]ENCOUNTER: 80%.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_FREE_01_1_4#0",
+   "speaker": null,
+   "en": "DAMAGE DETECTED.[n]PRIORITIZING INTRUDER[n]ELIMINATION.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_FREE_01_1_5#0",
+   "speaker": null,
+   "en": "UNREGISTERED VOICE[n]DETECTED. PLEASE[n]TRY AGAIN.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_FREE_01_1_6#0",
+   "speaker": null,
+   "en": "EXCESSIVE PHYSICAL[n]EXERTION DETECTED.[n]REPORTING VIOLENCE.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_FREE_01_1_7#0",
+   "speaker": null,
+   "en": "WORKER CHAT RECEIVED.[n]LEVEL OF RESISTANCE:[n]IN ACCEPTABLE RANGE.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_FREE_01_1_8#0",
+   "speaker": null,
+   "en": "MATCHING INTRUDER[n]PARAMETERS... SEARCH[n]ERROR: NO RESULTS.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_FREE_01_1_9#0",
+   "speaker": null,
+   "en": "DANGER LEVEL RISING.[n]REQUESTING SECURITY[n]ESCALATION.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_FREE_01_1_10#0",
+   "speaker": null,
+   "en": "GIVE IT YOUR ALL![n]THE CUSTOMER IS[n]ALWAYS RIGHT!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML05_MNLG_FREE_01_2#0",
+   "speaker": null,
+   "en": "ARE YOU GOING HOME?[n]PAY UP!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

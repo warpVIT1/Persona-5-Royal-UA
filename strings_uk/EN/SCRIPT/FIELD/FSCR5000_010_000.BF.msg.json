@@ -1,0 +1,432 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR5000_010_000.BF",
+ "entries": [
+  {
+   "id": "GOTO_DUNGEON_D01_SEL#0",
+   "speaker": null,
+   "en": "Let's go to Kamoshida's Palace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_D01_SEL#1",
+   "speaker": null,
+   "en": "What's our current goal?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_D01_SEL#2",
+   "speaker": null,
+   "en": "What's the Palace's state?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_D01_SEL#3",
+   "speaker": null,
+   "en": "I need to prep more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_D02_SEL#0",
+   "speaker": null,
+   "en": "Let's go to Madarame's Palace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_D02_SEL#1",
+   "speaker": null,
+   "en": "What's our current goal?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_D02_SEL#2",
+   "speaker": null,
+   "en": "What's the Palace's state?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_D02_SEL#3",
+   "speaker": null,
+   "en": "I need to prep more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_D03_SEL#0",
+   "speaker": null,
+   "en": "Let's go to Kaneshiro's Palace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_D03_SEL#1",
+   "speaker": null,
+   "en": "What's our current goal?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_D03_SEL#2",
+   "speaker": null,
+   "en": "What's the Palace's state?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_D03_SEL#3",
+   "speaker": null,
+   "en": "I need to prep more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_D04_SEL#0",
+   "speaker": null,
+   "en": "Let's go to Futaba's Palace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_D04_SEL#1",
+   "speaker": null,
+   "en": "What's our current goal?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_D04_SEL#2",
+   "speaker": null,
+   "en": "What's the Palace's state?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_D04_SEL#3",
+   "speaker": null,
+   "en": "I need to prep more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_D05_SEL#0",
+   "speaker": null,
+   "en": "Let's go to Niijima's Palace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_D05_SEL#1",
+   "speaker": null,
+   "en": "What's our current goal?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_D05_SEL#2",
+   "speaker": null,
+   "en": "What's the Palace's state?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_D05_SEL#3",
+   "speaker": null,
+   "en": "I need to prep more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_D06_SEL#0",
+   "speaker": null,
+   "en": "Let's go to Niijima's Palace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_D06_SEL#1",
+   "speaker": null,
+   "en": "What's our current goal?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_D06_SEL#2",
+   "speaker": null,
+   "en": "What's the Palace's state?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_D06_SEL#3",
+   "speaker": null,
+   "en": "I need to prep more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_D07_SEL#0",
+   "speaker": null,
+   "en": "Let's go to Shido's Palace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_D07_SEL#1",
+   "speaker": null,
+   "en": "What's our current goal?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_D07_SEL#2",
+   "speaker": null,
+   "en": "What's the Palace's state?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_D07_SEL#3",
+   "speaker": null,
+   "en": "I need to prep more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_PC02_MENU_0#0",
+   "speaker": "Ryuji",
+   "en": "What's up? Wanna head in tonight?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_PC03_MENU_0#0",
+   "speaker": "Morgana",
+   "en": "So? Do you want to do our job tonight?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_PC04_MENU_0#0",
+   "speaker": "Ann",
+   "en": "Are we going in tonight?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_PC02_OK_01#0",
+   "speaker": "Ryuji",
+   "en": "Mkay, let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_PC03_OK_01#0",
+   "speaker": "Morgana",
+   "en": "Very well! Let's reach[n]the Treasure toady!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_PC04_OK_01#0",
+   "speaker": "Ann",
+   "en": "Mm-hm! Let's do our best today!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_PC02_CANCEL#0",
+   "speaker": "Ryuji",
+   "en": "Gotcha. Lemme know when[n]you wanna head in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_PC03_CANCEL#0",
+   "speaker": "Morgana",
+   "en": "Hm... I guess we're still in the[n]preparation stage?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_DUNGEON_PC04_CANCEL#0",
+   "speaker": "Ann",
+   "en": "Okay... Just let us know when[n]you want to go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Dungeon_BC_NG#0",
+   "speaker": "Morgana",
+   "en": "The heist is tomorrow. We should[n]hold off on work for today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Dungeon_clear#0",
+   "speaker": "Morgana",
+   "en": "We've already stolen the[n]Treasure. There's no Palace[n]we can go into right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_STATUS_LV00_mes01#0",
+   "speaker": null,
+   "en": "Heheh, I'm not sensing any[n]level of caution from our target.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_STATUS_LV00_PC02_A_mes#0",
+   "speaker": "Morgana",
+   "en": "Sweet, security's gonna be pretty lax,[n]so explorin' should be easier.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_STATUS_LV00_PC04_A_mes#0",
+   "speaker": "Morgana",
+   "en": "Oh, good. That means we can[n]investigate without worry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_STATUS_LV01_mes01#0",
+   "speaker": null,
+   "en": "Hm... I think the target seems[n]a little on edge.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_STATUS_LV01_PC02_A_mes#0",
+   "speaker": "Morgana",
+   "en": "Eh, that'll be fine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_STATUS_LV01_PC04_A_mes#0",
+   "speaker": "Morgana",
+   "en": "I'm sure the security level[n]there won't be an issue.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_STATUS_LV02_mes01#0",
+   "speaker": null,
+   "en": "Our target seems to be a bit[n]cautious right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_STATUS_LV02_PC02_A_mes#0",
+   "speaker": "Morgana",
+   "en": "Sounds kinda dangerous...[n]but I'm sure it'll be find as[n]long as we don't get caught.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_STATUS_LV02_PC04_A_mes#0",
+   "speaker": "Morgana",
+   "en": "Hm... I think we should be okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_STATUS_LV03_mes01#0",
+   "speaker": null,
+   "en": "It seems like the target is on[n]guard right now. This might[n]be a problem for us.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_STATUS_LV03_PC02_A_mes#0",
+   "speaker": "Morgana",
+   "en": "We gotta be careful. More security[n]means stronger Shadows, yeah?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_STATUS_LV03_PC04_A_mes#0",
+   "speaker": "Morgana",
+   "en": "That means the Shadows'll be stronger,[n]right? That sounds a little dangerous...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_STATUS_LV04_mes01#0",
+   "speaker": null,
+   "en": "The target is definitely on[n]edge! This is dangerous!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_STATUS_LV04_PC02_A_mes#0",
+   "speaker": "Morgana",
+   "en": "It'll be a pain goin' in if they[n]beefed up their security. I think[n]it's gonna be pretty risky now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_STATUS_LV04_PC04_A_mes#0",
+   "speaker": "Morgana",
+   "en": "That sounds tough. We need to be[n]ready for anything if we head in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_STATUS_LV05_mes01#0",
+   "speaker": null,
+   "en": "The target's super cautious[n]right now! The inside of the[n]Palace is looking terrible!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_STATUS_LV05_PC02_A_mes#0",
+   "speaker": "Morgana",
+   "en": "And if we get caught, they're[n]gonna call backup... Sounds like[n]it's gonna be damn tough in there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_STATUS_LV05_PC04_A_mes#0",
+   "speaker": "Morgana",
+   "en": "We'll be in trouble... Strong[n]Shadows that call backup is[n]not a good combination.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_STATUS_LV06_mes01#0",
+   "speaker": null,
+   "en": "It's no use... The target is at max[n]caution right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_STATUS_LV06_mes01#1",
+   "speaker": null,
+   "en": "If you value your lives, you[n]should give up on exploring[n]the Palace for now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_STATUS_LV06_PC02_A_mes#0",
+   "speaker": "Morgana",
+   "en": "It's real frustratin', but now's[n]not the time to be explorin'.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_STATUS_LV06_PC04_A_mes#0",
+   "speaker": "Morgana",
+   "en": "I see... That's not the ideal[n]state for our exploration.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

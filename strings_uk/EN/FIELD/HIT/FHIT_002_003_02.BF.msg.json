@@ -1,0 +1,992 @@
+{
+ "file": "EN/FIELD/HIT/FHIT_002_003_02.BF",
+ "entries": [
+  {
+   "id": "DUMMY_MSG#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_place#0",
+   "speaker": "Morgana",
+   "en": "You don't need to be here right[n]now, do you? Come on, let's head[n]somewhere else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_etc#0",
+   "speaker": "Morgana",
+   "en": "What's wrong? Come on, we should[n]go say goodbye to the others!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DOOR_ROOF_MORU#0",
+   "speaker": "Morgana",
+   "en": "It looks like we can't go past here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DOOR_ROOF#0",
+   "speaker": null,
+   "en": "This area is off-limits...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CHK_TOILET_MEN_01#0",
+   "speaker": null,
+   "en": "This is the guys' bathroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CHK_TOILET_MEN_01#1",
+   "speaker": null,
+   "en": "It seems even dirtier than the[n]ones in the classroom building...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TOILET_WOMEN_MORU#0",
+   "speaker": "Morgana",
+   "en": "Don't you know that's the girls'[n]bathroom? You're not supposed[n]to be in there...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TOILET_WOMEN#0",
+   "speaker": null,
+   "en": "I don't have a good reason[n]to be in the ladies' restroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MUSICROOM_MORU#0",
+   "speaker": "Morgana",
+   "en": "There are portraits covering the walls[n]in there... b-b-but they all have such[n]scary faces...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MUSICROOM#0",
+   "speaker": null,
+   "en": "Portraits of famous composers[n]line the wall of the room...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PCROOM_MORU#0",
+   "speaker": "Morgana",
+   "en": "There are a lot of computers in there,[n]but not many students.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PCROOM_MORU#1",
+   "speaker": "Morgana",
+   "en": "I guess the computers themselves are pretty[n]outdated, so nobody wants to use[n]them anymore...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PCROOM#0",
+   "speaker": null,
+   "en": "I don't see any students in here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STUDYROOM_MORU#0",
+   "speaker": "Morgana",
+   "en": "Wow, they're studying so quietly...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STUDYROOM#0",
+   "speaker": null,
+   "en": "The students in here are all[n]studying diligently...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CALLIG_ROOM_MORU#0",
+   "speaker": "Morgana",
+   "en": "\"The Anguished Spirit\"... \"The Monster[n]Within\"... These are all so edgy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CALLIG_ROOM#0",
+   "speaker": null,
+   "en": "The room is decorated by various[n]student-made works of calligraphy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "AUTO_MACHINE01_NOTOPEN#0",
+   "speaker": null,
+   "en": "It says it's under maintenance.[n]I don't think it's turned on...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAREHOUSE_01_MORU#0",
+   "speaker": "Morgana",
+   "en": "Is this a storage room? It looks like[n]it's locked.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAREHOUSE_01#0",
+   "speaker": null,
+   "en": "The storage room is locked.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAREHOUSE_02_MORU#0",
+   "speaker": "Morgana",
+   "en": "The storage room is locked.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAREHOUSE_02#0",
+   "speaker": null,
+   "en": "The storage room is locked.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Emergency_Door_m#0",
+   "speaker": "Morgana",
+   "en": "Hold on, we should use the main[n]entrance if you wanna go outside.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Emergency_Door#0",
+   "speaker": null,
+   "en": "There's no reason for me[n]to use the emergency exit...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MusicTool#0",
+   "speaker": "Morgana",
+   "en": "Shouldn't people be taking better care[n]of these? They'll end up getting damaged[n]out here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_MusicTool#0",
+   "speaker": null,
+   "en": "Some musical instruments have[n]been carelessly left out here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PCTool#0",
+   "speaker": "Morgana",
+   "en": "So this is called a mouse? Don't worry,[n]I'm not gonna attack it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_PCTool#0",
+   "speaker": null,
+   "en": "Somebody left a computer here for[n]some reason. Maybe it's broken...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Callig01#0",
+   "speaker": "Morgana",
+   "en": "Whoever wrote this didn't do a very[n]good job...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Callig01#0",
+   "speaker": null,
+   "en": "The strokes are incredibly shaky...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Callig02#0",
+   "speaker": "Morgana",
+   "en": "I can't even read what this says...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Callig02#0",
+   "speaker": null,
+   "en": "The strokes are incredibly shaky...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_GOTO_BldgB#0",
+   "speaker": null,
+   "en": "The students are shoving each[n]other at the front of the stairs...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_GOTO_BldgB#1",
+   "speaker": null,
+   "en": "Maybe I can try to push[n]my way through somehow...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_LANDIN#0",
+   "speaker": null,
+   "en": "The Practice Building rooftop[n]seems to be just past here, but[n]I don't think I can get through...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_LANDIN#1",
+   "speaker": null,
+   "en": "Maybe Ryuji was talking about[n]the [clr 2]classroom building rooftop[clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_LANDIN#0",
+   "speaker": null,
+   "en": "I'll reach the Practice Building[n]rooftop if I go up the stairs.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_LANDIN#1",
+   "speaker": null,
+   "en": "That area seems off-limits, though.[n]There's desks and other things[n]piled on top of each other.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_LANDIN#0",
+   "speaker": null,
+   "en": "I'll reach the Practice Building[n]rooftop if I go up the stairs.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_LANDIN#1",
+   "speaker": null,
+   "en": "That area seems off-limits, though.[n]There's desks and other things[n]piled on top of each other.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_CHK_LANDIN#0",
+   "speaker": "Ryuji",
+   "en": "Hey, I said the main entrance![n]He's gonna leave if we don't hurry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_LANDIN#0",
+   "speaker": null,
+   "en": "I'll reach the Practice Building[n]rooftop if I go up the stairs.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_LANDIN#1",
+   "speaker": null,
+   "en": "That area seems off-limits, though.[n]There's desks and other things[n]piled on top of each other.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_CHK_LANDIN#0",
+   "speaker": null,
+   "en": "I better hurry to the courtyard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E23810100_CHK_LANDIN#0",
+   "speaker": "Morgana",
+   "en": "This looks like the Rooftop... entry isn't[n]allowed. Isn't the student council room on[n]the [clr 2]third floor of the classroom building[clr 27]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_LANDING_0#0",
+   "speaker": null,
+   "en": "There's nothing in particular[n]that I need to do here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_TOILET#0",
+   "speaker": null,
+   "en": "This is the guys' bathroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_TOILET#1",
+   "speaker": null,
+   "en": "It's far dirtier than the ones[n]in the classroom building...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_TOILET#0",
+   "speaker": null,
+   "en": "This is the guys' bathroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_TOILET#1",
+   "speaker": null,
+   "en": "It's far dirtier than the ones[n]in the classroom building...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_TOILET#0",
+   "speaker": null,
+   "en": "This is the guys' bathroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_TOILET#1",
+   "speaker": null,
+   "en": "There's nothing in particular[n]that I need to do here for now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_CHK_TOILET#0",
+   "speaker": "Ryuji",
+   "en": "Hey, what're you doin'!? We gotta hurry[n]and catch up to Mishima!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_TOILET#0",
+   "speaker": null,
+   "en": "This is the guys' bathroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_TOILET#1",
+   "speaker": null,
+   "en": "It's far dirtier than the ones[n]in the classroom building...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_CHK_TOILET#0",
+   "speaker": null,
+   "en": "I better hurry to the courtyard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E23810100_CHK_TOILET#0",
+   "speaker": "Morgana",
+   "en": "Not now. Isn't the student council[n]room on the [clr 2]third floor of the[n]classroom building[clr 27]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_TOILET_ME#0",
+   "speaker": null,
+   "en": "This is the guys' bathroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_TOILET_ME#1",
+   "speaker": null,
+   "en": "There's nothing in particular[n]that I need to do here for now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_TOILET_2#0",
+   "speaker": null,
+   "en": "This is the ladies' bathroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_TOILET_2#1",
+   "speaker": null,
+   "en": "I better get out of here.[n]Someone might get the wrong[n]idea if I stick around too long.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_TOILET_2#0",
+   "speaker": null,
+   "en": "This is the ladies' bathroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_TOILET_2#1",
+   "speaker": null,
+   "en": "I better get out of here.[n]Someone might get the wrong[n]idea if I stick around too long.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_TOILET_2#0",
+   "speaker": null,
+   "en": "This is the ladies' bathroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_TOILET_2#1",
+   "speaker": null,
+   "en": "I better get out of here.[n]Someone might get the wrong[n]idea if I stick around too long.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_CHK_TOILET_2#0",
+   "speaker": "Ryuji",
+   "en": "Hey, what're you doin'!? We gotta hurry[n]and catch up to Mishima!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_TOILET_2#0",
+   "speaker": null,
+   "en": "This is the ladies' bathroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_TOILET_2#1",
+   "speaker": null,
+   "en": "I better get out of here.[n]Someone might get the wrong[n]idea if I stick around too long.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_CHK_TOILET_2#0",
+   "speaker": null,
+   "en": "I better hurry to the courtyard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E23810100_CHK_TOILET_2#0",
+   "speaker": "Morgana",
+   "en": "You don't need anything this way, do[n]you? Isn't the student council room on[n]the [clr 2]third floor of the classroom building[clr 27]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_TOILET_WO#0",
+   "speaker": null,
+   "en": "This is the ladies' bathroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_TOILET_WO#1",
+   "speaker": null,
+   "en": "I better get out of here.[n]Someone might get the wrong[n]idea if I stick around too long.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_ONGAKU#0",
+   "speaker": null,
+   "en": "This looks like the music room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_ONGAKU#1",
+   "speaker": null,
+   "en": "There are pictures of composers[n]all lined up. They all have this[n]weirdly intimidating expression...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_ONGAKU#0",
+   "speaker": null,
+   "en": "This is the music room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_ONGAKU#1",
+   "speaker": null,
+   "en": "There are pictures of composers[n]all lined up. They all have this[n]weirdly intimidating expression...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_ONGAKU#0",
+   "speaker": null,
+   "en": "This is the music room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_ONGAKU#1",
+   "speaker": null,
+   "en": "There are pictures of composers[n]all lined up. They all have this[n]weirdly intimidating expression...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_CHK_ONGAKU#0",
+   "speaker": "Ryuji",
+   "en": "Hey, I said the main entrance![n]He's gonna leave if we don't hurry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_ONGAKU#0",
+   "speaker": null,
+   "en": "This is the music room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_ONGAKU#1",
+   "speaker": null,
+   "en": "There are pictures of composers[n]all lined up. They all have this[n]weirdly intimidating expression...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_CHK_ONGAKU#0",
+   "speaker": null,
+   "en": "I better hurry to the courtyard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E23810100_CHK_ONGAKU#0",
+   "speaker": "Morgana",
+   "en": "This is the music room. Isn't the student[n]council room on the [clr 2]third floor of the[n]classroom building[clr 27]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_ONGAKUSIT#0",
+   "speaker": null,
+   "en": "There's nothing in particular[n]that I need to do here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_PCROOM#0",
+   "speaker": null,
+   "en": "This looks like the computer room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_PCROOM#1",
+   "speaker": null,
+   "en": "There are barely any students[n]here. It's probably because these[n]computers are all a bit outdated.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_PCROOM#0",
+   "speaker": null,
+   "en": "This is the computer room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_PCROOM#1",
+   "speaker": null,
+   "en": "There are barely any students[n]here. It's probably because these[n]computers are all a bit outdated.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_PCROOM#0",
+   "speaker": null,
+   "en": "This is the computer room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_PCROOM#1",
+   "speaker": null,
+   "en": "There are barely any students[n]here. It's probably because these[n]computers are all a bit outdated.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_CHK_PCROOM#0",
+   "speaker": "Ryuji",
+   "en": "Hey, I said the main entrance![n]He's gonna leave if we don't hurry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_PCROOM#0",
+   "speaker": null,
+   "en": "This is the computer room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_PCROOM#1",
+   "speaker": null,
+   "en": "There are barely any students[n]here. It's probably because these[n]computers are all a bit outdated.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_CHK_PCROOM#0",
+   "speaker": null,
+   "en": "I better hurry to the courtyard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E23810100_CHK_PCROOM#0",
+   "speaker": "Morgana",
+   "en": "This is the computer room. Isn't the[n]student council room on the [clr 2]third[n]floor of the classroom building[clr 27]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_PCROOM_00#0",
+   "speaker": null,
+   "en": "There's nothing in particular[n]that I need to do here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_JISHUS#0",
+   "speaker": null,
+   "en": "It seems to be the study hall.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_JISHUS#1",
+   "speaker": null,
+   "en": "The students are[n]all studying silently...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_JISHUS#0",
+   "speaker": null,
+   "en": "This is the study hall.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_JISHUS#1",
+   "speaker": null,
+   "en": "The students are[n]all studying silently...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_JISHUS#0",
+   "speaker": null,
+   "en": "This is the study hall.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_JISHUS#1",
+   "speaker": null,
+   "en": "The students are[n]all studying silently...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_CHK_JISHUS#0",
+   "speaker": "Ryuji",
+   "en": "Hey, I said the main entrance![n]He's gonna leave if we don't hurry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_JISHUS#0",
+   "speaker": null,
+   "en": "This is the study hall.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_JISHUS#1",
+   "speaker": null,
+   "en": "The students are[n]all studying silently...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_CHK_JISHUS#0",
+   "speaker": null,
+   "en": "I better hurry to the courtyard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E23810100_CHK_JISHUS#0",
+   "speaker": "Morgana",
+   "en": "This looks like the study hall. Isn't the[n]student council room on the [clr 2]third floor[n]of the classroom building[clr 27]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_JISHUSITU#0",
+   "speaker": null,
+   "en": "There's nothing in particular[n]that I need to do here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_SHODOS#0",
+   "speaker": null,
+   "en": "This looks like[n]the calligraphy room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_SHODOS#1",
+   "speaker": null,
+   "en": "All the pieces on display look[n]beautiful, but the things they[n]actually say are pretty dark...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_SHODOS#0",
+   "speaker": null,
+   "en": "This is the calligraphy room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_SHODOS#1",
+   "speaker": null,
+   "en": "All the pieces on display look[n]beautiful, but the things they[n]actually say are pretty dark...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_SHODOS#0",
+   "speaker": null,
+   "en": "This is the calligraphy room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_SHODOS#1",
+   "speaker": null,
+   "en": "All the pieces on display look[n]beautiful, but the things they[n]actually say are pretty dark...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_CHK_SHODOS#0",
+   "speaker": "Ryuji",
+   "en": "Hey, I said the main entrance![n]He's gonna leave if we don't hurry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_SHODOS#0",
+   "speaker": null,
+   "en": "This is the calligraphy room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_SHODOS#1",
+   "speaker": null,
+   "en": "All the pieces on display look[n]beautiful, but the things they[n]actually say are pretty dark...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_CHK_SHODOS#0",
+   "speaker": null,
+   "en": "I better hurry to the courtyard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E23810100_CHK_SHODOS#0",
+   "speaker": "Morgana",
+   "en": "This is the calligraphy room. Isn't the[n]student council room on the [clr 2]third floor[n]of the classroom building[clr 27]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_SHODOSITU#0",
+   "speaker": null,
+   "en": "There's nothing in particular[n]that I need to do here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_SOUKO_#0",
+   "speaker": null,
+   "en": "It looks like a warehouse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_SOUKO_#1",
+   "speaker": null,
+   "en": "The packages here haven't[n]been neatly arranged at all...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_SOUKO_#0",
+   "speaker": null,
+   "en": "The storage room is locked.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_SOUKO_#0",
+   "speaker": null,
+   "en": "The storage room is locked.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_CHK_SOUKO_#0",
+   "speaker": "Ryuji",
+   "en": "Hey, I said the main entrance![n]He's gonna leave if we don't hurry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_SOUKO_#0",
+   "speaker": null,
+   "en": "The storage room is locked.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_CHK_SOUKO_#0",
+   "speaker": null,
+   "en": "I better hurry to the courtyard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E23810100_CHK_SOUKO_#0",
+   "speaker": "Morgana",
+   "en": "This looks like the warehouse. Isn't the[n]student council room on the [clr 2]third floor[n]of the classroom building[clr 27]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_SOUKO_01_#0",
+   "speaker": null,
+   "en": "There's nothing in particular[n]that I need to do here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_SOUKO__2#0",
+   "speaker": null,
+   "en": "It looks like a warehouse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_SOUKO__2#1",
+   "speaker": null,
+   "en": "The handle is covered in dust.[n]Maybe it's because this hasn't[n]been opened very much...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_SOUKO__2#0",
+   "speaker": null,
+   "en": "The storage room is locked.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_SOUKO__2#0",
+   "speaker": null,
+   "en": "The storage room is locked.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_CHK_SOUKO__2#0",
+   "speaker": "Ryuji",
+   "en": "Hey, I said the main entrance![n]He's gonna leave if we don't hurry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_SOUKO__2#0",
+   "speaker": null,
+   "en": "The storage room is locked.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_CHK_SOUKO__2#0",
+   "speaker": null,
+   "en": "I better hurry to the courtyard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E23810100_CHK_SOUKO__2#0",
+   "speaker": "Morgana",
+   "en": "This seems like the warehouse. Isn't the[n]student council room on the [clr 2]third floor[n]of the classroom building[clr 27]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_SOUKO_02_#0",
+   "speaker": null,
+   "en": "There's nothing in particular[n]that I need to do here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KFEVT_EXIT_DOOR#0",
+   "speaker": "Morgana",
+   "en": "That's the emergency exit! You don't want[n]to mess with that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_KFEVT_EXIT_DOOR#0",
+   "speaker": null,
+   "en": "There's no reason for me to[n]use the emergency exit...",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

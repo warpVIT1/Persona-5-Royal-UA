@@ -1,0 +1,390 @@
+{
+ "file": "EN/FIELD/PANEL/MESSAGESEL.BF",
+ "entries": [
+  {
+   "id": "MSG_DUMMY#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MSG_DUMMY_UPDATE#0",
+   "speaker": null,
+   "en": "dummy messageSel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SHORTCUT_AJITO_NG_TI#0",
+   "speaker": null,
+   "en": "If I'm going to call everyone[n]to the hideout, I should do it[n]after school or in the daytime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SHORTCUT_AJITO_NG_KF#0",
+   "speaker": null,
+   "en": "Now isn't the time for that.[n]I should call everyone to the[n]hideout some other time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IN_KF_EVENT#0",
+   "speaker": null,
+   "en": "Now isn't the time to[n]be going somewhere else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IN_KF_EVENT_MORU#0",
+   "speaker": "Morgana",
+   "en": "Hey, now's not the time[n]to go wandering off.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SHORTCUT_AJITO#0",
+   "speaker": null,
+   "en": "Should I call everyone[n]to the hideout...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_AJITO#0",
+   "speaker": null,
+   "en": "Call everyone to the hideout",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_AJITO#1",
+   "speaker": null,
+   "en": "Decide later",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NG_ROJIURA_OUT#0",
+   "speaker": "Morgana",
+   "en": "The city's dangerous at night![n]You'll need a heart that won't[n]be rattled by anything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NG_ROJIURA_OUT#1",
+   "speaker": "Morgana",
+   "en": "If you want to walk the city at[n]night, I suggest you have enough[n][stIcon 3][clr 26][stLabel 3][clr 27] to have [clr 1]nerves of steel[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NG_GO_OUT#0",
+   "speaker": "Morgana",
+   "en": "You must be tired for today.[n]We should just go to bed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GO_OUT_FRIEND#0",
+   "speaker": "Morgana",
+   "en": "You really want to go out[n]while you have a friend over?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GO_OUT_FRIEND#0",
+   "speaker": null,
+   "en": "Go out",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GO_OUT_FRIEND#1",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_AFTERNOON_ERROR#0",
+   "speaker": null,
+   "en": "I should head to the[n]ticket gate for now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_NIGHT_ERROR#0",
+   "speaker": null,
+   "en": "I'm tired for today,[n]so I should go to bed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_MAIL_NG#0",
+   "speaker": null,
+   "en": "I'm tired for today.[n]I should go out another time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RETURNHOME_NORMAL#0",
+   "speaker": null,
+   "en": "Should I head back home[n]and spend the night there...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_RETURNHOME#0",
+   "speaker": null,
+   "en": "Go home",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_RETURNHOME#1",
+   "speaker": null,
+   "en": "Not yet",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RETURNHOME_SLEEP#0",
+   "speaker": null,
+   "en": "Should I just go to sleep for today...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_RETURNHOME_SLEEP#0",
+   "speaker": null,
+   "en": "Go to sleep",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_RETURNHOME_SLEEP#1",
+   "speaker": null,
+   "en": "Not yet",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LOOK_EVT_713_010_TOD#0",
+   "speaker": "Morgana",
+   "en": "From the look of things,[n]we're not getting anywhere.[n]Let's come back another time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LOOK_EVT_713_010_TOD_2#0",
+   "speaker": null,
+   "en": "Looks like I'm not getting[n]anywhere with this. Perhaps[n]I should return another time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DUMMY_TEST_END#0",
+   "speaker": null,
+   "en": "dummy messageSel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GOTO_AJITO_HOLIDAY_R#0",
+   "speaker": "Ryuji",
+   "en": "Oh, we meetin' up at the hideout?[n]It'll be a while till everyone gets[n]here, though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GOTO_AJITO_HOLIDAY_R#1",
+   "speaker": "Ryuji",
+   "en": "...Oh crap! I totally forgot something—[n]I'll be back super-quick!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GOTO_2F_HOLIDAY_RYUJ#0",
+   "speaker": "Ryuji",
+   "en": "Oh, do you still got somethin' to do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GOTO_2F_HOLIDAY#0",
+   "speaker": null,
+   "en": "Yeah, I do.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GOTO_2F_HOLIDAY#1",
+   "speaker": null,
+   "en": "Not really.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GOTO_2F_HOLIDAY_RYUJ_2#0",
+   "speaker": "Ryuji",
+   "en": "Oh yeah? Then maybe I'll go out too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GOTO_2F_HOLIDAY_RYUJ_3#0",
+   "speaker": "Ryuji",
+   "en": "In that case, you wanna hang out?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GOTO_AJITO_HOLIDAY_Y#0",
+   "speaker": "Yusuke",
+   "en": "Are we meeting up at the hideout?[n]That would mean I'm the first to[n]arrive— Oh...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GOTO_AJITO_HOLIDAY_Y#1",
+   "speaker": "Yusuke",
+   "en": "Agh, I forgot my confounded supplies![n]Just a quick trip home and I'll return[n]as soon as I can...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GOTO_2F_HOLIDAY_YUSU#0",
+   "speaker": "Yusuke",
+   "en": "[fName], do you have any other business?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GOTO_2F_HOLIDAY_YUSU_2#0",
+   "speaker": "Yusuke",
+   "en": "I see... In that case, perhaps I will go out[n]as well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GOTO_2F_HOLIDAY_YUSU_3#0",
+   "speaker": "Yusuke",
+   "en": "I see. If you aren't busy, then may I[n]accompany you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GOTO_AJITO_MORGANA#0",
+   "speaker": "Morgana",
+   "en": "Let's gather everyone at the hideout.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GOTO_AJITO_MORGANA#1",
+   "speaker": "Morgana",
+   "en": "We can't lose to Maruki...[n]You ready for this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GOTO_AJITO#0",
+   "speaker": null,
+   "en": "Let's gather everyone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GOTO_AJITO#1",
+   "speaker": null,
+   "en": "I need more time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_DAY_CAUTION#0",
+   "speaker": "Morgana",
+   "en": "You don't want to go say goodbye[n]to the chief and the others?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GO_LAST#0",
+   "speaker": null,
+   "en": "Let's go see them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GO_LAST#1",
+   "speaker": null,
+   "en": "Nah, it's fine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MONEY_SHORTAGE_FARE#0",
+   "speaker": "Morgana",
+   "en": "Hm, you don't have enough money.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MONEY_SHORTAGE_FARE#1",
+   "speaker": "Morgana",
+   "en": "Planning is important if you want[n]to be a good thief, you know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MONEY_SHORTAGE_FARE#2",
+   "speaker": "Morgana",
+   "en": "I guess I can use my savings[n]to cover you today though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_MONEY_SHORTAGE_FARE#0",
+   "speaker": null,
+   "en": "I don't have enough for the train fare...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_MONEY_SHORTAGE_FARE#1",
+   "speaker": null,
+   "en": "Oh, wait...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_MONEY_SHORTAGE_FARE#2",
+   "speaker": null,
+   "en": "Morgana gave me some of his savings...[n]I should be careful how I spend it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_127101_NG_SHORTCUT#0",
+   "speaker": null,
+   "en": "I need to head to school...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_141301_NG_SHORTCUT_0#0",
+   "speaker": null,
+   "en": "I should go see Ryuji...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_141301_NG_SHORTCUT_0_2#0",
+   "speaker": null,
+   "en": "There's nothing left for me to do[n]at school. I should head home...",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

@@ -1,0 +1,579 @@
+{
+ "file": "EN/FIELD/NPC/FNPC010_012_00.BF",
+ "entries": [
+  {
+   "id": "YESNO_SEL#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NPC_GREETING_MSG#0",
+   "speaker": null,
+   "en": "Greeting",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LastGreeting#0",
+   "speaker": "Lala Escargot",
+   "en": "Oh...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LastGreeting#1",
+   "speaker": "Lala Escargot",
+   "en": "You're looking pretty[n]handsome there, young man.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LastGreeting#2",
+   "speaker": "Lala Escargot",
+   "en": "Come back to this bar once you[n]become an adult. I'll break out[n]some of my finest drinks for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LastGreeting_0#0",
+   "speaker": "Lala Escargot",
+   "en": "Oh...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LastGreeting_0#1",
+   "speaker": "Lala Escargot",
+   "en": "...There's a fire in your eyes now,[n]boy. I have to say, it suits you. ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LastGreeting_0#2",
+   "speaker": "Lala Escargot",
+   "en": "Come back to this bar once you[n]become an adult. I'll break out[n]some of my finest drinks for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LastGreeting_END#0",
+   "speaker": "Lala Escargot",
+   "en": "Come back to this bar once you[n]become an adult. I'll break out[n]some of my finest drinks for you. ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAMA_00#0",
+   "speaker": "Lala Escargot",
+   "en": "...What?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAMA_00#1",
+   "speaker": "Lala Escargot",
+   "en": "Don't you know it's not polite[n]to stare? This sort of thing[n]isn't unusual around here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAMA_001#0",
+   "speaker": "Lala Escargot",
+   "en": "Oh? You're here to see Ichiko-chan?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAMA_001#1",
+   "speaker": "Lala Escargot",
+   "en": "I don't know if that's a good idea. She's[n]a drunk, and a persistent one at that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAMA_001#2",
+   "speaker": "Lala Escargot",
+   "en": "Once you're in her sights, you'll be in[n]for a rough ride.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAMA_002#0",
+   "speaker": "Lala Escargot",
+   "en": "*sigh* ...It's about time I hired some[n]extra help around the place...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAMA_002#1",
+   "speaker": "Lala Escargot",
+   "en": "He'd have to be cute, though. I'd want[n]someone easy on the eyes. Ah...[n]Charming help is so hard to find.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAMA_003#0",
+   "speaker": "Lala Escargot",
+   "en": "Oh, don't worry. Young guys like you[n]aren't my type.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAMA_004#0",
+   "speaker": "Lala Escargot",
+   "en": "You might want to stay away from[n]Ichiko-chan for now, kid. She's, uh...[n]well, she's pretty hammered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAMA_004#1",
+   "speaker": "Lala Escargot",
+   "en": "When a woman her age gets this[n]drunk... even I get worried.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAMA_01#0",
+   "speaker": "Lala Escargot",
+   "en": "If you keep coming to a place[n]like this, you won't turn out[n]to be a good adult.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAMA_01#1",
+   "speaker": "Lala Escargot",
+   "en": "Or could you be interested in[n]working nights here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MAMA#0",
+   "speaker": null,
+   "en": "I want to work here part-time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MAMA#1",
+   "speaker": null,
+   "en": "I'm not interested.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAMA_03#0",
+   "speaker": "Lala Escargot",
+   "en": "And here I thought I was[n]doing you a favor...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAMA_03#1",
+   "speaker": "Lala Escargot",
+   "en": "You should be more mindful of[n]how you treat ladies. Otherwise,[n]you won't grow up into a good man.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Beit_Test#0",
+   "speaker": "Lala Escargot",
+   "en": "You may not realize it, but you've[n]got potential, young man.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Beit_Test#1",
+   "speaker": "Lala Escargot",
+   "en": "I can teach you the basics of how[n]things are run here. Don't worry,[n]you won't do anything illegal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Beit_1st_Start#0",
+   "speaker": "Lala Escargot",
+   "en": "What do you say? Did you want[n]to do some work for me today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BAR_PARA_NG#0",
+   "speaker": "Lala Escargot",
+   "en": "Hmm... I would like some help,[n]but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BAR_PARA_NG#1",
+   "speaker": "Lala Escargot",
+   "en": "You've got potential, but[n]you're still a bit unseasoned.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BAR_PARA_NG#2",
+   "speaker": "Lala Escargot",
+   "en": "You're not quite ready to make[n]it in my world. Come back once[n]you've grown a little bit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Arbeit_Bar_NG#0",
+   "speaker": null,
+   "en": "To work at Crossroads, you need[n]enough [stIcon 4][clr 26][stLabel 4][clr 27] to be [clr 2][stLvLabel 4 3][clr 27][n]and [stIcon 2][clr 26][stLabel 2][clr 27] to be [clr 2][stLvLabel 2 3][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAMA_WorkDay_NG_01#0",
+   "speaker": "Lala Escargot",
+   "en": "Oh, did you come here to[n]do some work?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAMA_WorkDay_NG_01#1",
+   "speaker": "Lala Escargot",
+   "en": "So sorry. We're all[n]set for today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAMA_WorkDay_OK_01#0",
+   "speaker": "Lala Escargot",
+   "en": "Oh, did you come here to[n]do some work?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAMA_WorkDay_OK_02_0#0",
+   "speaker": "Lala Escargot",
+   "en": "Oh, you're a lifesaver![n]Then, let's get right to it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAMA_WorkDay_OK_02_0_2#0",
+   "speaker": "Lala Escargot",
+   "en": "Oh, that's too bad.[n]Maybe some other time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OOYA_DayInfo#0",
+   "speaker": "Lala Escargot",
+   "en": "I'll let Ichiko-chan know[n]that you were here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ArbeitNG_Lala01#0",
+   "speaker": "Lala Escargot",
+   "en": "Oh... Are you here for the job?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ArbeitNG_OOYA#0",
+   "speaker": "Ohya",
+   "en": "Well, aren't you a hard worker?[n]I guess it's about time for me to[n]be heading out anyway.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ArbeitOK_Lala01#0",
+   "speaker": "Lala Escargot",
+   "en": "Oh... Are you here for the job?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ArbeitThink#0",
+   "speaker": "Lala Escargot",
+   "en": "So, did you want to do[n]some work for me today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ArbeitThink_common#0",
+   "speaker": "Lala Escargot",
+   "en": "What do you say? Did you want[n]to do some work for me today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ArbeitThink_common_R#0",
+   "speaker": "Lala Escargot",
+   "en": "Oh, are you here for the job?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ArbeitThink_common_m#0",
+   "speaker": "Morgana",
+   "en": "Helping the diverse customers here[n]may improve your [stIcon 4][clr 26][stLabel 4][clr 27]...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Bar_ParamEndInfo#0",
+   "speaker": null,
+   "en": "I think I have enough[n][stIcon 4][clr 26][stLabel 4][clr 27] already...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Bar_ParamUpInfo#0",
+   "speaker": null,
+   "en": "I feel like my [stIcon 4][clr 26][stLabel 4][clr 27][n]is going to improve soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Work#0",
+   "speaker": null,
+   "en": "I'll do it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Work#1",
+   "speaker": null,
+   "en": "I'll pass.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ArbeitOK_Start#0",
+   "speaker": "Lala Escargot",
+   "en": "All right, go on and change.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ArbeitOK_Cancel#0",
+   "speaker": "Lala Escargot",
+   "en": "Oh, really? All right,[n]go on home then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Sentou_ParamInfo_int#0",
+   "speaker": "Morgana",
+   "en": "Maybe you can improve your [stIcon 3][clr 26][stLabel 4][clr 27][n]by working at the bar and helping the[n]customers?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Sentou_ParamInfo#0",
+   "speaker": null,
+   "en": "I feel like I could[n]improve myself in a lot[n]of ways by working here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Sentou_ParamEndInfo#0",
+   "speaker": null,
+   "en": "I think I have enough[n][stIcon 4][clr 26][stLabel 4][clr 27] already...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_OK_Chishiki#0",
+   "speaker": null,
+   "en": "I feel like my [stIcon 1][clr 26][stLabel 0][clr 27][n]is going to improve soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_NG_Chishiki#0",
+   "speaker": null,
+   "en": "I don't think my [stIcon 1][clr 26][stLabel 0][clr 27][n]is going to improve just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_L_TISIK#0",
+   "speaker": null,
+   "en": "It looks like I still have a lot of[n]room for improvement...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_M_TISIK#0",
+   "speaker": null,
+   "en": "I can feel something[n]coming to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_S_TISIK#0",
+   "speaker": null,
+   "en": "I think I'm close to a breakthrough[n]with my [stIcon 0][clr 26][stLabel 0][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_OK_Miryoku#0",
+   "speaker": null,
+   "en": "I feel like my [stIcon 1][clr 26][stLabel 0][clr 27][n]is going to improve soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_NG_Miryoku#0",
+   "speaker": null,
+   "en": "I don't think my [stIcon 1][clr 26][stLabel 0][clr 27][n]is going to improve just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_L_MIRYO#0",
+   "speaker": null,
+   "en": "It looks like I still have a lot of[n]room for improvement...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_M_MIRYO#0",
+   "speaker": null,
+   "en": "I can feel something[n]coming to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_S_MIRYO#0",
+   "speaker": null,
+   "en": "I think I'm close to a breakthrough[n]with my [stIcon 1][clr 26][stLabel 1][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_OK_Kiyou#0",
+   "speaker": null,
+   "en": "I feel like my [stIcon 2][clr 26][stLabel 2][clr 27][n]is going to improve soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_NG_Kiyou#0",
+   "speaker": null,
+   "en": "I don't think my [stIcon 2][clr 26][stLabel 2][clr 27][n]is going to improve just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_OK_Kiyou_Beef#0",
+   "speaker": null,
+   "en": "If things go well, I think my[n][stIcon 1][clr 26][stLabel 1][clr 27] might improve...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_L_KIYOU#0",
+   "speaker": null,
+   "en": "It looks like I still have a lot of[n]room for improvement...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_M_KIYOU#0",
+   "speaker": null,
+   "en": "I can feel something[n]coming to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_S_KIYOU#0",
+   "speaker": null,
+   "en": "I think I'm close to a breakthrough[n]with my [stIcon 2][clr 26][stLabel 2][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_OK_Dokyo#0",
+   "speaker": null,
+   "en": "I feel like my [stIcon 3][clr 26][stLabel 3][clr 27][n]are going to improve soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_NG_Dokyo#0",
+   "speaker": null,
+   "en": "I don't think my [stIcon 3][clr 26][stLabel 3][clr 27][n]are going to improve just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_L_DOKYO#0",
+   "speaker": null,
+   "en": "It looks like I still have a lot of[n]room for improvement...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_M_DOKYO#0",
+   "speaker": null,
+   "en": "I can feel something[n]coming to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_S_DOKYO#0",
+   "speaker": null,
+   "en": "I think I'm close to a breakthrough[n]with my [stIcon 3][clr 26][stLabel 3][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_OK_Yasasisa#0",
+   "speaker": null,
+   "en": "I feel like my [stIcon 4][clr 26][stLabel 4][clr 27][n]is going to improve soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_NG_Yasasisa#0",
+   "speaker": null,
+   "en": "I don't think my [stIcon 4][clr 26][stLabel 4][clr 27][n]is going to improve just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_OK_Yasasisa_F#0",
+   "speaker": null,
+   "en": "If things go well, I think my[n][stIcon 4][clr 26][stLabel 4][clr 27] might improve...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_L_YASAS#0",
+   "speaker": null,
+   "en": "It looks like I still have a lot of[n]room for improvement...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_M_YASAS#0",
+   "speaker": null,
+   "en": "I can feel something[n]coming to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_S_YASAS#0",
+   "speaker": null,
+   "en": "I think I'm close to a breakthrough[n]with my [stIcon 4][clr 26][stLabel 4][clr 27]...",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

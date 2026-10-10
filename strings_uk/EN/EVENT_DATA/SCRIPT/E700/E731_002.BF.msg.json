@@ -1,0 +1,2259 @@
+{
+ "file": "EN/EVENT_DATA/SCRIPT/E700/E731_002.BF",
+ "entries": [
+  {
+   "id": "MSG_002_0_0#0",
+   "speaker": "Black-Haired Student",
+   "en": "He's pretty smart!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_0_0#0",
+   "speaker": "Brown-Haired Student",
+   "en": "I didn't expect that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_0_0#1",
+   "speaker": "Brown-Haired Student",
+   "en": "He might not be too bad...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_004_0_0#0",
+   "speaker": "Black-Haired Student",
+   "en": "You can really tell he's struggling.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_005_0_0#0",
+   "speaker": "Brown-Haired Student",
+   "en": "It's embarrassing just watching him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_006_0_0#0",
+   "speaker": "Black-Haired Student",
+   "en": "That wasn't even a hard one, was it?[n]He should really listen more carefully.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_007_0_0#0",
+   "speaker": "Brown-Haired Student",
+   "en": "For real. Well, not my problem...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "PARAM_UP#0",
+   "speaker": "Morgana",
+   "en": "You just knew that off the top of[n]your head? You're a quick thinker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RNK_UP1#0",
+   "speaker": "Morgana",
+   "en": "You've gone up a rank, haven't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_00_05#0",
+   "speaker": "Morgana",
+   "en": "\"My country, right or wrong,\" huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_00_05#1",
+   "speaker": "Morgana",
+   "en": "I'll help you out, so let's think this[n]through.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_05#0",
+   "speaker": "Morgana",
+   "en": "So what's the common meaning of that[n]phrase again? How does the speaker feel[n]about their country?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_05#0",
+   "speaker": null,
+   "en": "You support it, no matter what.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_05#1",
+   "speaker": null,
+   "en": "You suspect that it's evil.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_05#2",
+   "speaker": null,
+   "en": "You don't care about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1A_05#0",
+   "speaker": "Morgana",
+   "en": "Right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1A_05#1",
+   "speaker": "Morgana",
+   "en": "When people say that, it usually means[n]they're going to support their country[n]even if it's hard to morally justify.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1A_05#2",
+   "speaker": "Morgana",
+   "en": "But the original quote had a different[n]meaning, huh? So it'd have to mean[n]something like...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_05#0",
+   "speaker": "Morgana",
+   "en": "Really? I don't think that's right...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1C_05#0",
+   "speaker": "Morgana",
+   "en": "Really? I don't think that's right...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_05#0",
+   "speaker": null,
+   "en": "Abandoning your country.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_05#1",
+   "speaker": null,
+   "en": "Being unsure of your loyalty.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_05#2",
+   "speaker": null,
+   "en": "Recognizing its corruption.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_05#0",
+   "speaker": "Morgana",
+   "en": "You really think so? Let's think this[n]through again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_05#0",
+   "speaker": "Morgana",
+   "en": "You really think so? Let's think this[n]through again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_05#0",
+   "speaker": "Morgana",
+   "en": "Yup. One's about blind loyalty, and the[n]other's about taking responsibility.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_05#1",
+   "speaker": "Morgana",
+   "en": "So the original phrase has gotta be about[n]taking responsibility for your country's[n]decisions!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_00_01#0",
+   "speaker": "Morgana",
+   "en": "\"Are you a wunderkind?\"...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_00_01#1",
+   "speaker": "Morgana",
+   "en": "Well, seems to me like we need to work[n]out what that is so we can answer[n]properly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_00_01#2",
+   "speaker": "Morgana",
+   "en": "My German is a little rusty, but I'll[n]give you a hand if I can!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_01#0",
+   "speaker": "Morgana",
+   "en": "First off, the \"wunder\" part probably[n]means...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_01#0",
+   "speaker": null,
+   "en": "Wander.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_01#1",
+   "speaker": null,
+   "en": "Wonder.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_01#2",
+   "speaker": null,
+   "en": "Under.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1A_01#0",
+   "speaker": "Morgana",
+   "en": "You think? I always get tripped up with[n]these...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_01#0",
+   "speaker": "Morgana",
+   "en": "Right, wonder! So something...[n]wondrous, I guess, or impressive.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_01#1",
+   "speaker": "Morgana",
+   "en": "Next, the \"kind\" part. That's probably...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1C_01#0",
+   "speaker": "Morgana",
+   "en": "You think? I always get tripped up with[n]these...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_01#0",
+   "speaker": null,
+   "en": "Kindness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_01#1",
+   "speaker": null,
+   "en": "Child.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_01#2",
+   "speaker": null,
+   "en": "Type.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_01#0",
+   "speaker": "Morgana",
+   "en": "I think those aren't connected, though.[n]The German \"kind\" and the English[n]\"kind\" are different.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_01#1",
+   "speaker": "Morgana",
+   "en": "These kinds of words will get you[n]every time, seriously.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_01#0",
+   "speaker": "Morgana",
+   "en": "Hm... Let's think about this again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_01#1",
+   "speaker": "Morgana",
+   "en": "Oh, huh. If the \"kind\" in \"kindergarten\"[n]refers to all the kids in it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_01#2",
+   "speaker": "Morgana",
+   "en": "Yeah, that's gotta be it. \"Kind\" means[n]a child... or at least a young guy,[n]in your case.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_01#0",
+   "speaker": "Morgana",
+   "en": "So a \"wunderkind\" would be... Type?[n]Oh, you mean like \"your own kind\"?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_01#1",
+   "speaker": "Morgana",
+   "en": "But that's pronounced differently from[n]the German \"kind.\" I dunno... Let's think[n]about this again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_01#0",
+   "speaker": null,
+   "en": "A Persona-user.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_01#1",
+   "speaker": null,
+   "en": "A curious child.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_01#2",
+   "speaker": null,
+   "en": "A prodigy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3A_01#0",
+   "speaker": "Morgana",
+   "en": "Are you serious? Think about what we[n]discussed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_01#0",
+   "speaker": "Morgana",
+   "en": "Are you serious? Think about what we[n]discussed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_01#0",
+   "speaker": "Morgana",
+   "en": "Wondrous... child... Yeah, no doubt[n]about it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_01#1",
+   "speaker": "Morgana",
+   "en": "She asked you if you're a wonder[n]child—a kid with lots of talent!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_00_0523_01#0",
+   "speaker": "Morgana",
+   "en": "She wants to know what the root words[n]mean...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_00_0523_01#1",
+   "speaker": "Morgana",
+   "en": "It's all Greek to me, but I can give it[n]a try...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_00_0523_01#2",
+   "speaker": "Morgana",
+   "en": "Here, let's think about this. It'll be easier[n]if we put our heads together.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_0523_02#0",
+   "speaker": "Morgana",
+   "en": "Okay, so... Let's start with \"syn.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_0523_02#1",
+   "speaker": "Morgana",
+   "en": "I think that's in a lot of other words, too.[n]Like... synergy, and synchronicity, and[n]synthesis.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_0523_02#2",
+   "speaker": "Morgana",
+   "en": "If we think about what these words have[n]in common, then maybe \"syn\" means...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_0523_03#0",
+   "speaker": null,
+   "en": "Opposite.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_0523_03#1",
+   "speaker": null,
+   "en": "Powerful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_0523_03#2",
+   "speaker": null,
+   "en": "Together.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1A_0523_04#0",
+   "speaker": "Morgana",
+   "en": "No... I don't think that's it. Those words[n]have something in common...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_0523_04#0",
+   "speaker": "Morgana",
+   "en": "No... I don't think that's it. Those words[n]have something in common...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1C_0523_04#0",
+   "speaker": "Morgana",
+   "en": "That's it! \"Syn\" means \"together,\" or a[n]combination of something.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1C_0523_04#1",
+   "speaker": "Morgana",
+   "en": "And \"aisthesis,\" huh? That's a little like[n]the word aesthetics. I wonder if it[n]means...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_0523_05#0",
+   "speaker": null,
+   "en": "Artists.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_0523_05#1",
+   "speaker": null,
+   "en": "Senses.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_0523_05#2",
+   "speaker": null,
+   "en": "Style.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_0523_06#0",
+   "speaker": "Morgana",
+   "en": "Yeah! That's it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_0523_06#1",
+   "speaker": "Morgana",
+   "en": "Sounds like we know the definitions[n]of the root words.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_0523_06#2",
+   "speaker": "Morgana",
+   "en": "So that means the full word basically[n]means...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_0523_06#0",
+   "speaker": "Morgana",
+   "en": "Wait, really?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_0523_06#1",
+   "speaker": "Morgana",
+   "en": "You think synesthesia means \"artists[n]together\"? I dunno...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_0523_06#2",
+   "speaker": "Morgana",
+   "en": "Let's think it over again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_0523_06#0",
+   "speaker": "Morgana",
+   "en": "Huh. I don't know if I buy that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_0523_06#1",
+   "speaker": "Morgana",
+   "en": "How would it make sense if synesthesia[n]meant \"styles together\"?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_0523_06#2",
+   "speaker": "Morgana",
+   "en": "Let's think it over again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_0523_07#0",
+   "speaker": null,
+   "en": "The five senses.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_0523_07#1",
+   "speaker": null,
+   "en": "Senses coming together.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_0523_07#2",
+   "speaker": null,
+   "en": "Everybody's senses.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3A_0523_08#0",
+   "speaker": "Morgana",
+   "en": "Yeah, that's it! Phew... We really gotta[n]stay on our toes in this class.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3A_0523_08#1",
+   "speaker": "Morgana",
+   "en": "I could use a snack after all that brain[n]power... Let's get a treat after this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_0523_08#0",
+   "speaker": "Morgana",
+   "en": "That's not it, is it? Let's think it over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_0523_08#0",
+   "speaker": "Morgana",
+   "en": "That's not it, is it? Let's think it over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_00_03#0",
+   "speaker": "Morgana",
+   "en": "Okay! Let's remember what she said[n]together.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_03#0",
+   "speaker": "Morgana",
+   "en": "The English word \"azure...\" What[n]language did she say that came from?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_03#0",
+   "speaker": null,
+   "en": "Polish.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_03#1",
+   "speaker": null,
+   "en": "Persian.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_03#2",
+   "speaker": null,
+   "en": "Pashto.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1A_03#0",
+   "speaker": "Morgana",
+   "en": "No, I don't think that was it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_03#0",
+   "speaker": "Morgana",
+   "en": "Yeah, she said it was from the Persian[n]language.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_03#1",
+   "speaker": "Morgana",
+   "en": "Now, what did she say it came from?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1C_03#0",
+   "speaker": "Morgana",
+   "en": "I think that's in the same general area,[n]but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1C_03#1",
+   "speaker": "Morgana",
+   "en": "I dunno. I don't think that's quite it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_03#0",
+   "speaker": null,
+   "en": "The sea.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_03#1",
+   "speaker": null,
+   "en": "A blue stone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_03#2",
+   "speaker": null,
+   "en": "A blue flower.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_03#0",
+   "speaker": "Morgana",
+   "en": "Really? Let's try thinking about this[n]again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_03#0",
+   "speaker": "Morgana",
+   "en": "Yeah, it was some kind of blue stone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_03#1",
+   "speaker": "Morgana",
+   "en": "Geez, what kind of blue stone could[n]\"azure\" be based off of? There can't be[n]that many...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_03#0",
+   "speaker": "Morgana",
+   "en": "Really? Let's try thinking about this[n]again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_03#0",
+   "speaker": null,
+   "en": "Sapphire.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_03#1",
+   "speaker": null,
+   "en": "Lapis lazuli.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_03#2",
+   "speaker": null,
+   "en": "Jade-albite.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3A_03#0",
+   "speaker": "Morgana",
+   "en": "That doesn't feel quite right... Let's try[n]thinking about it again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_03#0",
+   "speaker": "Morgana",
+   "en": "Lapis lazuli... That's gotta be it, yeah!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_03#1",
+   "speaker": "Morgana",
+   "en": "The English word \"azure\" comes from[n]the Persian word for the lapis lazuli[n]stone!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_03#0",
+   "speaker": "Morgana",
+   "en": "...Where are you getting that?[n]I don't think that's even blue.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_00_04#0",
+   "speaker": "Morgana",
+   "en": "Okay! Let's remember what she said[n]together.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_04#0",
+   "speaker": "Morgana",
+   "en": "So \"PVS,\" referring to when you[n]mistakenly think your phone is[n]going off... What's the P?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_04#0",
+   "speaker": null,
+   "en": "Prediction.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_04#1",
+   "speaker": null,
+   "en": "Phone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_04#2",
+   "speaker": null,
+   "en": "Phantom.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1A_04#0",
+   "speaker": "Morgana",
+   "en": "Right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1A_04#1",
+   "speaker": "Morgana",
+   "en": "It's gotta start with \"phantom,\" since[n]you're only imagining it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1A_04#2",
+   "speaker": "Morgana",
+   "en": "So next is the V part. That means it'd be[n]\"phantom...\" what?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_04#0",
+   "speaker": "Morgana",
+   "en": "No, that doesn't seem right. Let's rethink[n]this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1C_04#0",
+   "speaker": "Morgana",
+   "en": "No, that doesn't seem right. Let's rethink[n]this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_04#0",
+   "speaker": null,
+   "en": "Vogue.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_04#1",
+   "speaker": null,
+   "en": "Vibration.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_04#2",
+   "speaker": null,
+   "en": "Variance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_04#0",
+   "speaker": "Morgana",
+   "en": "That doesn't seem right. Remember,[n]it's a phone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_04#1",
+   "speaker": "Morgana",
+   "en": "Let's try this again. Think through it[n]calmly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_04#0",
+   "speaker": "Morgana",
+   "en": "That doesn't seem right. Remember,[n]it's a phone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_04#1",
+   "speaker": "Morgana",
+   "en": "Let's try this again. Think through it[n]calmly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_04#0",
+   "speaker": "Morgana",
+   "en": "Yeah, that's it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_04#1",
+   "speaker": "Morgana",
+   "en": "When your phone buzzes, you say it's[n]\"vibrating.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_04#2",
+   "speaker": "Morgana",
+   "en": "Last is the S. So if we have \"phantom[n]vibration\" so far...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_04#0",
+   "speaker": null,
+   "en": "Situation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_04#1",
+   "speaker": null,
+   "en": "Sounds.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_04#2",
+   "speaker": null,
+   "en": "Syndrome.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3A_04#0",
+   "speaker": "Morgana",
+   "en": "You were so close... but no!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3A_04#1",
+   "speaker": "Morgana",
+   "en": "Let's think about this again from the top.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_04#0",
+   "speaker": "Morgana",
+   "en": "You were so close... but no!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_04#1",
+   "speaker": "Morgana",
+   "en": "Let's think about this again from the top.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_04#0",
+   "speaker": "Morgana",
+   "en": "Yeah, that's gotta be it! I think we've[n]got it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_04#1",
+   "speaker": "Morgana",
+   "en": "PVS stands for... Phantom Vibration[n]Syndrome!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_0124_00#0",
+   "speaker": "Morgana",
+   "en": "...Hm? Did we ever learn about The Tale[n]of the Bamboo Cutter?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_0124_00#1",
+   "speaker": "Morgana",
+   "en": "All right, let's try to remember.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_0124_01#0",
+   "speaker": "Morgana",
+   "en": "The Tale of the Bamboo Cutter is an old[n]fable, right? So it starts...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_0124_SEL_00#0",
+   "speaker": null,
+   "en": "\"The bells of Jetavana...\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_0124_SEL_00#1",
+   "speaker": null,
+   "en": "\"I am a cat.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_0124_SEL_00#2",
+   "speaker": null,
+   "en": "\"Once upon a time...\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_0124_1A_00#0",
+   "speaker": "Morgana",
+   "en": "...Wait, no. I don't think it was anything[n]that lofty or poetic.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_0124_1B_00#0",
+   "speaker": "Morgana",
+   "en": "I am NOT a cat! U-Uh, I mean... well...[n]Sorry. Force of habit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_0124_1B_00#1",
+   "speaker": "Morgana",
+   "en": "Let's think about it from the beginning[n]again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_0124_1C_00#0",
+   "speaker": "Morgana",
+   "en": "\"Once upon a time... there was an old[n]man who was a bamboo cutter.\" That's it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_0124_1C_00#1",
+   "speaker": "Morgana",
+   "en": "And what did the old bamboo cutter do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_0124_2_SEL_00#0",
+   "speaker": null,
+   "en": "He wrote with an ink brush.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_0124_2_SEL_00#1",
+   "speaker": null,
+   "en": "He went into the mountains.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_0124_2_SEL_00#2",
+   "speaker": null,
+   "en": "He did laundry at the river.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_0124_2A_00#0",
+   "speaker": "Morgana",
+   "en": "Every day, the retired old man ground[n]up some ink, sat at his desk, and wrote[n]a diary...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_0124_2A_00#1",
+   "speaker": "Morgana",
+   "en": "Wait. If that were true, he couldn't get[n]any bamboo cutting done.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_0124_2A_00#2",
+   "speaker": "Morgana",
+   "en": "Let's think about it from the beginning[n]again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_0124_2B_00#0",
+   "speaker": "Morgana",
+   "en": "He went into the mountains to gather[n]some bamboo—that's definitely the[n]story.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_0124_2B_00#1",
+   "speaker": "Morgana",
+   "en": "And the man's name was something[n]old-timey and dignified, like...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_0124_2C_00#0",
+   "speaker": "Morgana",
+   "en": "Washing in the river... I guess he didn't[n]have a washing machine back then...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_0124_2C_00#1",
+   "speaker": "Morgana",
+   "en": "Wait, is that right? He's not even[n]collecting any bamboo.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_0124_2C_00#2",
+   "speaker": "Morgana",
+   "en": "Let's think about it from the beginning[n]again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_0124_3_SEL_00#0",
+   "speaker": null,
+   "en": "Princess Kaguya.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_0124_3_SEL_00#1",
+   "speaker": null,
+   "en": "Sanuki no Miyatsuko.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_0124_3_SEL_00#2",
+   "speaker": null,
+   "en": "Momotaro.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_0124_3A_00#0",
+   "speaker": "Morgana",
+   "en": "This old guy's a princess now!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_0124_3A_00#1",
+   "speaker": "Morgana",
+   "en": "Let's think about it from the beginning[n]again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_0124_3B_00#0",
+   "speaker": "Morgana",
+   "en": "Oh yeah! That sounds super old and wise!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_0124_3B_00#1",
+   "speaker": "Morgana",
+   "en": "Okay! I think you've got this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_0124_3C_00#0",
+   "speaker": "Morgana",
+   "en": "Wait, are you sure about that? I think[n]you're getting your folktales mixed up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_0124_3C_00#1",
+   "speaker": "Morgana",
+   "en": "Let's calm down and start from the top.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_0_00#0",
+   "speaker": "Morgana",
+   "en": "That's weird... I don't see \"The Tale of[n]the Bamboo Cutter\" anywhere in your[n]textbook.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_0_00#1",
+   "speaker": "Morgana",
+   "en": "This is an old fable, right? Should we[n]ask what page it's on...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_0_00#2",
+   "speaker": "Morgana",
+   "en": "No. It'd be bad if she thought you[n]weren't paying attention. Let's try[n]to make do on our own.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_00#0",
+   "speaker": "Morgana",
+   "en": "The start of \"The Tale of the Bamboo[n]Cutter\"—it should be...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_00#0",
+   "speaker": null,
+   "en": "\"The bells of Jetavana...\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_00#1",
+   "speaker": null,
+   "en": "\"I am a cat.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_00#2",
+   "speaker": null,
+   "en": "\"Once upon a time...\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1A_00#0",
+   "speaker": "Morgana",
+   "en": "\"...ring of the impermanence of the[n]world. Prideful people...\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1A_00#1",
+   "speaker": "Morgana",
+   "en": "...Wait, no. I don't think it was anything[n]that lofty or poetic.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1A_00#2",
+   "speaker": "Morgana",
+   "en": "\"The Tale of the Bamboo Cutter\"[n]started like...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_00#0",
+   "speaker": "Morgana",
+   "en": "A cat? That has nothing to do with[n]bamboo.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_00#1",
+   "speaker": "Morgana",
+   "en": "That's definitely wrong. Forget that[n]weird cat stuff.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_00#2",
+   "speaker": "Morgana",
+   "en": "\"The Tale of the Bamboo Cutter\"[n]started like...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1C_00#0",
+   "speaker": "Morgana",
+   "en": "\"Once upon a time... there was an old[n]man who was a bamboo cutter.\" That's it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1C_00#1",
+   "speaker": "Morgana",
+   "en": "And what did the old bamboo cutter do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_00#0",
+   "speaker": null,
+   "en": "He wrote with an ink brush.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_00#1",
+   "speaker": null,
+   "en": "He went into the mountains.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_00#2",
+   "speaker": null,
+   "en": "He did laundry at the river.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_00#0",
+   "speaker": "Morgana",
+   "en": "Every day, the retired old man ground[n]up some ink, sat at his desk, and wrote[n]a diary...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_00#1",
+   "speaker": "Morgana",
+   "en": "Wait. If that were true, he couldn't get[n]any bamboo cutting done.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_00#2",
+   "speaker": "Morgana",
+   "en": "Let's think about this again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_00#3",
+   "speaker": "Morgana",
+   "en": "The start of \"The Tale of the Bamboo[n]Cutter\"—it should be...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_00#0",
+   "speaker": "Morgana",
+   "en": "He went into the mountains to gather[n]some bamboo—that's definitely the[n]story.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_00#1",
+   "speaker": "Morgana",
+   "en": "And the old man's name was...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_00#0",
+   "speaker": "Morgana",
+   "en": "They didn't have washing machines[n]back then, so they had to wash their[n]kimonos by hand...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_00#1",
+   "speaker": "Morgana",
+   "en": "Hold on. I think that was a different[n]story.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_00#2",
+   "speaker": "Morgana",
+   "en": "Let's think about this again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_00#3",
+   "speaker": "Morgana",
+   "en": "The start of \"The Tale of the Bamboo[n]Cutter\"—it should be...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_00#0",
+   "speaker": null,
+   "en": "Princess Kaguya.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_00#1",
+   "speaker": null,
+   "en": "Sanuki no Miyatsuko.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_00#2",
+   "speaker": null,
+   "en": "Momotaro.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3A_00#0",
+   "speaker": "Morgana",
+   "en": "Yeah, this is the story with Princess[n]Kaguya.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3A_00#1",
+   "speaker": "Morgana",
+   "en": "Hm, hold on a second...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3A_00#2",
+   "speaker": "Morgana",
+   "en": "That would mean it's Princess Kaguya[n]finding Princess Kaguya.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3A_00#3",
+   "speaker": "Morgana",
+   "en": "Princess Kaguya, the bamboo cutter?[n]I think you're making this up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3A_00#4",
+   "speaker": "Morgana",
+   "en": "Let's think about this again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3A_00#5",
+   "speaker": "Morgana",
+   "en": "The start of \"The Tale of the Bamboo[n]Cutter\" goes like...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_00#0",
+   "speaker": "Morgana",
+   "en": "Sanuki... I want sanuki udon... No, wait...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_00#1",
+   "speaker": "Morgana",
+   "en": "\"His name was Sanuki no Miyatsuko...\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_00#2",
+   "speaker": "Morgana",
+   "en": "That's it! We've got it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_00#0",
+   "speaker": "Morgana",
+   "en": "Momotaro... Taro cake... Taro pudding...[n]Taro custard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_00#1",
+   "speaker": "Morgana",
+   "en": "...Gah! Sorry, I spaced out for a second.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_00#2",
+   "speaker": "Morgana",
+   "en": "I was concentrating so hard that my brain[n]overheated.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_00#3",
+   "speaker": "Morgana",
+   "en": "Let's think about this again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_00#4",
+   "speaker": "Morgana",
+   "en": "The start of \"The Tale of the Bamboo[n]Cutter\" goes like...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_02#0",
+   "speaker": "Morgana",
+   "en": "Ishikawa Goemon was active during...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_02#0",
+   "speaker": null,
+   "en": "The Jomon period.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_02#1",
+   "speaker": null,
+   "en": "The Azuchi-Momoyama period.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_02#2",
+   "speaker": null,
+   "en": "The Age of Discovery.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1A_02#0",
+   "speaker": "Morgana",
+   "en": "No, I don't think there were any famous[n]thieves in the Jomon period.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1A_02#1",
+   "speaker": "Morgana",
+   "en": "I think of Ishikawa Goemon being[n]around during a more turbulent[n]period of history...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1A_02#2",
+   "speaker": "Morgana",
+   "en": "Let's think about this again. Ishikawa[n]Goemon was active during...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_02#0",
+   "speaker": "Morgana",
+   "en": "The teacher said his death was recorded[n]by foreign missionaries.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_02#1",
+   "speaker": "Morgana",
+   "en": "Missionaries were in Japan during the[n]Azuchi-Momoyama period.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_02#2",
+   "speaker": "Morgana",
+   "en": "That has to be it. Ishikawa Goemon was[n]a thief in the Azuchi-Momoyama period.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_02#3",
+   "speaker": "Morgana",
+   "en": "So, who caught Ishikawa Goemon?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1C_02#0",
+   "speaker": "Morgana",
+   "en": "Thieves, treasure...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1C_02#1",
+   "speaker": "Morgana",
+   "en": "Searching the East, the West, and the[n]seven seas for treasure...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1C_02#2",
+   "speaker": "Morgana",
+   "en": "It's the Age of Discovery...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1C_02#3",
+   "speaker": "Morgana",
+   "en": "Wait! What was I just doing?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1C_02#4",
+   "speaker": "Morgana",
+   "en": "Let's think about this from the top.[n]Ishikawa Goemon was active during...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_02#0",
+   "speaker": null,
+   "en": "Oda Nobunaga.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_02#1",
+   "speaker": null,
+   "en": "Toyotomi Hideyoshi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_02#2",
+   "speaker": null,
+   "en": "Tokugawa Ieyasu.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_02#0",
+   "speaker": "Morgana",
+   "en": "Yeah, Oda Nobunaga was an influential[n]figure during the Azuchi-Momoyama[n]period!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_02#1",
+   "speaker": "Morgana",
+   "en": "...Wait. Ishikawa Goemon was based in[n]Kyoto.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_02#2",
+   "speaker": "Morgana",
+   "en": "Nobunaga was killed on his way to Kyoto.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_02#3",
+   "speaker": "Morgana",
+   "en": "Let's think about this again from the top.[n]Ishikawa Goemon was active during...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_02#0",
+   "speaker": "Morgana",
+   "en": "Hideyoshi was in power during the[n]Azuchi-Momoyama period. He ruled[n]over Kyoto as the regent.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_02#1",
+   "speaker": "Morgana",
+   "en": "From Hideyoshi's point of view,[n]Goemon would've been a pesky[n]thief in his backyard.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_02#2",
+   "speaker": "Morgana",
+   "en": "It's gotta be Toyotomi Hideyoshi!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_02#3",
+   "speaker": "Morgana",
+   "en": "A man who fought against those[n]in power during an age of civil war.[n]A man like him would be called...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_02#0",
+   "speaker": "Morgana",
+   "en": "Tokugawa Ieyasu did end up uniting[n]the country.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_02#1",
+   "speaker": "Morgana",
+   "en": "Although, that would be too late to[n]call it the Azuchi-Momoyama period.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_02#2",
+   "speaker": "Morgana",
+   "en": "Let's think about this again from the[n]top. Ishikawa Goemon was active[n]during...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_02#0",
+   "speaker": null,
+   "en": "A gentleman thief.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_02#1",
+   "speaker": null,
+   "en": "A biker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_02#2",
+   "speaker": null,
+   "en": "A pencil pusher.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3A_02#0",
+   "speaker": "Morgana",
+   "en": "Rebelling against those in power while[n]still prioritizing his own values...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3A_02#1",
+   "speaker": "Morgana",
+   "en": "Stealing only from the rich and donating[n]to the poor—that's the legend of Ishikawa[n]Goemon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3A_02#2",
+   "speaker": "Morgana",
+   "en": "He is truly worthy of being called a[n]gentleman thief. That's gotta be it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_02#0",
+   "speaker": "Morgana",
+   "en": "He couldn't resist riding down the[n]streets of Kyoto, even though he knew[n]it was dangerous...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_02#1",
+   "speaker": "Morgana",
+   "en": "The daring biker, Ishikawa Goemon!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_02#2",
+   "speaker": "Morgana",
+   "en": "Are you kidding me!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_02#3",
+   "speaker": "Morgana",
+   "en": "Okay, calm down... I shouldn't lose[n]control like that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_02#4",
+   "speaker": "Morgana",
+   "en": "Let's think about this again from the[n]top. Ishikawa Goemon was active[n]during...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_02#0",
+   "speaker": "Morgana",
+   "en": "The former thief couldn't win against[n]the sands of time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_02#1",
+   "speaker": "Morgana",
+   "en": "Being a thief was too rough, so[n]he retired to a cushy desk job...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_02#2",
+   "speaker": "Morgana",
+   "en": "Wait, that's not right at all!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_02#3",
+   "speaker": "Morgana",
+   "en": "Let's think about this again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_02#4",
+   "speaker": "Morgana",
+   "en": "Ishikawa Goemon was active during...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_00_0124_01#0",
+   "speaker": "Morgana",
+   "en": "All right, I'll help.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_00_0124_01#1",
+   "speaker": "Morgana",
+   "en": "So we need to figure out what \"salty\"[n]means in the slang sense?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_0124_02#0",
+   "speaker": "Morgana",
+   "en": "Maybe there are clues in words like it.[n]You can call someone \"sweet,\" right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_0124_02#1",
+   "speaker": "Morgana",
+   "en": "What does that mean when describing[n]a person?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_0124_03#0",
+   "speaker": null,
+   "en": "Sweet-tasting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_0124_03#1",
+   "speaker": null,
+   "en": "Kind-hearted.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_0124_03#2",
+   "speaker": null,
+   "en": "Sickening.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1A_0124_04#0",
+   "speaker": "Morgana",
+   "en": "...You realize slang isn't literal, right?[n]Calm down and think it over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_0124_04#0",
+   "speaker": "Morgana",
+   "en": "Yeah... You're right. And it has a pretty[n]positive connotation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_0124_04#1",
+   "speaker": "Morgana",
+   "en": "So what kind of connotation would[n]\"salty\" have in that context?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1C_0124_04#0",
+   "speaker": "Morgana",
+   "en": "I don't think it's that negative... Think[n]about it a little harder.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_0124_05#0",
+   "speaker": null,
+   "en": "Tasty.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_0124_05#1",
+   "speaker": null,
+   "en": "Positive.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_0124_05#2",
+   "speaker": null,
+   "en": "Negative.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_0124_06#0",
+   "speaker": "Morgana",
+   "en": "...I think you're missing the point.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_0124_06#1",
+   "speaker": "Morgana",
+   "en": "Look, let's go over it again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_0124_06#0",
+   "speaker": "Morgana",
+   "en": "Huh, you think so?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_0124_06#1",
+   "speaker": "Morgana",
+   "en": "But I feel like people only ever describe[n]food as \"salty\" when there's too much[n]salt in it already...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_0124_06#2",
+   "speaker": "Morgana",
+   "en": "This is getting us nowhere. Let's think[n]it over again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_0124_06#0",
+   "speaker": "Morgana",
+   "en": "Yeah, I think so too! After all, people[n]only describe food as salty when the[n]salt overpowers everything else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_0124_06#1",
+   "speaker": "Morgana",
+   "en": "So if it's a negative connotation, then...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_0124_06#2",
+   "speaker": "Morgana",
+   "en": "It'd have to mean someone's feeling[n]bad somehow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_0124_06#3",
+   "speaker": "Morgana",
+   "en": "And it's probably something you can[n]say about yourself or other people.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_0124_06#4",
+   "speaker": "Morgana",
+   "en": "So with all of that in mind, \"salty\"[n]probably means...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_0124_07#0",
+   "speaker": null,
+   "en": "Hungry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_0124_07#1",
+   "speaker": null,
+   "en": "Sad.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_0124_07#2",
+   "speaker": null,
+   "en": "Resentful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3A_0124_08#0",
+   "speaker": "Morgana",
+   "en": "I don't think so... Oh, are you just hungry[n]from all this talking about flavors?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_0124_08#0",
+   "speaker": "Morgana",
+   "en": "What, because of salt in the tears? I don't[n]think that's exactly it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_0124_08#1",
+   "speaker": "Morgana",
+   "en": "Let's think it over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_0124_08#0",
+   "speaker": "Morgana",
+   "en": "Yeah, I think so too!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_0124_08#1",
+   "speaker": "Morgana",
+   "en": "It makes me think of someone who's[n]ready to pick a fight, you know?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_0124_08#2",
+   "speaker": "Morgana",
+   "en": "So if you call someone salty, that[n]probably means they're angry or[n]resentful!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_0124_08#3",
+   "speaker": "Morgana",
+   "en": "Phew, that was a rough one...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_00_0711_01#0",
+   "speaker": "Morgana",
+   "en": "So he wants to know how long you keep[n]long-term memories, huh...? This is a[n]tricky one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_0711_02#0",
+   "speaker": "Morgana",
+   "en": "What is long-term memory, anyway?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_0711_03#0",
+   "speaker": null,
+   "en": "Memories of vocabulary terms.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_0711_03#1",
+   "speaker": null,
+   "en": "Memories that last a long time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_0711_03#2",
+   "speaker": null,
+   "en": "Memories of your whole life.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1A_0711_04#0",
+   "speaker": "Morgana",
+   "en": "Is that really what he said? Think about[n]it again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_0711_04#0",
+   "speaker": "Morgana",
+   "en": "Yeah, it was something like that!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_0711_04#1",
+   "speaker": "Morgana",
+   "en": "So anyway, you keep them for a long[n]time. The question is, how long.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_0711_04#2",
+   "speaker": "Morgana",
+   "en": "Maruki mentioned something about the[n]amount of memories you could store,[n]right? Something like...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1C_0711_04#0",
+   "speaker": "Morgana",
+   "en": "Is that really what he said? Think about[n]it again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_0711_05#0",
+   "speaker": null,
+   "en": "Two or three.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_0711_05#1",
+   "speaker": null,
+   "en": "A maximum of ten.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_0711_05#2",
+   "speaker": null,
+   "en": "Infinite.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_0711_06#0",
+   "speaker": "Morgana",
+   "en": "That's way too small, isn't it? Think about[n]it again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_0711_06#0",
+   "speaker": "Morgana",
+   "en": "Huh. Is that really what he said? Give it[n]some more thought.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_0711_06#0",
+   "speaker": "Morgana",
+   "en": "Yeah!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_0711_06#1",
+   "speaker": "Morgana",
+   "en": "If you have theoretically infinite space[n]for them... then theoretically, you'd be[n]able to retain them for...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_0711_07#0",
+   "speaker": null,
+   "en": "Three days max.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_0711_07#1",
+   "speaker": null,
+   "en": "Five minutes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_0711_07#2",
+   "speaker": null,
+   "en": "Forever.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3A_0711_08#0",
+   "speaker": "Morgana",
+   "en": "Nah, isn't that too short?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3A_0711_08#1",
+   "speaker": "Morgana",
+   "en": "Come on, think about this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_0711_08#0",
+   "speaker": "Morgana",
+   "en": "Yeah, probably five minutes tops... if[n]you're a goldfish!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_0711_08#1",
+   "speaker": "Morgana",
+   "en": "Let's think it over from the start.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_0711_08#0",
+   "speaker": "Morgana",
+   "en": "Yeah. I think so too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_0711_08#1",
+   "speaker": "Morgana",
+   "en": "...So that's it. Long-term memories will[n]never really fade away!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

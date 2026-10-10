@@ -1,0 +1,2245 @@
+{
+ "file": "EN/FIELD/NPC/CORP001.BF",
+ "entries": [
+  {
+   "id": "MSG_MORGANA_DAY_0415_1#0",
+   "speaker": "Morgana",
+   "en": "You'll need to do something about[n]this room before we can start making[n]infiltration tools.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0415_1#1",
+   "speaker": "Morgana",
+   "en": "I guess tomorrow will have to be our[n]big spring cleanup...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0415#0",
+   "speaker": "Morgana",
+   "en": "I'm all for teaching you how to make[n]infiltration tools, but you really need[n]to clean your room first...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0416#0",
+   "speaker": "Morgana",
+   "en": "Shibuya...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0416#1",
+   "speaker": "Morgana",
+   "en": "Well, I know where it is, but... I can't[n]seem to remember whether or not[n]I've actually been there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0417_noo#0",
+   "speaker": "Morgana",
+   "en": "Hey, you already know what we're[n]doing today, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MORGANA_DAY_0417_noo#0",
+   "speaker": null,
+   "en": "Let's go to Shibuya with Ryuji.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MORGANA_DAY_0417_noo#1",
+   "speaker": null,
+   "en": "Let's meet up with the others.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MORGANA_DAY_0417_noo#2",
+   "speaker": null,
+   "en": "I haven't decided yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0417_noo_2#0",
+   "speaker": "Morgana",
+   "en": "Really...? I don't know what you're up to,[n]but count me in!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0417_noo_3#0",
+   "speaker": "Morgana",
+   "en": "All right! Come on, let's head over to[n]the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0417_noo_4#0",
+   "speaker": "Morgana",
+   "en": "Hey, I'm counting on you here.[n]Think it over, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0417_nig#0",
+   "speaker": "Morgana",
+   "en": "I'll teach you all about how to make[n]infiltration tools.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0417_nig#1",
+   "speaker": "Morgana",
+   "en": "Hey, you need to clean up your desk[n]first though. Get on it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0427_nig#0",
+   "speaker": "Morgana",
+   "en": "You don't want to run out of time, right?[n]We need to come up with a plan!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0428_nig#0",
+   "speaker": "Morgana",
+   "en": "Tomorrow's the big heist, okay? Don't[n]go oversleeping now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0428_nig_2#0",
+   "speaker": "Morgana",
+   "en": "Let's hurry up and get this done. I know[n]we can do this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0429_noo#0",
+   "speaker": "Morgana",
+   "en": "Come on! There's no time left! We have[n]to pull this off now, or we'll lose our[n]chance!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0429_noo_2#0",
+   "speaker": "Morgana",
+   "en": "What's our plan for today? Remember,[n]we don't have much time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0429_nig#0",
+   "speaker": "Morgana",
+   "en": "Ugh... I kept telling you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0429_nig_2#0",
+   "speaker": "Morgana",
+   "en": "If we don't send it out tomorrow, we're[n]in deep trouble! Let's meet up at the[n]hideout as soon as school's over!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0430_nig#0",
+   "speaker": "Morgana",
+   "en": "I guess we just have to accept it now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_BADEND_DAY_0#0",
+   "speaker": "Morgana",
+   "en": "We're out of time... I'm sorry I couldn't[n]do more to help...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0501#0",
+   "speaker": "Morgana",
+   "en": "The board meeting's tomorrow...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0502#0",
+   "speaker": "Morgana",
+   "en": "Let's make sure we sell that[n]medal tomorrow!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0503#0",
+   "speaker": "Morgana",
+   "en": "You had to spend the whole day[n]helping out... Make sure you find[n]a way out of it tomorrow, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0504#0",
+   "speaker": "Morgana",
+   "en": "I wonder what restaurant Lady Ann[n]chose for us...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0505#0",
+   "speaker": "Morgana",
+   "en": "We need to make sure the Phantom[n]Thieves is a name we can hang our[n]hats on!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0506#0",
+   "speaker": "Morgana",
+   "en": "It's fine if you don't go today, but you[n]really can't forget about going to that[n]airsoft shop, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0507#0",
+   "speaker": "Morgana",
+   "en": "Do you want to know anything[n]about Mementos?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MORGANA_DAY_0507#0",
+   "speaker": null,
+   "en": "What exactly is it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MORGANA_DAY_0507#1",
+   "speaker": null,
+   "en": "How did that barrier open up?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MORGANA_DAY_0507#2",
+   "speaker": null,
+   "en": "Why are you so interested in it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MORGANA_DAY_0507#3",
+   "speaker": null,
+   "en": "Who is Jose?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MORGANA_DAY_0507#4",
+   "speaker": null,
+   "en": "I know all I need to know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MORGANA_DAY_0507#5",
+   "speaker": null,
+   "en": "Nah, I'm good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0507_0#0",
+   "speaker": "Morgana",
+   "en": "Well, it's the collective Palace of the[n]general public.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0507_0#1",
+   "speaker": "Morgana",
+   "en": "Deep inside each and every human's[n]mind is an obscured thought process[n]known as the unconscious.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0507_0#2",
+   "speaker": "Morgana",
+   "en": "These thought processes then meld[n]together and form what I like to[n]call the collective unconscious.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0507_0#3",
+   "speaker": "Morgana",
+   "en": "In other words, Mementos is a shared[n]cognitive world created by the joint[n]distortions of society as a whole.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0507_0#4",
+   "speaker": "Morgana",
+   "en": "You can just think of it as the big Palace[n]made from everyone's hearts though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0507_1#0",
+   "speaker": "Morgana",
+   "en": "I would bet it was because of the[n]shift in public opinion caused by[n]Kamoshida's change of heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0507_1#1",
+   "speaker": "Morgana",
+   "en": "Those kinds of big changes in the tide[n]will surely have an impact on what goes[n]on in Mementos.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0507_1#2",
+   "speaker": "Morgana",
+   "en": "In other words, we might be able to get[n]even further if we can rouse up more[n]public acknowledgment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0507_1#3",
+   "speaker": "Morgana",
+   "en": "We'll need to take down another target[n]in order for that to happen though!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0507_2#0",
+   "speaker": "Morgana",
+   "en": "I have a feeling that something deep[n]within that place has caused me to take[n]my current form.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0507_2#1",
+   "speaker": "Morgana",
+   "en": "That's why I'm so invested in[n]reaching the depths of Mementos.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0507_2#2",
+   "speaker": "Morgana",
+   "en": "If we can figure out the cause of my[n]distorted form, I should be able to[n]go back to normal... I think.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0507_2#3",
+   "speaker": "Morgana",
+   "en": "Either way, I'll be counting on you guys[n]to help me out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0507_3#0",
+   "speaker": "Morgana",
+   "en": "Oh, and it's important to note that[n]both Mementos and the Palaces are[n]affected by real world happenings.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0507_3#1",
+   "speaker": "Morgana",
+   "en": "Weather's a great example of that.[n]I mean, weather affects your mood,[n]doesn't it? Same goes for Mementos.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0507_3#2",
+   "speaker": "Morgana",
+   "en": "You should try heading in on a [clr 2]day[n]with bad weather[clr 27]. I'll explain in more[n]detail then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0507_4#0",
+   "speaker": "Morgana",
+   "en": "That kid's... well, honestly, I have no idea.[n]I've never seen him before.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0507_4#1",
+   "speaker": "Morgana",
+   "en": "I know he's not a Shadow, but that's all[n]I can say for sure. I don't even know[n]if he's human.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0507_4#2",
+   "speaker": "Morgana",
+   "en": "He was saying something about us[n]gathering flowers from Mementos, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0507_4#3",
+   "speaker": "Morgana",
+   "en": "We don't know who he is, or what he[n]wants... but either way, he doesn't seem[n]dangerous.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0507_4#4",
+   "speaker": "Morgana",
+   "en": "We don't have to prioritize it, but he[n]said he'd compensate us... Maybe we[n]can collect some if we have time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0507_4#5",
+   "speaker": "Morgana",
+   "en": "Oh, and there is that \"star\" too, huh?[n]Something about wishes? It's not doing[n]anything now, though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0507_4#6",
+   "speaker": "Morgana",
+   "en": "It just looks like a rock, but... why don't[n]you hold onto it for now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0507_4#7",
+   "speaker": "Morgana",
+   "en": "No idea what it does, but maybe it'll[n]help us in the Metaverse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0508_DAY#0",
+   "speaker": "Morgana",
+   "en": "Mishima's going to be a great source[n]of info for us. Make sure you form[n]a strong bond with him, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0508_NIG#0",
+   "speaker": "Morgana",
+   "en": "Next Wednesday is the start of exams...[n]Shouldn't you be studying?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0509#0",
+   "speaker": "Morgana",
+   "en": "I know exams are important, but don't[n]forget about Mementos, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0510#0",
+   "speaker": "Morgana",
+   "en": "Your exams are finally starting tomorrow.[n]I can't wait to see how you end up doing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0513#0",
+   "speaker": "Morgana",
+   "en": "Tomorrow's the last day of exams...[n]You don't want to go into those half-[n]asleep, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0513#1",
+   "speaker": "Morgana",
+   "en": "Worrying isn't gonna do you any good[n]now. Just do what you can, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0514#0",
+   "speaker": "Morgana",
+   "en": "I'll be sure to escort Lady Ann tomorrow!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0515#0",
+   "speaker": "Morgana",
+   "en": "If that Madarame is the same guy we[n]heard about in Mementos, it might be[n]worth looking into this some more...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0516#0",
+   "speaker": "Morgana",
+   "en": "Our only choice now is to ask Yusuke[n]about this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0517#0",
+   "speaker": "Morgana",
+   "en": "This is our first job as the Phantom[n]Thieves. It's absolutely imperative[n]that we win this one!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0604#0",
+   "speaker": "Morgana",
+   "en": "It's just about time that he has his change[n]of heart...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0605#0",
+   "speaker": "Morgana",
+   "en": "I didn't expect it to be such a big news[n]story... I guess he was a pretty big[n]celebrity after all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0606#0",
+   "speaker": "Morgana",
+   "en": "I think we should lay low for the[n]time being. Exploring Mementos is[n]probably a good option right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0607#0",
+   "speaker": "Morgana",
+   "en": "I just remembered, you have a field trip[n]starting the day after tomorrow, right?[n]To a TV station, was it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0608#0",
+   "speaker": "Morgana",
+   "en": "A TV studio... It must be such a[n]glamorous place to work...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0609#0",
+   "speaker": "Morgana",
+   "en": "That place was called Dome Town, right?[n]Let's go again with someone else if[n]you ever have free time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0610#0",
+   "speaker": "Morgana",
+   "en": "Don't let what they're saying[n]worry you, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0610#1",
+   "speaker": "Morgana",
+   "en": "In time, people will come to see that[n]we're in the right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_SENARIO_0611#0",
+   "speaker": "Morgana",
+   "en": "I'm going to protect my sleeping[n]beauty, no matter what it takes...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MORGANA_SENARIO_0611#0",
+   "speaker": null,
+   "en": "But I'm still awake.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MORGANA_SENARIO_0611#1",
+   "speaker": null,
+   "en": "Good luck.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_SENARIO_0611_2#0",
+   "speaker": "Morgana",
+   "en": "I'm not talking about you![n]Wait... Don't eavesdrop on me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_SENARIO_0611_3#0",
+   "speaker": "Morgana",
+   "en": "Urgh... Don't eavesdrop on me![n]And aren't you supposed to be asleep!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_SENARIO_0611_4#0",
+   "speaker": "Morgana",
+   "en": "Either you guys need to get stronger or[n]leave Lady Ann's safety to me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_SENARIO_0611_4#1",
+   "speaker": "Morgana",
+   "en": "If there's one phantom thief creed you[n]should remember, it's that you need to[n]protect the ones you love.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0612_1#0",
+   "speaker": "Morgana",
+   "en": "I can't believe he just went home[n]without telling us... Although, that[n]tactlessness is very Yusuke.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0612_2#0",
+   "speaker": "Morgana",
+   "en": "It was really nice having that hot pot with[n]the others, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0613#0",
+   "speaker": "Morgana",
+   "en": "She said there's someone whose heart[n]she wants to change... Just what is that[n]girl up to?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0614#0",
+   "speaker": "Morgana",
+   "en": "A mafia boss...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0614#1",
+   "speaker": "Morgana",
+   "en": "I think he's actually a pretty[n]decent target...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0615#0",
+   "speaker": "Morgana",
+   "en": "Two weeks left... We don't have much[n]time to waste here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0616#0",
+   "speaker": "Morgana",
+   "en": "No matter what we do, that girl won't[n]let us get away. We really shouldn't[n]underestimate her...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0617#0",
+   "speaker": "Morgana",
+   "en": "Still nothing from that journalist...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0617#1",
+   "speaker": "Morgana",
+   "en": "We still have over ten days though.[n]I have no doubt she'll get in contact[n]with us before then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0618#0",
+   "speaker": "Morgana",
+   "en": "Shinjuku, the city that never sleeps...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0618#1",
+   "speaker": "Morgana",
+   "en": "It's a fascinating place, don't you think?[n]We should go back sometime.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0619#0",
+   "speaker": "Morgana",
+   "en": "How are we supposed to get up to that[n]floating island...? I wonder if flying is[n]really the only way...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0620#0",
+   "speaker": "Morgana",
+   "en": "So the Palace is a bank this time...[n]It should make a worthy target.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0708#0",
+   "speaker": "Morgana",
+   "en": "He should have his change of heart[n]soon enough...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0709#0",
+   "speaker": "Morgana",
+   "en": "I think we've finally managed to make[n]ourselves known to the world at large.[n]Don't you agree?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0710#0",
+   "speaker": "Morgana",
+   "en": "We've known each other for three[n]months now... You guys have really[n]improved a lot since we first met.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0711#0",
+   "speaker": "Morgana",
+   "en": "I know it doesn't seem like it, but the[n]chief is keeping a close eye on you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0711#1",
+   "speaker": "Morgana",
+   "en": "Just be careful, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0712#0",
+   "speaker": "Morgana",
+   "en": "Once exams are over, we can start the[n]search for our next target!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0716#0",
+   "speaker": "Morgana",
+   "en": "Now that you're done with exams,[n]let's find ourselves a new target!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0717_0#0",
+   "speaker": "Morgana",
+   "en": "I wish tomorrow would come a[n]little faster...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0717_1#0",
+   "speaker": "Morgana",
+   "en": "It's seriously gonna get even hotter[n]than it is now...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0718#0",
+   "speaker": "Morgana",
+   "en": "Hm, Medjed... First things first,[n]let's gather intel on them!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0719#0",
+   "speaker": "Morgana",
+   "en": "Getting targeted by an international[n]hacker organization is proof that[n]we're bona fide phantom thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0719#1",
+   "speaker": "Morgana",
+   "en": "It would be really nice if we had[n]a little more info on them though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0720#0",
+   "speaker": "Morgana",
+   "en": "First Medjed, now Alibaba...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0720#1",
+   "speaker": "Morgana",
+   "en": "Why are these hackers coming[n]after us all of a sudden?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0721#0",
+   "speaker": "Morgana",
+   "en": "It doesn't look like making Alibaba[n]talk will be easy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0721#1",
+   "speaker": "Morgana",
+   "en": "I wonder how we're gonna get the[n]information we need...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0722#0",
+   "speaker": "Morgana",
+   "en": "What do you think the chief was arguing[n]about with that lady?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0722#1",
+   "speaker": "Morgana",
+   "en": "I wonder...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0723#0",
+   "speaker": "Morgana",
+   "en": "Do you think Alibaba calling off our[n]deal has anything to do with the chief?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0723#1",
+   "speaker": "Morgana",
+   "en": "It's so hard to tell what the truth of the[n]situation is...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0725#0",
+   "speaker": "Morgana",
+   "en": "Our main objective here is defeating[n]Medjed, so we can't rest even after[n]we steal Futaba's heart. Understand?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0820#0",
+   "speaker": "Morgana",
+   "en": "We couldn't do anything in the end...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0820_CLE#0",
+   "speaker": "Morgana",
+   "en": "Isn't Futaba sleeping a little too hard...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0820_CLE#1",
+   "speaker": "Morgana",
+   "en": "...Well I guess it's no use worrying. All we[n]can do is put our trust in her and wait.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0821#0",
+   "speaker": "Morgana",
+   "en": "Let's just go to sleep for today.[n]I'm exhausted...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0822#0",
+   "speaker": "Morgana",
+   "en": "Futaba's almost like some kind[n]of shy cat...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0822#1",
+   "speaker": "Morgana",
+   "en": "Even so, we should keep at it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0823#0",
+   "speaker": "Morgana",
+   "en": "Futaba and Yusuke... I guess birds of[n]a feather flock together after all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0824#0",
+   "speaker": "Morgana",
+   "en": "Let's do our best. We need to make sure[n]Futaba is a comfortable component of[n]our group.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0825#0",
+   "speaker": "Morgana",
+   "en": "The chief looked really happy. After all,[n]he's been worrying about Futaba this[n]whole time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0826#0",
+   "speaker": "Morgana",
+   "en": "Maybe I should wear a swimsuit too...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0826#1",
+   "speaker": "Morgana",
+   "en": "Actually, never mind. It would be weird[n]for me to wear clothes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0826#2",
+   "speaker": "Morgana",
+   "en": "Wait a second... Does that mean I'm[n]naked right now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0827#0",
+   "speaker": "Morgana",
+   "en": "Man, you guys can really eat on a[n]whole 'nother level.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0828#0",
+   "speaker": "Morgana",
+   "en": "Ugh, my fur reeks of smoke...[n]Dammit, Futaba...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0828#1",
+   "speaker": "Morgana",
+   "en": "Well at least she seemed like she was[n]having fun... But still... Guh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0829#0",
+   "speaker": "Morgana",
+   "en": "My fur... Ngh... And now it smells like[n]the ocean.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0830_0#0",
+   "speaker": "Morgana",
+   "en": "So if Mementos expands as the[n]Phantom Thieves get more famous...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0830_0#1",
+   "speaker": "Morgana",
+   "en": "What exactly am I...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0830_1#0",
+   "speaker": "Morgana",
+   "en": "What are we doing today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0830_1#1",
+   "speaker": "Morgana",
+   "en": "Oh, I know. We should go to Mementos[n]and test out Futaba's abilities...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0831#0",
+   "speaker": "Morgana",
+   "en": "When I turn back into a human,[n]I'm gonna eat so much sushi...[n]Maybe Lady Ann can come too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0901#0",
+   "speaker": "Morgana",
+   "en": "I'm sure this will go well. It's Makoto,[n]after all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0902#0",
+   "speaker": "Morgana",
+   "en": "I can't wait to see what tomorrow's[n]report will bring! I wonder what[n]we'll find...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0903_00#0",
+   "speaker": "Morgana",
+   "en": "Just... what am I...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0903_00#1",
+   "speaker": "Morgana",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0903_00#2",
+   "speaker": "Morgana",
+   "en": "...You're wondering too, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MORGANA_DAY_0903#0",
+   "speaker": null,
+   "en": "What are you talking about?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MORGANA_DAY_0903#1",
+   "speaker": null,
+   "en": "Is something wrong?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0903_01#0",
+   "speaker": "Morgana",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0903_01#1",
+   "speaker": "Morgana",
+   "en": "Uh... Never mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0903_02#0",
+   "speaker": "Morgana",
+   "en": "Never mind... Just forget it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0904_1#0",
+   "speaker": "Morgana",
+   "en": "You guys have it so easy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0904_2#0",
+   "speaker": "Morgana",
+   "en": "I didn't think even Makoto would go[n]to Hawaii...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0904_2#1",
+   "speaker": "Morgana",
+   "en": "*sigh*",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0905_1#0",
+   "speaker": "Morgana",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0905_2#0",
+   "speaker": "Morgana",
+   "en": "Oh, it's nothing. I was just[n]daydreaming a bit...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0905_3#0",
+   "speaker": "Morgana",
+   "en": "You guys have the school trip the day[n]after tomorrow, huh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0905_3#1",
+   "speaker": "Morgana",
+   "en": "That means I won't be seeing you guys[n]for a while, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0906#0",
+   "speaker": "Morgana",
+   "en": "...You need something?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0906#1",
+   "speaker": "Morgana",
+   "en": "Everything's fine. You don't need to[n]worry about me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0906#2",
+   "speaker": "Morgana",
+   "en": "Your school trip's tomorrow, right?[n]You don't need to worry about us.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0912#0",
+   "speaker": "Morgana",
+   "en": "Let's talk some other time. You should[n]go to sleep for tonight, though.[n]You look exhausted.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0917#0",
+   "speaker": "Morgana",
+   "en": "I wonder if Haru's been able to[n]fall asleep...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0917#1",
+   "speaker": "Morgana",
+   "en": "It might not be easy for her to relax[n]right now, but I hope this'll at least[n]help her cheer up a bit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0918#0",
+   "speaker": "Morgana",
+   "en": "I haven't forgotten about the mental[n]shutdowns, I promise. We still need[n]to change Okumura's heart!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0918#1",
+   "speaker": "Morgana",
+   "en": "Oh, and you didn't get rusty while[n]I was gone, did you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1007_0#0",
+   "speaker": "Morgana",
+   "en": "Okumura will definitely have a change[n]of heart, but I'm honestly more worried[n]about Haru...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1007_0#1",
+   "speaker": "Morgana",
+   "en": "I really hope she doesn't get sent off[n]to that horrible man...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1007_1#0",
+   "speaker": "Morgana",
+   "en": "Everything went just as smoothly as all[n]the other times...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1007_1#1",
+   "speaker": "Morgana",
+   "en": "Why did this happen now...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1008#0",
+   "speaker": "Morgana",
+   "en": "There's no doubt Okumura played a[n]major role in the mental shutdowns.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1008#1",
+   "speaker": "Morgana",
+   "en": "All we can do now is wait for him[n]to confess. We should find out some[n]more info on the true culprit then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1009_0#0",
+   "speaker": "Morgana",
+   "en": "We definitely changed Okumura's heart,[n]but he's keeping his lips sealed on the[n]info we need...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1009_0#1",
+   "speaker": "Morgana",
+   "en": "I'm getting really impatient...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1009_1#0",
+   "speaker": "Morgana",
+   "en": "I'm really worried about Okumura,[n]but even more about Haru...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1009_1#1",
+   "speaker": "Morgana",
+   "en": "Are things going to be okay...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1010_0#0",
+   "speaker": "Morgana",
+   "en": "I'm worried about Haru...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1010_1#0",
+   "speaker": "Morgana",
+   "en": "It's looks like Haru's going to be okay.[n]That's a relief.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1011#0",
+   "speaker": "Morgana",
+   "en": "We didn't do anything different[n]this time... so why...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1012#0",
+   "speaker": "Morgana",
+   "en": "Because of me, Haru's wrapped up[n]in this mess... I never imagined this[n]is what would happen...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1013#0",
+   "speaker": "Morgana",
+   "en": "They're saying the Phantom Thieves[n]murdered Okumura? And we sent a[n]calling card to your principal?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1013#1",
+   "speaker": "Morgana",
+   "en": "You have to be kidding me! How[n]could they accuse us of that!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1014#0",
+   "speaker": "Morgana",
+   "en": "You guys seriously have exams now...?[n]They really do seem to come at the[n]worst possible times...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1015#0",
+   "speaker": "Morgana",
+   "en": "We haven't gotten a single message[n]from Haru... I wonder if she's okay...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1016#0",
+   "speaker": "Morgana",
+   "en": "I'm done sitting back and watching.[n]Let's get back in action once your[n]exams are over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1020#0",
+   "speaker": "Morgana",
+   "en": "Could someone have been pulling[n]the strings this whole time...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1021#0",
+   "speaker": "Morgana",
+   "en": "Who could have set us up...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1021#1",
+   "speaker": "Morgana",
+   "en": "Think, Morgana, think!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1022#0",
+   "speaker": "Morgana",
+   "en": "It won't be much longer until they[n]catch us at this rate. We need to do[n]something, fast...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1023#0",
+   "speaker": "Morgana",
+   "en": "Didn't Akechi say he was through[n]making public appearances for now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1023#1",
+   "speaker": "Morgana",
+   "en": "I wonder if he'll really be interested[n]in our offer...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1024#0",
+   "speaker": "Morgana",
+   "en": "All right, we've cleared the first hurdle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1024#1",
+   "speaker": "Morgana",
+   "en": "The real question is, how do we get[n]info out of Akechi...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1025#0",
+   "speaker": "Morgana",
+   "en": "All we can do now is hope Makoto[n]does well at tomorrow's panel.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1026#0",
+   "speaker": "Morgana",
+   "en": "It looks like we managed to avoid the[n]worst possible situation...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1027_1#0",
+   "speaker": "Morgana",
+   "en": "...I'll be counting on you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MORGANA_DAY_1027#0",
+   "speaker": null,
+   "en": "I got this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MORGANA_DAY_1027#1",
+   "speaker": null,
+   "en": "I'd rather you didn't.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MORGANA_DAY_1027#2",
+   "speaker": null,
+   "en": "For what, exactly?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1027_2#0",
+   "speaker": "Morgana",
+   "en": "I wouldn't have expected anything less[n]from you. I knew making you our leader[n]was the right call.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1027_3#0",
+   "speaker": "Morgana",
+   "en": "Heh. It looks like you're still calm[n]enough to be making jokes...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1027_4#0",
+   "speaker": "Morgana",
+   "en": "Akechi tomorrow!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1029#0",
+   "speaker": "Morgana",
+   "en": "We still have an opportunity to turn[n]the tide here, so don't rush things.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1122_0#0",
+   "speaker": "Morgana",
+   "en": "You're supposed to be dead right now,[n]you know? Just make sure you don't let[n]anyone see you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1122_1#0",
+   "speaker": "Morgana",
+   "en": "It's time we show Shido who's boss[n]and snap the public out of the trance[n]they're in!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1123#0",
+   "speaker": "Morgana",
+   "en": "We have yet another reason to fight now.[n]This really gets my blood pumping!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1124#0",
+   "speaker": "Morgana",
+   "en": "We finally have the keyword we need.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1124#1",
+   "speaker": "Morgana",
+   "en": "It's time to counterattack and give Shido[n]what's coming to him!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_houkago_Yoko#0",
+   "speaker": "Morgana",
+   "en": "If we don't sent the calling card today,[n]we're finished! Let's hurry and get the[n]team together!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1217#0",
+   "speaker": "Morgana",
+   "en": "So tomorrow's election day... I hope[n]he has the change of heart in time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1218#0",
+   "speaker": "Morgana",
+   "en": "We did it. You'll finally be able to come[n]out of the shadows tomorrow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1219#0",
+   "speaker": "Morgana",
+   "en": "I wonder what will happen[n]with your probation...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1219#1",
+   "speaker": "Morgana",
+   "en": "Maybe Makoto's sister will be able[n]to help out somehow. For now though,[n]you should try to focus on exams.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1221#0",
+   "speaker": "Morgana",
+   "en": "Phew, exams are finally over.[n]Nice job with your studying.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1222#0",
+   "speaker": "Morgana",
+   "en": "It looks like we'll finally be able to settle[n]things once and for all. I can't wait[n]for tomorrow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1223#0",
+   "speaker": "Morgana",
+   "en": "This is our last heist...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_1223#1",
+   "speaker": "Morgana",
+   "en": "We've spent so much time together,[n]but it all went by in a flash...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0319#0",
+   "speaker": "Morgana",
+   "en": "I guess it's time to leave this room[n]behind...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_DAY_0319#1",
+   "speaker": "Morgana",
+   "en": "...Come on. Let's go say our farewells[n]to everyone!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D01_ACTION#0",
+   "speaker": "Morgana",
+   "en": "Tomorrow's the big day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D01_ACTION#1",
+   "speaker": "Morgana",
+   "en": "You can try to relax, or do as much prep[n]as you can. Just... do what you need to,[n]before it's too late.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D01_YOKOKU_0#0",
+   "speaker": "Morgana",
+   "en": "We need to figure out the best day[n]to send the calling card! Come on,[n]let's meet up with the others.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D01_YOKOKU_0_2#0",
+   "speaker": "Morgana",
+   "en": "When do you want to send out the[n]calling card? Whenever it is, just[n]make sure you think it through, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D01_LV1#0",
+   "speaker": "Morgana",
+   "en": "We still have more than ten days until[n]you get expelled, so we can take our[n]time if you want.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D01_WARNING#0",
+   "speaker": "Morgana",
+   "en": "Hey, shouldn't we meet up at the[n]hideout? You really need to start[n]getting serious about this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D01_LV2#0",
+   "speaker": "Morgana",
+   "en": "You're going to get expelled if you[n]don't steal Kamoshida's heart.[n]Make sure you don't forget that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D01_LV3#0",
+   "speaker": "Morgana",
+   "en": "Are you taking this seriously?[n]You're about to get expelled!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D01_WAIT#0",
+   "speaker": "Morgana",
+   "en": "All we can do now is wait and see[n]what happens. There's no point[n]in getting impatient now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D02_ACTION#0",
+   "speaker": "Morgana",
+   "en": "Tomorrow's the big day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D02_ACTION#1",
+   "speaker": "Morgana",
+   "en": "You can try to relax, or do as much prep[n]as you can. Just... do what you need to,[n]before it's too late.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D02_YOKOKU#0",
+   "speaker": "Morgana",
+   "en": "You can figure out the best time[n]to send the calling card. Just[n]think it over carefully, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D02_NINCHI#0",
+   "speaker": "Morgana",
+   "en": "All we have to do is change[n]Madarame's cognition. Just watch.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D02_LV1#0",
+   "speaker": "Morgana",
+   "en": "We still have some time until[n]the exhibit comes to a close.[n]We shouldn't rush things.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D02_LV2#0",
+   "speaker": "Morgana",
+   "en": "I'm not sure we have time to relax[n]anymore... We need to get moving[n]on this soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D02_LV3#0",
+   "speaker": "Morgana",
+   "en": "You know the exhibit's ending[n]soon, right? Are you sure we're[n]moving fast enough here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D02_YUSUKE_I#0",
+   "speaker": "Morgana",
+   "en": "Legal action, huh... I guess we[n]can't afford to waste time now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D02_LV1_2#0",
+   "speaker": "Morgana",
+   "en": "This is our first real target since[n]we formed the Phantom Thieves.[n]Come on, let's change his heart!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D02_LV2_2#0",
+   "speaker": "Morgana",
+   "en": "We can't let him take legal action[n]against us. Let's steal his heart as[n]soon as possible.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D02_LV3_2#0",
+   "speaker": "Morgana",
+   "en": "We don't have much time left.[n]Do you really want to get arrested...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D02_WAIT#0",
+   "speaker": "Morgana",
+   "en": "All we can do now is wait and see[n]what happens. There's no point[n]in getting impatient now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_night_Yokoku#0",
+   "speaker": "Morgana",
+   "en": "We HAVE to send out the calling card![n]Let's gather up at the hideout, ASAP!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D03_ACTION#0",
+   "speaker": "Morgana",
+   "en": "Tomorrow's the big day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D03_ACTION#1",
+   "speaker": "Morgana",
+   "en": "You can try to relax, or do as much prep[n]as you can. Just... do what you need to,[n]before it's too late.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D03_YOKOKU#0",
+   "speaker": "Morgana",
+   "en": "You can figure out the best time to[n]send the calling card. Just think it[n]over carefully, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D03_NINCHI#0",
+   "speaker": "Morgana",
+   "en": "Let's change Kaneshiro's cognition.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D03_LV1#0",
+   "speaker": "Morgana",
+   "en": "You have the hang of things by now,[n]right? I'll be counting on you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D03_LV2#0",
+   "speaker": "Morgana",
+   "en": "We can't afford to waste much time here.[n]I mean, you don't want that picture[n]posted everywhere, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D03_LV3#0",
+   "speaker": "Morgana",
+   "en": "This is bad... That picture is gonna end[n]up all over at this rate...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D03_WAIT#0",
+   "speaker": "Morgana",
+   "en": "All we can do now is wait and see[n]what happens. There's no point[n]in getting impatient now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D04_YOKOKU#0",
+   "speaker": "Morgana",
+   "en": "Once we get into Futaba's room,[n]we'll show her the calling card and[n]immediately start the heist.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D04_YOKOKU#1",
+   "speaker": "Morgana",
+   "en": "There's not going to be any time to[n]prepare in between, so make sure[n]you're ready to go beforehand.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D04_LV1#0",
+   "speaker": "Morgana",
+   "en": "There are a bunch of strange[n]circumstances this time. We[n]should proceed with caution...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D04_LV2#0",
+   "speaker": "Morgana",
+   "en": "The deadline is coming up soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D04_LV2#1",
+   "speaker": "Morgana",
+   "en": "Come on, let's finish this before she[n]goes back on her word and reports[n]us to the police.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D04_LV3#0",
+   "speaker": "Morgana",
+   "en": "This is bad... Our time's almost up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D04_WAIT#0",
+   "speaker": "Morgana",
+   "en": "All we can do now is wait and see[n]what happens. There's no point[n]in getting impatient now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D04_HEATISLA#0",
+   "speaker": "Morgana",
+   "en": "A heat wave like this is the worst[n]time to be covered in fur...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D04_HEAVYRAI#0",
+   "speaker": "Morgana",
+   "en": "The heat's not letting up, even with[n]all this rain...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D05_ACTION#0",
+   "speaker": "Morgana",
+   "en": "Tomorrow's the big day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D05_ACTION#1",
+   "speaker": "Morgana",
+   "en": "You can try to relax, or do as much[n]prep as you can. Just... do what you[n]need to, before it's too late.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D05_YOKOKU#0",
+   "speaker": "Morgana",
+   "en": "You can figure out the best time to[n]send the calling card. Just think it[n]over carefully, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D05_NINCHI#0",
+   "speaker": "Morgana",
+   "en": "We need to change[n]Okumura's cognition...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D05_LV1#0",
+   "speaker": "Morgana",
+   "en": "We need to change Okumura's heart.[n]Not just for Haru, but for the Phantom[n]Thieves too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D05_LV2#0",
+   "speaker": "Morgana",
+   "en": "I'm not sure we have time to[n]relax anymore... We need to[n]get moving on this soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D05_LV3#0",
+   "speaker": "Morgana",
+   "en": "This is bad... Our time's almost up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D05_WAIT#0",
+   "speaker": "Morgana",
+   "en": "All we can do now is wait and see[n]what happens. There's no point[n]in getting impatient now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA__YOSHIZAWA10#0",
+   "speaker": "Morgana",
+   "en": "If Yoshizawa's able to use a Persona...[n]She must've had a lot on her mind...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA__YOSHIZAWA10#1",
+   "speaker": "Morgana",
+   "en": "Well, she said she was okay. We've just[n]got to keep moving forward on our own[n]path.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D06_ACTION#0",
+   "speaker": "Morgana",
+   "en": "Tomorrow's the big day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D06_ACTION#1",
+   "speaker": "Morgana",
+   "en": "You can try to relax, or do as much prep[n]as you can. Just... do what you need to,[n]before it's too late.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D06_YOKOKU#0",
+   "speaker": "Morgana",
+   "en": "All that's left is to send[n]out the calling card...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D06_NINCHI#0",
+   "speaker": "Morgana",
+   "en": "All we have to do is change Niijima's[n]cognition, just like we did with the[n]others before.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D06_LV1#0",
+   "speaker": "Morgana",
+   "en": "All of this is vital to the success of[n]our operation. Plan out your[n]actions carefully, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D06_LV2#0",
+   "speaker": "Morgana",
+   "en": "I'm not sure we have time to[n]relax anymore... We need to[n]get moving on this soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D06_LV3#0",
+   "speaker": "Morgana",
+   "en": "This is bad... Our time's almost up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D06_LV1_WAIT#0",
+   "speaker": "Morgana",
+   "en": "Now we wait until the day we set for[n]the calling card. Make sure you're[n]prepared before then, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D06_LV2_WAIT#0",
+   "speaker": "Morgana",
+   "en": "We're sending the calling card on[n]the 18th, right? Make the most out[n]of the time you have until then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D06_LV3_WAIT#0",
+   "speaker": "Morgana",
+   "en": "We're sending the calling card on[n]the 18th... It's almost time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D07_ACTION#0",
+   "speaker": "Morgana",
+   "en": "Tomorrow's the day. Let's show her[n]what we can do!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D07_YOKOKU#0",
+   "speaker": "Morgana",
+   "en": "The calling card is ready... This heist is[n]going to be spectacular!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D07_NINCHI#0",
+   "speaker": "Morgana",
+   "en": "Even though our target this time is Shido,[n]we need to treat things the same.[n]Change his cognition.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D07_LV1#0",
+   "speaker": "Morgana",
+   "en": "It's still early days here. Let's take it nice[n]and easy for now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D07_LV2#0",
+   "speaker": "Morgana",
+   "en": "You don't really need to rush per se,[n]but you should at least think about[n]getting serious soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D07_LV3#0",
+   "speaker": "Morgana",
+   "en": "The election's bearing down fast.[n]Now is the only chance we'll get.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D07_CLEAR#0",
+   "speaker": "Morgana",
+   "en": "Let's relax at home today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D07_WAIT#0",
+   "speaker": "Morgana",
+   "en": "We did everything we could.[n]And now, we wait...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_PreMaruki_01#0",
+   "speaker": "Morgana",
+   "en": "Hrm... How did this happen...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_PreMaruki_01#1",
+   "speaker": "Morgana",
+   "en": "Either way, let's rest for tonight and[n]collect our thoughts...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_PreMaruki_01_2#0",
+   "speaker": "Morgana",
+   "en": "Lady Lavenza will come by the school...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_PreMaruki_01_2#1",
+   "speaker": "Morgana",
+   "en": "That must mean she's got something[n]important to talk about. Let's hear her[n]out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_PreMaruki_01_3#0",
+   "speaker": "Morgana",
+   "en": "I can't believe he'd control Mementos...![n]This guy's different than the others.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_PreMaruki_01_3#1",
+   "speaker": "Morgana",
+   "en": "Hmm... Maruki's going to be a tough[n]one to take down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_PreMaruki_01_4#0",
+   "speaker": "Morgana",
+   "en": "There's still a lot we don't know, but[n]we're not totally helpless here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_PreMaruki_01_4#1",
+   "speaker": "Morgana",
+   "en": "Let's rest up so we're ready for[n]tomorrow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D10_ACTION#0",
+   "speaker": "Morgana",
+   "en": "Ready or not, our battle's tomorrow.[n]Let's wake Maruki up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D10_YOKOKU#0",
+   "speaker": "Morgana",
+   "en": "Now we just have to send out the[n]calling card! For now, let's wait for[n]Maruki to take action.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D10_LV1_WAIT#0",
+   "speaker": "Morgana",
+   "en": "We can't do anything right now... Maybe[n]you can hang out with the others.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D10_LV2_WAIT#0",
+   "speaker": "Morgana",
+   "en": "Maruki's deadline is almost here... Make[n]sure you're ready. I can come shopping[n]with you if you want.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D10_LV3_WAIT#0",
+   "speaker": "Morgana",
+   "en": "It's almost the day Maruki set for our[n]decision. This is our last job... Let's[n]make it count.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D10_NINCHI#0",
+   "speaker": "Morgana",
+   "en": "We probably should go to Mementos if[n]we want to get past those cables.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D10_NINCHI_C#0",
+   "speaker": "Morgana",
+   "en": "We did what we could. Maybe we could[n]head to the Palace tomorrow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D10_NINCHI_C_2#0",
+   "speaker": "Morgana",
+   "en": "We should be able to continue through[n]the Palace now. Why don't we go check[n]out that room?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D10_LV1#0",
+   "speaker": "Morgana",
+   "en": "We can't lose this one... Let's stay on[n]guard as we move on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D10_LV2#0",
+   "speaker": "Morgana",
+   "en": "Maruki's power is incredible... We just[n]have to do what we can!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D10_LV3#0",
+   "speaker": "Morgana",
+   "en": "The final hour is almost here. If we're[n]gonna go for it, now's the time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_D10_0202#0",
+   "speaker": "Morgana",
+   "en": "It's finally time to face Maruki... Be ready[n]for anything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_C0#0",
+   "speaker": "Morgana",
+   "en": "Don't forget to prepare for Palace[n]infiltrations, okay? Your daily actions[n]are vital to our overall success.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_C1#0",
+   "speaker": "Morgana",
+   "en": "People in the city are all pretty[n]terrible, but it's hard finding[n]someone with a Palace...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AZITO_00#0",
+   "speaker": "Morgana",
+   "en": "So... what are you going to do today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AZITO#0",
+   "speaker": null,
+   "en": "Let's meet at the hideout.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AZITO#1",
+   "speaker": null,
+   "en": "I haven't decided yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AZITO_CAFE#0",
+   "speaker": null,
+   "en": "Let's meet up with the others.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AZITO_CAFE#1",
+   "speaker": null,
+   "en": "I haven't decided yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AZITO_01#0",
+   "speaker": "Morgana",
+   "en": "Okay, let's get everyone together!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AZITO_01_01#0",
+   "speaker": "Morgana",
+   "en": "But even if we go now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AZITO_01_01#1",
+   "speaker": "Morgana",
+   "en": "Well I guess we won't know unless we[n]give it a shot. Let's gather everyone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AZITO_01_02#0",
+   "speaker": "Morgana",
+   "en": "But even if we do it now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AZITO_01_02#1",
+   "speaker": "Morgana",
+   "en": "Well I guess we won't know unless we[n]give it a shot. Let's gather everyone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AZITO_02#0",
+   "speaker": "Morgana",
+   "en": "Okay. Let's contact everyone, then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREETING_MORGANA_00#0",
+   "speaker": "Morgana",
+   "en": "Do you want to make[n]infiltration tools?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREETING_MORGANA_01#0",
+   "speaker": "Morgana",
+   "en": "I think... I'll just go to[n]sleep for tonight... Meow...",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

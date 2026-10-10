@@ -1,0 +1,495 @@
+{
+ "file": "EN/BATTLE/EVENT/SCRIPT/02F5.BF",
+ "entries": [
+  {
+   "id": "MSG_BTL_START_000#0",
+   "speaker": "Shadow Mariko",
+   "en": "I'll smash a service ace right into your[n]face! Come on! Let the death match[n]begin!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_START_001#0",
+   "speaker": "Sumire",
+   "en": "Let's try to have a conversation![n]Perhaps she will think it over!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SYS_MSG#0",
+   "speaker": null,
+   "en": "By holding up the enemy,[n]you will be able to have a[n]conversation with the target.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SYS_MSG#1",
+   "speaker": null,
+   "en": "By choosing the correct answers,[n]you will be able to change the[n]target's heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_DIA_BF__000_000#0",
+   "speaker": "Shadow Mariko",
+   "en": "I won't give up yet! I'll show you the guts[n]I've got from playing table tennis!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ATTACK_NG__000_0#0",
+   "speaker": "Sumire",
+   "en": "What...!? She healed herself with her[n]spirits alone!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ATTACK_NG__000_0_2#0",
+   "speaker": "Sumire",
+   "en": "Let's try to have a conversation![n]Perhaps she will think it over!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_000_000#0",
+   "speaker": "Sumire",
+   "en": "Just so we're clear... That match was[n]fixed, was it not?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_000_001#0",
+   "speaker": "Shadow Mariko",
+   "en": "Hmph! What're you talking about?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_000_002#0",
+   "speaker": "Shadow Mariko",
+   "en": "Fixed? Perhaps it's just the imagination[n]of the crooked people who are jealous[n]of my popularity.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP01_000#0",
+   "speaker": null,
+   "en": "How much did you gain?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP01_000#1",
+   "speaker": null,
+   "en": "Tell the truth.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP01_000#2",
+   "speaker": null,
+   "en": "The media will catch on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_001_000#0",
+   "speaker": "Sumire",
+   "en": "It's only a matter of time before[n]the public finds out the truth. Please, just[n]come clean.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_001_001#0",
+   "speaker": "Shadow Mariko",
+   "en": "Hmph! The media writes whatever[n]the hell they want, true or not!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_001_002#0",
+   "speaker": "Shadow Mariko",
+   "en": "I had a problem in the past where[n]they circulated a rumor saying I had[n]a boyfriend, which I didn't.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_002_000#0",
+   "speaker": "Shadow Mariko",
+   "en": "Fault! I'm suing you for defamation!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_002_001#0",
+   "speaker": "Sumire",
+   "en": "Looks like that didn't work. Perhaps we[n]should try saying something different.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_000_000#0",
+   "speaker": "Shadow Mariko",
+   "en": "You can't trust the media. Or do you[n]have proof that it was a scheme?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP02_000#0",
+   "speaker": null,
+   "en": "The media will tell the world.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP02_000#1",
+   "speaker": null,
+   "en": "The fans noticed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP02_000#2",
+   "speaker": null,
+   "en": "We can't trust you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_001_000#0",
+   "speaker": "Sumire",
+   "en": "Apparently, you made this mistake on[n]purpose. Everyone already knows this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_001_001#0",
+   "speaker": "Sumire",
+   "en": "And, the client is a long time fan.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_001_002#0",
+   "speaker": "Shadow Mariko",
+   "en": "Hahah. Wouldn't you expect a fan[n]to believe what I say?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_002_000#0",
+   "speaker": "Shadow Mariko",
+   "en": "Let! Bring me proof that will actually[n]convince me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_002_001#0",
+   "speaker": "Sumire",
+   "en": "Seems like we couldn't convince her.[n]Perhaps we should try again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_000_000#0",
+   "speaker": "Shadow Mariko",
+   "en": "I may not look it, but I'm a world famous[n]professional table tennis player.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_000_001#0",
+   "speaker": "Shadow Mariko",
+   "en": "Why in the world would I need a[n]fixed match?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP03_000#0",
+   "speaker": null,
+   "en": "The prize money is low.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP03_000#1",
+   "speaker": null,
+   "en": "Because you're weak.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP03_000#2",
+   "speaker": null,
+   "en": "You used it up on gambling?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_001_000#0",
+   "speaker": "Sumire",
+   "en": "I heard even if you're pro it's pretty hard[n]to live on, unless you continue to win.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_001_001#0",
+   "speaker": "Sumire",
+   "en": "Did you perhaps stop aiming up, and[n]let yourself give in to money?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_001_002#0",
+   "speaker": "Shadow Mariko",
+   "en": "W-Well yes, the prize money was[n]rather low...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_001_003#0",
+   "speaker": "Shadow Mariko",
+   "en": "But I'm a pro! I have all the talent in[n]the world!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_002_000#0",
+   "speaker": "Shadow Mariko",
+   "en": "Will you stop, already!? I'll hit a smash[n]right into your vitals!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_002_001#0",
+   "speaker": "Sumire",
+   "en": "Seems like we couldn't convince her.[n]Perhaps we should try again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP04_000_000#0",
+   "speaker": "Shadow Mariko",
+   "en": "I was representing Japan in high school.[n]Overseas I was even called \"Dragon Girl.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP04_000#0",
+   "speaker": null,
+   "en": "I don't care.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP04_000#1",
+   "speaker": null,
+   "en": "You hit a wall, didn't you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP04_000#2",
+   "speaker": null,
+   "en": "Stop talking about the past.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP04_001_000#0",
+   "speaker": "Shadow Mariko",
+   "en": "Th-That's not—!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP04_001_001#0",
+   "speaker": "Sumire",
+   "en": "You became a pro, but then it became[n]harder for you to survive... And that's[n]why you took on this deed?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP04_001_002#0",
+   "speaker": "Sumire",
+   "en": "So... You went through all that difficult[n]training and became pro, just to willingly[n]lose!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP04_001_003#0",
+   "speaker": "Sumire",
+   "en": "There're people who gave up their[n]dreams because they lost to you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP04_001_004#0",
+   "speaker": "Shadow Mariko",
+   "en": "Just shut up won't you!? Brats like you[n]can't possibly understand what it's like!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP04_001_005#0",
+   "speaker": "Sumire",
+   "en": "No, I know exactly what you mean! We[n]live in a world where working hard[n]doesn't guarantee you anything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP04_001_006#0",
+   "speaker": "Sumire",
+   "en": "And that's why I understand. The[n]thoughts you must have had when[n]this alluring offer was given to you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP04_001_007#0",
+   "speaker": "Sumire",
+   "en": "But there are things you can and cannot[n]do! You are only making a mockery of[n]the sport you love!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP04_001_008#0",
+   "speaker": "Shadow Mariko",
+   "en": "Ngh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP04_002_000#0",
+   "speaker": "Shadow Mariko",
+   "en": "Ugh! Disqualified for cheating![n]Just get out of here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP04_002_001#0",
+   "speaker": "Sumire",
+   "en": "Seems like we couldn't convince her.[n]Perhaps we should try again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP05_000_000#0",
+   "speaker": "Shadow Mariko",
+   "en": "Just leave me alone! I can do whatever[n]I want! Besides, it's not like I wanted[n]to lose!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP05_000#0",
+   "speaker": null,
+   "en": "Losers protest the loudest.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP05_000#1",
+   "speaker": null,
+   "en": "Fine, do whatever you want.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP05_000#2",
+   "speaker": null,
+   "en": "You were being threatened.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP05_001_000#0",
+   "speaker": "Sumire",
+   "en": "Were you told something like,[n]\"If you don't lose, you're dead\" ?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP05_001_001#0",
+   "speaker": "Shadow Mariko",
+   "en": "Eeek!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP05_001_002#0",
+   "speaker": "Sumire",
+   "en": "Please, stop this nonsense! They're[n]only bluffing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP05_001_003#0",
+   "speaker": "Sumire",
+   "en": "If you continue to do these fixed[n]matches, you'll lose everything![n]You'll be kicked out!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP05_001_004#0",
+   "speaker": "Shadow Mariko",
+   "en": "I...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP05_001_005#0",
+   "speaker": "Sumire",
+   "en": "You have to stop this... Otherwise,[n]one day, they're going to find out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP05_001_006#0",
+   "speaker": "Sumire",
+   "en": "Please, stop betraying people and[n]disgracing yourself!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP05_001_007#0",
+   "speaker": "Sumire",
+   "en": "Try and remember how you felt in[n]your heart, when you were practicing[n]with passion and integrity!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP05_001_008#0",
+   "speaker": "Shadow Mariko",
+   "en": "Ngh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP05_002_000#0",
+   "speaker": "Shadow Mariko",
+   "en": "I'm going to finish you, and this set!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP05_002_001#0",
+   "speaker": "Sumire",
+   "en": "Seems like we couldn't convince her.[n]Perhaps we should try again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_OFF#0",
+   "speaker": "Shadow Mariko",
+   "en": "You can't talk to her!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_BTLEND_000#0",
+   "speaker": "Shadow Mariko",
+   "en": "Game set...",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

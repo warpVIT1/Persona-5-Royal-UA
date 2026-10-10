@@ -1,0 +1,4268 @@
+{
+ "file": "EN/FIELD/NPC/FNPC002_003_00.BF",
+ "entries": [
+  {
+   "id": "KARIOKI_NPC_grt00#0",
+   "speaker": null,
+   "en": "student NPCs who know each other's[n]weakness",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KARIOKI_NPC_talk00#0",
+   "speaker": null,
+   "en": "temp location for student NPCs who[n]know each other's weakness",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BUKATSU_NPC01_000_00#0",
+   "speaker": "Perplexed Volleyball Player",
+   "en": "I heard that new transfer student[n]attacked Kamoshida.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BUKATSU_NPC01_001_00#0",
+   "speaker": "Worried Volleyball Player",
+   "en": "Kamoshida did not take that well.[n]That new guy really shouldn't be doing[n]things like that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BUKATSU_NPC01_001_00#1",
+   "speaker": "Worried Volleyball Player",
+   "en": "After the thing with Suzui-san, I won't[n]be able to take it if he makes practice[n]even harder...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BUKATSU_NPC01_002_00#0",
+   "speaker": "Perplexed Volleyball Player",
+   "en": "I heard that transfer student's getting[n]expelled for it though. That'll be the[n]end of that, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_MARUKI_NPC_000_#0",
+   "speaker": "Female Student with Glasses",
+   "en": "This is the Nurse's Office...right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_MARUKI_NPC_001_#0",
+   "speaker": "Straightforward Student",
+   "en": "You're going to counseling, huh...[n]What are you gonna talk about?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_MARUKI_NPC_002_#0",
+   "speaker": "Female Student with Glasses",
+   "en": "I can worry about that after!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_MARUKI_NPC_002_#1",
+   "speaker": "Female Student with Glasses",
+   "en": "Hey, let's go together!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_001_0_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "Hey, what do you think about heroes?[n]Don't you think they're needed now[n]more than ever?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_001_0_0#0",
+   "speaker": null,
+   "en": "What are you talking about?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_001_0_0#1",
+   "speaker": null,
+   "en": "You're right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_001_1_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "Ugh, weren't you listening? I don't[n]think you get how important heroes[n]are at all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_001_2_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "You really understand! If heroes needed[n]cheerleaders, you'd be a perfect fit for[n]that!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_001_3_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "The people always yearn for a hero,[n]someone to cast away the world's[n]darkness and save them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_001_3_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "If that's what people need, then I have[n]to do it. I'll be that hero. I'm the only[n]one who can!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_002_0_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "Did you see that really cool calling card?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_002_0_0#0",
+   "speaker": null,
+   "en": "Cool?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_002_0_0#1",
+   "speaker": null,
+   "en": "Calling card?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_002_1_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "Hehe, I can't blame you for not getting[n]how cool it is. Heroes are just in a league[n]of their own...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_002_2_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "Hehe, yeah. I guess you wouldn't know.[n]It must be lonely, being a hero and[n]cooler than everyone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_002_3_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "\"I'll steal your distorted desires and[n]make you confess your sins...\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_002_3_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "Guhh, so cool! I get so fired up[n]whenever I say it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_003_0_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "Gah, can it be!? Is it possible you've[n]learned of my other identity?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_003_0_0#0",
+   "speaker": null,
+   "en": "Who are you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_003_0_0#1",
+   "speaker": null,
+   "en": "What are you talking about?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_003_1_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "Heh, you already know, don't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_003_1_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "My actions have been attracting too[n]much attention lately. It's no wonder[n]you've figured it out...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_003_2_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "Heh, there's no need for you to[n]play dumb.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_003_2_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "My actions have been attracting too[n]much attention lately. It's no wonder[n]you've figured it out...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_003_3_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "Keep this just between us, okay? No[n]one can know I'm the phantom thief[n]who defeated Kamoshida...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_003EX_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "That mysterious counselor that suddenly[n]showed up... Could he be an assassin[n]sent by the \"Organization\"...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_003EX_0#0",
+   "speaker": null,
+   "en": "I think it's just in your head.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_003EX_0#1",
+   "speaker": null,
+   "en": "Get some counseling.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_003EX_1#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "No... I felt it at the school assembly.[n]I felt his gaze pierce me...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_003EX_1#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "His eyes said, \"I know who you are,[n]phantom thief...\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_003EX_2#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "This is bad... He knows who I am.[n]He knows that I'm the phantom thief...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_003EX_2#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "I'm gonna get dragged into the[n]\"Organization\" if I go to those[n]counseling sessions...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_003EX_3#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "...At any rate, I should be careful about[n]Dr. Maruki.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_004_0_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "The false hero, Kamoshida, has fallen![n]Shujin Academy's future has hope,[n]so long as I'm around!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_004_0_0#0",
+   "speaker": null,
+   "en": "False hero...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_004_0_0#1",
+   "speaker": null,
+   "en": "You're just a loner.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_004_1_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "Y-Yes...! Kamoshida tricked people into[n]thinking he was a hero, but he wasn't!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_004_1_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "Oh, and don't tell anyone my true[n]identity. No one can know that I'm a[n]phantom thief!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_004_2_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "H-Hey! That's not true! I fight evil for[n]you, and this is how you treat me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_004_2_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "You'll regret making me mad! I'll take[n]your distorted heart and beat it back[n]into shape!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_005_0_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "It seems that people from the media[n]are snooping around. This could be[n]a problem...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_005_0_0#0",
+   "speaker": null,
+   "en": "Are you talking to yourself?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_005_0_0#1",
+   "speaker": null,
+   "en": "What are you talking about?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_005_1_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "Oh! Ignore what I just said. I can't be[n]attracting too much attention to myself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_005_1_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "But I can't just watch idly if someone[n]is robbing the innocent. I had to do[n]something...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_005_2_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "With all the attention I've been getting,[n]I've got no privacy. You can't possibly[n]understand.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_005_2_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "But there's no time to relax. On the[n]phantom thief fan sites, so many[n]people need saving.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_005_3_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "The world is filled with villains. It's up[n]to the heroes to get rid of them! Yes, it's[n]my destiny...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_006_0_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "What? I can't believe a civilian is[n]talking to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_006_0_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "It can't be helped. After the Madarame[n]incident, my acclaim has skyrocketed,[n]apparently.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_006_0_0#0",
+   "speaker": null,
+   "en": "What are you talking about?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_006_0_0#1",
+   "speaker": null,
+   "en": "Are you okay in the head?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_006_1_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "A true hero may be closer to you than[n]you think. He could even be right in[n]front of you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_006_1_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "Ah, I can't say more than that. There are[n]rules that a hero must follow, after all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_006_2_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "Heh, I understand if you think that way.[n]Heroes are lone wolves who are often[n]misunderstood.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_006_2_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "This is for the best. It'd be irresponsible[n]to involve innocents in the fight for[n]world peace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_007_0_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "The wind, it's crying... \"They\" must have[n]started to act on \"this side.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_007_0_0#0",
+   "speaker": null,
+   "en": "This side?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_007_0_0#1",
+   "speaker": null,
+   "en": "They?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_007_1_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "The calling card was sent to that criminal[n]organization, but I haven't thought of[n]any furth—",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_007_2_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "You know, an evil criminal group.[n]Didn't you see the Phantom Thieves'[n]calling ca—",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_007_3_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "...Oh, no. I've said too much. For your[n]own safety, I can't risk exposing any[n]more top secret info.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_008_0_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "*pant* *pant* I've used too much of[n]my powers... I'm exhausted, but I've[n]managed to take them down...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_008_0_0#0",
+   "speaker": null,
+   "en": "What do you think you're doing?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_008_0_0#1",
+   "speaker": null,
+   "en": "Get a hold of yourself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_008_1_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "Heh... Who would have known that[n]Kaneshiro had that up his sleeve...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_008_2_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "Smashing the mafia in one night was a[n]difficult feat, even for someone like me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_008_3_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "I can hear the people's cries for a hero[n]to fight evil... But for now, let me rest a[n]bit... Heh.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_008_01_#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "Mm, I hear it! The voices calling out for[n]my help...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_008_01_#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "I hear the crying voice of an honor[n]student girl who couldn't get the[n]desired results...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_008_01_#0",
+   "speaker": null,
+   "en": "I don't hear anything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_008_01_#1",
+   "speaker": null,
+   "en": "You're imagining things.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_008_01__2#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "Hmph, of course not, you're an amateur.[n]You need a lot of experience, like me,[n]to hear the voice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_008_01__2#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "Hold on, poor girl! I'll send you energy[n]that will make you feel better...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_008_01__3#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "Hmph, of course you can't hear it.[n]I can receive wavelengths that[n]ordinary people can't.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_008_01__3#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "Hold on, poor girl! I'll send you energy[n]that will make you feel better...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_009_0_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "International cyber terrorists... They[n]were pretty tough, but the world is[n]safe from them now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_009_0_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "Nobody knows who I really am, though.[n]Heh... If they only knew.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_009_0_0#0",
+   "speaker": null,
+   "en": "How did you defeat them?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_009_0_0#1",
+   "speaker": null,
+   "en": "Are you even studying?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_009_1_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "O-Of course, I beat them at their own[n]game. With the internet, hacking skills,[n]and computers!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_009_1_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "They were powerless once I started[n]typing at breakneck speeds of 100[n]words per hour! Muahahaha!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_009_2_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "...Hm? I haven't gotten around to[n]studying. I'm far too busy on the[n]phantom thief sites...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_009_2_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "Besides, studying isn't that important.[n]Not when compared to protecting the[n]world's peace!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_010_0_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "I never thought the principal would die[n]like that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_010_0_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "If I had only paid more attention. I failed[n]to save him as a Phantom Thief of Hearts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_010_0_0#0",
+   "speaker": null,
+   "en": "It's a tragedy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_010_0_0#1",
+   "speaker": null,
+   "en": "You had nothing to do with it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_010_1_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "I know. I'm sorry if I let you down, but[n]heroes aren't perfect. Even we can't do[n]everything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_010_1_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "But I'll never give up. In times like these,[n]I'll give people hope and live up to their[n]faith in me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_010_2_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "It's kind of you to say that. Don't worry.[n]I won't make that kind of mistake[n]ever again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_010_2_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "Yes, this is a test from fate. I'll do all I can[n]to live up to everyone's faith in me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_011_0_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "You've seen the calling card? The next[n]target is Okumura, a crooked business[n]owner.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_011_0_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "I've heard his daughter goes to this[n]school, but I can't stay my hand. Evil[n]must be defeated.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_011_0_0#0",
+   "speaker": null,
+   "en": "Sounds like a lot of hard work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_011_0_0#1",
+   "speaker": null,
+   "en": "You're dramatizing a bit much.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_011_1_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "It's all for the sake of peace in this world.[n]Being able to see people's smiles is[n]reward enough.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_011_2_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "Heh, it must be nice to be so carefree.[n]I wish I could live out a normal, quiet[n]civilian life too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_012_0_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "What have the Phantom Thieves done[n]wrong!? That \"murder\" must be some[n]kind of hoax!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_012_0_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "What? You don't believe me, either?[n]Stop it! Stop looking at me with those[n]accusing eyes!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_012_0_0#0",
+   "speaker": null,
+   "en": "Calm down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_012_0_0#1",
+   "speaker": null,
+   "en": "Turn yourself in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_012_1_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "Ah, sorry... I overreacted. I just got too[n]angry at society talking bad about them[n]like this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_012_1_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "The Phantom Thieves must feel so[n]betrayed. Er, and I would know[n]Because I-I'm a phantom thief.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_012_2_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "Why? Oh, right! As a phantom thief, I-I[n]should really consider turning myself in!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_012_2_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "There has to be a good reason for all this.[n]I really want to believe in them...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_013_0_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "So I have this friend... He's been[n]pretending to be some kind of celebrity.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_013_0_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "The thing is, this celebrity might actually[n]be a criminal... What should I do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_013_0_0#0",
+   "speaker": null,
+   "en": "Admit what you've done.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_013_0_0#1",
+   "speaker": null,
+   "en": "Never tell anyone the truth.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_013_1_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "But then I— Um, I mean, my friend,[n]might wind up in a lot of trouble.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_013_2_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "But then I— Um, I mean, my friend, would[n]live each day in fear of being arrested.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_013_3_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "If the Phantom Thieves had just stayed[n]heroes, I never would have had to deal[n]with all this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_013_3_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "Er, you know I was just talking about[n]my friend, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_014_0_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "Those Phantom Thieves were so cool,[n]but now people treat them like they're[n]criminals.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_014_0_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "I pretended to be a phantom thief[n]because I idolized them, but now I[n]wonder what real justice is like.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_014_0_0#2",
+   "speaker": "Starry-Eyed Student",
+   "en": "Hey, you think you could tell me what[n]really defines a hero?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_014_0_0#0",
+   "speaker": null,
+   "en": "Think it over for yourself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_014_0_0#1",
+   "speaker": null,
+   "en": "It's different for everyone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_014_1_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "You're right. Here goes. I guess a hero[n]is someone who helps someone...[n]who needs... help.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_014_1_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "Aw, I know that sounds dumb! It was[n]all I could think of in the spur of the[n]moment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_014_2_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "I think I get it. Even if I became a phantom[n]thief, I wouldn't be a hero if I didn't help[n]anyone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_014_2_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "Hehe... Thanks, you really helped me[n]out there. I guess that sort of means[n]you're my hero, you know?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_015_0_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "It's weird. The Phantom Thieves should[n]have made their comeback, but no one's[n]talking about them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_015_0_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "Was it all just some illusion? Am I really[n]just going crazy?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_015_0_0#0",
+   "speaker": null,
+   "en": "No, they're real.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_015_0_0#1",
+   "speaker": null,
+   "en": "You were crazy from the start.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_015_1_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "Right!? The Phantom Thieves really[n]do exist!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_015_2_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "Hey, come on! Don't tell me you didn't[n]know about their glorious comeback!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_015_3_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "It's weird that I feel insecure about this[n]though. I mean, I used to idolize them[n]so much...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_016_0_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "I'm not sure what to do... about myself[n]this year...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_016_0_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "Should I cling onto the hope that the[n]Phantom Thieves will make a comeback,[n]or should I just give up?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_016_0_0#0",
+   "speaker": null,
+   "en": "Don't lose hope.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_016_0_0#1",
+   "speaker": null,
+   "en": "Don't count on it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_016_1_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "Looking forward to seeing apologies[n]from bad people everyday... Is that[n]what I want?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_016_2_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "Once the Thieves are gone, the bad[n]people might become conceited...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_016_3_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "I have a feeling that this is a problem[n]that's going to impact my path.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_016_3_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "...I think I'm gonna need some time[n]to figure it out. I'll get back to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_017_0_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "It's been a while since the new year[n]started, but nothing big has happened[n]and society is pretty peaceful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_017_0_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "I wonder if this means that society[n]changed because of the Phantom[n]Thieves?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_017_0_0#0",
+   "speaker": null,
+   "en": "That's right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_017_0_0#1",
+   "speaker": null,
+   "en": "That's not it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_017_1_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "They were real heroes. I'm glad I[n]believed in and supported them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_017_2_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "I guess even they can't do everything...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_017_2_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "But they took action and did the best[n]they could... I think that's enough to[n]make them heroes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_017_3_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "The Phantom Thieves... I wonder where[n]they came from and where they went.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_018_0_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "Since I'm graduating... It's time I reveal[n]my secret to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_018_0_0#0",
+   "speaker": null,
+   "en": "A secret about you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKOGAREDANSI_018_0_0#1",
+   "speaker": null,
+   "en": "Not interested.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_018_1_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "Hehehe, that's right. Though, I've only[n]recently made my debut.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_018_2_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "People often don't realize what's[n]happening under their noses. Like[n]this hero standing before you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_018_3_0#0",
+   "speaker": "Starry-Eyed Student",
+   "en": "A hero must act on their beliefs, no[n]matter the odds against them...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKOGAREDANSI_018_3_0#1",
+   "speaker": "Starry-Eyed Student",
+   "en": "So I've started taking action! Just[n]small stuff for now, like picking up[n]litter around town.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_001_0_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "We got kicked out of the gym again.[n]They always give the volleyball team[n]priority over us!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_001_0_0#1",
+   "speaker": "Easygoing Basketball Player",
+   "en": "And I don't like how Kamoshida's[n]getting all the girls with that face of his!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_001_1_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "He's pretty much the symbol of Shujin[n]Academy. It's like our main attraction is[n]the volleyball team.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_001_2_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "The volleyball team gets all the decent[n]recruits too! Why do we get the short[n]end of the stick?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_001_3_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "Aw, don't let it get to you. It's tough,[n]but we need to be patient. Things'll[n]turn around!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_002_0_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "Some kid jumped off the roof in the[n]middle of class... It's absolutely crazy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_002_0_0#1",
+   "speaker": "Easygoing Basketball Player",
+   "en": "I wanted to get Takamaki to be our[n]manager, but now is definitely not a[n]good time to ask her.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_002_1_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "That girl? She's a model, right? Oh, and[n]if she's American, she might know a lot[n]about basketball.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_002_2_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "Wrooong, she's quarter American. But[n]it's hard to approach her. She's got this[n]aura or something.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_002_01_0_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "Hey, is it true that the transfer student[n]picked a fight with Kamoshida?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_002_01_1_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "Yeah, I've heard people say that the[n]transfer student is always starting[n]brawls and stuff.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_002_01_1_0#1",
+   "speaker": "Intense Soccer Player",
+   "en": "I hear Sakamoto and Mishima were[n]involved in that too. Maybe all[n]three of them will get expelled.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_002_01_2_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "I don't care about Sakamoto, but[n]Mishima's in the volleyball team,[n]right? That guy's pretty brave.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_002_02_0_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "Hey, did you hear about that[n]honor student?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_002_02_1_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "Oh, the one who does gymnastics...[n]That was surprising. I thought she[n]would join the volleyball team.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_002_02_1_0#1",
+   "speaker": "Intense Soccer Player",
+   "en": "Maybe more attention will be put on[n]other clubs from this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_002_02_2_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "Wait, wait, that's not the point![n]I heard she's super cute!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_002_02_3_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "Fool! If you have time to pursue women,[n]then go running!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_003_0_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "The volleyball team's on break, so[n]now the gym's empty. We can practice[n]whenever we want!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_003_1_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "But I can't focus during practice.[n]Too much commotion over that[n]suicide attempt and calling card.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_003_2_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "What's that \"confess your crimes\" thing[n]all about? Did he really physically punish[n]his students?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_003_3_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "They may not be our teammates, but we[n]all go to the same school. I hope they'll[n]be all right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_004_0_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "I admired Kamoshida as an athlete, but[n]he turned out to be such a scumbag...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_004_1_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "So much for the volleyball team's[n]privileges. Well, the other teams[n]were never a big deal, anyway.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_004_1_0#1",
+   "speaker": "Easygoing Basketball Player",
+   "en": "But now, we can recruit whoever[n]we want and use the gym anytime.[n]The basketball team's taking over!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_004_2_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "That's what you think! If anyone's taking[n]over anything, it'll be the soccer team!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_004EX_0_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "I bet you would hate counseling.[n]You're gonna try to solve everything[n]with sheer will, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_004EX_1_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "Quite the contrary. Mental health is[n]just as important as physical health[n]in sports.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_004EX_1_0#1",
+   "speaker": "Intense Soccer Player",
+   "en": "Unless you have control over your mind,[n]your body won't move the way you want[n]it to.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_004EX_2_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "Now that you say that... I always miss[n]my shots when it's most important.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_004EX_2_0#1",
+   "speaker": "Easygoing Basketball Player",
+   "en": "...I wonder if I'll get better by going to[n]counseling.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_005_0_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "The volleyball team's a mess, and it's[n]right before their tournament prelims.[n]I feel terrible for them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_005_1_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "They need to suck it up. It's about time[n]someone knocked them off their high[n]horse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_005_1_0#1",
+   "speaker": "Easygoing Basketball Player",
+   "en": "I've gotta hand it to the Phantom Thieves[n]though! I'd scout them to join our team if[n]I could!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_005_2_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "Hmph, don't rely on trying to find talent[n]so much. Going to practice to build talent[n]is more important!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_005_01_0_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "It seems that some of the girls are[n]making a fuss.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_005_01_1_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "Hah! They're just jealous. They don't like[n]the special treatment Yoshizawa-san is[n]getting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_005_01_1_0#1",
+   "speaker": "Easygoing Basketball Player",
+   "en": "No matter what people say about her,[n]let's stay on her side!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_005_01_2_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "Indeed! I will continue to support her[n]as someone who devotes her youth to[n]sports!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_006_0_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "Oh, man, I was laughing my ass off,[n]watching that old guy wail and cry in[n]that press conference!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_006_1_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "Such a disgrace. A famous guy like him,[n]exploiting his own pupil.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_006_1_0#1",
+   "speaker": "Intense Soccer Player",
+   "en": "But I want to know more about the[n]Phantom Thieves. They did the same[n]thing to Kamoshida.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_006_2_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "What if they actually went to Shujin?[n]I wonder if they'd join the basketball[n]team.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_007_0_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "It's great that we can use the gym, but...[n]It's like a sauna in there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_007_1_0#0",
+   "speaker": "Intense Soccer team member",
+   "en": "Haha, calling it a day already? How do[n]you expect to win if you don't show a[n]little more backbone?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_007_2_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "You get way too gung-ho about things.[n]Don't you know girls like guys who act[n]cool and nonchalant?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_007_2_0#1",
+   "speaker": "Easygoing Basketball Player",
+   "en": "Girls are into guys like Goro Akechi,[n]that detective guy who was on TV the[n]other day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_007_3_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "Oh, right. That guy might be really smart,[n]but he's too skinny to kick for the soccer[n]team!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_008_0_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "There's a gymnastics comp coming up.[n]That honor student is participating; I say[n]we get the entire school to support her.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_008_0_0#1",
+   "speaker": "Intense Soccer Player",
+   "en": "...What is it? You seem to be in a[n]gloomy mood.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_008_1_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "No... Talking about competitions like[n]that... You know I just lost the primaries,[n]right...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_008_2_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "What are you talking about!? It was[n]a good game! You won in spirit,[n]so don't worry!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_009_0_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "There's all this hype on the Phantom[n]Thieves website since they sent out[n]another calling card.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_009_0_0#1",
+   "speaker": "Easygoing Basketball Player",
+   "en": "I stayed up reading about it, and didn't[n]get much sleep. I sooo don't wanna go[n]to practice...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_009_1_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "What are you doing!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_009_1_0#1",
+   "speaker": "Intense Soccer Player",
+   "en": "It's up to us to bring pride to Shujin[n]Academy now that the volleyball team's[n]been disgraced!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_009_2_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "You're right. The third-years all retired,[n]so I gotta take my role as the captain[n]seriously.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_010_0_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "Are the Phantom Thieves real? I hear[n]they even changed the hearts of the[n]mafia. It's amazing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_010_0_0#1",
+   "speaker": "Easygoing Basketball Player",
+   "en": "Heroes like them must get all the girls.[n]Maybe I'll quit basketball to join the[n]Phantom Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_010_1_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "The Phantom Thieves are just a fad![n]You're not seriously thinking of quitting[n]your team, are you!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_010_2_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "I just don't think it's gonna work out.[n]There aren't many talented people I can[n]get to join our team.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_010_01_0_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "Did you hear about Yoshizawa-san?[n]I heard she didn't do too well in the[n]competition...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_010_01_1_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "Hmm, that is a shame. I'm sure she's[n]hurt by this. I wish there was something[n]I could do, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_010_01_2_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "But we've been losing our games all[n]year. What can we really say...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_011_1_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "The other day, I negotiated with student[n]council president Niijima to increase our[n]team budget...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_011_1_0#1",
+   "speaker": "Intense Soccer Player",
+   "en": "Right away, she brought up that our[n]team repeatedly loses in the first round.[n]I couldn't really argue with that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_011_2_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "Haha, what'd you expect? At our school,[n]the student council president can't be[n]a pushover.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_011_2_0#1",
+   "speaker": "Easygoing Basketball Player",
+   "en": "Look, you can't convince a single girl to[n]go out with you, much less convince[n]her to raise your budget.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_012_0_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "Phantom Thieves, Phantom Thieves,[n]Phantom Thieves! It's all people care[n]about!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_012_0_0#1",
+   "speaker": "Easygoing Basketball Player",
+   "en": "No one cares about our tournament[n]coming up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_012_1_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "Is now the time to worry about that?[n]We have to do our part as captains[n]if we really want to win.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_012_2_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "Whyyy did I come to Shujin? It's been[n]nothing but drama from the first day...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_013_0_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "H-Hey. I've been thinking... Is something[n]seriously wrong with this school? Maybe[n]it's cursed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_013_0_0#1",
+   "speaker": "Easygoing Basketball Player",
+   "en": "That vicious transfer student, a suicide[n]attempt, sex crimes by a teacher, our[n]principal died...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_013_1_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "You're right. That is a lot to happen in[n]just one year. Maybe this school actually[n]is cursed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_013_2_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "That makes sense. A curse would explain[n]why we can't get any decent members or[n]win any games.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_014_0_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "All I hear about is the Phantom Thieves.[n]A major company got their calling card[n]this time, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_014_1_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "You know, I overheard that the president[n]of that corporation is Okumura-senpai's[n]father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_014_2_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "Whaat? I didn't know you were into girls[n]like that. Huh. This whole time, you were[n]a gold digger...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_014_3_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "Stop messing around!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_014_3_0#1",
+   "speaker": "Intense Soccer Player",
+   "en": "We need to devote as much time as we[n]can to our teams. We can't let ourselves[n]be distracted by women!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_015_0_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "Were the Phantom Thieves behind[n]Okumura-senpai's father's death?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_015_0_0#1",
+   "speaker": "Easygoing Basketball Player",
+   "en": "I guess it is better to try to get popular[n]through sports than to act more like[n]those guys.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_015_1_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "I thought those guys were really[n]something, but... Maybe I had the[n]wrong idea about them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_015_1_0#1",
+   "speaker": "Intense Soccer Player",
+   "en": "I guess if they really were determined to[n]carry out justice, they wouldn't hide their[n]faces.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_016_0_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "Hey, Akechi'll be coming to our school[n]festival. All the girls are super excited[n]about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_016_0_0#1",
+   "speaker": "Easygoing Basketball Player",
+   "en": "You think the Phantom Thieves might[n]really attend our school?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_016_1_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "Focus more on the fall tournament![n]We've both been on a winning streak,[n]so let's keep it up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_016_1_0#1",
+   "speaker": "Intense Soccer Player",
+   "en": "We don't have the time to just enjoy a[n]school festival!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_017_0_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "You know, the kohais have been wanting[n]to implement a new training method for[n]practice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_017_1_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "It looks like the guys on my team have[n]been studying different diets and[n]workouts, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_017_1_0#1",
+   "speaker": "Intense Soccer Player",
+   "en": "It's like they've all changed. Did the[n]Phantom Thieves get to them all or[n]something?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_017_4_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "No way, the Phantom Thieves are killers.[n]They'd be dead by now if they were[n]targeted by them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_018_0_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "You know, I was thinking. Our school[n]started changing after the Kamoshida[n]thing happened, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_018_1_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "I think so. Just one event can make[n]huge changes. That's my take on it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_018_2_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "Oh yeah, and there's the election at the[n]end of the year. Maybe the whole world's[n]gonna change too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_018_3_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "I'm not really sure. We can't vote yet,[n]so all we can do is watch and see what[n]happens.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_019_0_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "Aw man, the year's about to end.[n]The exams were murder, and the[n]team isn't doing too well...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_019_1_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "Well, there's been a big change in[n]government. We can make that same[n]kind of change next year!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_019_2_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "I dunno if this big change in government[n]is a good thing. Shido collapsed, and he[n]looks worn out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_019_2_0#1",
+   "speaker": "Easygoing Basketball Player",
+   "en": "Mannn, it's almost Christmas![n]Can't something good happen already?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_020_0_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "My team has been in particularly high[n]spirits this year. What happened?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_020_1_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "Same here. It's not just our team, society[n]seems to be particularly happy recently[n]too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_020_1_0#1",
+   "speaker": "Easygoing Basketball Player",
+   "en": "The TV was saying something about[n]this year being a super lucky one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_020_2_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "Hmm... But being too happy could be a[n]detriment. Determination is important[n]in a game.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_020_3_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "Man, you haven't changed at all, even[n]after the new year... Let's try to just[n]appreciate the happiness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_021_0_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "Now that those noisy Phantom Thieves[n]have disappeared, we can hopefully[n]concentrate more on practice this year.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_021_1_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "This is our last year. We must obtain glory.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_021_2_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "Yeah, I'm gonna give it all I got. I don't[n]want to blame someone else, even if[n]we lose.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_021_3_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "Don't think about losing! Do the best[n]you can, and focus on the future!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_022_0_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "I wonder what the Phantom Thieves[n]really were. They took the world by[n]storm, and then vanished.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_022_1_0#0",
+   "speaker": "Intense Soccer Player",
+   "en": "Because of all the fuss at school,[n]sometimes I thought they were kind[n]of annoying, but now I'm grateful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_022_1_0#1",
+   "speaker": "Intense Soccer Player",
+   "en": "The Phantom Thieves taught me[n]that you'll gain nothing if you expect[n]someone else to do your work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_UNDOUBUIN_022_2_0#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "Well, we are captains... Let's do all we[n]can to take our teams to the nationals[n]this year!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Q73_HINT_NPC_000_00#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "I heard that Kaya stopped showing up to[n]practice after Mr. Kamoshida left.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Q73_HINT_NPC_010_00#0",
+   "speaker": "Intense Soccer Player",
+   "en": "She's not even coming to school, is she?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Q73_HINT_NPC_020_00#0",
+   "speaker": "Easygoing Basketball Player",
+   "en": "Kaya really respected Mr. Kamoshida,[n]so maybe she's just really shocked...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Q73_HINT_NPC_030_00#0",
+   "speaker": "Morgana",
+   "en": "Hmm, a volleyball team member named[n]Kaya, who respected Kamoshida, has[n]been skipping school...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHK_Q73_HINT_001_00#0",
+   "speaker": "Morgana",
+   "en": "Looks like we have enough information[n]now. Let's head to the hideout and[n]discuss a plan!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_01_#0",
+   "speaker": "Morgana",
+   "en": "Did you see what people[n]were saying on that one site?[n]It's him...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_02_#0",
+   "speaker": "Morgana",
+   "en": "That guy's life is over.[n]He should just disappear[n]already.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_03_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_04_#0",
+   "speaker": "Morgana",
+   "en": "Just stay away from him.[n]That guy's nothing but trouble.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_05_#0",
+   "speaker": "Morgana",
+   "en": "Is he the one who got[n]charged with assault?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_06_#0",
+   "speaker": "Morgana",
+   "en": "I heard someone who got[n]charged with assault transferred[n]to our school as a second-year...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_002_01_#0",
+   "speaker": "Morgana",
+   "en": "If he's a delinquent, he should[n]act more like one and not come[n]to our school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_002_02_#0",
+   "speaker": "Morgana",
+   "en": "He's acting quiet for now,[n]but there's no way to tell[n]when he'll cause trouble.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_002_03_#0",
+   "speaker": "Morgana",
+   "en": "He looks pretty normal, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_002_04_#0",
+   "speaker": "Morgana",
+   "en": "If you fall in with someone[n]like him, you're bound to be[n]on the losing end in life.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_002_05_#0",
+   "speaker": "Morgana",
+   "en": "He's got some nerve, just[n]walking in here all casually[n]like that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_002_06_#0",
+   "speaker": "Morgana",
+   "en": "Don't make eye contact with[n]him. You don't know what he[n]might do to us...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_003_01_#0",
+   "speaker": "Morgana",
+   "en": "I heard that him and Sakamoto[n]are both getting expelled...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_003_02_#0",
+   "speaker": "Morgana",
+   "en": "So the people getting expelled[n]are him, Sakamoto, and...[n]who else was it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_003_03_#0",
+   "speaker": "Morgana",
+   "en": "I heard he actually made[n]Mr. Kamoshida mad...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_003_04_#0",
+   "speaker": "Morgana",
+   "en": "Is it true that those two[n]problem students are going[n]to be expelled from school?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_003_05_#0",
+   "speaker": "Morgana",
+   "en": "Aren't they expelling that[n]delinquent Sakamoto and[n]the transfer student?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_003_06_#0",
+   "speaker": "Morgana",
+   "en": "Things should quiet down[n]and go back to normal after[n]they're expelled, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_004_01_#0",
+   "speaker": "Morgana",
+   "en": "He's got guts to pick a fight[n]with Kamoshida.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_004_02_#0",
+   "speaker": "Morgana",
+   "en": "It's a \"calling card.\"[n]Supposedly, they're going to[n]make him confess his own sins.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_004_03_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_004_04_#0",
+   "speaker": "Morgana",
+   "en": "What's a calling card?[n]Is it some sort of prank?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_004_05_#0",
+   "speaker": "Morgana",
+   "en": "Just what kind of people are[n]they if they're picking a fight[n]with Kamoshida...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_004_06_#0",
+   "speaker": "Morgana",
+   "en": "This is probably just a prank[n]by someone who's jealous of[n]Mr. Kamoshida.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_005_01_#0",
+   "speaker": "Morgana",
+   "en": "This is just a coincidence, right?[n]That calling card had nothing to[n]do with it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_005_02_#0",
+   "speaker": "Morgana",
+   "en": "He seriously did all[n]those things? Oh, man,[n]it's over for Kamoshida.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_005_03_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_005_04_#0",
+   "speaker": "Morgana",
+   "en": "What made him decide to[n]apologize all of a sudden?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_005_05_#0",
+   "speaker": "Morgana",
+   "en": "Well, he had it coming.[n]It looks like we owe it to[n]those phantom thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_005_06_#0",
+   "speaker": "Morgana",
+   "en": "Phantom thieves had nothing[n]to do with Mr. Kamoshida's[n]apology.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_006_01_#0",
+   "speaker": "Morgana",
+   "en": "He's acting quiet for now,[n]but there's no way to tell[n]when he'll cause trouble.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_006_02_#0",
+   "speaker": "Morgana",
+   "en": "Even the teachers have given[n]up on him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_006_03_#0",
+   "speaker": "Morgana",
+   "en": "Well, there's no doubt that[n]he's a troublemaker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_006_04_#0",
+   "speaker": "Morgana",
+   "en": "That guy is just too scary...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_006_05_#0",
+   "speaker": "Morgana",
+   "en": "It looks like that guy who[n]got in trouble with Kamoshida[n]got off lucky.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_006_06_#0",
+   "speaker": "Morgana",
+   "en": "If you fall in with someone[n]like him, you're bound to be[n]on the losing end in life.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_007_01_#0",
+   "speaker": "Morgana",
+   "en": "Sucks for the volleyball team.[n]I mean, after all they put up[n]with...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_007_02_#0",
+   "speaker": "Morgana",
+   "en": "Well, it's not like this changes[n]things. This school was lame[n]from the start.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_007_03_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_007_04_#0",
+   "speaker": "Morgana",
+   "en": "He was really arrogant, so I'm[n]sure a lot of people are happy[n]about what happened.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_007_05_#0",
+   "speaker": "Morgana",
+   "en": "The principal must be worried.[n]He depended on Kamoshida to[n]make this school look good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_007_06_#0",
+   "speaker": "Morgana",
+   "en": "Now we don't have to treat[n]the volleyball team like royalty[n]anymore.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_204_01_#0",
+   "speaker": "Morgana",
+   "en": "Madarame's paintings[n]were pretty good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_204_02_#0",
+   "speaker": "Morgana",
+   "en": "Art doesn't have anything to[n]do with getting into college,[n]does it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_204_03_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_204_04_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_204_05_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_204_06_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_205_01_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_205_02_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_205_03_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_205_04_#0",
+   "speaker": "Morgana",
+   "en": "I saw a post on the internet[n]saying that the city's becoming[n]less safe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_205_05_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_205_06_#0",
+   "speaker": "Morgana",
+   "en": "Is it true that there's really[n]a dangerous crime ring in[n]Shibuya?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_008_01_#0",
+   "speaker": "Morgana",
+   "en": "Madarame got a calling card,[n]the same kind that was sent to[n]Kamoshida...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_008_02_#0",
+   "speaker": "Morgana",
+   "en": "Some phantom thieves left[n]a calling card at Madarame's[n]exhibition too, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_008_03_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_008_04_#0",
+   "speaker": "Morgana",
+   "en": "Phantom thieves somehow[n]made another person apologize[n]for crimes they committed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_008_05_#0",
+   "speaker": "Morgana",
+   "en": "Phantom thieves again?[n]Wasn't that only a prank?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_008_06_#0",
+   "speaker": "Morgana",
+   "en": "So that calling card for[n]Kamoshida wasn't a prank...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_009_01_#0",
+   "speaker": "Morgana",
+   "en": "Some Shujin kids[n]got scammed, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_009_02_#0",
+   "speaker": "Morgana",
+   "en": "It sounds like there are a lot[n]of people whose money was[n]taken from them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_009_03_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_009_04_#0",
+   "speaker": "Morgana",
+   "en": "I hear they do more than[n]just blackmail you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_009_05_#0",
+   "speaker": "Morgana",
+   "en": "Is it really that easy to fall[n]for a scam?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_009_06_#0",
+   "speaker": "Morgana",
+   "en": "Is there really that[n]much scamming and[n]blackmailing going on?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_010_01_#0",
+   "speaker": "Morgana",
+   "en": "I saw online that another[n]calling card appeared...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_010_02_#0",
+   "speaker": "Morgana",
+   "en": "It'd be awesome if they[n]actually made him pay[n]for what he's done...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_010_03_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_010_04_#0",
+   "speaker": "Morgana",
+   "en": "I heard another calling card's[n]been sent out! And the mafia's[n]the target this time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_010_05_#0",
+   "speaker": "Morgana",
+   "en": "Is it true that some[n]guy called Kaneshiro[n]got a calling card!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_010_06_#0",
+   "speaker": "Morgana",
+   "en": "Did you see the posts online?[n]Another phantom thief calling[n]card appeared!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_011_01_#0",
+   "speaker": "Morgana",
+   "en": "Those phantom thieves made[n]that criminal have a change of[n]heart, right!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_011_02_#0",
+   "speaker": "Morgana",
+   "en": "I heard the leader of that[n]crime ring got arrested! It was[n]a guy named Kaneshiro.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_011_03_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_011_04_#0",
+   "speaker": "Morgana",
+   "en": "I heard that they were finally[n]able to arrest him, thanks to[n]those phantom thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_011_05_#0",
+   "speaker": "Morgana",
+   "en": "Everyone on the internet is[n]saying that it was phantom[n]thieves who did it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_011_06_#0",
+   "speaker": "Morgana",
+   "en": "They were saying he just[n]confessed out of nowhere,[n]just like Kamoshida!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_012_01_#0",
+   "speaker": "Morgana",
+   "en": "The internet's going nuts[n]talking about phantom thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_012_02_#0",
+   "speaker": "Morgana",
+   "en": "That phantom thief forum[n]just got crazy popular!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_012_03_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_012_04_#0",
+   "speaker": "Morgana",
+   "en": "Everyone on the internet's been[n]talking about phantom thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_012_05_#0",
+   "speaker": "Morgana",
+   "en": "Everyone's been posting on[n]that phantom thief forum!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_012_06_#0",
+   "speaker": "Morgana",
+   "en": "The internet's been getting[n]really fired up over this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_013_01_#0",
+   "speaker": "Morgana",
+   "en": "So it's true, phantom thieves[n]really do exist!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_013_02_#0",
+   "speaker": "Morgana",
+   "en": "I'm all for them if they're[n]working to take down evil[n]people who deserve it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_013_03_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_013_04_#0",
+   "speaker": "Morgana",
+   "en": "Those phantom thief calling[n]cards weren't just a prank!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_013_05_#0",
+   "speaker": "Morgana",
+   "en": "Those phantom thieves[n]saved us!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_013_06_#0",
+   "speaker": "Morgana",
+   "en": "The Phantom Thieves steal bad[n]guys' hearts—that's what makes[n]them have a change of heart!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_014_01_#0",
+   "speaker": "Morgana",
+   "en": "People are really getting[n]excited that phantom thieves[n]will be taking on hackers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_014_02_#0",
+   "speaker": "Morgana",
+   "en": "There's no way that phantom[n]thieves could lose to hackers!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_014_03_#0",
+   "speaker": "Morgana",
+   "en": "I don't really get what's going[n]on, but go get those hackers!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_014_04_#0",
+   "speaker": "Morgana",
+   "en": "It looks like the Phantom[n]Thieves and the hackers[n]are having a showdown!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_014_05_#0",
+   "speaker": "Morgana",
+   "en": "Phantom thieves won't lose[n]to a bunch of hackers!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_014_06_#0",
+   "speaker": "Morgana",
+   "en": "It looks like the hackers have[n]been paying a lot of attention[n]to those phantom thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_015_01_#0",
+   "speaker": "Morgana",
+   "en": "I wonder how the Phantom[n]Thieves will fight those[n]hackers...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_015_02_#0",
+   "speaker": "Morgana",
+   "en": "If they end up doing actual[n]damage, will it be the[n]Phantom Thieves' fault?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_015_03_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_015_04_#0",
+   "speaker": "Morgana",
+   "en": "The hackers were taunting[n]the Phantom Thieves. You[n]think they can fight back?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_015_05_#0",
+   "speaker": "Morgana",
+   "en": "Those hackers are dangerous![n]I'm sure those phantom thieves[n]will stop them somehow!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_015_06_#0",
+   "speaker": "Morgana",
+   "en": "Just how do they plan to[n]attack internet criminals?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_016_01_#0",
+   "speaker": "Morgana",
+   "en": "The Phantom Thieves[n]are just too cool!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_016_02_#0",
+   "speaker": "Morgana",
+   "en": "No one can beat the Phantom[n]Thieves! I doubted them before,[n]but I'm a true believer now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_016_03_#0",
+   "speaker": "Morgana",
+   "en": "I feel kind of proud that Shujin[n]is where they first appeared.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_016_04_#0",
+   "speaker": "Morgana",
+   "en": "They really were everything[n]I'd thought they'd be![n]This is incredible!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_016_05_#0",
+   "speaker": "Morgana",
+   "en": "Those phantom thieves[n]are real heroes!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_016_06_#0",
+   "speaker": "Morgana",
+   "en": "I wonder who they'll[n]take out for us next.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_150_01_#0",
+   "speaker": "Morgana",
+   "en": "I saw another article[n]about Kamoshida and[n]his sexual harassment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_150_02_#0",
+   "speaker": "Morgana",
+   "en": "I bet you they're still hiding[n]stuff from us.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_150_03_#0",
+   "speaker": "Morgana",
+   "en": "I hope our school doesn't[n]become the center of[n]attention again...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_017_01_#0",
+   "speaker": "Morgana",
+   "en": "Do you think the principal's[n]suicide was caused by the[n]Phantom Thieves?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_017_02_#0",
+   "speaker": "Morgana",
+   "en": "The principal committing[n]suicide is going to affect my[n]letters of recommendation...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_017_03_#0",
+   "speaker": "Morgana",
+   "en": "I'm worried about colleges[n]accepting me, now that Shujin[n]has all these problems...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_017_04_#0",
+   "speaker": "Morgana",
+   "en": "It's just been a year of bad[n]luck for me. Too many incidents[n]have been happening at school",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_017_05_#0",
+   "speaker": "Morgana",
+   "en": "Was the principal trying[n]to apologize for all that's[n]happened by killing himself?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_017_06_#0",
+   "speaker": "Morgana",
+   "en": "Why did he suddenly commit[n]suicide? It's really making a lot[n]of problems for us.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_018_01_#0",
+   "speaker": "Morgana",
+   "en": "How did the Phantom Thieves[n]change people's hearts!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_018_02_#0",
+   "speaker": "Morgana",
+   "en": "I hope the Phantom Thieves[n]keep bringing justice to more[n]evildoers!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_018_03_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_018_04_#0",
+   "speaker": "Morgana",
+   "en": "It's so cool how they only[n]target bad people!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_018_05_#0",
+   "speaker": "Morgana",
+   "en": "I want the Phantom Thieves[n]to punish more evil people!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_018_06_#0",
+   "speaker": "Morgana",
+   "en": "There's nothing to be afraid of,[n]as long as the Phantom Thieves[n]are here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_019_01_#0",
+   "speaker": "Morgana",
+   "en": "I heard President Okumura, the[n]one running that food company,[n]has a kid who goes to Shujin...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_019_02_#0",
+   "speaker": "Morgana",
+   "en": "Does anyone know who President[n]Okumura's daughter is?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_019_03_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_019_04_#0",
+   "speaker": "Morgana",
+   "en": "The president of Okumura Foods[n]has been on the news a lot, but[n]I had no idea he had a daughter.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_019_05_#0",
+   "speaker": "Morgana",
+   "en": "Is Okumura's kid in our grade?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_019_06_#0",
+   "speaker": "Morgana",
+   "en": "Is President Okumura's daughter[n]really in the same grade as us?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_020_01_#0",
+   "speaker": "Morgana",
+   "en": "Those phantom thieves are[n]gonna take care of all the evil[n]in this world!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_020_02_#0",
+   "speaker": "Morgana",
+   "en": "Think they'll keep going until[n]they take down every evil[n]person in the world?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_020_03_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_020_04_#0",
+   "speaker": "Morgana",
+   "en": "The Phantom Thieves can[n]change the hearts of all the[n]twisted people in the world!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_020_05_#0",
+   "speaker": "Morgana",
+   "en": "Keep taking down the villains[n]of the world, one by one!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_020_06_#0",
+   "speaker": "Morgana",
+   "en": "Just leave everything to[n]those phantom thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_021_01_#0",
+   "speaker": "Morgana",
+   "en": "That corrupt CEO needs[n]to be taken down!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_021_02_#0",
+   "speaker": "Morgana",
+   "en": "I get such a kick out of watching[n]all these big shots groveling and[n]apologizing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_021_03_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_021_04_#0",
+   "speaker": "Morgana",
+   "en": "That crooked CEO deserves[n]whatever the Phantom Thieves[n]do to him!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_021_05_#0",
+   "speaker": "Morgana",
+   "en": "Corrupt adults deserve to be[n]taken out by phantom thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_021_06_#0",
+   "speaker": "Morgana",
+   "en": "I was waiting for another[n]calling card! I can't wait for[n]Okumura's apology!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_022_01_#0",
+   "speaker": "Morgana",
+   "en": "That was terrible... It was[n]like a public execution.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_022_02_#0",
+   "speaker": "Morgana",
+   "en": "That thing that happened to[n]Okumura, do you think phantom[n]thieves actually did that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_022_03_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_022_04_#0",
+   "speaker": "Morgana",
+   "en": "It was too much. They really[n]killed him in the middle of a[n]public press conference...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_022_05_#0",
+   "speaker": "Morgana",
+   "en": "It's sick, what they did to[n]Okumura. They really[n]crossed the line...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_022_06_#0",
+   "speaker": "Morgana",
+   "en": "Just thinking about that[n]press conference makes[n]me depressed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_023_01_#0",
+   "speaker": "Morgana",
+   "en": "Those phantom thieves[n]are murderers! Throw them[n]in jail already!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_023_02_#0",
+   "speaker": "Morgana",
+   "en": "I never thought the Phantom[n]Thieves would kill anybody!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_023_03_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_023_04_#0",
+   "speaker": "Morgana",
+   "en": "They must be insane to publicly[n]kill someone in cold blood!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_023_05_#0",
+   "speaker": "Morgana",
+   "en": "It's not normal to kill somebody[n]like that! They've gone crazy!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_023_06_#0",
+   "speaker": "Morgana",
+   "en": "The Phantom Thieves[n]are getting carried away![n]Ugh, they're the worst!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_024_01_#0",
+   "speaker": "Morgana",
+   "en": "How long are the police going[n]to let those phantom thieves[n]run free!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_024_02_#0",
+   "speaker": "Morgana",
+   "en": "The police are useless![n]Somebody do something!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_024_03_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_024_04_#0",
+   "speaker": "Morgana",
+   "en": "When are they going to[n]arrest the Phantom Thieves?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_024_05_#0",
+   "speaker": "Morgana",
+   "en": "What are the adults doing!?[n]They're just letting those[n]murderers run loose!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_024_06_#0",
+   "speaker": "Morgana",
+   "en": "Hurry up and arrest that[n]group of murderers!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_025_01_#0",
+   "speaker": "Morgana",
+   "en": "Do you think the rumor that[n]the Phantom Thieves are Shujin[n]students might be true?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_025_02_#0",
+   "speaker": "Morgana",
+   "en": "That reward money for the[n]Phantom Thieves is insane!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_025_03_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_025_04_#0",
+   "speaker": "Morgana",
+   "en": "What are the police doing!?[n]Hurry up and catch the[n]Phantom Thieves...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_025_05_#0",
+   "speaker": "Morgana",
+   "en": "I heard they're offering a[n]30 million yen reward for[n]the Phantom Thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_025_06_#0",
+   "speaker": "Morgana",
+   "en": "Is it true that you can get[n]money for providing info[n]on the Phantom Thieves!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_026_01_#0",
+   "speaker": "Morgana",
+   "en": "The police are useless![n]Somebody do something!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_026_02_#0",
+   "speaker": "Morgana",
+   "en": "Looks like those psychotic[n]breakdowns are happening[n]again...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_026_03_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_026_04_#0",
+   "speaker": "Morgana",
+   "en": "I've heard that those psychotic[n]breakdowns are happening[n]more and more often...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_026_05_#0",
+   "speaker": "Morgana",
+   "en": "What are the adults doing!?[n]They're just letting those[n]murderers run loose!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_026_06_#0",
+   "speaker": "Morgana",
+   "en": "It's terrifying that those[n]psychotic breakdowns are[n]happening more frequently...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_027_01_#0",
+   "speaker": "Morgana",
+   "en": "We'll be fine, as long as we've[n]got Representative Shido, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_027_02_#0",
+   "speaker": "Morgana",
+   "en": "I thought everything would[n]be fine if we left things to[n]Shido-san...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_027_03_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_027_04_#0",
+   "speaker": "Morgana",
+   "en": "I wonder if Representative[n]Shido is all right...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_027_05_#0",
+   "speaker": "Morgana",
+   "en": "Representative Shido was[n]supposed to change this[n]country.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_027_06_#0",
+   "speaker": "Morgana",
+   "en": "Everything will be fine if we[n]just leave it to Representative[n]Shido...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_028_01_#0",
+   "speaker": "Morgana",
+   "en": "It's all so pointless.[n]We might as well just give up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_028_02_#0",
+   "speaker": "Morgana",
+   "en": "Somebody help our country...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_028_03_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_028_04_#0",
+   "speaker": "Morgana",
+   "en": "If Representative Shido[n]were to leave us now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_028_05_#0",
+   "speaker": "Morgana",
+   "en": "Nothing really matters...[n]Nothing I do matters...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_028_06_#0",
+   "speaker": "Morgana",
+   "en": "Why is this happening?[n]Somebody do something...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_01_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_02_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_03_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_04_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_05_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_06_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_07_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_08_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_09_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_101_01_#0",
+   "speaker": "Morgana",
+   "en": "I hear he hides a[n]bunch of dangerous[n]stuff in his bag...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_101_02_#0",
+   "speaker": "Morgana",
+   "en": "I heard that he's a super[n]problem child, and no other[n]school would take him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_101_03_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_101_04_#0",
+   "speaker": "Morgana",
+   "en": "What if you get wrapped up in[n]something because of him? It's[n]probably best just to stay away.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_101_05_#0",
+   "speaker": "Morgana",
+   "en": "I've heard some pretty crazy[n]rumors about him...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_101_06_#0",
+   "speaker": "Morgana",
+   "en": "Isn't he a criminal that's gotten[n]into all sorts of stuff...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_102_01_#0",
+   "speaker": "Morgana",
+   "en": "I heard he does drugs.[n]How much worse can you get?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_102_02_#0",
+   "speaker": "Morgana",
+   "en": "He's killed a few people,[n]right? That dude's[n]freakin' terrifying...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_102_03_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_102_04_#0",
+   "speaker": "Morgana",
+   "en": "Someone told me he's[n]killed before...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_102_05_#0",
+   "speaker": "Morgana",
+   "en": "If you get involved with that guy,[n]who knows what'll happen...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_102_06_#0",
+   "speaker": "Morgana",
+   "en": "I heard he always carries a knife[n]on him. That's so scary...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_103_01_#0",
+   "speaker": "Morgana",
+   "en": "The police are really[n]here... This is turning[n]into a big deal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_103_02_#0",
+   "speaker": "Morgana",
+   "en": "I heard they're here to[n]investigate Mr. Kamoshida.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_103_03_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_103_04_#0",
+   "speaker": "Morgana",
+   "en": "The teachers are all busy[n]dealing with the police.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_103_05_#0",
+   "speaker": "Morgana",
+   "en": "It looked like they were asking[n]the other teachers a bunch of[n]stuff, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_103_06_#0",
+   "speaker": "Morgana",
+   "en": "The police are here.[n]I can't help but worry...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_104_01_#0",
+   "speaker": "Morgana",
+   "en": "It's almost time for midterms.[n]I need to focus.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_104_02_#0",
+   "speaker": "Morgana",
+   "en": "Midterms soon, huh? I'm gonna[n]be in trouble if I don't get some[n]studying done.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_104_03_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_104_04_#0",
+   "speaker": "Morgana",
+   "en": "It's already time for midterms!?[n]I've been studying, but I'm still[n]kind of worried.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_104_05_#0",
+   "speaker": "Morgana",
+   "en": "Midterms, huh...[n]I've been keeping up, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_104_06_#0",
+   "speaker": "Morgana",
+   "en": "I completely forgot about[n]midterms with everything[n]that's been happening.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_105_01_#0",
+   "speaker": "Morgana",
+   "en": "It's already time for finals...[n]I need to get serious about[n]studying.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_105_02_#0",
+   "speaker": "Morgana",
+   "en": "If you've been studying, there's[n]no reason at all for you to panic.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_105_03_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_105_04_#0",
+   "speaker": "Morgana",
+   "en": "I need to get better grades[n]on my finals than I did on[n]the midterms...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_105_05_#0",
+   "speaker": "Morgana",
+   "en": "The scores I get on my finals[n]are going to affect my[n]recommendations...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_105_06_#0",
+   "speaker": "Morgana",
+   "en": "Ugh, it's already time for finals?[n]Studying is so boring.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_201_01_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_201_02_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_201_03_#0",
+   "speaker": "Morgana",
+   "en": "Did you hear about that famous[n]detective? Isn't he amazing?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_201_04_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_201_05_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_201_06_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_202_01_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_202_02_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_202_03_#0",
+   "speaker": "Morgana",
+   "en": "Like Akechi said, it's scary they[n]can just change people's hearts[n]whenever they want.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_202_04_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_202_05_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_202_06_#0",
+   "speaker": "Morgana",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_301_01_#0",
+   "speaker": "Morgana",
+   "en": "His scores are pretty high up[n]there, but this has to be some[n]mistake.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_301_02_#0",
+   "speaker": "Morgana",
+   "en": "Dammit. My scores were worse[n]than that delinquent's...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_301_03_#0",
+   "speaker": "Morgana",
+   "en": "He must have threatened or[n]blackmailed them or something.[n]How did he get those scores?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_301_04_#0",
+   "speaker": "Morgana",
+   "en": "No way! Is he actually smart?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_301_05_#0",
+   "speaker": "Morgana",
+   "en": "Maybe he got violent because[n]he studies too much?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_301_06_#0",
+   "speaker": "Morgana",
+   "en": "He's a criminal AND he studies[n]too much? He's kind of weird...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_302_01_#0",
+   "speaker": "Morgana",
+   "en": "This is a prep school, right?[n]How can a delinquent be at[n]the top of our class?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_302_02_#0",
+   "speaker": "Morgana",
+   "en": "Dammit. How did someone[n]like him get the top score?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_302_03_#0",
+   "speaker": "Morgana",
+   "en": "Isn't a smart criminal even[n]more dangerous...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_302_04_#0",
+   "speaker": "Morgana",
+   "en": "I'm so frustrated. How could I[n]lose when it comes to grades?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_302_05_#0",
+   "speaker": "Morgana",
+   "en": "I'd really respect him if he[n]wasn't a criminal...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_302_06_#0",
+   "speaker": "Morgana",
+   "en": "Do you think he's actually[n]a prodigy or something?[n]I can't believe it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_303_01_#0",
+   "speaker": "Morgana",
+   "en": "Even though he has a criminal[n]record, I guess he hasn't given[n]up on studying...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_303_02_#0",
+   "speaker": "Morgana",
+   "en": "Maybe he's more serious[n]about studying than I thought.[n]Or is he...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_303_03_#0",
+   "speaker": "Morgana",
+   "en": "Huh. I guess he's desperate[n]for a fresh start.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_303_04_#0",
+   "speaker": "Morgana",
+   "en": "It isn't easy to get in the top ten.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_303_05_#0",
+   "speaker": "Morgana",
+   "en": "I totally forgot about it, but he's[n]that transfer student, isn't he?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_303_06_#0",
+   "speaker": "Morgana",
+   "en": "He actually shows up to class[n]like a regular student. I heard[n]his test scores were great, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_304_01_#0",
+   "speaker": "Morgana",
+   "en": "I guess I just have to accept[n]that he's really number one...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_304_02_#0",
+   "speaker": "Morgana",
+   "en": "He took the top spot from me...[n]I need to study harder.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_304_03_#0",
+   "speaker": "Morgana",
+   "en": "I'm surprised that his grades[n]are so high.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_304_04_#0",
+   "speaker": "Morgana",
+   "en": "Not just anyone can get the[n]highest scores and be at the[n]head of the class.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_304_05_#0",
+   "speaker": "Morgana",
+   "en": "Do you remember him? That[n]delinquent has been getting[n]the top scores.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_304_06_#0",
+   "speaker": "Morgana",
+   "en": "The teachers can't say[n]anything about him if he's[n]at the top of the class.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_305_01_#0",
+   "speaker": "Morgana",
+   "en": "I have to admit that he's got[n]some smarts...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_305_02_#0",
+   "speaker": "Morgana",
+   "en": "He's been so quiet... Do you[n]think he might be planning[n]something?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_305_03_#0",
+   "speaker": "Morgana",
+   "en": "Can you still get into college[n]if you have a criminal record?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_305_04_#0",
+   "speaker": "Morgana",
+   "en": "He's really trying hard...[n]I need to give it my all, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_305_05_#0",
+   "speaker": "Morgana",
+   "en": "He has to be trying to make us[n]drop our guard by getting good[n]grades...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_305_06_#0",
+   "speaker": "Morgana",
+   "en": "Does that mean he's really[n]reformed himself? That's[n]unbelievable...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_306_01_#0",
+   "speaker": "Morgana",
+   "en": "Who cares about rumors?[n]The fact of the matter is,[n]he's at the top of the class.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_306_02_#0",
+   "speaker": "Morgana",
+   "en": "You know that guy who got[n]the top score? What was it[n]that he did again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_306_03_#0",
+   "speaker": "Morgana",
+   "en": "With those kinds of grades,[n]I'm sure entrance exams will[n]be a breeze...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_306_04_#0",
+   "speaker": "Morgana",
+   "en": "He's way too smart. I could[n]never beat him when it comes[n]to grades.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_306_05_#0",
+   "speaker": "Morgana",
+   "en": "He's at the top of the class?[n]He must have blackmailed a[n]teacher or... or something.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_306_06_#0",
+   "speaker": "Morgana",
+   "en": "Looks like he's the real deal.[n]Maybe he'll turn out to be some[n]kind of criminal mastermind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_01_#0",
+   "speaker": "Morgana",
+   "en": "My elbow? Yeah, it's fine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_02_#0",
+   "speaker": "Morgana",
+   "en": "My brother's the one on[n]the track team.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_03_#0",
+   "speaker": "Morgana",
+   "en": "You're gonna continue[n]volleyball in college, right?[n]Maybe we'll meet at a match!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_04_#0",
+   "speaker": "Morgana",
+   "en": "He's always gonna be[n]the coach.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_05_#0",
+   "speaker": "Morgana",
+   "en": "No way! Didn't you sprain[n]your leg? Well, I guess it's[n]fine if it's healed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_06_#0",
+   "speaker": "Morgana",
+   "en": "You were the one who messed[n]up the baton pass, right...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_031_07_#0",
+   "speaker": "Morgana",
+   "en": "I'm participating in long[n]distance. As usual.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_031_08_#0",
+   "speaker": "Morgana",
+   "en": "Let's form a double[n]in college!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_031_09_#0",
+   "speaker": "Morgana",
+   "en": "It's nice to have your[n]family come cheer for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_031_10_#0",
+   "speaker": "Morgana",
+   "en": "She was always the setter.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_031_11_#0",
+   "speaker": "Morgana",
+   "en": "Wait... Huh? Wasn't[n]your ligament torn?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_502_06_#0",
+   "speaker": "Morgana",
+   "en": "All the teachers are[n]expecting great things[n]from Yoshizawa-san.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_502_07_#0",
+   "speaker": "Morgana",
+   "en": "I want to be friends with[n]that first-year.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_502_08_#0",
+   "speaker": "Morgana",
+   "en": "That gymnast girl is[n]supposed to be really good!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_502_09_#0",
+   "speaker": "Morgana",
+   "en": "It's amazing to be selected[n]for gymnastics!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_502_10_#0",
+   "speaker": "Morgana",
+   "en": "That girl has such a good[n]figure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_502_11_#0",
+   "speaker": "Morgana",
+   "en": "That honor student has[n]a distinguished vibe...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_502_12_#0",
+   "speaker": "Morgana",
+   "en": "I wonder if she's going to[n]join a club?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_502_13_#0",
+   "speaker": "Morgana",
+   "en": "At the very least, I know she[n]wants to seem like a goody[n]two-shoes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_502_14_#0",
+   "speaker": "Morgana",
+   "en": "I'm in the same group as[n]that first-year...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_502_15_#0",
+   "speaker": "Morgana",
+   "en": "She doesn't need to take the[n]exam? Really? Oh, they just[n]changed the date...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_502_16_#0",
+   "speaker": "Morgana",
+   "en": "I wonder if there's anything[n]she can do other than[n]gymnastics.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_502_17_#0",
+   "speaker": "Morgana",
+   "en": "She's going to be in a[n]competition, right?[n]Let's go watch.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_502_18_#0",
+   "speaker": "Morgana",
+   "en": "Her whole, \"I'm not bothered\"[n]routine really pisses me off[n]sometimes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_503_01_#0",
+   "speaker": "Morgana",
+   "en": "That new counselor Maruki[n]is so popular with the girls.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_503_02_#0",
+   "speaker": "Morgana",
+   "en": "Dr. Maruki looks so good[n]in white! And he seems[n]really nice...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_503_03_#0",
+   "speaker": "Morgana",
+   "en": "I'm going to see Dr. Maruki later!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_503_04_#0",
+   "speaker": "Morgana",
+   "en": "That counselor is so my type!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_503_05_#0",
+   "speaker": "Morgana",
+   "en": "Is there anything good about[n]going to counseling sessions?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_503_06_#0",
+   "speaker": "Morgana",
+   "en": "So are counselors like,[n]people you can talk to?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_504_01_#0",
+   "speaker": "Morgana",
+   "en": "Why the hell do we have to[n]clean up Inokashira Park...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_504_02_#0",
+   "speaker": "Morgana",
+   "en": "30 days... Maybe I'll just[n]pretend to be sick...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_504_03_#0",
+   "speaker": "Morgana",
+   "en": "Why do we have to clean[n]up... Gugh, this sucks.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_504_04_#0",
+   "speaker": "Morgana",
+   "en": "Why do we have to clean up?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_504_05_#0",
+   "speaker": "Morgana",
+   "en": "They're desperate to raise[n]the school's reputation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_504_06_#0",
+   "speaker": "Morgana",
+   "en": "The teachers should just do it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_601_01_#0",
+   "speaker": "Morgana",
+   "en": "She's playing on the[n]national level, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_601_02_#0",
+   "speaker": "Morgana",
+   "en": "She always carries a big bag.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_601_03_#0",
+   "speaker": "Morgana",
+   "en": "I want to see Yoshizawa-san's[n]performance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_601_04_#0",
+   "speaker": "Morgana",
+   "en": "It's incredible that she's an[n]honor student. I have such[n]high expectations...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_601_05_#0",
+   "speaker": "Morgana",
+   "en": "What kind of things do you[n]do in gymnastics?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_601_06_#0",
+   "speaker": "Morgana",
+   "en": "The girl with the red ribbon,[n]right? She has such a good[n]figure...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_505_01_#0",
+   "speaker": "Morgana",
+   "en": "How is she friends with[n]the delinquent? Come on!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_505_02_#0",
+   "speaker": "Morgana",
+   "en": "I would have been popular[n]with the girls if I was a genius.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_505_03_#0",
+   "speaker": "Morgana",
+   "en": "She's friends with that guy...[n]Is she a delinquent too?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_505_04_#0",
+   "speaker": "Morgana",
+   "en": "That gymnastic girl is really[n]getting special treatment...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_505_05_#0",
+   "speaker": "Morgana",
+   "en": "I heard she practices every[n]day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_505_06_#0",
+   "speaker": "Morgana",
+   "en": "I feel like Yoshizawa-san's[n]being treated specially...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_506_01_#0",
+   "speaker": "Morgana",
+   "en": "Hey, she practiced really[n]hard. What's wrong with[n]you guys...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_506_02_#0",
+   "speaker": "Morgana",
+   "en": "Oh man, the girls are sure[n]to talk about this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_506_03_#0",
+   "speaker": "Morgana",
+   "en": "I'm surprised, she wasn't[n]good at all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_506_04_#0",
+   "speaker": "Morgana",
+   "en": "I wonder if she's embarrassed[n]that she's an honor student[n]with her skills...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_506_05_#0",
+   "speaker": "Morgana",
+   "en": "She was practicing. I saw!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_506_06_#0",
+   "speaker": "Morgana",
+   "en": "That's bad...[n]I'm really disappointed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_603_01_#0",
+   "speaker": "Morgana",
+   "en": "A real suicide!? Shit... Who?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_603_02_#0",
+   "speaker": "Morgana",
+   "en": "Her face had a lot of injuries...[n]Jumping isn't the way to go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_603_03_#0",
+   "speaker": "Morgana",
+   "en": "That clothing... No way...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_603_04_#0",
+   "speaker": "Morgana",
+   "en": "Maybe something bad[n]happened to her? Hey,[n]stop stepping on my feet!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_603_05_#0",
+   "speaker": "Morgana",
+   "en": "It was super crowded outside![n]Everyone's just a bunch of[n]rubberneckers!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_603_06_#0",
+   "speaker": "Morgana",
+   "en": "Why now... And did she have[n]to do it at school?",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

@@ -1,0 +1,208 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR0100_004_009.BF",
+ "entries": [
+  {
+   "id": "fev0409_01_greet#0",
+   "speaker": null,
+   "en": "Yongen-Jaya. This is Yongen-Jaya.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "fev0409_02_mes01#0",
+   "speaker": null,
+   "en": "So this place is [clr 2]Yongen-Jaya[clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "fev0409_02_mes02#0",
+   "speaker": null,
+   "en": "The address I'm headed for[n]is still a little further...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "fev0411_02_mes01#0",
+   "speaker": null,
+   "en": "I'll need to use the [clr 2]Ginza[clr 27][n][clr 2]Line[clr 27] to get to my school[n]in Aoyama-Itchome...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "fev0411_03_mes01#0",
+   "speaker": null,
+   "en": "This is [clr 2]Aoyama-Itchome[clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "fev0411_03_mes01#1",
+   "speaker": null,
+   "en": "It took some time, but[n]I finally made it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATBED_01#0",
+   "speaker": "Morgana",
+   "en": "Oh, I just remembered...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATBED_01#1",
+   "speaker": "Morgana",
+   "en": "Didn't you buy a cat bed? ...Even if it was[n]secondhand.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATBED_01#2",
+   "speaker": "Morgana",
+   "en": "Eh, that's fine. Let's decide where to put it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATBED_SET_1ST_01#0",
+   "speaker": "Morgana",
+   "en": "What do you think of this amazing spot?[n]The dead center of the room!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CATBED_SET_1ST#0",
+   "speaker": null,
+   "en": "No way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CATBED_SET_1ST#1",
+   "speaker": null,
+   "en": "Are you serious?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATBED_SET_1ST_02#0",
+   "speaker": "Morgana",
+   "en": "Don't worry, I'm just joking. It would get[n]in the way there, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATBED_SET_1ST_03#0",
+   "speaker": "Morgana",
+   "en": "Of course I am! Though... I guess it[n]would get in the way of your walking[n]through here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATBED_SET_1ST_LAST#0",
+   "speaker": "Morgana",
+   "en": "Then how about over here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATBED_SET_2ND_01#0",
+   "speaker": "Morgana",
+   "en": "It has a great view of the room, and I[n]won't have to worry about the dust on[n]the floor either...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CATBED_SET_2ND#0",
+   "speaker": null,
+   "en": "That won't work... Is this some kind of",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CATBED_SET_2ND#1",
+   "speaker": null,
+   "en": "joke?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATBED_SET_2ND_02#0",
+   "speaker": "Morgana",
+   "en": "No good? I thought it was a great spot...[n]Then again, you couldn't use the sofa[n]if we put it here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATBED_SET_2ND_03#0",
+   "speaker": "Morgana",
+   "en": "Hahaha, of course it is! I mean, you[n]wouldn't be able to use the sofa if we[n]put it here, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATBED_SET_2ND_LAST#0",
+   "speaker": "Morgana",
+   "en": "Hm, this is tougher than I expected... I'm[n]positive this next idea will work, though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATBED_SET_3RD_01#0",
+   "speaker": "Morgana",
+   "en": "All right, how about here!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATBED_SET_3RD_01#1",
+   "speaker": "Morgana",
+   "en": "It won't get in the way. Besides, I'm sure[n]you'd feel safer if I'm sleeping near you[n]too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CATBED_SET_3RD#0",
+   "speaker": null,
+   "en": "Sounds good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CATBED_SET_3RD#1",
+   "speaker": null,
+   "en": "I dunno...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATBED_SET_3RD_02#0",
+   "speaker": "Morgana",
+   "en": "Yeah, I totally think this is the best spot!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATBED_SET_3RD_03#0",
+   "speaker": "Morgana",
+   "en": "Too bad, it's already decided! This will[n]be the spot.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATBED_SET_END#0",
+   "speaker": "Morgana",
+   "en": "I finally have a place to call my own bed...[n]I don't have to sleep on top of you anymo—",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATBED_SET_END#1",
+   "speaker": "Morgana",
+   "en": "I-I mean, ha, hahaha! I've never done[n]anything like that!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

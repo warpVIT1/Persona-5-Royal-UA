@@ -1,0 +1,593 @@
+{
+ "file": "EN/BATTLE/EVENT/SCRIPT/030F.BF",
+ "entries": [
+  {
+   "id": "MSG_BATTLESTART02_000_00#0",
+   "speaker": "Shadow Shido",
+   "en": "It seems you still don't understand[n]what happens when you defy me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART02_000_00#1",
+   "speaker": "Shadow Shido",
+   "en": "...I will destroy you with my own[n]two hands.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART02_900_00#0",
+   "speaker": "Shadow Shido",
+   "en": "It seems you still don't understand[n]what happens when you defy me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART02_910_00#0",
+   "speaker": "Shadow Shido",
+   "en": "...I will destroy you with my own[n]two hands.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART02_011_00#0",
+   "speaker": "Futaba",
+   "en": "What is this power!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART02_012_00#0",
+   "speaker": "Futaba",
+   "en": "Careful! Those muscles aren't just for[n]show!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART02_010_00#0",
+   "speaker": "Futaba",
+   "en": "What is this power!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART02_010_00#1",
+   "speaker": "Futaba",
+   "en": "Careful! Those muscles aren't just for[n]show!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART02_020_00#0",
+   "speaker": "Shadow Shido",
+   "en": "You will regret your actions.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART02_030_00#0",
+   "speaker": "Shadow Shido",
+   "en": "...You've angered me for the last time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_02HP50_000_000#0",
+   "speaker": "Shadow Shido",
+   "en": "Not bad...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_02HP50_010_000#0",
+   "speaker": "Shadow Shido",
+   "en": "But there is no reason for me to lose[n]to thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART03_000_00#0",
+   "speaker": "Shadow Shido",
+   "en": "Nnnnnngh...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART03_000_00#1",
+   "speaker": "Shadow Shido",
+   "en": "How are these lowlife brats beating me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART03_010_00#0",
+   "speaker": "Shadow Shido",
+   "en": "How are these lowlife brats beating me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART03_020_00#0",
+   "speaker": "Futaba",
+   "en": "Now's our chance! Let's take his Treasure!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART03_030_00#0",
+   "speaker": "Shadow Shido",
+   "en": "Aaaaaaaahahahaha!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART03_040_00#0",
+   "speaker": "Shadow Shido",
+   "en": "Don't think you've won.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART03_050_00#0",
+   "speaker": "Shadow Shido",
+   "en": "Hmph...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART03_060_00#0",
+   "speaker": "Shadow Shido",
+   "en": "The power held by the most elite is[n]what rules over our society...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART03_060_00#1",
+   "speaker": "Shadow Shido",
+   "en": "It's vexing that I have to use this on[n]some foolish brats...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART03_065_00#0",
+   "speaker": "Shadow Shido",
+   "en": "But I will educate you through and[n]through!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART03_070_00#0",
+   "speaker": "Futaba",
+   "en": "He's still gonna come at us!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHIDOW_SELECT_080_00#0",
+   "speaker": null,
+   "en": "Time to do this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHIDOW_SELECT_080_00#1",
+   "speaker": null,
+   "en": "Let's take his heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART03_090_00#0",
+   "speaker": "Futaba",
+   "en": "Gotcha!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART03_091_00#0",
+   "speaker": "Futaba",
+   "en": "Did you hear that, Shido!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART03_092_00#0",
+   "speaker": "Futaba",
+   "en": "All right, our next move oughta[n]finish this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART03_110_00#0",
+   "speaker": "Futaba",
+   "en": "No way! He's even stronger now!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART03_120_00#0",
+   "speaker": "Shadow Shido",
+   "en": "...Die.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_03HP50_000_000#0",
+   "speaker": "Shadow Shido",
+   "en": "Nnnnnngh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_03HP50_010_000#0",
+   "speaker": "Shadow Shido",
+   "en": "I am Shido! I have decades of experience[n]over these brats!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_03HP50_010_000#1",
+   "speaker": "Shadow Shido",
+   "en": "Why are the signs of defeat pointing[n]in my direction...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_03HP50_020_007#0",
+   "speaker": "Futaba",
+   "en": "You're a disgrace!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_03HP50_030_000#0",
+   "speaker": "Shadow Shido",
+   "en": "I accept that you are my destined[n]enemy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_03HP50_030_000#1",
+   "speaker": "Shadow Shido",
+   "en": "...Let us have a duel to end this. Just[n]you and me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHIDOW_SELECT02_040_#0",
+   "speaker": null,
+   "en": "Bring it on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHIDOW_SELECT02_040_#1",
+   "speaker": null,
+   "en": "I accept.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_03HP50_050_000#0",
+   "speaker": "Shadow Shido",
+   "en": "Well put.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_03HP50_060_000#0",
+   "speaker": "Shadow Shido",
+   "en": "I... shall win this game!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_03HP50_070_000#0",
+   "speaker": "Morgana",
+   "en": "A fated battle... We won't stop you,[n]Joker! You'd better not lose!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_03HP25_000_000#0",
+   "speaker": "Shadow Shido",
+   "en": "The ideals of the masses...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_03HP25_010_000#0",
+   "speaker": "Shadow Shido",
+   "en": "My... ambitions...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_03HP25_020_000#0",
+   "speaker": "Shadow Shido",
+   "en": "The sea is... swallowing them all...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART02_011_00_2#0",
+   "speaker": "Futaba",
+   "en": "What is this power!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART02_012_00_2#0",
+   "speaker": "Futaba",
+   "en": "Careful! Those muscles aren't just for[n]show!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_02HP50_000_000EX#0",
+   "speaker": "Shadow Shido",
+   "en": "Not bad...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_02HP50_010_000EX#0",
+   "speaker": "Shadow Shido",
+   "en": "But there is no reason for me to lose[n]to thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART03_000_00_2#0",
+   "speaker": "Shadow Shido",
+   "en": "Nnnnnngh...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART03_000_00_2#1",
+   "speaker": "Shadow Shido",
+   "en": "How are these lowlife brats beating me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART03_020_00_2#0",
+   "speaker": "Futaba",
+   "en": "Now's our chance! Let's take his Treasure!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART03_030_00_2#0",
+   "speaker": "Shadow Shido",
+   "en": "Aaaaaaaahahahaha!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART03_040_00_2#0",
+   "speaker": "Shadow Shido",
+   "en": "Don't think you've won.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART03_060_00_2#0",
+   "speaker": "Shadow Shido",
+   "en": "The power held by the most elite is[n]what rules over our society...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART03_060_00_2#1",
+   "speaker": "Shadow Shido",
+   "en": "It's vexing that I have to use this on[n]some foolish brats...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART03_065_00_2#0",
+   "speaker": "Shadow Shido",
+   "en": "But I will educate you through and[n]through!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART03_070_00_2#0",
+   "speaker": "Futaba",
+   "en": "He's still gonna come at us!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHIDOW_SELECT_080_00_2#0",
+   "speaker": null,
+   "en": "Time to do this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHIDOW_SELECT_080_00_2#1",
+   "speaker": null,
+   "en": "Let's take his heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART03_090_00_2#0",
+   "speaker": "Futaba",
+   "en": "Gotcha!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART03_110_00_2#0",
+   "speaker": "Futaba",
+   "en": "No way! He's even stronger now!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART03_120_00_2#0",
+   "speaker": "Shadow Shido",
+   "en": "Hmph... Die.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_03HP50_060_000EX#0",
+   "speaker": "Shadow Shido",
+   "en": "Oh? You still intend to defy me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_03HP50_060_000EX#1",
+   "speaker": "Shadow Shido",
+   "en": "Then allow me to reward your stupidity[n]by dealing with you directly!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_03HP50_070_000EX#0",
+   "speaker": "Morgana",
+   "en": "A fated battle... We won't stop you,[n]Joker! You'd better not lose!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLE_BEFOR_TAIMAN0#0",
+   "speaker": "Shadow Shido",
+   "en": "Nngh! To think you'd put up this much[n]of a fight...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLE_BEFOR_TAIMAN0_2#0",
+   "speaker": "Shadow Shido",
+   "en": "You bastard! I won't let you have this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLE_BEFOR_TAIMAN0_4#0",
+   "speaker": "Futaba",
+   "en": "Wh-What happened!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLE_BEFOR_TAIMAN0_5#0",
+   "speaker": "Futaba",
+   "en": "Are you okay, Joker!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLE_TAIMANSTART_0#0",
+   "speaker": "Shadow Shido",
+   "en": "I never would've imagined... That[n]impertinent brat from so long ago,[n]managing to get in my way this much!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLE_TAIMANSTART_0_2#0",
+   "speaker": "Shadow Shido",
+   "en": "Honestly unbelievable...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLE_TAIMANSTART_0_4#0",
+   "speaker": "Shadow Shido",
+   "en": "I should've finished you off before this[n]could've happened... Hahaha, it seems[n]I too was naïve.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLE_TAIMANSTART_0_5#0",
+   "speaker": "Shadow Shido",
+   "en": "However—my dream has been attained!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLE_TAIMANSTART_0_7#0",
+   "speaker": "Shadow Shido",
+   "en": "My desire to steer this country has[n]finally come to fruition!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLE_TAIMANSTART_0_8#0",
+   "speaker": "Shadow Shido",
+   "en": "But, my ambition has only yet begun!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLE_TAIMANSTART_0_9#0",
+   "speaker": "Shadow Shido",
+   "en": "I WILL NOT stumble over mere minutia[n]like yourself!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLE_TAIMANSTART_0_10#0",
+   "speaker": "Shadow Shido",
+   "en": "This time, I'll be dead certain to seal[n]your fate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLE_TAIMANSTART_0_11#0",
+   "speaker": "Shadow Shido",
+   "en": "I will reduce you to nothing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLE_TAIMANSTART_0_12#0",
+   "speaker": "Futaba",
+   "en": "This is bad... Come on, everyone!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLE_TAIMANSTART_0_12#1",
+   "speaker": "Futaba",
+   "en": "No... we were so close...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLE_TAIMANSTART_0_12#2",
+   "speaker": "Futaba",
+   "en": "Joker... I'm begging you! Please, don't lose!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLE_TAIMANLAST#0",
+   "speaker": "Shadow Shido",
+   "en": "Oh, this can't be... Losing? To a brat[n]like him?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DECISION_THINKING01#0",
+   "speaker": null,
+   "en": "It seems my friends[n]can't get back up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DECISION_THINKING02#0",
+   "speaker": null,
+   "en": "...I have to finish this myself.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

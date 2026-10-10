@@ -1,0 +1,320 @@
+{
+ "file": "EN/BATTLE/TALK/TALK_05MAJO_EN.BF",
+ "entries": [
+  {
+   "id": "EnTalkMsg_DUMMY#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "DebugMsg_ERROR#0",
+   "speaker": null,
+   "en": "(Error)",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_00#0",
+   "speaker": null,
+   "en": "*chuckle* Your partner is so weak. Now,[n]what to do...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_00#1",
+   "speaker": null,
+   "en": "Won't you listen to my request? I require[n][f 2 5 3 9999 3].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_01#0",
+   "speaker": null,
+   "en": "Such an amateur you have for a partner.[n]That's why they're in this position now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_01#1",
+   "speaker": null,
+   "en": "...Do you want to save them? Then I'd[n]like to have [var 0] yen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_02#0",
+   "speaker": null,
+   "en": "Human life is so frail... Your partner will[n]soon expire at this rate...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_02#1",
+   "speaker": null,
+   "en": "If you want to prevent misfortune, then[n]won't you share some of your health[n]with me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_03#0",
+   "speaker": null,
+   "en": "Your partner's fate is in my hands...[n]Do you understand the situation you[n]find yourself in?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_03#1",
+   "speaker": null,
+   "en": "If you share some of your stamina with[n]me, I'll be sure to entertain your request.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_EN_CONTACT#0",
+   "speaker": null,
+   "en": "Fine, you win.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_EN_CONTACT#1",
+   "speaker": null,
+   "en": "I can't meet your demands.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_EN_CONTACT#2",
+   "speaker": null,
+   "en": "Call Thieves Guild ([var 5] left).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_EN_CONTACT#3",
+   "speaker": null,
+   "en": "[clr 2]You're up, Panther.[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_00#0",
+   "speaker": null,
+   "en": "...You must know, this isn't nearly enough[n]to give me satisfaction.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_00#1",
+   "speaker": null,
+   "en": "Won't you give me [f 2 5 3 9999 3][n]this time? Show me once more that[n]you care about your partner.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_01#0",
+   "speaker": null,
+   "en": "...Dear me, this still isn't enough to[n]satisfy me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_01#1",
+   "speaker": null,
+   "en": "This time, give me [var 0] yen. Do that,[n]and everyone can be happy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_02#0",
+   "speaker": null,
+   "en": "...You won't mind me asking for a little[n]more, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_02#1",
+   "speaker": null,
+   "en": "I'd like a sip of your health. If it's for your[n]partner, I'm sure you'll be willing to pay[n]the price.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_03#0",
+   "speaker": null,
+   "en": "Hmm... I'm not satisfied.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_03#1",
+   "speaker": null,
+   "en": "This is for your sake to form a true[n]friendship. Next, I ask for some of[n]your stamina.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_AGREE_00#0",
+   "speaker": null,
+   "en": "...You've given me enough. I'm satisfied.[n]It's about time I release your partner.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_AGREE_01#0",
+   "speaker": null,
+   "en": "...I grow weary from this. I'll return your[n]partner to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_SLAY_00#0",
+   "speaker": null,
+   "en": "Oh, you're abandoning your partner?[n]What a coldhearted man...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_SLAY_01#0",
+   "speaker": null,
+   "en": "*chuckle* Is that your answer? Then I'll[n]play a little rougher with your partner...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FORGIVE_00#0",
+   "speaker": null,
+   "en": "Humans truly are horrid creatures. So,[n]your partners are disposable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FORGIVE_00#1",
+   "speaker": null,
+   "en": "I've lost interest all interest I had. Do[n]what you please...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FORGIVE_01#0",
+   "speaker": null,
+   "en": "You're abandoning your partner? Looks[n]like we've seen a glimpse into your true[n]nature...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FORGIVE_01#1",
+   "speaker": null,
+   "en": "...To think I had become invested in a[n]man like you. We're through! Goodbye!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FLEE_00#0",
+   "speaker": null,
+   "en": "Well, I'll be taking my leave. If you[n]become manlier someday, I'll have[n]you keep me company again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FLEE_01#0",
+   "speaker": null,
+   "en": "I know you find me alluring, but please,[n]don't come after me anymore...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_ACCEPT_00#0",
+   "speaker": null,
+   "en": "...It's time we return to our rightful places.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_ACCEPT_01#0",
+   "speaker": null,
+   "en": "...Looks like our fates were not destined[n]to cross. Let us return to our rightful[n]places.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FALTER_00#0",
+   "speaker": null,
+   "en": "Wait, what's the meaning of this!? Are[n]there more of you!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FALTER_01#0",
+   "speaker": null,
+   "en": "Y-You! You have quite cowardly friends!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FAKE_CRIED00#0",
+   "speaker": null,
+   "en": "What's with this woman...? Fine, I'll[n]forgive you for [f 2 5 3 9999 3].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FAKE_CRIED01#0",
+   "speaker": null,
+   "en": "Ugh, shut up! I'll let you leave if you[n]give me [var 0] yen!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FAKE_CRIED02#0",
+   "speaker": null,
+   "en": "This is why I can't stand young girls...[n]I'll let you off the hook if you give me[n]some of your health.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FAKE_CRIED03#0",
+   "speaker": null,
+   "en": "This is why I can't stand young girls...[n]Very well, I'll let them go if I can have[n]some of your stamina.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FAKE_COUP00#0",
+   "speaker": null,
+   "en": "Yikes, is she touched in the head? I don't[n]want to get involved, so I'll be leaving.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FAKE_COUP01#0",
+   "speaker": null,
+   "en": "Is she always like this? ...Like I care.[n]Goodbye.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_NO_REQUIREMENT#0",
+   "speaker": null,
+   "en": "You don't have it, do you? Ugh, you liar!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CharmActing#0",
+   "speaker": "Ann",
+   "en": "No... How could you take that from us?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NetEngo#0",
+   "speaker": null,
+   "en": "Another band of thieves[n]responded to the call!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

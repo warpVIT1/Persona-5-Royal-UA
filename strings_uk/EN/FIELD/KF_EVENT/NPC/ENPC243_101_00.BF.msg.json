@@ -1,0 +1,320 @@
+{
+ "file": "EN/FIELD/KF_EVENT/NPC/ENPC243_101_00.BF",
+ "entries": [
+  {
+   "id": "YESNO_SEL#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_000_000_00#0",
+   "speaker": null,
+   "en": "Dummy",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_YUSUKE_001#0",
+   "speaker": "Yusuke",
+   "en": "Interviewing people already,[n][fName]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E24320100_YUSUKE_002#0",
+   "speaker": null,
+   "en": "What are you doing here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E24320100_YUSUKE_002#1",
+   "speaker": null,
+   "en": "You learn anything?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_YUSUKE_003#0",
+   "speaker": "Yusuke",
+   "en": "I thought it would be wise to gather some[n]more clues before asking around at Kosei.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_YUSUKE_003#1",
+   "speaker": "Yusuke",
+   "en": "I tried to obtain intel at the station[n]on my way home, but couldn't gain[n]anything notable.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_YUSUKE_003_2#0",
+   "speaker": "Yusuke",
+   "en": "I investigated inside the station,[n]but failed to gain anything notable.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_YUSUKE_003_2#1",
+   "speaker": "Yusuke",
+   "en": "I was hoping to gather clues before[n]I asked around at Kosei though,[n]so I'm a tad disappointed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_YUSUKE_004#0",
+   "speaker": "Yusuke",
+   "en": "...However, I did make one discovery.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_YUSUKE_004#1",
+   "speaker": "Yusuke",
+   "en": "The food stores underground are[n]superb. The free sample corner is[n]a veritable treasure trove.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_YUSUKE_005#0",
+   "speaker": "Morgana",
+   "en": "Yusuke has sauce on his face...[n]He's really something, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_YUSUKE_005#1",
+   "speaker": "Morgana",
+   "en": "Ah well. We should leave this place to him.[n]Let's go look somewhere else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_YUSUKE_101#0",
+   "speaker": "Yusuke",
+   "en": "I'll poke around a tad more today,[n]then inquire at Kosei tomorrow.[n]For now though, I should go home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_YUSUKE_201#0",
+   "speaker": "Yusuke",
+   "en": "Ah, [fName]. I was just about to leave.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E24320100_YUSUKE_202#0",
+   "speaker": null,
+   "en": "Do you have any information?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E24320100_YUSUKE_202#1",
+   "speaker": null,
+   "en": "Anything new?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_YUSUKE_203#0",
+   "speaker": "Yusuke",
+   "en": "Only that the police have been[n]active recently...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_YUSUKE_203#1",
+   "speaker": "Yusuke",
+   "en": "One of my peers from Kosei was stopped[n]by a policeman just the other day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_YUSUKE_203#2",
+   "speaker": "Yusuke",
+   "en": "Given that they've been actively warning[n]students, it seems students must be the[n]primary victims.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_YUSUKE_301#0",
+   "speaker": "Yusuke",
+   "en": "I'm going to go ask around once more[n]before I head home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_YUSUKE_301#1",
+   "speaker": "Yusuke",
+   "en": "We are low on time, yet we cannot[n]afford to be hasty. Try not to push[n]yourself too hard.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_POLICE_001#0",
+   "speaker": "Patrolling Policeman",
+   "en": "Oh, that uniform. You're a Shujin[n]student, aren't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_POLICE_001#1",
+   "speaker": "Patrolling Policeman",
+   "en": "Haven't you heard about the recent[n]incidents? You should run on home[n]if you want to avoid all that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E24320100_POLICE_002#0",
+   "speaker": null,
+   "en": "What kind of incidents?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E24320100_POLICE_002#1",
+   "speaker": null,
+   "en": "But I have stuff to do...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_POLICE_003#0",
+   "speaker": "Patrolling Officer",
+   "en": "Extortions, muggings, and just general[n]scams even. Be careful of any suspicious[n]sales tactics.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_POLICE_003_2#0",
+   "speaker": "Patrolling Officer",
+   "en": "Well, be sure to go home right after that.[n]You don't want to fall prey to these scams.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_POLICE_004#0",
+   "speaker": "Patrolling Officer",
+   "en": "A lot of the victims have been teenagers[n]as well. Central Street is particularly[n]dangerous.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_POLICE_004#1",
+   "speaker": "Patrolling Officer",
+   "en": "I actually just warned another Shujin[n]student. If you see any more, tell them[n]to leave at once.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_POLICE_005#0",
+   "speaker": "Morgana",
+   "en": "Hey, he said he saw a Shujin student here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_POLICE_005#1",
+   "speaker": "Morgana",
+   "en": "Maybe we can try asking them questions![n]Come on, let's head over to Central Street!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_POLICE_101#0",
+   "speaker": "Patrolling Officer",
+   "en": "*sigh* There are too many kids for me[n]to warn them all... Aren't the schools[n]telling them anything...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_POLICE_102#0",
+   "speaker": "Morgana",
+   "en": "Hey, we should go before he starts[n]talking to us again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_POLICE_102#1",
+   "speaker": "Morgana",
+   "en": "He said he saw someone from your[n]school, right? Let's go look for them[n]on Central Street.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_STUDENTMAL#0",
+   "speaker": "Gossiping Kosei Student",
+   "en": "What do you want to do today?[n]How about an arcade?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_STUDENTMAL_2#0",
+   "speaker": "Carefree Kosei Student",
+   "en": "I'll need to grab some cash either way.[n]Let's drop by a convenience store real[n]quick.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_STUDENTMAL_3#0",
+   "speaker": "Gossiping Kosei Student",
+   "en": "Yeah, just make sure you're not carrying[n]a lot of money. I heard there have been[n]lots of muggings.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_STUDENTMAL_4#0",
+   "speaker": "Carefree Kosei Student",
+   "en": "You mean the mafia, right?[n]Central Street kinda scares me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_STUDENTMAL_5#0",
+   "speaker": "Gossiping Kosei Student",
+   "en": "Central Street might be dangerous,[n]but it's not like there's anywhere else[n]for us to hang out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_STUDENTMAL_6#0",
+   "speaker": "Carefree Kosei Student",
+   "en": "I'm sure it's fine during the day.[n]The mafia's probably still sleeping[n]anyway.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_HOMELESS2_#0",
+   "speaker": "Messy-Haired Man",
+   "en": "Can I help you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_HOMELESS2_#1",
+   "speaker": "Messy-Haired Man",
+   "en": "It's been dangerous around these[n]parts lately, hasn't it? Go on home[n]before it gets dark.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_HOMELESS2__2#0",
+   "speaker": "Messy-Haired Man",
+   "en": "There sure are a lot of young people[n]in Shibuya. Always have been, always[n]will be.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

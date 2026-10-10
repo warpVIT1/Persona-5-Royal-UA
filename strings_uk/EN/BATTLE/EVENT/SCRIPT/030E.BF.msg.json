@@ -1,0 +1,369 @@
+{
+ "file": "EN/BATTLE/EVENT/SCRIPT/030E.BF",
+ "entries": [
+  {
+   "id": "MSG_BATTLESTART_000_000#0",
+   "speaker": "Shadow Shido",
+   "en": "There is no need for thieves in my[n]mighty country...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART_010_000#0",
+   "speaker": "Shadow Shido",
+   "en": "Only myself and the ones who revere[n]me are needed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART_020_000#0",
+   "speaker": "Shadow Shido",
+   "en": "The weak must be sacrificed for the[n]sake of grand ideals! That is the natural[n]order of this world!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HP90_000_000#0",
+   "speaker": "Shadow Shido",
+   "en": "You lowlifes!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HP90_010_000#0",
+   "speaker": "Shadow Shido",
+   "en": "I hope you understand what it means[n]to turn your back on me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HP90_020_007#0",
+   "speaker": "Futaba",
+   "en": "I don't wanna understand!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HP90_030_000#0",
+   "speaker": "Shadow Shido",
+   "en": "...Then you shall perish!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HP90_030_000#1",
+   "speaker": "Shadow Shido",
+   "en": "You shall regret these foolish actions[n]against me... in the afterlife!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LIONCCHARGE_000_006#0",
+   "speaker": "Futaba",
+   "en": "It's charging up...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LIONCCHARGE_010_006#0",
+   "speaker": "Futaba",
+   "en": "Be careful!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LIONSPECIAL_000_000#0",
+   "speaker": "Shadow Shido",
+   "en": "*chuckle* Did I show you a little too[n]much hospitality?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LIONSPECIAL_010_000#0",
+   "speaker": "Shadow Shido",
+   "en": "But that was only a portion of my[n]true power...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LIONSPECIAL_020_006#0",
+   "speaker": "Futaba",
+   "en": "It changed!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LIONSPECIAL_030_000#0",
+   "speaker": "Shadow Shido",
+   "en": "I will destroy you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRIFFONSPECIAL_000_0#0",
+   "speaker": "Futaba",
+   "en": "It changed again!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRIFFONSPECIAL_010_0#0",
+   "speaker": "Shadow Shido",
+   "en": "Time for the grand finale!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PYRAMIDCHARGE_000_00#0",
+   "speaker": "Futaba",
+   "en": "He's charging yet again... and it's way[n]stronger than the earlier ones!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PYRAMIDCHARGE_010_00#0",
+   "speaker": "Futaba",
+   "en": "You'd better heal anyone who's hurt![n]He's gonna use some kind of special[n]attack thing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PYRAMIDSPECIAL_000_0#0",
+   "speaker": "Futaba",
+   "en": "Oh... He changed back to normal?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PYRAMIDSPECIAL_010_0#0",
+   "speaker": "Shadow Shido",
+   "en": "No wonder you've made it this far!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHANGEEND_000_000#0",
+   "speaker": "Shadow Shido",
+   "en": "Why won't you stop resisting...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHANGEEND_010_000#0",
+   "speaker": "Shadow Shido",
+   "en": "The nation I strive for... is the ultimate[n]realization of the public's happiness!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHANGEEND_030_000#0",
+   "speaker": "Shadow Shido",
+   "en": "Ngh! It won't be able to transform[n]like this...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHANGEEND_040_000#0",
+   "speaker": "Shadow Shido",
+   "en": "To think you'd manage this much...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHANGEENDLEO_000_000#0",
+   "speaker": "Shadow Shido",
+   "en": "Ngh! It won't be able to transform[n]like this...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHANGEENDLEO_010_000#0",
+   "speaker": "Shadow Shido",
+   "en": "To think you'd manage this much...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART_000_000E#0",
+   "speaker": "Shadow Shido",
+   "en": "There is no need for thieves in my[n]mighty country...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART_010_000E#0",
+   "speaker": "Shadow Shido",
+   "en": "Only myself and the ones who revere[n]me are needed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTLESTART_020_000E#0",
+   "speaker": "Shadow Shido",
+   "en": "The weak must be sacrificed for the[n]sake of grand ideals! That is the natural[n]order of this world!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HP90_000_000EX#0",
+   "speaker": "Shadow Shido",
+   "en": "You lowlifes!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HP90_010_000EX#0",
+   "speaker": "Shadow Shido",
+   "en": "I hope you understand what it means[n]to turn your back on me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HP90_020_007EX#0",
+   "speaker": "Futaba",
+   "en": "I don't wanna understand!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HP90_030_000EX#0",
+   "speaker": "Shadow Shido",
+   "en": "...Then you shall perish!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HP90_030_000EX#1",
+   "speaker": "Shadow Shido",
+   "en": "You shall regret these foolish actions[n]against me... in the afterlife!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LIONCCHARGE_000_006E#0",
+   "speaker": "Futaba",
+   "en": "It's charging up...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LIONCCHARGE_010_006E#0",
+   "speaker": "Futaba",
+   "en": "Be careful!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LIONSPECIAL_000_000E#0",
+   "speaker": "Shadow Shido",
+   "en": "*chuckle* Did I show you a little too[n]much hospitality?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LIONSPECIAL_010_000E#0",
+   "speaker": "Shadow Shido",
+   "en": "But that was only a portion of my[n]true power...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LIONSPECIAL_020_006E#0",
+   "speaker": "Futaba",
+   "en": "It changed!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LIONSPECIAL_030_000E#0",
+   "speaker": "Shadow Shido",
+   "en": "I will destroy you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRIFFONSPECIAL_000_0_2#0",
+   "speaker": "Futaba",
+   "en": "It changed again!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRIFFONSPECIAL_010_0_2#0",
+   "speaker": "Shadow Shido",
+   "en": "Time for the grand finale!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PYRAMIDCHARGE_000_00_2#0",
+   "speaker": "Futaba",
+   "en": "He's charging yet again... and it's way[n]stronger than the earlier ones!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PYRAMIDCHARGE_010_00_2#0",
+   "speaker": "Futaba",
+   "en": "You'd better heal anyone who's hurt![n]He's gonna use some kind of special[n]attack thing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PYRAMIDSPECIAL_000_0_2#0",
+   "speaker": "Futaba",
+   "en": "Oh... He changed back to normal?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PYRAMIDSPECIAL_010_0_2#0",
+   "speaker": "Shadow Shido",
+   "en": "No wonder you've made it this far!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHANGEEND_000_000EX#0",
+   "speaker": "Shadow Shido",
+   "en": "Why won't you stop resisting...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHANGEEND_010_000EX#0",
+   "speaker": "Shadow Shido",
+   "en": "The nation I strive for... is the ultimate[n]realization of the public's happiness!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHANGEEND_030_000EX#0",
+   "speaker": "Shadow Shido",
+   "en": "Ngh! It won't be able to transform[n]like this...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHANGEEND_040_000EX#0",
+   "speaker": "Shadow Shido",
+   "en": "To think you'd manage this much...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHANGEENDLEO_000_000_2#0",
+   "speaker": "Shadow Shido",
+   "en": "Ngh! It won't be able to transform[n]like this...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHANGEENDLEO_010_000_2#0",
+   "speaker": "Shadow Shido",
+   "en": "To think you'd manage this much...!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

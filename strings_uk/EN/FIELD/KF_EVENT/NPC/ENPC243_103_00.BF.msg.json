@@ -1,0 +1,439 @@
+{
+ "file": "EN/FIELD/KF_EVENT/NPC/ENPC243_103_00.BF",
+ "entries": [
+  {
+   "id": "YESNO_SEL#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_000_000_00#0",
+   "speaker": null,
+   "en": "Dummy",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_RYUJI_001_#0",
+   "speaker": "Patrolling Officer",
+   "en": "Why are you looking around like that?[n]You seem pretty suspicious,[n]punk.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_RYUJI_002_#0",
+   "speaker": "Ryuji",
+   "en": "What? I'm just checkin' some things out.[n]The maf— Uhhh actually, never mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_RYUJI_002_#1",
+   "speaker": "Ryuji",
+   "en": "Look, that's enough, ain't it?[n]I'm just gonna go home and get[n]on the internet or something.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_RYUJI_003_#0",
+   "speaker": "Patrolling Officer",
+   "en": "Hm? Tell me some more about that.[n]There have been quite a few internet-[n]based crimes lately.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_RYUJI_004_#0",
+   "speaker": "Ryuji",
+   "en": "Urghhh, what a pain in the ass.[n]What'd I do to deserve this!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_RYUJI_005_#0",
+   "speaker": "Morgana",
+   "en": "It looks like he's getting questioned[n]unfairly...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_RYUJI_005_#1",
+   "speaker": "Morgana",
+   "en": "Ryuji probably came to investigate[n]on his own, but his enthusiasm seems[n]to have backfired...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_RYUJI_005_#2",
+   "speaker": "Morgana",
+   "en": "We can't afford to get caught up in this.[n]Let's go; we can apologize to Ryuji later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_RYUJI_101_#0",
+   "speaker": "Patrolling Officer",
+   "en": "You're not in on any internet scams,[n]are you? I might have to take you down[n]to the station.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_RYUJI_102_#0",
+   "speaker": "Ryuji",
+   "en": "I already told you, I ain't! Goddammit,[n]I shoulda just gone home straight after[n]school!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_STUDENTCEN#0",
+   "speaker": "Worried Kosei Student",
+   "en": "Where should we eat? I could go for[n]something big, but I don't have a lot[n]of money.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_STUDENTCEN_2#0",
+   "speaker": "Carefree Kosei Student",
+   "en": "Oh? I got a text earlier that said I just won[n]a million yen. Want me to reply to it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_STUDENTCEN_3#0",
+   "speaker": "Worried Kosei Student",
+   "en": "That's a scam, idiot. Do people really[n]fall for that nowadays?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_STUDENTCEN_4#0",
+   "speaker": "Carefree Kosei Student",
+   "en": "Someone at our school did.[n]I heard they're out 100,000 yen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_STUDENTCEN_5#0",
+   "speaker": "Worried Kosei Student",
+   "en": "Ugh, that's terrible. I'm sure that[n]money's gone for good too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_STUDENTCEN_6#0",
+   "speaker": "Worried Kosei Student",
+   "en": "I won't get a combo this time...[n]Hm, so what should it be?[n]Chicken or fries...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_STUDENTCEN_7#0",
+   "speaker": "Carefree Kosei Student",
+   "en": "How much longer are you going to take?[n]By the way, you should get a part-time job[n]if you need money.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_OUTLOW_001#0",
+   "speaker": "Menacing Man",
+   "en": "C'mon, don't question me.[n]I'm totally not suspicious at all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_OUTLOW_002#0",
+   "speaker": "Questioning Officer",
+   "en": "Hm, I suppose you're right.[n]Sorry for taking your time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_OUTLOW_003#0",
+   "speaker": "Menacing Man",
+   "en": "Hahaha, I'm sure things've been rough[n]for you too. You've had lots of incidents[n]lately, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_OUTLOW_004#0",
+   "speaker": "Questioning Officer",
+   "en": "Yes, we're strengthening security to[n]combat the mafia. I advise you stay[n]away from dangerous locales.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_OUTLOW_101#0",
+   "speaker": "Menacing Man",
+   "en": "The mafia? Sounds scary![n]I'll be careful, bro.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_OUTLOW_102#0",
+   "speaker": "Questioning Officer",
+   "en": "Please submit a police report if you[n]see anything suspicious. And again,[n]avoid dangerous places.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_ENDINFO_CE#0",
+   "speaker": "Morgana",
+   "en": "There aren't as many students here[n]as I was expecting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_ENDINFO_CE#1",
+   "speaker": "Morgana",
+   "en": "Come on, let's clear out and go[n]to the underground mall.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_ENDINFO_CE_2#0",
+   "speaker": "Morgana",
+   "en": "It seems like news about the mafia[n]is getting to be quite prevalent.[n]I wish we had more details...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_ENDINFO_CE_2#1",
+   "speaker": "Morgana",
+   "en": "Hm, where else do people hang out?[n]Maybe in the square in front of the[n]station? Let's check it out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E24320100_ENDINFO_CE#0",
+   "speaker": null,
+   "en": "Bring it on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E24320100_ENDINFO_CE#1",
+   "speaker": null,
+   "en": "I'm too tired.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_ENDINFO_CE_3#0",
+   "speaker": "Morgana",
+   "en": "Whoa, I like that fire!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_ENDINFO_CE_4#0",
+   "speaker": "Morgana",
+   "en": "I guess we did walk a lot. Just hang[n]in there for a little bit longer, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_ENDINFO_CE_5#0",
+   "speaker": "Morgana",
+   "en": "There should be all sorts of people[n]there, so we might get some interesting[n]information.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_ENDINFO_CE_5#1",
+   "speaker": "Morgana",
+   "en": "All right! Next stop, the square[n]in front of the station!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_SHUJIN_001#0",
+   "speaker": "Cocky Shujin Student",
+   "en": "I heard it's been getting dangerous[n]around here. I even had the police[n]come warn me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_SHUJIN_002#0",
+   "speaker": "Timid Shujin Student",
+   "en": "Can we just go home? I'm scared...[n]Apparently a kid from Shujin is[n]getting threatened...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_SHUJIN_003#0",
+   "speaker": "Cocky Shujin Student",
+   "en": "Who? Where'd you hear that?[n]Some underground site?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E24320100_SHUJIN_003#0",
+   "speaker": null,
+   "en": "Sounds interesting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E24320100_SHUJIN_003#1",
+   "speaker": null,
+   "en": "Threatened?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_SHUJIN_004#0",
+   "speaker": "Timid Shujin Student",
+   "en": "Y-You're that transfer student,[n][lName]... What do you want?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E24320100_SHUJIN_005#0",
+   "speaker": null,
+   "en": "Tell me more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E24320100_SHUJIN_005#1",
+   "speaker": null,
+   "en": "Nothing much.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E24320100_SHUJIN_005#2",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_SHUJIN_006#0",
+   "speaker": "Timid Shujin Student",
+   "en": "What about? You mean the kid[n]who's getting threatened?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_SHUJIN_007#0",
+   "speaker": "Cocky Shujin Student",
+   "en": "We don't have anything to say to you.[n]You're probably the one blackmailing him!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_SHUJIN_008#0",
+   "speaker": "Timid Shujin Student",
+   "en": "Stop, it's [lName]... What if he has[n]connections to the mafia?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_SHUJIN_006_2#0",
+   "speaker": "Timid Shujin Student",
+   "en": "What about? You mean the kid[n]who's getting threatened?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_SHUJIN_007_2#0",
+   "speaker": "Cocky Shujin Student",
+   "en": "I have nothing to say to you.[n]You've got some nerve even[n]showing up at our school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_SHUJIN_008_2#0",
+   "speaker": "Timid Shujin Student",
+   "en": "I told you to stop it... He'll leave us[n]alone if we ask him to...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_SHUJIN_006_3#0",
+   "speaker": "Cocky Shujin Student",
+   "en": "Then go away. You're probably the one[n]causing all this trouble anyway!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_SHUJIN_007_3#0",
+   "speaker": "Timid Shujin Student",
+   "en": "Stop, it's [lName]... What if he has[n]connections to the mafia?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_SHUJIN_008_3#0",
+   "speaker": "Morgana",
+   "en": "Hm, they seem to know something.[n]You should ask for more details.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_SHUJIN_006_4#0",
+   "speaker": "Cocky Shujin Student",
+   "en": "Why aren't you saying anything?[n]Are you gonna mug me, criminal!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_SHUJIN_007_4#0",
+   "speaker": "Timid Shujin Student",
+   "en": "Stop, it's [lName]... What if he has[n]connections to the mafia?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_SHUJIN_008_4#0",
+   "speaker": "Morgana",
+   "en": "Hey, these guys are from Shujin, right?[n]There's a chance they might know[n]something.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_SHUJIN_009#0",
+   "speaker": "Timid Shujin Student",
+   "en": "This is just a rumor... but I heard[n]someone in your class has been[n]acting kinda strange lately.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_SHUJIN_009#1",
+   "speaker": "Timid Shujin Student",
+   "en": "He hasn't been going to club activities,[n]and has been super on edge almost[n]constantly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_SHUJIN_009#2",
+   "speaker": "Timid Shujin Student",
+   "en": "I think he's in calligraphy club,[n]but that's all I know...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_SHUJIN_010#0",
+   "speaker": "Morgana",
+   "en": "All right, that was an important[n]piece of information.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_SHUJIN_010#1",
+   "speaker": "Morgana",
+   "en": "A victim in your class... Make sure you tell[n]Ryuji and the others about this, okay?",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

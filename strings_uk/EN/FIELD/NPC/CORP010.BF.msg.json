@@ -1,0 +1,4016 @@
+{
+ "file": "EN/FIELD/NPC/CORP010.BF",
+ "entries": [
+  {
+   "id": "HELP_UIRANAI_KAIUN#0",
+   "speaker": null,
+   "en": "Better results when[n]raising social stats.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_UIRANAI_KINUN#0",
+   "speaker": null,
+   "en": "Money rewarded from[n]battle will increase if you[n]win with an All-Out Attack.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_UIRANAI_RENAI#0",
+   "speaker": null,
+   "en": "Predicts your compatibility[n]with a character to deepen[n]your connection with him or her.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_UIRANAI_UNMEI#0",
+   "speaker": null,
+   "en": "You can view all of[n]a character's[n]Confidant Abilities.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_UIRANAI_ALERT#0",
+   "speaker": null,
+   "en": "Sounds a Fusion Alarm in[n][fName]'s prison.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_RENAI_SECRETS_5R#0",
+   "speaker": null,
+   "en": "Clearly understand what your[n]confidants want to hear when[n]spending time with them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_URANAI_COOP_C02#0",
+   "speaker": null,
+   "en": "The High Priestess:[n]Makoto Niijima[n]Confidant",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_URANAI_COOP_C03#0",
+   "speaker": null,
+   "en": "The Empress:[n]Haru Okumura[n]Confidant",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_URANAI_COOP_C04#0",
+   "speaker": null,
+   "en": "The Emperor:[n]Yusuke Kitagawa[n]Confidant",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_URANAI_COOP_C05#0",
+   "speaker": null,
+   "en": "The Hierophant:[n]Sojiro Sakura[n]Confidant",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_URANAI_COOP_C06#0",
+   "speaker": null,
+   "en": "The Lovers:[n]Ann Takamaki[n]Confidant",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_URANAI_COOP_C07#0",
+   "speaker": null,
+   "en": "The Chariot:[n]Ryuji Sakamoto[n]Confidant",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_URANAI_COOP_C08#0",
+   "speaker": null,
+   "en": "Justice:[n]Goro Akechi[n]Confidant",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_URANAI_COOP_C09#0",
+   "speaker": null,
+   "en": "The Hermit:[n]Futaba Sakura[n]Confidant",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_URANAI_COOP_C10#0",
+   "speaker": null,
+   "en": "Wheel of Fortune:[n]Fortune Teller[n]Confidant",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_URANAI_COOP_C12#0",
+   "speaker": null,
+   "en": "The Hanged Man:[n]Weapons Dealer[n]Confidant",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_URANAI_COOP_C13#0",
+   "speaker": null,
+   "en": "Death:[n]Back-alley Doctor[n]Confidant",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_URANAI_COOP_C14#0",
+   "speaker": null,
+   "en": "Temperance:[n]Sadayo Kawakami[n]Confidant",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_URANAI_COOP_C15#0",
+   "speaker": null,
+   "en": "The Devil:[n]Ichiko Ohya[n]Confidant",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_URANAI_COOP_C16#0",
+   "speaker": null,
+   "en": "The Tower:[n]Skilled Gamer[n]Confidant",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_URANAI_COOP_C17#0",
+   "speaker": null,
+   "en": "The Star:[n]Hifumi Togo[n]Confidant",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_URANAI_COOP_C18#0",
+   "speaker": null,
+   "en": "The Moon:[n]Yuuki Mishima[n]Confidant",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_URANAI_COOP_C19#0",
+   "speaker": null,
+   "en": "The Sun:[n]Man of the People[n]Confidant",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_URANAI_COOP_C22#0",
+   "speaker": null,
+   "en": "Faith:[n][sumi 10 1] Yoshizawa[n]Confidant",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_URANAI_COOP_C23#0",
+   "speaker": null,
+   "en": "The Councillor:[n]Takuto Maruki[n]Confidant",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_URANAI_COOP_C00#0",
+   "speaker": null,
+   "en": "The Fool:[n]Prison Master[n]Confidant",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_URANAI_COOP_C01#0",
+   "speaker": null,
+   "en": "The Magician:[n]Morgana[n]Confidant",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_URANAI_COOP_C11#0",
+   "speaker": null,
+   "en": "Strength:[n]Twin Wardens[n]Confidant",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PRE_FACILITY_00#0",
+   "speaker": "Morgana",
+   "en": "Hey, it's that fortune teller everyone[n]talks about. Are you gonna get your[n]fortune read?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_PRE_FACILITY_01#0",
+   "speaker": null,
+   "en": "Yes, I am.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_PRE_FACILITY_01#1",
+   "speaker": null,
+   "en": "No, I'm not.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PRE_FACILITY_02#0",
+   "speaker": "Cheerful Fortune Teller",
+   "en": "Oh, hellooo! Please take a seat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PRE_FACILITY_03#0",
+   "speaker": "Morgana",
+   "en": "You're not? But I want mine read...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PRECOOP_00_00#0",
+   "speaker": "Chihaya",
+   "en": "Oh, you're [lName]-san...[n]From the other day, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PRECOOP_00_00#1",
+   "speaker": "Chihaya",
+   "en": "I remember you... You had a very[n]abnormal destiny, as I recall.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PRECOOP_00_00#2",
+   "speaker": "Chihaya",
+   "en": "Please, take a seat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PRECOOP_00_99#0",
+   "speaker": "Chihaya",
+   "en": "Here again, huh? Please, take a seat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PRECOOP_00_01#0",
+   "speaker": "Chihaya",
+   "en": "You want to purchase a Holy Stone,[n]huh? For just 100,000 yen, you can[n]change your fate!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PRECOOP_00_01_01#0",
+   "speaker": "Morgana",
+   "en": "For that much, it'd better not only[n]change your fate, but also give you[n]incredible luck.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PRECOOP_00_01_01#1",
+   "speaker": "Morgana",
+   "en": "If you do end up buying one, we should[n]go home and test it out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PRECOOP_00_01_01#2",
+   "speaker": "Morgana",
+   "en": "Well, what do you want to do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_PRECOOP_00_02#0",
+   "speaker": null,
+   "en": "I'll buy one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_PRECOOP_00_02#1",
+   "speaker": null,
+   "en": "I'm not going to buy one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PRECOOP_00_03#0",
+   "speaker": "Chihaya",
+   "en": "Thank you very much!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PRECOOP_00_03#1",
+   "speaker": "Chihaya",
+   "en": "Here you go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PRECOOP_00_04#0",
+   "speaker": "Chihaya",
+   "en": "It's the smart thing to do, considering this[n]is the only way to avoid misfortune.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PRECOOP_00_04#1",
+   "speaker": "Chihaya",
+   "en": "It's already charged with a happiness[n]aura, so you'll feel the effects right away.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PRECOOP_00_04#2",
+   "speaker": "Chihaya",
+   "en": "Don't forget to recharge it with[n]moonlight every three days.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PRECOOP_00_05#0",
+   "speaker": "Chihaya",
+   "en": "Please stop by again and let me know[n]how your fate changed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PRECOOP_00_05#1",
+   "speaker": "Chihaya",
+   "en": "Goodbye...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C10_PRECOOP_00_06#0",
+   "speaker": null,
+   "en": "I should head home...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PRECOOP_00_10#0",
+   "speaker": "Chihaya",
+   "en": "You don't have enough money...[n]Please don't waste my time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PRECOOP_00_10#1",
+   "speaker": "Chihaya",
+   "en": "Come back when you have enough.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PRECOOP_00_20#0",
+   "speaker": "Chihaya",
+   "en": "Fate is absolute. It cannot be changed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PREQUEST_00_00#0",
+   "speaker": "Morgana",
+   "en": "Let's ask Chihaya about the Holy Stone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PREQUEST_00_00#1",
+   "speaker": "Morgana",
+   "en": "Hm? She's with a client...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PREQUEST_00_00#2",
+   "speaker": "Morgana",
+   "en": "Sounds like they're talking about the[n]Holy Stone. Do you wanna eavesdrop[n]on them?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PREQUEST_00_99#0",
+   "speaker": "Morgana",
+   "en": "A client seems to be talking to her about[n]the Holy Stone. You wanna go eavesdrop?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_PREQUEST_00_01#0",
+   "speaker": null,
+   "en": "Eavesdrop",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_PREQUEST_00_01#1",
+   "speaker": null,
+   "en": "Don't eavesdrop",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PREQUEST_00_02#0",
+   "speaker": "Morgana",
+   "en": "Aren't you gonna go complain to her[n]about the Holy Stone?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_QUESTNOW_00_00#0",
+   "speaker": "Chihaya",
+   "en": "We shall see if her fate indeed changes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_QUESTNOW_00_00#1",
+   "speaker": "Chihaya",
+   "en": "I'm looking forward to hearing about[n]the result.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C10_QUESTNOW_00_01#0",
+   "speaker": null,
+   "en": "I should go to Mementos and change[n]that abusive boyfriend's heart to prove[n]that fate can be altered...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PRECOOP_10_00#0",
+   "speaker": "Chihaya",
+   "en": "Well? Did her fate change?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PRECOOP_10_99#0",
+   "speaker": "Chihaya",
+   "en": "Anything else? You can't change destiny,[n]you know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_PRECOOP_10_01#0",
+   "speaker": null,
+   "en": "Tell her the result",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_PRECOOP_10_01#1",
+   "speaker": null,
+   "en": "Don't tell her the result",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PRECOOP_10_02#0",
+   "speaker": "Chihaya",
+   "en": "Fine, let's hear it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PRECOOP_10_02#1",
+   "speaker": "Chihaya",
+   "en": "Please sit down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_PRECOOP_10_03#0",
+   "speaker": "Chihaya",
+   "en": "Fate is absolute. It can only be changed[n]by a Holy Stone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_QUEST_00#0",
+   "speaker": "Chihaya",
+   "en": "The \"Trickster\" who shall aid me.[n]I wonder what this means...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_QUEST_01#0",
+   "speaker": "Chihaya",
+   "en": "Oh, [lName]-san!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_URANAI_SASOI_THROUGH#0",
+   "speaker": "Chihaya",
+   "en": "If you don't mind...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_URANAI_SASOI_THROUGH#1",
+   "speaker": "Chihaya",
+   "en": "I'll be contacting you via text from now[n]on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_URANAI_SASOI_THROUGH_2#0",
+   "speaker": "Chihaya",
+   "en": "Hmmm...! I see a bad omen regarding[n]your relationships.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_URANAI_SASOI_THROUGH_2#1",
+   "speaker": "Chihaya",
+   "en": "This may be a punishment for neglecting[n]people. Acts of sincerity will be the key.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_WEATHER_00#0",
+   "speaker": "Chihaya",
+   "en": "I don't like when it rains...[n]This area gets all wet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_WEATHER_01#0",
+   "speaker": "Chihaya",
+   "en": "It's rare to see snow in the city. Maybe[n]I'll close up shop, since it's so cold.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_WEATHER_02#0",
+   "speaker": "Chihaya",
+   "en": "The weather is so confusing with it[n]raining on and off.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_WEATHER_02#1",
+   "speaker": "Chihaya",
+   "en": "I apologize for the shop being closed[n]a lot lately.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_WEATHER_03#0",
+   "speaker": "Chihaya",
+   "en": "It's so windy... My cards are going to[n]blow away! I'd better close up shop.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_WEATHER_04#0",
+   "speaker": "Chihaya",
+   "en": "Although there aren't trees here in the[n]city, a lot of people still suffer from[n]allergies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_WEATHER_04#1",
+   "speaker": "Chihaya",
+   "en": "I usually use my clients' facial expressions[n]as a reference, but the masks make it[n]difficult...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_WEATHER_05#0",
+   "speaker": "Chihaya",
+   "en": "This rain is crazy... The shop's going to[n]get soaked, with such a small roof...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_WEATHER_06#0",
+   "speaker": "Chihaya",
+   "en": "It's so hot today...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_WEATHER_06#1",
+   "speaker": "Chihaya",
+   "en": "I placed my shop on the street so I can[n]see people walking by, but I'm about[n]to melt...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_WEATHER_07#0",
+   "speaker": "Chihaya",
+   "en": "Everyone seems to be wearing masks.[n]Is it meant to stave off the flu?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_WEATHER_07#1",
+   "speaker": "Chihaya",
+   "en": "Catching a cold is sometimes just fate,[n]you know...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_WEATHER_08#0",
+   "speaker": "Chihaya",
+   "en": "Ugh... Why is it so cold todaaay!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_WEATHER_08#1",
+   "speaker": "Chihaya",
+   "en": "Maybe this is fate telling me to stop[n]working for the day...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_TIME_01#0",
+   "speaker": "Chihaya",
+   "en": "It's troubling when people ask me[n]to predict whether their summer[n]bonus will increase.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_TIME_01#1",
+   "speaker": "Chihaya",
+   "en": "I always wish that they had asked[n]me sooner...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_TIME_02#0",
+   "speaker": "Chihaya",
+   "en": "It's troubling when people ask me[n]to predict whether their summer[n]bonus will increase.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_TIME_02#1",
+   "speaker": "Chihaya",
+   "en": "I always wish that they[n]had asked me sooner...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_TIME_03#0",
+   "speaker": "Chihaya",
+   "en": "Hmmm... there seems to be a number[n]of disasters heading your way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_TIME_03#1",
+   "speaker": "Chihaya",
+   "en": "There's one that hints of death.[n]...M... E... D... J...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_TIME_03#2",
+   "speaker": "Chihaya",
+   "en": "I can't make out anything else... but[n]you will need to be careful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_TIME_04#0",
+   "speaker": "Chihaya",
+   "en": "I sense that you have trouble[n]with women...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_TIME_04#1",
+   "speaker": "Chihaya",
+   "en": "Hm...? There was a woman last[n]time too... Wait... is that...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_TIME_04#2",
+   "speaker": "Chihaya",
+   "en": "A-Anyway, please be careful...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_TIME_05#0",
+   "speaker": "Chihaya",
+   "en": "Oh, I was curious about you, so I read[n]your fortune.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_TIME_05#1",
+   "speaker": "Chihaya",
+   "en": "I tried numerous times, but the \"Empress\"[n]card keeps appearing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_TIME_05#2",
+   "speaker": "Chihaya",
+   "en": "Last time, I felt that you were having[n]trouble with women, but I sense[n]something different now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_TIME_05#3",
+   "speaker": "Chihaya",
+   "en": "A-Anyway, please be careful...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_TIME_06#0",
+   "speaker": "Chihaya",
+   "en": "[lName]-san... Are you suuure[n]you're going to be okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_TIME_06#1",
+   "speaker": "Chihaya",
+   "en": "I can sense it just by looking at[n]your face. The \"death\" aura is[n]emitting a strange light...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_TIME_06#2",
+   "speaker": "Chihaya",
+   "en": "Please be careful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_TIME_07#0",
+   "speaker": "Chihaya",
+   "en": "You're alive, yet at the same time,[n]you're dead...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_TIME_07#1",
+   "speaker": "Chihaya",
+   "en": "You have an interesting fate, indeed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_TIME_08#0",
+   "speaker": "Chihaya",
+   "en": "I read your fortune out of curiosity.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_TIME_08#1",
+   "speaker": "Chihaya",
+   "en": "I couldn't truly grasp your fate[n]before now, but everything[n]will soon be clear.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_TIME_08#2",
+   "speaker": "Chihaya",
+   "en": "Please brace yourself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_TIME_09#0",
+   "speaker": "Chihaya",
+   "en": "[lName]-san! Things have been[n]so strange lately.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_TIME_09#1",
+   "speaker": "Chihaya",
+   "en": "No matter whose fortune I'm reading,[n]there's nothing but joy and good times[n]ahead. It's almost uncanny...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_TIME_09#2",
+   "speaker": "Chihaya",
+   "en": "It's nice that everyone's happy, but...[n]why does it make me feel so anxious?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_CONNECT_NG_00#0",
+   "speaker": "Chihaya",
+   "en": "Well then, shall I read your fortune[n]in detail...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_CONNECT_OK_00#0",
+   "speaker": "Chihaya",
+   "en": "Well then, what would you like to do[n]today...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_CONNECT_OK_01#0",
+   "speaker": "Chihaya",
+   "en": "Did you get my messages? What would[n]you like to do today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_CONNECT_NG_01#0",
+   "speaker": "Chihaya",
+   "en": "I can't see my fortune clearly,[n]but I can see yours...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_CONNECT_OK_02#0",
+   "speaker": "Chihaya",
+   "en": "I've been waiting for you! Can we talk?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BEGIN_SECOND_00#0",
+   "speaker": "Chihaya",
+   "en": "Was there something else you needed[n]from me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_BUY_OR_COOP#0",
+   "speaker": null,
+   "en": "Do a verification test",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_BUY_OR_COOP#1",
+   "speaker": null,
+   "en": "Get a fortune reading",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_BUY_OR_COOP#2",
+   "speaker": null,
+   "en": "Do nothing",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_BUY_OR_COOP_7#0",
+   "speaker": null,
+   "en": "Of course.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_BUY_OR_COOP_7#1",
+   "speaker": null,
+   "en": "I want my fortune read.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_BUY_OR_COOP_7#2",
+   "speaker": null,
+   "en": "No, nothing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_DOUBT#0",
+   "speaker": null,
+   "en": "Listen to my story.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_DOUBT#1",
+   "speaker": null,
+   "en": "I want my fortune read.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_DOUBT#2",
+   "speaker": null,
+   "en": "No, nothing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SHOP_00_00#0",
+   "speaker": "Chihaya",
+   "en": "Okay. Please take a seat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SHOP_01_00#0",
+   "speaker": "Chihaya",
+   "en": "Which fortune would you[n]like to have read?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TITLE_URANAI_MENU#0",
+   "speaker": null,
+   "en": "Chihaya Fortune Reading",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_URANAI_CHK_MENU#0",
+   "speaker": null,
+   "en": "Luck Reading[ref 0 0]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_URANAI_CHK_MENU#1",
+   "speaker": null,
+   "en": "Money Reading[ref 1 1]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_URANAI_CHK_MENU#2",
+   "speaker": null,
+   "en": "Affinity Reading[ref 2 2]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_URANAI_CHK_MENU#3",
+   "speaker": null,
+   "en": "Special Fate Reading[ref 3 3]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_URANAI_CHK_MENU#4",
+   "speaker": null,
+   "en": "Celestial Reading[ref 4 4]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_URANAI_CHK_MENU#5",
+   "speaker": null,
+   "en": "Special Bond Reading[ref 5 5]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SHOP_02_00#0",
+   "speaker": "Chihaya",
+   "en": "I hope you're happy with your fortune.[n]I look forward to your next visit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SHOP_00_01#0",
+   "speaker": "Chihaya",
+   "en": "I can't give you a reading right now[n]because I don't trust you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SHOP_00_02#0",
+   "speaker": "Morgana",
+   "en": "Looks like she won't read your fortune[n]right now, so let's erase her doubts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SHOP_03_00#0",
+   "speaker": "Chihaya",
+   "en": "I look forward to seeing you again[n]soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SHOP_03_02#0",
+   "speaker": "Chihaya",
+   "en": "Please stop by again, whenever you[n]have time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_NG_00_00#0",
+   "speaker": "Chihaya",
+   "en": "Sorry... I have another client after this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_NG_00_00#1",
+   "speaker": "Chihaya",
+   "en": "I can do the verification test at night[n]though, so please come back then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_NG_00_01#0",
+   "speaker": "Chihaya",
+   "en": "Sorry... I'm planning to close up shop[n]for the day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_NG_00_01#1",
+   "speaker": "Chihaya",
+   "en": "Please come again another time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10__COOP_NG_01_00#0",
+   "speaker": "Chihaya",
+   "en": "I have a lot of clients after this, so[n]please come again another time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_00_00#0",
+   "speaker": "Chihaya",
+   "en": "Please take a seat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_10_00#0",
+   "speaker": "Chihaya",
+   "en": "Now, shall we do a verification test[n]of the Phantom Thieves...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_10_01#0",
+   "speaker": "Chihaya",
+   "en": "Maybe I'll read... our fortune...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_10_01#1",
+   "speaker": "Chihaya",
+   "en": "P-Please take a seat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SPOT_01_00#0",
+   "speaker": "Chihaya",
+   "en": "Your fate is very... interesting, so I'd[n]like to try a different fortune telling[n]technique...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SPOT_01_00#1",
+   "speaker": "Chihaya",
+   "en": "I've gone through all my books...[n]Maybe I need some that are out[n]of print. Where can I find some...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SPOT_01_00#2",
+   "speaker": "Chihaya",
+   "en": "Oh, never mind. Let's begin the[n]verification test.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SPOT_02_00#0",
+   "speaker": "Chihaya",
+   "en": "The \"Tower\" card has grown dark.[n]Did you experience some sort of[n]change at a high altitude...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SPOT_02_00#1",
+   "speaker": "Chihaya",
+   "en": "If any place comes to mind, please[n]let me know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SPOT_02_00#2",
+   "speaker": "Chihaya",
+   "en": "Now, please take a seat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SPOT_03_00#0",
+   "speaker": "Chihaya",
+   "en": "S-So... that Ferris wheel we rode[n]the other day...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SPOT_03_00#1",
+   "speaker": "Chihaya",
+   "en": "I hope that I can go on it again[n]someday... with you, of course.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SPOT_03_00#2",
+   "speaker": "Chihaya",
+   "en": "Um, w-well... l-let's start the Phantom[n]Thieves verification test.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SPOT_04_00#0",
+   "speaker": "Chihaya",
+   "en": "This place reeks of exhaust fumes[n]and food from the restaurants.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SPOT_04_00#1",
+   "speaker": "Chihaya",
+   "en": "I wish I could take a walk to get[n]away from the noise and stare at[n]the sky, or gaze at the ocean...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SPOT_04_00#2",
+   "speaker": "Chihaya",
+   "en": "...Just kidding. okay, it's time for the[n]verification test. Please take a seat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SPOT_05_00#0",
+   "speaker": "Chihaya",
+   "en": "H-Hello...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SPOT_05_00#1",
+   "speaker": "Chihaya",
+   "en": "What does your room look like...?[n]Is it exactly how I saw it in[n]your fortune...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SPOT_05_00#2",
+   "speaker": "Chihaya",
+   "en": "O-Oh, the verification test? Yes, we'll[n]get to it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_01_00#0",
+   "speaker": "Chihaya",
+   "en": "I've been waiting for you! Let's do[n]the verification test already!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_01_00#1",
+   "speaker": "Chihaya",
+   "en": "I will surely figure out your trick!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_02_00#0",
+   "speaker": "Chihaya",
+   "en": "Bring it on!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_02_00#1",
+   "speaker": "Chihaya",
+   "en": "We're not done with these tests yet!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_03_00#0",
+   "speaker": "Chihaya",
+   "en": "You're here for the verification test,[n]correct? Well... I'm closing up shop[n]for today...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_03_00#1",
+   "speaker": "Chihaya",
+   "en": "However, could we discuss another[n]matter?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_04_00#0",
+   "speaker": "Chihaya",
+   "en": "There's a lot I want to tell you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_04_00#1",
+   "speaker": "Chihaya",
+   "en": "Please take a seat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_05_00#0",
+   "speaker": "Chihaya",
+   "en": "I've been waiting for you! You won't[n]believe what happened!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_06_00#0",
+   "speaker": "Chihaya",
+   "en": "Ummm... do you remember what[n]happened last time?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_06_00#1",
+   "speaker": "Chihaya",
+   "en": "That man, Chairman Fukurai,[n]visited me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_06_00#2",
+   "speaker": "Chihaya",
+   "en": "If you have some time, can you stick[n]around and chat for a bit?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_07_00#0",
+   "speaker": "Chihaya",
+   "en": "There's something I'd like to talk about.[n]The ADP case is more complicated than[n]I thought...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_07_00#1",
+   "speaker": "Chihaya",
+   "en": "*sigh* What am I going to do...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_07_01#0",
+   "speaker": "Chihaya",
+   "en": "The verification tests are on hold.[n]I need to focus on the chairman's[n]fraudulent activities.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_07_01#1",
+   "speaker": "Chihaya",
+   "en": "I'll let you know if I make any progress.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C10_COOP_07_02#0",
+   "speaker": null,
+   "en": "Chihaya is troubled... I should[n]head to Mementos and change the[n]chairman's heart...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_07_03#0",
+   "speaker": "Chihaya",
+   "en": "Oh, sit down! Sit down! I have so much[n]to tell you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_08_00#0",
+   "speaker": "Chihaya",
+   "en": "So, I've made some more progress[n]with the ADP case!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_08_00#1",
+   "speaker": "Chihaya",
+   "en": "Sit down so I can tell you all about it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_09_00#0",
+   "speaker": "Chihaya",
+   "en": "There's something I'd like to ask you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_09_00#1",
+   "speaker": "Chihaya",
+   "en": "Please have a seat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_09_01#0",
+   "speaker": "Chihaya",
+   "en": "So, um, I read...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_09_01#1",
+   "speaker": "Chihaya",
+   "en": "Our own...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_09_01#2",
+   "speaker": "Chihaya",
+   "en": "Y-You have to hear this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_DOUZOKUSEI#0",
+   "speaker": null,
+   "en": "I feel I can become closer with[n]Chihaya thanks to the [var 2][n]Persona [clr 1][var 5][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANKUP_OK#0",
+   "speaker": null,
+   "en": "I feel like my bond with Chihaya[n]will grow stronger soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANKUP_NG#0",
+   "speaker": null,
+   "en": "I don't think my bond with[n]Chihaya will deepen just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANK_MAX_00#0",
+   "speaker": null,
+   "en": "I have a strong bond[n]with Chihaya...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANK_MAX_01#0",
+   "speaker": null,
+   "en": "I have a special bond[n]with Chihaya...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_NIGHT#0",
+   "speaker": "Morgana",
+   "en": "What are you gonna do?[n]Are you gonna hang out[n]with Chihaya?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_SHIDOU#0",
+   "speaker": "Morgana",
+   "en": "Nobody thinks you're alive at[n]this point, so it should be okay[n]as long as you're careful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_SHIDOU#1",
+   "speaker": "Morgana",
+   "en": "What are you gonna do?[n]Are you gonna hang out[n]with Chihaya?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK#0",
+   "speaker": null,
+   "en": "Hang out with her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK#1",
+   "speaker": null,
+   "en": "Check bond with Chihaya",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK#2",
+   "speaker": null,
+   "en": "Decline",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_YES_01_00#0",
+   "speaker": "Chihaya",
+   "en": "Oh, I was just about to do a reading for[n]a client, so please stay and watch...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_YES_02_00#0",
+   "speaker": "Chihaya",
+   "en": "I'm actually doing a reading for a client[n]right now, so please stay and watch...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_YES_03_00#0",
+   "speaker": "Chihaya",
+   "en": "Thank you very much...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_YES_03_00#1",
+   "speaker": "Chihaya",
+   "en": "I'm closing up shop, so please hold on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_YES_04_00#0",
+   "speaker": "Chihaya",
+   "en": "Great!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_YES_04_00#1",
+   "speaker": "Chihaya",
+   "en": "Let's see. For today...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_YES_05_00#0",
+   "speaker": "Chihaya",
+   "en": "Now, please take a seat...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_YES_06_00#0",
+   "speaker": "Chihaya",
+   "en": "Okay... let's go somewhere else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_YES_07_00#0",
+   "speaker": "Chihaya",
+   "en": "Yes! Please sit down!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_YES_08_00#0",
+   "speaker": "Chihaya",
+   "en": "Yes! Please go ahead!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_YES_09_00#0",
+   "speaker": "Chihaya",
+   "en": "A-Anyway!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_YES_09_00#1",
+   "speaker": "Chihaya",
+   "en": "It seems like we'll have really good luck[n]if we visit a certain place together!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_YES_09_00#2",
+   "speaker": "Chihaya",
+   "en": "L-Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_YES_09_01#0",
+   "speaker": "Chihaya",
+   "en": "Yes, please sit down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_COOP_ESCAPE#0",
+   "speaker": "Morgana",
+   "en": "Well, I'm gonna walk around.[n]Let me know when you're ready[n]to leave.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_YES_00_00#0",
+   "speaker": "Chihaya",
+   "en": "Okay, heeere we gooo...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_YES_10_00#0",
+   "speaker": "Chihaya",
+   "en": "All right, let's read our fortune...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_YES_10_01#0",
+   "speaker": "Chihaya",
+   "en": "As a special favor, I'll read your fortune.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C10_SPOT_01_01#0",
+   "speaker": null,
+   "en": "Maybe I should invite[n]her to Book Town...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_SPOT_01_02#0",
+   "speaker": null,
+   "en": "Invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_SPOT_01_02#1",
+   "speaker": null,
+   "en": "Don't invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SPOT_01_03#0",
+   "speaker": "Chihaya",
+   "en": "Jinbocho? There's a lot of used[n]bookstores there...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SPOT_01_03#1",
+   "speaker": "Chihaya",
+   "en": "It's a bit far, but let's go! I wonder[n]if the stores are still open...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C10_SPOT_02_01#0",
+   "speaker": null,
+   "en": "Maybe I should invite[n]her to the Skytree...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_SPOT_02_02#0",
+   "speaker": null,
+   "en": "Invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_SPOT_02_02#1",
+   "speaker": null,
+   "en": "Don't invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SPOT_02_03#0",
+   "speaker": "Chihaya",
+   "en": "The Skytree? Hmmm... It sounds like a[n]nice place.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SPOT_02_03#1",
+   "speaker": "Chihaya",
+   "en": "Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C10_SPOT_03_01#0",
+   "speaker": null,
+   "en": "Chihaya seems to want to[n]ride the Ferris wheel again...[n]Maybe I should invite her...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_SPOT_03_02#0",
+   "speaker": null,
+   "en": "Invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_SPOT_03_02#1",
+   "speaker": null,
+   "en": "Don't invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SPOT_03_03#0",
+   "speaker": "Chihaya",
+   "en": "Y-Yes! Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C10_SPOT_04_01#0",
+   "speaker": null,
+   "en": "Maybe I should invite[n]her to Seaside Park...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_SPOT_04_02#0",
+   "speaker": null,
+   "en": "Invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_SPOT_04_02#1",
+   "speaker": null,
+   "en": "Don't invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SPOT_04_03#0",
+   "speaker": "Chihaya",
+   "en": "I would love to go there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SPOT_04_03#1",
+   "speaker": "Chihaya",
+   "en": "Please lead the way...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C10_SPOT_05_01#0",
+   "speaker": null,
+   "en": "Should I invite her to my room?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_SPOT_05_02#0",
+   "speaker": null,
+   "en": "Invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_SPOT_05_02#1",
+   "speaker": null,
+   "en": "Don't invite her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SPOT_05_03#0",
+   "speaker": "Chihaya",
+   "en": "Huh!? Yer sayin' it's awright to visit[n]yer place!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SPOT_05_03#1",
+   "speaker": "Chihaya",
+   "en": "O-Okay... I'll get ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_COOP_CANCEL_00#0",
+   "speaker": "Chihaya",
+   "en": "Oh, is that so?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_KANDA#0",
+   "speaker": null,
+   "en": "You can now go to [clr 2]Kanda[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINJUKU#0",
+   "speaker": null,
+   "en": "You can now go to [clr 2]Shinjuku[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_AKIHABARA#0",
+   "speaker": null,
+   "en": "You can now go to [clr 2]Akihabara[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_AKIHABARA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_INOKASHIRA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Inokashira Park[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_INOKASHIRA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_OGIKUBO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ogikubo Ramen[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_OGIKUBO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy eating ramen[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ODAIBA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Odaiba Seaside Park[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ODAIBA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like such parks to[n]hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_UENO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ueno Museum[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_UENO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy art museums[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TSUKISHIMA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Tsukishima Monja[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TSUKISHIMA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy eating monjayaki[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_HARAJUKU#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Harajuku Takenoko Street[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_HARAJUKU#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy Takenoko Street[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TYUKAGAI#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Motomachi Chinatown[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TYUKAGAI#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MAIHAMA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Maihama Destinyland[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MAIHAMA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ASAKUSA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Asakusa[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ASAKUSA#1",
+   "speaker": null,
+   "en": "You can also invite people who may[n]enjoy the Skytree or Nakamise Street[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_IKEBUKURO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ikebukuro Planetarium[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_IKEBUKURO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MEIJIJINGU#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Meiji Shrine[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MEIJIJINGU#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MEIJIJINGU#2",
+   "speaker": null,
+   "en": "Furthermore, you can go by[n]yourself to pay homage to[n]the shrine if you wish.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SUIDOUBASH#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Suidobashi Dome Town[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SUIDOUBASH#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHIBUYA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Shibuya Wilton Hotel[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHIBUYA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_GINZA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ginza Sushi Bar[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_GINZA#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may enjoy eating expensive sushi[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_JINBOCHO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Jinbocho Book Town[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_JINBOCHO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_JINBOCHO#2",
+   "speaker": null,
+   "en": "Furthermore, you can go by[n]yourself for some shopping[n]if you so desire.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ICHIGAYA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ichigaya Fishing Pond[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ICHIGAYA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy fishing to[n]hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ICHIGAYA#2",
+   "speaker": null,
+   "en": "Furthermore, you can go by[n]yourself and try your hand at[n]fishing if you so choose.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINAGAWA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Shinagawa Aquarium[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINAGAWA#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may enjoy the aquarium to hang[n]out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_NAKANO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Nakano Commerce Building District[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_NAKANO#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may enjoy that location to hang[n]out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNSEI_00_00#0",
+   "speaker": "Chihaya",
+   "en": "A reading of your luck fortune[n]will cost you [clr 2][var 0] yen[clr 27].[n]Is that all right...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_UNSEI_00_01#0",
+   "speaker": null,
+   "en": "Have fortune read",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_UNSEI_00_01#1",
+   "speaker": null,
+   "en": "Don't have fortune read",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNSEI_10_00#0",
+   "speaker": "Morgana",
+   "en": "Hey, you don't have that much[n]money. You'll have to pass on[n]having your fortune read for now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNSEI_10_01#0",
+   "speaker": "Chihaya",
+   "en": "Huh? You don't want a reading?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNSEI_20_00#0",
+   "speaker": "Chihaya",
+   "en": "Okay, are you ready...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNSEI_20_01#0",
+   "speaker": "Chihaya",
+   "en": "Hm... Hmmm...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNSEI_20_02#0",
+   "speaker": "Chihaya",
+   "en": "I already read your luck fortune.[n]A second reading won't be[n]any different, you know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNSEI_20_02#1",
+   "speaker": "Chihaya",
+   "en": "Your reading result is...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNSEI_30_01#0",
+   "speaker": "Chihaya",
+   "en": "There's a change occurring within[n]your heart... But this cup...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNSEI_30_01#1",
+   "speaker": "Chihaya",
+   "en": "Yes, it's a good time for you to create[n]something new. You'll have a better[n]result than usual.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_C10_UNSEI_30_02#0",
+   "speaker": null,
+   "en": "You will get a bonus on[n]the Burst Point during[n]Persona fusion today only.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNSEI_30_03#0",
+   "speaker": "Chihaya",
+   "en": "You'll have a better result than usual[n]when you create something new.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNSEI_30_03#1",
+   "speaker": "Chihaya",
+   "en": "Don't forget, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNSEI_31_01#0",
+   "speaker": "Chihaya",
+   "en": "A change within your heart... but since[n]the pentacle is there...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNSEI_31_01#1",
+   "speaker": "Chihaya",
+   "en": "Ah, I see. Okay, I get it now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNSEI_31_01#2",
+   "speaker": "Chihaya",
+   "en": "It seems that when you create something[n]new, there's a higher chance that a mishap[n]will occur.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_C10_UNSEI_31_02#0",
+   "speaker": null,
+   "en": "It is now more likely that[n]a mishap will occur during[n]Persona fusion today only.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNSEI_31_03#0",
+   "speaker": "Chihaya",
+   "en": "There's a higher chance that a mishap will[n]occur when you create something new.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNSEI_31_03#1",
+   "speaker": "Chihaya",
+   "en": "Don't forget, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNSEI_32_01#0",
+   "speaker": "Chihaya",
+   "en": "The sword is in the middle, and the color[n]of the heart changed to a darker shade...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNSEI_32_01#1",
+   "speaker": "Chihaya",
+   "en": "Yes, it's a time of evolution...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNSEI_32_01#2",
+   "speaker": "Chihaya",
+   "en": "When you create something new, an already[n]existing quality will be enhanced.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_C10_UNSEI_32_02#0",
+   "speaker": null,
+   "en": "A skill evolution will occur[n]during Persona fusion today only.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNSEI_32_03#0",
+   "speaker": "Chihaya",
+   "en": "An already existing quality will be enhanced[n]when you create something new.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNSEI_32_03#1",
+   "speaker": "Chihaya",
+   "en": "Can you remember that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNSEI_33_01#0",
+   "speaker": "Chihaya",
+   "en": "There seems to be a strong change within[n]your heart, but the wand has a strong[n]influence as well...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNSEI_33_01#1",
+   "speaker": "Chihaya",
+   "en": "I understand...[n]It's time for change.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNSEI_33_01#2",
+   "speaker": "Chihaya",
+   "en": "When you create something new,[n]a change will occur.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_C10_UNSEI_33_02#0",
+   "speaker": null,
+   "en": "A skill change will occur during[n]Persona fusion today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNSEI_33_03#0",
+   "speaker": "Chihaya",
+   "en": "A change will occur when you[n]create something new.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNSEI_33_03#1",
+   "speaker": "Chihaya",
+   "en": "Remember that, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNSEI_40_00#0",
+   "speaker": "Chihaya",
+   "en": "That is all for today's luck fortune.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNSEI_40_03#0",
+   "speaker": "Chihaya",
+   "en": "Your luck may change tomorrow...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNSEI_40_03#1",
+   "speaker": "Chihaya",
+   "en": "...but this is your fate for today,[n]so please trust in it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_00_00#0",
+   "speaker": "Chihaya",
+   "en": "Reading your luck improvement[n]fortune will cost you [clr 2][var 0] yen[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_00_01#0",
+   "speaker": null,
+   "en": "Have fortune read",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_00_01#1",
+   "speaker": null,
+   "en": "Don't have fortune read",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_10_00#0",
+   "speaker": "Morgana",
+   "en": "Hey, you don't have that much money.[n]You'll have to pass on having your[n]fortune read for now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_10_01#0",
+   "speaker": "Chihaya",
+   "en": "You don't want a reading?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_20_00#0",
+   "speaker": "Chihaya",
+   "en": "All right, please think of some area in[n]which you'd like to increase your luck.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_00_02#0",
+   "speaker": null,
+   "en": "I want to increase my Knowledge.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_00_02#1",
+   "speaker": null,
+   "en": "I want to increase my Guts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_00_02#2",
+   "speaker": null,
+   "en": "I want to increase my Proficiency.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_00_02#3",
+   "speaker": null,
+   "en": "I want to increase my Kindness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_00_02#4",
+   "speaker": null,
+   "en": "I want to increase my Charm.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_20_01#0",
+   "speaker": "Chihaya",
+   "en": "Hm... Hmmm... Hmmmmmm...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_20_02#0",
+   "speaker": "Chihaya",
+   "en": "Didn't I already read your improvement[n]fortune? Another reading won't change[n]the result.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_20_02#1",
+   "speaker": "Chihaya",
+   "en": "Your reading result is...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_30_01#0",
+   "speaker": "Chihaya",
+   "en": "The High Priestess card...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_30_01#1",
+   "speaker": "Chihaya",
+   "en": "It seems you will greatly benefit from taking[n]actions that will increase your Knowledge.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_C10_KAIUN_30_02#0",
+   "speaker": null,
+   "en": "Your Knowledge is more[n]likely to increase today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_30_03#0",
+   "speaker": "Chihaya",
+   "en": "It seems you will greatly benefit from taking[n]actions that will increase your Knowledge.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_30_03#1",
+   "speaker": "Chihaya",
+   "en": "Don't forget, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_31_01#0",
+   "speaker": "Chihaya",
+   "en": "The Fool card...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_31_01#1",
+   "speaker": "Chihaya",
+   "en": "It seems you will greatly benefit from taking[n]actions that will increase your Guts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_C10_KAIUN_31_02#0",
+   "speaker": null,
+   "en": "Your Guts are more likely[n]to increase today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_31_03#0",
+   "speaker": "Chihaya",
+   "en": "It seems you will greatly benefit from taking[n]actions that will increase your Guts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_31_03#1",
+   "speaker": "Chihaya",
+   "en": "Don't forget, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_32_01#0",
+   "speaker": "Chihaya",
+   "en": "The Temperance card...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_32_01#1",
+   "speaker": "Chihaya",
+   "en": "It seems you will greatly benefit from taking[n]actions that will increase your Proficiency.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_C10_KAIUN_32_02#0",
+   "speaker": null,
+   "en": "Your Proficiency is more likely[n]to increase today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_32_03#0",
+   "speaker": "Chihaya",
+   "en": "It seems you will greatly benefit from taking[n]actions that will increase your Proficiency.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_32_03#1",
+   "speaker": "Chihaya",
+   "en": "Don't forget, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_33_01#0",
+   "speaker": "Chihaya",
+   "en": "The Hierophant card...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_33_01#1",
+   "speaker": "Chihaya",
+   "en": "It seems you will greatly benefit from taking[n]actions that will increase your Kindness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_C10_KAIUN_33_02#0",
+   "speaker": null,
+   "en": "Your Kindness is more likely[n]to increase today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_33_03#0",
+   "speaker": "Chihaya",
+   "en": "It seems you will greatly benefit from taking[n]actions that will increase your Kindness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_33_03#1",
+   "speaker": "Chihaya",
+   "en": "Don't forget, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_34_01#0",
+   "speaker": "Chihaya",
+   "en": "The Devil card...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_34_01#1",
+   "speaker": "Chihaya",
+   "en": "It seems you will greatly benefit from taking[n]actions that will increase your Charm.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_C10_KAIUN_34_02#0",
+   "speaker": null,
+   "en": "Your Charm is more likely[n]to increase today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_34_03#0",
+   "speaker": "Chihaya",
+   "en": "It seems you will greatly benefit from taking[n]actions that will increase your Charm.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_34_03#1",
+   "speaker": "Chihaya",
+   "en": "Don't forget, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_40_00#0",
+   "speaker": "Chihaya",
+   "en": "That's all for today's improvement reading.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KAIUN_40_03#0",
+   "speaker": "Chihaya",
+   "en": "You may get a different result tomorrow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNMEI_00_00#0",
+   "speaker": "Chihaya",
+   "en": "There's someone who wants to know his or[n]her fate with you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNMEI_00_00#1",
+   "speaker": "Chihaya",
+   "en": "Now... Please think hard about that[n]person...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C10_UNMEI_00_01#0",
+   "speaker": null,
+   "en": "Let's think of someone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_JINSEI_00_02#0",
+   "speaker": "Chihaya",
+   "en": "Your aura looks great.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_JINSEI_00_02#1",
+   "speaker": "Chihaya",
+   "en": "You've have formed good relationships.[n]You don't have anything to worry about!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TITLE_C10_UNMEI_MENU#0",
+   "speaker": null,
+   "en": "Special Fate Reading",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_UNMEI_SEL_00#0",
+   "speaker": null,
+   "en": "Ryuji[ref 0 11]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_UNMEI_SEL_00#1",
+   "speaker": null,
+   "en": "Ann[ref 1 10]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_UNMEI_SEL_00#2",
+   "speaker": null,
+   "en": "Yusuke[ref 2 8]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_UNMEI_SEL_00#3",
+   "speaker": null,
+   "en": "Makoto[ref 3 6]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_UNMEI_SEL_00#4",
+   "speaker": null,
+   "en": "Futaba[ref 4 13]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_UNMEI_SEL_00#5",
+   "speaker": null,
+   "en": "Haru[ref 5 7]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_UNMEI_SEL_00#6",
+   "speaker": null,
+   "en": "Akechi[ref 6 12]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_UNMEI_SEL_00#7",
+   "speaker": null,
+   "en": "Sojiro[ref 7 9]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_UNMEI_SEL_00#8",
+   "speaker": null,
+   "en": "Chihaya[ref 8 14]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_UNMEI_SEL_00#9",
+   "speaker": null,
+   "en": "Iwai[ref 9 15]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_UNMEI_SEL_00#10",
+   "speaker": null,
+   "en": "Takemi[ref 10 16]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_UNMEI_SEL_00#11",
+   "speaker": null,
+   "en": "Kawakami[ref 11 17]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_UNMEI_SEL_00#12",
+   "speaker": null,
+   "en": "Ohya[ref 12 18]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_UNMEI_SEL_00#13",
+   "speaker": null,
+   "en": "Shinya[ref 13 19]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_UNMEI_SEL_00#14",
+   "speaker": null,
+   "en": "Hifumi[ref 14 20]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_UNMEI_SEL_00#15",
+   "speaker": null,
+   "en": "Mishima[ref 15 21]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_UNMEI_SEL_00#16",
+   "speaker": null,
+   "en": "Yoshida[ref 16 22]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_UNMEI_SEL_00#17",
+   "speaker": null,
+   "en": " [sumi 10 0][ref 17 23] ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_UNMEI_SEL_00#18",
+   "speaker": null,
+   "en": "Maruki[ref 18 24]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_UNMEI_SEL_00#19",
+   "speaker": null,
+   "en": "Igor[ref 19 25]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_UNMEI_SEL_00#20",
+   "speaker": null,
+   "en": "Morgana[ref 20 26]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_UNMEI_SEL_00#21",
+   "speaker": null,
+   "en": "Velvet Room Twins[ref 21 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNMEI_10_00#0",
+   "speaker": "Chihaya",
+   "en": "Looks like you have someone on your[n]mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNMEI_10_00#1",
+   "speaker": "Chihaya",
+   "en": "Oh, this reading will cost you[n][clr 2][var 0] yen[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_UNMEI_10_01#0",
+   "speaker": null,
+   "en": "Have fortune read",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_UNMEI_10_01#1",
+   "speaker": null,
+   "en": "Don't have fortune read",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNMEI_10_02#0",
+   "speaker": "Morgana",
+   "en": "Hey, you don't have that much[n]money. You'll have to pass on[n]having your fortune read for now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNMEI_10_03#0",
+   "speaker": "Chihaya",
+   "en": "You don't want a reading?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNMEI_20_00#0",
+   "speaker": "Chihaya",
+   "en": "Okay, heeere I gooo...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNMEI_20_01#0",
+   "speaker": "Chihaya",
+   "en": "Hm... Hmmm... Hmmmmmm...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNMEI_20_02#0",
+   "speaker": "Chihaya",
+   "en": "Thank you for waiting. I think I can[n]read the other person's heart now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_C10_UNMEI_30_02#0",
+   "speaker": null,
+   "en": "You can view a part of[n]Confidant Abilities in[n]the Camp menu.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNMEI_20_03#0",
+   "speaker": "Chihaya",
+   "en": "You already had your fate read. It's taboo to[n]ask the cards the same thing over and over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNMEI_20_03#1",
+   "speaker": "Chihaya",
+   "en": "Okay, I'll see you again soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNMEI_20_04#0",
+   "speaker": "Chihaya",
+   "en": "...You're thinking of the same person I[n]already did a fate reading on, aren't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNMEI_20_04#1",
+   "speaker": "Chihaya",
+   "en": "I can only do one fate reading per person.[n]Please think of someone else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNMEI_20_05#0",
+   "speaker": "Chihaya",
+   "en": "...I think you already understand this[n]person's heart very well. A fortune[n]reading won't tell you anything new.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_UNMEI_20_05#1",
+   "speaker": "Chihaya",
+   "en": "I can read your fortune with someone[n]else, though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_AISHO_00_00#0",
+   "speaker": "Chihaya",
+   "en": "This reading will cost you[n][clr 2][var 0] yen[clr 27]. Is that okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_AISHO_00_01#0",
+   "speaker": null,
+   "en": "Have fortune read",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_AISHO_00_01#1",
+   "speaker": null,
+   "en": "Don't have fortune read",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_AISHO_10_00#0",
+   "speaker": "Morgana",
+   "en": "Hey, you don't have that much money.[n]You'll have to pass on having your[n]fortune read for now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_AISHO_10_01#0",
+   "speaker": "Chihaya",
+   "en": "You don't want a reading?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_AISHO_20_00#0",
+   "speaker": "Chihaya",
+   "en": "Please think about someone you want[n]to become closer with.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TITLE_C10_AISHO_MENU_00#0",
+   "speaker": null,
+   "en": "Affinity Reading",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_AISHO_SEL_00#0",
+   "speaker": null,
+   "en": "Ryuji[ref 0 11]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_AISHO_SEL_00#1",
+   "speaker": null,
+   "en": "Ann[ref 1 10]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_AISHO_SEL_00#2",
+   "speaker": null,
+   "en": "Yusuke[ref 2 8]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_AISHO_SEL_00#3",
+   "speaker": null,
+   "en": "Makoto[ref 3 6]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_AISHO_SEL_00#4",
+   "speaker": null,
+   "en": "Futaba[ref 4 13]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_AISHO_SEL_00#5",
+   "speaker": null,
+   "en": "Haru[ref 5 7]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_AISHO_SEL_00#6",
+   "speaker": null,
+   "en": "Akechi[ref 6 12]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_AISHO_SEL_00#7",
+   "speaker": null,
+   "en": "Sojiro[ref 7 9]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_AISHO_SEL_00#8",
+   "speaker": null,
+   "en": "Chihaya[ref 8 14]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_AISHO_SEL_00#9",
+   "speaker": null,
+   "en": "Iwai[ref 9 15]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_AISHO_SEL_00#10",
+   "speaker": null,
+   "en": "Takemi[ref 10 16]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_AISHO_SEL_00#11",
+   "speaker": null,
+   "en": "Kawakami[ref 11 17]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_AISHO_SEL_00#12",
+   "speaker": null,
+   "en": "Ohya[ref 12 18]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_AISHO_SEL_00#13",
+   "speaker": null,
+   "en": "Shinya[ref 13 19]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_AISHO_SEL_00#14",
+   "speaker": null,
+   "en": "Hifumi[ref 14 20]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_AISHO_SEL_00#15",
+   "speaker": null,
+   "en": "Mishima[ref 15 21]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_AISHO_SEL_00#16",
+   "speaker": null,
+   "en": "Yoshida[ref 16 22]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_AISHO_SEL_00#17",
+   "speaker": null,
+   "en": " [sumi 10 0][ref 17 23] ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_AISHO_SEL_00#18",
+   "speaker": null,
+   "en": "Maruki[ref 18 24]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_AISHO_20_01#0",
+   "speaker": "Chihaya",
+   "en": "Okay, heeere I gooo...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_AISHO_20_02#0",
+   "speaker": "Chihaya",
+   "en": "Hm... Hmmm... Hmmmmmm...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_AISHO_20_03#0",
+   "speaker": "Chihaya",
+   "en": "Didn't I already read your compatibility[n]fortune? It's taboo to ask the cards the[n]same thing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_AISHO_20_03#1",
+   "speaker": "Chihaya",
+   "en": "Please come see me again sometime[n]after today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_AISHO_30_01#0",
+   "speaker": "Chihaya",
+   "en": "Your feelings should have reached the[n]other person.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_AISHO_40_00#0",
+   "speaker": "Chihaya",
+   "en": "Hm, I bet you can deepen your friendship[n]even further now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_AISHO_50_00#0",
+   "speaker": "Chihaya",
+   "en": "Well, that's all for today.[n]I hope it was helpful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KINUN_00_00#0",
+   "speaker": "Chihaya",
+   "en": "Reading your money fortune will[n]cost you [clr 2][var 0] yen[clr 27].[n]Is that okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KINUN_00_01#0",
+   "speaker": null,
+   "en": "Have fortune read",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KINUN_00_01#1",
+   "speaker": null,
+   "en": "Don't have fortune read",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KINUN_10_00#0",
+   "speaker": "Morgana",
+   "en": "Hey, you don't have that much[n]money. You'll have to pass on[n]having your fortune read for now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KINUN_10_01#0",
+   "speaker": "Chihaya",
+   "en": "You don't want your fortune read?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KINUN_20_00#0",
+   "speaker": "Chihaya",
+   "en": "Okay, let's read your money fortune.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KINUN_20_01#0",
+   "speaker": "Chihaya",
+   "en": "Hm... Hmmm... Hmmmmmm...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KINUN_20_02#0",
+   "speaker": "Chihaya",
+   "en": "But didn't I read your money fortune[n]last time?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KINUN_20_02#1",
+   "speaker": "Chihaya",
+   "en": "Your reading result is...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KINUN_30_01#0",
+   "speaker": "Chihaya",
+   "en": "Hm... fate... Is this... money...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KINUN_30_01#1",
+   "speaker": "Chihaya",
+   "en": "This tells me that, ultimately, you'll obtain[n]more money than usual.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KINUN_30_01#2",
+   "speaker": "Chihaya",
+   "en": "Hopefully you have a payday coming soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_C10_KINUN_30_02#0",
+   "speaker": null,
+   "en": "The money received when you win[n]a battle with an All-Out Attack[n]will increase today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KINUN_30_03#0",
+   "speaker": "Chihaya",
+   "en": "You will receive more money than usual[n]if you devote yourself to battle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KINUN_30_03#1",
+   "speaker": "Chihaya",
+   "en": "Remember that, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KINUN_40_00#0",
+   "speaker": "Chihaya",
+   "en": "That's all for today's money fortune reading.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KINUN_40_03#0",
+   "speaker": "Chihaya",
+   "en": "That's the result of today's money[n]fortune reading.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KINUN_40_10#0",
+   "speaker": "Chihaya",
+   "en": "I'm sorry. Money fortunes can only be[n]read when it's bright.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_KINUN_40_10#1",
+   "speaker": "Chihaya",
+   "en": "I have to use the sun's power to[n]channel Apollo's light, so please[n]stop by during the day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_ALERT_00_00#0",
+   "speaker": "Chihaya",
+   "en": "Reading your celestial fortune will[n]cost you [clr 2][var 0] yen[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_ALERT_00_01#0",
+   "speaker": null,
+   "en": "Have fortune read",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_ALERT_00_01#1",
+   "speaker": null,
+   "en": "Don't have fortune read",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_ALERT_10_00#0",
+   "speaker": "Morgana",
+   "en": "Hey, you don't have that much[n]money. You'll have to pass on[n]having your fortune read for now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_ALERT_10_01#0",
+   "speaker": "Chihaya",
+   "en": "You don't want your fortune read?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_ALERT_20_00#0",
+   "speaker": "Chihaya",
+   "en": "Well, let's get started.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_ALERT_20_01#0",
+   "speaker": "Chihaya",
+   "en": "Hm... Hmmm... Hmmmmmm...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_ALERT_20_02#0",
+   "speaker": "Chihaya",
+   "en": "I already read that fortune. Did you[n]forget it already?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_ALERT_20_02#1",
+   "speaker": "Chihaya",
+   "en": "Your fortune is...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_ALERT_30_01#0",
+   "speaker": "Chihaya",
+   "en": "Hm... a Strength card... and a red light...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_ALERT_30_01#1",
+   "speaker": "Chihaya",
+   "en": "You might feel restless today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_ALERT_30_01#2",
+   "speaker": "Chihaya",
+   "en": "But that might be a cue for you to[n]be bold, and take on a challenge.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_C10_ALERT_30_02#0",
+   "speaker": null,
+   "en": "Today, the Fusion Alarm will sound[n]once in the Velvet Room, with[n]high chances of more alarms.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_ALERT_30_03#0",
+   "speaker": "Chihaya",
+   "en": "When you enter a battle, you may[n]experience even greater[n]growth than usual.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_ALERT_30_03#1",
+   "speaker": "Chihaya",
+   "en": "Remember that, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_ALERT_40_00#0",
+   "speaker": "Chihaya",
+   "en": "That's all for today's celestial reading.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_ALERT_40_03#0",
+   "speaker": "Chihaya",
+   "en": "That's the result of today's celestial reading.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_ALERT_40_10#0",
+   "speaker": "Chihaya",
+   "en": "I'm sorry. Special heavenly readings can[n]only be read when it's bright out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_ALERT_40_10#1",
+   "speaker": "Chihaya",
+   "en": "I have to use the sun's power to[n]channel Apollo's light, so please[n]stop by during the day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_ALERT_40_11#0",
+   "speaker": "Chihaya",
+   "en": "Mmm, in your current state of mind,[n]that reading might turn out to be[n]ineffective...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_ALERT_40_11#1",
+   "speaker": "Chihaya",
+   "en": "Try to relax for today, and we can[n]always attempt it later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SECRETS_00_00#0",
+   "speaker": "Chihaya",
+   "en": "Getting a special bond reading will[n]cost you [clr 2][var 0] yen[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SECRETS_00_01#0",
+   "speaker": null,
+   "en": "Have fortune read",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SECRETS_00_01#1",
+   "speaker": null,
+   "en": "Don't have fortune read",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SECRETS_10_00#0",
+   "speaker": "Morgana",
+   "en": "...You don't have any money...? Let's save[n]the reading for another time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SECRETS_10_01#0",
+   "speaker": "Chihaya",
+   "en": "You don't want your fortune read...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SECRETS_20_00#0",
+   "speaker": "Chihaya",
+   "en": "Well, allow me to read your affinity...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SECRETS_20_01#0",
+   "speaker": "Chihaya",
+   "en": "Hm... Hmmm... Hmmmmmm...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SECRETS_20_02#0",
+   "speaker": "Chihaya",
+   "en": "I already gave your special bond reading[n]today, didn't I?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SECRETS_20_02#1",
+   "speaker": "Chihaya",
+   "en": "Your reading result is...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SECRETS_30_01#0",
+   "speaker": "Chihaya",
+   "en": "Oh my! The Sun card!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SECRETS_30_01#1",
+   "speaker": "Chihaya",
+   "en": "Today is a special day! You will have[n]incredible insight into another[n]person's heart!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SECRETS_30_01#2",
+   "speaker": "Chihaya",
+   "en": "I highly suggest you take the day[n]to deepen your relationships.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_C10_SECRETS_30_02#0",
+   "speaker": null,
+   "en": "Today, dialogue choices that will[n]most deepen your relationship with[n]Confidants will be highlighted.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SECRETS_30_03#0",
+   "speaker": "Chihaya",
+   "en": "Today is a special day! You will have[n]incredible insight into another[n]person's heart!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SECRETS_30_03#1",
+   "speaker": "Chihaya",
+   "en": "Remember that, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_SECRETS_40_00#0",
+   "speaker": "Chihaya",
+   "en": "That is all for today's special bond[n]reading. I wish you a wonderful[n]rest of your day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_00#0",
+   "speaker": "Chihaya",
+   "en": "Oh, you came.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_00#1",
+   "speaker": "Chihaya",
+   "en": "I'm going to be lonely here since[n]you're leaving tomorrow, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_00#2",
+   "speaker": "Chihaya",
+   "en": "...I'll work hard so I will continue to[n]grow while I wait for you to return.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_BYEGREET_00_01#0",
+   "speaker": null,
+   "en": "I like your positivity.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_BYEGREET_00_01#1",
+   "speaker": null,
+   "en": "I'll come back to visit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_BYEGREET_00_01#2",
+   "speaker": null,
+   "en": "I'll continue to grow too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_02#0",
+   "speaker": "Chihaya",
+   "en": "Well... you taught me that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_03#0",
+   "speaker": "Chihaya",
+   "en": "That makes me happy...[n]I'm looking forward to it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_04#0",
+   "speaker": "Chihaya",
+   "en": "Oh, is that so! Well, in that case,[n]I should work extra hard.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_05#0",
+   "speaker": "Chihaya",
+   "en": "I've been receiving encouragement[n]from my clients lately.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_05#1",
+   "speaker": "Chihaya",
+   "en": "Even when I thought I had hit a dead-end,[n]I realized that it was essential in the long run.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_05#2",
+   "speaker": "Chihaya",
+   "en": "So... maybe the reason I left my village[n]was to meet you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_05#3",
+   "speaker": "Chihaya",
+   "en": "This card reveals your fate. Please keep it[n]as a good luck charm.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_06#0",
+   "speaker": "Chihaya",
+   "en": "The upright \"Fortune\" card dictates[n]that happiness is on the way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_06#1",
+   "speaker": "Chihaya",
+   "en": "If I'm being honest with myself, I want to be[n]with you forever, but you're still a student...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_06#2",
+   "speaker": "Chihaya",
+   "en": "However, once you graduate from[n]high school...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_06#3",
+   "speaker": "Chihaya",
+   "en": "I'll be the one who takes your fate...[n]Just kidding.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_07#0",
+   "speaker": "Chihaya",
+   "en": "I'll be the one who takes your fate...[n]Just kidding.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_01_00#0",
+   "speaker": "Chihaya",
+   "en": "Oh!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_01_00#1",
+   "speaker": "Chihaya",
+   "en": "It's exactly as the cards said...[n]You came to visit me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_01_00#2",
+   "speaker": "Chihaya",
+   "en": "...In your current state, you should be fine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_BYEGREET_01_01#0",
+   "speaker": null,
+   "en": "Glad to hear that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_BYEGREET_01_01#1",
+   "speaker": null,
+   "en": "You read my fortune?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_BYEGREET_01_01#2",
+   "speaker": null,
+   "en": "You'll be fine too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_01_02#0",
+   "speaker": "Chihaya",
+   "en": "Be sure to relax once you're home,[n]to make up for all the hard work you[n]did here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_01_03#0",
+   "speaker": "Chihaya",
+   "en": "Yes, I was worried about you, so...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_01_04#0",
+   "speaker": "Chihaya",
+   "en": "Ahaha... Well, if you're the one saying[n]that then it must be true.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_01_05#0",
+   "speaker": "Chihaya",
+   "en": "I've been receiving encouragement[n]from my clients lately.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_01_05#1",
+   "speaker": "Chihaya",
+   "en": "It's rather strange since I should be[n]encouraging them... but I can feel[n]myself improving.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_01_05#2",
+   "speaker": "Chihaya",
+   "en": "This card reveals your fate. Please keep it[n]as a good luck charm.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_01_06#0",
+   "speaker": "Chihaya",
+   "en": "The upright \"Fortune\" card dictates[n]that happiness is on the way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_01_06#1",
+   "speaker": "Chihaya",
+   "en": "So, please live your life the way[n]you want to.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_01_06#2",
+   "speaker": "Chihaya",
+   "en": "I'm proud... to have a comrade like you...[n]I'm glad I was able to tell you that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_01_07#0",
+   "speaker": "Chihaya",
+   "en": "I'm proud... to have a comrade like you...[n]I'm glad I was able to tell you that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_00_5#0",
+   "speaker": "Chihaya",
+   "en": "Oh, you came.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_00_5#1",
+   "speaker": "Chihaya",
+   "en": "I'm going to be lonely here since[n]you're leaving tomorrow, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_00_5#2",
+   "speaker": "Chihaya",
+   "en": "...I'll work hard so I will continue to grow[n]while I wait for you to return.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_BYEGREET_00_01_5#0",
+   "speaker": null,
+   "en": "I like your positivity.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_BYEGREET_00_01_5#1",
+   "speaker": null,
+   "en": "I'll come back to visit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_BYEGREET_00_01_5#2",
+   "speaker": null,
+   "en": "I'll continue to grow too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_02_5#0",
+   "speaker": "Chihaya",
+   "en": "Well... you taught me that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_03_5#0",
+   "speaker": "Chihaya",
+   "en": "That makes me happy...[n]I'm looking forward to it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_04_5#0",
+   "speaker": "Chihaya",
+   "en": "Oh, is that so! Well, in that case,[n]I should work extra hard.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_05_5#0",
+   "speaker": "Chihaya",
+   "en": "I've been receiving encouragement[n]from my clients lately.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_05_5#1",
+   "speaker": "Chihaya",
+   "en": "I've realized... what may first seem like[n]an obstacle can actually be a valuable,[n]meaningful stepping stone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_05_5#2",
+   "speaker": "Chihaya",
+   "en": "If I hadn't left my hometown and ended[n]up here, I couldn't have used my powers[n]to help people.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_05_5#3",
+   "speaker": "Chihaya",
+   "en": "And... more importantly, I'd never[n]have met you, [lName]-san.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_05_5#4",
+   "speaker": "Chihaya",
+   "en": "Here—this card represents your future.[n]Please, take it as a good luck charm.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_06_5#0",
+   "speaker": "Chihaya",
+   "en": "An upright Fortune card represents[n]happiness to come, but it's an omen[n]of doom when reversed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_06_5#1",
+   "speaker": "Chihaya",
+   "en": "Then again, it seems like you have[n]the power to bring joy to anyone's[n]fate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_06_5#2",
+   "speaker": "Chihaya",
+   "en": "I understand now. We don't have to[n]cling to fate—we can change it with[n]our own hands.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_06_5#3",
+   "speaker": "Chihaya",
+   "en": "So... look, I ain't gonna wait 'til the[n]cows come home! You take too long,[n]I'll come getcha myself, dagnabbit!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_00_07_5#0",
+   "speaker": "Chihaya",
+   "en": "So... look, I ain't gonna wait 'til the[n]cows come home! You take too long,[n]I'll come getchu myself, dagnabbit!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_01_00_5#0",
+   "speaker": "Chihaya",
+   "en": "Oh!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_01_00_5#1",
+   "speaker": "Chihaya",
+   "en": "It's exactly as the cards said...[n]You came to visit me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_01_00_5#2",
+   "speaker": "Chihaya",
+   "en": "...In your current state, you should be fine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_BYEGREET_01_01_5#0",
+   "speaker": null,
+   "en": "Glad to hear that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_BYEGREET_01_01_5#1",
+   "speaker": null,
+   "en": "You read my fortune?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C10_BYEGREET_01_01_5#2",
+   "speaker": null,
+   "en": "You'll be fine too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_01_02_5#0",
+   "speaker": "Chihaya",
+   "en": "Please be sure to relax once you're home,[n]to make up for all the hard work you[n]did here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_01_03_5#0",
+   "speaker": "Chihaya",
+   "en": "Yes, I was worried about you, so...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_01_04_5#0",
+   "speaker": "Chihaya",
+   "en": "Ahaha... Well, if you're the one saying[n]that then it must be true.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_01_05_5#0",
+   "speaker": "Chihaya",
+   "en": "I've been receiving encouragement[n]from my clients lately.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_01_05_5#1",
+   "speaker": "Chihaya",
+   "en": "Even though I should be the one[n]encouraging them. Strange, isn't it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_01_05_5#2",
+   "speaker": "Chihaya",
+   "en": "But perhaps that's the truest form[n]of fortune telling there is...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_01_05_5#3",
+   "speaker": "Chihaya",
+   "en": "Mutually encouraging each other to[n]find happiness, in a world full of[n]tangled, painful fates...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_01_05_5#4",
+   "speaker": "Chihaya",
+   "en": "It's the kind of comfort I've always[n]hoped to provide in my readings.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_01_05_5#5",
+   "speaker": "Chihaya",
+   "en": "Here—this card represents your future.[n]Please, take it as a good luck charm.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_01_06_5#0",
+   "speaker": "Chihaya",
+   "en": "An upright Fortune card represents[n]happiness to come, but it's an omen[n]of doom when reversed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_01_06_5#1",
+   "speaker": "Chihaya",
+   "en": "But I know you'll carry on with the[n]same conviction you've always had.[n]You were never one to fear the future.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_01_06_5#2",
+   "speaker": "Chihaya",
+   "en": "That's how you manage to bring[n]joy to any fate. So...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_01_06_5#3",
+   "speaker": "Chihaya",
+   "en": "I'm sure we'll meet again. Though...[n]that's not based on any augury.[n]Just a personal wish.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C10_BYEGREET_01_07_5#0",
+   "speaker": "Chihaya",
+   "en": "I'm sure we'll meet again. Though...[n]that's not based on any augury.[n]Just a personal wish.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

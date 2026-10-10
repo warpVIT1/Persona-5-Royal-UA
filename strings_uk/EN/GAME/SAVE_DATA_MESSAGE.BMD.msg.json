@@ -1,0 +1,173 @@
+{
+ "file": "EN/GAME/SAVE_DATA_MESSAGE.BMD",
+ "entries": [
+  {
+   "id": "MSG_SYUKAI_CHECK_001#0",
+   "speaker": null,
+   "en": "In New Game+, you can carry over some of your cleared save[n]data to your new game. The following data can be imported:[n]\\[Personas\\][n][clr 3]The Persona Compendium[clr 27][n][clr 3]Enemy Analysis information[clr 27][n]                  [n]\\[Status\\][n][clr 3]Social Stats[clr 27][n][clr 3]HP and SP increases[clr 27][n][clr 3]Jazz club cocktail effects[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SYUKAI_CHECK_001_1#0",
+   "speaker": null,
+   "en": "                  [n]\\[Items\\][n][clr 3]Equipment[clr 27][n][clr 3]Gun customizations[clr 27][n][clr 3]Skill cards[clr 27][n][clr 3]Dart set[clr 27][n][clr 3]Fishing poles[clr 27][n][clr 3]The Perma-Pick[clr 27][n][clr 3]Money[clr 27][n]\\[Other\\][n][clr 3]Challenge Battle scores/rewards[clr 27][n][clr 3]Stamps collected[clr 27][n][clr 3]Total play time[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SYUKAI_CHECK_001_2#0",
+   "speaker": null,
+   "en": "Would you like to carry over[n]cleared save data?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SYUKAI_CHECK_002#0",
+   "speaker": null,
+   "en": "You will now carry over cleared[n]save data and start the game.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SYUKAI_CHECK_003#0",
+   "speaker": null,
+   "en": "Are you sure you wish to start[n]the game without carrying over[n]cleared save data?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SYUKAI_CHECK_004#0",
+   "speaker": null,
+   "en": "The game will start without[n]carrying over saved clear data.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SYUKAI_CHECK_005#0",
+   "speaker": null,
+   "en": "These special gifts received from your Confidants will also be carried over:[n][clr 3]Farewell Presents[clr 27][n]Some corresponding Confidant abilities will unlock[n]immediately after they become your Confidant again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SYUKAI_CHECK_006#0",
+   "speaker": null,
+   "en": "These special gifts received from your Confidants will also be carried over:[n][clr 3]Christmas Presents[clr 27][n]When you carry a Persona of the same arcana as that Confidant,[n]your bond with that Confidant will deepen even faster.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SYUKAI_CHECK_007#0",
+   "speaker": null,
+   "en": "These special gifts received from your Confidants will also be carried over:[n][clr 3]Christmas Presents[clr 27][n][clr 3]Farewell Presents[clr 27][n]When you carry a Persona of the same arcana as that Confidant,[n]your bond with that Confidant will deepen even faster.[n]Some corresponding Confidant abilities will unlock[n]immediately after they become your Confidant again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SYUKAI_CHECK_SELECT_#0",
+   "speaker": null,
+   "en": "Import cleared data",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SYUKAI_CHECK_SELECT_#1",
+   "speaker": null,
+   "en": "Do not import cleared data",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SYUKAI_CHECK_SELECT__2#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SYUKAI_CHECK_SELECT__2#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_GET_P5_SAVEDATA#0",
+   "speaker": null,
+   "en": "Obtained the [clr 3]Persona 5 Save Data[n]special gift[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_CHECK_P5_SAVEDATA#0",
+   "speaker": null,
+   "en": "You can receive various bonuses by reading Persona 5 save data.[n]Receive bonuses?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_CHECK_P5_SAVEDATA_2#0",
+   "speaker": null,
+   "en": "Unable to detect save data. Try again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_CHECK_P5_SAVEDATA_3#0",
+   "speaker": null,
+   "en": "You can retrieve the save data[n]bonuses at any time by accessing[n]the cardboard box in your room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_CHECK_P5_SAVEDATA_4#0",
+   "speaker": null,
+   "en": "Save data detected. Bonuses can[n]be retrieved by accessing the[n]cardboard box in your room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_CHECK_P5_SAVEDATA_5#0",
+   "speaker": null,
+   "en": "Checking for save data...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_CHECK_P5_SAVEDATA_6#0",
+   "speaker": null,
+   "en": "Connecting to the network...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_CHECK_P5_SAVEDATA_7#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_CHECK_P5_SAVEDATA_7#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_CHECK_P5R_JAPAN_V#0",
+   "speaker": null,
+   "en": "Persona 5 Royal allows for you to experience the game with[n]English or Japanese voices. Please select a voice language.[n]  [n]NOTE: The language can also be changed later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_CHECK_P5R_JAPAN_V_2#0",
+   "speaker": null,
+   "en": "This setting can also be changed in the title screen CONFIG menu.[n]Please keep in mind that toggling between English and Japanese voices[n]can only be done here and not during gameplay.[n]  [n]Once the voice option is toggled and confirmed,[n]your selection will be reflected in all save data.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

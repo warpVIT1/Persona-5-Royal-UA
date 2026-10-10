@@ -1,0 +1,985 @@
+{
+ "file": "EN/FIELD/ENEMY/FEV570_001.BMD",
+ "entries": [
+  {
+   "id": "MSG_NML06_FIND_01_01#0",
+   "speaker": null,
+   "en": "Who's there!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_FIND_01_02#0",
+   "speaker": null,
+   "en": "Hey, you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_FIND_01_03#0",
+   "speaker": null,
+   "en": "You bastards!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_FIND_01_04#0",
+   "speaker": null,
+   "en": "Hmm? Who are you!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_FIND_01_05#0",
+   "speaker": null,
+   "en": "Who are you bastards!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_PURSUE_01_01#0",
+   "speaker": null,
+   "en": "Hey! Wait!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_PURSUE_01_02#0",
+   "speaker": null,
+   "en": "Stop!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_PURSUE_01_03#0",
+   "speaker": null,
+   "en": "Who are you!? Stop!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_PURSUE_01_04#0",
+   "speaker": null,
+   "en": "Hey! Stop!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_PURSUE_01_05#0",
+   "speaker": null,
+   "en": "Wait, you shady bastards!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_LOST_01_01#0",
+   "speaker": null,
+   "en": "Dammit! Where[n]did they go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_LOST_01_02#0",
+   "speaker": null,
+   "en": "Grrr!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_LOST_01_03#0",
+   "speaker": null,
+   "en": "Where did they go!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_LOST_01_04#0",
+   "speaker": null,
+   "en": "Hm!? Where did they[n]disappear to!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_LOST_01_05#0",
+   "speaker": null,
+   "en": "Where'd they go!? Damn it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_NML_01_01#0",
+   "speaker": null,
+   "en": "Nothing out of the[n]ordinary here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_NML_01_02#0",
+   "speaker": null,
+   "en": "No problems detected.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_NML_01_03#0",
+   "speaker": null,
+   "en": "All clear here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_NML_01_04#0",
+   "speaker": null,
+   "en": "No issues at present.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_NML_01_05#0",
+   "speaker": null,
+   "en": "Hmph, no problems at all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_NML_01_06#0",
+   "speaker": null,
+   "en": "Nothing abnormal at[n]the moment. I'll be[n]continuing my patrol now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_NML_01_07#0",
+   "speaker": null,
+   "en": "Everything's clear.[n]Continuing my patrol.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_NML_01_08#0",
+   "speaker": null,
+   "en": "If any intruders think[n]they can get past here,[n]they're sorely mistaken...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_NML_01_09#0",
+   "speaker": null,
+   "en": "I'll just do my job,[n]no matter who comes...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_NML_01_10#0",
+   "speaker": null,
+   "en": "When will they learn[n]how foolish it is to[n]defy the manager.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_ALT_01_01#0",
+   "speaker": null,
+   "en": "Intruders... Just[n]where could they be?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_ALT_01_02#0",
+   "speaker": null,
+   "en": "Where are you hiding!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_ALT_01_03#0",
+   "speaker": null,
+   "en": "I'm going to find[n]you, and I'm going[n]to beat you down...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_ALT_01_04#0",
+   "speaker": null,
+   "en": "Hey! Where are you!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_ALT_01_05#0",
+   "speaker": null,
+   "en": "Dammit! Where are[n]they hiding!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_ALT_01_06#0",
+   "speaker": null,
+   "en": "I will not show mercy[n]to anyone who tries[n]to harm the manager.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_ALT_01_07#0",
+   "speaker": null,
+   "en": "Time to show what the[n]skill of a professional[n]really looks like.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_ALT_01_08#0",
+   "speaker": null,
+   "en": "I'll make sure your[n]death is painless as[n]possible! Just come out!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_ALT_01_09#0",
+   "speaker": null,
+   "en": "No matter how much[n]you cry, some sins[n]can't be forgiven.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_ALT_01_10#0",
+   "speaker": null,
+   "en": "They're not here[n]either... They go[n]somewhere else?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_REPORT_01_01#0",
+   "speaker": null,
+   "en": "There's trouble.[n]I must report this[n]to the manager.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_REPORT_01_02#0",
+   "speaker": null,
+   "en": "I will report this[n]situation to the[n]manager at once.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_REPORT_01_03#0",
+   "speaker": null,
+   "en": "There are suspicious[n]people around here... I[n]must alert the manager.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_REPORT_01_04#0",
+   "speaker": null,
+   "en": "I must tell the manager.[n]These rats can't just do[n]whatever they please.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_REPORT_01_05#0",
+   "speaker": null,
+   "en": "Why you little... I'll[n]have the manager take[n]care of you rats.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_01_#0",
+   "speaker": null,
+   "en": "I won't let my guard[n]down, no matter what.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_01__2#0",
+   "speaker": null,
+   "en": "It doesn't matter who[n]comes... I won't stop[n]guarding this place!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_01__3#0",
+   "speaker": null,
+   "en": "I must succeed in[n]protecting this place[n]today as well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_01__4#0",
+   "speaker": null,
+   "en": "I wonder if just me is[n]enough to protect it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_01__5#0",
+   "speaker": null,
+   "en": "This responsibility is[n]massive... Why do I of all[n]people have to protect it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_01#0",
+   "speaker": null,
+   "en": "Manager, I've discovered[n]intruders! Please give[n]me your instructions!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_01_2#0",
+   "speaker": null,
+   "en": "I've spotted the[n]intruders! Requesting[n]increased security!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_01_3#0",
+   "speaker": null,
+   "en": "I see some problematic[n]customers. What should[n]I do, manager?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_01_4#0",
+   "speaker": null,
+   "en": "I've discovered[n]some rabble-rousers.[n]Requesting backup.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_01_5#0",
+   "speaker": null,
+   "en": "I've found some suspicious[n]guests! What shall I do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_01_0#0",
+   "speaker": null,
+   "en": "Phew... My next job is...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_01_0_2#0",
+   "speaker": null,
+   "en": "I'll show them my[n]stunning card tricks!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_01_0_3#0",
+   "speaker": null,
+   "en": "Intruders? I guess[n]some people don't[n]have any manners...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_01_0_4#0",
+   "speaker": null,
+   "en": "The manager needn't dirty[n]her hands with intruders![n]I'll destroy them myself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_01_0_5#0",
+   "speaker": null,
+   "en": "I can't believe they're[n]gambling their lives away.[n]It's their loss though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_01_0_6#0",
+   "speaker": null,
+   "en": "How interesting that they[n]would put their lives on[n]the betting table...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_01_0_7#0",
+   "speaker": null,
+   "en": "I'm so lucky I get to[n]spend my time with this[n]stimulating game today...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_01_0_8#0",
+   "speaker": null,
+   "en": "Humans keep believing[n]in the power of luck...[n]until they die.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_01_0_9#0",
+   "speaker": null,
+   "en": "This is a different job[n]than usual, but I'm still[n]putting my life at risk...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_01_1#0",
+   "speaker": null,
+   "en": "I thought I heard[n]something... Maybe it was[n]just a coin dropping...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_01_1_2#0",
+   "speaker": null,
+   "en": "I'll take everything[n]the intruders own...[n]their lives included.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_01_1_3#0",
+   "speaker": null,
+   "en": "I hope I get rid of these[n]intruders soon so I can[n]get back to my job...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_01_1_4#0",
+   "speaker": null,
+   "en": "The intruders are gambling[n]their lives away just like[n]the other poor saps here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_01_1_5#0",
+   "speaker": null,
+   "en": "Whoops, all this stress is[n]making my face too rigid.[n]I need to smile more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_01_1_6#0",
+   "speaker": null,
+   "en": "They'll regret coming in[n]here if they thought it[n]was all fun and games...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_01_1_7#0",
+   "speaker": null,
+   "en": "I'll make them regret[n]crossing the manager...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_01_1_8#0",
+   "speaker": null,
+   "en": "A thief's life is worth[n]nothing... I hope they're[n]at least entertaining.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_01_1_9#0",
+   "speaker": null,
+   "en": "Are these intruders[n]really worth risking[n]my life for?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_01_1_10#0",
+   "speaker": null,
+   "en": "Taking advantage of[n]the chaos is such[n]a cowardly move...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_01_2#0",
+   "speaker": null,
+   "en": "I will show them how a[n]real professional plays.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_FIND_02_01#0",
+   "speaker": null,
+   "en": "Who is it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_FIND_02_02#0",
+   "speaker": null,
+   "en": "Intruders!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_FIND_02_03#0",
+   "speaker": null,
+   "en": "There's somebody there!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_FIND_02_04#0",
+   "speaker": null,
+   "en": "What? Who is it!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_FIND_02_05#0",
+   "speaker": null,
+   "en": "Ahhh! Intruders!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_PURSUE_02_01#0",
+   "speaker": null,
+   "en": "Wait!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_PURSUE_02_02#0",
+   "speaker": null,
+   "en": "I won't let you escape!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_PURSUE_02_03#0",
+   "speaker": null,
+   "en": "Intruders! I'm not[n]going to let you go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_PURSUE_02_04#0",
+   "speaker": null,
+   "en": "Hey, intruders!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_PURSUE_02_05#0",
+   "speaker": null,
+   "en": "Wait! Bastards!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_LOST_02_01#0",
+   "speaker": null,
+   "en": "I lost them!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_LOST_02_02#0",
+   "speaker": null,
+   "en": "Where did you go!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_LOST_02_03#0",
+   "speaker": null,
+   "en": "What!? They disappeared...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_LOST_02_04#0",
+   "speaker": null,
+   "en": "They're not here!?[n]Where could they be!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_LOST_02_05#0",
+   "speaker": null,
+   "en": "Those little shits![n]Where are they!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_NML_02_01#0",
+   "speaker": null,
+   "en": "Nothing out of[n]the ordinary.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_NML_02_02#0",
+   "speaker": null,
+   "en": "No shady-looking[n]people around here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_NML_02_03#0",
+   "speaker": null,
+   "en": "Intruders? Definitely[n]not around here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_NML_02_04#0",
+   "speaker": null,
+   "en": "Huh? That person... Nah,[n]must be my imagination.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_NML_02_05#0",
+   "speaker": null,
+   "en": "Hm? Nope, no[n]intruders here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_NML_02_06#0",
+   "speaker": null,
+   "en": "Ughhh, my stocking[n]got snagged...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_NML_02_07#0",
+   "speaker": null,
+   "en": "I can feel people's[n]lecherous eyes on me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_NML_02_08#0",
+   "speaker": null,
+   "en": "How dare you scumbags[n]make more work for me![n]Goddammit!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_NML_02_09#0",
+   "speaker": null,
+   "en": "Punishing people just[n]fills me with the greatest[n]pleasure imaginable...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_NML_02_10#0",
+   "speaker": null,
+   "en": "Oh, intruders! I'm right[n]here waiting for you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_ALT_02_01#0",
+   "speaker": null,
+   "en": "Those intruders...[n]Where are they?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_ALT_02_02#0",
+   "speaker": null,
+   "en": "I'll find the intruders,[n]no matter how hard I[n]have to look for them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_ALT_02_03#0",
+   "speaker": null,
+   "en": "I wonder where they are...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_ALT_02_04#0",
+   "speaker": null,
+   "en": "I need to keep my eyes[n]peeled for intruders...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_ALT_02_05#0",
+   "speaker": null,
+   "en": "I'll find them...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_ALT_02_06#0",
+   "speaker": null,
+   "en": "I wish I could be as cold[n]and cruel as the manager.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_ALT_02_07#0",
+   "speaker": null,
+   "en": "I'll service them so[n]well, the pure ecstasy[n]will kill them...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_ALT_02_08#0",
+   "speaker": null,
+   "en": "They'll beg to me on their[n]hands and knees... but I[n]won't ever forgive them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_ALT_02_09#0",
+   "speaker": null,
+   "en": "Wh-What was that sound!?[n]This is so stressful...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_ALT_02_10#0",
+   "speaker": null,
+   "en": "What's a good punishment?[n]Maybe I'll make them obey[n]me in both body and mind...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_REPORT_02_01#0",
+   "speaker": null,
+   "en": "I'm going to report[n]this to the manager!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_REPORT_02_02#0",
+   "speaker": null,
+   "en": "Just you wait! I'll be[n]telling the manager[n]about this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_REPORT_02_03#0",
+   "speaker": null,
+   "en": "I'm going to report this[n]to the manager so she'll[n]tighten our security!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_REPORT_02_04#0",
+   "speaker": null,
+   "en": "This is unforgivable![n]I will report it to[n]the manager!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_REPORT_02_05#0",
+   "speaker": null,
+   "en": "I-I must report this[n]to the manager at once!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_02_#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_02__2#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_02__3#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_02__4#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_02__5#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_02#0",
+   "speaker": null,
+   "en": "Manager! There are[n]troublesome guests here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_02_2#0",
+   "speaker": null,
+   "en": "Strange guests sighted![n]Please increase security!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_02_3#0",
+   "speaker": null,
+   "en": "There are some problematic[n]targets here! Please give[n]me some orders, manager!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_02_4#0",
+   "speaker": null,
+   "en": "Suspicious persons found![n]Please tighten security!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_02_5#0",
+   "speaker": null,
+   "en": "Some strange people are[n]causing trouble in here![n]Let's increase security!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_02_0#0",
+   "speaker": null,
+   "en": "*sigh* I'm kinda tired.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_02_0_2#0",
+   "speaker": null,
+   "en": "All the stress will be[n]gone from my life once[n]I catch those intruders!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_02_0_3#0",
+   "speaker": null,
+   "en": "I can feel people's[n]lecherous eyes on me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_02_0_4#0",
+   "speaker": null,
+   "en": "These intruders have got[n]to either be dumb kids or[n]bald old men. Gross!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_02_0_5#0",
+   "speaker": null,
+   "en": "The manager will totally[n]give me a raise once I[n]catch these intruders!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_02_0_6#0",
+   "speaker": null,
+   "en": "Ugh... This is[n]such a drag...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_02_0_7#0",
+   "speaker": null,
+   "en": "Am I just supposed to[n]catch these intruders?[n]I can kill them, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_02_0_8#0",
+   "speaker": null,
+   "en": "How dare you scumbags[n]make more work for me![n]Goddammit!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_02_0_9#0",
+   "speaker": null,
+   "en": "Ughhh, my stocking[n]got snagged...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_02_1#0",
+   "speaker": null,
+   "en": "I'll service them so[n]well, the pure ecstasy[n]will kill them...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_02_1_2#0",
+   "speaker": null,
+   "en": "Owww! I guess my heels[n]are a little too high...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_02_1_3#0",
+   "speaker": null,
+   "en": "They'll beg to me on their[n]hands and knees... but I[n]won't ever forgive them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_02_1_4#0",
+   "speaker": null,
+   "en": "Wh-What was that sound!?[n]This is so stressful...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_02_1_5#0",
+   "speaker": null,
+   "en": "Are there really intruders[n]in here? I bet everybody's[n]all paranoid for nothing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_02_1_6#0",
+   "speaker": null,
+   "en": "Punishing people just[n]fills me with the greatest[n]pleasure imaginable...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_02_1_7#0",
+   "speaker": null,
+   "en": "Oh, intruders! I'm right[n]here waiting for you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_02_1_8#0",
+   "speaker": null,
+   "en": "Huh? There's nobody here![n]If you're gonna come in,[n]just come in... Geez...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_02_1_9#0",
+   "speaker": null,
+   "en": "Oh crap, my makeup's[n]running... Ughhh,[n]I'm gonna kill them!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_02_1_10#0",
+   "speaker": null,
+   "en": "What's a good punishment?[n]Maybe I'll make them obey[n]me in both body and mind...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML06_MNLG_FREE_02_2#0",
+   "speaker": null,
+   "en": "I wish I could be as cold[n]and cruel as the manager.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

@@ -1,0 +1,3680 @@
+{
+ "file": "EN/FIELD/NPC/FNPC003_002_00.BF",
+ "entries": [
+  {
+   "id": "WHISPER_WORKER_0410_000#0",
+   "speaker": "Tired Office Worker",
+   "en": "Man, I can't believe all these bizarre[n]incidents lately. What the hell are the[n]police even doing?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WHISPER_WORKER_0410_010#0",
+   "speaker": "Listless Office Worker",
+   "en": "Yeah, they need to get off their asses.[n]Can't have this strangeness hurting[n]my work—I'm a busy man.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WHISPER_WORKER_0410_020#0",
+   "speaker": "Tired Office Worker",
+   "en": "There was another one just recently—[n]guy brought a knife to a concert or[n]something.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WHISPER_WORKER_0410_030#0",
+   "speaker": "Listless Office Worker",
+   "en": "Probably just some dumb kid without[n]a clue in their head. The sort ignored[n]by society.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WHISPER_WORKER_0410_040#0",
+   "speaker": "Tired Office Worker",
+   "en": "Young people these days... Who[n]knows what's going through their[n]heads. It's terrifying, really.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WHISPER_WORKER_0410_050#0",
+   "speaker": "Listless Office Worker",
+   "en": "And none of 'em are hard workers.[n]They just dick around while we bust[n]our asses to pay the bills.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WHISPER_WORKER_0410_001#0",
+   "speaker": "Tired Office Worker",
+   "en": "Man... these bizarre incidents...[n]...the hell... police even doing?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WHISPER_WORKER_0410_011#0",
+   "speaker": "Listless Office Worker",
+   "en": "Yeah... get off their asses...[n]Can't have this... I'm a busy man.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WHISPER_WORKER_0410_021#0",
+   "speaker": "Tired Office Worker",
+   "en": "There was another...[n]guy brought a knife...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WHISPER_WORKER_0410_031#0",
+   "speaker": "Listless Office Worker",
+   "en": "Probably some... dumb kid...[n]...sort ignored by society.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WHISPER_WORKER_0410_041#0",
+   "speaker": "Tired Office Worker",
+   "en": "Young people... What's going...[n]through their heads...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WHISPER_WORKER_0410_051#0",
+   "speaker": "Listless Office Worker",
+   "en": "And none... are hard workers.[n]...just dick around... we bust...[n]our asses...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WHISPER_WORKER_0411_000#0",
+   "speaker": "Young Office Worker",
+   "en": "Holy shit, the train's totally wrecked.[n]There's already pics online.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WHISPER_WORKER_0411_010#0",
+   "speaker": "Middle-Aged Businessman",
+   "en": "And during rush hour... I can only[n]imagine how many people are[n]stranded.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WHISPER_WORKER_0411_020#0",
+   "speaker": "Young Office Worker",
+   "en": "Maybe you should call your wife?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WHISPER_WORKER_0411_030#0",
+   "speaker": "Young Office Worker",
+   "en": "You'll definitely get on her good side[n]if you show her how much you care[n]at a time like this, y'know?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WHISPER_WORKER_0411_040#0",
+   "speaker": "Middle-Aged Businessman",
+   "en": "I wish you'd show that sort of[n]eagerness in your work...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "WHISPER_SALARYMAN_0411_0#0",
+   "speaker": "Exhausted Office Worker",
+   "en": "Gimme a break—I'm tryin' to watch[n]my show. Better not change it to[n]the news, either...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MASTER_grt_00#0",
+   "speaker": null,
+   "en": "I shouldn't go in here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MASTER_TALK_01#0",
+   "speaker": "Sojiro",
+   "en": "Somethin' I can help you with?[n]Either get back to your room[n]or get out of the house.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_GET_BACK#0",
+   "speaker": "Pompous Customer",
+   "en": "Well, I'll be going home then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_001_0_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Ah... So you're the young man[n]who's been lodging here now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_001_0_0#1",
+   "speaker": "Pompous Customer",
+   "en": "I often come here to work.[n]I'm a film critic, you know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_001_0_0#2",
+   "speaker": "Pompous Customer",
+   "en": "I turn my thoughts to the films[n]crafted by legends, all the while[n]enjoying a fine cup of coffee...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_001_0_0#0",
+   "speaker": null,
+   "en": "That's so cool.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_001_0_0#1",
+   "speaker": null,
+   "en": "What are you talking about?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_001_1_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Hahaha. There's no need for you[n]to feel intimidated. Here, in[n]this café, you and I are equals.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_001_2_0#0",
+   "speaker": "Pompous Customer",
+   "en": "I suppose you still aren't quite[n]mature enough to understand.[n]Don't worry though. You will be.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_001_3_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Please, feel free to come and talk[n]whenever you see me here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_001_3_0#1",
+   "speaker": "Pompous Customer",
+   "en": "You're young, so I'm sure it must[n]be incredibly valuable to converse[n]with such a deep thinker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_002_0_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Did you know that there are[n]batting cages in the vicinity?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_002_0_0#1",
+   "speaker": "Pompous Customer",
+   "en": "I fail to see the appeal though.[n]Adults swinging bats, screaming[n]their grievances at society...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_002_0_0#0",
+   "speaker": null,
+   "en": "I want to go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_002_0_0#1",
+   "speaker": null,
+   "en": "That doesn't interest me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_002_1_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Heh. You don't need to relieve[n]your stress like that. Not until[n]the hardships of adulthood.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_002_1_0#1",
+   "speaker": "Pompous Customer",
+   "en": "And you're too old to try becoming[n]a baseball player. Even so, it[n]could be a pleasant distraction.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_002_3_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Heh. I'm envious. If you don't[n]want to go batting, you must not[n]have stress you want to relieve.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_002_3_0#1",
+   "speaker": "Pompous Customer",
+   "en": "I've been suffering hardship with[n]work, you see. The curse of talent[n]is being the object of envy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_002_4_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Visit the batting cages if you're[n]ever free. Though, it's ill-suited[n]to an intellectual like me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_002_4_0#1",
+   "speaker": "Pompous Customer",
+   "en": "Gah...![n]Aggh, my back...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_003_0_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Did you know that you can[n]fathom a person's heart[n]through their art?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_003_0_0#1",
+   "speaker": "Pompous Customer",
+   "en": "Yes, true art expresses the heart,[n]which has much to say. \"A picture[n]is worth a hundred words,\" right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_003_0_0#0",
+   "speaker": null,
+   "en": "I don't really care.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_003_0_0#1",
+   "speaker": null,
+   "en": "Isn't it \"a thousand words\"?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_003_1_0#0",
+   "speaker": "Pompous Customer",
+   "en": "The heart is what gives value to[n]all art. When I critique films,[n]\"heart\" is what I'm looking for.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_003_2_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Ah! True, but geniuses can take[n]a hundred words... and make[n]them feel like a thousand.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_003_3_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Speaking of which, there is a[n]new exhibit by Madarame, that[n]master of the Japanese arts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_003_3_0#1",
+   "speaker": "Pompous Customer",
+   "en": "You should go. I expect that[n]you'd learn a thing or two about[n]what qualifies as true art.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_004_0_0#0",
+   "speaker": "Pompous Customer",
+   "en": "I went to the Madarame exhibit[n]the other day. It's been so long[n]since my heart has been so moved.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_004_0_0#1",
+   "speaker": "Pompous Customer",
+   "en": "I'm not a painting expert, but[n]I can tell his work exudes true[n]artistry that surpasses genres.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_004_0_0#0",
+   "speaker": null,
+   "en": "You're imagining it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_004_0_0#1",
+   "speaker": null,
+   "en": "I don't get it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_004_0_0#2",
+   "speaker": null,
+   "en": "I see, I see.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_004_1_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Ah... It may have been too[n]much to expect normal people[n]like you to understand.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_004_2_0#0",
+   "speaker": "Pompous Customer",
+   "en": "It takes vision and wisdom[n]to recognize genius. Learn to[n]discern true art from the chaff.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_004_3_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Those with poor sensibilities are[n]so shortsighted. They are only[n]capable of criticizing others.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_004_3_0#1",
+   "speaker": "Pompous Customer",
+   "en": "I do wish my film critiques would[n]be read by intellectuals more like[n]myself. It's rather frustrating.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_005_0_0#0",
+   "speaker": "Pompous Customer",
+   "en": "It's pitiable, how a man[n]lauded by society as a great[n]artist has fallen from grace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_005_0_0#1",
+   "speaker": "Pompous Customer",
+   "en": "This just shows that many fail[n]to truly understand what is art.[n]Did you see past Madarame's lies?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_005_0_0#0",
+   "speaker": null,
+   "en": "I was fooled.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_005_0_0#1",
+   "speaker": null,
+   "en": "Did you see past them?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_005_0_0#2",
+   "speaker": null,
+   "en": "I never really cared.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_005_1_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Haha, there's no need to feel[n]discouraged. We learn and grow[n]through experiences like these.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_005_2_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Naturally. I knew it all along.[n]I merely took pity on him for a[n]while. He's an old man, after all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_005_3_0#0",
+   "speaker": "Pompous Customer",
+   "en": "I understand if you feel art is[n]beyond you, but it's good to take[n]an interest in the finer things.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_005_4_0#0",
+   "speaker": "Pompous Customer",
+   "en": "That said, there is no depth[n]to Madarame's work. It is cheap[n]and base, like instant coffee.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_005_4_0#1",
+   "speaker": "Pompous Customer",
+   "en": "Don't fret if these concepts are[n]difficult to grasp. Art is deep[n]and complex... like this coffee.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_006_0_0#0",
+   "speaker": "Pompous Customer",
+   "en": "It's absolutely deplorable how[n]the Phantom Thieves are the[n]talk of the town lately.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_006_0_0#1",
+   "speaker": "Pompous Customer",
+   "en": "You'll understand what I mean[n]when you can see clearly[n]with eyes of truth.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_006_0_0#0",
+   "speaker": null,
+   "en": "Eyes of truth?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_006_0_0#1",
+   "speaker": null,
+   "en": "That sounds stupid.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_006_0_0#2",
+   "speaker": null,
+   "en": "I don't get it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_006_1_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Think of seeing with eyes of[n]truth as training for the heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_006_2_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Do not close your heart in shame[n]of your ignorance. Truth shines[n]its light on open minds.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_006_3_0#0",
+   "speaker": "Pompous Customer",
+   "en": "It seems you've been unable to[n]see with eyes of truth as well,[n]blinded by society's opinions.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_006_4_0#0",
+   "speaker": "Pompous Customer",
+   "en": "In essence, there are two kinds[n]of thieves: the Robin Hood[n]figures, and the mere criminals.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_006_4_0#1",
+   "speaker": "Pompous Customer",
+   "en": "Thieves like Robin Hood rebel[n]against authority. The Phantom[n]Thieves only target individuals.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_006_4_0#2",
+   "speaker": "Pompous Customer",
+   "en": "And so, the Phantom Thieves[n]are nothing more than criminals.[n]It'd be best you remember that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_007_0_0#0",
+   "speaker": "Pompous Customer",
+   "en": "I've heard the Phantom Thieves[n]sent a calling card to the mafia.[n]What do you think of all this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_007_0_0#0",
+   "speaker": null,
+   "en": "It's exciting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_007_0_0#1",
+   "speaker": null,
+   "en": "I don't care.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_007_1_0#0",
+   "speaker": "Pompous Customer",
+   "en": "I can see why they'd resonate[n]with you. Young people tend to[n]gravitate toward romantic ideas.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_007_3_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Hahaha. Ah, to be young.[n]You should take more interest in[n]what's happening in our society.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_007_4_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Allow me to impart some advice.[n]Only intellectuals can find[n]success in life.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_007_4_0#1",
+   "speaker": "Pompous Customer",
+   "en": "I don't mean the crude excesses[n]of wealth or status. Look at me,[n]and see true success personified.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_007_4_0#2",
+   "speaker": "Pompous Customer",
+   "en": "If you wish to achieve such true[n]success for yourself, then it[n]would be my pleasure to guide you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_008_0_0#0",
+   "speaker": "Pompous Customer",
+   "en": "A force that has been a threat[n]to society was destroyed by[n]the Phantom Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_008_0_0#1",
+   "speaker": "Pompous Customer",
+   "en": "It seems that the world will[n]be affected by all this...[n]Don't you think so too?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_008_0_0#0",
+   "speaker": null,
+   "en": "I think so.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_008_0_0#1",
+   "speaker": null,
+   "en": "I don't know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_008_1_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Heh... A refreshingly honest[n]answer. That kind of innocence[n]is a privilege of the young.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_008_3_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Perhaps this is just the tip[n]of the iceberg. Though, there's[n]no need to be pessimistic.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_008_4_0#0",
+   "speaker": "Pompous Customer",
+   "en": "At any rate, they've made a strong[n]impression on the hearts of the people.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_008_4_0#1",
+   "speaker": "Pompous Customer",
+   "en": "If this were a film, the Phantom[n]Thieves got the opening sequence[n]right. Let's see what's next.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_009_0_0#0",
+   "speaker": "Pompous Customer",
+   "en": "I feel like this coffee's flavor[n]is different somehow. Has[n]something happened to Boss?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_009_0_0#1",
+   "speaker": "Pompous Customer",
+   "en": "There is a sadness to it, like[n]tears shed from dreary clouds[n]in the European sky.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_009_0_0#0",
+   "speaker": null,
+   "en": "You're just imagining it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_009_0_0#1",
+   "speaker": null,
+   "en": "The beans were swapped.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_009_0_0#2",
+   "speaker": null,
+   "en": "Is it expired?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_009_1_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Haha, I suppose a child like yourself[n]would fail to comprehend.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_009_2_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Oh? Is this a test? I'll[n]have you know my powers of[n]perception are quite keen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_009_3_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Haha, a little joke, eh? I'm far too[n]perceptive. I would know if that[n]were really the case.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_009_3_0#1",
+   "speaker": "Pompous Customer",
+   "en": "No. It couldn't be...[n]A-At any rate...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_009_4_0#0",
+   "speaker": "Pompous Customer",
+   "en": "One's hidden hesitations and[n]worries subtly, subconsciously,[n]rise to the surface.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_009_4_0#1",
+   "speaker": "Pompous Customer",
+   "en": "The ability to perceive those sensations[n]in art and life is very important. Do you[n]understand?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_010_0_0#0",
+   "speaker": "Pompous Customer",
+   "en": "In nature, summer is a time for[n]the young to come into maturity.[n]Have you been enjoying your youth?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_010_0_0#0",
+   "speaker": null,
+   "en": "Why, of course.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_010_0_0#1",
+   "speaker": null,
+   "en": "Not really...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_010_0_0#2",
+   "speaker": null,
+   "en": "I'm not telling you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_010_1_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Heh... It's truly endearing when a[n]child pretends to be more mature[n]than he really is.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_010_1_0#1",
+   "speaker": "Pompous Customer",
+   "en": "Just be who you are now. Change will[n]inevitably come in your life, anyway.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_010_2_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Ah, yes. The light of youth sometimes[n]casts a deep, dark shadow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_010_2_0#1",
+   "speaker": "Pompous Customer",
+   "en": "This is a time of growth for you.[n]It would be a shame if you let[n]it go by without learning from it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_010_3_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Ah, I can't blame you. Perhaps your[n]life mirrors that of a teen comedy or[n]romance film.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_010_3_0#1",
+   "speaker": "Pompous Customer",
+   "en": "Life is short, like a good film. Be sure that[n]you enjoy each moment to the fullest.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_010_4_0#0",
+   "speaker": "Pompous Customer",
+   "en": "I expect to be quite busy soon. There[n]are many films that I need to critique.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_010_4_0#1",
+   "speaker": "Pompous Customer",
+   "en": "Heh. I'm looking forward to being[n]deeply moved by what the legends[n]wanted to express through film.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_011_0_0#0",
+   "speaker": "Pompous Customer",
+   "en": "I hear that the Phantom Thieves[n]defeated that notorious hacker group.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_011_0_0#1",
+   "speaker": "Pompous Customer",
+   "en": "It's as if heroes from the movie screen[n]have burst forth into real life. Bravo!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_011_0_0#2",
+   "speaker": "Pompous Customer",
+   "en": "Of course, despite public doubt,[n]the Phantom Thieves proved to be[n]true heroes. I knew it all along.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_011_0_0#0",
+   "speaker": null,
+   "en": "I don't believe you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_011_0_0#1",
+   "speaker": null,
+   "en": "I'm impressed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_011_0_0#2",
+   "speaker": null,
+   "en": "I'm not interested.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_011_1_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Ah, I criticized them before, but[n]that was always intended to be[n]a prelude to praise, you see.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_011_1_0#1",
+   "speaker": "Pompous Customer",
+   "en": "My words, like a classic film trilogy,[n]cannot be fairly judged by the[n]first part alone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_011_2_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Well, seeing the true heart of things[n]is second nature to me. It is my[n]vocation, after all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_011_2_0#1",
+   "speaker": "Pompous Customer",
+   "en": "You should be able to examine[n]things from various perspectives.[n]For this, an open mind is key.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_011_3_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Hm... It's not unusual for young people[n]like you to be drawn to nihilism.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_011_3_0#1",
+   "speaker": "Pompous Customer",
+   "en": "It's an enduring ideology, and[n]many movies have used nihilism[n]as their theme.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_011_4_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Try to observe the Phantom Thieves[n]and the public's response. Where is[n]this fanaticism headed?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_011_4_0#1",
+   "speaker": "Pompous Customer",
+   "en": "You see, in any era, people wish for[n]a hero on whom they project their[n]suppressed desires.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_012_0_0#0",
+   "speaker": "Pompous Customer",
+   "en": "It seems the employees of Okumura[n]Foods are protesting their company's[n]labor policies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_012_0_0#1",
+   "speaker": "Pompous Customer",
+   "en": "The tyranny of the masses can be[n]frustrating, so I can somewhat[n]sympathize with Mr. Okumura.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_012_0_0#0",
+   "speaker": null,
+   "en": "He had it coming.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_012_0_0#1",
+   "speaker": null,
+   "en": "Why?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_012_1_0#0",
+   "speaker": "Pompous Customer",
+   "en": "That's just your assumption. I'm sure[n]some are telling lies, taking advantage[n]of the confusion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_012_2_0#0",
+   "speaker": "Pompous Customer",
+   "en": "In any field or industry, some will[n]tell lies to stir up confusion for their[n]own benefit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_012_3_0#0",
+   "speaker": "Pompous Customer",
+   "en": "You see, I'm being attacked with lies[n]on the internet by miscreants who are[n]jealous of my intellect.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_012_3_0#1",
+   "speaker": "Pompous Customer",
+   "en": "This mindless mob of jackals says[n]such crude things about my film[n]critiques, but I won't lose heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_013_0_0#0",
+   "speaker": "Pompous Customer",
+   "en": "I suppose the world is abuzz with[n]news of that calling card.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_013_0_0#1",
+   "speaker": "Pompous Customer",
+   "en": "I'd like to ask them to target some[n]people I know, too. I deal with far[n]too many ignorant fools.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_013_0_0#0",
+   "speaker": null,
+   "en": "Who are you talking about?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_013_0_0#1",
+   "speaker": null,
+   "en": "Going through a tough time, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_013_1_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Ah, it's those ignoramuses who can[n]only insult me after they fail to[n]comprehend my film critiques.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_013_2_0#0",
+   "speaker": "Pompous Customer",
+   "en": "It seems a film critic ventures alone,[n]shining the light of truth into the[n]darkness of ignorance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_013_3_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Like the Phantom Thieves, I have[n]a policy as well. The masses will[n]never dictate my convictions.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_013_3_0#1",
+   "speaker": "Pompous Customer",
+   "en": "Of course, I know I am alone, thinking[n]this way. But such is my destiny, and[n]I humbly accept it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_014_0_0#0",
+   "speaker": "Pompous Customer",
+   "en": "I wish to ask you something. What[n]do you think about this psychotic[n]breakdown phenomenon?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_014_0_0#0",
+   "speaker": null,
+   "en": "Something's behind it all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_014_0_0#1",
+   "speaker": null,
+   "en": "It's frightening.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_014_0_0#2",
+   "speaker": null,
+   "en": "I don't really know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_014_1_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Yes, only the tip of the iceberg is[n]reported on the news. No one is[n]aware of the truth.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_014_2_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Ah, that's how the masses feel. Very[n]well, I shall reveal to you the truth[n]about the psychotic breakdowns.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_014_3_0#0",
+   "speaker": "Pompous Customer",
+   "en": "I see. Ah, for once, ignorance is bliss.[n]Now that I know the truth, I feel[n]I may be in danger.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_014_4_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Simply put, the psychotic breakdowns[n]are a government conspiracy to[n]destroy humanity.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_014_4_0#1",
+   "speaker": "Pompous Customer",
+   "en": "Oh, the Phantom Thieves are part[n]of it, too. In fact, they were hired[n]by the government all along.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_014_4_0#2",
+   "speaker": "Pompous Customer",
+   "en": "Ah! But you must not reveal this to[n]anyone. You would only incite[n]mass hysteria.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_015_0_0#0",
+   "speaker": "Pompous Customer",
+   "en": "The Phantom Thieves are finished.[n]It's disappointing, but they were[n]nothing but murderers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_015_0_0#1",
+   "speaker": "Pompous Customer",
+   "en": "The only one who can rebuild this[n]rotten world is... that man.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_015_0_0#0",
+   "speaker": null,
+   "en": "They're innocent.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_015_0_0#1",
+   "speaker": null,
+   "en": "What man?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_015_1_0#0",
+   "speaker": "Pompous Customer",
+   "en": "You're still blindly following the[n]Phantom Thieves? They were[n]nothing but a sweet, sinful trap.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_015_2_0#0",
+   "speaker": "Pompous Customer",
+   "en": "With the attention he's getting, you'll[n]know soon enough. He's the real deal.[n]His words have soul...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_015_3_0#0",
+   "speaker": "Pompous Customer",
+   "en": "The Phantom Thieves played Robin[n]Hood, but they committed those[n]crimes just to please themselves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_015_3_0#1",
+   "speaker": "Pompous Customer",
+   "en": "When they're inevitably caught,[n]it'll be a poignant fall from grace,[n]just like in the movies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_016_0_0#0",
+   "speaker": "Pompous Customer",
+   "en": "A horrific drama is unfolding[n]before me. I never expected[n]such a frightening uproar...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_016_0_0#0",
+   "speaker": null,
+   "en": "You mean the elections?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_016_0_0#1",
+   "speaker": null,
+   "en": "Is it the Phantom Thieves?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_016_0_0#2",
+   "speaker": null,
+   "en": "Cheer up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_016_1_0#0",
+   "speaker": "Pompous Customer",
+   "en": "I don't care about that rigged race![n]I'm talking about my blog being[n]attacked!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_016_2_0#0",
+   "speaker": "Pompous Customer",
+   "en": "The Phantom Thieves are old news![n]I'm talking about my blog being[n]attacked!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_016_3_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Gah! I won't be swayed by honeyed[n]words! I won't let you mock the fact[n]that my blog is under attack!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_016_4_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Hmph. All I did was praise my[n]film critiques under another name.[n]Just a little bit of acting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_016_4_0#1",
+   "speaker": "Pompous Customer",
+   "en": "Somehow, the internet found out and[n]hates me now. And the jeers get worse[n]when I explain myself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_016_4_0#2",
+   "speaker": "Pompous Customer",
+   "en": "Perhaps this is a sign. Perhaps I'll[n]move on from critiquing films to[n]the next stage of my career.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_017_0_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Those wonderful Phantom Thieves[n]proved to be true heroes again.[n]Of course, I knew it all along.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_017_0_0#0",
+   "speaker": null,
+   "en": "You're pro-Thieves now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_017_0_0#1",
+   "speaker": null,
+   "en": "You can't stick with anything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_017_1_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Well, no, not really. They did manage to[n]stop all the attacks on my blog though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_017_1_0#1",
+   "speaker": "Pompous Customer",
+   "en": "The internet is so distracted by[n]their comeback, no one has been[n]attacking me for praising myself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_017_3_0#0",
+   "speaker": "Pompous Customer",
+   "en": "I've always believed in the Phantom[n]Thieves. Perhaps my humble nature[n]kept me from vocalizing it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_017_3_0#1",
+   "speaker": "Pompous Customer",
+   "en": "The internet is so distracted by their[n]comeback, no one has been attacking[n]me for praising myself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_017_4_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Ah, their return to heroic form was[n]truly smashing. It's inspired me to be[n]more courageous too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_017_4_0#1",
+   "speaker": "Pompous Customer",
+   "en": "I shall watch what becomes of them[n]while preparing to take dramatic[n]action of my own in my career.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_018_0_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Oh, it's you. It looks like I'm going to be busy[n]soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_018_0_0#1",
+   "speaker": "Pompous Customer",
+   "en": "My blog is doing well, and now I'm being[n]asked to critique many other things besides[n]just movies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_018_1_0#0",
+   "speaker": null,
+   "en": "I don't envy you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_018_1_0#1",
+   "speaker": null,
+   "en": "Good for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_018_2_0#0",
+   "speaker": "Pompous Customer",
+   "en": "I've had a sudden increase in work since the[n]new year started. Of course, that was what I[n]wanted.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_018_3_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Well, it is a lot of work, but it's also an[n]opportunity to spread my proverbial[n]wings as a critic.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_018_4_0#0",
+   "speaker": "Pompous Customer",
+   "en": "There is no greater joy than sharing my[n]thoughts with more readers. I wonder if[n]you can relate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_018_4_0#1",
+   "speaker": "Pompous Customer",
+   "en": "An English poet once said, \"If winter comes,[n]can spring be far behind?\" It appears spring[n]came a tad earlier for me! Hahaha.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_019_0_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Looking back now, I realize how much[n]my thoughts had been preoccupied by[n]the Phantom Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_019_0_0#1",
+   "speaker": "Pompous Customer",
+   "en": "Now they say they weren't even real.[n]What are your thoughts on that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_019_1_0#0",
+   "speaker": null,
+   "en": "They weren't real.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JYORENKYAKU_019_1_0#1",
+   "speaker": null,
+   "en": "They were real.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_019_2_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Then why would the public have made up[n]such a thing? That is the extent to which one[n]must contemplate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_019_2_0#1",
+   "speaker": "Pompous Customer",
+   "en": "I think perhaps it was a reflection of people's[n]desires, that they wanted something like the[n]Phantom Thieves to exist.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_019_3_0#0",
+   "speaker": "Pompous Customer",
+   "en": "I actually think that's a valid opinion. If they[n]were a lie, it would have been made known[n]far earlier.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_019_3_0#1",
+   "speaker": "Pompous Customer",
+   "en": "As outlandish as their heroics may have[n]been, to dismiss them as nothing more[n]than a lie reveals a lack of imagination.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JYORENKYAKU_019_4_0#0",
+   "speaker": "Pompous Customer",
+   "en": "In any case, they are no more. Perhaps I'll[n]be able to focus on my job as a critic.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVANIME_grt_001_0_0#0",
+   "speaker": null,
+   "en": "Strong Robot is launching![n]Requesting assistance!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVANIME_grt_001_0_1#0",
+   "speaker": null,
+   "en": "It-It's moving three times faster than[n]what's normal! So that's why it's called[n]the Pink Meteor...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVANIME_grt_001_0_2#0",
+   "speaker": null,
+   "en": "Very well. Show me what Strong Robot[n]can do...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVDRAMA_grt_001_0_0#0",
+   "speaker": null,
+   "en": "...Whaaat? How curious. The culprit,[n]by my guess, is...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVDRAMA_grt_001_0_1#0",
+   "speaker": null,
+   "en": "Sakyo-san! This is no time to be[n]drinking tea!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVDRAMA_grt_001_0_2#0",
+   "speaker": null,
+   "en": "...And one more thing. Why do you[n]think the murder weapon was a[n]vegetable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_grt_001_0_0#0",
+   "speaker": null,
+   "en": "...The high atmospheric pressure over[n]the entire nation will make for ideal[n]outdoor weather.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_grt_001_0_1#0",
+   "speaker": null,
+   "en": "Next up is sports. We're broadcasting[n]live, and the stadium is packed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_grt_001_0_2#0",
+   "speaker": null,
+   "en": "Steelalis is there for you so when[n]night falls, you won't! Brought to[n]you by Taisho Pharmaceuticals.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_grt_002_0_0#0",
+   "speaker": null,
+   "en": "Do the Phantom Thieves really exist?[n]On our show, we'll examine that[n]possibility.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_grt_002_0_1#0",
+   "speaker": null,
+   "en": "Those calling cards are ridiculous.[n]Just some prank from someone who[n]loves the attention.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_grt_002_0_2#0",
+   "speaker": null,
+   "en": "The police are investigating any link[n]the \"Phantom Thieves\" may have to[n]the incident, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_grt_003_0_0#0",
+   "speaker": null,
+   "en": "The Phantom Thieves fad has exploded[n]from the internet into the general public.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_grt_003_0_1#0",
+   "speaker": null,
+   "en": "The Phantom Thieves are gaining a[n]horde of supporters that anticipate[n]their every move...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_grt_003_0_2#0",
+   "speaker": null,
+   "en": "Phantom Thieves-inspired merchandise[n]is being manufactured at a high pace,[n]and sales are up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_grt_003_0_3#0",
+   "speaker": null,
+   "en": "I understand the appeal behind the[n]Phantom Thieves since the police are[n]seen as disappointing...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_grt_004_0_0#0",
+   "speaker": null,
+   "en": "This special episode exclusively about[n]the Phantom Thieves will explore their[n]appeal and mystique!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_grt_004_0_1#0",
+   "speaker": null,
+   "en": "Phantom Thieves fandom is going on[n]strong around the world, and it's even[n]benefited the economy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_grt_004_0_2#0",
+   "speaker": null,
+   "en": "Support for these modern day[n]Robin Hoods is at a fever pitch!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_jiji_grt_001_#0",
+   "speaker": null,
+   "en": "The cause of the train accident the[n]other day is being investigated...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_jiji_grt_001__2#0",
+   "speaker": null,
+   "en": "There are suspicions that it may be[n]related to the previous series of[n]accidents of unknown cause...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_jiji_grt_002_#0",
+   "speaker": null,
+   "en": "Masaru Kamoshida has made a[n]statement, confessing to all[n]allegations made against him...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_jiji_grt_002__2#0",
+   "speaker": null,
+   "en": "The police are moving toward arresting[n]Mr. Kamoshida as soon as enough[n]evidence is collected...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_jiji_grt_002__3#0",
+   "speaker": null,
+   "en": "It's very shocking that he's suddenly[n]decided to confess these sorts of crimes...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_jiji_grt_003_#0",
+   "speaker": null,
+   "en": "Mr. Madarame's works of art have[n]garnered international acclaim...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_jiji_grt_003__2#0",
+   "speaker": null,
+   "en": "Many attendees have flooded the[n]personal exhibit by Madarame,[n]a modern master...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_jiji_grt_004_#0",
+   "speaker": null,
+   "en": "Mr. Madarame broke down in tears[n]during the press conference...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_jiji_grt_004__2#0",
+   "speaker": null,
+   "en": "The police intend to question Mr.[n]Madrame further in regard to[n]allegations of art fraud...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_jiji_grt_004__3#0",
+   "speaker": null,
+   "en": "A suspicious message has been sent[n]to the exhibition location, addressed[n]to Mr. Madarame...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_jiji_grt_004__4#0",
+   "speaker": null,
+   "en": "We've been informed that a group that[n]calls itself the \"Phantom Thieves\" sent[n]that warning note...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_jiji_grt_004__5#0",
+   "speaker": null,
+   "en": "This surprising confession is similar to[n]what happened to Mr. Kamoshida...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_jiji_grt_005_#0",
+   "speaker": null,
+   "en": "Crime is on the rise in the city of young[n]people, Shibuya. Even the police are[n]at a loss...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_jiji_grt_005__2#0",
+   "speaker": null,
+   "en": "Victims include many young men and[n]women, and sometimes even high[n]school students...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_jiji_grt_005__3#0",
+   "speaker": null,
+   "en": "The people in town can't hide their[n]concern at the growing crime rate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_jiji_grt_006_#0",
+   "speaker": null,
+   "en": "The suspect Kaneshiro has been[n]arrested, and the investigation of[n]this case is ongoing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_jiji_grt_006__2#0",
+   "speaker": null,
+   "en": "Mr. Kaneshiro was a central figure in[n]the criminal syndicates operating in[n]Shibuya...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_jiji_grt_006__3#0",
+   "speaker": null,
+   "en": "Many on the internet believe that his[n]confession was somehow caused by[n]the Phantom Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_jiji_grt_006__4#0",
+   "speaker": null,
+   "en": "It seems that the Phantom Thieves[n]do exist, and they are influencing[n]criminals in some way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_jiji_grt_006__5#0",
+   "speaker": null,
+   "en": "The police are denying any relation that[n]the Phantom Thieves might have...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_jiji_grt_007_#0",
+   "speaker": null,
+   "en": "The international hacktivist group[n]Medjed released a statement earlier...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_jiji_grt_007__2#0",
+   "speaker": null,
+   "en": "Information leaks believed to be[n]caused by Medjed have been[n]occurring one after another...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_jiji_grt_007__3#0",
+   "speaker": null,
+   "en": "They've specifically mentioned the[n]Phantom Thieves, so we'll be watching[n]both groups closely...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_jiji_grt_008_#0",
+   "speaker": null,
+   "en": "Corporations are preoccupied with[n]the aftermath of the information leak[n]caused by Medjed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_jiji_grt_008__2#0",
+   "speaker": null,
+   "en": "Many expect that conflict between[n]hacker organization Medjed and the[n]Phantom Thieves will erupt soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_jiji_grt_008__3#0",
+   "speaker": null,
+   "en": "Welcome to our summer special on[n]the battle of the Phantom Thieves[n]versus the hackers!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_jiji_grt_009_#0",
+   "speaker": null,
+   "en": "Their statement seems to claim victory[n]over the Phantom Thieves, who have[n]shown no activity...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_jiji_grt_010_#0",
+   "speaker": null,
+   "en": "The website of international hacker[n]organization Medjed has been shut[n]down...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVNEWS_jiji_grt_010__2#0",
+   "speaker": null,
+   "en": "Many on the internet opine that this is[n]a sign that Medjed was defeated by the[n]Phantom Thieves...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVSPORTS_grt_001_0_0#0",
+   "speaker": null,
+   "en": "Heisuke Kadota's left leg just seems to[n]be everywhere during this PQD cup[n]preliminary match...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVSPORTS_grt_001_0_1#0",
+   "speaker": null,
+   "en": "Ah, he landed that free kick at a[n]great angle...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVSPORTS_grt_001_0_2#0",
+   "speaker": null,
+   "en": "Goaaaaaal! Kadota scores with his head!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVVARIETY_grt_001_0_#0",
+   "speaker": null,
+   "en": "Gosh, there's so many treasures of the[n]sea here! It's better than a chest fulla[n]jewels!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVVARIETY_grt_001_0__2#0",
+   "speaker": null,
+   "en": "I can taste the flavor of the meat oozing[n]out! It's like my mouth is fillin' up with[n]yummy goodness!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVVARIETY_grt_001_0__3#0",
+   "speaker": null,
+   "en": "Mmm! Land sakes, this sweetness is[n]perfect! Mm, my heart and stomach[n]can't ask for more!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVIGO_grt_001_0_0#0",
+   "speaker": null,
+   "en": "Go software program \"WAKAME\" is[n]now beginning...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVIGO_grt_001_0_1#0",
+   "speaker": null,
+   "en": "White, 14-3, shimari.[n]...Ten seconds, twenty seconds...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TVIGO_grt_001_0_2#0",
+   "speaker": null,
+   "en": "Hashimoto ku-dan has lost twenty[n]matches in a row... He seems to be[n]at a disadvantage.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ROUJIN_RUBLAN_GET_BA#0",
+   "speaker": "Elderly Male Customer",
+   "en": "Hey, thanks. I'll just leave what I[n]owe you here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_001#0",
+   "speaker": "Elderly Male Customer",
+   "en": "I hear it's Golden Week. Though, I guess[n]it doesn't matter to us old folks.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_001_2#0",
+   "speaker": "Elderly Female Customer",
+   "en": "Oh, it'll be so busy and crowded[n]everywhere. I hope another accident[n]doesn't happen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_001_3#0",
+   "speaker": "Elderly Male Customer",
+   "en": "Yeah, no one's been able to figure out[n]the cause behind that. That kinda makes[n]me feel uneasy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_003#0",
+   "speaker": "Elderly Male Customer",
+   "en": "...Like I said, people are in an uproar[n]over this group of hackers threatening[n]our country.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_003_2#0",
+   "speaker": "Elderly Female Customer",
+   "en": "Ah, okay, so they're terrorists. What are[n]these hackers trying to do to us?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_003_3#0",
+   "speaker": "Elderly Male Customer",
+   "en": "They're... Ah, you know. They're[n]planning on doing some pretty[n]bad stuff.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_005#0",
+   "speaker": "Elderly Female Customer",
+   "en": "It's almost time for Obon. Why don't we[n]take a trip somewhere not too far away?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_005_2#0",
+   "speaker": "Elderly Male Customer",
+   "en": "No way. You don't want to walk outside[n]in this heat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_005_3#0",
+   "speaker": "Elderly Female Customer",
+   "en": "Yeah, it is hotter than usual. It feels like[n]it's boiling inside my head sometimes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_007#0",
+   "speaker": "Elderly Female Customer",
+   "en": "I wonder which side will win.[n]What do you think, dear?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_007_2#0",
+   "speaker": "Elderly Male Customer",
+   "en": "The team with the better hitters,[n]I guess. I mean, you can't win[n]if you don't score runs, and—",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_007_3#0",
+   "speaker": "Elderly Female Customer",
+   "en": "I'm not talking about baseball...[n]I meant the Phantom Thieves[n]against the hackers or whatever.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_008#0",
+   "speaker": "Elderly Male Customer",
+   "en": "It's almost the 21st. I just know[n]something crazy is going to happen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_008_2#0",
+   "speaker": "Elderly Female Customer",
+   "en": "Ah, that date on that calling card?[n]What kind of crazy thing do you[n]think will happen?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_008_3#0",
+   "speaker": "Elderly Male Customer",
+   "en": "Just... All I know is that it'll be crazy![n]They're up against a world-famous[n]group, you know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_009#0",
+   "speaker": "Elderly Female Customer",
+   "en": "Maybe I'll broil some saury for dinner[n]tonight. Fish has been more expensive[n]this year though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_009_2#0",
+   "speaker": "Elderly Male Customer",
+   "en": "It's the government's fault. Why do they[n]pick on people on the National Pension[n]like us?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_009_2#1",
+   "speaker": "Elderly Male Customer",
+   "en": "Young people are pathetic, too.[n]They're so quick to complain and[n]claim they're getting exploited.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_010#0",
+   "speaker": "Elderly Female Customer",
+   "en": "The weather's gotten much cooler.[n]We should go somewhere, for once.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_010_2#0",
+   "speaker": "Elderly Male Customer",
+   "en": "Traveling is too much trouble. Isn't it[n]good enough to just relax here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_010_3#0",
+   "speaker": "Elderly Female Customer",
+   "en": "You're right, it is pretty nice here. We[n]usually relax here for hours at a time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_011#0",
+   "speaker": "Elderly Male Customer",
+   "en": "I wonder if Shido-san will come around[n]here again. I want to hear another of his[n]speeches.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_011_2#0",
+   "speaker": "Elderly Female Customer",
+   "en": "He's a very eloquent man, and it's very[n]impressive to hear him live. He's got[n]a lot of promise.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_011_3#0",
+   "speaker": "Elderly Male Customer",
+   "en": "I always thought politicians couldn't be[n]trusted, but I think he's someone worth[n]voting for.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_012#0",
+   "speaker": "Elderly Male Customer",
+   "en": "Didn't the Phantom Thieves die?[n]I thought we were safe from them now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_012#1",
+   "speaker": "Elderly Male Customer",
+   "en": "And then, there's that calling card...[n]Shido-san denied any of it was true,[n]though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_012_2#0",
+   "speaker": "Elderly Female Customer",
+   "en": "I wonder if Shido-san is okay... I'm[n]worried, with the elections so close.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_012_3#0",
+   "speaker": "Elderly Male Customer",
+   "en": "*sigh* I don't know what to believe...[n]It's all too much for an old-timer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_013#0",
+   "speaker": "Elderly Female Customer",
+   "en": "So we still haven't decided on a new[n]prime minister. Did the elections[n]accomplish anything?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_013_2#0",
+   "speaker": "Elderly Male Customer",
+   "en": "I heard that Representative Shido's[n]not feeling well. Isn't there anyone[n]who can replace him?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_013_2#1",
+   "speaker": "Elderly Male Customer",
+   "en": "Aw, they're all the same. Guess it[n]doesn't matter who does the job.[n]Old folks like me shouldn't worry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_014#0",
+   "speaker": "Elderly Male Customer",
+   "en": "I heard not many people visited[n]shrines for New Year's this year.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_014_2#0",
+   "speaker": "Elderly Female Customer",
+   "en": "I guess there's no need to wish for[n]something if your wish already came true.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_014_3#0",
+   "speaker": "Elderly Male Customer",
+   "en": "Hmmm... It would make for a strange[n]story if that were true.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM01_014_4#0",
+   "speaker": "Elderly Female Customer",
+   "en": "Well, as long as everybody's feeling[n]fulfilled, isn't that a good thing?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM02_001#0",
+   "speaker": "Bespectacled Office Worker",
+   "en": "Did you see it on TV? Our company[n]might be targeted by hackers...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM02_001_2#0",
+   "speaker": "Middle-Aged Office Worker",
+   "en": "Why us? They can't expect to gain any[n]notoriety by targeting a small business[n]like ours.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM02_001_3#0",
+   "speaker": "Bespectacled Office Worker",
+   "en": "Do you think they're calling out the[n]Phantom Thieves just to get publicity?[n]It seems like everyone's talking about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM02_001_4#0",
+   "speaker": "Middle-Aged Office Worker",
+   "en": "How should I know? Hey, let's head[n]out after you finish drinking that.[n]We gotta get some work done.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM02_002#0",
+   "speaker": "Bespectacled Office Worker",
+   "en": "They're restricting access to the[n]computers at work. Security is a[n]major concern all of a sudden.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM02_002#1",
+   "speaker": "Bespectacled Office Worker",
+   "en": "I'm sure it's to protect us from[n]hacking, but communicating with[n]clients like this is tough.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM02_002_2#0",
+   "speaker": "Middle-Aged Office Worker",
+   "en": "Whatever those Phantom Thieves are,[n]people are making too big of a deal[n]about them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM02_003#0",
+   "speaker": "Bespectacled Office Worker",
+   "en": "After all that fuss, not a peep from[n]Medjed or the Phantom Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM02_003_2#0",
+   "speaker": "Middle-Aged Office Worker",
+   "en": "Haha. Anyway, about the agenda[n]for today...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM02_003_3#0",
+   "speaker": "Bespectacled Office Worker",
+   "en": "...You're so busy, but you're always on[n]top of everything. Do you ever take a[n]vacation?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM02_003_4#0",
+   "speaker": "Middle-Aged Office Worker",
+   "en": "I don't need vacations. For some reason,[n]they make me feel more tired. Guess[n]I'm not used to them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM02_004#0",
+   "speaker": "Bespectacled Office Worker",
+   "en": "You seem a little down. Is the summer[n]heat getting to you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM02_004_2#0",
+   "speaker": "Middle-Aged Office Worker",
+   "en": "I got home late last night, and my wife[n]yelled at me since I didn't tell her where[n]I was...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM02_004_3#0",
+   "speaker": "Bespectacled Office Worker",
+   "en": "Ahaha! You do something naughty[n]behind her back? Careful, or the[n]Phantom Thieves might target you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM02_004_4#0",
+   "speaker": "Middle-Aged Office Worker",
+   "en": "No, moron. I was just drinking[n]with co-workers. Must you always[n]bring up the Phantom Thieves?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM02_005#0",
+   "speaker": "Bespectacled Office Worker",
+   "en": "So, who are you going to vote for?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM02_005_2#0",
+   "speaker": "Middle-Aged Office Worker",
+   "en": "They've even got you talking politics?[n]I'm surprised. This Shido fever is really[n]taking the nation by storm.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM02_005_3#0",
+   "speaker": "Bespectacled Office Worker",
+   "en": "I've just never seriously thought[n]about it before. Maybe because I'd[n]never seen a politician like him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM02_005_4#0",
+   "speaker": "Middle-Aged Office Worker",
+   "en": "I think he's got real potential.[n]If nothing else, he's better than[n]the people we've got now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM02_006#0",
+   "speaker": "Bespectacled Office Worker",
+   "en": "That phantom thief was alive? So the[n]police were actually lying about it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM02_006_2#0",
+   "speaker": "Middle-Aged Office Worker",
+   "en": "Well, whatever happened, his[n]accomplices probably helped him[n]if he managed to fool the police.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM02_006_3#0",
+   "speaker": "Bespectacled Office Worker",
+   "en": "What's gonna happen with the[n]elections? They said that Shido[n]committed a crime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM02_006_4#0",
+   "speaker": "Middle-Aged Office Worker",
+   "en": "I'm sure the police will handle it.[n]Anyway, enough of that.[n]We've got to get to work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIDOTTA_001_0_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Ah, I apologize if I have overstayed[n]my welcome.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIDOTTA_001_0_0#1",
+   "speaker": "Pompous Customer",
+   "en": "I finished a critique for work, so I am[n]partaking in a moment's rest.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIDOTTA_001_0_0#2",
+   "speaker": "Pompous Customer",
+   "en": "The ambience of my favorite café at[n]closing time... This perfect silence[n]soothes my very soul.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIDOTTA_001_1_0#0",
+   "speaker": "Sojiro",
+   "en": "The TV's on, though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIDOTTA_004_0_0#0",
+   "speaker": "Pompous Customer",
+   "en": "I was watching television and came[n]across a discussion about the nature[n]of justice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIDOTTA_004_0_0#1",
+   "speaker": "Pompous Customer",
+   "en": "Have you ever given it any thought?[n]What is \"justice\" to you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_KIDOTTA_004_1_0#0",
+   "speaker": null,
+   "en": "It's about helping people.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_KIDOTTA_004_1_0#1",
+   "speaker": null,
+   "en": "It's the opposite of evil.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_KIDOTTA_004_1_0#2",
+   "speaker": null,
+   "en": "I don't know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIDOTTA_004_2_0#0",
+   "speaker": "Pompous Customer",
+   "en": "I see. That's one way to look at it,[n]but you only perceive what is on[n]the very surface.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIDOTTA_004_3_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Using proof by contradiction is[n]one way to define justice, but[n]it's not quite enough.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIDOTTA_004_4_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Haha, you should really think about it.[n]I'm sure that would help you gain new[n]insights and grow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIDOTTA_004_5_0#0",
+   "speaker": "Pompous Customer",
+   "en": "The boy who was featured in that[n]TV discussion is still in high school.[n]Akechi, was it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIDOTTA_004_5_0#1",
+   "speaker": "Pompous Customer",
+   "en": "He was well-spoken and skilled in[n]the art of debate—almost as good[n]as I was at that age.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIDOTTA_004_6_0#0",
+   "speaker": "Pompous Customer",
+   "en": "The concept of justice is a consistent[n]theme and troubling problem for[n]us critics too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIDOTTA_004_6_0#1",
+   "speaker": "Pompous Customer",
+   "en": "Oh. I was so deep in thought, I failed[n]to notice the passing of time... and[n]Boss's fierce gaze.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIDOTTA_007_0_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Finally, I can relax after being hounded[n]by deadlines. To be such a popular critic[n]is a blessing and a curse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIDOTTA_007_0_0#1",
+   "speaker": "Pompous Customer",
+   "en": "Ah, you're still in high school, right?[n]Are you enjoying your vacation?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_KIDOTTA_007_1_0#0",
+   "speaker": null,
+   "en": "I'm enjoying it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_KIDOTTA_007_1_0#1",
+   "speaker": null,
+   "en": "I'm distracted by other things.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_KIDOTTA_007_1_0#2",
+   "speaker": null,
+   "en": "I can have fun later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIDOTTA_007_2_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Although there will be other summers,[n]this summer will never come again.[n]Good for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIDOTTA_007_3_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Ah, studying for college exams?[n]Even so, that will also be a nice[n]memory from your youth.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIDOTTA_007_4_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Haha, I suppose you're right.[n]Live out and enjoy your youth as[n]much as you can before it's gone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIDOTTA_007_5_0#0",
+   "speaker": "Pompous Customer",
+   "en": "And now, sadly, I must end this[n]momentary respite. If I stay too[n]long, I may get scolded for it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIDOTTA_009_0_0#0",
+   "speaker": "Pompous Customer",
+   "en": "The fanatical masses are waiting in[n]anticipation of what the Phantom[n]Thieves will do next.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIDOTTA_009_0_0#1",
+   "speaker": "Pompous Customer",
+   "en": "Are you among those who are[n]waiting to see the president of that[n]company meet his judgment?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_KIDOTTA_009_1_0#0",
+   "speaker": null,
+   "en": "I am.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_KIDOTTA_009_1_0#1",
+   "speaker": null,
+   "en": "I'm not interested.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIDOTTA_009_2_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Haha, I appreciate your honesty.[n]I also can't deny the excitement[n]I feel in my heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIDOTTA_009_3_0#0",
+   "speaker": "Pompous Customer",
+   "en": "Haha, there's no need to hide it.[n]There's no shame in projecting[n]your suppressed hopes onto them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIDOTTA_009_4_0#0",
+   "speaker": "Pompous Customer",
+   "en": "It's clear that they have power.[n]They have an ethical obligation[n]to use it wisely.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIDOTTA_009_4_0#1",
+   "speaker": "Pompous Customer",
+   "en": "The pressure and expectations[n]that burden exceptional people...[n]I know it well, hahaha.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIDOTTA_010_24_0#0",
+   "speaker": "Pompous Customer",
+   "en": "I was drawn in before I knew it.[n]His articulate words moved me[n]to the core...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIDOTTA_010_24_0#1",
+   "speaker": "Pompous Customer",
+   "en": "This country's got a first-rate economy[n]with a cut-rate government. He's[n]a rare specimen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIDOTTA_010_24_0#2",
+   "speaker": "Pompous Customer",
+   "en": "Our souls resonate on the same[n]frequency...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIDOTTA_010_24_0#3",
+   "speaker": "Pompous Customer",
+   "en": "That is, exceptional people can[n]always recognize one another.[n]You'll see one day, hahaha.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_GET_BACK#0",
+   "speaker": "Young Male Customer",
+   "en": "Well, thanks for the coffee.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_002_0_0#0",
+   "speaker": "Young Male Customer",
+   "en": "Hey, we're heading out. This place is[n]closing soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_002_1_0#0",
+   "speaker": "Young Female Customer",
+   "en": "Whaaat? But I want to watch TV.[n]There's a special on that guy they[n]call a \"Detective Prince,\" Akechi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_002_2_0#0",
+   "speaker": "Young Male Customer",
+   "en": "They're still doing the news.[n]You'll make it home in time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_002_2_0#1",
+   "speaker": "Young Male Customer",
+   "en": "Besides, you can see his face any time.[n]That pretty boy's been on TV a lot lately.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_002_3_0#0",
+   "speaker": "Newscaster",
+   "en": "...fallen victim to a large-scale[n]personal info leak.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_002_3_0#1",
+   "speaker": "Newscaster",
+   "en": "The client information of a few[n]Japanese companies has been[n]leaked online to the public.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_002_3_0#2",
+   "speaker": "Newscaster",
+   "en": "Tens of thousands of clients' personal[n]information was exposed, and many[n]are voicing concern.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_002_3_0#3",
+   "speaker": "Newscaster",
+   "en": "Experts believe that an international[n]hacker group may be responsible...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_005_0_0#0",
+   "speaker": "Young Female Customer",
+   "en": "The internet was down during the day[n]today. Didn't this happen before?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_005_1_0#0",
+   "speaker": "Young Male Customer",
+   "en": "The server went down because it was[n]attacked from somewhere, I heard.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_005_2_0#0",
+   "speaker": "Young Female Customer",
+   "en": "I hope they get caught soon. They're[n]really causing a lot of trouble for us!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_005_3_0#0",
+   "speaker": "Young Male Customer",
+   "en": "I heard they're some kind of scary[n]foreign organization. Our police[n]wouldn't stand a chance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_005_4_0#0",
+   "speaker": "Newscaster",
+   "en": "...The intermittent internet network[n]disturbances have now been resolved.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_005_4_0#1",
+   "speaker": "Newscaster",
+   "en": "Internet service providers have[n]announced that they were caused[n]by illegal outside attacks.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_005_4_0#2",
+   "speaker": "Newscaster",
+   "en": "The perpetrators did not issue a[n]statement, but they are suspected[n]to be an anonymous hacker group.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_006_0_0#0",
+   "speaker": "Young Female Customer",
+   "en": "Hey, let's do something for summer[n]since the fireworks got canceled.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_006_0_0#1",
+   "speaker": "Young Female Customer",
+   "en": "Ah, what about the beach? I could[n]buy a new swimsuit!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_006_1_0#0",
+   "speaker": "Young Male Customer",
+   "en": "There's nothing to do at the beach,[n]and it's going to be hot. We should[n]just go to the movies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_EX_0_0#0",
+   "speaker": "Young Female Customer",
+   "en": "Hey, it's not dangerous to go out[n]anymore, is it? Let's go to the beach[n]before summer ends...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_EX_1_0#0",
+   "speaker": "Young Male Customer",
+   "en": "It's not worth going to any beaches[n]in Japan. They're cramped and dirty,[n]there's jellyfish...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_EX_2_0#0",
+   "speaker": "Young Female Customer",
+   "en": "What about a beach outside of[n]Japan? Let's go on a vacation on[n]a tropical island!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_EX_3_0#0",
+   "speaker": "Young Male Customer",
+   "en": "We don't have to go now, right?[n]It's absurd to go somewhere hot[n]in the middle of summer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_008_0_0#0",
+   "speaker": "Young Female Customer",
+   "en": "I can't believe [group][n]actually defeated Medjed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_008_0_0#1",
+   "speaker": "Young Female Customer",
+   "en": "Now everyone's describing them as[n]saviors. Little much, don't you think?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_008_1_0#0",
+   "speaker": "Young Male Customer",
+   "en": "No way, they really are. I can't wait[n]to see what they do next.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_010_0_0#0",
+   "speaker": "Young Female Customer",
+   "en": "Did you see that they changed the[n]questionnaire on the Phan-Site again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_010_0_0#1",
+   "speaker": "Young Female Customer",
+   "en": "\"Do you think the Phantom Thieves[n]are innocent\"? It's funny that people[n]make a big deal out of it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_010_1_0#0",
+   "speaker": "Young Male Customer",
+   "en": "Of course they're not innocent.[n]They're wanted, so they'd be[n]arrested on the spot.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_013_0_0#0",
+   "speaker": "Young Female Customer",
+   "en": "The Phan-Site questionnaire's[n]been updated. \"Do you support[n]the Phantom Thieves\"?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_013_1_0#0",
+   "speaker": "Young Male Customer",
+   "en": "I'm so surprised they're still updating[n]that. Which side is winning, anyway?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_013_2_0#0",
+   "speaker": "Young Female Customer",
+   "en": "Not many people voted \"Yes.\"[n]And there's not much going on[n]in the comments.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_013_3_0#0",
+   "speaker": "Young Male Customer",
+   "en": "I'm not surprised. Honestly, who cares?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_014_0_0#0",
+   "speaker": "Young Male Customer",
+   "en": "I noticed you haven't been visiting[n]the Phan-Site lately. You were on it[n]nonstop last year...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_014_1_0#0",
+   "speaker": "Young Female Customer",
+   "en": "It's because I've got tons of other[n]fun stuff to do.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_014_1_0#1",
+   "speaker": "Young Female Customer",
+   "en": "I've got money, and there's lots of[n]things I want to buy with it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_014_2_0#0",
+   "speaker": "Young Male Customer",
+   "en": "I agree that there have been a lot[n]of fun things to do lately.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_014_2_0#1",
+   "speaker": "Young Male Customer",
+   "en": "Everything's going great for some[n]reason. I've got a big shoot coming[n]up in April.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_014_3_0#0",
+   "speaker": "Young Female Customer",
+   "en": "Really? That's awesome! Why don't[n]we plan a vacation to celebrate?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_015_0_0#0",
+   "speaker": "Young Female Customer",
+   "en": "It's gotten really cold lately. There's[n]even more snow than usual.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_015_1_0#0",
+   "speaker": "Young Male Customer",
+   "en": "When it's this cold out, it's best to[n]just stay indoors.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_015_2_0#0",
+   "speaker": "Young Female Customer",
+   "en": "How about we do a hotpot party?[n]Or maybe even a takoyaki party!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAIKYAKU_015_3_0#0",
+   "speaker": "Young Male Customer",
+   "en": "Haha! That sounds good. It's been a[n]while since I had an easy-going winter.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OJISAN_NIGHT_GET_BAC#0",
+   "speaker": "Middle-Aged Office Worker",
+   "en": "Thanks for the coffee. I'll just leave[n]what I owe you here, Boss.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHUUNENSARARIIMAN_EX#0",
+   "speaker": "Bespectacled Office Worker",
+   "en": "That accident this morning was[n]awful. Did they go out of control[n]again, like that one time...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHUUNENSARARIIMAN_EX_2#0",
+   "speaker": "Middle-Aged Office Worker",
+   "en": "That's what I hear. The driver was[n]acting funny or something.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHUUNENSARARIIMAN_EX_2#1",
+   "speaker": "Middle-Aged Office Worker",
+   "en": "The vice president in our company[n]might've been caught up in it. I'm[n]sure it's chaos in the office.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHUUNENSARARIIMAN_EX_3#0",
+   "speaker": "Bespectacled Office Worker",
+   "en": "When are these weird accidents[n]going to end? I don't feel safe[n]getting into my car anymore.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHUUNENSARARIIMAN_01#0",
+   "speaker": "Bespectacled Office Worker",
+   "en": "I can't believe they disbanded. Their[n]party leader showed some seriously[n]impressive judgment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHUUNENSARARIIMAN_01_2#0",
+   "speaker": "Middle-Aged Office Worker",
+   "en": "The challenging party's got a lot of[n]good politicians, so their chances[n]were slim to begin with.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHUUNENSARARIIMAN_01_3#0",
+   "speaker": "Bespectacled Office Worker",
+   "en": "Now, after the psychotic breakdown[n]stuff, people are putting their hopes[n]in that one party leader.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHUUNENSARARIIMAN_01_4#0",
+   "speaker": "Middle-Aged Office Worker",
+   "en": "Well, right now, there isn't anyone[n]better. Guess you can't blame them[n]for hoping.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHUUNENSARARIIMAN_01_5#0",
+   "speaker": "Bespectacled Office Worker",
+   "en": "It's good he was arrested, but it's[n]a shame he committed suicide.[n]What were the police doing?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHUUNENSARARIIMAN_01_6#0",
+   "speaker": "Middle-Aged Office Worker",
+   "en": "He was going to get the death penalty,[n]anyway. It's not perfect, but it's no big[n]tragedy, either.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHUUNENSARARIIMAN_01_7#0",
+   "speaker": "Bespectacled Office Worker",
+   "en": "That's true. I suppose it's fine if this[n]settles everything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHUUNENSARARIIMAN_01_7#1",
+   "speaker": "Bespectacled Office Worker",
+   "en": "I almost missed hearing about this.[n]News of the suicide's been eclipsed[n]by elections coverage.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHUUNENSARARIIMAN_01_8#0",
+   "speaker": "Bespectacled Office Worker",
+   "en": "Congrats on your first grandchild!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHUUNENSARARIIMAN_01_9#0",
+   "speaker": "Middle-Aged Office Worker",
+   "en": "It's strange having grandkids at this age...[n]but I could get used to it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHUUNENSARARIIMAN_01_10#0",
+   "speaker": "Bespectacled Office Worker",
+   "en": "I'll have to give you a proper gift soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHUUNENSARARIIMAN_01_11#0",
+   "speaker": "Middle-Aged Office Worker",
+   "en": "No, no. There's no need. The kind words are[n]more than enough for me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHUUNENSARARIIMAN_01_12#0",
+   "speaker": "Middle-Aged Office Worker",
+   "en": "This place reminds me of a TV hero from[n]my childhood. They would hide out in a[n]café like this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHUUNENSARARIIMAN_01_13#0",
+   "speaker": "Bespectacled Office Worker",
+   "en": "I think I remember something like that...[n]But why bring that up now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHUUNENSARARIIMAN_01_14#0",
+   "speaker": "Middle-Aged Businessman",
+   "en": "I was just thinking... What if the Phantom[n]Thieves were also using a café like this as[n]their hideout?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHUUNENSARARIIMAN_01_15#0",
+   "speaker": "Bespectacled Office Worker",
+   "en": "Phantom Thieves? They're old news![n]People might even laugh at you for[n]bringing them up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKAI_SYAIN_GET_BACK#0",
+   "speaker": "Young Businessman",
+   "en": "Thank you. The curry was delicious.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKATE_SARARIIMAN_00#0",
+   "speaker": "Young Businessman",
+   "en": "Did you see the news about[n]Wild-Duck Burger?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKATE_SARARIIMAN_00#1",
+   "speaker": "Young Businessman",
+   "en": "Stuff like that happening makes[n]me not want to eat there, ever.[n]There's just no excuse for it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKATE_SARARIIMAN_00_2#0",
+   "speaker": "Diligent Office Worker",
+   "en": "Besides, that guy says he doesn't[n]remember doing it, right? He[n]doesn't feel bad about it at all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKATE_SARARIIMAN_00_3#0",
+   "speaker": "Young Businessman",
+   "en": "Have you been getting a lot of[n]spam mail lately? How are they[n]getting my information?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKATE_SARARIIMAN_00_4#0",
+   "speaker": "Diligent Office Worker",
+   "en": "You remember the cyber attack?[n]Tens of thousands of people's[n]personal information was leaked.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKATE_SARARIIMAN_00_5#0",
+   "speaker": "Young Businessman",
+   "en": "Oh, right, I heard about those hackers.[n]I hear they've been causing damage[n]around the world.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WAKATE_SARARIIMAN_00_6#0",
+   "speaker": "Diligent Office Worker",
+   "en": "They act like they're fighting an unjust[n]system, but they're still a problem to[n]people like us.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_000#0",
+   "speaker": "Young Businessman",
+   "en": "Did you see that announcement?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_000#1",
+   "speaker": "Young Businessman",
+   "en": "\"Destructive damage to the Japanese[n]economy\"... But wasn't it dead to[n]begin with?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_000_2#0",
+   "speaker": "Diligent Office Worker",
+   "en": "Haha, I'm sure the big companies are[n]in a panic. I don't think that's an empty[n]threat, either.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_000_3#0",
+   "speaker": "Young Businessman",
+   "en": "What are the Phantom Thieves going[n]to do? Well, it'd be funny if they ended[n]up running away from this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_001#0",
+   "speaker": "Young Businessman",
+   "en": "I kind of wish our company would[n]get hacked, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_001_2#0",
+   "speaker": "Diligent Office Worker",
+   "en": "You sure? It might go under if[n]that happened.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_001_3#0",
+   "speaker": "Young Businessman",
+   "en": "Yeah. But then, we wouldn't have[n]to live like this anymore.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_001_4#0",
+   "speaker": "Diligent Office Worker",
+   "en": "...I see. You have anywhere else to[n]go after quitting?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_001_5#0",
+   "speaker": "Young Businessman",
+   "en": "Nah. If I did, I'd have quit already.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_002#0",
+   "speaker": "Young Businessman",
+   "en": "We finally get days off for Obon,[n]and then we have to endure[n]this scorching heat...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_002_2#0",
+   "speaker": "Diligent Office Worker",
+   "en": "Remember high school? The kids[n]on the baseball team would train[n]in heat like this, and love it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_002_3#0",
+   "speaker": "Young Businessman",
+   "en": "I used to be like that, all excited about[n]taking on the world. Now, I'm just a[n]company slave...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_003#0",
+   "speaker": "Diligent Office Worker",
+   "en": "It's almost the 21st. Do you really think[n]something will happen?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_003_2#0",
+   "speaker": "Young Businessman",
+   "en": "Oh... You're talking about...[n]What were they called? Medjed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_003_3#0",
+   "speaker": "Diligent Office Worker",
+   "en": "You should be ready for any crisis.[n]That's why I installed all this new[n]security software.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_003_4#0",
+   "speaker": "Young Businessman",
+   "en": "Well, I don't have any info that'd be[n]valuable to them. They'll only go[n]after the big companies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_004#0",
+   "speaker": "Young Businessman",
+   "en": "Hey, you think our company's[n]exploiting us too? They almost[n]never pay us any overtime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_004_2#0",
+   "speaker": "Diligent Office Worker",
+   "en": "I wonder... I bet it's better than[n]Okumura Foods though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_004_2#1",
+   "speaker": "Diligent Office Worker",
+   "en": "But geez, are you okay?[n]Don't overwork yourself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_004_3#0",
+   "speaker": "Young Businessman",
+   "en": "I have to work as much as I can to keep[n]my job. Everyone else is sucking it up[n]and pitching in...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_005#0",
+   "speaker": "Young Businessman",
+   "en": "There's a 30 million yen bounty on the[n]Phantom Thieves. How would you use[n]all that money?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_005_2#0",
+   "speaker": "Diligent Office Worker",
+   "en": "Probably relax at some luxury resort,[n]then start my own business with the[n]rest of the money...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_005_2#1",
+   "speaker": "Diligent Office Worker",
+   "en": "...Wait, we don't have time for this.[n]What's our strategy for the clients[n]we're meeting tomorrow?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_005_3#0",
+   "speaker": "Young Businessman",
+   "en": "*sigh* Back to lame ol' reality...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_006#0",
+   "speaker": "Young Businessman",
+   "en": "I'm tired of all these cars blaring noise[n]for the elections. All they want is to win[n]our votes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_006_2#0",
+   "speaker": "Diligent Office Worker",
+   "en": "You can't blame them for worrying.[n]Those representatives are out of a[n]job if they don't get your vote.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_006_2#1",
+   "speaker": "Diligent Office Worker",
+   "en": "So, which party are you voting for?[n]I'm thinking about going with the[n]United Future.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_006_3#0",
+   "speaker": "Young Businessman",
+   "en": "Ah, Masayoshi Shido's party. Yeah,[n]I think he's very promising.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_007#0",
+   "speaker": "Young Businessman",
+   "en": "What happened with the Phantom[n]Thieves? There's not any follow-up[n]news coverage.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_007_2#0",
+   "speaker": "Diligent Office Worker",
+   "en": "Who knows? Maybe it was a[n]broadcasting accident. I heard[n]it might have been a prank, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_007_3#0",
+   "speaker": "Young Businessman",
+   "en": "It's also strange how no one's seen[n]Shido. Especially since he was so[n]confident at the beginning.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_007_3#1",
+   "speaker": "Young Businessman",
+   "en": "I'm starting to not care about the[n]elections. It's not like they're going[n]to change anything, anyway.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_008#0",
+   "speaker": "Young Businessman",
+   "en": "I can't believe we both got promoted!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_008_2#0",
+   "speaker": "Diligent Office Worker",
+   "en": "In my case, it was just an automatic[n]advancement upon switching[n]departments.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_008_3#0",
+   "speaker": "Young Businessman",
+   "en": "Well, you sure seemed happy about it.[n]You were even calling your mother[n]back home!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_008_4#0",
+   "speaker": "Diligent Office Worker",
+   "en": "Anybody would do that if they became[n]an officer, wouldn't they?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_009#0",
+   "speaker": "Diligent Office Worker",
+   "en": "Ever since I called home about my[n]promotion, they've been harping on[n]me nonstop about getting married...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_009_2#0",
+   "speaker": "Young Businessman",
+   "en": "Hahaha. They say good things come[n]in pairs, so they must be expecting[n]one more!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_009_3#0",
+   "speaker": "Diligent Office Worker",
+   "en": "Like that's gonna happen. Besides,[n]I have no desire to get married yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RUBURAN_CUSTOM03_009_3#1",
+   "speaker": "Diligent Office Worker",
+   "en": "If I don't want it, there's no way it's[n]happening! End of story.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_GET_BACK#0",
+   "speaker": "Akechi",
+   "en": "I must be going now. The coffee was[n]delicious.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_010_0_0#0",
+   "speaker": "Akechi",
+   "en": "I seem to be making myself at home[n]here once again. It's been hard to find[n]a place of comfort recently.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_010_0_0#1",
+   "speaker": "Akechi",
+   "en": "...Things have blown up in my face ever[n]since I criticized the Phantom Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_010_0_0#2",
+   "speaker": "Akechi",
+   "en": "Sae-san even warned me to watch[n]what I say to the public.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_010_0_0#3",
+   "speaker": "Akechi",
+   "en": "I suppose their popularity is beyond[n]my imagination... I should think more[n]before I open my mouth.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_015_0_0#0",
+   "speaker": "Akechi",
+   "en": "I find this place quite calming.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_015_0_0#1",
+   "speaker": "Akechi",
+   "en": "I feel as though I can cast off[n]my detective mask and return[n]to my true self when I'm here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_015_0_0#2",
+   "speaker": "Akechi",
+   "en": "It helps that Boss treats me as any[n]other customer as well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_016_0_0#0",
+   "speaker": "Akechi",
+   "en": "Ah, sorry to intrude.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_016_0_0#1",
+   "speaker": "Akechi",
+   "en": "I simply happened to be passing by,[n]and had an urge to drink a cup of[n]fine coffee here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKECHI_017_0_0#0",
+   "speaker": null,
+   "en": "Thanks for your patronage.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKECHI_017_0_0#1",
+   "speaker": null,
+   "en": "Please leave.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_018_0_0#0",
+   "speaker": "Akechi",
+   "en": "I should be thanking you. This is one[n]of the few places I can actually relax.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_019_0_0#0",
+   "speaker": "Akechi",
+   "en": "Haha, how cold of you. Are you busy,[n]perhaps?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_020_0_0#0",
+   "speaker": "Akechi",
+   "en": "My apologies. I'm sure it must be[n]closing time soon. I will be on[n]my way soon enough.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_021_0_0#0",
+   "speaker": "Akechi",
+   "en": "Hm, I'd like your opinion... Do you[n]think the Phantom Thieves will target[n]President Okumura?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKECHI_022_0_0#0",
+   "speaker": null,
+   "en": "They may.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKECHI_022_0_0#1",
+   "speaker": null,
+   "en": "I don't know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_023_0_0#0",
+   "speaker": "Akechi",
+   "en": "I see. So I'm not alone in thinking that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_024_0_0#0",
+   "speaker": "Akechi",
+   "en": "I see. A cautious response.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_025_0_0#0",
+   "speaker": "Akechi",
+   "en": "The Thieves have answered the[n]expectations of the masses, hence[n]the current state of excitement.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_025_0_0#1",
+   "speaker": "Akechi",
+   "en": "It will not go well if they choose to[n]betray those expectations, as I'm[n]sure the Phantom Thieves know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_026_0_0#0",
+   "speaker": "Akechi",
+   "en": "Good evening. I am intruding in your[n]home once again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_026_0_0#1",
+   "speaker": "Akechi",
+   "en": "My apologies for spending so much[n]time here. It's just such a calming[n]place for me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKECHI_027_0_0#0",
+   "speaker": null,
+   "en": "Don't worry about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKECHI_027_0_0#1",
+   "speaker": null,
+   "en": "Please leave.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_028_0_0#0",
+   "speaker": "Akechi",
+   "en": "Thank you. Regardless, it's time I go[n]on my way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_029_0_0#0",
+   "speaker": "Akechi",
+   "en": "Haha, sorry. I will be on my way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_030_0_0#0",
+   "speaker": "Akechi",
+   "en": "One more thing though... I heard[n]a calling card has finally been sent.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_030_0_0#1",
+   "speaker": "Akechi",
+   "en": "If the rumors of internal affairs at[n]Okumura Foods are true, their[n]president should surely be judged.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_030_0_0#2",
+   "speaker": "Akechi",
+   "en": "However, it should be up to the[n]government or police to do so...[n]This is an unfortunate situation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_031_0_0#0",
+   "speaker": "Akechi",
+   "en": "President Okumura notified the police[n]of the calling card, so they are looking[n]into it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_031_0_0#1",
+   "speaker": "Akechi",
+   "en": "It seems they have yet to find anything[n]though... I suppose we will have to see[n]what happens.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_032_0_0#0",
+   "speaker": "Akechi",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_033_0_0#0",
+   "speaker": "Akechi",
+   "en": "Ah, it's you. My apologies. I was[n]submerged in my thoughts and[n]lost track of the time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_033_0_0#1",
+   "speaker": "Akechi",
+   "en": "I'm sorry for staying here so late.[n]I will be leaving soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_034_0_0#0",
+   "speaker": "Akechi",
+   "en": "Rumors are spreading stating that[n]what happened to Okumura is the[n]doing of the Phantom Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_034_0_0#1",
+   "speaker": "Akechi",
+   "en": "You're a supporter of theirs, yes?[n]I would love to hear your opinion[n]on this matter.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKECHI_035_0_0#0",
+   "speaker": null,
+   "en": "It's all a misunderstanding.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_AKECHI_035_0_0#1",
+   "speaker": null,
+   "en": "I don't know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_036_0_0#0",
+   "speaker": "Akechi",
+   "en": "Hm, I will take that opinion into[n]consideration.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_037_0_0#0",
+   "speaker": "Akechi",
+   "en": "Yes, I'm having a hard time composing[n]my thoughts as well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_038_0_0#0",
+   "speaker": "Akechi",
+   "en": "Given the presence of the calling card,[n]doubting their involvement would be...[n]unnatural.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_038_0_0#1",
+   "speaker": "Akechi",
+   "en": "However, something doesn't feel right.[n]I will have to think the matter over some[n]more later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_039_0_0#0",
+   "speaker": "Akechi",
+   "en": "Welcome home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_039_0_0#1",
+   "speaker": "Akechi",
+   "en": "I am here yet again, but I will be heading[n]out once I finish this. Do not mind me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_040_0_0#0",
+   "speaker": "Akechi",
+   "en": "You know, I have felt quite fulfilled[n]lately. It is almost surprising to feel[n]such emotion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_040_0_0#1",
+   "speaker": "Akechi",
+   "en": "I suspect that is due to the fact that[n]I have rarely cooperated with[n]like-minded peers in the past.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_040_0_0#2",
+   "speaker": "Akechi",
+   "en": "I'm genuinely grateful for this[n]opportunity. I will do all that I can[n]to be of assistance to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_KAJI_001#0",
+   "speaker": "Kawakami",
+   "en": "I guess it shouldn't surprise me a café's[n]got such nice cookware.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_KAJI_002#0",
+   "speaker": "Kawakami",
+   "en": "I'll handle the rest. Why don't you take[n]care of something else?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_KAJI_003#0",
+   "speaker": "Kawakami",
+   "en": "Still can't believe you called me over[n]just to brew you coffee...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_KAJI_RANK_M#0",
+   "speaker": "Kawakami",
+   "en": "Relax, I've got this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_KAJI_RANK_M#1",
+   "speaker": "Kawakami",
+   "en": "You just go do you. I'll brew up a nice[n]cup of joe for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_KAJI_KARI_0#0",
+   "speaker": "Kawakami",
+   "en": "You guys sure do spice up your curry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_KAJI_KARI_0_2#0",
+   "speaker": "Kawakami",
+   "en": "I'll handle the rest. Why don't you take[n]care of something else?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_KAJI_KARI_0_3#0",
+   "speaker": "Kawakami",
+   "en": "Mm... I'm gonna smell like this for the[n]rest of the day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_KAJI_KARI_R#0",
+   "speaker": "Kawakami",
+   "en": "Relax, I know what I'm doing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_KAJI_KARI_R#1",
+   "speaker": "Kawakami",
+   "en": "Go keep yourself busy. *giggle*[n]I'll be careful with the curry.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

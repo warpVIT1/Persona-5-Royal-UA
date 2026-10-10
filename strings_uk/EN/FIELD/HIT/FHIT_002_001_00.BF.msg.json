@@ -1,0 +1,558 @@
+{
+ "file": "EN/FIELD/HIT/FHIT_002_001_00.BF",
+ "entries": [
+  {
+   "id": "DUMMY_MSG#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MSG_SCHOOL_GATE_NG_NIGHT#0",
+   "speaker": null,
+   "en": "The school is closed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SCHOOL_GATE_NG_HOLID#0",
+   "speaker": null,
+   "en": "The school's closed, but the[n]gate's open. Some students[n]might be here for clubs...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SCHOOL_GATE_HOLIDAY_#0",
+   "speaker": null,
+   "en": "The gate is open. Maybe I should[n]call a meeting on the rooftop...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SCHOOL_GATE_HOLIDAY__2#0",
+   "speaker": "Morgana",
+   "en": "Do you want to meet up at the[n]hideout today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CHECK_HOLIDAY_KAMO_SEL#0",
+   "speaker": null,
+   "en": "Call a meeting",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CHECK_HOLIDAY_KAMO_SEL#1",
+   "speaker": null,
+   "en": "Do something else",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_place#0",
+   "speaker": "Morgana",
+   "en": "You don't need to be here right[n]now, do you? Come on, let's head[n]somewhere else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_etc#0",
+   "speaker": "Morgana",
+   "en": "What's wrong? Come on, we should[n]go say goodbye to the others!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_School#0",
+   "speaker": "Morgana",
+   "en": "Shujin Academy... This is where[n]it all began...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_School#1",
+   "speaker": "Morgana",
+   "en": "Heh, we'd be here all day if we talked[n]about everything that happened here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_AUTO_M#0",
+   "speaker": "Morgana",
+   "en": "This vending machine was like an[n]oasis to students before school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_MAP#0",
+   "speaker": "Morgana",
+   "en": "We won't be needing a map of[n]Aoyama-Itchome anymore!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_ALLEY#0",
+   "speaker": "Morgana",
+   "en": "This is the place where we went into[n]Kamoshida's Palace and got Lady Ann[n]wrapped up in the Phantom Thieves...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_ALLEY#1",
+   "speaker": "Morgana",
+   "en": "It's already been a year...[n]How nostalgic.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103#0",
+   "speaker": null,
+   "en": "I'm curious about what[n]the others are doing...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RYUJI_0103#0",
+   "speaker": null,
+   "en": "Ryuji's here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RYUJI_0103#1",
+   "speaker": null,
+   "en": "Maybe I should talk to him...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_GATE_0103#0",
+   "speaker": null,
+   "en": "Let's go to a different area...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103to0108_Error_Not#0",
+   "speaker": null,
+   "en": "This is no time for shopping...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103to0108_Error_Not#1",
+   "speaker": null,
+   "en": "I should go check[n]up on everyone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103to0108_Error_Map#0",
+   "speaker": null,
+   "en": "It's a map for this area...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103to0108_Error_Map#1",
+   "speaker": null,
+   "en": "I should go check[n]up on everyone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103to0108_Error_Roj#0",
+   "speaker": null,
+   "en": "There's nothing[n]I need to do here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103to0108_Error_Roj#1",
+   "speaker": null,
+   "en": "I should go check[n]up on everyone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103to0108_Error_Sch#0",
+   "speaker": null,
+   "en": "There's nothing[n]I need at school...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_0103to0108_Error_Sch#1",
+   "speaker": null,
+   "en": "I should go check[n]up on everyone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SCHOOL_GATE_HEL#0",
+   "speaker": "Haru",
+   "en": "[fName]-kun?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SCHOOL_GATE_00#0",
+   "speaker": "Haru",
+   "en": "What seems to be the matter? Do you[n]need something from the roof?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SCHOOL_GATE_01#0",
+   "speaker": "Haru",
+   "en": "Um, everyone is going to see you[n]if you come here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SCHOOL_GATE_01#1",
+   "speaker": "Haru",
+   "en": "Did you want to go up to the roof?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_HARU_SCHOOL_GATE_02#0",
+   "speaker": null,
+   "en": "Please take me there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_HARU_SCHOOL_GATE_02#1",
+   "speaker": null,
+   "en": "Never mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_HARU_SCHOOL_GATE_08#0",
+   "speaker": null,
+   "en": "Please take me there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_HARU_SCHOOL_GATE_08#1",
+   "speaker": null,
+   "en": "I need to see Maruki.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_HARU_SCHOOL_GATE_08#2",
+   "speaker": null,
+   "en": "Never mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SCHOOL_GATE_03#0",
+   "speaker": "Haru",
+   "en": "I'm authorized to use the back entrance[n]to the school. Come on, we can go in[n]that way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SCHOOL_GATE_04#0",
+   "speaker": "Haru",
+   "en": "Let me know if you ever want to see[n]how the plants are doing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SCHOOL_GATE_05#0",
+   "speaker": "Haru",
+   "en": "Okay, follow me this way. We'll have[n]to sneak to the back entrance without[n]letting anyone notice us.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SCHOOL_GATE_06#0",
+   "speaker": "Haru",
+   "en": "The area around the school can get[n]a little dangerous at times, so please[n]remember to be careful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SCHOOL_GATE_07#0",
+   "speaker": "Haru",
+   "en": "I think Dr. Maruki is at the nurse's office.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_GATE#0",
+   "speaker": "Morgana",
+   "en": "Do you need something from[n]the school on a day off?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COUNSELING#0",
+   "speaker": null,
+   "en": "Go meet Maruki",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COUNSELING#1",
+   "speaker": null,
+   "en": "Never mind",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Juice_NotOpen#0",
+   "speaker": null,
+   "en": "I'm not thirsty right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Juice_Start#0",
+   "speaker": "Morgana",
+   "en": "Are you thinking of buying something[n]to drink?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Juice_SoldOut#0",
+   "speaker": "Morgana",
+   "en": "Everything's sold out... Let's wait for it[n]to get restocked next week.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Juice_AllBuy#0",
+   "speaker": "Morgana",
+   "en": "Whoops, everything's sold out.[n]Let's wait for it to get restocked[n]next week.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Juice_HeatIsland#0",
+   "speaker": "Morgana",
+   "en": "...Everything's sold out. I guess it's no[n]surprise with how hot it is right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CHK_SCHOOL_PLATE_M01#0",
+   "speaker": "Morgana",
+   "en": "Shujin Academy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CHK_SCHOOL_PLATE_M01#1",
+   "speaker": "Morgana",
+   "en": "What a brilliant name for a school...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CHK_SCHOOL_PLATE_01#0",
+   "speaker": null,
+   "en": "This is the school's nameplate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CHK_SCHOOL_PLATE_01#1",
+   "speaker": null,
+   "en": "It looks a little worn down...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAP_MORU#0",
+   "speaker": "Morgana",
+   "en": "Shujin Academy's smack dab in the[n]middle of some big office buildings.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAP#0",
+   "speaker": null,
+   "en": "Shujin Academy is surrounded[n]by tall office buildings...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ALLEY#0",
+   "speaker": "Morgana",
+   "en": "It's just an alleyway...[n][f 4 10 65535 0 0]Is something wrong?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ALLEY#0",
+   "speaker": null,
+   "en": "This is a narrow alley...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ALLEY#1",
+   "speaker": null,
+   "en": "I should be able to get to the station[n]through here, but I don't remember[n]the exact route...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12710100_SchoolGate#0",
+   "speaker": null,
+   "en": "I seem to have made it[n]to school safely... What[n]was that castle, though?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130700_SchoolGate#0",
+   "speaker": null,
+   "en": "There's nothing in particular[n]I need to do, so I'll just[n]quietly go home today...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_NG_SCHOOL_#0",
+   "speaker": "Ryuji",
+   "en": "You forget somethin'? C'mon, let's[n]hurry and get to Madarame's house!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12710100_NG_Station#0",
+   "speaker": null,
+   "en": "I better hurry and get to school...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12710100_CHK_AUTO_M#0",
+   "speaker": null,
+   "en": "I'll come back here and buy[n]something when I have the time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_CHK_AUTO_M#0",
+   "speaker": "Ann",
+   "en": "Hey, can we head to Madarame's house[n]already?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_AUTO_MACH#0",
+   "speaker": null,
+   "en": "I'll come back here and buy[n]something when I have the time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12710100_CHK_SCHOOL#0",
+   "speaker": null,
+   "en": "The school's name is[n]written so elegantly...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_CHK_SCHOOL#0",
+   "speaker": "Ann",
+   "en": "What's wrong? Let's go already.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_SCHOOL_PL#0",
+   "speaker": null,
+   "en": "The school's name is[n]written so elegantly...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12710100_CHK_MAP_00#0",
+   "speaker": null,
+   "en": "The school's entrance[n]is up ahead...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_CHK_MAP_00#0",
+   "speaker": "Ryuji",
+   "en": "Hm? You forget how to get to the station?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_CHK_MAP_00_2#0",
+   "speaker": "Morgana",
+   "en": "He's not like you, Ryuji...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_CHK_MAP_00_3#0",
+   "speaker": "Ryuji",
+   "en": "What'd you just say!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_MAP_000_0#0",
+   "speaker": null,
+   "en": "The station is on the[n]other side of the school...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12710100_CHK_ALLEY_#0",
+   "speaker": null,
+   "en": "It's the alley that Ryuji and I[n]walked through yesterday...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_CHK_ALLEY_#0",
+   "speaker": "Ryuji",
+   "en": "Oh, you wanna go that way?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E19310100_CHK_ALLEY__2#0",
+   "speaker": "Ann",
+   "en": "What? Why do you want to go through[n]there? Let's just take the normal route.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_ALLEY_000#0",
+   "speaker": null,
+   "en": "There's nothing that[n]I need to do up ahead.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

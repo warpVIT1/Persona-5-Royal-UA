@@ -1,0 +1,89 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR7000_002_010.BF",
+ "entries": [
+  {
+   "id": "MSG_START_SeedSelect#0",
+   "speaker": "Haru",
+   "en": "These vegetables should grow nicely[n]here. What do you think?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DayCount_Test#0",
+   "speaker": "Haru",
+   "en": "The [f 2 5 3 9999 0] is[n]doing well. It should be[n]ready to harvest on [clr 2][var 1]/[var 2][clr 27]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DayCount_Test#1",
+   "speaker": "Haru",
+   "en": "Hehe. I hope you're looking forward to it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SeedSelect_Cancel#0",
+   "speaker": "Haru",
+   "en": "Let me know when you want to plant[n]something. I'll do my best to grow it[n]for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NowPlant_Pattern01#0",
+   "speaker": "Haru",
+   "en": "Heheh. I hope it grows to be big...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NowPlant_Pattern02#0",
+   "speaker": "Haru",
+   "en": "Oh, this one's doing really well.[n]I'm sure it'll grow nice and big.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NowPlant_Pattern03#0",
+   "speaker": "Haru",
+   "en": "We have to be careful not to damage[n]the roots. I hope this grows up healthy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NowPlant_Pattern04#0",
+   "speaker": "Haru",
+   "en": "Plants grow better if you talk to them,[n]you know? Grow big, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GetPlant_Think#0",
+   "speaker": "Haru",
+   "en": "Those ones have done enough growing,[n]so we can harvest them now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GetPlant_Low#0",
+   "speaker": "Haru",
+   "en": "I'm feeling confident about these ones![n]Treat them with care and respect, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GetPlant_High#0",
+   "speaker": "Haru",
+   "en": "They're all so healthy! Treat them with[n]care and respect, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Plnater_HarvestNow#0",
+   "speaker": "Haru",
+   "en": "There we go... Heheh. They've grown[n]so well.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

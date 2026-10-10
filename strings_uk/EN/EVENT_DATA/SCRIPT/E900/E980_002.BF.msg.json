@@ -1,0 +1,271 @@
+{
+ "file": "EN/EVENT_DATA/SCRIPT/E900/E980_002.BF",
+ "entries": [
+  {
+   "id": "GENERIC_HELP_00#0",
+   "speaker": null,
+   "en": "Play '01 with Ryuji",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GENERIC_HELP_01#0",
+   "speaker": null,
+   "en": "Play '01 with Morgana",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GENERIC_HELP_02#0",
+   "speaker": null,
+   "en": "Play '01 with Ann",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GENERIC_HELP_03#0",
+   "speaker": null,
+   "en": "Play '01 with Yusuke",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GENERIC_HELP_04#0",
+   "speaker": null,
+   "en": "Play '01 with Makoto",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GENERIC_HELP_05#0",
+   "speaker": null,
+   "en": "Play '01 with Futaba",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GENERIC_HELP_06#0",
+   "speaker": null,
+   "en": "Play '01 with Haru",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GENERIC_HELP_07#0",
+   "speaker": null,
+   "en": "Play '01 with Akechi",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GENERIC_HELP_08#0",
+   "speaker": null,
+   "en": "Play '01 with Kasumi",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_000_0_0#0",
+   "speaker": "Matoba",
+   "en": "Would you like to place a bet?[n]We'll be playing '01.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_000_0_0#1",
+   "speaker": "Matoba",
+   "en": "I don't mind if you pair up. And if you[n]can beat me, you don't have to pay.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_0_0#0",
+   "speaker": "Matoba",
+   "en": "Would you like to place another bet?[n]Same rules, '01.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_0_0#1",
+   "speaker": "Matoba",
+   "en": "If you can beat me, you won't have to pay.[n]But I'm not losing this time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_002_0_0#0",
+   "speaker": "Matoba",
+   "en": "Would you like to place another bet?[n]Same rules, '01.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_002_0_0#1",
+   "speaker": "Matoba",
+   "en": "If you can beat me, you won't have[n]to pay. That said, I'm going to win this[n]time as well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_003_0_0#0",
+   "speaker": null,
+   "en": "Who should I pair up with?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_004_0_0#0",
+   "speaker": null,
+   "en": "Ryuji[ref 0 0]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_004_0_0#1",
+   "speaker": null,
+   "en": "Morgana[ref 1 1]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_004_0_0#2",
+   "speaker": null,
+   "en": "Ann[ref 2 2]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_004_0_0#3",
+   "speaker": null,
+   "en": "Yusuke[ref 3 3]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_004_0_0#4",
+   "speaker": null,
+   "en": "Makoto[ref 4 4]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_004_0_0#5",
+   "speaker": null,
+   "en": "Futaba[ref 5 5]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_004_0_0#6",
+   "speaker": null,
+   "en": "Haru[ref 6 6]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_004_0_0#7",
+   "speaker": null,
+   "en": "Akechi[ref 7 7]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_004_0_0#8",
+   "speaker": null,
+   "en": "Kasumi[ref 8 8]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_005_0_0#0",
+   "speaker": "Matoba",
+   "en": "My score is ●●. Temp message.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_006_0_0#0",
+   "speaker": "Matoba",
+   "en": "Your score is ●●. Temp message.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_007_0_0#0",
+   "speaker": null,
+   "en": "Dummy",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_008_0_0#0",
+   "speaker": null,
+   "en": "Dummy",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_009_0_0#0",
+   "speaker": "Matoba",
+   "en": "Looks like you win. As promised,[n]I'll give you back your money.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_0#0",
+   "speaker": "Matoba",
+   "en": "Looks like I win. Well, I hope you[n]continue to have a good time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_011_0_0#0",
+   "speaker": null,
+   "en": "Message that states the[n]Baton Pass effect has increased.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_MINIGAME_KARI#0",
+   "speaker": null,
+   "en": "Success? Failure?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MINIGAME_KARI#0",
+   "speaker": null,
+   "en": "Success",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MINIGAME_KARI#1",
+   "speaker": null,
+   "en": "Failure",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_chr_haiti#0",
+   "speaker": null,
+   "en": "Confirm character positions?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti_dbg#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_chr_haiti_dbg#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

@@ -1,0 +1,334 @@
+{
+ "file": "EN/BATTLE/TALK/TALK_03PRIEST_EN.BF",
+ "entries": [
+  {
+   "id": "EnTalkMsg_DUMMY#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "DebugMsg_ERROR#0",
+   "speaker": null,
+   "en": "(Error)",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_00#0",
+   "speaker": null,
+   "en": "This lost lamb is writhing in pain...[n]Hahaha.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_00#1",
+   "speaker": null,
+   "en": "If you grant me [f 2 5 3 9999 3],[n]perhaps salvation will come...[n]What is your decision?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_01#0",
+   "speaker": null,
+   "en": "This lost lamb is writhing in pain...[n]Hahaha.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_01#1",
+   "speaker": null,
+   "en": "Let's see... If you grant me a tithe of[n][var 0] yen, perhaps I may be willing[n]to release them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_02#0",
+   "speaker": null,
+   "en": "This lost lamb is enduring a great pain...[n]Won't you grant them salvation?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_02#1",
+   "speaker": null,
+   "en": "I ask for a tithe of your health. Only then[n]shall I consider releasing them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_03#0",
+   "speaker": null,
+   "en": "This lost lamb is enduring a great pain...[n]Won't you grant them salvation?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_03#1",
+   "speaker": null,
+   "en": "I ask for a tithe of your stamina. Only[n]then shall this lamb rejoin the flock.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_EN_CONTACT#0",
+   "speaker": null,
+   "en": "Fine, you win.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_EN_CONTACT#1",
+   "speaker": null,
+   "en": "I can't meet your demands.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_EN_CONTACT#2",
+   "speaker": null,
+   "en": "Call Thieves Guild ([var 5] left).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_EN_CONTACT#3",
+   "speaker": null,
+   "en": "[clr 2]You're up, Panther.[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_00#0",
+   "speaker": null,
+   "en": "You lack sincerity. I shall not release[n]this lamb unless our Father wills it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_00#1",
+   "speaker": null,
+   "en": "...This time, I ask for [f 2 5 3 9999 3].[n]Be calm and submit to our Father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_01#0",
+   "speaker": null,
+   "en": "...This tithe isn't enough. This lamb[n]cannot return to the flock with just this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_01#1",
+   "speaker": null,
+   "en": "This time, I ask for a tithe of [var 0] yen.[n]Allow me to ascertain your sincerity...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_02#0",
+   "speaker": null,
+   "en": "...Our Father is not satisfied. Perhaps we[n]should ask for more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_02#1",
+   "speaker": null,
+   "en": "This time, He demands your health.[n]You must be willing to sacrifice yourself[n]as our Father did.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_03#0",
+   "speaker": null,
+   "en": "...More sacrifices must be made if we are[n]to prove our authority over you mortals.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_03#1",
+   "speaker": null,
+   "en": "This time, I ask for your stamina. I shall[n]ascertain how much you're willing to[n]sacrifice...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_AGREE_00#0",
+   "speaker": null,
+   "en": "...Very well. It's about time I return this[n]lost lamb to flock.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_AGREE_01#0",
+   "speaker": null,
+   "en": "...I truly understand your resolve now.[n]I shall return this lost lamb to flock.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_SLAY_00#0",
+   "speaker": null,
+   "en": "Will you forsake this lamb? Blasphemy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_SLAY_00#1",
+   "speaker": null,
+   "en": "I did not wish for such an end... but[n]judgment must be called.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_SLAY_01#0",
+   "speaker": null,
+   "en": "You show no leniency even to those[n]beloved by our Father?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_SLAY_01#1",
+   "speaker": null,
+   "en": "Allow me to dispel this notion. May[n]Father grant them mercy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FORGIVE_00#0",
+   "speaker": null,
+   "en": "Will you forsake this lamb? Blasphemy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FORGIVE_00#1",
+   "speaker": null,
+   "en": "I cannot converse with one capable of[n]such despicable actions... Farewell.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FORGIVE_01#0",
+   "speaker": null,
+   "en": "Filthy child of sin. Repent your merciless[n]ways.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FORGIVE_01#1",
+   "speaker": null,
+   "en": "Our Father is watching you at all times. I[n]shall release this lamb and take my leave.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FLEE_00#0",
+   "speaker": null,
+   "en": "Well then, I shall take my leave. Good[n]day to you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FLEE_01#0",
+   "speaker": null,
+   "en": "There is no need for me to quarrel with[n]you any longer. I shall take my leave...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_ACCEPT_00#0",
+   "speaker": null,
+   "en": "Well then, let us finish this battle.[n]Prepare yourself!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_ACCEPT_01#0",
+   "speaker": null,
+   "en": "...This will suffice. Now then, let us[n]resume.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FALTER_00#0",
+   "speaker": null,
+   "en": "Father! To think this child would be this[n]prepared!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FALTER_01#0",
+   "speaker": null,
+   "en": "Who dares disturb my sermon!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FAKE_CRIED00#0",
+   "speaker": null,
+   "en": "Stop that at once! I shall forgive you, but[n]grant me [f 2 5 3 9999 3].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FAKE_CRIED01#0",
+   "speaker": null,
+   "en": "Hopeless child of Man! I shall only allow[n]such impudence for a tithe of [var 0] yen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FAKE_CRIED02#0",
+   "speaker": null,
+   "en": "Stop that at once! Fine, I shall forgive you[n]if you grant me your health.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FAKE_CRIED03#0",
+   "speaker": null,
+   "en": "Such immaturity! I shall only allow such[n]impudence if you grant me your stamina.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FAKE_COUP00#0",
+   "speaker": null,
+   "en": "O-Oh Father... Was I too harsh? Calm[n]down and don't mind my words!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FAKE_COUP01#0",
+   "speaker": null,
+   "en": "Dear Father... To think that I would forget[n]mercy. Perhaps I shall take my leave...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_NO_REQUIREMENT#0",
+   "speaker": null,
+   "en": "You do not have what I require.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CharmActing#0",
+   "speaker": "Ann",
+   "en": "No... How could you take that from us?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NetEngo#0",
+   "speaker": null,
+   "en": "Another band of thieves[n]responded to the call!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

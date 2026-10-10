@@ -1,0 +1,1384 @@
+{
+ "file": "EN/BATTLE/EVENT/SCRIPT/030A.BF",
+ "entries": [
+  {
+   "id": "MSG_BTLSTART_000_006#0",
+   "speaker": "Shadow Sae",
+   "en": "Now, let us play a game of roulette.[n]The stakes will be... our lives.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_000_006#1",
+   "speaker": "Shadow Sae",
+   "en": "Of course, acts of violence are[n]forbidden here. One must follow the[n]rules.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_040_000#0",
+   "speaker": "Futaba",
+   "en": "We already told you, there's no way[n]we're gonna follow your rules anymore!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_050_006#0",
+   "speaker": "Shadow Sae",
+   "en": "That's fine by me. Such troublesome[n]people will just face the penalty...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_999_006#0",
+   "speaker": "Futaba",
+   "en": "All right, let's do it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLDFIRSTROU_000_000#0",
+   "speaker": "Shadow Sae",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_060_000#0",
+   "speaker": "Shadow Sae",
+   "en": "You will predict which pocket the ball[n]will fall into.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_060_000#1",
+   "speaker": "Shadow Sae",
+   "en": "Now, the time has come for our first[n]round. Choose where you will place[n]your bet!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTSUIKA_000_002#0",
+   "speaker": "Morgana",
+   "en": "I'm almost positive she's going to try[n]and cheat, but even if we bring that up,[n]she'd just ignore us.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTSUIKA_000_002#1",
+   "speaker": "Morgana",
+   "en": "We should go along with the game for[n]now and try to gain evidence on her[n]methods of cheating.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTSUIKA_010_008#0",
+   "speaker": "Akechi",
+   "en": "...I agree.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRSTROULETTE_000_00#0",
+   "speaker": null,
+   "en": "Predict which pocket the ball will fall[n]into before your turn begins.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRSTROULETTE_000_00#1",
+   "speaker": null,
+   "en": "Various bonuses will be applied to the[n]enemies or your allies depending on[n]the outcome.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRSTROULETTE_000_00#2",
+   "speaker": null,
+   "en": "Greater bonuses will be given for more[n]difficult predictions.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRSTROULETTE_000_00#3",
+   "speaker": null,
+   "en": "Carefully consider the flow of battle[n]when determining where you place[n]your bet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRSTROULETTE_010_00#0",
+   "speaker": "Shadow Sae",
+   "en": "Have you made your decision?[n]Then let's see the results!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_900_000#0",
+   "speaker": "Morgana",
+   "en": "We lost... Have you figured anything[n]out, Joker?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TSUIKA_100_0_S#0",
+   "speaker": null,
+   "en": "I don't know...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TSUIKA_100_0_S#1",
+   "speaker": null,
+   "en": "I most certainly have.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_910_000#0",
+   "speaker": "Morgana",
+   "en": "Let's keep watching her then. There[n]has to be something not right going on[n]here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_920_000#0",
+   "speaker": "Morgana",
+   "en": "Really!? How is she doing it!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TSUIKA01_000_0_S#0",
+   "speaker": null,
+   "en": "She's not actually cheating.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TSUIKA01_000_0_S#1",
+   "speaker": null,
+   "en": "The pockets are drawings.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TSUIKA01_000_0_S#2",
+   "speaker": null,
+   "en": "There's a glass lid.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTSUIKA_990_000#0",
+   "speaker": "Akechi",
+   "en": "That can't be!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTSUIKA_991_000#0",
+   "speaker": "Morgana",
+   "en": "There's no way she's playing this fair[n]and square. Let's keep watching and[n]figure it out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTSUIKA_993_000#0",
+   "speaker": "Morgana",
+   "en": "I don't think that's the case. The ball[n]did fall into the pocket.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTSUIKA_993_000#1",
+   "speaker": "Morgana",
+   "en": "Let's try observing a little more closely[n]so we can expose her trickery.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTSUIKA_994_000#0",
+   "speaker": "Morgana",
+   "en": "I see... you're right! It did seem like the[n]ball floated for a split second there...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTSUIKA_995_000#0",
+   "speaker": "Akechi",
+   "en": "How humiliating...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRSTROULETTE_020_00#0",
+   "speaker": "Futaba",
+   "en": "We lost...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRSTROULETTE_030_00#0",
+   "speaker": "Shadow Sae",
+   "en": "It seems luck was not on your side this[n]time. Try again next round.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRSTPENALTY_000_000#0",
+   "speaker": "Shadow Sae",
+   "en": "Ah... So you've broken the rules.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRSTPENALTY_000_000#1",
+   "speaker": "Shadow Sae",
+   "en": "In that case, it's time you be penalized!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRSTPENALTY_010_000#0",
+   "speaker": "Shadow Sae",
+   "en": "In that case, it's time you be penalized!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRSTPENALTY_020_006#0",
+   "speaker": "Futaba",
+   "en": "What!? THIS is the penalty!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRSTPENALTY_030_000#0",
+   "speaker": "Shadow Sae",
+   "en": "Those who cannot follow rules are not[n]to be tolerated. That is simply how[n]society operates.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SECONDROULETTE_000_0#0",
+   "speaker": "Futaba",
+   "en": "The stuff displayed on the monitor[n]changed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SECONDROULETTE_000_0#1",
+   "speaker": "Futaba",
+   "en": "That must mean the betting changes[n]every time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SECONDROULETTE_000_0_2#0",
+   "speaker": "Futaba",
+   "en": "The stuff displayed on the monitor[n]changed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SECONDROULETTE_000_0_3#0",
+   "speaker": "Futaba",
+   "en": "That must mean the betting changes[n]every time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SECONDROULETTE_010_0#0",
+   "speaker": "Futaba",
+   "en": "That must mean the betting changes[n]every time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NEXTRURE_000_000#0",
+   "speaker": "Shadow Sae",
+   "en": "Very well, time to make your bet!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRSTPENALTY_040_006#0",
+   "speaker": "Futaba",
+   "en": "Ngh...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_200_000#0",
+   "speaker": "Morgana",
+   "en": "We lost... Have you figured anything[n]out, Joker?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SECONDTRICK_000_006#0",
+   "speaker": "Futaba",
+   "en": "W-We lost three times in a row...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SECONDTRICK_000_006#1",
+   "speaker": "Futaba",
+   "en": "She has to be cheating!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SECONDTRICK_000_006#2",
+   "speaker": "Futaba",
+   "en": "I don't know how she's doing it, but[n]it's weird to lose this many times!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SECONDTRICK_010_006#0",
+   "speaker": "Futaba",
+   "en": "She has to be cheating!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SECONDTRICK_010_006#1",
+   "speaker": "Futaba",
+   "en": "I don't know how she's doing it, but[n]it's weird to lose this many times!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TREE_001_0_S#0",
+   "speaker": null,
+   "en": "The enemy might be cheating. However,[n]we don't know how they're doing it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TREE_001_0_S#0",
+   "speaker": null,
+   "en": "She's not cheating.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TREE_001_0_S#1",
+   "speaker": null,
+   "en": "There's a glass lid.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TREE_001_0_S#2",
+   "speaker": null,
+   "en": "The pockets are just pictures.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TREE_001_0_S_0#0",
+   "speaker": "Futaba",
+   "en": "The situation isn't that simple.[n]She's almost certainly cheating.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TREE_001_0_S_1#0",
+   "speaker": "Futaba",
+   "en": "The pocket's been reflecting light oddly...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TREE_001_0_S_1#1",
+   "speaker": "Futaba",
+   "en": "Could this mean...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TREE_001_0_S_2#0",
+   "speaker": "Futaba",
+   "en": "The ball has fallen into some of the[n]pockets. They can't just be fake.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MEMBERRELEASED_000_0#0",
+   "speaker": "Futaba",
+   "en": "Glass lids!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MEMBERRELEASED_000_0#1",
+   "speaker": "Futaba",
+   "en": "She must really think we're dumb to[n]try something so straightforward!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MEMBERRELEASED_010_0#0",
+   "speaker": "Futaba",
+   "en": "Let's catch her in the act so she can't[n]talk her way out of it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MEMBERRELEASED_010_0#1",
+   "speaker": "Futaba",
+   "en": "Have someone snipe the pocket when[n]that glass lid appears!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MEMBERRELEASED_010_0#2",
+   "speaker": "Futaba",
+   "en": "You're in charge of choosing who's[n]gonna be the sniper!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MEMBERRELEASED_020_0#0",
+   "speaker": "Futaba",
+   "en": "Have someone snipe the pocket when[n]that glass lid appears!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MEMBERRELEASED_030_0#0",
+   "speaker": "Futaba",
+   "en": "You're in charge of choosing who's[n]gonna be the sniper!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTSUIKA_700_000#0",
+   "speaker": "Morgana",
+   "en": "Hey, maybe I'm just seeing things, but[n]didn't that ball float for a split second[n]there...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TREE_900_0_S#0",
+   "speaker": null,
+   "en": "Are the pockets drawings?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TREE_900_0_S#1",
+   "speaker": null,
+   "en": "Is there a glass lid?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTSUIKA_500_000#0",
+   "speaker": "Morgana",
+   "en": "I don't think that's the case. The ball[n]did fall into the pocket.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTSUIKA_500_000#1",
+   "speaker": "Morgana",
+   "en": "But it looked like it was floating briefly[n]before it did, I swear.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTSUIKA_400_002#0",
+   "speaker": "Morgana",
+   "en": "Oh, so that's what was happening!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTSUIKA_410_008#0",
+   "speaker": "Akechi",
+   "en": "How humiliating...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTSUIKA_420_006#0",
+   "speaker": "Futaba",
+   "en": "Let's catch her in the act so she can't[n]talk her way out of it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTSUIKA_420_006#1",
+   "speaker": "Futaba",
+   "en": "Have someone snipe the pocket when[n]that glass lid appears!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "charaorder_Reiji_02#0",
+   "speaker": "Ryuji",
+   "en": "Leave it to me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "charaorder_Morgana_02#0",
+   "speaker": "Morgana",
+   "en": "I'm off!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "charaorder_Ann_02#0",
+   "speaker": "Ann",
+   "en": "Okay, Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "charaorder_Yugo_02#0",
+   "speaker": "Yusuke",
+   "en": "Very well. Hang in there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "charaorder_Makoto_02#0",
+   "speaker": "Makoto",
+   "en": "Okay... I'll give it a try!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "charaorder_Ranko_02#0",
+   "speaker": "Haru",
+   "en": "Okay, I'll go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "charaorder_Akechi_02#0",
+   "speaker": "Akechi",
+   "en": "Yes. I will pull it off without a hitch!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION01_000_000#0",
+   "speaker": "Shadow Sae",
+   "en": "If you intend on defeating me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION01_010_000#0",
+   "speaker": "Shadow Sae",
+   "en": "...you will need to have luck on your[n]side.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION01_020_002#0",
+   "speaker": "Morgana",
+   "en": "We've got tons of bad luck on our side,[n]don't worry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION01_030_002#0",
+   "speaker": "Morgana",
+   "en": "Joker! Keep going!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION01_020_003#0",
+   "speaker": "Ann",
+   "en": "Luck, huh? Whatever.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION01_030_003#0",
+   "speaker": "Ann",
+   "en": "Joker! Hang in there!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION01_020_004#0",
+   "speaker": "Yusuke",
+   "en": "Luck, hm...? How suspicious.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION01_030_004#0",
+   "speaker": "Yusuke",
+   "en": "You will have to hold out just a bit[n]more, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION01_020_005#0",
+   "speaker": "Makoto",
+   "en": "Sis...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION01_030_005#0",
+   "speaker": "Makoto",
+   "en": "Joker, just hold on a little longer...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION01_020_008#0",
+   "speaker": "Akechi",
+   "en": "This is going well...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION01_030_008#0",
+   "speaker": "Akechi",
+   "en": "Keep it up, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION02_000_000#0",
+   "speaker": "Shadow Sae",
+   "en": "Lady Luck can be summoned with ease.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION02_010_000#0",
+   "speaker": "Shadow Sae",
+   "en": "That is, if you hold the conviction that[n]you cannot lose.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION02_020_002#0",
+   "speaker": "Morgana",
+   "en": "Hmph, we'll be the ones laughing in[n]the end...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION02_030_002#0",
+   "speaker": "Morgana",
+   "en": "Dummy",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION02_020_003#0",
+   "speaker": "Ann",
+   "en": "We don't have any[n]intention of losing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION02_030_003#0",
+   "speaker": "Ann",
+   "en": "Dummy",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION02_020_004#0",
+   "speaker": "Yusuke",
+   "en": "Everything is going as planned. I will[n]use this moment to proceed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION02_030_004#0",
+   "speaker": "Yusuke",
+   "en": "Dummy",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION02_020_005#0",
+   "speaker": "Makoto",
+   "en": "Looks like she hasn't noticed yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION02_030_005#0",
+   "speaker": "Makoto",
+   "en": "Dummy",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION02_020_008#0",
+   "speaker": "Akechi",
+   "en": "This is going well...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION02_030_008#0",
+   "speaker": "Akechi",
+   "en": "This is going well... I'm proceeding on!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION03_000_000#0",
+   "speaker": "Shadow Sae",
+   "en": "It is frightening to be forsaken by[n]Lady Luck... No matter what you do,[n]you are doomed to failure...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION03_000_000#1",
+   "speaker": "Shadow Sae",
+   "en": "If you tire of this, be sure to remember[n]that surrendering with grace is[n]important.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTION03_010_000#0",
+   "speaker": "Shadow Sae",
+   "en": "If you tire of this, be sure to remember[n]that surrendering with grace is[n]important.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ATTENTIONSUCCESS_M_0#0",
+   "speaker": "Futaba",
+   "en": "The sniper is in their designated spot.[n]All that's left is to wait for the next[n]roulette spin.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TRICKBUSTER_000_002#0",
+   "speaker": "Morgana",
+   "en": "All right, I'm shooting it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TRICKBUSTER_000_003#0",
+   "speaker": "Ann",
+   "en": "Here it comes!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TRICKBUSTER_000_004#0",
+   "speaker": "Yusuke",
+   "en": "Now is my chance!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TRICKBUSTER_000_005#0",
+   "speaker": "Makoto",
+   "en": "I must stop my sister...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TRICKBUSTER_000_008#0",
+   "speaker": "Akechi",
+   "en": "I hope you're prepared!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TRICKBUSTER_010_000#0",
+   "speaker": "Shadow Sae",
+   "en": "Hopefully your prediction will be[n]correct this time. *chuckle*",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TRICKBUSTER_010_001#0",
+   "speaker": "Shadow Sae",
+   "en": "WH— WHAT!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TRICKBUSTER_020_006#0",
+   "speaker": "Futaba",
+   "en": "Heheh... Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TSUMIBOUSHI_000_006#0",
+   "speaker": "Shadow Sae",
+   "en": "Goodness me, you just keep losing.[n]It seems luck isn't with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TSUMIBOUSHI_010_006#0",
+   "speaker": "Futaba",
+   "en": "Sh-Shut up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TSUMIBOUSHI_010_006#1",
+   "speaker": "Futaba",
+   "en": "You're probably cheating! How else[n]would we keep losing like this!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TSUMIBOUSHI_020_000#0",
+   "speaker": "Shadow Sae",
+   "en": "Hmph! Why would I cheat...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TSUMIBOUSHI_030_006#0",
+   "speaker": "Futaba",
+   "en": "There's no way you're not, you liar![n]It's totally obvious!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TSUMIBOUSHI_030_006#1",
+   "speaker": "Futaba",
+   "en": "You're only up against me and Joker,[n]you know! You're supposed to be an[n]adult! You should be ashamed!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TSUMIBOUSHI_030_006#2",
+   "speaker": "Futaba",
+   "en": "More importantly, are you so weak[n]that you have to cheat to win?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TSUMIBOUSHI_030_006#3",
+   "speaker": "Futaba",
+   "en": "And you call yourself a Palace ruler?[n]You're just a wimp! You should totally[n]be ashamed!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TSUMIBOUSHI_031_000#0",
+   "speaker": "Shadow Sae",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TSUMIBOUSHI_040_006#0",
+   "speaker": "Futaba",
+   "en": "More importantly, are you so weak[n]that you have to cheat to win?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TSUMIBOUSHI_040_006#1",
+   "speaker": "Futaba",
+   "en": "And you call yourself a Palace ruler?[n]You're just a wimp! You should totally[n]be ashamed!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TSUMIBOUSHI_050_000#0",
+   "speaker": "Shadow Sae",
+   "en": "You only dare talk like that because[n]you can't beat me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TSUMIBOUSHI_060_006#0",
+   "speaker": "Futaba",
+   "en": "Shut it! To begin with—",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TSUMIBOUSHI_070_000#0",
+   "speaker": "Shadow Sae",
+   "en": "You're the one who needs to shut up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HOLDUP_000_002#0",
+   "speaker": "Morgana",
+   "en": "Dummy",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HOLDUP_000_003#0",
+   "speaker": "Ann",
+   "en": "Dummy",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HOLDUP_000_004#0",
+   "speaker": "Yusuke",
+   "en": "Dummy",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HOLDUP_000_005#0",
+   "speaker": "Makoto",
+   "en": "Dummy",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HOLDUP_000_008#0",
+   "speaker": "Akechi",
+   "en": "Dummy",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HOLDUP_010_006#0",
+   "speaker": "Futaba",
+   "en": "What was that about fair and square!?[n]You were totally cheating!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HOLDUP_020_006#0",
+   "speaker": "Futaba",
+   "en": "Dummy",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HOLDUP_030_000#0",
+   "speaker": "Shadow Sae",
+   "en": "Nnh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HOLDUP_030_000#1",
+   "speaker": "Shadow Sae",
+   "en": "Ngh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HOLDUP_040_006#0",
+   "speaker": "Futaba",
+   "en": "You coward! What're you so quiet for!?[n]Say something!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HOLDUP_050_000#0",
+   "speaker": "Shadow Sae",
+   "en": "Dummy",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HOLDUP_060_000#0",
+   "speaker": "Shadow Sae",
+   "en": "Dummy",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HOLDUP_070_000#0",
+   "speaker": "Shadow Sae",
+   "en": "Shut up... SHUT UUUP!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SECONDMODE_000_005#0",
+   "speaker": "Makoto",
+   "en": "S-Sis!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SECONDMODE_000_006#0",
+   "speaker": "Futaba",
+   "en": "What the—!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SECONDMODE_010_000#0",
+   "speaker": "Shadow Sae",
+   "en": "Cheating!? Unfair!? Silence! This is[n]MY world!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SECONDMODE_010_000#1",
+   "speaker": "Shadow Sae",
+   "en": "I AM the law! I am everything! No one[n]in this world deserves to win, except for[n]ME!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SECONDMODE_020_000#0",
+   "speaker": "Shadow Sae",
+   "en": "If you still dare to defy my justice, then[n]prepare to be totally crushed!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SECONDMODE_030_005#0",
+   "speaker": "Makoto",
+   "en": "This... is my sister's true nature!? No...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SECONDMODE_030_006#0",
+   "speaker": "Futaba",
+   "en": "So this is her true nature...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SECONDMODE_040_006#0",
+   "speaker": "Futaba",
+   "en": "We're finally back to a normal fight...[n]Good luck, Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GOBET_000_008#0",
+   "speaker": "Futaba",
+   "en": "The roulette wheel is spinning again.[n]She doesn't have control over it...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GOBET_010_008#0",
+   "speaker": "Futaba",
+   "en": "Hey, doesn't this seem like a good[n]opportunity for us?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GOBET_010_008#1",
+   "speaker": "Futaba",
+   "en": "She won't cheat anymore, so if we win[n]at roulette, we'll have an advantage!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SECONDROULE_000_000#0",
+   "speaker": "Morgana",
+   "en": "You're being a sore loser!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SECONDROULE_010_000#0",
+   "speaker": "Shadow Sae",
+   "en": "I never lose, even in games of pure[n]luck! Let me prove it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SECONDROULE_020_000#0",
+   "speaker": "Morgana",
+   "en": "So she's not going to cheat anymore...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SECONDROULE_020_000#1",
+   "speaker": "Morgana",
+   "en": "This may be a good opportunity for us,[n]Joker. If we win at roulette, we'll get an[n]advantage in battle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HP75_000_000#0",
+   "speaker": "Shadow Sae",
+   "en": "As long as you win, it doesn't matter[n]what methods you use!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HP75_000_000#1",
+   "speaker": "Shadow Sae",
+   "en": "Don't you all think the same!? You're[n]controlling the hearts of others to[n]achieve your own goals!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HP75_010_005#0",
+   "speaker": "Makoto",
+   "en": "It's not for us! We only do it to help[n]others who are suffering!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HP75_010_008#0",
+   "speaker": "Akechi",
+   "en": "It's not for us! Those actions are for[n]justice!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HP75_010_006#0",
+   "speaker": "Futaba",
+   "en": "We're not doing it for us! We just[n]wanna help people in trouble!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HP50_000_000#0",
+   "speaker": "Shadow Sae",
+   "en": "Only victory matters! To guarantee it,[n]you have to be willing to do anything![n]Doesn't might make right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HP50_000_000#1",
+   "speaker": "Shadow Sae",
+   "en": "No matter what happens here, I need to[n]keep winning!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HP50_000_005#0",
+   "speaker": "Makoto",
+   "en": "Sis, why!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HP50_000_010#0",
+   "speaker": "Futaba",
+   "en": "What kinda logic is that!? It's about time[n]you came to your senses!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HP25_000_000#0",
+   "speaker": "Shadow Sae",
+   "en": "I... I just need to win...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HP25_000_000#1",
+   "speaker": "Shadow Sae",
+   "en": "As long as I can win... that's all that[n]matters...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HP25_020_005#0",
+   "speaker": "Makoto",
+   "en": "Sis...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HP00_010_005#0",
+   "speaker": "Makoto",
+   "en": "Sis!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLDFIRSTROU_000_000_2#0",
+   "speaker": "Shadow Sae",
+   "en": "EX......。",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TSUMIBOUSHI_031_000E#0",
+   "speaker": "Shadow Sae",
+   "en": "EX......。",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SECONDMODE_000_005EX#0",
+   "speaker": "Makoto",
+   "en": "S-Sis!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SECONDMODE_000_006EX#0",
+   "speaker": "Futaba",
+   "en": "What the—!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SECONDMODE_010_000EX#0",
+   "speaker": "Shadow Sae",
+   "en": "Cheating!? Unfair!? Silence! This is[n]MY world!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SECONDMODE_010_000EX#1",
+   "speaker": "Shadow Sae",
+   "en": "I AM the law! I am everything! No one[n]in this world deserves to win, except for[n]ME!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SECONDMODE_020_000EX#0",
+   "speaker": "Shadow Sae",
+   "en": "If you still dare to defy my justice, then[n]prepare to be totally crushed!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXTRA_HINT0#0",
+   "speaker": "Akechi",
+   "en": "What? The roulette panels changed?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXTRA_HINT0B#0",
+   "speaker": "Makoto",
+   "en": "Wait! The roulette panels—!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_EXTRA_HINT0C#0",
+   "speaker": "Futaba",
+   "en": "Wh-What the— The roulette panels[n]changed!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AFFINITY_CHANGE01#0",
+   "speaker": "Shadow Sae",
+   "en": "My justice has revealed to me... I must[n]judge evil with a burning rage!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AFFINITY_CHANGE02#0",
+   "speaker": "Shadow Sae",
+   "en": "My justice has revealed to me... I must[n]judge evil with an icy heart!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AFFINITY_CHANGE03#0",
+   "speaker": "Shadow Sae",
+   "en": "My justice has revealed to me... I must[n]strike at evil with my bolt of judgment!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AFFINITY_CHANGE04#0",
+   "speaker": "Shadow Sae",
+   "en": "My justice has revealed to me... I must[n]judge evil like a furious tempest!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AFFINITY_CHANGE05#0",
+   "speaker": "Shadow Sae",
+   "en": "My justice has revealed to me... I must[n]decimate these evil minds that defy me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AFFINITY_CHANGE06#0",
+   "speaker": "Shadow Sae",
+   "en": "My justice has revealed to me... I must[n]purge all evil at an atomic level!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AFFINITY_CHANGE07#0",
+   "speaker": "Shadow Sae",
+   "en": "My justice has revealed to me... I have[n]been blessed with the ability to destroy[n]all evil!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AFFINITY_CHANGE08#0",
+   "speaker": "Shadow Sae",
+   "en": "My justice has revealed to me... that[n]cursing all evil is the correct course!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AFFINITY_CHANGE09#0",
+   "speaker": "Shadow Sae",
+   "en": "I'm right... I'm always right...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AFFINITY_CHANGE09#1",
+   "speaker": "Shadow Sae",
+   "en": "That's why I have to be the victor! All who[n]stand in my way will be crushed!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AFFINITY_AFTER_CHANG#0",
+   "speaker": "Futaba",
+   "en": "Be careful, Joker! Something's up with her!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AFFINITY_AFTER_FEVER#0",
+   "speaker": "Morgana",
+   "en": "Wh-What the—!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AFFINITY_AFTER_FEVER_2#0",
+   "speaker": "Makoto",
+   "en": "Wh-What in the world!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AFFINITY_AFTER_FEVER_3#0",
+   "speaker": "Akechi",
+   "en": "What's going on!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AFFINITY_AFTER_FEVER_4#0",
+   "speaker": "Futaba",
+   "en": "What the—!?",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

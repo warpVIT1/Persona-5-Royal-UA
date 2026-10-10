@@ -1,0 +1,222 @@
+{
+ "file": "EN/FIELD/HIT/FHIT_002_012_00.BF",
+ "entries": [
+  {
+   "id": "DUMMY_MSG#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MSG_KITCHEN_DUMMY#0",
+   "speaker": null,
+   "en": "I handed over the food ticket. ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KITCHEN_DUMMY#1",
+   "speaker": null,
+   "en": "I ate the menu for[n]students at the cafeteria. ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KITCHEN_DUMMY#2",
+   "speaker": null,
+   "en": "I gained some kind of effect. ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KITCHEN_WOMAN_INFO#0",
+   "speaker": "Server Lady",
+   "en": "If you're going to order, buy a food[n]ticket from that ticket machine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KITCHEN_THINK#0",
+   "speaker": "Morgana",
+   "en": "What are you going to do? Do you want[n]to eat here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KITCHEN_THINK_SEL#0",
+   "speaker": null,
+   "en": "I'll eat here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KITCHEN_THINK_SEL#1",
+   "speaker": null,
+   "en": "Let's not eat here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KITCHEN_WOMAN_START#0",
+   "speaker": "Server Lady",
+   "en": "Okay, hold on a bit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KITCHEN_INFO_KAMO_BF#0",
+   "speaker": "Morgana",
+   "en": "There's a kitchen inside. It looks like you[n]use food tickets to place your order.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KITCHEN_KAMO_BF_MORU#0",
+   "speaker": "Morgana",
+   "en": "It smells good in here. I'll definitely[n]eat here sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KITCHEN_KAMO_AF_MORU#0",
+   "speaker": "Morgana",
+   "en": "That smell coming from the kitchen is so[n]delicious. I just can't take it anymore...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KITCHEN_KAMO_AF_MORU#1",
+   "speaker": "Morgana",
+   "en": "You're not getting expelled anymore,[n]and Kamoshida's gone! Treat yourself[n]with a food ticket!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KITCHEN_INFO_KAMO_AF#0",
+   "speaker": "Morgana",
+   "en": "There's a kitchen inside. It looks like you[n]use food tickets to place your order.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KITCHEN_WOMAN_NO#0",
+   "speaker": "Server Lady",
+   "en": "We clean up after school, so come again[n]next time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TICKET_START#0",
+   "speaker": "Morgana",
+   "en": "So this is where you can buy a[n]food ticket.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TICKET_START#1",
+   "speaker": "Morgana",
+   "en": "Looks like everything on the menu is[n][clr 2]500 yen[clr 27]. What do you want to do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TICKET_THINK_SEL#0",
+   "speaker": null,
+   "en": "Let's buy a food ticket.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TICKET_THINK_SEL#1",
+   "speaker": null,
+   "en": "No, I'll pass.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TICKET_BUY#0",
+   "speaker": "Morgana",
+   "en": "Now that you made your purchase,[n]we can eat!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TICKET_BUY#1",
+   "speaker": "Morgana",
+   "en": "...Wait, what are we supposed to do[n]with this food ticket again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TICKET_HAVE_TICKET#0",
+   "speaker": "Morgana",
+   "en": "Hey, you already have a food ticket.[n]Let's use it so you don't waste it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TICKET_NOMONEY#0",
+   "speaker": "Morgana",
+   "en": "...Looks like you don't have[n]enough money.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TICKET_NOT_BUY#0",
+   "speaker": "Morgana",
+   "en": "Hm? The ticket machine isn't working.[n]I guess they're out for today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KITCHEN_ERROR_MORU#0",
+   "speaker": "Morgana",
+   "en": "Mmm, it smells so good—but we'll get[n]in trouble if we go in there...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KITCHEN_ERROR#0",
+   "speaker": null,
+   "en": "Various aromas are[n]coming from the kitchen...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KITCHEN_ERROR_HOUKAG#0",
+   "speaker": "Morgana",
+   "en": "I wonder what the cafeteria's kitchen[n]looks like. I'm curious... But don't go[n]in there, all right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KITCHEN_ERROR_NULL#0",
+   "speaker": null,
+   "en": "I can smell detergent[n]coming from the kitchen...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_KFEVT_COMMON_NG#0",
+   "speaker": null,
+   "en": "There's nothing I particularly[n]need to do here right now.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

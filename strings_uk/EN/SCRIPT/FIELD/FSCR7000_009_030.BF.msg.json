@@ -1,0 +1,978 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR7000_009_030.BF",
+ "entries": [
+  {
+   "id": "HELP_ITEM_01#0",
+   "speaker": null,
+   "en": "Unisex equipment.[n]Dusty; feudal design.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_ITEM_02#0",
+   "speaker": null,
+   "en": "Women's equipment.[n]Dusty; feudal design.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_ITEM_03#0",
+   "speaker": null,
+   "en": "Equipment for cats.[n]Dusty; feudal design.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_ITEM_04#0",
+   "speaker": null,
+   "en": "Men's equipment.[n]Dusty; feudal design.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_ITEM_05#0",
+   "speaker": null,
+   "en": "Men's equipment.[n]Covered in paint stains.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_ITEM_06#0",
+   "speaker": null,
+   "en": "Equipment for cats.[n]Covered in paint stains.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_ITEM_07#0",
+   "speaker": null,
+   "en": "Women's equipment.[n]Covered in paint stains.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_ITEM_08#0",
+   "speaker": null,
+   "en": "Men's equipment.[n]Covered in gold smudges.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_ITEM_09#0",
+   "speaker": null,
+   "en": "Equipment for cats.[n]Covered in gold smudges.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_ITEM_10#0",
+   "speaker": null,
+   "en": "Women's equipment.[n]Covered in gold smudges.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_ITEM_11#0",
+   "speaker": null,
+   "en": "Men's equipment.[n]Full of sand.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_ITEM_12#0",
+   "speaker": null,
+   "en": "Women's equipment.[n]Full of sand.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_ITEM_13#0",
+   "speaker": null,
+   "en": "Equipment for cats.[n]Full of sand.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_ITEM_14#0",
+   "speaker": null,
+   "en": "Women's equipment.[n]Covered in space dust.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_ITEM_15#0",
+   "speaker": null,
+   "en": "Equipment for cats.[n]Covered in space dust.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_ITEM_16#0",
+   "speaker": null,
+   "en": "Men's equipment.[n]Covered in space dust.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_ITEM_17#0",
+   "speaker": null,
+   "en": "Men's equipment.[n]Sullied through gambling.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_ITEM_18#0",
+   "speaker": null,
+   "en": "Equipment for cats.[n]Sullied through gambling.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_ITEM_19#0",
+   "speaker": null,
+   "en": "Women's equipment.[n]Sullied through gambling.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_ITEM_20#0",
+   "speaker": null,
+   "en": "Equipment for cats.[n]Sullied with corruption.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_ITEM_21#0",
+   "speaker": null,
+   "en": "Men's equipment.[n]Sullied with corruption.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_ITEM_22#0",
+   "speaker": null,
+   "en": "Women's equipment.[n]Sullied with corruption.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_ITEM_23#0",
+   "speaker": null,
+   "en": "Women's equipment.[n]Tainted with greed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_ITEM_24#0",
+   "speaker": null,
+   "en": "Men's equipment.[n]Tainted with greed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_ITEM_25#0",
+   "speaker": null,
+   "en": "Equipment for cats.[n]Tainted with greed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_ITEM_26#0",
+   "speaker": null,
+   "en": "Men's equipment.[n]Blindingly divine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_ITEM_27#0",
+   "speaker": null,
+   "en": "Women's equipment.[n]Blindingly divine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_ITEM_28#0",
+   "speaker": null,
+   "en": "Equipment for cats.[n]Blindingly divine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_ITEM_29#0",
+   "speaker": null,
+   "en": "An enemy's equipment[n]Value currently unknown",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_ITEM_30#0",
+   "speaker": null,
+   "en": "An enemy's equipment[n]Value currently unknown",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_ITEM_31#0",
+   "speaker": null,
+   "en": "An enemy's equipment[n]Value currently unknown",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL#0",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 0][ref 0 0]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL#1",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 1][ref 1 1]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL#2",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 2][ref 2 2]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL#3",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 3][ref 3 3]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL#4",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 4][ref 4 4]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL#5",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 5][ref 5 5]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL#6",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 6][ref 6 6]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL#7",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 7][ref 7 7]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL#8",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 8][ref 8 8]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL#9",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 9][ref 9 9]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL#10",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 10][ref 10 10]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL#11",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 11][ref 11 11]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL#12",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 12][ref 12 12]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL#13",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 13][ref 13 13]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL#14",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 14][ref 14 14]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL#15",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 15][ref 15 15]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL#16",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 16][ref 16 16]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL#17",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 17][ref 17 17]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#0",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 0][ref 0 0]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#1",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 1][ref 1 1]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#2",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 2][ref 2 2]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#3",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 3][ref 3 3]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#4",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 4][ref 4 4]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#5",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 5][ref 5 5]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#6",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 6][ref 6 6]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#7",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 7][ref 7 7]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#8",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 8][ref 8 8]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#9",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 9][ref 9 9]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#10",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 10][ref 10 10]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#11",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 11][ref 11 11]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#12",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 12][ref 12 12]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#13",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 13][ref 13 13]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#14",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 14][ref 14 14]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#15",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 15][ref 15 15]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#16",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 16][ref 16 16]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#17",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 17][ref 17 17]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#18",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 18][ref 18 18]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#19",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 19][ref 19 19]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#20",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 20][ref 20 20]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#21",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 21][ref 21 21]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#22",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 22][ref 22 22]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#23",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 23][ref 23 23]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#24",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 24][ref 24 24]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#25",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 25][ref 25 25]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#26",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 26][ref 26 26]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#27",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 27][ref 27 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#28",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 28][ref 28 28]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#29",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 29][ref 29 29]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GEN_SEL_KAI#30",
+   "speaker": null,
+   "en": " [itemIcon 8 0 0 31][var 30][ref 30 30]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TradeItem_NotSelect#0",
+   "speaker": "Morgana",
+   "en": "...Huh? You don't actually want to[n]wash anything?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Coin_Tutorial#0",
+   "speaker": "Morgana",
+   "en": "You should be able to use this if you[n]insert some money.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NG_Already_Kawakami#0",
+   "speaker": "Morgana",
+   "en": "You already asked Kawakami to handle[n]this, didn't you? Let's use our time on[n]something else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Laundry_NotHaveDarty#0",
+   "speaker": "Morgana",
+   "en": "You can't do laundry if you don't have[n]any to clean, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Laundry_Pay#0",
+   "speaker": "Morgana",
+   "en": "It costs 400 yen, but you don't have[n]enough on you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Laundry_Pay_HaveItem#0",
+   "speaker": "Morgana",
+   "en": "It costs 400 yen. You have [clr 2]sooty[n]equipment[clr 27] that needs cleaning,[n]but you don't have enough money...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Laundry_Pay_HaveItem_2#0",
+   "speaker": "Morgana",
+   "en": "It costs 400 yen. You have [clr 2]sooty[n]equipment[clr 27] that needs cleaning,[n]but you don't have enough money...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Laundry_Pay_HaveItem_2#1",
+   "speaker": "Morgana",
+   "en": "That's right! The secondhand clothing[n]store in Kichijoji—why don't we try[n]selling it there?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ItemNotHave#0",
+   "speaker": "Morgana",
+   "en": "Huh? You don't have any [clr 2]dirty[n]equipment[clr 27], do you? What are[n]you planning to wash?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ItemNotHave01#0",
+   "speaker": "Morgana",
+   "en": "You don't have any more [clr 2]dirty[n]equipment[clr 27]—do you wanna just[n]run the washing machine now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ItemHave#0",
+   "speaker": "Morgana",
+   "en": "Did you want to wash some [clr 2]sooty[n]equipment[clr 27]? You can wash up to[n][clr 2]four items[clr 27] for 400 yen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KawakamiPreInfo#0",
+   "speaker": "Morgana",
+   "en": "It might be good to ask Kawakami to[n]handle this for you. Then, you can[n]spend time on something else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KawakamiPreInfoNGTim#0",
+   "speaker": "Morgana",
+   "en": "You can only hire Kawakami at night.[n]You'll just have to do this yourself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KawakamiPreInfoNGAct#0",
+   "speaker": "Morgana",
+   "en": "You already asked Kawakami to do[n]something else. You'll just have to[n]do this yourself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ItemNotHave_NotUse#0",
+   "speaker": "Morgana",
+   "en": "This washing machine looks shoddy,[n]but it says here that it can get even[n]the toughest stains out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ItemNotHave_NotUse#1",
+   "speaker": "Morgana",
+   "en": "You don't have anything to wash right[n]now, but you should try this out when[n]you get a chance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ItemHave_NotUseMae#0",
+   "speaker": "Morgana",
+   "en": "Hey, don't you have [clr 2]sooty armor[clr 27]?[n]How about washing it now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FurugiInfo#0",
+   "speaker": "Morgana",
+   "en": "Or would you rather sell it at the store[n]in Kichijoji? It's your call.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ItemHave_NotUseAto#0",
+   "speaker": "Morgana",
+   "en": "What do you say?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WashSelect#0",
+   "speaker": null,
+   "en": "Try a wash",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_WashSelect#1",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WashSelect_Ok#0",
+   "speaker": "Morgana",
+   "en": "All right! Bring 'em out!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WashSelect_Ng#0",
+   "speaker": "Morgana",
+   "en": "I see... You never know, though. The[n]dirty stuff you find could end up pretty[n]good after a proper cleaning.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Wash_more3#0",
+   "speaker": "Morgana",
+   "en": "You can fit [clr 2]three[clr 27] more items.[n]What do you want to do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Wash_more2#0",
+   "speaker": "Morgana",
+   "en": "You can fit [clr 2]two[clr 27] more items.[n]What do you want to do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Wash_more1#0",
+   "speaker": "Morgana",
+   "en": "You can fit [clr 2]one[clr 27] more item.[n]What do you want to do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Wash_select#0",
+   "speaker": null,
+   "en": "Add another item",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Wash_select#1",
+   "speaker": null,
+   "en": "Run the wash as is",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Wash_select#2",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Wash_last#0",
+   "speaker": "Morgana",
+   "en": "Nothing else is gonna fit in there. Want[n]to run the washing machine now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Kawakami_OrderNGTime#0",
+   "speaker": "Morgana",
+   "en": "You can call Kawakami to do your[n]laundry, but she isn't available at[n]this time of day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Kawakami_Money#0",
+   "speaker": "Morgana",
+   "en": "So, what do you want to do?[n]It costs [var 18] yen for the[n]housekeeping service.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Kawakami_NotMoney#0",
+   "speaker": "Morgana",
+   "en": "So, what do you want to do? She did say[n]she would do it for free...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Kawakami_OrderThink_#0",
+   "speaker": "Morgana",
+   "en": "So... What do you want to do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_KawakamiOrder#0",
+   "speaker": null,
+   "en": "Call Kawakami",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_KawakamiOrder#1",
+   "speaker": null,
+   "en": "Do it myself",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SoloWash#0",
+   "speaker": "Morgana",
+   "en": "Well, you'll still be able to do it yourself.[n]It's all automatic, anyway.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_KawakamiOrder_Re#0",
+   "speaker": null,
+   "en": "Wash",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_KawakamiOrder_Re#1",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Kawakami_Money_NG#0",
+   "speaker": "Morgana",
+   "en": "Ah, too bad. It seems you don't have[n]enough money to run the machine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Kawakami_Money_OK#0",
+   "speaker": "Morgana",
+   "en": "Go ahead and call her, then!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SoloWash_Start_Re#0",
+   "speaker": "Morgana",
+   "en": "All right, let's make it so clean it's like[n]new again!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SoloWash_Cancel_Re#0",
+   "speaker": "Morgana",
+   "en": "Huh? You're not going to clean it after[n]coming this far?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ToolMake_requested#0",
+   "speaker": "Morgana",
+   "en": "Wait, didn't you ask Kawakami[n]to make infiltration tools?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ToolMake_requested#0",
+   "speaker": null,
+   "en": "I've already asked Kawakami[n]to make infiltration tools for me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_curry_requested#0",
+   "speaker": "Morgana",
+   "en": "Wait, didn't you already ask Kawakami[n]to make curry?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_curry_requested#0",
+   "speaker": null,
+   "en": "I've already asked Kawakami[n]to make curry for me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_coffee_requested#0",
+   "speaker": "Morgana",
+   "en": "Wait, didn't you already ask[n]Kawakami to brew coffee?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_coffee_requested#0",
+   "speaker": null,
+   "en": "I've already asked Kawakami[n]to brew coffee for me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DispKawakami_NotMax0#0",
+   "speaker": "Kawakami",
+   "en": "Thanks for calling m— Wait, laundry!?[n]Did you really have to call me just for[n]that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DispKawakami_NotMax0_2#0",
+   "speaker": "Kawakami",
+   "en": "I mean... That'll be [var 19] yen!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DispKawakami_NotMax0_3#0",
+   "speaker": "Kawakami",
+   "en": "Thanks for calling me. I came here just[n]for you on my day off—you'd better be[n]grateful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DispKawakami_NotMax0_3#1",
+   "speaker": "Kawakami",
+   "en": "Technically, this is still work, so I wore[n]my maid outfit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DispKawakami_NotMax0_4#0",
+   "speaker": "Kawakami",
+   "en": "I still charge my usual rate on my days off.[n]That'll be [var 19] yen, please.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DispKawakami_Max01#0",
+   "speaker": "Kawakami",
+   "en": "I quit that job, but I can't turn you down[n]if you ask me for something. What'd you[n]need today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DispKawakami_Max02#0",
+   "speaker": "Kawakami",
+   "en": "Laundry? Got it. Leave it to me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Kawakami_Maid_Talk#0",
+   "speaker": "Kawakami",
+   "en": "Oh, this outfit?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Kawakami_Maid_Talk#1",
+   "speaker": "Kawakami",
+   "en": "I might have quit my job, but it'd be[n]complicated if a teacher visited her[n]student for personal reasons...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Kawakami_Maid_Talk#2",
+   "speaker": "Kawakami",
+   "en": "So, I'll be wearing this here as a bit of[n]a disguise. Hope you don't mind...",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

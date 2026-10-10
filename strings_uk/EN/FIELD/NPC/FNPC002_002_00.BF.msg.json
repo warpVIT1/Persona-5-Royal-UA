@@ -1,0 +1,4499 @@
+{
+ "file": "EN/FIELD/NPC/FNPC002_002_00.BF",
+ "entries": [
+  {
+   "id": "YESNO_SEL#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NPC_GREETING_MSG#0",
+   "speaker": null,
+   "en": "Greet",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NPC_01#0",
+   "speaker": null,
+   "en": "Talk",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_1F_TALK_00#0",
+   "speaker": "Kamoshida",
+   "en": "You're an eyesore, you piece of trash.[n]Get out of my sight!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_1F_TALK_00_2#0",
+   "speaker": "Kamoshida",
+   "en": "I'm surprised you have the nerve to[n]face me, [lName]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_1F_TALK_00_2#1",
+   "speaker": "Kamoshida",
+   "en": "All you can do is wait until you get[n]expelled anyway... Or are you[n]scheming something? Answer me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_1F_TALK_00_3#0",
+   "speaker": null,
+   "en": "So what if I am?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_1F_TALK_00_3#1",
+   "speaker": null,
+   "en": "What are you talking about?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_1F_TALK_00_4#0",
+   "speaker": "Kamoshida",
+   "en": "God, you piss me off so much...[n]You little piece of shit!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_1F_TALK_00_4#1",
+   "speaker": "Kamoshida",
+   "en": "You think you can defy me since you're[n]already getting expelled?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_1F_TALK_00_4#2",
+   "speaker": "Kamoshida",
+   "en": "Well, anything you try and do is useless.[n]You're done for.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_1F_TALK_00_5#0",
+   "speaker": "Kamoshida",
+   "en": "Hmph, maybe I'm overthinking this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_1F_TALK_00_5#1",
+   "speaker": "Kamoshida",
+   "en": "Either way, don't think you can get off[n]the hook now by trying to play innocent.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_1F_TALK_00_6#0",
+   "speaker": "Kamoshida",
+   "en": "Once you're expelled, you'll have[n]nowhere left to go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_1F_TALK_00_6#1",
+   "speaker": "Kamoshida",
+   "en": "You'll finally be able to live your life[n]groveling like the crappy criminal[n]you are.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_1F_TALK_00_6#2",
+   "speaker": "Kamoshida",
+   "en": "And that's when you'll know what it[n]really means to defy me. You are going[n]to regret your actions!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_B_01#0",
+   "speaker": "Kamoshida",
+   "en": "What do you want? Get lost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_B_02#0",
+   "speaker": "Kamoshida",
+   "en": "What do you want, [lName]...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_B_02#1",
+   "speaker": "Kamoshida",
+   "en": "I can't believe you can come to school[n]all calm like that. Unless you're scheming[n]something...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_B_03#0",
+   "speaker": null,
+   "en": "So what if I am?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_B_03#1",
+   "speaker": null,
+   "en": "What are you talking about?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_B_04#0",
+   "speaker": "Kamoshida",
+   "en": "Don't give me that cheek!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_B_04#1",
+   "speaker": "Kamoshida",
+   "en": "You're really pushing your luck,[n]you know that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_B_04#2",
+   "speaker": "Kamoshida",
+   "en": "Well, I guess it's fine. Nothing you do[n]is going to matter anyway.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_B_05#0",
+   "speaker": "Kamoshida",
+   "en": "Tch. Acting dumb, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_B_05#1",
+   "speaker": "Kamoshida",
+   "en": "Well, I guess it's fine. You're already[n]too late.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_B_06#0",
+   "speaker": "Kamoshida",
+   "en": "I suggest you try and enjoy the time[n]before your expulsion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_B_06#1",
+   "speaker": "Kamoshida",
+   "en": "Now get lost. I'm not going to waste[n]my time dealing with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_C_01#0",
+   "speaker": "Kamoshida",
+   "en": "You're still here, shitheel? Get lost[n]already!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_C_02#0",
+   "speaker": "Kamoshida",
+   "en": "You again, [lName]...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_C_02#1",
+   "speaker": "Kamoshida",
+   "en": "Where's that worthless buddy of yours,[n]huh? Hey, answer me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_C_03#0",
+   "speaker": null,
+   "en": "You scared?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_C_03#1",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_C_04#0",
+   "speaker": "Kamoshida",
+   "en": "You really are trying to make me lose it,[n]aren't you? Your attitude's pissing me off!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_C_04#1",
+   "speaker": "Kamoshida",
+   "en": "Well, garbage in, garbage out, I guess—[n]it's like you don't even regret getting on[n]my bad side...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_C_04#2",
+   "speaker": "Kamoshida",
+   "en": "Hope you're looking forward to that[n]upcoming board meeting. I know[n]I sure am.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_C_05#0",
+   "speaker": "Kamoshida",
+   "en": "Hmph. Dealing with you is a waste[n]of time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_C_05#1",
+   "speaker": "Kamoshida",
+   "en": "There's no point trying to butter me up[n]now. I'm going to get rid of both of you[n]in one fell swoop.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_C_06#0",
+   "speaker": "Kamoshida",
+   "en": "Everyone'll be so happy when you get[n]expelled. I'm sure they'll cheer that[n]trash like you is gone!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_C_06#1",
+   "speaker": "Kamoshida",
+   "en": "Don't you see? We all want you to go[n]spend your shitty life somewhere else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_C_06#2",
+   "speaker": "Kamoshida",
+   "en": "Now get lost already. And don't show[n]your face in front of me again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_001_0_0#0",
+   "speaker": "Refined Male Student",
+   "en": "I've made plans to dine at this hotel[n]buffet. It happens to be my father's[n]favorite place.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_001_1_0#0",
+   "speaker": "Gentle Male Student",
+   "en": "Don't famous politicians eat there too?[n]Wow, your dad is pretty amazing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_001_2_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "Living on easy street must be nice.[n]I wish I could try out some of that[n]fancy food.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_001_3_0#0",
+   "speaker": "Refined Male Student",
+   "en": "I'll ask my father if you guys can join[n]next time. After all, I need to care for[n]my future connections.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_002_0_0#0",
+   "speaker": "Refined Male Student",
+   "en": "A second-year women's volleyball[n]team member tried to kill herself.[n]Mr. Kamoshida must be in shock.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_002_1_0#0",
+   "speaker": "Gentle Male Student",
+   "en": "I dunno. I've heard somewhere that[n]he's been giving rides to female[n]students, that sort of thing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_002_2_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "Mannn, I wish I could give rides to cute[n]girls too! If I only had a car!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_002_3_0#0",
+   "speaker": "Refined Male Student",
+   "en": "If you're fine with my father's[n]hand-me-down, you can use it?[n]I plan on studying abroad, anyway.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_002_01_0_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I hear those second-year guys got[n]an expulsion notice from Kamoshida.[n]Those idiots!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_002_01_1_#0",
+   "speaker": "Gentle Male Student",
+   "en": "Since that jumper incident, things have[n]been really hectic. The teachers are all[n]uptight too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_002_01_2_#0",
+   "speaker": "Refined Male Student",
+   "en": "Still, I'm surprised there'd be[n]students who'd even speak up[n]against Mr. Kamoshida.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_002_01_2_#1",
+   "speaker": "Refined Male Student",
+   "en": "Why do you think they behaved[n]like that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_002_02_0_#0",
+   "speaker": "Gentle Male Student",
+   "en": "Hey, did you hear? A first-year[n]honor student recently transferred[n]to our school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_002_02_1_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Yeah! And I heard she's cute!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_002_02_1_#1",
+   "speaker": "Lazy Male Student",
+   "en": "Cute and talented, that's just not fair![n]Gurghh, I want to be her friend!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_002_02_2_#0",
+   "speaker": "Refined Male Student",
+   "en": "Gifted and beautiful, huh? School is[n]starting to get interesting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_003_0_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "Have you heard?[n]Kamoshida isn't at school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_003_1_0#0",
+   "speaker": "Gentle Male Student",
+   "en": "\"Phantom Thieves\" aside, it'll be huge[n]if what that calling card says is all true.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_003_2_0#0",
+   "speaker": "Refined Male Student",
+   "en": "Someone actually declared war[n]against a teacher. I'll admit that[n]really takes guts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_003_3_0#0",
+   "speaker": "Gentle Male Student",
+   "en": "Haha, yeah, I agree. But it's probably[n]just a prank.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_004_0_0#0",
+   "speaker": "Gentle Male Student",
+   "en": "The police said I had to cooperate[n]and answer their questions. I was[n]almost late to cram school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_004_1_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "*chuckle* I snitched about all sorts of[n]stuff to the police. Kamoshida's gone[n]too far.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_004_2_0#0",
+   "speaker": "Refined Male Student",
+   "en": "I respected him as a top athlete, but...[n]Ultimately, I guess his character left[n]much to be desired.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_004_2_0#1",
+   "speaker": "Refined Male Student",
+   "en": "Well, he brought it on himself. He[n]failed his duty as a teacher and[n]betrayed a lot of trust.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_004EX_0_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "What's up with these counseling[n]sessions all of a sudden? I wasn't told[n]about them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_004EX_1_0#0",
+   "speaker": "Refined Male Student",
+   "en": "Look at the timing... The school's[n]motives are so obvious.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_004EX_1_0#1",
+   "speaker": "Refined Male Student",
+   "en": "They probably thought they could[n]save face after all the sexual[n]harassment issues.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_004EX_2_0#0",
+   "speaker": "Gentle Male Student",
+   "en": "But Dr. Maruki seems like an[n]interesting person. Maybe I'll[n]attend a counseling session...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_005_0_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "Are you going to the Madarame[n]exhibit? I hear it's pretty amazing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_005_1_0#0",
+   "speaker": "Gentle Male Student",
+   "en": "Yeah, I actually wanted to check it out,[n]but when the exhibit's open, I've got[n]cram school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_005_2_0#0",
+   "speaker": "Refined Male Student",
+   "en": "If you like, I'll ask my dad if he can pull[n]some strings, and you can visit after[n]closing hours.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_005_3_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "Wait, seriously? That means I'd get[n]to go for free even though it's super[n]popular? That's crazy!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_006_0_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "I started a part-time job, but the hourly[n]pay stinks. Do you guys know any[n]good places to find work?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_006_1_0#0",
+   "speaker": "Refined Male Student",
+   "en": "Of course, the pay will be low if anyone[n]can do the job. You need to offer your[n]own specialty.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_006_1_0#1",
+   "speaker": "Refined Male Student",
+   "en": "Look at Madarame, for example.[n]One of his paintings is worth ten[n]years of salary for most people.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_006_2_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "Aww, don't compare me to a big shot[n]like him. I wish I had talent so I could[n]make a lot of money.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_006_01_0_#0",
+   "speaker": "Refined Male Student",
+   "en": "That honor student...[n]Yoshizawa-san, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_006_01_0_#1",
+   "speaker": "Refined Male Student",
+   "en": "I heard she volunteered to clean[n]even though she's exempt.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_006_01_1_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Really? That's so considerate![n]Talented, beautiful, and pure[n]of heart... She's perfect!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_006_01_2_#0",
+   "speaker": "Gentle Male Student",
+   "en": "I'm rooting for her. I really want[n]her to do her best.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_007_0_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "What do they mean by \"stealing[n]hearts\"? Can they control people,[n]make them do whatever they want?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_007_1_0#0",
+   "speaker": "Gentle Male Student",
+   "en": "That sounds freaky. Maybe they[n]use some kind of weird mind[n]control drugs...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_007_2_0#0",
+   "speaker": "Refined Male Student",
+   "en": "The notion of \"stealing hearts\" intrigues[n]me. One must touch their subordinates'[n]hearts to lead them, after all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_007_3_0#0",
+   "speaker": "Gentle Male Student",
+   "en": "Haha, I knew you'd say something like[n]that. Maybe you should see if you[n]can join the Phantom Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_008_0_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "Yoshizawa-san is really something else![n]She's so cute—not annoying like the[n]other girls!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_008_1_0#0",
+   "speaker": "Gentle Male Student",
+   "en": "The girl that walked by earlier? Yeah,[n]she's pretty gorgeous.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_008_2_0#0",
+   "speaker": "Refined Male Student",
+   "en": "She has a competition coming up,[n]right? I hope she does well to prove[n]the naysayers wrong.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_009_0_0#0",
+   "speaker": "Refined Male Student",
+   "en": "I admire Akechi-kun for his intellect.[n]He makes compelling arguments with[n]very sound logic.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_009_1_0#0",
+   "speaker": "Gentle Male Student",
+   "en": "Ohh, that guy on TV? He's getting[n]pretty popular because of the[n]Phantom Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_009_2_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "He shows up on TV, goes to school,[n]works as a detective... What is he,[n]superhuman?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_009_3_0#0",
+   "speaker": "Refined Male Student",
+   "en": "He frequently places at the top of the[n]national mock exams. I'm curious as[n]to what he'll do next.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_010_0_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "Now that it's safe enough again in[n]Shibuya, let's go hang out somewhere.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_010_1_0#0",
+   "speaker": "Refined Male Student",
+   "en": "I'll pass. Finals are soon, and[n]summer's a good time to overtake my[n]competition and reach the top.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_010_2_0#0",
+   "speaker": "Gentle Male Student",
+   "en": "Taking entrance exams sucks. It[n]doesn't help that the teachers say[n]they know who'll pass and fail.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_010_3_0#0",
+   "speaker": "Refined Male Student",
+   "en": "One cannot rest on his laurels if he[n]wishes to stay at the top. We must[n]always strive and work hard.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_011_0_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "I wonder if the Phantom Thieves will[n]be okay. It's going to be hard not[n]knowing their opponent.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_011_1_0#0",
+   "speaker": "Gentle Male Student",
+   "en": "That goes for both of them. The real[n]problem is that they're going up[n]against hackers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_011_1_0#1",
+   "speaker": "Gentle Male Student",
+   "en": "They'd be able to fight back if they[n]had their own techie...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_011_2_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "...I feel bad. They're being targeted[n]by weirdos.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_011_3_0#0",
+   "speaker": "Refined Male Student",
+   "en": "The more famous they get, the more[n]people will try to drag them down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_011_3_0#1",
+   "speaker": "Refined Male Student",
+   "en": "I just hope they keep calm and devise[n]a smart strategy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_012_0_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "Didn't the Phantom Thieves also take[n]down Kamoshida? They're getting[n]famous now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_012_1_0#0",
+   "speaker": "Gentle Male Student",
+   "en": "People are visiting our school for[n]interviews again. The principal is[n]getting pretty annoyed by it all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_012_2_0#0",
+   "speaker": "Refined Male Student",
+   "en": "This passing fad doesn't interest me.[n]And we can't allow mass media to[n]make us blind to the truth.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_012_3_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "Let's ask the Phantom Thieves to get[n]rid of entrance exams. If they beat[n]those hackers, it's possible!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_013_0_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "The principal was an accomplice too![n]After this, I think all the teachers[n]should just get punished.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_013_1_0#0",
+   "speaker": "Gentle Male Student",
+   "en": "But if that happens, that'd be a[n]real problem for us. What about[n]our futures after high school?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_013_2_0#0",
+   "speaker": "Refined Male Student",
+   "en": "Although in a different era, there[n]have been middle school graduates[n]who became prime ministers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_013_2_0#1",
+   "speaker": "Refined Male Student",
+   "en": "Diligence can overcome any[n]shortcoming. Effort is what's[n]most important to rise to the top.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_014_0_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "So the president of Big Bang is[n]Haru Okumura's father. I really had no[n]idea her family was rich.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_014_1_0#0",
+   "speaker": "Gentle Male Student",
+   "en": "It's crazy how it all gets back to[n]Shujin Academy again. So President[n]Okumura is their next target?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_014_2_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "I'm sure he is since he's hit the top[n]rank so fast. I can't wait to see him[n]break down and grovel.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_014_3_0#0",
+   "speaker": "Refined Male Student",
+   "en": "I guess that's what happens when[n]you cut down labor costs too much.[n]Business management is tough work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_015_0_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "They finally sent the calling card![n]I wanna see one of those hilarious[n]press conferences again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_015_1_0#0",
+   "speaker": "Gentle Male Student",
+   "en": "Hey, not so loud![n]Okumura-san's probably going[n]through a rough time right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_015_2_0#0",
+   "speaker": "Refined Male Student",
+   "en": "Still, a man who exploited his[n]employees is irredeemable.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_015_2_0#1",
+   "speaker": "Refined Male Student",
+   "en": "Perhaps the Phantom Thieves should[n]finish him off. The world doesn't need[n]more people like him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_016_0_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "I just wanted to see him break down[n]and cry. I didn't want to watch[n]something like that on TV.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_016_1_0#0",
+   "speaker": "Gentle Male Student",
+   "en": "Is it confirmed that the Phantom[n]Thieves did it? I can't think of anyone[n]else that could, though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_016_2_0#0",
+   "speaker": "Refined Male Student",
+   "en": "After people called them saviors or[n]even gods, perhaps they let their[n]power get to their heads.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_016_2_0#1",
+   "speaker": "Refined Male Student",
+   "en": "When people lacking in character or[n]education gain power, it always leads[n]to tragedy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_017_0_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "Seriously, I can't even look[n]Haru Okumura in the eye.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_017_1_0#0",
+   "speaker": "Refined Male Student",
+   "en": "The Phantom Thieves went too far.[n]People simply aren't going to support[n]them after that happened.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_017_1_0#1",
+   "speaker": "Refined Male Student",
+   "en": "Perhaps they are trying to control us[n]through fear?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_017_2_0#0",
+   "speaker": "Gentle Male Student",
+   "en": "I feel sorry for Okumura-san...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_018_0_0#0",
+   "speaker": "Gentle Male Student",
+   "en": "Do you think the Phantom Thieves[n]will get the death sentence if they[n]ever get caught?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_018_1_0#0",
+   "speaker": "Refined Male Student",
+   "en": "I'm certain. Many people can be[n]counted among their victims.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_018_2_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "It'll be so exciting once they get[n]arrested. You think it'll happen[n]sometime this year?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_018_3_0#0",
+   "speaker": "Refined Male Student",
+   "en": "They announced that they've made[n]progress in the investigation.[n]It's only a matter of time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_019_0_0#0",
+   "speaker": "Refined Male Student",
+   "en": "Those at the top must remain calm,[n]no matter the predicament they[n]may face.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_019_0_0#1",
+   "speaker": "Refined Male Student",
+   "en": "It was inevitable for their party to[n]disband. Still, I look forward to the rise[n]of our next leader.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_019_1_0#0",
+   "speaker": "Gentle Male Student",
+   "en": "Are you talking about politics?[n]They disbanded because of the[n]Phantom Thieves, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_019_2_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "I'm not interested in politics at all.[n]I know this serious-looking guy is[n]popular though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_020_0_0#0",
+   "speaker": "Gentle Male Student",
+   "en": "Once the New Year rings in, it's time[n]for entrance exams. My mock exam[n]scores were so-so...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_020_1_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "I pretty much failed all my finals.[n]I'm so screwed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_020_2_0#0",
+   "speaker": "Refined Male Student",
+   "en": "You just need to adopt a new mindset.[n]Get a fresh start in the spirit of the[n]new year.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_020_2_0#1",
+   "speaker": "Refined Male Student",
+   "en": "Still, the year could have ended better.[n]I mean, we still haven't decided on[n]a prime minister.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_021_0_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "I've never received an A Rank on my[n]mock exams before! I actually feel[n]like I can get into my first choice!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_021_1_0#0",
+   "speaker": "Gentle Male Student",
+   "en": "Me too, but... I'm worried I won't do[n]my best during the real thing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_021_2_0#0",
+   "speaker": "Refined Male Student",
+   "en": "You've both been studying hard.[n]Don't worry—your efforts will pay off.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_021_3_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "Yeah! It's almost over,[n]let's do our best!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_022_0_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "Ninety percent at best, eighty percent[n]at worst... I've never felt this confident[n]in my rank before.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_022_1_0#0",
+   "speaker": "Refined Male Student",
+   "en": "I think I did better this time than on[n]the cram school's mock exam. It was[n]fun to grade myself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_022_2_0#0",
+   "speaker": "Gentle Male Student",
+   "en": "Some of the questions were tough,[n]but... overall, it was pretty easy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_022_3_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "Let's take a graduation trip if we get in![n]I can't wait to see the results!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_023_0_0#0",
+   "speaker": "Refined Male Student",
+   "en": "This was a year that really challenged[n]me. The things that happened really[n]made me think.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_023_0_0#1",
+   "speaker": "Refined Male Student",
+   "en": "And so, I wrote my essay for the[n]university entrance exam on[n]\"Phantom Thieves and Democracy.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_023_1_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "Are you serious? You wrote something[n]like that? I wish you could've showed[n]it to me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_023_2_0#0",
+   "speaker": "Gentle Male Student",
+   "en": "Well, I'm glad we all got accepted into[n]our universities. Let's hang out again,[n]just us three, someday.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_024_0_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "How did you do on your mock exam[n]this time?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_024_0_0#1",
+   "speaker": "Lazy Male Student",
+   "en": "I got an A rank for the first time ever.[n]I can't believe I failed the last one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_024_1_0#0",
+   "speaker": "Gentle Male Student",
+   "en": "Huh, you too...? Now I feel like my[n]top school is within reach...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_024_2_0#0",
+   "speaker": "Refined Male Student",
+   "en": "Really? Did you two study that much?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_024_3_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "Not at all. Actually, I've been[n]fooling around.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_024_3_0#1",
+   "speaker": "Lazy Male Student",
+   "en": "...Could it be that my hidden potential[n]has suddenly been unlocked!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_022_4_0#0",
+   "speaker": "Refined Male Student",
+   "en": "Really? Could it be that simple...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_025_0_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "Got an A rank again!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_025_0_0#1",
+   "speaker": "Lazy Male Student",
+   "en": "I'm just gonna goof off. These exams[n]are so easy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_025_1_0#0",
+   "speaker": "Refined Male Student",
+   "en": "...Listening to you talk, I feel stupid[n]studying now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_025_2_0#0",
+   "speaker": "Gentle Male Student",
+   "en": "Seriously, though, they're so easy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_025_2_0#1",
+   "speaker": "Gentle Male Student",
+   "en": "With how we've been doing,[n]we don't have to worry about[n]our entrance exams at all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_025_3_0#0",
+   "speaker": "Lazy Male Student",
+   "en": "Right!? I mean, even I'm getting[n]A ranks—me, of all people!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KIREIDANSI_025_3_0#1",
+   "speaker": "Lazy Male Student",
+   "en": "So let's just go to the arcade today!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Did you see what people[n]were saying on that one[n]site? It's him...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "That guy's life is[n]over. He should just[n]disappear already.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Let's just stay away from him.[n]That guy's nothing but trouble.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Is he the one who got[n]charged with assault?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I heard a second-year[n]charged with assault[n]transferred to our school...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_002_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "If he's a delinquent, he[n]should act more like one[n]and not come to our school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_002_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "He might be calm and quiet[n]now, but there's no way to[n]tell when he'll make trouble.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_002_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "He looks pretty normal, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_002_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "If you fall in with someone[n]like him, you're bound to be[n]on the losing end in life.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_002_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "He's got some nerve,[n]just walking in here[n]all casually like that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_002_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Don't make eye contact[n]with him. You don't know[n]what he might do to us...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_003_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I heard that him and[n]Sakamoto are both[n]getting expelled...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_003_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "So the people getting[n]expelled are him, Sakamoto,[n]and... who else was it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_003_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I heard he actually made[n]Mr. Kamoshida mad...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_003_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Is it true that those two[n]problem students are going[n]to be expelled from school?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_003_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Aren't they expelling[n]that delinquent Sakamoto[n]and the transfer student?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_003_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Things should quiet down[n]and go back to normal after[n]they're expelled, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_004_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "He's got guts to pick[n]a fight with Kamoshida.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_004_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "It's a \"calling card.\"[n]Supposedly, they're going to[n]make him confess his sins.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_004_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_004_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "What's a calling card?[n]Is it some sort of prank?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_004_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Just what kind of people[n]are they if they're picking[n]a fight with Kamoshida...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_004_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "This is probably just[n]a prank by someone who's[n]jealous of Mr. Kamoshida.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_005_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "This is just a coincidence,[n]right? That calling card[n]had nothing to do with it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_005_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "He seriously did all[n]those things? Oh, man,[n]it's over for Kamoshida.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_005_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_005_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "What made him decide to[n]apologize all of a sudden?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_005_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Well, he had it coming.[n]It looks like we owe it[n]to those phantom thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_005_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Phantom thieves had[n]nothing to do with Mr.[n]Kamoshida's apology.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_006_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "He might be calm and quiet[n]now, but there's no way to[n]tell when he'll make trouble.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_006_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Even the teachers[n]have given up on him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_006_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Well, there's no doubt[n]that he's a troublemaker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_006_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "That guy is just too scary...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_006_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "It looks like that guy[n]who got in trouble with[n]Kamoshida got off lucky.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_006_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "If you fall in with someone[n]like him, you're bound to be[n]on the losing end in life.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_007_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Sucks for the volleyball[n]team. I mean, after all[n]they put up with...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_007_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Well, it's not like this[n]changes things. This school[n]was lame from the start.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_007_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_007_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "He was really arrogant, so[n]I'm sure a lot of people are[n]happy about this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_007_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "The principal depended a[n]lot on Kamoshida to make[n]the school look good...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_007_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Now we don't have to treat[n]the volleyball team like royalty anymore.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_204_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Madarame's paintings[n]were pretty good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_204_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Art doesn't have anything[n]to do with getting into[n]college, does it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_204_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_204_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_204_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_204_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_205_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_205_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_205_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_205_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I saw a post on the[n]internet saying that the[n]city's becoming less safe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_205_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_205_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Is it true that there's really[n]a dangerous crime ring in[n]Shibuya?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_008_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Madarame got a calling[n]card, the same kind that[n]was sent to Kamoshida...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_008_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Some phantom thieves left[n]a calling card at Madarame's[n]exhibition too, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_008_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_008_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Phantom thieves somehow[n]made another person apologize[n]for crimes they committed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_008_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Phantom thieves again?[n]Wasn't that only a prank?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_008_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "So that calling card for[n]Kamoshida wasn't a prank...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_009_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Some Shujin kids[n]got scammed, right? ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_009_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "It sounds like there are a lot[n]of people whose money was[n]taken from them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_009_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_009_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I hear they do more than[n]just blackmail you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_009_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Is it really that easy[n]to fall for a scam?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_009_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Is there really that[n]much scamming and[n]blackmailing going on?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_010_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I saw online that another[n]calling card appeared...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_010_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "It'd be awesome if they[n]actually made him pay[n]for what he's done...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_010_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_010_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I heard another calling card's[n]been sent out! And the mafia's[n]the target this time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_010_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Is it true that some[n]guy called Kaneshiro[n]got a calling card!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_010_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Did you see the posts online?[n]Another phantom thief[n]calling card appeared!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_011_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Those phantom thieves[n]made that criminal have[n]a change of heart, right!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_011_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I heard the leader of that[n]crime ring got arrested! It[n]was a guy named Kaneshiro.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_011_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_011_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I heard that they were finally[n]able to arrest him, thanks[n]to those phantom thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_011_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Everyone on the internet is[n]saying that it was phantom[n]thieves who did it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_011_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "They were saying he just[n]confessed out of nowhere,[n]just like Kamoshida!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_012_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "The internet's going nuts[n]talking about phantom thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_012_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "That phantom thief forum[n]just got crazy popular!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_012_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_012_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Everyone on the internet's[n]been talking about phantom thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_012_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Everyone's been posting on[n]that phantom thief forum!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_012_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "The internet's been getting[n]really fired up over this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_013_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "So it's true, phantom[n]thieves really do exist!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_013_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I'm all for them if they're[n]working to take down evil[n]people who deserve it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_013_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_013_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Those phantom thief calling[n]cards weren't just a prank!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_013_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Those phantom thieves[n]saved us!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_013_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "The Phantom Thieves steal bad[n]guys' hearts—that's[n]what makes them confess!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_014_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "People are really getting[n]excited that phantom thieves[n]will be taking on hackers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_014_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I'm cheering for those phantom[n]thieves! There's no way they'll[n]lose to some hackers!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_014_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I don't really get what's going[n]on, but go get those hackers!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_014_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "It looks like the Phantom[n]Thieves are having a showdown[n]against the hackers!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_014_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Phantom thieves won't lose[n]to a bunch of hackers!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_014_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "It looks like the hackers have[n]been giving those phantom[n]thieves a lot of thought!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_015_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I wonder how the[n]Phantom Thieves will[n]fight those hackers...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_015_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "If they end up doing[n]actual damage, will it be[n]the Phantom Thieves' fault?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_015_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_015_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "The hackers were taunting[n]the Phantom Thieves. You[n]think they can fight back?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_015_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Those hackers are dangerous![n]I'm sure those phantom thieves will stop them somehow!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_015_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Just how do they plan to[n]attack internet criminals?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_016_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "The Phantom Thieves[n]are just too cool!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_016_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "No one can beat the Phantom[n]Thieves! I doubted them before,[n]but I'm a true believer now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_016_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I feel kind of proud that Shujin[n]is where they first appeared.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_016_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "They really were everything[n]I'd thought they'd be![n]This is incredible!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_016_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Those phantom thieves[n]are real heroes!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_016_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I wonder who they'll[n]take out for us next.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_150_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I saw another article[n]about Kamoshida and[n]his sexual harassment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_150_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I bet you they're still[n]hiding stuff from us.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_150_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I hope our school doesn't[n]become the center of[n]attention again...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_017_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Do you think the principal's[n]suicide was caused by the[n]Phantom Thieves?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_017_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "The principal committing[n]suicide is going to affect my letters of recommendation...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_017_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I'm worried about colleges[n]accepting me with Shujin's[n]current reputation...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_017_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "It's been an unlucky year.[n]There've been too many[n]incidents at school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_017_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Was the principal trying to[n]apologize for all that's[n]happened by killing himself?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_017_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Why did he suddenly commit[n]suicide? It's causing[n]us a lot of problems.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_018_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I wonder how those phantom[n]thieves are getting them to have a change of heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_018_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I hope the Phantom Thieves[n]keep bringing justice to more evildoers!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_018_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_018_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "It's so cool how they[n]only target bad people!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_018_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "They're doing great work. I[n]hope they'll keep changing[n]evil people's hearts!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_018_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "There's nothing to be afraid[n]of, as long as the Phantom Thieves are here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_019_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I heard President Okumura,[n]of Okumura Foods, has a kid[n]who goes to Shujin...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_019_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Does anyone know who President[n]Okumura's daughter is?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_019_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_019_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "President Okumura has been[n]on the news a lot, but I had[n]no idea he had a daughter.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_019_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Is Okumura's kid in our grade?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_019_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Is President Okumura's daughter[n]really in the same grade as us?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_020_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Those phantom thieves are[n]gonna take care of all[n]the evil in this world!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_020_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Think they'll keep going[n]until they take down every[n]evil person in the world?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_020_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_020_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "The Phantom Thieves can[n]change the hearts of all the[n]twisted people in the world!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_020_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Keep taking down the villains[n]of the world, one at a time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_020_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Just leave everything to[n]those phantom thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_021_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "That corrupt CEO[n]needs to be taken down!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_021_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I get such a kick out of[n]watching all these big shots[n]groveling and apologizing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_021_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_021_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "That crooked CEO deserves[n]whatever the Phantom[n]Thieves do to him!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_021_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Corrupt adults deserve to be[n]taken out by phantom thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_021_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I was waiting for another[n]calling card! I can't wait[n]for Okumura's apology!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_022_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "That was terrible... It was[n]like a public execution.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_022_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "That thing that happened to[n]Okumura, do you think it[n]was really phantom thieves?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_022_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_022_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "It was too much. They really[n]killed him in the middle of[n]a public press conference...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_022_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "It's sick, what they did[n]to Okumura. They really[n]crossed the line...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_022_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Just thinking about that press[n]conference gets me depressed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_023_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Those phantom thieves[n]are murderers! Throw[n]them in jail already!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_023_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I never thought the[n]Phantom Thieves[n]would kill anybody...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_023_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_023_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "They must be insane[n]to publicly kill someone in cold blood!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_023_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "It's not normal to kill[n]somebody like that! They've gone crazy!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_023_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "The Phantom Thieves are[n]getting carried away![n]They're the worst!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_024_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "How long are the police[n]going to let those phantom[n]thieves run free!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_024_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "The police are useless![n]Somebody do something!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_024_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_024_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "When are they going to[n]arrest the Phantom Thieves?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_024_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "What are the adults doing!?[n]They're just letting those[n]murderers run loose!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_024_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Hurry up and arrest that[n]group of murderers!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_025_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Do you think the rumor that[n]the Phantom Thieves are Shujin[n]students might be true?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_025_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "That reward money for the[n]Phantom Thieves is insane!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_025_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_025_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "What are the police doing!?[n]Hurry up and catch the[n]Phantom Thieves...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_025_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I heard they're offering[n]a 30 million yen reward[n]for the Phantom Thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_025_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Is it true that you can get[n]money for providing info[n]on the Phantom Thieves!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_026_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "The police are useless![n]Somebody do something!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_026_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Looks like those[n]psychotic breakdowns[n]are happening again...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_026_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_026_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I'm hearing about psychotic[n]breakdown incidents more[n]and more often...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_026_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "What are the adults doing!?[n]They're just letting those[n]murderers run loose!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_026_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "It's terrifying that those[n]psychotic breakdowns are[n]happening more frequently...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_027_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "We'll be fine, as long as[n]we've got Representative[n]Shido, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_027_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I thought everything[n]would be fine if we left[n]things to Shido-san...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_027_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_027_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I wonder if Representative[n]Shido is all right...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_027_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Representative Shido[n]was supposed to[n]change this country...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_027_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Everything will be fine[n]if we just leave it to[n]Representative Shido...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_028_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "It's all so pointless. We[n]might as well just give up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_028_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Somebody help our country...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_028_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_028_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "If Representative Shido[n]were to leave us now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_028_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Nothing really matters...[n]Nothing I do matters...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_028_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Why is this happening...?[n]Somebody do something...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_07_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_08_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_09_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_101_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I hear he hides a bunch of[n]dangerous stuff in his bag...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_101_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I heard that he's a super[n]problem child, and no other[n]school will take him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_101_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_101_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "What if you get in trouble[n]because of him? Better to[n]just to stay away.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_101_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I've heard some pretty[n]crazy rumors about him...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_101_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Isn't he a criminal[n]that's gotten in all sorts of stuff...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_102_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I heard he does drugs...[n]How much worse can you get?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_102_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "He's killed a few people,[n]right? That dude's[n]freakin' terrifying...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_102_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Did you see Mr. Kamoshida's[n]spike? That was amazing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_102_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Someone told me he's killed before...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_102_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "If you get involved with[n]that guy, who knows[n]what'll happen...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_102_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I heard he always[n]carries a knife on him.[n]That's so scary...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_103_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "The police are really[n]here... This is turning[n]into a big deal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_103_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I heard they're here to[n]investigate Mr. Kamoshida...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_103_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_103_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "The teachers are all busy[n]dealing with the police...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_103_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "It looked like they were[n]asking the other teachers[n]a bunch of stuff, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_103_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "The police are here...[n]I can't help but worry...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_104_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "It's almost time for[n]midterms. I need to focus.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_104_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Midterms soon, huh...?[n]I'm gonna be in trouble ifI don't get some studying done.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_104_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_104_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "It's already time for midterms!?[n]I've been studying, but I'm still kind of worried.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_104_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Midterms, huh...?[n]I've been keeping up, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_104_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I completely forgot about[n]midterms with everything[n]that's been happening...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_105_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "It's already time for[n]finals... I need to get[n]serious about studying.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_105_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "If you've been studying,[n]there's no reason at[n]all for you to panic.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_105_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_105_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I need to get better[n]grades on my finals than[n]I did on the midterms...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_105_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "The scores I get on my[n]finals are going to[n]affect my recommendations...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_105_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Ugh, it's already time for finals?[n]Studying is so boring...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_201_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_201_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_201_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Did you hear about that famous[n]detective? Isn't he amazing?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_201_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_201_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_201_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_202_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_202_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_202_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Like Akechi said, it's scary[n]they can just change people's[n]hearts whenever they want...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_202_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_202_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_202_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_301_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "His scores are pretty[n]high up there, but this[n]has to be some mistake...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_301_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Dammit... My scores were worse[n]than that delinquent's...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_301_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "He must have blackmailed[n]them or something. How did[n]he get those scores...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_301_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "No way! Is he actually smart?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_301_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Maybe he got violent because[n]he studies too much...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_301_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "He's a criminal AND he studies[n]too much? He's kind of weird...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_302_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "This is a prep school, right?[n]How can a delinquent be at[n]the top of our class?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_302_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Dammit... How did someone[n]like him get the top score?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_302_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Isn't a smart criminal[n]even more dangerous...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_302_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I'm so frustrated...[n]How could I lose when[n]it comes to grades?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_302_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I'd really respect him if[n]he wasn't a criminal...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_302_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Do you think he's actually[n]a prodigy or something?[n]I can't believe it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_303_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Even though he has a criminal[n]record, I guess he hasn't given[n]up on studying...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_303_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Maybe he's more serious[n]about studying than[n]I thought... Or is he?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_303_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Huh... I guess[n]he's desperate for a fresh start.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_303_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "It isn't easy to[n]get in the top ten...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_303_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I totally forgot about it,[n]but he's that transfer[n]student, isn't he?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_303_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "He actually shows up to class[n]like a regular student. I heard[n]his test scores were great, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_304_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I guess I just have to accept[n]that he's really number one...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_304_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "He took the top spot from me...[n]I need to study harder.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_304_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I'm surprised that his[n]grades are so high...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_304_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Not just anyone can get the[n]highest scores and be at[n]the head of the class.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_304_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Do you remember him?[n]That delinquent has been[n]getting the top scores...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_304_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "The teachers can't even say[n]anything about him if he's[n]at the top of the class...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_305_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I have to admit that[n]he's got some smarts...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_305_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "He's been so quiet...[n]Do you think he might[n]be planning something?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_305_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Can you still get into[n]a college if you have a criminal record?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_305_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "He's really trying hard...[n]I need to give it my all, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_305_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "He has to be trying to[n]make us drop our guard[n]by getting good grades...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_305_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Does that mean he's[n]really reformed himself?[n]That's unbelievable...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_306_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Who cares about rumors?[n]The fact of the matter is,[n]he's at the top of the class.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_306_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "You know that guy who got[n]the top score? What was it[n]they say he did again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_306_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "With those kinds of[n]grades, I'm sure entrance[n]exams will be a breeze...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_306_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "He's way too smart...[n]I could never beat him[n]when it comes to grades.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_306_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "He's at the top of the class?[n]He must have blackmailed a[n]teacher or... or something.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_306_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Looks like he's the real deal.[n]Maybe he's some kind of[n]criminal mastermind...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "You wanna go to the club[n]after this? I'm feeling pretty[n]active.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "So, same with my parents![n]They're still going on dates.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Did I say that? Are you[n]sure you're not thinking[n]of someone else?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Your grades aren't[n]everything in life![n]Let's go hang out!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "What? Come to see me[n]'cause I was sick? What the[n]heck are you talking about?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_031_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Huh? When did I get a[n]recommendation for[n]college...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_07_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I thought that guy[n]moved away... Guess[n]it was someone else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_031_08_#0",
+   "speaker": "Lazy Male Student",
+   "en": "That teacher's so nice[n]now... Was he always[n]like that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_031_09_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Can I go? My girlfriend's[n]waiting for me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_031_10_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I have a cello performance,[n]and... Huh? I've been taking[n]lessons since I was 5.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_031_11_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Sorry, I'm gonna go to[n]a buffet with my family!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_031_12_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I don't want to[n]graduate yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_031_13_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Huh? I thought you said you[n]were going to go to the same[n]place... Oh well, good luck!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_502_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I heard there's this amazing[n]new first-year student.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_502_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Apparently this super[n]gymnast just came in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_502_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Anyone can stretch every[n]day, it's not that special...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_502_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "She sure is getting a lot of[n]attention.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_502_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Wonder if she's training[n]for the Olympics.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_502_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "An honor student, huh.[n]Damn... She must've[n]worked real hard.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_502_07_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I want people to cheer[n]me on like that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_502_08_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Everyone's talking about[n]that honor student!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_502_09_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Wait, do honor students[n]have to pay for school?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_502_10_#0",
+   "speaker": "Lazy Male Student",
+   "en": "And she was exempt too...[n]Damn...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_502_11_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Maybe she said somethin'[n]like \"I want to clean too\"!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_502_12_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Even if they move the date,[n]it's not like we'll have time[n]to study...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_502_13_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Those kinds of people[n]go to good colleges...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_503_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Hey, did you try the[n]counseling already?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_503_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Maruki's in the nurse's[n]office right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_503_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Dr. Maruki's so cool,[n]and he seems so nice...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_503_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Counseling sounds[n]pretty overdramatic...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_504_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Whose idea was it to[n]clean Inokashira Park...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_504_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "We're busy with exams and[n]THIS is what we're doing?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_504_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Why the hell do we have[n]to clean at a time like this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_504_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "We've got nothing to do[n]with this cleaning thing...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_504_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "What's the point of this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_601_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I heard there was[n]a popular first-year.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_601_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Lucky them... They get[n]everyone looking at them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_601_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Did you see her[n]performance?[n]That was amazing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_601_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Heard a super gymnast[n]joined our school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_505_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "What? An honor student?[n]Like anyone even cares.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_505_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "It's gotta be the[n]transfer student.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_505_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I bet the boys like[n]that kind of girl.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_505_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "She's acting like she's all[n]that, just because she's[n]an honor student.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_506_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Did you hear? That[n]gymnast's—",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_506_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Well, they were saying[n]she could be a medalist.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_506_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "You'd better actually be[n]good if you've got people's[n]expectations this high...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_506_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "She probably just[n]calls herself a genius.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_506_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Look at how quickly the[n]girls changed their opinion[n]of her... That shit's scary.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_602_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Dr. Maruki really listens[n]to what you have to say!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_602_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I feel so much better[n]after talking to him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_602_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Dr. Maruki is so nice.[n]Maybe I'll go again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_602_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Maybe I'll ask Dr. Maruki[n]which school to go to.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_602_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Everyone's in love with[n]that nurse's office now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_602_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Dr. Maruki's such[n]a good listener.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_603_01_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Did you see that[n]thing earlier?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_603_02_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Weren't you watching...?[n]She really fell!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_603_03_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I wonder what year she[n]was... I didn't see her face.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_603_04_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Seriously...? You took a[n]picture? Ugh, I wanna see[n]it but I just can't look...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_603_05_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Crap... I saw it with[n]my own eyes...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_603_06_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Really!? Someone actually[n]jumped!? Who was it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_603_07_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Holy shit... Did she die?[n]Let's go check it out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_603_08_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Maybe that transfer[n]student threatened her...[n]He's a thug, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_603_09_#0",
+   "speaker": "Lazy Male Student",
+   "en": "I can't believe there're[n]people who actually[n]commit suicide...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_603_10_#0",
+   "speaker": "Lazy Male Student",
+   "en": "She'll be okay... right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_603_11_#0",
+   "speaker": "Lazy Male Student",
+   "en": "Is an ambulance coming?[n]It'd be pretty bad if she's[n]dead...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest03_hint_talk_01#0",
+   "speaker": "Uneasy Female Student",
+   "en": "Hey, isn't there a bully? Or like,[n]someone that threatens people in[n]front of the gate after class?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest03_hint_talk_02#0",
+   "speaker": "Flippant Female Student",
+   "en": "Isn't it sooo stupid. Considering we just[n]had the whole Kamoshida incident.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest03_hint_talk_03#0",
+   "speaker": "Uneasy Female Student",
+   "en": "Why does he have to do it in front of[n]the school gate out of all places?[n]He must be crazy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest03_hint_talk_04#0",
+   "speaker": "Flippant Female Student",
+   "en": "You're gonna get targeted too if[n]you make eye contact with him.[n]Be carefulll!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest03_hint_talk_05#0",
+   "speaker": "Uneasy Female Student",
+   "en": "Nooo! That's scary!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "quest03_hint_sinjyo_01#0",
+   "speaker": null,
+   "en": "There seems to be a person who[n]bullies people after school...[n]Let's check the front of the gate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_quest03_morgana_00#0",
+   "speaker": "Morgana",
+   "en": "Way to go! That's a very interesting[n]rumor you just heard!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_MEMENTOS03_HINT#0",
+   "speaker": "Rumor Acquired!",
+   "en": "NPCs with a [clr 2]red speech bubble[clr 27] have rumors regarding a mission.[n]NPCs with a [clr 1]blue speech bubble[clr 27] are people who want to express gratitude towards the Phantom Thieves.[n]You can distinguish them using the [clr 3]Sixth Sense[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Q73_HINT_NPC_000_00#0",
+   "speaker": "Scared Volleyball Player",
+   "en": "When I was cleaning the clubroom, I saw[n]that someone had destroyed Shiho's stuff...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Q73_HINT_NPC_010_00#0",
+   "speaker": "Surprised Volleyball Player",
+   "en": "No way... Shiho was so kind to everyone.[n]She wouldn't have given anyone a reason[n]to do that, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Q73_HINT_NPC_020_00#0",
+   "speaker": "Scared Volleyball Player",
+   "en": "Yeah, but... It was in the club room, so[n]I think it might've been someone on the[n]volleyball team.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Q73_HINT_NPC_020_00#1",
+   "speaker": "Scared Volleyball Player",
+   "en": "Maybe someone's upset about[n]Mr. Kamoshida.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Q73_HINT_NPC_030_00#0",
+   "speaker": "Surprised Volleyball Player",
+   "en": "But that's Mr. Kamoshida's fault, not[n]Shiho's...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Q73_HINT_NPC_040_00#0",
+   "speaker": "Morgana",
+   "en": "Hm. So someone on the volleyball team[n]destroyed Shiho's stuff, huh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHK_Q73_HINT_001_00#0",
+   "speaker": "Morgana",
+   "en": "Looks like we have enough information[n]now. Let's head to the hideout and[n]discuss a plan!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BIKOU01_001_0_0#0",
+   "speaker": "Makoto",
+   "en": "Oh, are you alone today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BIKOU01_001_0_0#1",
+   "speaker": "Makoto",
+   "en": "I had heard you were quite the[n]troublemaker, but you seem to[n]be behaving yourself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BIKOU01_002_0_0#0",
+   "speaker": "Makoto",
+   "en": "The students seem to still be a[n]little anxious, so I've been going[n]around talking to them today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BIKOU01_002_0_0#1",
+   "speaker": "Makoto",
+   "en": "This is just part of my duty as the[n]student council president. Not that[n]you'd understand.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BIKOU02_001_0_0#0",
+   "speaker": "Makoto",
+   "en": "Ah...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BIKOU02_001_0_0#1",
+   "speaker": "Makoto",
+   "en": "Wh-What is it? I was so engrossed[n]in my book I didn't notice you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BIKOU02_001_0_0#2",
+   "speaker": "Makoto",
+   "en": "...Oh, I almost forgot! I have a student[n]council meeting to attend.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BIKOU02_001_0_0#3",
+   "speaker": "Makoto",
+   "en": "Are we done here...? Well then, see you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BIKOU02_002_0_0#0",
+   "speaker": "Makoto",
+   "en": "J-Just ignore me. I may not look it,[n]but I'm actually pretty busy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BIKOU03_001_0_0#0",
+   "speaker": "Makoto",
+   "en": "O-Oh... You're still here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BIKOU03_001_0_0#1",
+   "speaker": "Makoto",
+   "en": "What have Sakamoto-kun and[n]Takamaki-san been saying about[n]that shocking Madarame case?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BIKOU03_001_0_0#2",
+   "speaker": "Makoto",
+   "en": "O-Oh, um... never mind.[n]I was simply curious.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BIKOU03_002_0_0#0",
+   "speaker": "Makoto",
+   "en": "I-I should start heading home too.[n]If you'll excuse me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIJYOTYOUSYU01_001_0#0",
+   "speaker": "Hard-Boiled Officer",
+   "en": "Hm? Did you need something?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIJYOTYOUSYU01_002_0#0",
+   "speaker": "Hard-Boiled Officer",
+   "en": "Oh, right, can I ask you something?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIJYOTYOUSYU01_002_0#1",
+   "speaker": "Hard-Boiled Officer",
+   "en": "Have you received any physical[n]punishment, threats, or verbal abuse[n]from Mr. Kamoshida?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIJYOTYOUSYU01_002_0#2",
+   "speaker": "Hard-Boiled Officer",
+   "en": "Even if it's something minor, let me[n]know if you happen to know[n]anything at all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JIJYOTYOUSYU01_003_0#0",
+   "speaker": null,
+   "en": "He threatened me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JIJYOTYOUSYU01_003_0#1",
+   "speaker": null,
+   "en": "He was hitting on me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_JIJYOTYOUSYU01_003_0#2",
+   "speaker": null,
+   "en": "He was nude under his coat...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIJYOTYOUSYU01_004_0#0",
+   "speaker": "Thin Policeman",
+   "en": "You too, huh...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIJYOTYOUSYU01_005_0#0",
+   "speaker": "Thin Policeman",
+   "en": "Based on what we've heard, it[n]seems a large number of students[n]were victimized by him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIJYOTYOUSYU01_006_0#0",
+   "speaker": "Hard-Boiled Officer",
+   "en": "So he used physical punishment and[n]threats on the guys, and sexually[n]abused the girls. That monster...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIJYOTYOUSYU01_007_0#0",
+   "speaker": "Thin Policeman",
+   "en": "Thank you for your cooperation.[n]Please notify the police right away[n]if anything else happens.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIJYOTYOUSYU01_004_0_2#0",
+   "speaker": "Thin Policeman",
+   "en": "Wh-What did you say? He even did[n]that to the male students?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIJYOTYOUSYU01_005_0_2#0",
+   "speaker": "Hard-Boiled Officer",
+   "en": "So he used physical punishment and[n]threats on the guys, and sexually[n]abused any student. That fiend...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIJYOTYOUSYU01_005_0_2#1",
+   "speaker": "Hard-Boiled Officer",
+   "en": "I'm sure we'll find that he committed[n]even more offenses if we dig[n]around a little more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIJYOTYOUSYU01_004_0_3#0",
+   "speaker": "Thin Policeman",
+   "en": "Huh? Hold on, so what you're saying[n]is that he's exposed his naked body[n]to you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIJYOTYOUSYU01_005_0_3#0",
+   "speaker": "Hard-Boiled Officer",
+   "en": "Physical punishment, threats, sexual[n]harassment, and even indecent[n]exposure. That fiend...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIJYOTYOUSYU01_005_0_3#1",
+   "speaker": "Hard-Boiled Officer",
+   "en": "I'm sure we'll find that he committed[n]even more offenses if we dig around[n]a little more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIJYOTYOUSYU02_001_0#0",
+   "speaker": "Young Officer",
+   "en": "And then, Mr. Kamoshida summoned[n]you and proceeded to touch your[n]body in a sexual manner?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIJYOTYOUSYU02_002_0#0",
+   "speaker": "Female Volleyball Player",
+   "en": "I heard that the team would suffer[n]if I didn't let him. I felt like I didn't[n]have any other choice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIJYOTYOUSYU02_002_0#1",
+   "speaker": "Female Volleyball Player",
+   "en": "I mean, he hurt the guys, and they[n]didn't say anything, so I thought I[n]had to do the same.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIJYOTYOUSYU02_002_0#2",
+   "speaker": "Female Volleyball Player",
+   "en": "Only team members were allowed in[n]the gym during practice, so no one[n]from outside could do anything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIJYOTYOUSYU02_003_0#0",
+   "speaker": "Young Officer",
+   "en": "Hmm... That's just awful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC01_000_0#0",
+   "speaker": "Distressed Female Student",
+   "en": "Don't I have any rights? It's like I've[n]got no freedom if I have to follow[n]all these rules.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC01_001_0#0",
+   "speaker": "Distressed Female Student",
+   "en": "Mmm, my ranking didn't improve like[n]I hoped. I won't get into the school[n]I want at this rate...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC01_002_0#0",
+   "speaker": "Distressed Female Student",
+   "en": "Why are all these things happening all of[n]a sudden? Did something crazy happen?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC01_010_0#0",
+   "speaker": "Distressed Female Student",
+   "en": "Counseling, huh... Maybe I'll stop by if I feel[n]like it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC01_011_0#0",
+   "speaker": "Distressed Female Student",
+   "en": "Cleaning event...? What a pain... I can't[n]believe we have to go in our gym clothes...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_001_0#0",
+   "speaker": "Tired-Looking Student",
+   "en": "Ughh, it's already the season for[n]school events...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_001_0_2#0",
+   "speaker": "Bothered Student",
+   "en": "I wish they'd just let us study instead of[n]making us participate in those...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_002_0#0",
+   "speaker": "Tired-Looking Student",
+   "en": "The volleyball team'll probably be[n]popular again this year, with[n]Mr. Kamoshida in charge of it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_002_0_2#0",
+   "speaker": "Bothered Student",
+   "en": "Almost everyone's cheering on the[n]volleyball team though. It must suck[n]for all the other teams.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_003_0#0",
+   "speaker": "Tired-Looking Student",
+   "en": "Mr. Kamoshida did really well today,[n]but that's what you'd expect from[n]a former star player.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_003_0_2#0",
+   "speaker": "Bothered Student",
+   "en": "Well, the rally was all rigged, but[n]no one stood a chance against[n]Kamoshida, anyway.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_004_0#0",
+   "speaker": "Tired-Looking Student",
+   "en": "Are they saying we \"consult\" with them[n]because of that suicide attempt?[n]That's not going to help.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_004_0_2#0",
+   "speaker": "Bothered Student",
+   "en": "I bet she jumped because team[n]practice was too much for her. She[n]was too soft and couldn't hack it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_005_0#0",
+   "speaker": "Tired-Looking Student",
+   "en": "Prank? Oh, you mean that calling card.[n]The teacher was furious about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_005_0_2#0",
+   "speaker": "Bothered Student",
+   "en": "Come to think of it, Kamoshida's[n]absent today, huh? Luckily, we get[n]a study period because of that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_006_0#0",
+   "speaker": "Bothered Student",
+   "en": "Crap, midterms are coming up.[n]There was so much going on,[n]I totally forgot about them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_006_0_2#0",
+   "speaker": "Tired-Looking Student",
+   "en": "Maybe I'll study in the library. I feel like[n]I can focus better in there since it's[n]so quiet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_006EX#0",
+   "speaker": "Tired-Looking Student",
+   "en": "Counseling? Is that even worth the time?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_006EX_2#0",
+   "speaker": "Bothered Student",
+   "en": "They're probably just gonna tell you stuff[n]that you want to hear. People actually going[n]in there are weak.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_007_0#0",
+   "speaker": "Tired-Looking Student",
+   "en": "Threats are no joke, don't you think...?[n]I'm scared of going home after[n]cram school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_007_0_2#0",
+   "speaker": "Bothered Student",
+   "en": "Have you been getting that junk[n]mail too? I'm sure it's all just a scam.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_008_0#0",
+   "speaker": "Tired-Looking Student",
+   "en": "I forgot to apply for the mock exams.[n]Are you going to take any?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_008_0_2#0",
+   "speaker": "Bothered Student",
+   "en": "Only nerds worry about those. I'm not[n]taking any tests that I don't have to take.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_009_0#0",
+   "speaker": "Tired-Looking Student",
+   "en": "Field trips are exhausting...[n]I'd much rather be studying.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_009_0_2#0",
+   "speaker": "Bothered Student",
+   "en": "We're going to check out a TV[n]station, right? I wonder if anyone[n]famous is gonna be there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_010_0#0",
+   "speaker": "Tired-Looking Student",
+   "en": "They told us not to go to the[n]city, but that's not possible.[n]Whose suggestion was that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_010_0_2#0",
+   "speaker": "Bothered Student",
+   "en": "The student council's, I hear. I bet that[n]super serious class president pushed for it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_011_0#0",
+   "speaker": "Bothered Student",
+   "en": "I hear we should be careful not to get[n]food poisoning. It's been pretty humid,[n]so that makes sense.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_011_0_2#0",
+   "speaker": "Tired-Looking Student",
+   "en": "I wish this rainy season would end soon.[n]The constant rainfall is really sapping[n]my motivation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_011_0_2#1",
+   "speaker": "Tired-Looking Student",
+   "en": "They may not let us take detours,[n]but maybe they'll just give us a[n]warning if they catch us.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_012_0#0",
+   "speaker": "Tired-Looking Student",
+   "en": "Ugh my grades are really low...[n]I really need to study more[n]and get my ranking up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_012_0_2#0",
+   "speaker": "Bothered Student",
+   "en": "Hey! It's almost summer break![n]I'm going to spend it by going out[n]and having as much fun as I can!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_013_0#0",
+   "speaker": "Tired-Looking Student",
+   "en": "I have summer courses at my cram[n]school during break. I need to study[n]for those entrance exams...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_013_0_2#0",
+   "speaker": "Bothered Student",
+   "en": "Somehow, I managed to avoid[n]extra lectures, but I've gotta[n]take summer courses too...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_014_0#0",
+   "speaker": "Bothered Student",
+   "en": "Ohh, it's already time for another[n]school trip. Remember the one[n]we went on last year?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_014_0_2#0",
+   "speaker": "Tired-Looking Student",
+   "en": "Now that you mention it, yeah,[n]I remember. This year, we're[n]going to Hawaii, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_015_0#0",
+   "speaker": "Bothered Student",
+   "en": "Our school sucks at dealing with[n]the media. All the teachers do is[n]try to cover up what's going on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_015_0_2#0",
+   "speaker": "Tired-Looking Student",
+   "en": "You're right. Shouldn't the teachers[n]be acting a little more responsible[n]about all this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_016_0#0",
+   "speaker": "Tired-Looking Student",
+   "en": "The principal committed suicide, right?[n]Why did he suddenly do such a thing?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_016_0_2#0",
+   "speaker": "Bothered Student",
+   "en": "Who cares? Actually, shouldn't you[n]worry about how this might affect[n]recommendations?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_016_0_2#1",
+   "speaker": "Bothered Student",
+   "en": "I'm seriously going to be angry if I[n]can't get a recommendation because[n]of all this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_017_0#0",
+   "speaker": "Tired-Looking Student",
+   "en": "Ughhh... We're already halfway through[n]the second semester. Time is passing[n]by way too fast...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_017_0_2#0",
+   "speaker": "Bothered Student",
+   "en": "I should be able to get a recommendation[n]as long as my grades don't slip...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_017_0_2#1",
+   "speaker": "Bothered Student",
+   "en": "Not too sure about getting accepted[n]by any colleges though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_018_0#0",
+   "speaker": "Tired-Looking Student",
+   "en": "School festival, huh? I guess I'll just go[n]around and check out all the booths[n]again this year.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_018_0_2#0",
+   "speaker": "Bothered Student",
+   "en": "Oh, you too? You know, our school[n]festivals are pretty top-notch,[n]don't you think?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_019_0#0",
+   "speaker": "Tired-Looking Student",
+   "en": "It seems Detective Akechi will be the[n]guest for the school festival on the[n]second day. Are you going?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_019_0_2#0",
+   "speaker": "Bothered Student",
+   "en": "Nah, not interested. I'll be[n]walking around, checking out[n]what the other classes are doing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_020_0#0",
+   "speaker": "Bothered Student",
+   "en": "College entrance exams are coming up.[n]I hope that recommendation works out[n]and I get accepted...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_020_0_2#0",
+   "speaker": "Tired-Looking Student",
+   "en": "It's our final struggle as high school[n]students. Let's study with all we've[n]got until the exams!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_021_0#0",
+   "speaker": "Bothered Student",
+   "en": "I know where I'm goin for college![n]Sorry, but I'm rootin' for ya!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_021_0_2#0",
+   "speaker": "Tired-Looking Student",
+   "en": "My mock exam results weren't that bad...[n]I think I can still go for it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_022_0#0",
+   "speaker": "Bothered Student",
+   "en": "You've been awfully calm recently...[n]Did you give up on getting into college?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_022_0_2#0",
+   "speaker": "Tired-Looking Student",
+   "en": "I'm trying to change the way I think.[n]I'm telling myself that I can pass the[n]entrance exam.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_022_0_2#1",
+   "speaker": "Tired-Looking Student",
+   "en": "Then maybe I'll be able to study better...[n]and I'll be able to pass the exam.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_023_0#0",
+   "speaker": "Tired-Looking Student",
+   "en": "I-I did it! I made it into college![n]I'm finally free from studying every day!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_023_0_2#0",
+   "speaker": "Bothered Student",
+   "en": "Your hard worked paid off![n]Congratulations!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_023_0_3#0",
+   "speaker": "Tired-Looking Student",
+   "en": "This is great! We're both gonna have so[n]much fun at our new schools!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_002_0_3#0",
+   "speaker": "Tired-Looking Student",
+   "en": "Qualifiers for the gymnasts huh...[n]Honor students sure get a lot of[n]special treatment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_002_0_4#0",
+   "speaker": "Tired-Looking Student",
+   "en": "They're really hoping she does well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_006EX_3#0",
+   "speaker": "Tired-Looking Student",
+   "en": "So... We go get counseling. Then what?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_006EX_4#0",
+   "speaker": "Tired-Looking Student",
+   "en": "It's not like talking will answer my questions.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_006EX_5#0",
+   "speaker": "Tired-Looking Student",
+   "en": "Cleaning at Inokashira Park?[n]I don't wanna go...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_006EX_6#0",
+   "speaker": "Tired-Looking Student",
+   "en": "And we gotta go in our gym clothing, too.[n]We're gonna look so lame...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_011_0_3#0",
+   "speaker": "Tired-Looking Student",
+   "en": "Hey, about that honor student...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_011_0_4#0",
+   "speaker": "Bothered Student",
+   "en": "I guess that's where she stops...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_020_0_3#0",
+   "speaker": "Tired-Looking Student",
+   "en": "Oh, is Dr. Maruki leaving us after this[n]month?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KEIJIBAN_NPC02_020_0_4#0",
+   "speaker": "Tired-Looking Student",
+   "en": "I guess I'll go get counseling...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_VALLEY_NPC01_0_0#0",
+   "speaker": "Third-Year Volleyball Player",
+   "en": "I heard even Mishima's[n]being expelled. I wonder[n]what he said to Kamoshida.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_VALLEY_NPC01_1_0#0",
+   "speaker": "Senior Volleyball Player",
+   "en": "Maybe Sakamoto blackmailed him or[n]something. I heard that transfer[n]student is pretty shady too...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_VALLEY_NPC01_2_0#0",
+   "speaker": "Third-Year Volleyball Player",
+   "en": "I hope they don't come after us...[n]Kamoshida told us to do it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_VALLEY_NPC01_3_0#0",
+   "speaker": "Senior Volleyball Player",
+   "en": "Hey, don't say stuff like that.[n]We don't know anything, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IJIMEKKO_001_0_0#0",
+   "speaker": "Daisuke Takanashi",
+   "en": "I'm done being your slave,[n]Sakoda-senpai.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IJIMEKKO_001_0_0#1",
+   "speaker": "Daisuke Takanashi",
+   "en": "Lay off the others, too. If you don't,[n]I'll tell the whole school about how[n]you're blackmailing us!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IJIMEKKO_001_1_0#0",
+   "speaker": "Sakoda",
+   "en": "You sure about that? I can't imagine[n]you want me to release this video[n]of you stealing...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IJIMEKKO_001_2_0#0",
+   "speaker": "Daisuke Takanashi",
+   "en": "You made us do it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IJIMEKKO_001_3_0#0",
+   "speaker": "Sakoda",
+   "en": "Got any proof? I mean, I was just mindin'[n]my own business when I happened to[n]witness a robbery.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IJIMEKKO_001_4_0#0",
+   "speaker": "Daisuke Takanashi",
+   "en": "Wait, but you're the one who[n]made us do it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IJIMEKKO_001_5_0#0",
+   "speaker": "Sakoda",
+   "en": "Yeah? Show me some proof!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IJIMEKKO_001_5_0#1",
+   "speaker": "Sakoda",
+   "en": "Another word out of you and I'll debut[n]your film to the whole world.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IJIMEKKO_001_5_0#2",
+   "speaker": "Sakoda",
+   "en": "Think the \"Keishu Collection\" will[n]be a big hit?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_MEMENTOS_MISSION_03#0",
+   "speaker": "Mission Occurrence!",
+   "en": "\"[clr 4]Mementos Occurrence[clr 27]\" The Target[n]has been identified. Now, let's discuss[n]this with the team back at the \"[clr 2]hideout[clr 27].\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_quest12_morgana_01#0",
+   "speaker": "Morgana",
+   "en": "There's always someone worse[n]waiting the higher up you go.[n]We can't let this pass!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IJIMEKKO_001_6_0#0",
+   "speaker": "Daisuke Takanashi",
+   "en": "I know I'm at fault for listening to you[n]in the first place, but you're just as[n]guilty as I am!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IJIMEKKO_001_7_0#0",
+   "speaker": "Sakoda",
+   "en": "Give it a rest already, Smooth Criminal.[n]Learn your place.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IJIMEKKO_002_0_0#0",
+   "speaker": "Yoshimori Sakoda",
+   "en": "Look, I'm sorry for threatening you.[n]I don't know why I was taking my[n]anger out on you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IJIMEKKO_002_0_0#1",
+   "speaker": "Yoshimori Sakoda",
+   "en": "I deleted the video. I don't expect[n]you to forgive me, but I'd like to[n]make up for it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IJIMEKKO_002_1_0#0",
+   "speaker": "Daisuke Takanashi",
+   "en": "How can I believe you after all of this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IJIMEKKO_002_2_0#0",
+   "speaker": "Yoshimori Sakoda",
+   "en": "I dunno, but I'll do whatever[n]it takes. Starting by turning[n]myself in to the police.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IJIMEKKO_002_3_0#0",
+   "speaker": "Daisuke Takanashi",
+   "en": "Well... I'm responsible for my[n]own actions. I did my share of[n]in all this. I can't judge you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IJIMEKKO_002_3_0#1",
+   "speaker": "Daisuke Takanashi",
+   "en": "What I'm saying is:[n]Let's make amends together.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IJIMEKKO_002_4_0#0",
+   "speaker": "Yoshimori Sakoda",
+   "en": "Thanks... I swear I'll fess up to[n]all I've done.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

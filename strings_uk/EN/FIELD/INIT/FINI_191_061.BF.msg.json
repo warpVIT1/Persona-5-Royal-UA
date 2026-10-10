@@ -1,0 +1,1923 @@
+{
+ "file": "EN/FIELD/INIT/FINI_191_061.BF",
+ "entries": [
+  {
+   "id": "dummy_mes#0",
+   "speaker": null,
+   "en": "…",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_01#0",
+   "speaker": "Ann",
+   "en": "The atmosphere in here seems a little[n]different now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_01#1",
+   "speaker": "Ann",
+   "en": "We don't know what might be around[n]here, so let's proceed with caution.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_02#0",
+   "speaker": "Ryuji",
+   "en": "It feels different in here, plus I'm thinkin'[n]something 'bout the Shadows changed[n]too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_02#1",
+   "speaker": "Ryuji",
+   "en": "Don't go lettin' your guard down, got it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_03#0",
+   "speaker": "Morgana",
+   "en": "This floor seems different than the other[n]ones. I'm not sensing any Shadows here[n]either...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_05#0",
+   "speaker": "Ryuji",
+   "en": "We got pretty far, huh? How deep does[n]this shit go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_BRANCH#0",
+   "speaker": "Morgana",
+   "en": "I can sense our target somewhere in this[n]area!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_BRANCH#1",
+   "speaker": "Morgana",
+   "en": "Let's scour this floor for them!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_BRANCH_ex_27#0",
+   "speaker": "Morgana",
+   "en": "This is where that horrible cheater was...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_BRANCH_ex_27#1",
+   "speaker": "Morgana",
+   "en": "We'll need some kind of plan if we want[n]to take him down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_BRANCH_ex_72#0",
+   "speaker": "Morgana",
+   "en": "No, we should focus on what's in front of[n]us for now. I feel the presence of the target[n]ahead...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_BRANCH_ex_72#1",
+   "speaker": "Morgana",
+   "en": "Let's search the whole area.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_NEIGHBOR#0",
+   "speaker": "Morgana",
+   "en": "I can sense the target's presence nearby!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_NEIGHBOR#1",
+   "speaker": "Morgana",
+   "en": "It's coming from the next area! Let's go[n]check it out!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_NEAR_LOW#0",
+   "speaker": "Morgana",
+   "en": "Hm, I think I can sense the target's[n]presence nearby.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_NEAR_LOW#1",
+   "speaker": "Morgana",
+   "en": "It feels like it's in an area a little bit[n]further past here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_MIDDLE_L#0",
+   "speaker": "Morgana",
+   "en": "Hm, I feel the target's presence.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_MIDDLE_L#1",
+   "speaker": "Morgana",
+   "en": "It's still far though. They must be deeper[n]inside.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_FAR_LOWE#0",
+   "speaker": "Morgana",
+   "en": "It's only slight, but I can sense the target's[n]presence.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_FAR_LOWE#1",
+   "speaker": "Morgana",
+   "en": "It seems like it's coming from an area[n]much deeper down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_NEIGHBOR_2#0",
+   "speaker": "Morgana",
+   "en": "I sense the target—super close!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_NEIGHBOR_2#1",
+   "speaker": "Morgana",
+   "en": "It's coming from an area above us![n]Let's go check it out!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_NEAR_UPP#0",
+   "speaker": "Morgana",
+   "en": "Hm, I think I can sense the target's[n]presence nearby.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_NEAR_UPP#1",
+   "speaker": "Morgana",
+   "en": "If we go a little back towards where we[n]came from, we might be able to reach[n]its location.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_MIDDLE_U#0",
+   "speaker": "Morgana",
+   "en": "Hm, I feel the target's presence.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_MIDDLE_U#1",
+   "speaker": "Morgana",
+   "en": "But it's still far away. We should probably[n]head up a ways.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_FAR_UPPE#0",
+   "speaker": "Morgana",
+   "en": "I'm getting a slight reading from the target.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_FAR_UPPE#1",
+   "speaker": "Morgana",
+   "en": "It feels like it's way back from where we[n]came from...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SHOP_1ST_MSG01#0",
+   "speaker": "Jose",
+   "en": "Oh, mister!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SHOP_1ST_MSG02#0",
+   "speaker": "Jose",
+   "en": "When you get flowers, bring them to me![n]I'll go ahead of you guys!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ACCIDENT_TUTORIAL01#0",
+   "speaker": "Ryuji",
+   "en": "Whoa! What the hell happened?[n]It's so dark!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ACCIDENT_TUTORIAL02#0",
+   "speaker": "Morgana",
+   "en": "Mementos is an amalgamation of the[n]people's cognition. This can affect the[n]environment, as well as the structure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ACCIDENT_TUTORIAL02#1",
+   "speaker": "Morgana",
+   "en": "It hasn't been like this in a long time,[n]but it seems like the darkness won't be[n]the only thing we'll have to deal with.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ACCIDENT_TUTORIAL03#0",
+   "speaker": "Ann",
+   "en": "You mean we have even more stuff[n]to worry about?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ACCIDENT_TUTORIAL04#0",
+   "speaker": "Morgana",
+   "en": "In a way... I can sense rare Shadows all[n]around us.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ACCIDENT_TUTORIAL04#1",
+   "speaker": "Morgana",
+   "en": "We should explore this area for a bit—[n]despite the darkness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ACCIDENT_TUTORIAL05#0",
+   "speaker": "Ryuji",
+   "en": "I don't really wanna stick around here,[n]but if you say so, then I guess we can go[n]for it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ACCIDENT_TUTORIAL05#1",
+   "speaker": "Ryuji",
+   "en": "Joker, just... drive extra safe or something!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_AFTER_FLOOR_NE#0",
+   "speaker": "Morgana",
+   "en": "The target is coming from the next area!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_AFTER_FLOOR_NE#1",
+   "speaker": "Morgana",
+   "en": "Let's go check that area out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_AFTER_FLOOR_NE_2#0",
+   "speaker": "Morgana",
+   "en": "The target is close.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_AFTER_FLOOR_NE_2#1",
+   "speaker": "Morgana",
+   "en": "It feels like it's in an area a little bit[n]further past here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_AFTER_FLOOR_MI#0",
+   "speaker": "Morgana",
+   "en": "It's still far though. They must be deeper[n]inside.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_AFTER_FLOOR_FA#0",
+   "speaker": "Morgana",
+   "en": "The target's presence is very weak.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_AFTER_FLOOR_FA#1",
+   "speaker": "Morgana",
+   "en": "Much deeper than where we are now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_AFTER_FLOOR_NE_3#0",
+   "speaker": "Morgana",
+   "en": "The target's close!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_AFTER_FLOOR_NE_3#1",
+   "speaker": "Morgana",
+   "en": "The area right before! Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_AFTER_FLOOR_NE_4#0",
+   "speaker": "Morgana",
+   "en": "The target's close.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_AFTER_FLOOR_NE_4#1",
+   "speaker": "Morgana",
+   "en": "If we go a little back towards where we[n]came from, we might be able to reach its[n]location.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_AFTER_FLOOR_MI_2#0",
+   "speaker": "Morgana",
+   "en": "The target is still far away... Let's go back[n]towards where we came from.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_AFTER_FLOOR_FA_2#0",
+   "speaker": "Morgana",
+   "en": "The target's presence is very weak.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_AFTER_FLOOR_FA_2#1",
+   "speaker": "Morgana",
+   "en": "It feels like it's way back from where we[n]came from...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D191_01_miniEV01_mes01#0",
+   "speaker": "Morgana",
+   "en": "The paths seem to have changed since[n]last time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D191_01_miniEV01_mes02#0",
+   "speaker": "Ann",
+   "en": "This is so creepy. What's going on?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D191_01_miniEV01_mes03#0",
+   "speaker": "Morgana",
+   "en": "This Palace is so twisted... It must be[n]worth checking out! Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_01_02_mes01#0",
+   "speaker": "Morgana",
+   "en": "All right, there it is! The thing I want to[n]check on is inside!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "AT_D_FIRST_02_01_EV01_me#0",
+   "speaker": "Ryuji",
+   "en": "We bumped into that guy again.[n]Uh, what was his name...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "AT_D_FIRST_02_01_EV01_me_2#0",
+   "speaker": "Ann",
+   "en": "You mean Jose, right? He's such an[n]adorable little kid, isn't he?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "AT_D_FIRST_02_01_EV01_me_3#0",
+   "speaker": "Morgana",
+   "en": "Panther!? I'm adorable too, you know!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "AT_D_FIRST_02_01_EV01_me_4#0",
+   "speaker": "Ann",
+   "en": "Yeah, yeah. Anyway, he said he was[n]looking for flowers and wanted our[n]help, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "AT_D_FIRST_02_01_EV01_me_4#1",
+   "speaker": "Ann",
+   "en": "Sounds like he'll reward us too. Doesn't[n]it seem like helping him would be worth it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "AT_D_FIRST_02_01_EV01_me_5#0",
+   "speaker": "Ryuji",
+   "en": "I guess. I am kinda curious about what[n]we'll get... Why don't we go look for[n]him? He's probably still around here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "AT_D_FIRST_02_01_EV01_me_6#0",
+   "speaker": "Morgana",
+   "en": "Looking for him is fine and all, but[n]remember that it's risky to stay in[n]one area for too long.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "AT_D_FIRST_02_01_EV01_me_6#1",
+   "speaker": "Morgana",
+   "en": "There's this one really fearsome Shadow[n]in Mementos... If we hang around too[n]long, it'll hunt us down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "AT_D_FIRST_02_01_EV01_me_7#0",
+   "speaker": "Ryuji",
+   "en": "Huh!? The hell're you talkin' about!?[n]Why didn't you tell us this before!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "AT_D_FIRST_02_01_EV01_me_8#0",
+   "speaker": "Morgana",
+   "en": "We should be fine if we find him quickly.[n]All right, let's get going.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_02_02_mes01#0",
+   "speaker": "Ann",
+   "en": "You know, this Palace's security level[n]doesn't seem to change, even if the[n]enemies spot you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_02_02_mes02#0",
+   "speaker": "Morgana",
+   "en": "Mementos is different. While other[n]Palaces exist because of just one[n]person, this one's from the public.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_02_02_mes02#1",
+   "speaker": "Morgana",
+   "en": "From that perspective, it'd take more[n]than a few intruders to make a mark[n]on the security level.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_02_02_mes02#2",
+   "speaker": "Morgana",
+   "en": "You'd have to do something so bad that[n]the entire public sees you as an enemy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_02_02_mes02#3",
+   "speaker": "Morgana",
+   "en": "So... be careful, okay, Skull?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_02_02_mes03#0",
+   "speaker": "Ryuji",
+   "en": "Hey, shut up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_02_05_mes01#0",
+   "speaker": "Morgana",
+   "en": "Oh, Joker. I almost forgot to mention...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_02_05_mes01#1",
+   "speaker": "Morgana",
+   "en": "In Mementos, sometimes the road will[n]be unnaturally blocked.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_02_05_mes01#2",
+   "speaker": "Morgana",
+   "en": "The walls are pretty weak in those spots.[n]I should be able to break through them[n]no problem.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_02_05_mes01#3",
+   "speaker": "Morgana",
+   "en": "If you see any while we're exploring,[n]try busting right through them!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_02_05_mes02#0",
+   "speaker": null,
+   "en": "In Mementos, you can press [clr 2][f 1 10 22][clr 27] to destroy[n]weak walls that look different from normal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_02_05_mes02#1",
+   "speaker": null,
+   "en": "Try to break these walls whenever you[n]can. There may be something hidden[n]behind them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_02_05_mes03#0",
+   "speaker": "Ann",
+   "en": "Uh, just let us know before you do that...[n]Don't go crashing into any walls before[n]we can buckle up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_02_06_mes01#0",
+   "speaker": "Morgana",
+   "en": "Hey... The next area has a different feel[n]to it somehow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_02_06_mes01#1",
+   "speaker": "Morgana",
+   "en": "What is this...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_02_07_mes01#0",
+   "speaker": "Morgana",
+   "en": "Hey, that wall...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_02_07_mes02#0",
+   "speaker": "Ann",
+   "en": "It's the same type of wall we opened up[n]last time... Does this one open, too?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_02_07_mes03#0",
+   "speaker": "Morgana",
+   "en": "Let's check it out, Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_03_01_mes01#0",
+   "speaker": "Ann",
+   "en": "D-Doesn't this look different from[n]how it was before?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_03_01_mes02#0",
+   "speaker": "Morgana",
+   "en": "Looks like it'll be a new area from here[n]on. I'm starting to understand how this[n]place works...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_03_01_mes03#0",
+   "speaker": "Yusuke",
+   "en": "Yes... It is quite a marvel to find[n]the subway system down here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_03_01_mes04#0",
+   "speaker": "Ryuji",
+   "en": "Uh, Earth to Yusuke! It's always been[n]like that!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_03_02_mes01#0",
+   "speaker": "Ryuji",
+   "en": "Hey. How many areas are on this floor,[n]anyway?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_03_02_mes02#0",
+   "speaker": "Ann",
+   "en": "The last floor had seven areas, but the[n]one before that only had two, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_03_02_mes03#0",
+   "speaker": "Yusuke",
+   "en": "I suppose it varies, depending upon[n]the location...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_03_02_mes04#0",
+   "speaker": "Ryuji",
+   "en": "Guess that means it ain't easy to tell how[n]much of a floor we got left to cover, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_03_02_mes05#0",
+   "speaker": "Morgana",
+   "en": "That's right. We won't know how many[n]areas are on a floor until we make it to[n]the end.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_03_02_mes05#1",
+   "speaker": "Morgana",
+   "en": "But judging by the vibe I'm getting from[n]the Shadows... this floor isn't any smaller[n]than the last.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_03_05_mes01#0",
+   "speaker": "Ryuji",
+   "en": "Hey, this place is like a waiting room![n]Maybe we can chill here a bit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_03_07_mes01#0",
+   "speaker": "Morgana",
+   "en": "Huh? The next area feels different from[n]the ones before...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_03_07_mes01#1",
+   "speaker": "Morgana",
+   "en": "Our goal may be close.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_03_08_mes01#0",
+   "speaker": "Morgana",
+   "en": "Oh, look at that wall! Let's check and[n]see if it'll open up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_04_01_mes01#0",
+   "speaker": "Ann",
+   "en": "Oh... The whole ambience changed[n]again...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_04_01_mes02#0",
+   "speaker": "Makoto",
+   "en": "I never realized how creepy the subway[n]system could be. Inside the train, you[n]don't even notice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_04_01_mes03#0",
+   "speaker": "Yusuke",
+   "en": "I agree. Perhaps it is like the darkness[n]in all men's hearts. Always there, never[n]perceived...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_04_01_mes04#0",
+   "speaker": "Ryuji",
+   "en": "Haha, you talkin' about art stuff again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_04_01_mes05#0",
+   "speaker": "Morgana",
+   "en": "It's a new area from this point on.[n]Let's be careful heading in!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_04_03_mes01#0",
+   "speaker": "Morgana",
+   "en": "The last place had eight areas, so[n]I wonder if this one will be just as big...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_04_03_mes02#0",
+   "speaker": "Yusuke",
+   "en": "We're only in the third area. I suppose[n]this leisure ride will continue on for[n]a while longer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_04_03_mes03#0",
+   "speaker": "Ann",
+   "en": "How is this supposed to be leisurely?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_04_03_mes04#0",
+   "speaker": "Ryuji",
+   "en": "Cut him some slack. Yusuke just wanted[n]to say somethin' cool.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_04_06_mes01#0",
+   "speaker": "Yusuke",
+   "en": "Ah, a waiting room. It seems we can rest[n]and find repose here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_04_09_mes01#0",
+   "speaker": "Morgana",
+   "en": "What's this? Something about the next[n]area feels different from the ones before...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_04_09_mes01#1",
+   "speaker": "Morgana",
+   "en": "Maybe this means we're close to our goal?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_04_10_mes01#0",
+   "speaker": "Makoto",
+   "en": "Isn't that—",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_04_10_mes02#0",
+   "speaker": "Morgana",
+   "en": "It's that wall again. Let's check to see[n]if it opens.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_05_01_mes01#0",
+   "speaker": "Ryuji",
+   "en": "Oh, man. This place just keeps gettin'[n]creepier and creepier...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_05_01_mes02#0",
+   "speaker": "Morgana",
+   "en": "That's a sign of how much more twisted[n]this place is. I'm sure the Shadows here[n]are stronger, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_05_01_mes03#0",
+   "speaker": "Futaba",
+   "en": "Yeah, and looks like there are more[n]enemies here than there were up[n]above. Be careful, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_05_04_mes01#0",
+   "speaker": "Futaba",
+   "en": "Hey, there aren't any dangerous[n]enemies here. Seems like a good[n]place to rest.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_05_04_mes02#0",
+   "speaker": "Ryuji",
+   "en": "Huh, another waiting room? Didn't this[n]one show up quicker than the last one[n]we saw?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_05_04_mes03#0",
+   "speaker": "Ann",
+   "en": "Oh, this is great! I've been wanting[n]to take a break!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_05_06_mes01#0",
+   "speaker": "Ryuji",
+   "en": "So, uh, where are we right now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_05_06_mes02#0",
+   "speaker": "Futaba",
+   "en": "This is the sixth area on this floor,[n]but counting the entire Palace...[n]it's the thirty-third one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_05_06_mes03#0",
+   "speaker": "Ann",
+   "en": "Thirty-three areas? I'm starting to feel[n]kind of overwhelmed... Just how big[n]IS this place?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_05_06_mes04#0",
+   "speaker": "Futaba",
+   "en": "Who knows? This whole place, its[n]overall structure... It's all a mystery.[n]Oh well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_05_06_mes04#1",
+   "speaker": "Futaba",
+   "en": "Just, uh, hang in there!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_05_08_mes01#0",
+   "speaker": "Ryuji",
+   "en": "Hey, is this a waiting room? There are[n]two of 'em here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_05_08_mes02#0",
+   "speaker": "Makoto",
+   "en": "Either way, I'm glad we can take a[n]breather. Let's not miss the opportunity.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_05_09_mes01#0",
+   "speaker": "Futaba",
+   "en": "According to my research, we don't have[n]many more areas left... This is the home[n]stretch!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_05_09_mes02#0",
+   "speaker": "Ryuji",
+   "en": "All right, we can't be losin' our nerve[n]now! We're goin' in!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_05_11_mes01#0",
+   "speaker": "Futaba",
+   "en": "Huh? It feels different down there.[n]What is it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_05_11_mes02#0",
+   "speaker": "Morgana",
+   "en": "I'm sure what we're seeking is close.[n]We're almost there!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_05_12_mes01#0",
+   "speaker": "Morgana",
+   "en": "There it is... that wall.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_05_12_mes01#1",
+   "speaker": "Morgana",
+   "en": "Let's check it out, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_06_01_mes01#0",
+   "speaker": "Ryuji",
+   "en": "Aww yeah, looks like we made it to[n]some kinda new area!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_06_01_mes02#0",
+   "speaker": "Futaba",
+   "en": "Wow... This place is a lot bigger than[n]what I'd heard.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_06_01_mes03#0",
+   "speaker": "Morgana",
+   "en": "I expect the Shadows here will be strong,[n]too. Be careful!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_06_03_mes01#0",
+   "speaker": "Haru",
+   "en": "How many floors down does this place go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_06_03_mes02#0",
+   "speaker": "Morgana",
+   "en": "Even I don't know that. The only thing[n]I can say is...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_06_03_mes02#1",
+   "speaker": "Morgana",
+   "en": "The sheer scale of this place...[n]is astronomical.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_06_03_mes03#0",
+   "speaker": "Ryuji",
+   "en": "Well, yeah, but c'mon. We all know[n]that already.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_06_03_mes04#0",
+   "speaker": "Ann",
+   "en": "Oh, Mona... You're always trying to act[n]cool in front of Noir.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_06_03_mes05#0",
+   "speaker": "Morgana",
+   "en": "Th-That's not true! I just wanted to[n]make sure she knew!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_06_03_mes06#0",
+   "speaker": "Haru",
+   "en": "Hehehe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_06_05_mes01#0",
+   "speaker": "Haru",
+   "en": "Oh, this looks like a place where we can[n]take a little break!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_06_07_mes01#0",
+   "speaker": "Futaba",
+   "en": "Hmm, if I'm right, that area just now[n]was the midpoint.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_06_07_mes01#1",
+   "speaker": "Futaba",
+   "en": "We're halfway there, guys. Let's plow[n]the rest of the way through!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_06_07_mes02#0",
+   "speaker": "Ryuji",
+   "en": "You're pretty good at navigatin'. Sure is[n]nice to have reliable info!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_06_07_mes03#0",
+   "speaker": "Morgana",
+   "en": "Why are you looking at me!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_06_09_mes01#0",
+   "speaker": "Yusuke",
+   "en": "A waiting room? Ah, how fortuitous for[n]it to appear, just as I wished for respite.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_06_10_mes01#0",
+   "speaker": "Haru",
+   "en": "Where are we right now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_06_10_mes02#0",
+   "speaker": "Futaba",
+   "en": "You're getting close to the end...[n]No doubt about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_06_10_mes03#0",
+   "speaker": "Makoto",
+   "en": "We've got to keep going just a little longer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_06_12_mes01#0",
+   "speaker": "Futaba",
+   "en": "Ah, I'm getting a different reading from[n]the next area... I think that's the finish[n]line!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_06_12_mes02#0",
+   "speaker": "Ryuji",
+   "en": "Finally... I'm tired of runnin'...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_06_12_mes03#0",
+   "speaker": "Morgana",
+   "en": "Just imagine what it's like for me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_06_13_mes01#0",
+   "speaker": "Morgana",
+   "en": "There it is... that wall.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_06_13_mes02#0",
+   "speaker": "Ryuji",
+   "en": "Let's check it out!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_07_01_mes01#0",
+   "speaker": "Ann",
+   "en": "This... is the new, seventh area...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_07_01_mes02#0",
+   "speaker": "Haru",
+   "en": "Is it just my imagination, or is this place[n]even creepier?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_07_01_mes03#0",
+   "speaker": "Yusuke",
+   "en": "No, you're right. Without exaggeration,[n]this repugnant place is an assault on the[n]senses.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_07_01_mes04#0",
+   "speaker": "Futaba",
+   "en": "Uh, sure, and the enemies here are[n]gonna be pretty feisty, too! Be careful,[n]all right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_07_03_mes01#0",
+   "speaker": "Ryuji",
+   "en": "Hey, how deep are we right now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_07_03_mes02#0",
+   "speaker": "Futaba",
+   "en": "Well, you're in the third area on this[n]floor. That makes it the 55th area overall.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_07_03_mes03#0",
+   "speaker": "Ryuji",
+   "en": "Huh. So we passed the big five-o...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_07_03_mes03#1",
+   "speaker": "Ryuji",
+   "en": "Man, Mona, you were right. This place is[n]astrologically big, or whatever you said.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_07_03_mes04#0",
+   "speaker": "Morgana",
+   "en": "Well... I'm surprised too...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_07_06_mes01#0",
+   "speaker": "Ryuji",
+   "en": "Hey, a waiting room! We can kick back[n]and relax for a while!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_07_08_mes01#0",
+   "speaker": "Ryuji",
+   "en": "*sigh* This place keeps goin' on and on...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_07_08_mes02#0",
+   "speaker": "Ann",
+   "en": "Hey, where are we right now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_07_08_mes03#0",
+   "speaker": "Futaba",
+   "en": "Umm, this should be around the halfway[n]point. There's still another half to go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_07_08_mes04#0",
+   "speaker": "Ryuji",
+   "en": "Another half, she says...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_07_08_mes05#0",
+   "speaker": "Ann",
+   "en": "Don't focus on that! It'll just make it[n]seem longer!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_07_10_mes01#0",
+   "speaker": "Ann",
+   "en": "Yes, a waiting room! Hey, why don't we[n]take a break?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_07_11_mes01#0",
+   "speaker": "Futaba",
+   "en": "According to my research, you're nearing[n]the end. Go go go! You can do it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_07_11_mes02#0",
+   "speaker": "Ryuji",
+   "en": "Hey, y'know, sometimes I think I wanna[n]try bein' the naviga—",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_07_11_mes03#0",
+   "speaker": "Morgana",
+   "en": "I don't think you're cut out for it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_07_11_mes04#0",
+   "speaker": "Ryuji",
+   "en": "Man, shut up! You shot me down[n]way too fast...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_07_13_mes01#0",
+   "speaker": "Futaba",
+   "en": "Hey, the next area down there is giving[n]me a different reading. I'm sure that's[n]the goal!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_07_13_mes02#0",
+   "speaker": "Ryuji",
+   "en": "I really hope so... We've been at this[n]a while...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_07_13_mes03#0",
+   "speaker": "Morgana",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_07_14_mes01#0",
+   "speaker": "Morgana",
+   "en": "...Look, it's that wall.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_07_14_mes02#0",
+   "speaker": "Haru",
+   "en": "Do you think it'll open?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_09_05_mes01#0",
+   "speaker": "Akechi",
+   "en": "We've found a waiting room. Shall we[n]take a break?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_09_11_mes01#0",
+   "speaker": "[sumi 10 0]",
+   "en": "It looks like we can take a break here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "START_CHECK_SEL#0",
+   "speaker": null,
+   "en": "Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "START_CHECK_SEL#1",
+   "speaker": null,
+   "en": "Maybe later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "START_CHECK_mes01#0",
+   "speaker": "Morgana",
+   "en": "Our target's up ahead. What's the play,[n]Joker?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "START_OK_mes01#0",
+   "speaker": "Morgana",
+   "en": "All right, get ready!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "START_NG_mes01#0",
+   "speaker": "Morgana",
+   "en": "All right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "QUEST_FLOOR_BACK_mes01#0",
+   "speaker": "Morgana",
+   "en": "Do you want to go back?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "QUEST_FLOOR_BACK_mes02#0",
+   "speaker": "Morgana",
+   "en": "Do you want to leave, Joker?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "QUEST_FLOOR_BACK_SEL#0",
+   "speaker": null,
+   "en": "Leave",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "QUEST_FLOOR_BACK_SEL#1",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "QUEST_EXIT_SEL#0",
+   "speaker": null,
+   "en": "Let's keep going.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "QUEST_EXIT_SEL#1",
+   "speaker": null,
+   "en": "Let's go back to the entrance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_01_PC02_mes#0",
+   "speaker": "Ryuji",
+   "en": "Well, that's that. What now? You wanna[n]keep exploring?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_01_PC03_mes#0",
+   "speaker": "Morgana",
+   "en": "That takes care of that! What should we[n]do now? Want to keep exploring?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_01_PC04_mes#0",
+   "speaker": "Ann",
+   "en": "That went well! What should we do now?[n]Keep exploring?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_01_PC05_mes#0",
+   "speaker": "Yusuke",
+   "en": "Impressive leadership... Well, what's[n]next? Do you want to continue exploring?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_01_PC06_mes#0",
+   "speaker": "Makoto",
+   "en": "Another case solved. What's next?[n]Do we keep exploring?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_01_PC07_mes#0",
+   "speaker": "Futaba",
+   "en": "Good work. The battle went well![n]What's our next step? Should we keep[n]exploring?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_01_PC08_mes#0",
+   "speaker": "Haru",
+   "en": "I'm glad that went well! But what[n]should we do now? Do you want[n]to keep exploring?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_01_PC09_mes#0",
+   "speaker": "Akechi",
+   "en": "I expected nothing less from the[n]Phantom Thieves. Well, what now?[n]Do you want to keep exploring?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_01_PC10_mes#0",
+   "speaker": "[sumi 10 0]",
+   "en": "A job well done! Shall we continue[n]exploring?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_01_PC02_mes#0",
+   "speaker": "Ryuji",
+   "en": "Headin' back?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_01_PC03_mes#0",
+   "speaker": "Morgana",
+   "en": "Roger that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_01_PC04_mes#0",
+   "speaker": "Ann",
+   "en": "Well, let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_01_PC05_mes#0",
+   "speaker": "Yusuke",
+   "en": "Hmm, I understand.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_01_PC06_mes#0",
+   "speaker": "Makoto",
+   "en": "So we'll regroup. Got it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_01_PC07_mes#0",
+   "speaker": "Futaba",
+   "en": "Ah, regrouping?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_01_PC08_mes#0",
+   "speaker": "Haru",
+   "en": "Okay. That was pretty tiring, after all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_01_PC09_mes#0",
+   "speaker": "Akechi",
+   "en": "Calling it a day?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_01_PC10_mes#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Got it, let's regroup.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_02_PC02_mes#0",
+   "speaker": "Ryuji",
+   "en": "Mkay, let's go back.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_02_PC03_mes#0",
+   "speaker": "Morgana",
+   "en": "Hmm, I guess it's a good time to leave.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_02_PC04_mes#0",
+   "speaker": "Ann",
+   "en": "Let's regroup.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_02_PC05_mes#0",
+   "speaker": "Yusuke",
+   "en": "Hm, this is wise.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_02_PC06_mes#0",
+   "speaker": "Makoto",
+   "en": "Let's go, then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_02_PC07_mes#0",
+   "speaker": "Futaba",
+   "en": "Returning!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_02_PC08_mes#0",
+   "speaker": "Haru",
+   "en": "Ah, are we taking our leave?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_02_PC09_mes#0",
+   "speaker": "Akechi",
+   "en": "Understood.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_02_PC10_mes#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Sure, heading back.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_03_PC02_mes#0",
+   "speaker": "Ryuji",
+   "en": "Aw yeah, let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_03_PC03_mes#0",
+   "speaker": "Morgana",
+   "en": "Sure. It's important to know when to[n]back off.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_03_PC04_mes#0",
+   "speaker": "Ann",
+   "en": "Okay, let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_03_PC05_mes#0",
+   "speaker": "Yusuke",
+   "en": "Let us be on our way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_03_PC06_mes#0",
+   "speaker": "Makoto",
+   "en": "Got it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_03_PC07_mes#0",
+   "speaker": "Futaba",
+   "en": "Okay, leaving!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_03_PC08_mes#0",
+   "speaker": "Haru",
+   "en": "Lead the way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_03_PC09_mes#0",
+   "speaker": "Akechi",
+   "en": "Seems good a time as any to call it a night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_03_PC10_mes#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Got it. Let's get going!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_GOTO_SAFE_PC02_me#0",
+   "speaker": "Ryuji",
+   "en": "Yeah, we should prolly talk strategy, huh.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_GOTO_SAFE_PC03_me#0",
+   "speaker": "Morgana",
+   "en": "Got it. Let's hold up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_GOTO_SAFE_PC04_me#0",
+   "speaker": "Ann",
+   "en": "Okay. We should have a strategy meeting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_GOTO_SAFE_PC05_me#0",
+   "speaker": "Yusuke",
+   "en": "Yes, let us review our options first.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_GOTO_SAFE_PC06_me#0",
+   "speaker": "Makoto",
+   "en": "Yeah, let's go over our strategy again.[n]Please, Mona, if you will.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_GOTO_SAFE_PC07_me#0",
+   "speaker": "Futaba",
+   "en": "All right. Go ahead, Mona.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_GOTO_SAFE_PC08_me#0",
+   "speaker": "Haru",
+   "en": "Okay. Let's take a breather.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_GOTO_SAFE_PC09_me#0",
+   "speaker": "Akechi",
+   "en": "That might be the best call. I'm counting[n]on you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_GOTO_SAFE_PC10_me#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Taking a break? Got it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_CANCEL_PC02_mes#0",
+   "speaker": "Ryuji",
+   "en": "Mkay, I'm good to go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_CANCEL_PC03_mes#0",
+   "speaker": "Morgana",
+   "en": "Sure. We can make some more money.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_CANCEL_PC04_mes#0",
+   "speaker": "Ann",
+   "en": "Yeah, let's push ahead a little further.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_CANCEL_PC05_mes#0",
+   "speaker": "Yusuke",
+   "en": "Let's do that. There must be more places[n]to explore.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_CANCEL_PC06_mes#0",
+   "speaker": "Makoto",
+   "en": "Right. I can keep at it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_CANCEL_PC07_mes#0",
+   "speaker": "Futaba",
+   "en": "Understood. I'll go with you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_CANCEL_PC08_mes#0",
+   "speaker": "Haru",
+   "en": "Sure, I can keep going!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_CANCEL_PC09_mes#0",
+   "speaker": "Akechi",
+   "en": "Understood. I'll accompany you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_CANCEL_PC10_mes#0",
+   "speaker": "[sumi 10 0]",
+   "en": "All right, let's keep going!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_AREA0_TARGET_MORE_mes#0",
+   "speaker": "Morgana",
+   "en": "How many targets left in this area?[n][clr 2][var 0][clr 27]? Okay, then what's our next move,[n]Joker?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_AREA0_TARGET_NONE_mes#0",
+   "speaker": "Morgana",
+   "en": "There are no more targets in this area.[n]What's our next move, Joker?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "AT_D_SAFEROOM_IN_EV_mes0#0",
+   "speaker": "Morgana",
+   "en": "I don't sense any Shadows on this[n]floor. This should make a good base[n]of operations for the time being.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "AT_D_SAFEROOM_IN_EV_mes0_2#0",
+   "speaker": "Ryuji",
+   "en": "Mkay, let's chill in the waitin' room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATD_SAFE_IN_PC03_type01#0",
+   "speaker": "Morgana",
+   "en": "All right, let's take five.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATD_SAFE_IN_PC03_type02#0",
+   "speaker": "Morgana",
+   "en": "Okay! Let's take a break!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATD_SAFE_IN_PC03_type03#0",
+   "speaker": "Morgana",
+   "en": "All right, let's rest for a few.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "AT_D_WARP_IN_PC02_type01#0",
+   "speaker": "Ryuji",
+   "en": "We made it. I'll let you decide what[n]we do going forward, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATD_TARGET_NAVI_PC03_typ#0",
+   "speaker": "Morgana",
+   "en": "We're here... but I can't sense[n]any targets in this area.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATD_TARGET_NAVI_PC03_typ_2#0",
+   "speaker": "Morgana",
+   "en": "Hmm, I'm sensing the target in[n]a [clr 2]preceding area[clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATD_TARGET_NAVI_PC03_typ_3#0",
+   "speaker": "Morgana",
+   "en": "Hmm, I'm sensing the target in[n]an [clr 2]area deeper inside[clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATD_TARGET_NAVI_PC02_Re_#0",
+   "speaker": "Ryuji",
+   "en": "Mkay, you wanna move to another[n]area then?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATD_TARGET_NAVI_PC02_Re__2#0",
+   "speaker": "Ryuji",
+   "en": "Alright, let's head back.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATD_TARGET_NAVI_PC02_Re__3#0",
+   "speaker": "Ryuji",
+   "en": "Gotcha. Let's get deeper in there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "AT_D_ENDFLOOR_OPEN_MES_m#0",
+   "speaker": "Morgana",
+   "en": "That wall seems suspicious.[n]Let's go check it out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATD_SAFE_DISCOVERY_02_04#0",
+   "speaker": null,
+   "en": "You can now quick travel to[n][clr 6]Aiyatsbus Area 4[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATD_SAFE_DISCOVERY_03_05#0",
+   "speaker": null,
+   "en": "You can now quick travel to[n][clr 6]Chemdah Area 5[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATD_SAFE_DISCOVERY_04_06#0",
+   "speaker": null,
+   "en": "You can now quick travel to[n][clr 6]Kaitul Area 6[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATD_SAFE_DISCOVERY_05_04#0",
+   "speaker": null,
+   "en": "You can now quick travel to[n][clr 6]Akzeriyyuth Area 4[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATD_SAFE_DISCOVERY_05_08#0",
+   "speaker": null,
+   "en": "You can now quick travel to[n][clr 6]Akzeriyyuth Area 8[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATD_SAFE_DISCOVERY_06_05#0",
+   "speaker": null,
+   "en": "You can now quick travel to[n][clr 6]Adyeshach Area 5[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATD_SAFE_DISCOVERY_06_09#0",
+   "speaker": null,
+   "en": "You can now quick travel to[n][clr 6]Adyeshach Area 9[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATD_SAFE_DISCOVERY_07_06#0",
+   "speaker": null,
+   "en": "You can now quick travel to[n][clr 6]Sheriruth Area 6[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATD_SAFE_DISCOVERY_07_10#0",
+   "speaker": null,
+   "en": "You can now quick travel to[n][clr 6]Sheriruth Area 10[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATD_SAFE_DISCOVERY_09_05#0",
+   "speaker": null,
+   "en": "You can now quick travel to[n][clr 6]Da'at Area 5[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATD_SAFE_DISCOVERY_09_11#0",
+   "speaker": null,
+   "en": "You can now quick travel to[n][clr 6]Da'at Area 11[clr 27].",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

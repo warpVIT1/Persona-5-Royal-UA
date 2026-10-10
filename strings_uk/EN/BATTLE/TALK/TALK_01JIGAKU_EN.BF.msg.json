@@ -1,0 +1,285 @@
+{
+ "file": "EN/BATTLE/TALK/TALK_01JIGAKU_EN.BF",
+ "entries": [
+  {
+   "id": "EnTalkMsg_DUMMY#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "DebugMsg_ERROR#0",
+   "speaker": null,
+   "en": "talk_01jigaku entalk error",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_00#0",
+   "speaker": null,
+   "en": "Take a look at this. If you wanna save[n]'em, gimme a good [f 2 5 3 9999 3]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_01#0",
+   "speaker": null,
+   "en": "Hahaha! Your friend's in danger here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_01#1",
+   "speaker": null,
+   "en": "...Honestly, I don't mind lettin' them go[n]for [var 0] yen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_02#0",
+   "speaker": null,
+   "en": "Hahaha! Your friend's in danger here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_02#1",
+   "speaker": null,
+   "en": "If you gimme a bit of your health,[n]I could let 'em go safe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_03#0",
+   "speaker": null,
+   "en": "Hahaha! Your friend's in danger here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_CONTACT_03#1",
+   "speaker": null,
+   "en": "If you wanna save 'em... heh heh,[n]gimme some of your stamina, yeah?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_EN_CONTACT#0",
+   "speaker": null,
+   "en": "Fine, you win.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_EN_CONTACT#1",
+   "speaker": null,
+   "en": "I can't meet your demands.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_EN_CONTACT#2",
+   "speaker": null,
+   "en": "Call Thieves Guild ([var 5] left).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkSel_EN_CONTACT#3",
+   "speaker": null,
+   "en": "[clr 2]You're up, Panther.[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_00#0",
+   "speaker": null,
+   "en": "...That ain't enough. How about[n]a nice [f 2 5 3 9999 3] this time?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_01#0",
+   "speaker": null,
+   "en": "This time I want [var 0] yen.[n]C'mon, isn't your precious friend[n]worth that much?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_02#0",
+   "speaker": null,
+   "en": "...I ain't done yet. Can I get some of[n]your health this time?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_DECLINE_03#0",
+   "speaker": null,
+   "en": "...I want some of your stamina too.[n]C'mon, it's for the sake of your[n]friendship.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_AGREE_00#0",
+   "speaker": null,
+   "en": "...Fine, I'll release 'em.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_AGREE_01#0",
+   "speaker": null,
+   "en": "*yawn* I'm bored. I'll let you[n]have 'em back.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_SLAY_00#0",
+   "speaker": null,
+   "en": "Ooh, so cold. You're gonna ditch your[n]friend? Well, it ain't my problem if they[n]hate ya for it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_SLAY_01#0",
+   "speaker": null,
+   "en": "Oh yeah? Then I'll kill 'em. I mean,[n]you're good with it, soooo...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FORGIVE_00#0",
+   "speaker": null,
+   "en": "A-Actually, I can't do it. A real man[n]is kindhearted, after all...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FORGIVE_00#1",
+   "speaker": null,
+   "en": "I'm tired of dealin' with you... See ya.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FORGIVE_01#0",
+   "speaker": null,
+   "en": "Ohhh, so you hate your friend that[n]much, huh? ...I'm not gonna do your[n]dirty work for ya.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FORGIVE_01#1",
+   "speaker": null,
+   "en": "I'm tired of dealin' with you... See ya.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FLEE_00#0",
+   "speaker": null,
+   "en": "Ahhh, that's good... Welp, I'll be[n]goin' now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FLEE_01#0",
+   "speaker": null,
+   "en": "I feel better now, so it's time to[n]get goin'...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_ACCEPT_00#0",
+   "speaker": null,
+   "en": "...Well then, time to get back to business.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_ACCEPT_01#0",
+   "speaker": null,
+   "en": "...Welp, let's get this goin' again.[n]Time to kill each other!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FALTER_00#0",
+   "speaker": null,
+   "en": "...The hell!? No one told me about this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FALTER_01#0",
+   "speaker": null,
+   "en": "Tch! What the hell!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FAKE_CRIED00#0",
+   "speaker": null,
+   "en": "Ugh, will you shut up already!?[n]...Fine, I'll let you go for the price[n]of one [f 2 5 3 9999 3].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FAKE_CRIED01#0",
+   "speaker": null,
+   "en": "Whaaat...? Fine, I'll let this slide if[n]you gimme [var 0] yen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FAKE_CRIED02#0",
+   "speaker": null,
+   "en": "Ugh, will ya shut up already!?[n]...Fine, I'll let you off the hook[n]if you gimme some of your health.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FAKE_CRIED03#0",
+   "speaker": null,
+   "en": "Whaaat? Fine, I'll let this slide[n]if you gimme some of your stamina.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FAKE_COUP00#0",
+   "speaker": null,
+   "en": "What's with this chick!? I can't deal[n]with this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_EN_FAKE_COUP01#0",
+   "speaker": null,
+   "en": "Ugh... I seriously hate that pathetic act[n]you're puttin' on. I'm outta here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TalkMsg_NO_REQUIREMENT#0",
+   "speaker": null,
+   "en": "...Wait, you don't have any!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CharmActing#0",
+   "speaker": "Ann",
+   "en": "No... How could you take that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NetEngo#0",
+   "speaker": null,
+   "en": "Another band of thieves[n]responded to the call!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

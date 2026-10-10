@@ -1,0 +1,397 @@
+{
+ "file": "EN/FIELD/HIT/FHIT_002_008_00.BF",
+ "entries": [
+  {
+   "id": "DUMMY_MSG#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NotUse_Table#0",
+   "speaker": "Morgana",
+   "en": "Someone's napping on the table...[n]Do any of these kids ever think[n]about being considerate?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STUDY_START_1ST#0",
+   "speaker": "Morgana",
+   "en": "Oh, looks like you can study here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Sentou_ParamInfo_int#0",
+   "speaker": "Morgana",
+   "en": "Your [stIcon 0][clr 26][stLabel 0][clr 27] might improve[n]if you study at one of the open tables.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Study_Start_Kamo#0",
+   "speaker": "Morgana",
+   "en": "There's other people around, but...[n]your [stIcon 3][clr 26][stLabel 3][clr 27] might improve[n]because of it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Study_Start_Normal#0",
+   "speaker": "Morgana",
+   "en": "What do you wanna do, study here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Study_Start_BadWeath#0",
+   "speaker": "Morgana",
+   "en": "There aren't many people today—maybe[n]because of the weather...! That means[n]you'll be able to focus on studying today!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "STUDY_THINK_SEL#0",
+   "speaker": null,
+   "en": "Let's do it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "STUDY_THINK_SEL#1",
+   "speaker": null,
+   "en": "I'll pass.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Study_ParamEndInfo#0",
+   "speaker": null,
+   "en": "I think I have enough[n][stIcon 0][clr 26][stLabel 0][clr 27] already...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Study_ParamUpInfo#0",
+   "speaker": null,
+   "en": "I feel like my [stIcon 0][clr 26][stLabel 0][clr 27][n]is going to improve soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_SHELF_01#0",
+   "speaker": "Morgana",
+   "en": "All the books here look pretty tough...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_SHELF_02#0",
+   "speaker": "Morgana",
+   "en": "I don't think many people ever check[n]these books out. They're all covered[n]in a thick layer of dust.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_SHELF_03#0",
+   "speaker": "Morgana",
+   "en": "This book's title is super boring... Is there[n]anything more interesting in here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_SHELF_04#0",
+   "speaker": "Morgana",
+   "en": "Who picks the books they have in here?[n]They should really invest in something[n]more exciting...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_SHELF_05#0",
+   "speaker": "Morgana",
+   "en": "Man, all these books are gigantic...[n]Getting hit with one would suck.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_SHELF_06#0",
+   "speaker": "Morgana",
+   "en": "This shelf is jam-packed with books.[n]Most of them seem a bit too serious[n]for my tastes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_SHELF_07#0",
+   "speaker": "Morgana",
+   "en": "Does anyone actually read these?[n]Well, I guess they're here to study...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_SHELF_08#0",
+   "speaker": "Morgana",
+   "en": "Hmmm... None of these look very[n]compelling to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_SHELF_09#0",
+   "speaker": "Morgana",
+   "en": "These books look ancient... I feel like[n]they'd crumble if you tried to turn the[n]pages.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_SHELF_10#0",
+   "speaker": "Morgana",
+   "en": "These books smell... weird.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LastKeyfree#0",
+   "speaker": "Morgana",
+   "en": "We can't wait any longer... We have[n]to prepare, and fast!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_KFEVT_COMMON_NG#0",
+   "speaker": null,
+   "en": "There's nothing I particularly[n]need to do here right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NotUse_GUIDE_DESK#0",
+   "speaker": "Morgana",
+   "en": "Do you really need to sit down and[n]read right now? Save that for later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NotUse_TABLE_LEFT#0",
+   "speaker": "Morgana",
+   "en": "You don't have time for leisurely[n]reading right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NotUse_STUDYDESK_CHA#0",
+   "speaker": "Morgana",
+   "en": "Save the studying for later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NotUse_BOOK_SHELF#0",
+   "speaker": "Morgana",
+   "en": "Do you really need to sit down and[n]read right now? Save that for later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_OK_Chishiki#0",
+   "speaker": null,
+   "en": "I feel like my [stIcon 1][clr 26][stLabel 0][clr 27][n]is going to improve soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_NG_Chishiki#0",
+   "speaker": null,
+   "en": "I don't think my [stIcon 1][clr 26][stLabel 0][clr 27][n]is going to improve just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_L_TISIK#0",
+   "speaker": null,
+   "en": "It looks like I still have a lot of[n]room for improvement...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_M_TISIK#0",
+   "speaker": null,
+   "en": "I can feel something[n]coming to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_S_TISIK#0",
+   "speaker": null,
+   "en": "I think I'm close to a breakthrough[n]with my [stIcon 0][clr 26][stLabel 0][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_OK_Miryoku#0",
+   "speaker": null,
+   "en": "I feel like my [stIcon 1][clr 26][stLabel 0][clr 27][n]is going to improve soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_NG_Miryoku#0",
+   "speaker": null,
+   "en": "I don't think my [stIcon 1][clr 26][stLabel 0][clr 27][n]is going to improve just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_L_MIRYO#0",
+   "speaker": null,
+   "en": "It looks like I still have a lot of[n]room for improvement...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_M_MIRYO#0",
+   "speaker": null,
+   "en": "I can feel something[n]coming to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_S_MIRYO#0",
+   "speaker": null,
+   "en": "I think I'm close to a breakthrough[n]with my [stIcon 1][clr 26][stLabel 1][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_OK_Kiyou#0",
+   "speaker": null,
+   "en": "I feel like my [stIcon 2][clr 26][stLabel 2][clr 27][n]is going to improve soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_NG_Kiyou#0",
+   "speaker": null,
+   "en": "I don't think my [stIcon 2][clr 26][stLabel 2][clr 27][n]is going to improve just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_OK_Kiyou_Beef#0",
+   "speaker": null,
+   "en": "If things go well, I think my[n][stIcon 1][clr 26][stLabel 1][clr 27] might improve...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_L_KIYOU#0",
+   "speaker": null,
+   "en": "It looks like I still have a lot of[n]room for improvement...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_M_KIYOU#0",
+   "speaker": null,
+   "en": "I can feel something[n]coming to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_S_KIYOU#0",
+   "speaker": null,
+   "en": "I think I'm close to a breakthrough[n]with my [stIcon 2][clr 26][stLabel 2][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_OK_Dokyo#0",
+   "speaker": null,
+   "en": "I feel like my [stIcon 3][clr 26][stLabel 3][clr 27][n]are going to improve soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_NG_Dokyo#0",
+   "speaker": null,
+   "en": "I don't think my [stIcon 3][clr 26][stLabel 3][clr 27][n]are going to improve just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_L_DOKYO#0",
+   "speaker": null,
+   "en": "It looks like I still have a lot of[n]room for improvement...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_M_DOKYO#0",
+   "speaker": null,
+   "en": "I can feel something[n]coming to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_S_DOKYO#0",
+   "speaker": null,
+   "en": "I think I'm close to a breakthrough[n]with my [stIcon 3][clr 26][stLabel 3][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_OK_Yasasisa#0",
+   "speaker": null,
+   "en": "I feel like my [stIcon 4][clr 26][stLabel 4][clr 27][n]is going to improve soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_NG_Yasasisa#0",
+   "speaker": null,
+   "en": "I don't think my [stIcon 4][clr 26][stLabel 4][clr 27][n]is going to improve just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RankUp_OK_Yasasisa_F#0",
+   "speaker": null,
+   "en": "If things go well, I think my[n][stIcon 4][clr 26][stLabel 4][clr 27] might improve...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_L_YASAS#0",
+   "speaker": null,
+   "en": "It looks like I still have a lot of[n]room for improvement...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_M_YASAS#0",
+   "speaker": null,
+   "en": "I can feel something[n]coming to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_INC_PARAMCHK_S_YASAS#0",
+   "speaker": null,
+   "en": "I think I'm close to a breakthrough[n]with my [stIcon 4][clr 26][stLabel 4][clr 27]...",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

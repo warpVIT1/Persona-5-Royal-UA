@@ -10,14 +10,16 @@ Checks per translated entry:
   ERROR  unescaped '[' / ']' or malformed code
   ERROR  "en" field no longer matches strings_en (source changed — retranslate)
   WARN   same codes but in a different order (check [clr] pairs etc.)
-  WARN   a visible line is longer than --max-line (default: the original's longest line, min 10)
-  WARN   more lines than the original page
+  WARN   a visible line is longer than the window limit (tools/scripts/limits.py; never stricter than EN)
+  ERROR  ... longer than limit + 2, or more lines than the window holds
+  WARN   an approved glossary term from the EN text has no matching Ukrainian stem
   ERROR  characters outside the charset (only with --charset FILE: tsv, one char per row in column 2)
 Speakers (strings_uk/_speakers.json, {"en": "uk"}) get the same code check.
 
 Exit code 1 if any ERROR. Usage: python tools/scripts/validate.py [paths...] [--max-line N] [--charset F]
 """
 import argparse
+import csv
 import json
 import re
 import sys
@@ -25,6 +27,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
 import msgfmt as M  # noqa: E402
+from limits import HARD_EXTRA, limit_for  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[2]
 EN, UK = ROOT / "strings_en", ROOT / "strings_uk"
@@ -48,7 +51,55 @@ def syntax_errors(s):
     return errs
 
 
-def check_pair(en, uk, max_line=None, charset=None, where=""):
+class Glossary:
+    """Approved glossary terms that must keep their Ukrainian form in translations.
+
+    Only name-like categories are checked, and terms whose lowercase form is an ordinary English
+    word in the corpus are skipped ("Attack", "Death", "Star"). Ukrainian inflects, so each word of the
+    Ukrainian term is reduced to a stem (drop up to 2 final letters, keep >= 3) and matched case-insensitively.
+    """
+    CATS = {"character", "codename", "term", "phrase", "location", "persona", "enemy"}
+
+    def __init__(self):
+        self.terms = {}
+        path = ROOT / "glossary.csv"
+        if not path.exists():
+            self.rx = None
+            return
+        common = set()
+        lc = ROOT / "strings_en/_all.csv"
+        if lc.exists():
+            words = re.findall(r"\b[a-z][a-z'’]+\b", lc.read_text(encoding="utf-8-sig"))
+            from collections import Counter
+            common = {w for w, c in Counter(words).items() if c > 20}
+        with open(path, encoding="utf-8-sig") as f:
+            for r in csv.DictReader(f):
+                en, uk = r["en"], r["uk"]
+                if (r["status"] != "approved" or not uk or r["category"] not in self.CATS or len(en) < 3
+                        or en.lower() in common or not en[0].isupper()):
+                    continue
+                self.terms[en] = [self._stem(w) for w in re.findall(r"[\w'ʼ’-]+", uk.lower())][:1] or [uk.lower()]
+        alt = "|".join(re.escape(t) for t in sorted(self.terms, key=len, reverse=True))
+        self.rx = re.compile(r"(?<![A-Za-z])(" + alt + r")(?![A-Za-z])") if alt else None
+
+    @staticmethod
+    def _stem(w):
+        return w[: max(3, len(w) - 2)] if len(w) > 4 else w
+
+    def match(self, en):
+        if not self.rx:
+            return []
+        vis = M.visible(en.replace("[n]", " "), 0)
+        return [(m.group(1), self.terms[m.group(1)]) for m in self.rx.finditer(vis)]
+
+
+GLOSSARY = None
+
+
+def check_pair(en, uk, max_line=None, charset=None, where="", window=None, glossary=None):
+    global GLOSSARY
+    if glossary is None and GLOSSARY is None:
+        GLOSSARY = Glossary()
     errs, warns = [], []
     e = syntax_errors(uk)
     if e:
@@ -63,12 +114,20 @@ def check_pair(en, uk, max_line=None, charset=None, where=""):
         if oe != ou:
             warns.append(f"{where}: code order changed")
     le, lu = M.lines(en), M.lines(uk)
-    limit = max_line or max(10, max((len(x) for x in le), default=0))
+    # window limit for this file/kind, never stricter than what the EN original already uses
+    lim_chars, lim_lines = window or (44, 3)
+    limit = max_line or max(lim_chars, max((len(x) for x in le), default=0))
+    max_lines = max(lim_lines, len(le))
     for i, ln in enumerate(lu):
-        if len(ln) > limit:
+        if len(ln) > limit + HARD_EXTRA:
+            errs.append(f"{where}: line {i + 1} is {len(ln)} chars > {limit}: {ln!r}")
+        elif len(ln) > limit:
             warns.append(f"{where}: line {i + 1} is {len(ln)} chars > {limit}: {ln!r}")
-    if len(lu) > len(le):
-        warns.append(f"{where}: {len(lu)} lines > original {len(le)}")
+    if len(lu) > max_lines:
+        errs.append(f"{where}: {len(lu)} lines > window {max_lines}")
+    for en_term, stems in (glossary or GLOSSARY).match(en):
+        if not any(s in uk.lower() for s in stems):
+            warns.append(f"{where}: glossary term {en_term!r} -> expected «{stems[0]}…»")
     if charset:
         bad = sorted({c for c in M.visible(uk, 0) if c not in charset})
         if bad:
@@ -92,7 +151,8 @@ def validate_file(uk_path, args, charset):
     en_path = EN / rel
     if not en_path.exists():
         return [f"{rel}: no matching strings_en file"], []
-    en = {e["id"]: e for e in json.loads(en_path.read_text(encoding="utf-8"))["entries"]}
+    en_data = json.loads(en_path.read_text(encoding="utf-8"))
+    en = {e["id"]: e for e in en_data["entries"]}
     for t in json.loads(uk_path.read_text(encoding="utf-8"))["entries"]:
         where = f"{rel}:{t['id']}"
         src = en.get(t["id"])
@@ -103,7 +163,8 @@ def validate_file(uk_path, args, charset):
             errs.append(f"{where}: 'en' differs from strings_en (source changed)")
         if not t.get("uk"):
             continue
-        e, w = check_pair(src["text"], t["uk"], args.max_line, charset, where)
+        e, w = check_pair(src["text"], t["uk"], args.max_line, charset, where,
+                          window=limit_for(en_data["file"], src["kind"]))
         errs += e
         warns += w
     return errs, warns

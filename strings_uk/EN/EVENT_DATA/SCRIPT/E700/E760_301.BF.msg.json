@@ -1,0 +1,1174 @@
+{
+ "file": "EN/EVENT_DATA/SCRIPT/E700/E760_301.BF",
+ "entries": [
+  {
+   "id": "MSG_Start_Ruyji#0",
+   "speaker": "Ryuji",
+   "en": "Damn... That curry smells amazing.[n]This is gonna be insane!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Start_Yusuke#0",
+   "speaker": "Yusuke",
+   "en": "This aroma truly whets the appetite.[n]Curry is a wonderful thing...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Start_Futaba#0",
+   "speaker": "Futaba",
+   "en": "It smells so good! When's the curry[n]gonna be ready!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Start_Moru#0",
+   "speaker": "Morgana",
+   "en": "Good luck on your curry-making!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Start#0",
+   "speaker": null,
+   "en": "It seems to be going well so far...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_FriendThink_Ryuji#0",
+   "speaker": null,
+   "en": "Ryuji's looking forward to this.[n]Maybe I should be adventurous...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_FriendThink_Yusuke#0",
+   "speaker": null,
+   "en": "Yusuke's looking forward to this.[n]Maybe I should be adventurous...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_FriendThink_Futaba#0",
+   "speaker": null,
+   "en": "Futaba's looking forward to this.[n]Maybe I should be adventurous...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_FriendService#0",
+   "speaker": null,
+   "en": "Do as Sojiro taught you",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_FriendService#1",
+   "speaker": null,
+   "en": "Follow your heart",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_A_Mor#0",
+   "speaker": "Morgana",
+   "en": "By the way... You put in quite a few[n]onions, didn't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_A_Mor#1",
+   "speaker": "Morgana",
+   "en": "Shouldn't you add more water to[n]balance it out?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_A_Ryu#0",
+   "speaker": "Ryuji",
+   "en": "Hey, you dumped a crapload of onions[n]into that curry...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_A_Ryu#1",
+   "speaker": "Ryuji",
+   "en": "Aren't they gonna end up burnin' without[n]some more water in there?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_A_Yus#0",
+   "speaker": "Yusuke",
+   "en": "...By the way, it seems you've added[n]quite a plethora of onions.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_A_Yus#1",
+   "speaker": "Yusuke",
+   "en": "Would it not be ideal to add a bit more[n]water to balance the ratio?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_A_Fut#0",
+   "speaker": "Futaba",
+   "en": "Geeeeez, that's a lotta onions!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_A_Fut#1",
+   "speaker": "Futaba",
+   "en": "You gotta balance those out with water!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Trouble_type01_A#0",
+   "speaker": null,
+   "en": "I wonder if I should add more water...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Trouble_Type01_A#0",
+   "speaker": null,
+   "en": "It's fine as is",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Trouble_Type01_A#1",
+   "speaker": null,
+   "en": "I'll add some later",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_B_Mor#0",
+   "speaker": "Morgana",
+   "en": "It's starting to smell good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_B_Mor#1",
+   "speaker": "Morgana",
+   "en": "...Is it okay to have the heat on that low,[n]though?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_B_Ryu#0",
+   "speaker": "Ryuji",
+   "en": "Oh man... I'm droolin'!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_B_Ryu#1",
+   "speaker": "Ryuji",
+   "en": "...Wait, isn't the fire kinda weak?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_B_Yus#0",
+   "speaker": "Yusuke",
+   "en": "Ah... What a splendid aroma.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_B_Yus#1",
+   "speaker": "Yusuke",
+   "en": "...Hm? Isn't the heat a bit low?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_B_Fut#0",
+   "speaker": "Futaba",
+   "en": "Gahhh... I can't stand how good it smells![n]Hey, [fName], is it time yet?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_B_Fut#1",
+   "speaker": "Futaba",
+   "en": "...Hm? The heat's pretty low. Is that how[n]it's supposed to be?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Trouble_type01_B#0",
+   "speaker": null,
+   "en": "I wonder if I should[n]turn up the heat...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Trouble_Type01_B#0",
+   "speaker": null,
+   "en": "Turn up the heat",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Trouble_Type01_B#1",
+   "speaker": null,
+   "en": "It's fine as is",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type02_A_Mor#0",
+   "speaker": "Morgana",
+   "en": "It's starting to smell good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type02_A_Mor#1",
+   "speaker": "Morgana",
+   "en": "...The heat's really blazing, though. You[n]sure that's okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type02_A_Ryu#0",
+   "speaker": "Ryuji",
+   "en": "Oh man... I'm droolin'!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type02_A_Ryu#1",
+   "speaker": "Ryuji",
+   "en": "...Hey, that thing looks pretty hot.[n]Shouldn't you take it down a notch?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type02_A_Yus#0",
+   "speaker": "Yusuke",
+   "en": "Ah... What a splendid aroma.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type02_A_Yus#1",
+   "speaker": "Yusuke",
+   "en": "...Hm? Isn't the heat a bit high?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type02_A_Fut#0",
+   "speaker": "Futaba",
+   "en": "Gahhh... I can't stand how good it smells![n]Hey, [fName], is it time yet?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type02_A_Fut#1",
+   "speaker": "Futaba",
+   "en": "...Hm? It's really blazing. Is that how it's[n]supposed to be?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Trouble_type02_A#0",
+   "speaker": null,
+   "en": "I wonder if I should[n]turn down the heat...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Trouble_Type02_A#0",
+   "speaker": null,
+   "en": "Turn down the heat",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Trouble_Type02_A#1",
+   "speaker": null,
+   "en": "It's fine as is",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SelFix_Moru#0",
+   "speaker": "Morgana",
+   "en": "I hope you made the right decision...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SelFix_Ryuji#0",
+   "speaker": "Ryuji",
+   "en": "Hey, as long as it tastes good, I don't[n]care what you do.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SelFix_Yusuke#0",
+   "speaker": "Yusuke",
+   "en": "I'm looking forward to your delectable[n]curry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SelFix_Futaba#0",
+   "speaker": "Futaba",
+   "en": "My body is ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_500_0_0#0",
+   "speaker": null,
+   "en": "I don't think I made any mistakes...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_500_1_0#0",
+   "speaker": null,
+   "en": "Did I make a mistake?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_065_0_0#0",
+   "speaker": "Morgana",
+   "en": "Nice! The curry's smelling good...[n]This'll definitely be a hit!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_065_1_0#0",
+   "speaker": "Ryuji",
+   "en": "Holy crap! I want that in my mouth,[n]now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_065_3_0#0",
+   "speaker": "Yusuke",
+   "en": "I'd like to request extra rice, please.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_065_6_0#0",
+   "speaker": "Futaba",
+   "en": "You almost done? Should I prep[n]the rice?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_065_7_0#0",
+   "speaker": null,
+   "en": "Looks like it'll turn out well...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_083_0_0#0",
+   "speaker": "Morgana",
+   "en": "You look awfully proud of yourself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_083_1_0#0",
+   "speaker": "Ryuji",
+   "en": "Holy shit... This is unreal!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_083_1_0#1",
+   "speaker": "Ryuji",
+   "en": "It's just so... ya know, good!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_083_3_0#0",
+   "speaker": "Yusuke",
+   "en": "...Delicious.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_083_3_0#1",
+   "speaker": "Yusuke",
+   "en": "How did you create this? It's a common[n]curry flavor, yet it carries such depth...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_083_6_0#0",
+   "speaker": "Futaba",
+   "en": "...Yum!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_083_6_0#1",
+   "speaker": "Futaba",
+   "en": "I know what this is! It's the same curry[n]Sojiro makes!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_083_7_0#0",
+   "speaker": null,
+   "en": "...I did it! The curry was a hit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_227_1_0#0",
+   "speaker": "Ryuji",
+   "en": "This rocks, man!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_227_3_0#0",
+   "speaker": "Yusuke",
+   "en": "I do hope there's enough for another[n]serving. I would rather enjoy seconds.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_227_6_0#0",
+   "speaker": "Futaba",
+   "en": "When did you level up your cooking skills[n]so much? Crazy!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_070_0_0#0",
+   "speaker": "Morgana",
+   "en": "...You failed, didn't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_070_1_0#0",
+   "speaker": "Ryuji",
+   "en": "Whoa! I think my mouth's on fire...[n]Dude, I can't stop shaking!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_070_3_0#0",
+   "speaker": "Yusuke",
+   "en": "Perhaps I had too much faith in your[n]common sense... Are you telling me[n]this pungent sludge is curry?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_070_6_0#0",
+   "speaker": "Futaba",
+   "en": "Whoa... Any more of this and I'm gonna[n]be blasting level 99 fire beams from my[n]mouth...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_CURRY_SPICY#0",
+   "speaker": null,
+   "en": "It's so spicy my whole[n]body has gone numb...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_CURRY_SWEET#0",
+   "speaker": null,
+   "en": "It's so sweet that I[n]can't stop shaking...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_035_1_0#0",
+   "speaker": "Ryuji",
+   "en": "But you know, this flavor's growin' on[n]me. I wish the others could try it too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_035_3_0#0",
+   "speaker": "Yusuke",
+   "en": "I must admit, I'm starting to see the[n]appeal in such a stimulating flavor. I'd[n]consider this a valuable experience.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_035_6_0#0",
+   "speaker": "Futaba",
+   "en": "Well, I guess I don't hate it. But Sojiro's[n]curry is still the best!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_125_0_0#0",
+   "speaker": null,
+   "en": "I tried to salvage it, but[n]I guess it was too late...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_125_0_0#1",
+   "speaker": null,
+   "en": "It seems I'll need[n]to practice more...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_125_1_0#0",
+   "speaker": null,
+   "en": "It seems I made a mistake...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_125_2_0#0",
+   "speaker": null,
+   "en": "Looks like I did something right!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_CURRY_EFFECT_SUCCESS#0",
+   "speaker": null,
+   "en": "......?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_CURRY_EFFECT_SUCCESS#1",
+   "speaker": null,
+   "en": "I feel oddly energized...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_CURRY_EFFECT_SUCCESS#2",
+   "speaker": null,
+   "en": "This may be useful to take[n]with me into the Metaverse...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Coffee_1st_EffectInf#0",
+   "speaker": "Morgana",
+   "en": "That recipe sure has some love and[n]care behind it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Coffee_1st_EffectInf#1",
+   "speaker": "Morgana",
+   "en": "Try eating it in the Metaverse. Maybe[n]it'll heal your wounds.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_250_0_0#0",
+   "speaker": "Morgana",
+   "en": "You were given the chance to learn how[n]to make curry, so don't let it go to waste.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_250_0_0#1",
+   "speaker": "Morgana",
+   "en": "There may come a time you'll be asked[n]to serve it to someone. Wouldn't hurt[n]to hone your skills.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_250_1_0#0",
+   "speaker": null,
+   "en": "I should try making curry for[n]the team more often...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_END_MES#0",
+   "speaker": "Morgana",
+   "en": "We should rest for now. Got a big day[n]tomorrow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_END_MES#0",
+   "speaker": null,
+   "en": "I think I've practiced[n]enough for today...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Curry_HumanParamUp#0",
+   "speaker": "Morgana",
+   "en": "You throw it all together with such gusto.[n]Could it be that the secret ingredient is...[n]confidence?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_026_0_0#0",
+   "speaker": "Morgana",
+   "en": "...This curry sure has a lot of ingredients,[n]doesn't it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_026_0_0#1",
+   "speaker": "Morgana",
+   "en": "Did I see you put fruit in there?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_026_5_0#0",
+   "speaker": "Secret Ingredient: Apples",
+   "en": "Grated fruit is frequently used as a secret[n]ingredient in curry. The hint of sweetness[n]makes for a subtle, delectable flavor.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_026_5_0#1",
+   "speaker": "Secret Ingredient: Apples",
+   "en": "Apples are recommended due to their fiber.[n]Stewing the apple will bring out its sweetness,[n]balancing the spice of the curry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_027_0_0#0",
+   "speaker": "Morgana",
+   "en": "Huh... I never knew apples would go so[n]well with spicy curry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_028_0_0#0",
+   "speaker": "Morgana",
+   "en": "By the way... What was that sticky[n]sauce you added?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_028_5_0#0",
+   "speaker": "Secret Ingredient: Honey",
+   "en": "Honey is a flower nectar collected by bees.[n]When used as a secret ingredient in curry,[n]it serves to soften meat and add sweetness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_028_5_0#1",
+   "speaker": "Secret Ingredient: Honey",
+   "en": "Honey can add depth to a curry's flavor[n]profile without weakening its spice. The[n]spicier the dish, the greater the effect.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_029_0_0#0",
+   "speaker": "Morgana",
+   "en": "Wow, I never thought honey would[n]go so well with spicy curry. You learn[n]something new every day!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_030_0_0#0",
+   "speaker": "Morgana",
+   "en": "By the way, what was that white sauce[n]you added?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_030_5_0#0",
+   "speaker": "Secret Ingredient: Yogurt",
+   "en": "This cultured dairy product is used to add[n]acidity, richness, and sweetness to the[n]curry. It also balances out the spice level.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_030_5_0#1",
+   "speaker": "Secret Ingredient: Yogurt",
+   "en": "Common in India—curry's home country—[n]yogurt is known for its probiotics, which[n]serve to strengthen the immune system.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_031_0_0#0",
+   "speaker": "Morgana",
+   "en": "Yogurt, huh? I wonder if the curry[n]changes color when you add that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_032_0_0#0",
+   "speaker": "Morgana",
+   "en": "By the way, what was that brown sauce[n]you added?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_032_5_0#0",
+   "speaker": "Secret Ingredient: Worcestershire Sauce",
+   "en": "This handy condiment adds acidity and[n]richness to the curry. It's perfect for[n]enhancing the flavor profile of a dish.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_032_5_0#1",
+   "speaker": "Secret Ingredient: Worcestershire Sauce",
+   "en": "Oyster sauce can be used the same way.[n]These sauces add a mature, deep flavor,[n]as if you simmered the curry overnight.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_033_0_0#0",
+   "speaker": "Morgana",
+   "en": "Worcestershire sauce, huh? I can barely[n]even pronounce it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_034_0_0#0",
+   "speaker": "Morgana",
+   "en": "By the way, what was that brown stuff[n]you added?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_034_5_0#0",
+   "speaker": "Secret Ingredient: Chocolate",
+   "en": "Chocolate, in small amounts, can be[n]added to curry to enhance spices,[n]giving it a deep, rich flavor.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_034_5_0#1",
+   "speaker": "Secret Ingredient: Chocolate",
+   "en": "Be careful not to add too much, though.[n]In excess amounts, chocolate will destroy[n]the delicate flavor balance of the curry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_035_0_0#0",
+   "speaker": "Morgana",
+   "en": "Wow, chocolate... Wait, wouldn't that[n]make it taste super sweet?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_036_0_0#0",
+   "speaker": "Morgana",
+   "en": "By the way, what was that brown powder[n]you added?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_036_5_0#0",
+   "speaker": "Secret Ingredient: Coffee",
+   "en": "When used in curry, instant coffee brings[n]a mature complexity to the dish, subtly[n]enhancing the flavor.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_036_5_0#1",
+   "speaker": "Secret Ingredient: Coffee",
+   "en": "Coffee has anti-aging and slimming[n]properties, but too much of it will turn[n]the curry bitter. Mix in a little bit at a time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_037_0_0#0",
+   "speaker": "Morgana",
+   "en": "Whoa, instant coffee? I would have[n]never thought of that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_038_0_0#0",
+   "speaker": "Morgana",
+   "en": "By the way, what was that red liquid[n]you added?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_038_5_0#0",
+   "speaker": "Secret Ingredient: Red Wine",
+   "en": "This alcoholic beverage is used to add[n]acidity, richness, and depth to the curry.[n]It also tenderizes the meat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_038_5_0#1",
+   "speaker": "Secret Ingredient: Red Wine",
+   "en": "The alcohol cooks off while the curry is[n]stewing, leaving behind antioxidants[n]that protect skin and reduce signs of aging.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_039_0_0#0",
+   "speaker": "Morgana",
+   "en": "Red wine, huh... That should give the[n]curry an elegant flavor.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_040_0_0#0",
+   "speaker": "Morgana",
+   "en": "By the way, you put some kind of powder[n]in there, didn't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_040_5_0#0",
+   "speaker": "Spice: Cumin",
+   "en": "Cumin is one of the primary ingredients[n]in curry. This ancient spice is what grants[n]the dish its mouth-watering aroma.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_040_5_0#1",
+   "speaker": "Spice: Cumin",
+   "en": "Cumin is known for its curative properties,[n]like aiding digestion, soothing stomach[n]pains, and improving liver function.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_041_0_0#0",
+   "speaker": "Morgana",
+   "en": "Hmm... Cumin, huh? So that's what[n]makes curry smell so good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_042_0_0#0",
+   "speaker": "Morgana",
+   "en": "By the way, what was that powder[n]you threw in there?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_042_5_0#0",
+   "speaker": "Spice: Cardamom",
+   "en": "Cardamom is one of the primary spices[n]used to make curry. It has a refreshing[n]aroma, sharp heat, and slight bitterness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_042_5_0#1",
+   "speaker": "Spice: Cardamom",
+   "en": "While more commonly used to freshen[n]up bad breath, cardamom is also known[n]to aid digestion and burn body fat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_043_0_0#0",
+   "speaker": "Morgana",
+   "en": "Wow, carmadon? I mean... cardamom?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_044_0_0#0",
+   "speaker": "Morgana",
+   "en": "By the way, what was that brown powder[n]you added?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_044_5_0#0",
+   "speaker": "Spice: Cloves",
+   "en": "One of the spices used in garam masala.[n]It has a strong aroma and is also used for[n]toothaches, deodorant, and hot drinks.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_044_5_0#1",
+   "speaker": "Spice: Cloves",
+   "en": "Historians say that its strong scent was[n]even used to cast away demons back[n]in medieval Europe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_045_0_0#0",
+   "speaker": "Morgana",
+   "en": "Cloves, huh... No relation to four-leaf[n]clovers?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_046_0_0#0",
+   "speaker": "Morgana",
+   "en": "By the way, what was that powder[n]you added?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_046_5_0#0",
+   "speaker": "Spice: Coriander",
+   "en": "A spice used in many curries. Coriander[n]imbues the dish with a delicate sweetness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_046_5_0#1",
+   "speaker": "Spice: Coriander",
+   "en": "The entire plant is edible—the seeds are[n]dried and used as coriander spice, while[n]the leaves are better known as cilantro.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_047_0_0#0",
+   "speaker": "Morgana",
+   "en": "Hmm, coriander... Or is it CURRYander?[n]Uh, never mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_048_0_0#0",
+   "speaker": "Morgana",
+   "en": "By the way, what was that, uh... ah...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_048_0_0#1",
+   "speaker": "Morgana",
+   "en": "Meow-CHOO!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_048_0_0#2",
+   "speaker": "Morgana",
+   "en": "That... That was black pepper, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_048_5_0#0",
+   "speaker": "Spice: Black Pepper",
+   "en": "Black pepper is a common household[n]spice with a refreshing aroma and sharp[n]flavor. Including it adds depth to a curry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_048_5_0#1",
+   "speaker": "Spice: Black Pepper",
+   "en": "Black, green, and white pepper all come[n]from the same plant. The flavor changes[n]based on treatment of the peppercorn.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_049_0_0#0",
+   "speaker": "Morgana",
+   "en": "Pepper is good on everything, huh?[n]Even curry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_050_0_0#0",
+   "speaker": "Morgana",
+   "en": "By the way, what were those twigs[n]you added?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_050_5_0#0",
+   "speaker": "Spice: Cinnamon",
+   "en": "A spice with distinguished, refreshing scent.[n]Its unique combination of sweet and spicy[n]traits adds great depth to a curry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_050_5_0#1",
+   "speaker": "Spice: Cinnamon",
+   "en": "Cinnamon is made from the dried bark of[n]a cinnamon tree. It's commonly used in[n]sweets, but can also be found in spice rubs.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051_0_0#0",
+   "speaker": "Morgana",
+   "en": "Cinnamon, huh... That sounds pretty[n]cute, actually.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_052_0_0#0",
+   "speaker": "Morgana",
+   "en": "By the way, what was that yellow powder[n]you added?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_052_5_0#0",
+   "speaker": "Spice: Turmeric",
+   "en": "A main ingredient in curry powder. An[n]herbaceous perennial plant from the ginger[n]family, it's often used to color foods yellow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_052_5_0#1",
+   "speaker": "Spice: Turmeric",
+   "en": "Turmeric has a sharp, slightly bitter flavor.[n]In Sri Lanka, it's used in place of saffron to[n]dye cloth. ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_0_0#0",
+   "speaker": "Morgana",
+   "en": "Turmeric, huh... So this is what gives[n]curry its yellowish color.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_054_0_0#0",
+   "speaker": "Morgana",
+   "en": "By the way, what was that powder[n]you added?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_054_5_0#0",
+   "speaker": "Spice: Nutmeg",
+   "en": "One of the most-used spices in the world,[n]and a main ingredient of garam masala.[n]It has a mild earthiness and a sweet scent.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_054_5_0#1",
+   "speaker": "Spice: Nutmeg",
+   "en": "Known for its warming effects, nutmeg is[n]recommended for people who get cold[n]easily or need relief from stomach pain.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_055_0_0#0",
+   "speaker": "Morgana",
+   "en": "Ah... nutmeg. Is there also a berrymeg?[n]What about seedmeg?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_101_0_0#0",
+   "speaker": "Futaba",
+   "en": "Ta-daaa! Futaba has arrived!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_101_0_0#1",
+   "speaker": "Futaba",
+   "en": "Sojiro told me you were making curry,[n][fName].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_101_0_0#2",
+   "speaker": "Futaba",
+   "en": "I'm super picky when it comes to this[n]stuff. Show me what you've got!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_101_0_1#0",
+   "speaker": null,
+   "en": "I should make extra[n]curry for Futaba...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_102_0_0#0",
+   "speaker": "Futaba",
+   "en": "I can't wait!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEBUG#0",
+   "speaker": "Debug",
+   "en": "Debug Mode",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#0",
+   "speaker": null,
+   "en": "Ryuji",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#1",
+   "speaker": null,
+   "en": "Yusuke",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#2",
+   "speaker": null,
+   "en": "Futaba",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#3",
+   "speaker": null,
+   "en": "Morgana",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#4",
+   "speaker": null,
+   "en": "Alone",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEBUG_2#0",
+   "speaker": "Debug",
+   "en": "Debug Mode",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_2#0",
+   "speaker": null,
+   "en": "Success",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_2#1",
+   "speaker": null,
+   "en": "Fail",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_2#2",
+   "speaker": null,
+   "en": "Don't use",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

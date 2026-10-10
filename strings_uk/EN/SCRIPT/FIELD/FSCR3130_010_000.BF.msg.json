@@ -1,0 +1,404 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR3130_010_000.BF",
+ "entries": [
+  {
+   "id": "MSG_RubuBook_Tuto#0",
+   "speaker": "Morgana",
+   "en": "This looks like a nice place where you[n]could do some reading.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_RubuBook_Tuto#0",
+   "speaker": null,
+   "en": "This looks like the kind of place where[n]I can really get a lot of reading done.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ReadStart#0",
+   "speaker": "Morgana",
+   "en": "So did you want to spend some time[n]reading?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ReadStart#0",
+   "speaker": null,
+   "en": "Should I spend some time reading?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BookNG_KyakuDay#0",
+   "speaker": "Morgana",
+   "en": "There are still customers here...[n]Save the reading for later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BookNG_KyakuDay#0",
+   "speaker": null,
+   "en": "There are still customers here.[n]I should read another time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BookNG_StandBy#0",
+   "speaker": "Morgana",
+   "en": "You don't have to read today. More[n]importantly, you should be getting[n]ready for tomorrow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BookNG_PalaceAfter#0",
+   "speaker": "Morgana",
+   "en": "You must be pretty tired today. I doubt[n]anything you read now will stay in your[n]brain.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BookNG_PalaceAfter#0",
+   "speaker": null,
+   "en": "I'm pretty tired today.[n]I should read another time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BookNG_SleepDay#0",
+   "speaker": "Morgana",
+   "en": "Let's rest for the day so we're ready for[n]tomorrow. You can do some reading[n]another time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BookNG_SleepDay#0",
+   "speaker": null,
+   "en": "I've got a busy day tomorrow.[n]I'll read another time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BookNG_NotNight#0",
+   "speaker": "Morgana",
+   "en": "Leblanc's still open, right? If you're gonna[n]read a book, do it at night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BookNG_NotNight#0",
+   "speaker": null,
+   "en": "Leblanc is still open. If I'm going to[n]read, I should do it at night...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BookNG_NotHave#0",
+   "speaker": "Morgana",
+   "en": "You don't have any books to read...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BookNG_NotHave#0",
+   "speaker": null,
+   "en": "I don't have any books to read...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BOOK_START_THINK_MOR#0",
+   "speaker": "Morgana",
+   "en": "Gonna read a book?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BOOK_START_THINK#0",
+   "speaker": null,
+   "en": "Should I spend some time reading?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BOOK_START_THINK#0",
+   "speaker": null,
+   "en": "Let's read something.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BOOK_START_THINK#1",
+   "speaker": null,
+   "en": "No, never mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_TITLE_000#0",
+   "speaker": "Morgana",
+   "en": "Now then, which book would be[n]good to read right about now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_CANCEL#0",
+   "speaker": "Morgana",
+   "en": "Oh, really?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BookSelect_EndBook#0",
+   "speaker": "Morgana",
+   "en": "Hey, didn't you already finish reading[n]that book?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BookSelect_EndBook#0",
+   "speaker": null,
+   "en": "I've already finished reading this book.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NG_Atama#0",
+   "speaker": "Morgana",
+   "en": "That book looks rather difficult.[n]It's probably too tough to read at[n]your current level of [stIcon 0][clr 26][stLabel 0][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_NG_Atama#0",
+   "speaker": null,
+   "en": "Your [stIcon 0][clr 26][stLabel 0][clr 27] will need to[n]be at least [clr 2][stLvLabel 0 3][clr 27] if you want[n]to read classical literature.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_NG_Atama_rank2#0",
+   "speaker": null,
+   "en": "Your [stIcon 0][clr 26][stLabel 0][clr 27] will need to[n]be at least [clr 2][stLvLabel 0 2][clr 27] if you want[n]to read classical literature.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BOOK_NORMAL_SOKUDOKU#0",
+   "speaker": null,
+   "en": "Thanks to that book on speed[n]reading, I should be able to[n]get through this quickly...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BOOK_READ_CHK#0",
+   "speaker": null,
+   "en": "Should I spend some time[n]reading a book?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BOOK_READ_CHK#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BOOK_READ_CHK#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_BookEnd#0",
+   "speaker": null,
+   "en": "I finished reading[n][f 2 5 3 9999 0]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SpotBookNG_id25#0",
+   "speaker": "Morgana",
+   "en": "Hm? That book talks about Motomachi[n]Chinatown, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SpotBookNG_id25#1",
+   "speaker": "Morgana",
+   "en": "You already know about that area,[n]don't you? Seems kinda pointless[n]to read that now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SpotBookNG_id26#0",
+   "speaker": "Morgana",
+   "en": "Hm? That book talks about Destinyland[n]in Maihama, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SpotBookNG_id26#1",
+   "speaker": "Morgana",
+   "en": "You already know about that area,[n]don't you? Seems kinda pointless[n]to read that now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SpotBookNG_id44#0",
+   "speaker": "Morgana",
+   "en": "Hm? That book is about Asakusa, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SpotBookNG_id44#1",
+   "speaker": "Morgana",
+   "en": "You already know about that area,[n]don't you? Seems kinda pointless[n]to read that now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SpotBookNG_id45#0",
+   "speaker": "Morgana",
+   "en": "Hm? That book is about Meiji Shrine,[n]right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SpotBookNG_id45#1",
+   "speaker": "Morgana",
+   "en": "You already know about that area,[n]don't you? Seems kinda pointless[n]to read that now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SpotBookNG_id46#0",
+   "speaker": "Morgana",
+   "en": "Hm? That book talks about the fishing[n]pond in Ichigaya, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SpotBookNG_id46#1",
+   "speaker": "Morgana",
+   "en": "You already know about that area,[n]don't you? Seems kinda pointless[n]to read that now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SpotBookNG_id48#0",
+   "speaker": "Morgana",
+   "en": "Hm? That book talks about the[n]planetarium in Ikebukuro, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SpotBookNG_id48#1",
+   "speaker": "Morgana",
+   "en": "You already know about that area,[n]don't you? Seems kinda pointless[n]to read that now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SpotBookNG_id49#0",
+   "speaker": "Morgana",
+   "en": "Hm? That book talks about Jinbocho[n]Book Town, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SpotBookNG_id49#1",
+   "speaker": "Morgana",
+   "en": "You already know about that area,[n]don't you? Seems kinda pointless[n]to read that now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SpotBookNG_id55#0",
+   "speaker": "Morgana",
+   "en": "Hm? That book talks about Inokashira[n]Park, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SpotBookNG_id55#1",
+   "speaker": "Morgana",
+   "en": "You already know about that area,[n]don't you? Seems kinda pointless[n]to read that now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SpotBookNG_id59#0",
+   "speaker": "Morgana",
+   "en": "Hm? That book talks about Takenoko[n]Street in Harajuku, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SpotBookNG_id59#1",
+   "speaker": "Morgana",
+   "en": "You already know about that area,[n]don't you? Seems kinda pointless[n]to read that now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SpotBookNG_id60#0",
+   "speaker": "Morgana",
+   "en": "Hm? That book talks about Seaside Park,[n]right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SpotBookNG_id60#1",
+   "speaker": "Morgana",
+   "en": "You already know about that area,[n]don't you? Seems kinda pointless[n]to read that now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SpotBookNG_id47#0",
+   "speaker": "Morgana",
+   "en": "Hm? That book talks about Yongen-Jaya,[n]right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SpotBookNG_id47#1",
+   "speaker": "Morgana",
+   "en": "You already know about that area,[n]don't you? Seems kinda pointless[n]to read that now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SpotBookNG_id66#0",
+   "speaker": "Morgana",
+   "en": "Hm? That book talks about Shinagawa,[n]right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SpotBookNG_id66#1",
+   "speaker": "Morgana",
+   "en": "You already know about that area,[n]don't you? Seems kinda pointless[n]to read that now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SpotBookNG_id67#0",
+   "speaker": "Morgana",
+   "en": "Hm? That book talks about Nakano,[n]right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SpotBookNG_id67#1",
+   "speaker": "Morgana",
+   "en": "You already know about that area,[n]don't you? Seems kinda pointless[n]to read that now.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

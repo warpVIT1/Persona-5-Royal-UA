@@ -1,0 +1,901 @@
+{
+ "file": "EN/FIELD/HIT/FHIT_009_001_00.BF",
+ "entries": [
+  {
+   "id": "YESNO_SEL#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUMMY_MSG#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_TUTO_PC02#0",
+   "speaker": null,
+   "en": "Where should I go...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DrugStore_NOTOPEN#0",
+   "speaker": null,
+   "en": "It's the drugstore[n]\"Jutaro of Medicine.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DrugStore_NOTOPEN#1",
+   "speaker": null,
+   "en": "This place not only sells[n]medicines, but also detergents[n]and other daily necessities...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DrugStore_NOTOPEN#2",
+   "speaker": null,
+   "en": "There's nothing that I want[n]to buy here now, though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DrugStore_SELECT#0",
+   "speaker": "Server",
+   "en": "Welcome!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DrugStore_THANKS#0",
+   "speaker": "Server",
+   "en": "Thank you very much! We hope to see[n]you again very, very soon!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DrugStore_NOT_BUY#0",
+   "speaker": "Server",
+   "en": "Please drop by again!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DrugStore_SOLDOUT#0",
+   "speaker": "Server",
+   "en": "I'm sooo sorry... We're currently[n]sold out of... everything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTING_CENTER_KF_01#0",
+   "speaker": null,
+   "en": "The second floor of this place[n]looks to be batting cages, but[n]it's [clr 2]under renovation[clr 27] right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTING_CENTER_KF_01#1",
+   "speaker": null,
+   "en": "It looks like it'll be open[n]again starting in May. I'll[n]come by here again then...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTING_CENTER_KF_02#0",
+   "speaker": "Morgana",
+   "en": "Oh, the second floor has some batting[n]cages. I hear they're [clr 2]under renovation[clr 27][n]now though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTING_CENTER_KF_02#1",
+   "speaker": "Morgana",
+   "en": "Apparently, it'll be back in business[n]in May. Let's come back again when[n]it reopens.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTING_CENTER_NG#0",
+   "speaker": "Morgana",
+   "en": "Oh, there are batting cages up on the[n]second floor. I hear they're [clr 2]under[n]renovation[clr 27] now, though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTING_CENTER_NG#1",
+   "speaker": "Morgana",
+   "en": "Apparently, it'll be back in business[n]in May. Let's come back again when[n]it reopens.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTING_CENTER#0",
+   "speaker": "Morgana",
+   "en": "Oh, there are batting cages up on the[n]second floor. You can improve your [clr 1]Agility[clr 27][n]by paying [clr 2]500 yen[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTING_CENTER_POLIS#0",
+   "speaker": "Morgana",
+   "en": "Plus, you've been on a roll lately.[n]You may even have developed a[n][clr 2]Batting Eye[clr 27] by now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTING_CENTER_NO_PO#0",
+   "speaker": "Morgana",
+   "en": "If you work hard enough, you'll form a[n][clr 2]Batting Eye[clr 27] and be able to hit a home[n]run.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTING_CENTER_CHK#0",
+   "speaker": "Morgana",
+   "en": "Well, did you want to spend some time[n]here in the batting cage, then?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BATTING_CENTER_CHK#0",
+   "speaker": null,
+   "en": "Play ball.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BATTING_CENTER_CHK#1",
+   "speaker": null,
+   "en": "No, let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTING_CENTER_NO_MO#0",
+   "speaker": "Morgana",
+   "en": "...Wait, you don't have enough money.[n]Sheesh, did we spend it all already?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_OldCinema#0",
+   "speaker": null,
+   "en": "It looks like an old movie[n]theater, but I think it's[n]already been closed down...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OldCinema#0",
+   "speaker": "Morgana",
+   "en": "It's an old movie theater. Unfortunately,[n]it looks like it's closed down already.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OldCinema_KF_01#0",
+   "speaker": null,
+   "en": "This looks like an[n]old movie theater.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OldCinema_KF_01#1",
+   "speaker": null,
+   "en": "I don't have time now to[n]stop by here. I'll come[n]again some other time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OldCinema_KF_02#0",
+   "speaker": "Morgana",
+   "en": "Oh, it's an old movie theater.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OldCinema_KF_02#1",
+   "speaker": "Morgana",
+   "en": "We don't have time to check it out now,[n]though. We'll do that some other time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OldCinema_H_01#0",
+   "speaker": null,
+   "en": "It's an old movie theater.[n]This week, it looks like[n]the theme is horror films.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OldCinema_H_01#1",
+   "speaker": null,
+   "en": "If I pay [clr 2]1,500 yen[clr 27] to watch[n]a horror movie, I think I'll end[n]up having more [clr 1]Guts[clr 27] than before.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OldCinema_H_02#0",
+   "speaker": null,
+   "en": "I think I'll spend[n]some time here today...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OldCinema_H_03#0",
+   "speaker": "Morgana",
+   "en": "It's an old movie theater. This week,[n]they'll be showing specially selected[n]horror films.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OldCinema_H_03#1",
+   "speaker": "Morgana",
+   "en": "It seems you'll have more [stIcon 3][clr 26][stLabel 3][clr 27][n]if you pay [clr 2]1,500 yen[clr 27]to watch a horror[n]movie.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OldCinema_H_04#0",
+   "speaker": "Morgana",
+   "en": "Oh, were you thinking of spending time[n]here today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OldCinema_D_01#0",
+   "speaker": null,
+   "en": "It's an old movie theater.[n]This week, it looks like[n]the theme is sci-fi films.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OldCinema_D_01#1",
+   "speaker": null,
+   "en": "If I pay [clr 2]1,500 yen[clr 27] to watch[n]a sci-fi film, I think I'll[n]be able to improve my [clr 1]Insight[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OldCinema_D_02#0",
+   "speaker": null,
+   "en": "I think I'll spend[n]some time here today...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OldCinema_D_03#0",
+   "speaker": "Morgana",
+   "en": "It's an old movie theater. This week,[n]they'll be showing specially selected[n]sci-fi films.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OldCinema_D_03#1",
+   "speaker": "Morgana",
+   "en": "It seems you can refine your [clr 1]Insight[clr 27][n]if you pay [clr 2]1,500 yen[clr 27] to watch a sci-fi[n]movie.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OldCinema_D_04#0",
+   "speaker": "Morgana",
+   "en": "Oh, were you thinking of spending time[n]here today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_OldCinema_01#0",
+   "speaker": null,
+   "en": "Let's watch a movie.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_OldCinema_01#1",
+   "speaker": null,
+   "en": "Never mind, let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OldCinema_NG_01#0",
+   "speaker": null,
+   "en": "...Wait. I don't think[n]I have enough money.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OldCinema_TICKET_02#0",
+   "speaker": "Morgana",
+   "en": "Come to think of it, didn't you get a[n]free movie ticket from the chief?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OldCinema_TICKET_02#1",
+   "speaker": "Morgana",
+   "en": "You can watch a movie for free right[n]now, then. How lucky!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OldCinema_TICKET_01#0",
+   "speaker": null,
+   "en": "Oh, that's right, Boss gave[n]me a free movie ticket.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OldCinema_TICKET_01#1",
+   "speaker": null,
+   "en": "It looks like I can go ahead[n]and just watch a movie for free...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OldCinema_NG_02#0",
+   "speaker": "Morgana",
+   "en": "...Wait, you don't have enough money.[n]Sheesh, did we spend it all already?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OldCinema_night_01#0",
+   "speaker": null,
+   "en": "It looks like this place[n]is closed at night. I should[n]come during the day next time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OldCinema_night_02#0",
+   "speaker": "Morgana",
+   "en": "I guess this place is closed at night.[n]Why don't you come back during[n]the day next time?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KARAOKE_KF_01#0",
+   "speaker": null,
+   "en": "It's a sister store of a famous[n]karaoke shop, but it's still[n]closed. It seems to open at dusk.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KARAOKE_KF_02#0",
+   "speaker": "Morgana",
+   "en": "200 yen for half an hour? I guess it costs[n]money just to sing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KARAOKE_arbeit_no_ch#0",
+   "speaker": "Morgana",
+   "en": "200 yen for half an hour? I guess it costs[n]money just to sing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KARAOKE_NG_night#0",
+   "speaker": "Morgana",
+   "en": "If I remember correctly, didn't you apply[n]to work here part-time? Are you going to[n]work today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KARAOKE_NG_night#1",
+   "speaker": "Morgana",
+   "en": "Wait, it's still too early. You need to[n]come here at night if you want to work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KARAOKE_NG_shift#0",
+   "speaker": "Morgana",
+   "en": "If I remember correctly, didn't you apply[n]to work here part-time? Are you going to[n]work today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KARAOKE_NG_shift#1",
+   "speaker": "Morgana",
+   "en": "Oh, you don't have a shift today. It says[n]you work here on Tuesday, Thursday,[n]and on Saturday.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KARAOKE_CHK#0",
+   "speaker": "Morgana",
+   "en": "You can work here today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KARAOKE_CHK#1",
+   "speaker": "Morgana",
+   "en": "I see plenty of customers who'd be[n]annoying to deal with, but you would[n]improve your [clr 1]Agility[clr 27] a bit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KARAOKE_POLISH#0",
+   "speaker": "Morgana",
+   "en": "Plus, aren't you almost done with your[n]training period? Maybe something good[n]will happen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KARAOKE_NO_POLISH#0",
+   "speaker": "Morgana",
+   "en": "If you continue working, you'll finish[n]your training period, and then[n]something good might happen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KARAOKE_CHK_START#0",
+   "speaker": "Morgana",
+   "en": "So what will you do? Are you going to[n]work here today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_KARAOKE_CHK#0",
+   "speaker": null,
+   "en": "Let's get to work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_KARAOKE_CHK#1",
+   "speaker": null,
+   "en": "Let's not work today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KARAOKE_01#0",
+   "speaker": null,
+   "en": "Oh, so these posters are of idols and[n]bands that are popular right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KARAOKE_02#0",
+   "speaker": "Morgana",
+   "en": "Oh, so these posters are of idols and[n]bands that are popular right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHK_KEITAI_SHOP#0",
+   "speaker": null,
+   "en": "It's a cell phone store.[n]For a small space, it sure[n]has a lot of cell phones.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHK_KEITAI_SHOP#1",
+   "speaker": null,
+   "en": "Huh? A staff member's looking[n]this way. I better leave before[n]anyone gets suspicious of me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KONBINI_KF_01#0",
+   "speaker": null,
+   "en": "It's a sister store of a[n]convenience store that I[n]see pretty often.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KONBINI_KF_02#0",
+   "speaker": "Morgana",
+   "en": "There are convenience stores[n]everywhere. Isn't there one[n]right behind your house too?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KONBINI_arbeit_no_ch#0",
+   "speaker": "Morgana",
+   "en": "There are convenience stores[n]everywhere. Isn't there one[n]right behind your house too?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KONBINI_NG_night#0",
+   "speaker": "Morgana",
+   "en": "You applied for a job here, if I[n]remember correctly. Are you[n]going to work here today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KONBINI_NG_night#1",
+   "speaker": "Morgana",
+   "en": "Wait, it's too late now. You'll have to[n]come back tomorrow after school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KONBINI_NG_shift#0",
+   "speaker": "Morgana",
+   "en": "You applied for a job here, if I[n]remember correctly. Are you[n]going to work here today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KONBINI_NG_shift#1",
+   "speaker": "Morgana",
+   "en": "Wait, you don't have a shift today.[n]It says you work on Monday,[n]Wednesday, and Saturday.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KONBINI_CHK#0",
+   "speaker": "Morgana",
+   "en": "You can work here today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KONBINI_CHK#1",
+   "speaker": "Morgana",
+   "en": "The manager looks exhausted. Your[n][clr 1]Insight[clr 27] might deepen if you catch a[n]glimpse of adult life.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KONBINI_POLISH#0",
+   "speaker": "Morgana",
+   "en": "Plus, aren't you almost done with your[n]training period? Maybe something good[n]will happen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KONBINI_NO_POLISH#0",
+   "speaker": "Morgana",
+   "en": "If you continue working, you'll finish[n]your training period, and then[n]something good might happen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KONBINI_CHK_START#0",
+   "speaker": "Morgana",
+   "en": "So what will you do? Are you going to[n]work here today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_KONBINI_CHK#0",
+   "speaker": null,
+   "en": "Let's get to work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_KONBINI_CHK#1",
+   "speaker": null,
+   "en": "Let's not work today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHK_KINKEN_SHOP#0",
+   "speaker": null,
+   "en": "Bags and accessories are on[n]display. They also seem to[n]sell lottery tickets here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHK_KINKEN_SHOP#1",
+   "speaker": null,
+   "en": "It says you have to be at least[n]18 years old to buy a ticket[n]for this lottery, though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHK_STAND_SOBA#0",
+   "speaker": null,
+   "en": "Several customers are eating[n]soba. The delicious aroma of[n]konbu soup stock wafts this way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER_KF_01#0",
+   "speaker": null,
+   "en": "It looks like there's a cram school[n]on the second floor of this place.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER_KF_02#0",
+   "speaker": "Morgana",
+   "en": "It seems the second floor of this place[n]is a cram school, but why is it so close[n]to a pachinko parlor?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER_arbeit_no_ch#0",
+   "speaker": "Morgana",
+   "en": "It seems the second floor of this place[n]is a cram school, but why is it so close[n]to a pachinko parlor?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER_arbeit_ng_ma#0",
+   "speaker": "Morgana",
+   "en": "Come to think of it, you applied for[n]a part-time job here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER_arbeit_ng_ma#1",
+   "speaker": "Morgana",
+   "en": "But I think that job magazine mentioned[n]additional requirements for high school[n]students.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER_arbeit_ng_ma#2",
+   "speaker": "Morgana",
+   "en": "Well, you should just go in and ask them[n]about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER_arbeit_ng_ma_2#0",
+   "speaker": "Chairman-esque Voice",
+   "en": "Oh, are you [lName]-kun? Ah, you[n]applied for a job here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER_arbeit_ng_ma_2#1",
+   "speaker": "Chairman-esque Voice",
+   "en": "We've got a desperate need for[n]instructors. I'm really grateful[n]you applied, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER_arbeit_ng_ma_2#2",
+   "speaker": "Chairman-esque Voice",
+   "en": "I set up some conditions for high[n]schoolers to meet so they can teach[n]our middle school students.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER_arbeit_ng_ma_2#3",
+   "speaker": "Chairman-esque Voice",
+   "en": "Here, please take these [clr 2]basic drills[clr 27] and[n]then come back once you understand[n]them all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER_arbeit_ng_ma_2#4",
+   "speaker": "Chairman-esque Voice",
+   "en": "You can take as long as you like to finish[n]them. We're really short on staff here all[n]year long.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER_arbeit_ng_ma_3#0",
+   "speaker": "Morgana",
+   "en": "...So, what kind of drill book is that?[n]There's nothing I can't solve—show it[n]to me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER_arbeit_ng_ma_4#0",
+   "speaker": null,
+   "en": "I open the drill book and see[n]a question asking for the area[n]of a complicated diagram...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER_arbeit_ng_ma_4#1",
+   "speaker": null,
+   "en": "I don't know how to use this[n]formula. Can elementary school[n]kids actually solve this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER_arbeit_ng_ma_5#0",
+   "speaker": "Morgana",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER_arbeit_ng_ma_5#1",
+   "speaker": "Morgana",
+   "en": "Hm. You'll need a [clr 2]place where they[n]have books and you can focus on[n]studying[clr 27] to finish these drills...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER_arbeit_ng_ma_5#2",
+   "speaker": "Morgana",
+   "en": "...In any case, you're [clr 2]unable to work at[n]the cram school[clr 27] until you can solve all[n]these drills.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER_arbeit_ng_ma_5#3",
+   "speaker": "Morgana",
+   "en": "Let's go. There's no point in staying here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER_arbeit_ng_ma_6#0",
+   "speaker": "Morgana",
+   "en": "You're not done solving the drills you[n]need in order to work here, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER_arbeit_ng_ma_6#1",
+   "speaker": "Morgana",
+   "en": "Let's come again when you've finished[n]solving them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER_NG_night#0",
+   "speaker": "Morgana",
+   "en": "Wasn't your shift here right after school?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER_NG_night#1",
+   "speaker": "Morgana",
+   "en": "It's too late if you come at night. Let's[n]stop by again some other time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER_NG_shift#0",
+   "speaker": "Morgana",
+   "en": "Your shifts were on Mondays,[n]Wednesdays, and Thursdays, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER_NG_shift#1",
+   "speaker": "Morgana",
+   "en": "Let's come again some other time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER_CHK#0",
+   "speaker": "Morgana",
+   "en": "You can work here today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER_CHK#1",
+   "speaker": "Morgana",
+   "en": "A lot of these kids are obviously[n]impudent jerks, but teaching may[n]help you gain more [clr 1]Insight[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER_POLISH#0",
+   "speaker": "Morgana",
+   "en": "Plus, aren't you almost done with your[n]training period? Maybe something[n]good will happen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER_NO_POLISH#0",
+   "speaker": "Morgana",
+   "en": "If you continue working, you'll finish[n]your training period, and then[n]something good might happen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER_CHK_START#0",
+   "speaker": "Morgana",
+   "en": "So what will you do? Are you going to[n]work here today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CRAMMER_CHK#0",
+   "speaker": null,
+   "en": "Let's get to work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CRAMMER_CHK#1",
+   "speaker": null,
+   "en": "Let's not work today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHK_PACHINKO_SLOT#0",
+   "speaker": null,
+   "en": "The adults are playing pachinko[n]and slots, but they all have stern[n]expressions. Are they having fun?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SuperMarket_NOTOPEN#0",
+   "speaker": null,
+   "en": "It's the supermarket \"Meet Masa.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SuperMarket_NOTOPEN#1",
+   "speaker": null,
+   "en": "Unlike regular supermarkets, this[n]place sells food products in big[n]amounts suited for businesses...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SuperMarket_NOTOPEN#2",
+   "speaker": null,
+   "en": "There's nothing that I want[n]to buy here now, though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SuperMarket_SELECT#0",
+   "speaker": "Server",
+   "en": "Welcome!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SuperMarket_THANKS#0",
+   "speaker": "Server",
+   "en": "Thank you very much! We hope to see[n]you again very, very soon!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SuperMarket_NOT_BUY#0",
+   "speaker": "Server",
+   "en": "Please drop by again!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SuperMarket_SOLDOUT#0",
+   "speaker": "Server",
+   "en": "I'm sooo sorry... We're currently[n]sold out of... everything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER#0",
+   "speaker": null,
+   "en": "It's the entrance[n]to the cram school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CRAMMER#1",
+   "speaker": null,
+   "en": "It says here,[n]\"Aim for acceptance into[n]the top middle schools!\"",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

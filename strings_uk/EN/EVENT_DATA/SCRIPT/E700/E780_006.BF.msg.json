@@ -1,0 +1,607 @@
+{
+ "file": "EN/EVENT_DATA/SCRIPT/E700/E780_006.BF",
+ "entries": [
+  {
+   "id": "MSG_000_0_0#0",
+   "speaker": "Morgana",
+   "en": "Huh...? Who could that be at this hour?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_001_0_0#0",
+   "speaker": null,
+   "en": "It seems I have other[n]messages as well...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_HARAJ#0",
+   "speaker": "Morgana",
+   "en": "Aren't we supposed to be going[n]to Harajuku with Mishima? Let's[n]go meet up with him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_MEIJI#0",
+   "speaker": "Morgana",
+   "en": "We're supposed to be going to[n]Meiji Shrine with Lady Ann, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_MEIJI#1",
+   "speaker": "Morgana",
+   "en": "We can't let her wait.[n]Let's get out of here already.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_IKEBU#0",
+   "speaker": "Morgana",
+   "en": "Didn't we promise Mishima we'd[n]go to the planetarium with him?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_IKEBU#1",
+   "speaker": "Morgana",
+   "en": "Let's start heading to Ikebukuro.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_ICHIG#0",
+   "speaker": "Morgana",
+   "en": "Didn't we promise Ryuji we'd go[n]fishing with him in Ichigaya?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_ICHIG#1",
+   "speaker": "Morgana",
+   "en": "I'm excited for this fishing pond...[n]Come on, let's head out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_JINBO#0",
+   "speaker": "Morgana",
+   "en": "We're going to go look for old books[n]with Makoto in Jinbocho today, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_JINBO#1",
+   "speaker": "Morgana",
+   "en": "Let's go. I'm sure she's waiting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_AKIHA#0",
+   "speaker": "Morgana",
+   "en": "We promised Hifumi we'd check[n]out the electronics store in[n]Akihabara with her today, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_AKIHA#1",
+   "speaker": "Morgana",
+   "en": "Come on, let's go see what[n]the latest technology is.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_SUIDO#0",
+   "speaker": "Morgana",
+   "en": "We're taking Mishima over[n]to Dome Town, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_SUIDO#1",
+   "speaker": "Morgana",
+   "en": "It's weird that we're going to[n]an amusement park with him... but[n]let's just go have some fun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_ASAKU#0",
+   "speaker": "Morgana",
+   "en": "We're going to Nakamise Street[n]with Haru, right? I hear it's[n]super crowded from the festival...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_ASAKU#1",
+   "speaker": "Morgana",
+   "en": "But I'm definitely excited for it![n]Stop standing around and let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_SHINA#0",
+   "speaker": "Morgana",
+   "en": "Aren't we supposed to be going[n]to the aquarium with Akechi?[n]Let's go meet up with him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_NAKAN#0",
+   "speaker": "Morgana",
+   "en": "So you're going to Nakano Broadway[n]with Futaba...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_NAKAN#1",
+   "speaker": "Morgana",
+   "en": "I wonder what kind of place that is?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_REQUE#0",
+   "speaker": "Morgana",
+   "en": "We're supposed to be heading to[n]Chinatown with Ryuji today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_REQUE#1",
+   "speaker": "Morgana",
+   "en": "Let's head over to the rendezvous[n]point so we don't get lost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_REQUE_2#0",
+   "speaker": "Morgana",
+   "en": "Ooh, today we're going to the[n]buffet with Lady Ann, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_REQUE_2#1",
+   "speaker": "Morgana",
+   "en": "I just hope we can eat something[n]other than beans this time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_REQUE_3#0",
+   "speaker": "Morgana",
+   "en": "We're going to Destinyland[n]with Lady Ann today, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_REQUE_3#1",
+   "speaker": "Morgana",
+   "en": "I'm so excited... Let's make[n]sure we're not late.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_REQUE_4#0",
+   "speaker": "Morgana",
+   "en": "Didn't we promise we'd go to[n]Meiji Shrine with Yusuke? Come on,[n]let's make sure we're not late.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_REQUE_5#0",
+   "speaker": "Morgana",
+   "en": "We promised Makoto we'd go to[n]Chinatown with her today, right?[n]Let's eat a ton of food!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_REQUE_6#0",
+   "speaker": "Morgana",
+   "en": "We promised Makoto last night we'd[n]go to Dome Town with her today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_REQUE_6#1",
+   "speaker": "Morgana",
+   "en": "Aren't amusement parks just so[n]excited? Let's not be late!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_REQUE_7#0",
+   "speaker": "Morgana",
+   "en": "We're supposed to be going to[n]Akihabara with Futaba, remember?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_REQUE_7#1",
+   "speaker": "Morgana",
+   "en": "I feel like it'll be crowded[n]because of the holiday... She'll[n]be okay this time... right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_REQUE_8#0",
+   "speaker": "Morgana",
+   "en": "Hey, we promised Haru we'd[n]go get sushi with her today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_REQUE_8#1",
+   "speaker": "Morgana",
+   "en": "...And you better let me have[n]some this time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_REQUE_9#0",
+   "speaker": "Morgana",
+   "en": "We're supposed to be grabbing[n]monjayaki with Haru in Tsukishima.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_REQUE_9#1",
+   "speaker": "Morgana",
+   "en": "Come on, let's head out. We[n]don't want to keep her waiting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_MOVIE#0",
+   "speaker": "Morgana",
+   "en": "We're supposed to be meeting[n]Ryuji for a movie. Let's head[n]over to our rendezvous point.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_MOVIE_2#0",
+   "speaker": "Morgana",
+   "en": "We're watching a movie with[n]Lady Ann today!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_MOVIE_2#1",
+   "speaker": "Morgana",
+   "en": "We can't afford to let her wait.[n]Let's head over to the meeting point.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_MOVIE_3#0",
+   "speaker": "Morgana",
+   "en": "We promised to meet Yusuke for[n]a movie. Let's head over to[n]the rendezvous point.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_MOVIE_4#0",
+   "speaker": "Morgana",
+   "en": "We're supposed to be seeing a[n]movie with Makoto today. Let's[n]get out of the house, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_MOVIE_5#0",
+   "speaker": "Morgana",
+   "en": "Don't you remember promising[n]Futaba that you'd watch a movie[n]with her? Stop standing around!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA_SETUP_MOVIE_6#0",
+   "speaker": "Morgana",
+   "en": "Aren't we going to watch a[n]movie with Haru? Let's head[n]over to the meeting point.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_KANDA#0",
+   "speaker": null,
+   "en": "You can now go to [clr 1]Kanda[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINJUKU#0",
+   "speaker": null,
+   "en": "You can now go to [clr 2]Shinjuku[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_AKIHABARA#0",
+   "speaker": null,
+   "en": "You can now go to [clr 2]Akihabara[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_AKIHABARA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_INOKASHIRA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Inokashira Park[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_INOKASHIRA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_OGIKUBO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ogikubo Ramen[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_OGIKUBO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy eating ramen[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ODAIBA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Odaiba Seaside Park[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ODAIBA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like such parks to[n]hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_UENO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ueno Museum[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_UENO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy art museums[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TSUKISHIMA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Tsukishima Monja[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TSUKISHIMA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy eating monjayaki[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_HARAJUKU#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Harajuku Takenoko Street[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_HARAJUKU#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy Takenoko Street[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TYUKAGAI#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Motomachi Chinatown[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TYUKAGAI#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MAIHAMA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Maihama Destinyland[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MAIHAMA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ASAKUSA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Asakusa[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ASAKUSA#1",
+   "speaker": null,
+   "en": "You can also invite people who may[n]enjoy the Skytree or Nakamise Street[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_IKEBUKURO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ikebukuro Planetarium[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_IKEBUKURO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MEIJIJINGU#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Meiji Shrine[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MEIJIJINGU#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MEIJIJINGU#2",
+   "speaker": null,
+   "en": "Furthermore, you can go by[n]yourself to pay homage to[n]the shrine if you wish.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SUIDOUBASH#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Suidobashi Dome Town[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SUIDOUBASH#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHIBUYA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Shibuya Wilton Hotel[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHIBUYA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_GINZA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ginza Sushi Bar[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_GINZA#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may enjoy eating expensive sushi[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_JINBOCHO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Jinbocho Book Town[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_JINBOCHO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_JINBOCHO#2",
+   "speaker": null,
+   "en": "Furthermore, you can go by[n]yourself for some shopping[n]if you so desire.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ICHIGAYA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ichigaya Fishing Pond[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ICHIGAYA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy fishing to[n]hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ICHIGAYA#2",
+   "speaker": null,
+   "en": "Furthermore, you can go by[n]yourself and try your hand at[n]fishing if you so choose.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINAGAWA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Shinagawa Aquarium[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINAGAWA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy the aquarium[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_NAKANO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Nakano Commerce Building District[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_NAKANO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy that location[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

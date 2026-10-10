@@ -1,0 +1,1790 @@
+{
+ "file": "EN/EVENT_DATA/SCRIPT/E700/E760_201.BF",
+ "entries": [
+  {
+   "id": "MSG_Start_Ruyji#0",
+   "speaker": "Ryuji",
+   "en": "Hey, looks like you're gettin' the hang[n]of it—you feelin' like a coffee boss yet?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Start_Yusuke#0",
+   "speaker": "Yusuke",
+   "en": "You look magnificent—but I believe[n]anyone can look competent with[n]the correct attire.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Start_Futaba#0",
+   "speaker": "Futaba",
+   "en": "Hey, barista! The look suits you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Start_Moru#0",
+   "speaker": "Morgana",
+   "en": "Don't worry. I'll watch over you and[n]make sure you don't screw up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Start#0",
+   "speaker": null,
+   "en": "I should pour the hot water...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_FriendThink_Ryuji#0",
+   "speaker": null,
+   "en": "Ryuji's gaze is intense. He[n]seems to have high expectations...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_FriendThink_Yusuke#0",
+   "speaker": null,
+   "en": "Yusuke's gaze is intense. He[n]seems to have high expectations...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_FriendThink_Futaba#0",
+   "speaker": null,
+   "en": "Futaba's gaze is intense. She[n]seems to have high expectations...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_FriendService#0",
+   "speaker": null,
+   "en": "Do it exactly as I was taught",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_FriendService#1",
+   "speaker": null,
+   "en": "Put some love into it",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_A_Mor#0",
+   "speaker": "Morgana",
+   "en": "...Hey, aren't you pouring too slowly?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_A_Mor#1",
+   "speaker": "Morgana",
+   "en": "Why not splash it in a bit more?[n]Give those grounds a good soak.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_A_Ryu#0",
+   "speaker": "Ryuji",
+   "en": "...Hey. Won't the coffee get cold if you[n]pour it so slowly?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_A_Ryu#1",
+   "speaker": "Ryuji",
+   "en": "Hurry it up! I want my coffee to be[n]scaldin'!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_A_Yus#0",
+   "speaker": "Yusuke",
+   "en": "...Just a personal observation, but won't[n]pouring so slowly dry the coffee out?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_A_Yus#1",
+   "speaker": "Yusuke",
+   "en": "Paint dries when time passes...[n]Won't you add more hot water?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_A_Fut#0",
+   "speaker": "Futaba",
+   "en": "...So slow... so boring...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_A_Fut#1",
+   "speaker": "Futaba",
+   "en": "If this were cup noodles, the noodles[n]would be soggy by the time you've[n]filled it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Trouble_type01_A#0",
+   "speaker": null,
+   "en": "Maybe I poured it too slowly...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Trouble_Type01_A#0",
+   "speaker": null,
+   "en": "Continue at this speed",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Trouble_Type01_A#1",
+   "speaker": null,
+   "en": "Pour faster",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_B_Mor#0",
+   "speaker": "Morgana",
+   "en": "...Hey, are you supposed to pour[n]the hot water so fast?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_B_Mor#1",
+   "speaker": "Morgana",
+   "en": "I like this macho pour, but it sure is[n]lacking finesse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_B_Ryu#0",
+   "speaker": "Ryuji",
+   "en": "...Are you supposed to pour all that[n]water in it at once like that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_B_Ryu#1",
+   "speaker": "Ryuji",
+   "en": "Looks dicey, but is that the secret to it?[n]Pourin' coffee is a lot more complex[n]than I thought...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_B_Yus#0",
+   "speaker": "Yusuke",
+   "en": "I don't mean to interrupt, but are you[n]certain that is the correct way to pour?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_B_Yus#1",
+   "speaker": "Yusuke",
+   "en": "Even paint will become thin if mixed[n]with too much water... Perhaps coffee's[n]different?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_B_Fut#0",
+   "speaker": "Futaba",
+   "en": "Wow, it's like a waterfall! You're really[n]pouring that hot water!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type01_B_Fut#1",
+   "speaker": "Futaba",
+   "en": "Oh, I get it! All that splashing is[n]supposed to carry the aroma to us,[n]right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Trouble_type01_B#0",
+   "speaker": null,
+   "en": "Maybe I poured too quickly...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Trouble_Type01_B#0",
+   "speaker": null,
+   "en": "This speed is fine",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Trouble_Type01_B#1",
+   "speaker": null,
+   "en": "I'll pour slower",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type02_A_Mor#0",
+   "speaker": "Morgana",
+   "en": "Looks like you left some grounds[n]up around the edge of the filter.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type02_A_Mor#1",
+   "speaker": "Morgana",
+   "en": "Try pouring more water on them.[n]The end result won't have as much[n]flavor otherwise.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type02_A_Ryu#0",
+   "speaker": "Ryuji",
+   "en": "You got a lotta grounds left around the[n]filter... Should you do somethin' about it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type02_A_Yus#0",
+   "speaker": "Yusuke",
+   "en": "There seem to be abundant residual[n]grounds on the perimeter of the filter...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type02_A_Yus#1",
+   "speaker": "Yusuke",
+   "en": "You went through all that trouble of[n]grinding the beans. Let's use it all and[n]not be wasteful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type02_A_Fut#0",
+   "speaker": "Futaba",
+   "en": "You left tons of grounds on the edge of[n]the filter!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Trouble_type02_A_Fut#1",
+   "speaker": "Futaba",
+   "en": "What's your plan? Trash it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Trouble_type02_A#0",
+   "speaker": null,
+   "en": "It seems I left some grounds[n]around the edge of the filter...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Trouble_type02_A#1",
+   "speaker": null,
+   "en": "Should I pour more hot water?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Trouble_Type02_A#0",
+   "speaker": null,
+   "en": "This is fine as is",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Trouble_Type02_A#1",
+   "speaker": null,
+   "en": "Pour more water",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SelFix_Moru#0",
+   "speaker": "Morgana",
+   "en": "I hope you made the right decision...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SelFix_Ryuji#0",
+   "speaker": "Ryuji",
+   "en": "As long as it tastes good, I don't care[n]what you do.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SelFix_Ryuji#1",
+   "speaker": "Ryuji",
+   "en": "...Hey! Make sure to add a ton of milk[n]and sugar for me though!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SelFix_Yusuke#0",
+   "speaker": "Yusuke",
+   "en": "I'm looking forward to a delicious cup[n]of coffee.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SelFix_Futaba#0",
+   "speaker": "Futaba",
+   "en": "My body is ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_500_0_0#0",
+   "speaker": null,
+   "en": "I don't think I made a mistake...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_500_1_0#0",
+   "speaker": null,
+   "en": "Did I make a mistake?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_0_0#0",
+   "speaker": "Morgana",
+   "en": "Mmm! I love the smell of good coffee...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_1_0#0",
+   "speaker": "Ryuji",
+   "en": "Wow... Man, you look like a real pro[n]when you're pourin' it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_3_0#0",
+   "speaker": "Yusuke",
+   "en": "Ah... What a lovely aroma...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_6_0#0",
+   "speaker": "Futaba",
+   "en": "Such skills... When did you level up!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_019_7_0#0",
+   "speaker": null,
+   "en": "Looks like it'll turn out good...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_029_0_0#0",
+   "speaker": "Morgana",
+   "en": "The way you're drinking it makes it look[n]delicious.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_029_1_0#0",
+   "speaker": "Ryuji",
+   "en": "Whoa! This is awesome!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_029_1_0#1",
+   "speaker": "Ryuji",
+   "en": "Who knew I'd like coffee! Man, here I was[n]thinkin' I hated it this whole time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_029_3_0#0",
+   "speaker": "Yusuke",
+   "en": "...Exquisite.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_029_3_0#1",
+   "speaker": "Yusuke",
+   "en": "This tastes remarkably similar to Boss's...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_029_6_0#0",
+   "speaker": "Futaba",
+   "en": "Yep. Just like Sojiro's!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_029_6_0#1",
+   "speaker": "Futaba",
+   "en": "I feel so at home when I drink this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_029_7_0#0",
+   "speaker": null,
+   "en": "I managed, somehow...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Coffee_MakeEnd_Com#0",
+   "speaker": null,
+   "en": "I was able to make good coffee...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_227_1_0#0",
+   "speaker": "Ryuji",
+   "en": "I never knew there'd be a day I'd want[n]to drink coffee... Life's really full of[n]surprises, huh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_227_3_0#0",
+   "speaker": "Yusuke",
+   "en": "It is more than a mere imitation though.[n]The heart and soul you put into it shines[n]through.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_227_6_0#0",
+   "speaker": "Futaba",
+   "en": "You know, [fName], maybe someday[n]you could be the second-generation[n]Boss of Leblanc...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Coffee_Lightly#0",
+   "speaker": null,
+   "en": "It has no taste...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Coffee_Bitter#0",
+   "speaker": null,
+   "en": "It's very bitter...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_024_0_0#0",
+   "speaker": "Morgana",
+   "en": "Judging by the look on your face, it didn't[n]turn out well, huh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_024_1_0#0",
+   "speaker": "Ryuji",
+   "en": "It's surprisin'... The bitterness smacks[n]you in the face like a truck.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_024_3_0#0",
+   "speaker": "Yusuke",
+   "en": "What is this!? I have never tasted coffee[n]like this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_024_6_0#0",
+   "speaker": "Futaba",
+   "en": "It's so strong, I'm shocked!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_022_1_0#0",
+   "speaker": "Ryuji",
+   "en": "Is this real coffee? I don't get it, but[n]I'm impressed people can drink this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_022_3_0#0",
+   "speaker": "Yusuke",
+   "en": "No, I'm sure this is the flavor of real[n]coffee... My tastes just aren't refined[n]enough yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_022_6_0#0",
+   "speaker": "Futaba",
+   "en": "This is what adults like to drink, right?[n]So one day, I'll think it's delicious too?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_125_0_0#0",
+   "speaker": null,
+   "en": "I made it correctly,[n]but I couldn't recover...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_125_0_0#1",
+   "speaker": null,
+   "en": "It seems I'll need[n]to practice more...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_125_1_0#0",
+   "speaker": null,
+   "en": "It seems I made a mistake...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_125_2_0#0",
+   "speaker": null,
+   "en": "I was able to make it correctly...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COFFEE_EFFECT_SUCCES#0",
+   "speaker": null,
+   "en": "......?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COFFEE_EFFECT_SUCCES#1",
+   "speaker": null,
+   "en": "I feel mysteriously energized...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COFFEE_EFFECT_SUCCES#2",
+   "speaker": null,
+   "en": "This may be useful to take[n]with me into the Metaverse...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Coffee_1st_EffectInf#0",
+   "speaker": "Morgana",
+   "en": "This coffee has a lot of thought and love[n]behind it, huh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Coffee_1st_EffectInf#1",
+   "speaker": "Morgana",
+   "en": "Maybe if you drink it in the Metaverse,[n]it'll heal your wounds too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Coffee_HumanParamUp#0",
+   "speaker": "Morgana",
+   "en": "Heh heh... Looks like the chief's[n]gentlemanly charm is rubbing[n]off on you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_036_0_0#0",
+   "speaker": "Sojiro",
+   "en": "Looks like you're doing well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_036_0_0#1",
+   "speaker": "Sojiro",
+   "en": "Here, let me have a sip.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_040_0_0#0",
+   "speaker": "Sojiro",
+   "en": "Looks like you're at it again...[n]How's it going?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_040_0_0#1",
+   "speaker": "Sojiro",
+   "en": "Here, I'll have a sip.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_050_0_0#0",
+   "speaker": "Sojiro",
+   "en": "This aroma and soft richness...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_050_0_0#1",
+   "speaker": "Sojiro",
+   "en": "You used Blue Mountain, huh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_050_1_0#0",
+   "speaker": "Jamaican Blue Mountain",
+   "en": "The Blue Mountains of Jamaica have a unique[n]climate and volcanic soil advantageous for[n]growing their famous high quality coffee.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_050_1_0#1",
+   "speaker": "Jamaican Blue Mountain",
+   "en": "The coffee undergoes a rigorous inspection[n]process and is harvested in small quantities.[n]This produces a rich coffee with a full aroma.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051_0_0#0",
+   "speaker": "Sojiro",
+   "en": "This acidity...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051_0_0#1",
+   "speaker": "Sojiro",
+   "en": "...This must be Guatemalan SHB...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_051_1_0#0",
+   "speaker": "Guatemalan SHB",
+   "en": "The volcanic soil of Guatemala is ideal for[n]growing coffee. Guatemalan beans are[n]ranked by their altitude of cultivation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_051_1_0#1",
+   "speaker": "Guatemalan SHB",
+   "en": "Strictly Hard Bean (SHB), a grade given to[n]coffee grown at altitudes above 4,500 feet,[n]has a citrus-like acidity and a full body.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_052_0_0#0",
+   "speaker": "Sojiro",
+   "en": "This taste...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_052_0_0#1",
+   "speaker": "Sojiro",
+   "en": "It must be Colombian Nariño.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_052_1_0#0",
+   "speaker": "Colombian Nariño",
+   "en": "The high altitude, rainy climate, and soil[n]of the Colombian mountains creates a strong[n]foundation for their high quality coffee.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_052_1_0#1",
+   "speaker": "Colombian Nariño",
+   "en": "Nariño coffee has a creamy, viscous body that[n]coats the mouth with fruity and nutty flavors.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_0_0#0",
+   "speaker": "Sojiro",
+   "en": "This flavor...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_0_0#1",
+   "speaker": "Sojiro",
+   "en": "It's Cuban Crystal Mountain, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_053_1_0#0",
+   "speaker": "Cuban Crystal Mountain",
+   "en": "Cuba is the biggest island in the Caribbean.[n]Their coffee is known for its full-bodied[n]aroma and taste.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_053_1_0#1",
+   "speaker": "Cuban Crystal Mountain",
+   "en": "Crystal Mountain coffee is made from only the[n]largest beans of the harvest. It has a sweet,[n]nutty flavor with low acidity.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_054_0_0#0",
+   "speaker": "Sojiro",
+   "en": "This smoothness...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_054_0_0#1",
+   "speaker": "Sojiro",
+   "en": "There is no mistaking it... This is[n]Hawaiian Kona...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_054_1_0#0",
+   "speaker": "American Hawaiian Kona",
+   "en": "A Hawaiian treat. Because of the rarity and[n]price of Kona beans, a Kona blend only needs[n]to contain 10% Kona beans.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_054_1_0#1",
+   "speaker": "American Hawaiian Kona",
+   "en": "A 100% Kona coffee roast is quite expensive.[n]Good Kona coffee is known to have a rich[n]flavor, bright acidity, and complex aroma.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_055_0_0#0",
+   "speaker": "Sojiro",
+   "en": "This flavor...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_055_0_0#1",
+   "speaker": "Sojiro",
+   "en": "...This is Ethiopian Mocha Harrar,[n]isn't it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_055_1_0#0",
+   "speaker": "Ethiopian Mocha Harrar",
+   "en": "\"Mocha\" is a port town in the Republic of[n]Yemen, where both Yemeni coffee and[n]Ethiopian Mocha Harrar are exported.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_055_1_0#1",
+   "speaker": "Ethiopian Mocha Harrar",
+   "en": "Coffee from this region was given the moniker[n]\"Mocha.\" Mocha coffee has a unique spicy-flavor[n]and a strong aroma with blackberry notes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_056_0_0#0",
+   "speaker": "Sojiro",
+   "en": "Hmm...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_056_0_0#1",
+   "speaker": "Sojiro",
+   "en": "...This is Mocha Matari.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_056_1_0#0",
+   "speaker": "Mocha Matari",
+   "en": "\"Mocha\" is a port town in the Republic of[n]Yemen, where both Yemeni coffee and[n]Ethiopian Mocha Harrar are exported.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_056_1_0#1",
+   "speaker": "Mocha Matari",
+   "en": "Mocha Matari has a complex spicy and chocolate[n]flavor profile with a heavy, \"winey\" body to[n]complement it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_057_0_0#0",
+   "speaker": "Sojiro",
+   "en": "This fragrant aroma...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_057_0_0#1",
+   "speaker": "Sojiro",
+   "en": "This is Mexican Altura.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_057_1_0#0",
+   "speaker": "Mexican Altura",
+   "en": "Coffee was said to be brought into Mexico by[n]the Spanish in the 18th century. Mexico is now[n]one of the world's largest coffee producers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_057_1_0#1",
+   "speaker": "Mexican Altura",
+   "en": "Altura, meaning \"height\" in Spanish, describes[n]the altitude the beans were grown. It has a[n]savory aroma, soft acidity, and nutty flavor.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_058_0_0#0",
+   "speaker": "Sojiro",
+   "en": "Hm? This aroma...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_058_0_0#1",
+   "speaker": "Sojiro",
+   "en": "This is Brazilian No. 2/18.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_058_1_0#0",
+   "speaker": "Brazilian No. 2/18",
+   "en": "Brazil produces the most coffee in the world.[n]Their beans are known to be of high quality,[n]have balanced acidity, and a bitter finish.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_058_1_0#1",
+   "speaker": "Brazilian No. 2/18",
+   "en": "Also known as Santos, No. 2/18 is one of the[n]most popular Brazilian coffees. 2 stands for[n]the quality, and the 18 is for the bean size.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_059_0_0#0",
+   "speaker": "Sojiro",
+   "en": "What a rich flavor...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_059_0_0#1",
+   "speaker": "Sojiro",
+   "en": "...This is Colombian Bucaramanga[n]Supremo.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_059_1_0#0",
+   "speaker": "Colombian Bucaramanga Supremo",
+   "en": "The high altitude, rainy climate, and soil[n]of the Colombian mountains creates a strong[n]foundation for their high quality coffee.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_059_1_0#1",
+   "speaker": "Colombian Bucaramanga Supremo",
+   "en": "Supremo indicates the large size of the bean,[n]and Bucaramanga is where it is grown. It has[n]a rich, sweet taste and a mild acidity.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_060_0_0#0",
+   "speaker": "Sojiro",
+   "en": "This aftertaste...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_060_0_0#1",
+   "speaker": "Sojiro",
+   "en": "...This is a Costa Rican SHB.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_060_1_0#0",
+   "speaker": "Costa Rican SHB",
+   "en": "Costa Rica is abundant in nature with a large[n]variety of plant and animal life, and has[n]been exporting coffee for centuries.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_060_1_0#1",
+   "speaker": "Costa Rican SHB",
+   "en": "Strictly Hard Bean (SHB) is a grade given to[n]coffee grown at a high altitude of 4,500 feet.[n]It has an elegant aftertaste and sweet aroma.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_061_0_0#0",
+   "speaker": "Sojiro",
+   "en": "I see...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_061_0_0#1",
+   "speaker": "Sojiro",
+   "en": "...This is Kenya AA.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_061_1_0#0",
+   "speaker": "Kenya AA",
+   "en": "Kenyan coffee farms are strictly controlled[n]and are known to produce premium quality beans.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_061_1_0#1",
+   "speaker": "Kenya AA",
+   "en": "Kenya AA is grown in the mid-west of Kenya at[n]high altitudes and AA signifies their quality.[n]It has a full aroma with moderate acidity.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_062_0_0#0",
+   "speaker": "Sojiro",
+   "en": "I know what this is...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_062_0_0#1",
+   "speaker": "Sojiro",
+   "en": "...This is Brazilian Bourbon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_062_1_0#0",
+   "speaker": "Brazilian Bourbon",
+   "en": "Brazil produces the most coffee in the world.[n]Their beans are known to be of high quality,[n]have balanced acidity, and a bitter finish.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_062_1_0#1",
+   "speaker": "Brazilian Bourbon",
+   "en": "Brazilian Bourbon is only produced in small[n]quantities, so it is rare within Brazil. It[n]has a notably soft sweetness and clean finish.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_063_0_0#0",
+   "speaker": "Sojiro",
+   "en": "This fresh taste...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_063_0_0#1",
+   "speaker": "Sojiro",
+   "en": "...This is Colombian 100% Typica.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_063_1_0#0",
+   "speaker": "Colombian 100% Typica",
+   "en": "The high altitude, rainy climate, and soil[n]of the Colombian mountains creates a strong[n]foundation for their high quality coffee.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_063_1_0#1",
+   "speaker": "Colombian 100% Typica",
+   "en": "This coffee is made from 100% Typica beans[n]and is rare due to its difficult harvest. It[n]has a citrusy freshness and fragrant aroma.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_064_0_0#0",
+   "speaker": "Sojiro",
+   "en": "This soft acidity...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_064_0_0#1",
+   "speaker": "Sojiro",
+   "en": "...This is a Honduran SHG.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_064_1_0#0",
+   "speaker": "Honduran SHG",
+   "en": "A third of Honduras landscape is mountain or[n]highland. The coffee grade is determined by[n]the altitude of the harvest location.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_064_1_0#1",
+   "speaker": "Honduran SHG",
+   "en": "Strictly High Grown (SHG), similar to SHB,[n]is grown at high altitudes. It has a fruity[n]aroma, soft acidity, and a solid richness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_065_0_0#0",
+   "speaker": "Sojiro",
+   "en": "This citrusy aroma...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_065_0_0#1",
+   "speaker": "Sojiro",
+   "en": "...This is Guatemalan Antigua.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_065_1_0#0",
+   "speaker": "Guatemalan Antigua",
+   "en": "The volcanic soil of Guatemala is ideal for[n]growing coffee. Guatemalan beans are[n]ranked by their altitude of cultivation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_065_1_0#1",
+   "speaker": "Guatemalan Antigua",
+   "en": "Due to the rich minerals and nutrients in[n]the soil, Antigua coffee has a mellow[n]acidity and a fresh aftertaste.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_066_0_0#0",
+   "speaker": "Sojiro",
+   "en": "This fruity aroma...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_066_0_0#1",
+   "speaker": "Sojiro",
+   "en": "...This is Salvadoran Pacamara.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_066_1_0#0",
+   "speaker": "Salvadoran Pacamara",
+   "en": "Today, over 50% of all exports from El Salvador[n]are coffee. Pacamara is a hybrid coffee unique[n]to El Salvador.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_066_1_0#1",
+   "speaker": "Salvadoran Pacamara",
+   "en": "Pacamara comes from a hybrid plant that[n]produces high amounts of large-sized coffee[n]beans. It has a dense body with chocolate notes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_067_0_0#0",
+   "speaker": "Sojiro",
+   "en": "This floral aroma...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_067_0_0#1",
+   "speaker": "Sojiro",
+   "en": "...Must be Panama Esmeralda Geisha.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_067_1_0#0",
+   "speaker": "Panama Esmeralda Geisha",
+   "en": "This highly sought-after variety holds the[n]record for the highest bidding price at the[n]International Coffee Auction in Panama.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_067_1_0#1",
+   "speaker": "Panama Esmeralda Geisha",
+   "en": "Due to a limited cultivation, this popular[n]roast is rare. It has a floral aroma, fresh[n]acidity, and sweet aftertones.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_068_0_0#0",
+   "speaker": "Sojiro",
+   "en": "This aroma...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_068_0_0#1",
+   "speaker": "Sojiro",
+   "en": "...This is Indonesian Kopi Luwak.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_068_0_0#2",
+   "speaker": "Sojiro",
+   "en": "Hey, this is an expensive roast.[n]Don't waste it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_068_1_0#0",
+   "speaker": "Indonesian Kopi Luwak",
+   "en": "This rare coffee is made by collecting coffee[n]beans that have been through the digestive[n]track of the Asian palm civet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_068_1_0#1",
+   "speaker": "Indonesian Kopi Luwak",
+   "en": "Although very expensive, Kopi Luwak is said[n]to have a full aroma and rich flavor due to[n]the civet's digestive enzymes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_093_0_0#0",
+   "speaker": "Sojiro",
+   "en": "...The flavor profile is bland. You should[n]practice more to bring out the roast's[n]full potential.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_093_0_0#1",
+   "speaker": "Sojiro",
+   "en": "Although, I see you're preparing the cup[n]the way I taught you. I'll acknowledge[n]your hard work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Sojiro_Check_OK_Midd#0",
+   "speaker": "Sojiro",
+   "en": "Ah...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Sojiro_Check_OK_Midd#1",
+   "speaker": "Sojiro",
+   "en": "Not bad. It's worth a compliment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_094_0_0#0",
+   "speaker": "Sojiro",
+   "en": "Delicious...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_094_0_0#1",
+   "speaker": "Sojiro",
+   "en": "I'm impressed. Although, you'll never[n]catch up to me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_2_1#0",
+   "speaker": "Sojiro",
+   "en": "You look like a real barista standing at[n]the counter like that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_2_1#1",
+   "speaker": "Sojiro",
+   "en": "It seems like you're following all the[n]rules and instructions I gave you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_2_1#2",
+   "speaker": "Sojiro",
+   "en": "I can't believe this kid in front of me is a[n]troublemaker with a criminal record...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_2_1#3",
+   "speaker": "Sojiro",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_2_1#4",
+   "speaker": "Sojiro",
+   "en": "Well, there's no need to have a lengthy[n]conversation about this. Just keep up[n]with your training.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_2_2#0",
+   "speaker": "Sojiro",
+   "en": "You still have a lot to learn, in coffee[n]and in life.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_2_2#1",
+   "speaker": "Sojiro",
+   "en": "Be patient.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_3_1#0",
+   "speaker": "Sojiro",
+   "en": "You see a lot of different customers[n]come through when you have a café[n]like this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_3_1#1",
+   "speaker": "Sojiro",
+   "en": "Even if someone looks like trouble,[n]I'll serve them the same cup of coffee[n]I serve everyone else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_3_1#2",
+   "speaker": "Sojiro",
+   "en": "That's my job. I have pride in what I do.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_3_1#3",
+   "speaker": "Sojiro",
+   "en": "You're like a customer too... One that[n]takes a tremendous amount of effort.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_3_1#4",
+   "speaker": "Sojiro",
+   "en": "You have the potential, so keep training.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_3_2#0",
+   "speaker": "Sojiro",
+   "en": "I'll keep mentoring you, so keep it up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_3_2#1",
+   "speaker": "Sojiro",
+   "en": "One day, there will be a flavor of coffee[n]that only you can produce. You have[n]potential, keep training.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_4_1#0",
+   "speaker": "Sojiro",
+   "en": "Maybe it's fate... Your baggage seems to[n]follow you wherever you go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_4_1#1",
+   "speaker": "Sojiro",
+   "en": "I guess everything, good or bad, was[n]meant to happen. I'm not usually one[n]to believe that crap.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_4_1#2",
+   "speaker": "Sojiro",
+   "en": "Then, would you coming here[n]be fate too?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_4_1#3",
+   "speaker": "Sojiro",
+   "en": "Haha. This isn't like me, but I hope[n]our chance meetin' turns out to be[n]somethin' good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_4_1#4",
+   "speaker": "Sojiro",
+   "en": "I know, I know. Rambling old men aren't[n]popular. Anyway, thanks for the coffee.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_4_2#0",
+   "speaker": "Sojiro",
+   "en": "Maybe it's fate that I'm drinking your[n]coffee here, like this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_4_2#1",
+   "speaker": "Sojiro",
+   "en": "That'd be pretty cool, huh... You know,[n]you remind me of when I was in training...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_5_1#0",
+   "speaker": "Sojiro",
+   "en": "...I'm sorry for keeping Futaba a secret.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_5_1#1",
+   "speaker": "Sojiro",
+   "en": "To be honest, I didn't think I'd see the[n]day she'd come to the café alone and[n]eat my curry again...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_5_1#2",
+   "speaker": "Sojiro",
+   "en": "I don't understand what happened—[n]but, she does seem to like you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_5_1#3",
+   "speaker": "Sojiro",
+   "en": "Well, whatever the reason, I'm glad[n]she's feeling better.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_5_1#4",
+   "speaker": "Sojiro",
+   "en": "Guess I worried you, too. I hope you can[n]be friends with Futaba.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_5_2#0",
+   "speaker": "Sojiro",
+   "en": "How are things with Futaba?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_5_2#1",
+   "speaker": "Sojiro",
+   "en": "I've gotta warn you... I'll kick your ass[n]if you make her cry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_5_2#2",
+   "speaker": "Sojiro",
+   "en": "...I do trust you, though. Please take care[n]of Futaba.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_6_1#0",
+   "speaker": "Sojiro",
+   "en": "There are things in the world we can't[n]control.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_6_1#1",
+   "speaker": "Sojiro",
+   "en": "There's no benefit in trying to defy[n]those things.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_6_1#2",
+   "speaker": "Sojiro",
+   "en": "Though, it's probably difficult for you[n]to understand, since you're young...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_6_1#3",
+   "speaker": "Sojiro",
+   "en": "...Hmm, that turned into a lecture.[n]Forget I said anything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_6_1#4",
+   "speaker": "Sojiro",
+   "en": "Don't worry about the other day.[n]I won't let anything bad happen[n]to you guys.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_6_2#0",
+   "speaker": "Sojiro",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_6_2#1",
+   "speaker": "Sojiro",
+   "en": "Ah, sorry. I was just thinking.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_6_2#2",
+   "speaker": "Sojiro",
+   "en": "Don't worry about the other day.[n]I won't let anything bad happen[n]to you guys.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_7_1#0",
+   "speaker": "Sojiro",
+   "en": "...There are a lot of things in life that[n]won't go the way you want them to.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_7_1#1",
+   "speaker": "Sojiro",
+   "en": "There's nothing anyone can do about it.[n]The real question is how you react in[n]those situations.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_7_1#2",
+   "speaker": "Sojiro",
+   "en": "Will you run away, and live with regret[n]for the rest of your life? Or will you[n]face it head on?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_7_1#3",
+   "speaker": "Sojiro",
+   "en": "You're still young. You can have as many[n]fresh starts as you want.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_7_1#4",
+   "speaker": "Sojiro",
+   "en": "Although, I'm not really one to talk.[n]Anyway, keep your chin up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_7_2#0",
+   "speaker": "Sojiro",
+   "en": "I know this is sudden, but... let me say[n]one thing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_7_2#1",
+   "speaker": "Sojiro",
+   "en": "If you sense it's the right moment,[n]tell her how you feel.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_7_2#2",
+   "speaker": "Sojiro",
+   "en": "It's something I had to learn the hard way.[n]I don't want you to suffer as I have.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_8_1#0",
+   "speaker": "Sojiro",
+   "en": "Sorry about the other day. Thank you[n]for sticking up for Futaba.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_8_1#1",
+   "speaker": "Sojiro",
+   "en": "You might be worried, but I want you to[n]let me handle this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_8_1#2",
+   "speaker": "Sojiro",
+   "en": "I've already made up my mind. I'll do[n]anything for you two.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_8_1#3",
+   "speaker": "Sojiro",
+   "en": "I want you to let me do my job as[n]a guardian.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_8_1#4",
+   "speaker": "Sojiro",
+   "en": "I'm glad I at least was able to teach you[n]how to brew coffee that tastes this good...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_8_2#0",
+   "speaker": "Sojiro",
+   "en": "I've found what's important to me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_8_2#1",
+   "speaker": "Sojiro",
+   "en": "You two are my priorities. Don't worry,[n]I'll protect you and Futaba.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_9_1#0",
+   "speaker": "Sojiro",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_9_1#1",
+   "speaker": "Sojiro",
+   "en": "And here I thought you were just a[n]punk kid...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_9_1#2",
+   "speaker": "Sojiro",
+   "en": "It's pathetic coming from an adult, but[n]you guys are teaching me so much.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_9_1#3",
+   "speaker": "Sojiro",
+   "en": "In turn, I'll teach you everything I know—[n]as a sign of my appreciation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_9_1#4",
+   "speaker": "Sojiro",
+   "en": "I know you can do it. Train hard.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_9_1#5",
+   "speaker": "Sojiro",
+   "en": "And, for the record...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_9_1#6",
+   "speaker": "Sojiro",
+   "en": "I was scared. Let Futaba know, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_9_2#0",
+   "speaker": "Sojiro",
+   "en": "As a token of my appreciation,[n]I'll teach you everything I know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_9_2#1",
+   "speaker": "Sojiro",
+   "en": "I know you can do it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_10_1#0",
+   "speaker": "Sojiro",
+   "en": "It was thanks to you that I was able to[n]change. You really are something...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_10_1#1",
+   "speaker": "Sojiro",
+   "en": "But I won't let you have the upper hand[n]when it comes to coffee.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_10_1#2",
+   "speaker": "Sojiro",
+   "en": "Although, I have no doubts—your skills[n]will soon surpass my own.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_10_1#3",
+   "speaker": "Sojiro",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_10_1#4",
+   "speaker": "Sojiro",
+   "en": "I'm overjoyed to have a competent[n]apprentice. Allow me to act as your[n]lead for a little longer...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_10_2#0",
+   "speaker": "Sojiro",
+   "en": "I like your coffee.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RANK_10_2#1",
+   "speaker": "Sojiro",
+   "en": "I'm overjoyed to have a competent[n]apprentice. Allow me to act as your[n]lead for a little longer...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_250_0_0#0",
+   "speaker": "Morgana",
+   "en": "You have the opportunity to learn, so[n]you should take some time for yourself[n]and keep improving.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_250_0_0#1",
+   "speaker": "Morgana",
+   "en": "People would treat you with respect if[n]they knew you could serve great coffee.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_250_1_0#0",
+   "speaker": null,
+   "en": "I should try brewing coffee[n]more often for myself and[n]the Phantom Thieves...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_135_0_0#0",
+   "speaker": "Morgana",
+   "en": "We should rest now, we have a big day[n]tomorrow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_135_1_0#0",
+   "speaker": null,
+   "en": "I think I've practiced[n]enough for today...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEBUG#0",
+   "speaker": "Debug",
+   "en": "Debug Mode",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#0",
+   "speaker": null,
+   "en": "Ryuji",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#1",
+   "speaker": null,
+   "en": "Yusuke",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#2",
+   "speaker": null,
+   "en": "Futaba",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#3",
+   "speaker": null,
+   "en": "Morgana",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#4",
+   "speaker": null,
+   "en": "Alone",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEBUG_2#0",
+   "speaker": "Debug",
+   "en": "Sojiro Debug",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_2#0",
+   "speaker": null,
+   "en": "Comes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_2#1",
+   "speaker": null,
+   "en": "Doesn't come",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

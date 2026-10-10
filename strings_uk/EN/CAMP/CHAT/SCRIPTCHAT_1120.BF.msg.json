@@ -1,0 +1,75 @@
+{
+ "file": "EN/CAMP/CHAT/SCRIPTCHAT_1120.BF",
+ "entries": [
+  {
+   "id": "MSG_000_0_0#0",
+   "speaker": "Takemi",
+   "en": "You want me to perform [n]an examination on you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_0_0#0",
+   "speaker": "Takemi",
+   "en": "I can close the office in [n]the afternoon, if you're going [n]to come.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORUGANA#0",
+   "speaker": "Morgana",
+   "en": "Takemi is waiting for you at the clinic.[n]You wanna go see her?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_001#0",
+   "speaker": null,
+   "en": "Go right away",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_001#1",
+   "speaker": null,
+   "en": "Decide later",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_002#0",
+   "speaker": null,
+   "en": "I'll be there soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REACTION_01#0",
+   "speaker": "Takemi",
+   "en": "OK. I'll be waiting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CORP_PLAY_CHECK1#0",
+   "speaker": "Morgana",
+   "en": "Takemi is waiting for you at the clinic.[n]You wanna go see her?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CORP_PLAY_CHECK2#0",
+   "speaker": "Morgana",
+   "en": "Nobody thinks you're alive at this point,[n]so it should be okay as long as you're[n]careful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CORP_PLAY_CHECK2#1",
+   "speaker": "Morgana",
+   "en": "Takemi is waiting for you at the clinic.[n]You wanna go see her?",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

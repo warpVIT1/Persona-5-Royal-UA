@@ -1,0 +1,68 @@
+{
+ "file": "EN/NETWORK/PLAYGO_MESSAGE.BMD",
+ "entries": [
+  {
+   "id": "PLAYGO_CHOICE_SEL#0",
+   "speaker": null,
+   "en": "Return to title",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "PLAYGO_CHOICE_SEL#1",
+   "speaker": null,
+   "en": "Save and return to title",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "PLAYGO_CHOICE_SEL#2",
+   "speaker": null,
+   "en": "Wait for data preparation",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "PLAYGO_NOT_DOWNLOAD#0",
+   "speaker": null,
+   "en": "You must have data prepared in[n]order to continue from here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "PLAYGO_LOCAL_SLOW#0",
+   "speaker": null,
+   "en": "You must have data prepared in[n]order to continue from here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "PLAYGO_GOTO_TILE#0",
+   "speaker": null,
+   "en": "This will return you to the[n]title screen. Is that OK?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "PLAYGO_GOTO_TITLE_SEL#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "PLAYGO_GOTO_TITLE_SEL#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "PLAYGO_INSTALL_PROGRESS#0",
+   "speaker": null,
+   "en": "Please wait for installation to complete.[n][var 0]/[var 1] ([var 2])",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

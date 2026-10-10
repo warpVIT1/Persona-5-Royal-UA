@@ -1,0 +1,383 @@
+{
+ "file": "EN/FIELD/INIT/FINI_192_061.BF",
+ "entries": [
+  {
+   "id": "DUMMY_MGS#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "D08_01_e437_010_mes01#0",
+   "speaker": "Ryuji",
+   "en": "The hell is this...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D08_01_e437_010_mes02#0",
+   "speaker": "Futaba",
+   "en": "It's some big, fossil-looking thing...[n]So this must be the Treasure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D08_01_e437_010_mes03#0",
+   "speaker": "Yusuke",
+   "en": "Wait, look on the side... It's the train[n]running down to Mementos.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D08_01_e437_010_mes03#1",
+   "speaker": "Yusuke",
+   "en": "So this is where that crowd of people[n]was trying to reach?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D08_01_e437_010_mes04#0",
+   "speaker": "Makoto",
+   "en": "People are walking in and out of there,[n]so the other side of the wall must be...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D08_01_e437_010_mes04#1",
+   "speaker": "Makoto",
+   "en": "...Wait! It's not a wall, but a giant door?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D08_01_e437_010_mes05#0",
+   "speaker": "Ryuji",
+   "en": "Guess that means the Treasure's not here.[n]C'mon, let's stay focused.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_BRANCH#0",
+   "speaker": "Morgana",
+   "en": "I can sense our target somewhere in this[n]area!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_BRANCH#1",
+   "speaker": "Morgana",
+   "en": "Let's scour this floor for them!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_BRANCH_ex_27#0",
+   "speaker": "Morgana",
+   "en": "This is where that horrible cheater was...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_BRANCH_ex_27#1",
+   "speaker": "Morgana",
+   "en": "We'll need some kind of plan if we want[n]to take him down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_BRANCH_ex_72#0",
+   "speaker": "Morgana",
+   "en": "No, we should focus on what's in front of[n]us for now. I feel the presence of the target[n]ahead...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_BRANCH_ex_72#1",
+   "speaker": "Morgana",
+   "en": "Let's search the whole area.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_NEIGHBOR#0",
+   "speaker": "Morgana",
+   "en": "I can sense the target's presence nearby!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_NEIGHBOR#1",
+   "speaker": "Morgana",
+   "en": "It's coming from the next area! Let's go[n]check it out!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_NEAR_LOW#0",
+   "speaker": "Morgana",
+   "en": "Hm, I think I can sense the target's[n]presence nearby.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_NEAR_LOW#1",
+   "speaker": "Morgana",
+   "en": "It feels like it's in an area a little bit[n]further past here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_MIDDLE_L#0",
+   "speaker": "Morgana",
+   "en": "Hm, I feel the target's presence.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_MIDDLE_L#1",
+   "speaker": "Morgana",
+   "en": "It's still far though. They must be deeper[n]inside.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_FAR_LOWE#0",
+   "speaker": "Morgana",
+   "en": "It's only slight, but I can sense the target's[n]presence.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_FAR_LOWE#1",
+   "speaker": "Morgana",
+   "en": "It seems like it's coming from an area[n]much deeper down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_NEIGHBOR_2#0",
+   "speaker": "Morgana",
+   "en": "I sense the target—super close!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_NEIGHBOR_2#1",
+   "speaker": "Morgana",
+   "en": "It's coming from an area above us![n]Let's go check it out!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_NEAR_UPP#0",
+   "speaker": "Morgana",
+   "en": "Hm, I think I can sense the target's[n]presence nearby.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_NEAR_UPP#1",
+   "speaker": "Morgana",
+   "en": "If we go a little back towards where we[n]came from, we might be able to reach[n]its location.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_MIDDLE_U#0",
+   "speaker": "Morgana",
+   "en": "Hm, I feel the target's presence.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_MIDDLE_U#1",
+   "speaker": "Morgana",
+   "en": "But it's still far away. We should probably[n]head up a ways.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_FAR_UPPE#0",
+   "speaker": "Morgana",
+   "en": "I'm getting a slight reading from the target.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_FLOOR_FAR_UPPE#1",
+   "speaker": "Morgana",
+   "en": "It feels like it's way back from where we[n]came from...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SHOP_1ST_MSG01#0",
+   "speaker": "Jose",
+   "en": "Oh, mister!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SHOP_1ST_MSG02#0",
+   "speaker": "Jose",
+   "en": "When you get flowers, bring them to me![n]I'll go ahead of you guys!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ACCIDENT_TUTORIAL01#0",
+   "speaker": "Ryuji",
+   "en": "Whoa! What the hell happened?[n]It's so dark!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ACCIDENT_TUTORIAL02#0",
+   "speaker": "Morgana",
+   "en": "Mementos is an amalgamation of the[n]people's cognition. This can affect the[n]environment, as well as the structure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ACCIDENT_TUTORIAL02#1",
+   "speaker": "Morgana",
+   "en": "It hasn't been like this in a long time,[n]but it seems like the darkness won't be[n]the only thing we'll have to deal with.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ACCIDENT_TUTORIAL03#0",
+   "speaker": "Ann",
+   "en": "You mean we have even more stuff[n]to worry about?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ACCIDENT_TUTORIAL04#0",
+   "speaker": "Morgana",
+   "en": "In a way... I can sense rare Shadows all[n]around us.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ACCIDENT_TUTORIAL04#1",
+   "speaker": "Morgana",
+   "en": "We should explore this area for a bit—[n]despite the darkness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ACCIDENT_TUTORIAL05#0",
+   "speaker": "Ryuji",
+   "en": "I don't really wanna stick around here,[n]but if you say so, then I guess we can go[n]for it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ACCIDENT_TUTORIAL05#1",
+   "speaker": "Ryuji",
+   "en": "Joker, just... drive extra safe or something!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_AFTER_FLOOR_NE#0",
+   "speaker": "Morgana",
+   "en": "The target is coming from the next area!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_AFTER_FLOOR_NE#1",
+   "speaker": "Morgana",
+   "en": "Let's go check that area out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_AFTER_FLOOR_NE_2#0",
+   "speaker": "Morgana",
+   "en": "The target is close.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_AFTER_FLOOR_NE_2#1",
+   "speaker": "Morgana",
+   "en": "It feels like it's in an area a little bit[n]further past here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_AFTER_FLOOR_MI#0",
+   "speaker": "Morgana",
+   "en": "It's still far though. They must be deeper[n]inside.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_AFTER_FLOOR_FA#0",
+   "speaker": "Morgana",
+   "en": "The target's presence is very weak.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_AFTER_FLOOR_FA#1",
+   "speaker": "Morgana",
+   "en": "Much deeper than where we are now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_AFTER_FLOOR_NE_3#0",
+   "speaker": "Morgana",
+   "en": "The target's close!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_AFTER_FLOOR_NE_3#1",
+   "speaker": "Morgana",
+   "en": "The area right before! Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_AFTER_FLOOR_NE_4#0",
+   "speaker": "Morgana",
+   "en": "The target's close.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_AFTER_FLOOR_NE_4#1",
+   "speaker": "Morgana",
+   "en": "If we go a little back towards where we[n]came from, we might be able to reach its[n]location.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_AFTER_FLOOR_MI_2#0",
+   "speaker": "Morgana",
+   "en": "The target is still far away... Let's go back[n]towards where we came from.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_AFTER_FLOOR_FA_2#0",
+   "speaker": "Morgana",
+   "en": "The target's presence is very weak.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QUEST_AFTER_FLOOR_FA_2#1",
+   "speaker": "Morgana",
+   "en": "It feels like it's way back from where we[n]came from...",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

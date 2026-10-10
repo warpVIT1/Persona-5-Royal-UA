@@ -1,0 +1,418 @@
+{
+ "file": "EN/FIELD/KF_EVENT/NPC/ENPC702_090_00.BF",
+ "entries": [
+  {
+   "id": "YESNO_SEL#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_000_000_00#0",
+   "speaker": null,
+   "en": "Dummy",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_A_001_00#0",
+   "speaker": "Unfriendly Promoter",
+   "en": "...What do you want? We don't let[n]couples come in together.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CATCH_A_002_00#0",
+   "speaker": null,
+   "en": "I'm looking for someone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CATCH_A_002_00#1",
+   "speaker": null,
+   "en": "Do you know a Tsukasa?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_A_003_00#0",
+   "speaker": "Unfriendly Promoter",
+   "en": "Tch...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_A_003_00#1",
+   "speaker": "Unfriendly Promoter",
+   "en": "You wanna sabotage our business?[n]I'd gladly talk some more out[n]back if you want.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_A_004_00#0",
+   "speaker": "Makoto",
+   "en": "W-We should get out of here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_A_004_00#1",
+   "speaker": "Makoto",
+   "en": "I think it would be better if we asked[n]someone else...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_A_101_00#0",
+   "speaker": "Unfriendly Promoter",
+   "en": "Hm? You got more for me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_B_001_00#0",
+   "speaker": "Friendly Promoter",
+   "en": "Hey, man. I've got a great club for you.[n]We even let couples in!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_B_001_00#1",
+   "speaker": "Friendly Promoter",
+   "en": "Wait... are you high schoolers?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CATCH_B_002_00#0",
+   "speaker": null,
+   "en": "You caught me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CATCH_B_002_00#1",
+   "speaker": null,
+   "en": "Is that what we look like?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_B_003_00#0",
+   "speaker": "Friendly Promoter",
+   "en": "Heh, what a good joke. You're exactly[n]the kind of person we like. Come right[n]this way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CATCH_B_004_00#0",
+   "speaker": null,
+   "en": "Do you know a Tsukasa?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CATCH_B_004_00#1",
+   "speaker": null,
+   "en": "I'm looking for a host.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_B_005_00#0",
+   "speaker": "Friendly Promoter",
+   "en": "Tsukasa? Ohhh, is he a host or something?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_B_005_00#1",
+   "speaker": "Friendly Promoter",
+   "en": "Sorry, but I'd never promote for[n]a host club. Are you pranking me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_B_005_01#0",
+   "speaker": "Friendly Promoter",
+   "en": "A host? Sorry, but I'd never promote[n]for a host club.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_B_005_01#1",
+   "speaker": "Friendly Promoter",
+   "en": "You into that kinda stuff?[n]Or is this some sorta prank?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_B_006_00#0",
+   "speaker": "Friendly Promoter",
+   "en": "Come on, I can't talk to you forever.[n]You understand?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_B_007_00#0",
+   "speaker": "Makoto",
+   "en": "...I take it he doesn't know anything.[n]We should try to look elsewhere.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_B_101_00#0",
+   "speaker": "Friendly Promoter",
+   "en": "It's not nice to mock people, man.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_C_001_00#0",
+   "speaker": "Light-Hearted Promoter",
+   "en": "Hey, you already have a shop in mind?[n]We have tons of discounts, so it's great[n]value!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_C_001_00#1",
+   "speaker": "Light-Hearted Promoter",
+   "en": "For you, the glasses discount, the curly[n]hair discount, the slouch discount,[n]the couples discount...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CATCH_C_002_00#0",
+   "speaker": null,
+   "en": "Do you know a Tsukasa?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CATCH_C_002_00#1",
+   "speaker": null,
+   "en": "I'm looking for a host.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_C_003_00#0",
+   "speaker": "Light-Hearted Promoter",
+   "en": "Tsukasa? Sorry, we don't have[n]a Tsukasa discount.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_C_003_01#0",
+   "speaker": "Light-Hearted Promoter",
+   "en": "A host? Sorry, we don't have[n]a host discount.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_C_004_00#0",
+   "speaker": "Light-Hearted Promoter",
+   "en": "Mannn, it took a ton of effort to answer[n]your question. You'll come to my club[n]to make up for it, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_C_004_00#1",
+   "speaker": "Light-Hearted Promoter",
+   "en": "C'monnn, you'll get tons of discounts!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_C_005_00#0",
+   "speaker": "Makoto",
+   "en": "Don't follow him! We need to work!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_C_005_00#1",
+   "speaker": "Makoto",
+   "en": "...I'm a little worried though.[n]I wonder if anyone actually has info...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_C_101_00#0",
+   "speaker": "Light-Hearted Promoter",
+   "en": "Come to my club! You'll get all[n]sorts of discounts!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_D_001_00#0",
+   "speaker": "Irritated Promoter",
+   "en": "Hm? How 'bout you come to our club[n]and we show you a good time?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_D_001_00#1",
+   "speaker": "Irritated Promoter",
+   "en": "...You have money though?[n]You seem like a poor young kid.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CATCH_D_002_00#0",
+   "speaker": null,
+   "en": "I'm looking for a host.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CATCH_D_002_00#1",
+   "speaker": null,
+   "en": "Do you know a Tsukasa?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_D_003_00#0",
+   "speaker": "Irritated Promoter",
+   "en": "A host...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_D_003_00#1",
+   "speaker": "Irritated Promoter",
+   "en": "The fuck? Don't talk about hosts[n]in front of me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_D_004_00#0",
+   "speaker": "Makoto",
+   "en": "L-Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_D_004_00#1",
+   "speaker": "Makoto",
+   "en": "Although... it seems like there's a story[n]behind that hate. Let's try asking him[n]another way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_D_101_00#0",
+   "speaker": "Irritated Promoter",
+   "en": "Hm? You still got something to say to me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_D_103_00#0",
+   "speaker": "Irritated Promoter",
+   "en": "Huh? You really wanna pick a fight?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_D_103_00#1",
+   "speaker": "Irritated Promoter",
+   "en": "Didn't I tell you not to talk to me[n]about goddamn hosts!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_D_104_00#0",
+   "speaker": "Makoto",
+   "en": "L-Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_D_104_00#1",
+   "speaker": "Makoto",
+   "en": "Although... it seems like there's a story[n]behind that hate. Let's try asking him[n]another way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_D_003_01#0",
+   "speaker": "Irritated Promoter",
+   "en": "Tsukasa?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_D_003_01#1",
+   "speaker": "Irritated Promoter",
+   "en": "You bastard... You a friend of his!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CATCH_D_005_00#0",
+   "speaker": null,
+   "en": "I'm not.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CATCH_D_005_00#1",
+   "speaker": null,
+   "en": "So you know him?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_D_006_00#0",
+   "speaker": "Irritated Promoter",
+   "en": "He's usin' the sake bottle trick...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_D_006_00#1",
+   "speaker": "Irritated Promoter",
+   "en": "Lemme make it clear for you:[n]Get that girl outta there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_D_006_00#2",
+   "speaker": "Irritated Promoter",
+   "en": "Tsukasa's known for wreckin' lives.[n]He \"breaks a sake bottle,\" then ends[n]up sellin' the girls to pay it back.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_D_006_00#3",
+   "speaker": "Irritated Promoter",
+   "en": "Same thing happened to one[n]of my friends... Dammit!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_D_007_00#0",
+   "speaker": "Makoto",
+   "en": "We have proof now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CATCH_D_007_00#1",
+   "speaker": "Makoto",
+   "en": "...Come on, it's almost time for Eiko's[n]shift to end. Let's wait for her in front[n]of the shop.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

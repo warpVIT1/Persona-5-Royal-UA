@@ -1,0 +1,586 @@
+{
+ "file": "EN/EVENT_DATA/MESSAGE/E200/E280_201.BMD",
+ "entries": [
+  {
+   "id": "MSG_000_0_0#0",
+   "speaker": "Makoto",
+   "en": "A woman was threatening Boss?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_0_0#0",
+   "speaker": "Morgana",
+   "en": "Yeah, she was going on about domestic[n]abuse and taking the case to court[n]and stuff...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_002_0_0#0",
+   "speaker": "Makoto",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_0_0#0",
+   "speaker": "Ryuji",
+   "en": "What's up?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_004_0_0#0",
+   "speaker": "Makoto",
+   "en": "It's nothing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_004_5_0#0",
+   "speaker": "Makoto",
+   "en": "So to summarize what you told us,[n]Futaba is Boss's daughter, and he's[n]abusing her?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_004_5_0#1",
+   "speaker": "Makoto",
+   "en": "I don't know him very well... Is he really[n]the kind of person who would do that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_005_0_0#0",
+   "speaker": null,
+   "en": "There's no way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_005_0_0#1",
+   "speaker": null,
+   "en": "Maybe...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_005_0_0#2",
+   "speaker": null,
+   "en": "I don't know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_006_0_0#0",
+   "speaker": "Makoto",
+   "en": "I would like to believe so as well, but[n]we don't have any conclusive evidence,[n]do we?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_007_0_0#0",
+   "speaker": "Yusuke",
+   "en": "I don't want to doubt, but Alibaba did[n]hack [fName]'s phone to ask for[n]the Phantom Thieves' help.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_008_0_0#0",
+   "speaker": "Yusuke",
+   "en": "It's difficult to say. Sometimes the person[n]on the outside is much different from[n]the one within.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_009_0_0#0",
+   "speaker": "Morgana",
+   "en": "Is it Alibaba!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_0#0",
+   "speaker": "Alibaba",
+   "en": "I've given you a calling card and[n]told you the target's name. You[n]should be ready for this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_2_0#0",
+   "speaker": "Alibaba",
+   "en": "Why aren't you doing it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_4_0#0",
+   "speaker": "Alibaba",
+   "en": "I told you I'd help you if[n]you stole her heart. What[n]seems to be the hold up?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_6_0#0",
+   "speaker": "Alibaba",
+   "en": "I also said I'd report your[n]identity to the police if[n]you didn't help me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_8_0#0",
+   "speaker": "Alibaba",
+   "en": "Are you okay with that?[n]I'm serious here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_011_0_0#0",
+   "speaker": "Yusuke",
+   "en": "What a selfish person.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_012_0_0#0",
+   "speaker": "Makoto",
+   "en": "Well, he does have information[n]on us...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_013_0_0#0",
+   "speaker": "Ryuji",
+   "en": "Anyways, this Futaba he's talking[n]about have a Palace? If so, we'll[n]need keywords to get in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_013_0_0#1",
+   "speaker": "Ryuji",
+   "en": "Try messaging him about 'em.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_013_5_0#0",
+   "speaker": null,
+   "en": "Does she have a Palace?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_013_5_0#1",
+   "speaker": null,
+   "en": "Tell me her keywords.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_014_0_0#0",
+   "speaker": "Alibaba",
+   "en": "Palace?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_014_1_0#0",
+   "speaker": "Alibaba",
+   "en": "What are you talking about[n]palaces for? That has nothing[n]to do with this conversation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_014_3_0#0",
+   "speaker": "Alibaba",
+   "en": "Keywords?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_014_4_0#0",
+   "speaker": "Alibaba",
+   "en": "What are you talking about?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_014_6_0#0",
+   "speaker": "Alibaba",
+   "en": "Are you just saying random[n]stuff to dodge the issue?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_015_0_0#0",
+   "speaker": "Ann",
+   "en": "What're we supposed to do[n]about this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_016_0_0#0",
+   "speaker": "Morgana",
+   "en": "We'd be able to figure out[n]Alibaba's identity if we[n]could just meet with him...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_016_0_0#1",
+   "speaker": "Morgana",
+   "en": "Try asking him if there's[n]any way we could meet up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_016_5_0#0",
+   "speaker": null,
+   "en": "I want to meet you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_016_5_0#1",
+   "speaker": null,
+   "en": "Let's meet somewhere.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_017_0_0#0",
+   "speaker": "Alibaba",
+   "en": "Meet? With me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_017_3_0#0",
+   "speaker": "Alibaba",
+   "en": "That will be difficult.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_017_5_0#0",
+   "speaker": "Alibaba",
+   "en": "I have reasons for not[n]being able to go out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_017_7_0#0",
+   "speaker": "Alibaba",
+   "en": "That's why I'm contacting[n]you like this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_0_0#0",
+   "speaker": "Morgana",
+   "en": "He can't go out?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_0_0#0",
+   "speaker": "Alibaba",
+   "en": "Wait. I get it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_1_0#0",
+   "speaker": "Alibaba",
+   "en": "You steal people's hearts[n]directly... That might make[n]things difficult.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_2_0#0",
+   "speaker": "Alibaba",
+   "en": "Extremely difficult.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_3_0#0",
+   "speaker": "Alibaba",
+   "en": "Wait.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_4_0#0",
+   "speaker": "Alibaba",
+   "en": "I'm thinking...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_5_0#0",
+   "speaker": "Alibaba",
+   "en": "OK. It's a shame, but I'm[n]calling this deal off. Stop[n]looking into Futaba Sakura.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_6_0#0",
+   "speaker": "Alibaba",
+   "en": "Forget this ever happened.[n]I won't report you to the[n]police either, don't worry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_7_0#0",
+   "speaker": "Alibaba",
+   "en": "Sorry for taking your time.[n]Now if you'll excuse me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_020_0_0#0",
+   "speaker": null,
+   "en": "Wait a second.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_020_0_0#1",
+   "speaker": null,
+   "en": "Who are you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_021_0_0#0",
+   "speaker": "Alibaba",
+   "en": "I said the deal's off!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_021_0_0#1",
+   "speaker": "Alibaba",
+   "en": "We're never going to speak[n]again. Don't expect me to[n]contact you anymore either.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_021_5_0#0",
+   "speaker": null,
+   "en": "We're not done here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_021_5_0#1",
+   "speaker": null,
+   "en": "Why are you doing this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_022_0_0#0",
+   "speaker": null,
+   "en": "I can't find the account to send[n]a response to. All I get back is an[n]error message...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_023_0_0#0",
+   "speaker": "Ann",
+   "en": "Huh...? Did he just shut the whole[n]operation down?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_024_0_0#0",
+   "speaker": "Morgana",
+   "en": "This doesn't make any sense...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_024_0_0#1",
+   "speaker": "Morgana",
+   "en": "Not only can Alibaba not go out, but[n]he won't let us meet Futaba either?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_026_0_0#0",
+   "speaker": "Ryuji",
+   "en": "Well, it's none of our business now.[n]We can't contact him anymore.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_027_0_0#0",
+   "speaker": "Ann",
+   "en": "But... what do we do about Medjed?[n]We won't be able to get Alibaba to[n]help us with them now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_028_0_0#0",
+   "speaker": "Ryuji",
+   "en": "Maybe they were just prankin' us.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_028_0_0#1",
+   "speaker": "Ryuji",
+   "en": "They made that huge declaration, but[n]they ain't done nothing since. I bet we[n]got 'em freaked out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_029_0_0#0",
+   "speaker": "Morgana",
+   "en": "You mean they backed out because[n]they're afraid we'll change their hearts?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_030_0_0#0",
+   "speaker": "Ryuji",
+   "en": "Yup. And now it'd just make 'em look[n]lame if they came out and apologized!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_031_0_0#0",
+   "speaker": "Makoto",
+   "en": "But—",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_032_0_0#0",
+   "speaker": "Ryuji",
+   "en": "I guess with Alibaba and Medjed outta[n]the picture, can we just say this case[n]is closed?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_032_5_0#0",
+   "speaker": "Makoto",
+   "en": "...You do have a point.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_032_5_0#1",
+   "speaker": "Makoto",
+   "en": "I guess it is safe for us to relax a little.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_033_0_0#0",
+   "speaker": "Ryuji",
+   "en": "Oh yeah, remember Kaneshiro's[n]Treasure? Prepare to have your[n]minds blown!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_033_0_0#1",
+   "speaker": "Ryuji",
+   "en": "We got one hundred and fifty thousand[n]yen out of it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_034_0_0#0",
+   "speaker": "Ann",
+   "en": "That's awesome! We can really go all out[n]with that kinda money!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_035_0_0#0",
+   "speaker": "Ryuji",
+   "en": "Yeah! Let's make up for what happened[n]at the fireworks festival!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_035_0_0#1",
+   "speaker": "Ryuji",
+   "en": "We gotta go eat something fittin' for the[n]Phantom Thieves' worldwide debut!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_036_0_0#0",
+   "speaker": "Ann",
+   "en": "Where would be good?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_037_0_0#0",
+   "speaker": "Ryuji",
+   "en": "Ooh, how 'bout sushi!? I could really go[n]for some eel too!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_038_0_0#0",
+   "speaker": "Yusuke",
+   "en": "The best method is to fill yourself on[n]ginger before beginning to eat sushi.[n]That is my master technique.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_039_0_0#0",
+   "speaker": "Makoto",
+   "en": "You don't need to do that this time.[n]Actually, definitely don't do it, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_040_0_0#0",
+   "speaker": "Morgana",
+   "en": "I'm all for sushi! You're okay with that[n]too, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_041_0_0#0",
+   "speaker": null,
+   "en": "Sushi's fine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_041_0_0#1",
+   "speaker": null,
+   "en": "Any other ideas?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_042_0_0#0",
+   "speaker": "Morgana",
+   "en": "Then it's decided.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_043_0_0#0",
+   "speaker": "Morgana",
+   "en": "Nope. I want sushi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_045_0_0#0",
+   "speaker": "Ryuji",
+   "en": "All right! We'll go tomorrow night!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

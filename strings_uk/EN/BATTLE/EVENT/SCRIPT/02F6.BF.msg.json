@@ -1,0 +1,313 @@
+{
+ "file": "EN/BATTLE/EVENT/SCRIPT/02F6.BF",
+ "entries": [
+  {
+   "id": "MSG_BTL_START_000#0",
+   "speaker": "Shadow Oi",
+   "en": "There's no way I'd lose to an otaku![n]I don't lose 'cause I'm not an otaku!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_START_001#0",
+   "speaker": "Futaba",
+   "en": "This guy's not making any sense...[n]Let's try to calm him down, Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_DIA_BF__000_000#0",
+   "speaker": "Shadow Oi",
+   "en": "I won't lose to an otaku!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PRETALK_000_000#0",
+   "speaker": "Shadow Oi",
+   "en": "Hold on a sec! Why am I the one getting[n]hurt here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PRETALK_000_000#1",
+   "speaker": "Shadow Oi",
+   "en": "Let's talk about it, seriously!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PRETALK_001_000#0",
+   "speaker": "Futaba",
+   "en": "Hey Joker, maybe we're being too nice,[n]but I think we should try talking to him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PRETALK_001_000#1",
+   "speaker": "Futaba",
+   "en": "So, here's the stuff we know about him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PRETALK_002_000#0",
+   "speaker": "Futaba",
+   "en": "\"He's got a friend at Akihabara,\"[n]\"He seemed most happy when he[n]was nerding out,\" and...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PRETALK_002_000#1",
+   "speaker": "Futaba",
+   "en": "\"His parents got upset at him for[n]failing his entrance exam\"...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PRETALK_003_000#0",
+   "speaker": "Futaba",
+   "en": "For some reason, I can't just leave[n]him behind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SYS_MSG#0",
+   "speaker": null,
+   "en": "By choosing the correct answers,[n]you will be able to change the[n]target's heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SYS_MSG#1",
+   "speaker": null,
+   "en": "Use the information you[n]have obtained to respond[n]successfully!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP00_000_000#0",
+   "speaker": "Shadow Oi",
+   "en": "All right, first of all... I want you guys[n]to understand that I'm not an otaku.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP01_000#0",
+   "speaker": null,
+   "en": "You're right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP01_000#1",
+   "speaker": null,
+   "en": "You have a friend in Akiba.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_002_000#0",
+   "speaker": "Shadow Oi",
+   "en": "Right!? See? I'm not doing anything[n]wrong!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_FAILED#0",
+   "speaker": "Futaba",
+   "en": "Crap! Looks like we made it worse![n]It's prolly best if we chose what you[n]say wisely!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_001_000#0",
+   "speaker": "Shadow Oi",
+   "en": "What friend...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_001_000#1",
+   "speaker": "Shadow Oi",
+   "en": "I've got no friend in Akiba! Like I said,[n]I'm not an otaku!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_001_001#0",
+   "speaker": "Futaba",
+   "en": "Even after he found out what you were[n]doing, he insisted that you weren't the[n]type who could do such a thing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_001_001#1",
+   "speaker": "Futaba",
+   "en": "If that isn't a friend, then what is?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_001_002#0",
+   "speaker": "Shadow Oi",
+   "en": "He said that...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_001_002#1",
+   "speaker": "Shadow Oi",
+   "en": "But I...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_000_000#0",
+   "speaker": "Shadow Oi",
+   "en": "Otakus need to learn their lesson.[n]That's why I did what I did.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_000_000#1",
+   "speaker": "Shadow Oi",
+   "en": "'Cause I don't wanna get hurt...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP02_000#0",
+   "speaker": null,
+   "en": "And your entrance exam?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP02_000#1",
+   "speaker": null,
+   "en": "You are in pain right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_002_000#0",
+   "speaker": "Shadow Oi",
+   "en": "Sh-Shut up! It's not painful at all!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_002_000#1",
+   "speaker": "Shadow Oi",
+   "en": "I can keep going!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_001_000#0",
+   "speaker": "Shadow Oi",
+   "en": "Wha...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_001_000#1",
+   "speaker": "Shadow Oi",
+   "en": "How the hell do you know about that!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_001_001#0",
+   "speaker": "Futaba",
+   "en": "We did some research on ya.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_001_001#1",
+   "speaker": "Futaba",
+   "en": "You went through some rough times[n]after your parents found out about[n]your exams, didn't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_001_001#2",
+   "speaker": "Futaba",
+   "en": "Don't you think it's wrong to blame[n]that solely on your nerdy hobbies?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_001_002#0",
+   "speaker": "Shadow Oi",
+   "en": "Just shut up! There's nothing fun about[n]being an otaku!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP03_000#0",
+   "speaker": null,
+   "en": "Not even getting to nerd out?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP03_000#1",
+   "speaker": null,
+   "en": "What about Maid Cafés?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_001_000#0",
+   "speaker": "Shadow Oi",
+   "en": "Well...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_001_001#0",
+   "speaker": "Futaba",
+   "en": "There must've been a lotta things that[n]were fun when you were an otaku.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_001_002#0",
+   "speaker": "Futaba",
+   "en": "C'mon, Joker. Tell him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP04_000#0",
+   "speaker": null,
+   "en": "Your friend's waiting for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP04_000#1",
+   "speaker": null,
+   "en": "Don't betray your friend.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_END_000#0",
+   "speaker": "Shadow Oi",
+   "en": "My... friends...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_OFF#0",
+   "speaker": "Shadow Oi",
+   "en": "You can't talk to him",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

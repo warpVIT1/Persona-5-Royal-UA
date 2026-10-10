@@ -1,0 +1,187 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR3020_020_000.BF",
+ "entries": [
+  {
+   "id": "CRAFTWORK_HELP#0",
+   "speaker": "Morgana",
+   "en": "I'll provide the materials this time.[n]Try making a [f 2 5 3 9999 0].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CRAFTWORK_START#0",
+   "speaker": "Morgana",
+   "en": "Don't think too hard about it.[n]You'll get the hang of it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ToolMake_START_Gogo#0",
+   "speaker": "Morgana",
+   "en": "Since you don't have anything to do[n]today, you should have more time to[n]make tools than usual.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ToolMake_START_BadWe#0",
+   "speaker": "Morgana",
+   "en": "The weather may not be great, but it's[n]easier to focus on making infiltration[n]tools when you're stuck inside.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TOOLWIN_MAKE_END_FIRST#0",
+   "speaker": "Morgana",
+   "en": "Great! We should be able to use this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TOOLWIN_MAKE_ONEMORE#0",
+   "speaker": "Morgana",
+   "en": "At this pace, you should be able to make[n]one more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TOOLWIN_MAKE2_ONEMORE#0",
+   "speaker": "Morgana",
+   "en": "You can still make more. What do you[n]plan to do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TOOLWIN_MAKE3_ONEMORE#0",
+   "speaker": "Morgana",
+   "en": "You did a great job on that one! You're[n]getting the hang of it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TOOLWIN_MAKE3_ONEMORE#1",
+   "speaker": "Morgana",
+   "en": "Aren't you getting tired? Do you want to[n]keep going?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TOOLWIN_CONTINUE_SEL#0",
+   "speaker": null,
+   "en": "Continue",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TOOLWIN_CONTINUE_SEL#1",
+   "speaker": null,
+   "en": "Stop here",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_Message_end#0",
+   "speaker": "Morgana",
+   "en": "You're definitely getting better. I can tell[n]just by watching you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_Message_end_SP#0",
+   "speaker": "Morgana",
+   "en": "I saw that. The way you used your hands...[n]You did great!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_LAST_Message_end#0",
+   "speaker": null,
+   "en": "I think I'm really[n]getting better at this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_Message_0417#0",
+   "speaker": "Morgana",
+   "en": "We should be ready now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_Message_0417#1",
+   "speaker": "Morgana",
+   "en": "We're heading into the Palace tomorrow.[n]Let's get some sleep.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_Message#0",
+   "speaker": "Morgana",
+   "en": "Okay, let's go to bed!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_Message_Hiru#0",
+   "speaker": "Morgana",
+   "en": "You're getting tired, right? Let's take a rest.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_LAST_Message#0",
+   "speaker": null,
+   "en": "It's gotten late...[n]I should take a break.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_LAST_Message_Hiru#0",
+   "speaker": null,
+   "en": "I should take a break...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KawakamiWorkInfo#0",
+   "speaker": "Morgana",
+   "en": "You could ask Kawakami to make one if[n]you want. Though she can probably only[n]make one type.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KawakamiWorkInfo_Day#0",
+   "speaker": "Morgana",
+   "en": "You can only ask Kawakami to help you at[n]night. You have to plan things out before[n]you act, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DOUGUDUKURI_PLAYPARA#0",
+   "speaker": "Morgana",
+   "en": "You could probably make [var 0].[n]Good luck.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DOUGUDUKURI_PLAYPARA_2#0",
+   "speaker": "Morgana",
+   "en": "You read that book and got the hang[n]of it now, so you could probably make[n][var 0]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DOUGUDUKURI_PLAYPARA_3#0",
+   "speaker": "Morgana",
+   "en": "Thanks to the tools you bought in[n]Akihabara, you could probably make[n][var 0]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DOUGUDUKURI_PLAYPARA_4#0",
+   "speaker": "Morgana",
+   "en": "You read the book and you bought[n]the tools! You could probably make[n][var 0] now!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

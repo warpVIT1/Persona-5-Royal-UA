@@ -1,0 +1,1405 @@
+{
+ "file": "EN/EVENT_DATA/SCRIPT/E700/E762_101.BF",
+ "entries": [
+  {
+   "id": "MSG_007_0_0#0",
+   "speaker": "Manager",
+   "en": "Oh, you're the new part-timer, right?[n]I've been expecting you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_007_0_0#1",
+   "speaker": "Manager",
+   "en": "No need to introduce yourself. I actually[n]need you to start working right away.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_007_0_0#2",
+   "speaker": "Manager",
+   "en": "Do you have any questions about[n]the job?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_007_0_0_2nd#0",
+   "speaker": "Manager",
+   "en": "Anything else?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_008_0_0#0",
+   "speaker": null,
+   "en": "What does the work entail?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_008_0_0#1",
+   "speaker": null,
+   "en": "Are there any other employees?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_008_0_0#2",
+   "speaker": null,
+   "en": "No, not really.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_009_0_0#0",
+   "speaker": "Manager",
+   "en": "Take customers' orders, prep them,[n]serve them, ring them up, and then[n]clean the store.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_009_0_0#1",
+   "speaker": "Manager",
+   "en": "The meals are all ready-made, so[n]it should be simple. Just make sure[n]you're nice to the customers, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_0#0",
+   "speaker": "Manager",
+   "en": "Not quite. Our budget's been cut[n]despite being short-staffed... so[n]you'll have to do everything alone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_0#1",
+   "speaker": "Manager",
+   "en": "You're a spry young dude, right?[n]You'll be fine. I'll pay you more[n]to make up for the extra work!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_012_0_0#0",
+   "speaker": "Morgana",
+   "en": "This job is ludicrous. You have to do[n]everything all by yourself from the[n]very beginning?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_012_0_0#1",
+   "speaker": "Morgana",
+   "en": "Oh well. Just give it your best shot,[n]I guess. I'll be cheering you on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_017_0_0#0",
+   "speaker": "Morgana",
+   "en": "Hey, there are dirty plates still left[n]on the table.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_017_0_0#1",
+   "speaker": "Morgana",
+   "en": "And there are customers in front[n]waiting to pay... Are you going to[n]be okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_0_0#0",
+   "speaker": "Morgana",
+   "en": "That customer in front of you is waiting[n]to pay. Ooh, that is one angry-looking[n]face...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_0_0#1",
+   "speaker": "Morgana",
+   "en": "Hey, someone wants to change their[n]order. Add an egg? They should have[n]told us earlier.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_0_0#0",
+   "speaker": "Morgana",
+   "en": "Hey, the meat's done. You'll burn it[n]if you let it cook any longer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_0_0#1",
+   "speaker": "Morgana",
+   "en": "That customer there wants to order[n]takeout. Who has time to prepare that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_020_0_0#0",
+   "speaker": "Manager",
+   "en": "All right, good work. You can leave now[n]since it's the end of your shift.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_020_0_0#1",
+   "speaker": "Manager",
+   "en": "This is your pay today. Thank you.[n]Well, I hope you can keep it up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_021_0_0#0",
+   "speaker": "Morgana",
+   "en": "Th-That was so hard... This job is[n]so demanding...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_021_0_0#1",
+   "speaker": "Morgana",
+   "en": "But you still managed all those orders[n]by yourself. If you ask me, you were[n]pretty proficient.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_022_0_0#0",
+   "speaker": "Morgana",
+   "en": "I don't blame you for looking exhausted...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_022_0_0#1",
+   "speaker": "Morgana",
+   "en": "But you still managed all those orders[n]by yourself. If you ask me, you were[n]pretty proficient.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_023_0_0#0",
+   "speaker": "Morgana",
+   "en": "A-Are you okay? You were all alone[n]out there this whole time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_023_0_0#1",
+   "speaker": "Morgana",
+   "en": "But you still managed all those orders[n]by yourself. If you ask me, you were[n]pretty proficient.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_025_0_0#0",
+   "speaker": "Morgana",
+   "en": "Come on, let's leave.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_027_0_0#0",
+   "speaker": "Morgana",
+   "en": "A-All right. Stay calm and remember[n]the orders!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_028_0_0#0",
+   "speaker": "Morgana",
+   "en": "What did the first person order?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_028_1_0#0",
+   "speaker": "Morgana",
+   "en": "Yes, that's right!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_028_2_0#0",
+   "speaker": "Morgana",
+   "en": "What did the second person order?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_028_3_0#0",
+   "speaker": "Morgana",
+   "en": "Yeah, they did say that!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_028_4_0#0",
+   "speaker": "Morgana",
+   "en": "What about the third customer?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_028_5_0#0",
+   "speaker": "Morgana",
+   "en": "Yep. That's what I heard, too!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_028_6_0#0",
+   "speaker": "Morgana",
+   "en": "What did the fourth customer order?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_028_7_0#0",
+   "speaker": "Morgana",
+   "en": "Yeah, you're right! That was the order!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_029_0_0#0",
+   "speaker": "Morgana",
+   "en": "H-Hey, that's not right! It was a medium[n]beef bowl.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_030_0_0#0",
+   "speaker": "Morgana",
+   "en": "Hey, wait a second. Didn't they want a[n]large beef bowl?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_031_0_0#0",
+   "speaker": "Morgana",
+   "en": "No, wait! It was a medium barbecue[n]bowl...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_032_0_0#0",
+   "speaker": "Morgana",
+   "en": "Really!? I thought they wanted a large[n]barbecue bowl.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_033_0_0#0",
+   "speaker": "Morgana",
+   "en": "Hmm? I thought it was a medium curry[n]bowl.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_034_0_0#0",
+   "speaker": "Morgana",
+   "en": "That's not right. They ordered a large[n]curry bowl.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_035_0_0#0",
+   "speaker": "Morgana",
+   "en": "No, that's not it. It was a medium natto[n]bowl.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_036_0_0#0",
+   "speaker": "Morgana",
+   "en": "No, that's not right, is it? It was a large[n]natto bowl.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_037_0_0#0",
+   "speaker": "Morgana",
+   "en": "No, it was a medium hui guo rou bowl!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_038_0_0#0",
+   "speaker": "Morgana",
+   "en": "No, that's not right. They wanted a large[n]hui guo rou bowl!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_046_0_0#0",
+   "speaker": "Morgana",
+   "en": "All right, now you just have to make[n]everything and serve them!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_047_0_0#0",
+   "speaker": "Morgana",
+   "en": "Uh-oh, that customer's been waiting[n]a while! Hurry!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_048_0_0#0",
+   "speaker": "Morgana",
+   "en": "This is bad. We're making customers[n]wait. Pick up the pace!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_049_0_0#0",
+   "speaker": "Manager",
+   "en": "Whoa, good work!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_049_0_0#1",
+   "speaker": "Manager",
+   "en": "It seems there were a lot of customers[n]today, but you handled it well on your[n]own!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_049_0_0#2",
+   "speaker": "Manager",
+   "en": "I paid you a little extra today. Good[n]work, keep it up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_049_0_1#0",
+   "speaker": "Manager",
+   "en": "Whoa, good work!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_049_0_1#1",
+   "speaker": "Manager",
+   "en": "It seems there were a lot of customers[n]today, but you handled it well on your[n]own!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_049_0_1#2",
+   "speaker": "Manager",
+   "en": "We were as crowded today as we usually[n]get on [clr 2]Yakiniku Day[clr 27]... I wonder if there[n]was some event happening nearby.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_049_0_1#3",
+   "speaker": "Manager",
+   "en": "I paid you a little extra today. Good[n]work, keep it up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_049_0_2#0",
+   "speaker": "Manager",
+   "en": "Whoa, good work!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_049_0_2#1",
+   "speaker": "Manager",
+   "en": "It seems there were a lot of customers[n]today, but you handled it well on your[n]own!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_049_0_2#2",
+   "speaker": "Manager",
+   "en": "The thing is, we consistently get a lot of[n]customers on [clr 2]Yakiniku Day[clr 27], so... no one[n]wants to work that day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_049_0_2#3",
+   "speaker": "Manager",
+   "en": "I paid you a little extra today. Good[n]work, keep it up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_050_0_0#0",
+   "speaker": "Morgana",
+   "en": "You were amazing today, dealing with[n]so many orders!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_050_0_0#1",
+   "speaker": "Morgana",
+   "en": "I'm sure it was rough, but I think you[n]handled it all quite proficiently!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051_0_0#0",
+   "speaker": "Manager",
+   "en": "All right, good work. There were a lot[n]of customers today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051_0_0#1",
+   "speaker": "Manager",
+   "en": "I'm sure it was a lot of work, but you[n]did well handling it all on your own.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051_0_0#2",
+   "speaker": "Manager",
+   "en": "It's not much, but I paid you a little more[n]than usual today. Keep up the good work!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051_0_1#0",
+   "speaker": "Manager",
+   "en": "All right, good work. There were a lot[n]of customers today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051_0_1#1",
+   "speaker": "Manager",
+   "en": "I'm sure it was a lot of work, but you[n]did well handling it all on your own.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051_0_1#2",
+   "speaker": "Manager",
+   "en": "It's not like today was [clr 2]Yakiniku Day[clr 27] though.[n]I wonder if there was an event happening[n]nearby.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051_0_1#3",
+   "speaker": "Manager",
+   "en": "It's not much, but I paid you a little more[n]than usual today. Keep up the good work!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051_0_2#0",
+   "speaker": "Manager",
+   "en": "All right, good work. There were a lot[n]of customers today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051_0_2#1",
+   "speaker": "Manager",
+   "en": "I'm sure it was a lot of work, but you[n]did well handling it all on your own.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051_0_2#2",
+   "speaker": "Manager",
+   "en": "The thing is, we consistently get a lot of[n]customers on [clr 2]Yakiniku Day[clr 27], so... no one[n]wants to work that day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051_0_2#3",
+   "speaker": "Manager",
+   "en": "It's not much, but I paid you a little more[n]than usual today. Keep up the good work!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_052_0_0#0",
+   "speaker": "Morgana",
+   "en": "Man... The manager really knows how[n]to butter you up. You did well all by[n]yourself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_052_0_0#1",
+   "speaker": "Morgana",
+   "en": "You did make some mistakes, but it was[n]good [stIcon 2][clr 26][stLabel 2][clr 27] training, wasn't it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_0_0#0",
+   "speaker": "Manager",
+   "en": "All right, good work. There were a lot[n]of customers today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_0_0#1",
+   "speaker": "Manager",
+   "en": "It's not always like this, so I hope you[n]can come back soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_0_1#0",
+   "speaker": "Manager",
+   "en": "All right, good work. There were a lot[n]of customers today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_0_1#1",
+   "speaker": "Manager",
+   "en": "It's not like today was [clr 2]Yakiniku Day[clr 27] though.[n]I wonder if there was an event happening[n]nearby.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_0_1#2",
+   "speaker": "Manager",
+   "en": "It's not always like this, so I hope you[n]can come back soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_0_2#0",
+   "speaker": "Manager",
+   "en": "All right, good work. There were a lot[n]of customers today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_0_2#1",
+   "speaker": "Manager",
+   "en": "The thing is, we consistently get a lot of[n]customers on [clr 2]Yakiniku Day[clr 27], so... no one[n]wants to work that day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_0_2#2",
+   "speaker": "Manager",
+   "en": "It's not always like this, so I hope you[n]can come back soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_054_0_0#0",
+   "speaker": "Morgana",
+   "en": "Man... The manager really knows how[n]to butter you up. You did well all by[n]yourself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_054_0_0#1",
+   "speaker": "Morgana",
+   "en": "You did make some mistakes, but it was[n]good [stIcon 2][clr 26][stLabel 2][clr 27] training, wasn't it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_055_0_0#0",
+   "speaker": "Morgana",
+   "en": "Phew... Well, I guess we should go[n]home soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_080_0_0#0",
+   "speaker": "Customer",
+   "en": "Hey. Medium beef bowl, please.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_081_0_0#0",
+   "speaker": "Customer",
+   "en": "Large beef bowl, please.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_082_0_0#0",
+   "speaker": "Customer",
+   "en": "Oh, can I have a medium barbecue bowl?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_083_0_0#0",
+   "speaker": "Customer",
+   "en": "Give me a large barbecue bowl.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_084_0_0#0",
+   "speaker": "Customer",
+   "en": "One medium curry bowl.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_085_0_0#0",
+   "speaker": "Customer",
+   "en": "A curry bowl. Ah, make it a large.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_086_0_0#0",
+   "speaker": "Customer",
+   "en": "One medium natto bowl.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_087_0_0#0",
+   "speaker": "Customer",
+   "en": "One large natto bowl, please.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_088_0_0#0",
+   "speaker": "Customer",
+   "en": "One medium hui guo rou bowl!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_089_0_0#0",
+   "speaker": "Customer",
+   "en": "A hui guo rou bowl, large please!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER0#0",
+   "speaker": null,
+   "en": "Medium beef bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER0#1",
+   "speaker": null,
+   "en": "Large barbecue bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER0#2",
+   "speaker": null,
+   "en": "Medium curry bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER1#0",
+   "speaker": null,
+   "en": "Medium natto bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER1#1",
+   "speaker": null,
+   "en": "Medium beef bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER1#2",
+   "speaker": null,
+   "en": "Medium hui guo rou bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER2#0",
+   "speaker": null,
+   "en": "Large curry bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER2#1",
+   "speaker": null,
+   "en": "Large barbecue bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER2#2",
+   "speaker": null,
+   "en": "Medium beef bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER3#0",
+   "speaker": null,
+   "en": "Large beef bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER3#1",
+   "speaker": null,
+   "en": "Large barbecue bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER3#2",
+   "speaker": null,
+   "en": "Large natto bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER4#0",
+   "speaker": null,
+   "en": "Medium curry bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER4#1",
+   "speaker": null,
+   "en": "Large beef bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER4#2",
+   "speaker": null,
+   "en": "Large hui guo rou bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER5#0",
+   "speaker": null,
+   "en": "Medium natto bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER5#1",
+   "speaker": null,
+   "en": "Medium curry bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER5#2",
+   "speaker": null,
+   "en": "Large beef bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER6#0",
+   "speaker": null,
+   "en": "Medium barbecue bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER6#1",
+   "speaker": null,
+   "en": "Medium curry bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER6#2",
+   "speaker": null,
+   "en": "Medium beef bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER7#0",
+   "speaker": null,
+   "en": "Large curry bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER7#1",
+   "speaker": null,
+   "en": "Medium barbecue bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER7#2",
+   "speaker": null,
+   "en": "Large hui guo rou bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER8#0",
+   "speaker": null,
+   "en": "Large hui guo rou bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER8#1",
+   "speaker": null,
+   "en": "Large barbecue bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER8#2",
+   "speaker": null,
+   "en": "Medium barbecue bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER9#0",
+   "speaker": null,
+   "en": "Large barbecue bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER9#1",
+   "speaker": null,
+   "en": "Large beef bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER9#2",
+   "speaker": null,
+   "en": "Large curry bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER10#0",
+   "speaker": null,
+   "en": "Medium natto bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER10#1",
+   "speaker": null,
+   "en": "Large barbecue bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER10#2",
+   "speaker": null,
+   "en": "Medium hui guo rou bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER11#0",
+   "speaker": null,
+   "en": "Medium beef bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER11#1",
+   "speaker": null,
+   "en": "Medium hui guo rou bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER11#2",
+   "speaker": null,
+   "en": "Large barbecue bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER12#0",
+   "speaker": null,
+   "en": "Medium curry bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER12#1",
+   "speaker": null,
+   "en": "Large beef bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER12#2",
+   "speaker": null,
+   "en": "Large hui guo rou bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER13#0",
+   "speaker": null,
+   "en": "Medium barbecue bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER13#1",
+   "speaker": null,
+   "en": "Medium curry bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER13#2",
+   "speaker": null,
+   "en": "Medium hui guo rou bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER14#0",
+   "speaker": null,
+   "en": "Medium natto bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER14#1",
+   "speaker": null,
+   "en": "Large curry bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER14#2",
+   "speaker": null,
+   "en": "Medium curry bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER15#0",
+   "speaker": null,
+   "en": "Large curry bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER15#1",
+   "speaker": null,
+   "en": "Medium natto bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER15#2",
+   "speaker": null,
+   "en": "Large beef bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER16#0",
+   "speaker": null,
+   "en": "Medium natto bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER16#1",
+   "speaker": null,
+   "en": "Large curry bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER16#2",
+   "speaker": null,
+   "en": "Large hui guo rou bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER17#0",
+   "speaker": null,
+   "en": "Medium barbecue bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER17#1",
+   "speaker": null,
+   "en": "Large barbecue bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER17#2",
+   "speaker": null,
+   "en": "Large curry bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER18#0",
+   "speaker": null,
+   "en": "Medium natto bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER18#1",
+   "speaker": null,
+   "en": "Large curry bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER18#2",
+   "speaker": null,
+   "en": "Medium beef bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER19#0",
+   "speaker": null,
+   "en": "Medium hui guo rou bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER19#1",
+   "speaker": null,
+   "en": "Medium natto bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER19#2",
+   "speaker": null,
+   "en": "Large curry bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER20#0",
+   "speaker": null,
+   "en": "Large beef bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER20#1",
+   "speaker": null,
+   "en": "Large barbecue bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER20#2",
+   "speaker": null,
+   "en": "Medium natto bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER21#0",
+   "speaker": null,
+   "en": "Large natto bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER21#1",
+   "speaker": null,
+   "en": "Large barbecue bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER21#2",
+   "speaker": null,
+   "en": "Large hui guo rou bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER22#0",
+   "speaker": null,
+   "en": "Medium curry bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER22#1",
+   "speaker": null,
+   "en": "Large natto bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER22#2",
+   "speaker": null,
+   "en": "Medium beef bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER23#0",
+   "speaker": null,
+   "en": "Large beef bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER23#1",
+   "speaker": null,
+   "en": "Medium barbecue bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER23#2",
+   "speaker": null,
+   "en": "Large natto bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER24#0",
+   "speaker": null,
+   "en": "Medium hui guo rou bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER24#1",
+   "speaker": null,
+   "en": "Medium curry bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER24#2",
+   "speaker": null,
+   "en": "Medium natto bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER25#0",
+   "speaker": null,
+   "en": "Large natto bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER25#1",
+   "speaker": null,
+   "en": "Medium hui guo rou bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER25#2",
+   "speaker": null,
+   "en": "Medium barbecue bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER26#0",
+   "speaker": null,
+   "en": "Large curry bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER26#1",
+   "speaker": null,
+   "en": "Medium barbecue bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER26#2",
+   "speaker": null,
+   "en": "Medium hui guo rou bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER27#0",
+   "speaker": null,
+   "en": "Large hui guo rou bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER27#1",
+   "speaker": null,
+   "en": "Medium natto bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER27#2",
+   "speaker": null,
+   "en": "Medium barbecue bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER28#0",
+   "speaker": null,
+   "en": "Medium curry bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER28#1",
+   "speaker": null,
+   "en": "Large hui guo rou bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER28#2",
+   "speaker": null,
+   "en": "Large beef bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER29#0",
+   "speaker": null,
+   "en": "Medium natto bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER29#1",
+   "speaker": null,
+   "en": "Medium barbecue bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GYUDON_ANSWER29#2",
+   "speaker": null,
+   "en": "Large hui guo rou bowl",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RYUUJI_0_1#0",
+   "speaker": "Ryuji",
+   "en": "Whoa, I knew you looked familiar!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RYUUJI_0_1#1",
+   "speaker": "Ryuji",
+   "en": "It gets hella crowded here sometimes...[n]Don't overwork yourself, aight?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RYUUJI_0_1#2",
+   "speaker": "Ryuji",
+   "en": "Anyways, I'll take a Beef Bowl with[n]extra sauce!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RYUUJI_1_1#0",
+   "speaker": "Ryuji",
+   "en": "'Sup, workin' hard?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RYUUJI_1_1#1",
+   "speaker": "Ryuji",
+   "en": "I get a different vibe from you when[n]you're working here. You seem more[n]mature...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RYUUJI_1_1#2",
+   "speaker": "Ryuji",
+   "en": "Aight, gimme a large Beef Bowl please!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIDA_0_1#0",
+   "speaker": "Yoshida",
+   "en": "Oh, it's you. Good evening.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIDA_0_1#1",
+   "speaker": "Yoshida",
+   "en": "Working hard as always, it seems. What a[n]reliable lad.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIDA_0_1#2",
+   "speaker": "Yoshida",
+   "en": "Well then, I suppose I'll order a Medium[n]Beef Bowl.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIDA_1_1#0",
+   "speaker": "Yoshida",
+   "en": "Good evening. You look like you're[n]working hard.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIDA_1_1#1",
+   "speaker": "Yoshida",
+   "en": "Seeing the way you work motivates me[n]to work harder as well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOSIDA_1_1#2",
+   "speaker": "Yoshida",
+   "en": "Oh, I should probably order now. I'd like[n]a medium beef bowl with egg.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEBUG_NPC#0",
+   "speaker": "デバッグ",
+   "en": "Friend appears",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

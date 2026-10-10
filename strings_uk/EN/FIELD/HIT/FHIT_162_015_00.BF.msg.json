@@ -1,0 +1,712 @@
+{
+ "file": "EN/FIELD/HIT/FHIT_162_015_00.BF",
+ "entries": [
+  {
+   "id": "dummy_mes#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "D10_15_Mission_Impossibl#0",
+   "speaker": "Morgana",
+   "en": "Hold on—there are a ton of tough[n]enemies down there. It'd be bad[n]if they came at us all at once.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_Mission_Impossibl#1",
+   "speaker": "Morgana",
+   "en": "Maybe we should come back later?[n]They might move on while we[n]investigate some other place.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_Mission_Impossibl#2",
+   "speaker": "Morgana",
+   "en": "Orrr, do you really wanna risk going[n]down there?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_Mission_Impossibl_2#0",
+   "speaker": null,
+   "en": "Let's head down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_Mission_Impossibl_2#1",
+   "speaker": null,
+   "en": "Let's pull back.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_Mission_Impossibl_3#0",
+   "speaker": "Morgana",
+   "en": "Well... if you say so. Just be careful,[n]Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_Mission_Impossibl_4#0",
+   "speaker": "Morgana",
+   "en": "Yeah, let's scope out the other rooms[n]first.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_NPC_look_start#0",
+   "speaker": "Ryuji",
+   "en": "Whoa whoa whoa! What's with these[n]guys!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_NPC_look_01#0",
+   "speaker": "Futaba",
+   "en": "Whooooa, look at those freaky machines[n]they're wearing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_NPC_look_02#0",
+   "speaker": "Akechi",
+   "en": "They called this place the Treatment[n]Room, so...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_NPC_look_03#0",
+   "speaker": "Ryuji",
+   "en": "THAT'S what \"treatment\" is!? It sure[n]as hell don't look like it to me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_NPC_look_end#0",
+   "speaker": "Futaba",
+   "en": "There's a weird gate-type-thing over[n]there, too—let's check that out next.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_NPC_look_another_#0",
+   "speaker": "Ryuji",
+   "en": "Whoa whoa whoa! What's with these[n]guys!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_NPC_look_another__2#0",
+   "speaker": "Futaba",
+   "en": "Whooooa, look at those freaky machines[n]they're wearing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_NPC_look_another__3#0",
+   "speaker": "Akechi",
+   "en": "Well, we came here from the Exam[n]Room, so...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_NPC_look_another__3#1",
+   "speaker": "Akechi",
+   "en": "It logically follows that this is the[n]Counselling Room, and those[n]people are...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_NPC_look_another__4#0",
+   "speaker": "Ryuji",
+   "en": "THAT'S what \"treatment\" is!? It sure[n]as hell don't look like it to me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_NPC_look_another__5#0",
+   "speaker": "Futaba",
+   "en": "Eh, don't sweat it too much—they're all[n]cognitive beings. Let's just keep moving.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_discover_passward#0",
+   "speaker": "Yusuke",
+   "en": "There's another security door—that[n]means we're going to need to find[n]another clue somewhere...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_discover_passward_2#0",
+   "speaker": "Makoto",
+   "en": "Right—we probably won't know the[n]answer unless we get some sort of hint.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_discover_passward_3#0",
+   "speaker": "Haru",
+   "en": "We should check it out just in case,[n]though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_3rd_video_notExis#0",
+   "speaker": "Ryuji",
+   "en": "Hup, another TV—looks like we're in[n]for another movie.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_3rd_video_notExis_2#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Oh, but not right now, at least—[n]there's no tape in the player.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_3rd_video_notExis_3#0",
+   "speaker": "Akechi",
+   "en": "No doubt we'll need to find one[n]in order to proceed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_3rd_video_notExis_3#1",
+   "speaker": "Akechi",
+   "en": "Let's start looking.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_3rd_passcode_lock#0",
+   "speaker": "Mechanical Voice",
+   "en": "Security lock currently engaged.[n]Please answer the following identity[n]authentication question:",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_3rd_passcode_lock#1",
+   "speaker": "Mechanical Voice",
+   "en": "\"How do many adolescents react when[n]they are close to another who is more[n]talented than themselves?\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_3rd_passcode_lock_2#0",
+   "speaker": "Yusuke",
+   "en": "Hm... Another one of these doors.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_3rd_passcode_lock_3#0",
+   "speaker": "Akechi",
+   "en": "Any further time spent here will[n]be wasted.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_3rd_passcode_lock_3#1",
+   "speaker": "Akechi",
+   "en": "Let's return once we have an idea[n]of the answer, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_3rd_passcode_lock_4#0",
+   "speaker": "Akechi",
+   "en": "We need to find a hint to the answer[n]first, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_3rd_passcode_lock_5#0",
+   "speaker": "Mechanical Voice",
+   "en": "Security lock currently engaged.[n]Please answer the following identity[n]authentication question:",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_3rd_passcode_lock_5#1",
+   "speaker": "Mechanical Voice",
+   "en": "\"How do many adolescents react when[n]they are close to another who is more[n]talented than themselves?\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_3rd_passcode_lock_6#0",
+   "speaker": null,
+   "en": "By running away.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_3rd_passcode_lock_6#1",
+   "speaker": null,
+   "en": "By trying to be more normal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_3rd_passcode_lock_6#2",
+   "speaker": null,
+   "en": "By wanting that person to fail.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_3rd_passcode_lock_6#3",
+   "speaker": null,
+   "en": "By wishing to be that person.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_3rd_passcode_lock_7#0",
+   "speaker": "Mechanical Voice",
+   "en": "Incorrect. Lock not disengaged.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_3rd_passcode_lock_8#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Looks like that's not it... Give it[n]another try, Joker-senpai.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_3rd_passcode_lock_9#0",
+   "speaker": "Mechanical Voice",
+   "en": "Authentication complete. Disengaging lock.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_3rd_passcode_lock_10#0",
+   "speaker": "[sumi 10 0]",
+   "en": "...We did it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_3rd_passcode_lock_10#1",
+   "speaker": "[sumi 10 0]",
+   "en": "I never would've thought I'd be the[n]password to someone's security...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_formidable_enemy_#0",
+   "speaker": "Ryuji",
+   "en": "Hey, those are some scary-lookin'[n]Shadows—make sure we don't get[n]caught.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_formidable_enemy__2#0",
+   "speaker": "Futaba",
+   "en": "Looks like we've got Shadows patrolling[n]the area...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_formidable_enemy__2#1",
+   "speaker": "Futaba",
+   "en": "Make sure no one sneaks up on us[n]while we hunt down that videotape.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_something_check01#0",
+   "speaker": "Morgana",
+   "en": "Let's find out what's in that box.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_something_check_n#0",
+   "speaker": "Morgana",
+   "en": "Nothing here... Let's look elsewhere.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_enemies_left_room#0",
+   "speaker": "Researcher",
+   "en": "Let's join the patrol—apparently, some[n]intruders rejected treatment and are[n]currently roaming the facility.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_enemies_left_room_2#0",
+   "speaker": "Examiner",
+   "en": "If they've refused our master's salvation,[n]they truly are beyond help. We must[n]capture them quickly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_enemies_left_room_2#1",
+   "speaker": "Examiner",
+   "en": "Don't forget to lock this door.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_after_enemies_lef#0",
+   "speaker": "Futaba",
+   "en": "Looks like we've got even more[n]Shadows now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_after_enemies_lef#1",
+   "speaker": "Futaba",
+   "en": "That room they exited looks kinda[n]suspicious, though—maybe we should[n]take a peek?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_something_check06#0",
+   "speaker": "Morgana",
+   "en": "Let's find out what's in that box.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_get_video_start#0",
+   "speaker": "Ryuji",
+   "en": "Ah! Got it! Now to go watch the thing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_get_video_end#0",
+   "speaker": "Morgana",
+   "en": "That's the key to our success! Let's get[n]back to that TV room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D162_015_mini_EV_01_mes_#0",
+   "speaker": "Futaba",
+   "en": "Whoa! Beefcake Shadow at 12 o'clock!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D162_015_mini_EV_01_mes__2#0",
+   "speaker": "Yusuke",
+   "en": "He appears to be blocking the only[n]path forward in the Palace. We'd[n]better prepare for a fight.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D162_015_mini_EV_01_mes__3#0",
+   "speaker": "Morgana",
+   "en": "He looks really tough... Are you ready,[n]Joker?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DO_10_162_BOSS_selB#0",
+   "speaker": null,
+   "en": "Good to go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DO_10_162_BOSS_selB#1",
+   "speaker": null,
+   "en": "Just a sec.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D162_015_mini_EV_01_mes0#0",
+   "speaker": "Morgana",
+   "en": "All right, let's do this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D162_015_mini_EV_01_mes0_2#0",
+   "speaker": "Morgana",
+   "en": "Gotcha. Let's get as ready as possible.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D162_015_BOSS_EV_Start#0",
+   "speaker": "Sentry",
+   "en": "Are you... the Phantom Thieves!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D162_015_BOSS_EV_01#0",
+   "speaker": "Akechi",
+   "en": "We're here to destroy the phony utopia[n]your boss is trying to make—would you[n]mind getting out of the way?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D162_015_BOSS_EV_End#0",
+   "speaker": "Sentry",
+   "en": "Foolish rebels! You won't take one step[n]past here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_look_videoroom_st#0",
+   "speaker": "Futaba",
+   "en": "Joker, look!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_look_videoroom_st#1",
+   "speaker": "Futaba",
+   "en": "That looks like a place where we might[n]find a videotape. Let's go check it out!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_videoroom_remind_#0",
+   "speaker": "Futaba",
+   "en": "Joker, can we check out that TV room[n]we passed?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_enemy_look_force_#0",
+   "speaker": "Ryuji",
+   "en": "Hey, those are some scary-lookin'[n]Shadows—make sure we don't get[n]caught.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_enemy_look_force__2#0",
+   "speaker": "Futaba",
+   "en": "Looks like we've got Shadows patrolling[n]the area...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_enemy_look_force__2#1",
+   "speaker": "Futaba",
+   "en": "Why don't we come back here later?[n]We shouldn't waste our energy on[n]all of them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_enemy_look_force__2#2",
+   "speaker": "Futaba",
+   "en": "We passed a room a little while back—[n]the one with a TV?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_enemy_look_force__2#3",
+   "speaker": "Futaba",
+   "en": "Why don't we check that one out?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_urge_check_3rd_vi#0",
+   "speaker": "Mechanical Voice",
+   "en": "Security lock currently engaged.[n]Please answer the following identity[n]authentication question:",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_urge_check_3rd_vi#1",
+   "speaker": "Mechanical Voice",
+   "en": "\"How do many adolescents react when[n]they are close to another who is more[n]talented than themselves?\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_urge_check_3rd_vi_2#0",
+   "speaker": "Yusuke",
+   "en": "...It looks like we stopped here a bit[n]earlier than we should have.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_urge_check_3rd_vi_3#0",
+   "speaker": "Akechi",
+   "en": "We should get a hint from watching[n]the videotape. Let's come back here[n]after doing that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_urge_check_3rd_vi_4#0",
+   "speaker": "Akechi",
+   "en": "Let's watch the video first, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_FindGate_start_inser#0",
+   "speaker": "Ann",
+   "en": "What the—",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_FindGate_start#0",
+   "speaker": "Ann",
+   "en": "They're just passing through that[n]weird wall of... what even IS that!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_FindGate_01#0",
+   "speaker": "Announcement",
+   "en": "Attention post-treatment patients:[n]please pass through the glowing gate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_FindGate_01#1",
+   "speaker": "Announcement",
+   "en": "Your paradise awaits you on the[n]other side.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_FindGate_02#0",
+   "speaker": "Akechi",
+   "en": "So, they identify \"abnormalities\" in the[n]Exam Room, then \"treat\" them here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_FindGate_02#1",
+   "speaker": "Akechi",
+   "en": "Once someone is certified as \"happy,\"[n]they get funneled into that gate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_FindGate_SEL#0",
+   "speaker": null,
+   "en": "Let's head on in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_FindGate_SEL#1",
+   "speaker": null,
+   "en": "Let's try it out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_FindGate_03#0",
+   "speaker": "Futaba",
+   "en": "Careful! You might get burned to a crisp[n]the second you touch it or something.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_FindGate_04#0",
+   "speaker": "Ann",
+   "en": "How about we DON'T jinx this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_FindGate_05#0",
+   "speaker": "Announcement",
+   "en": "Patients may not pass without receiving[n]treatment. Please follow the instructions[n]provided elsewhere to seek treatment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_FindGate_end#0",
+   "speaker": "Makoto",
+   "en": "It looks like we really aren't getting[n]through this gate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_FindGate_end#1",
+   "speaker": "Makoto",
+   "en": "I suppose we'll just have to find[n]another path.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_CheckTvWithVideo_#0",
+   "speaker": "Ann",
+   "en": "Well, we got the tape... I wonder[n]what we'll see this time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_CheckTvWithVideo__2#0",
+   "speaker": "Yusuke",
+   "en": "I'll wager this much: it won't be pleasant.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_15_CheckTvWithVideo__2#1",
+   "speaker": "Yusuke",
+   "en": "Regardless, we should watch it sooner[n]rather than later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "note_find_reaction_start#0",
+   "speaker": "[sumi 10 0]",
+   "en": "What could this be...? A diary?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "note_find_reaction_01#0",
+   "speaker": "Akechi",
+   "en": "Looks like it. Judging from what's written[n]inside, it's most likely Maruki's...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "note_find_reaction_watch#0",
+   "speaker": "Akechi",
+   "en": "Even that video from earlier... He just[n]really loves talking about himself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "note_find_reaction_notwa#0",
+   "speaker": "Yusuke",
+   "en": "It seems like he has written about things[n]in the past, but it looks like they are only[n]fragments of them...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "note_find_reaction_end#0",
+   "speaker": "Morgana",
+   "en": "Doesn't look like it has any meaning to[n]it either.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "note_find_reaction_end#1",
+   "speaker": "Morgana",
+   "en": "Not sure if it'll come in handy for the[n]investigation, but let's hold on to it and[n]see if we can find other ones.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

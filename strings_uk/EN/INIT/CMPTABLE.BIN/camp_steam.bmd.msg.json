@@ -1,0 +1,138 @@
+{
+ "file": "EN/INIT/CMPTABLE.BIN/camp_steam.bmd",
+ "entries": [
+  {
+   "id": "system_title_exit#0",
+   "speaker": null,
+   "en": "End the game?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_device_missing#0",
+   "speaker": null,
+   "en": "Connection with device lost.[n]Check connection.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_config_keyassign#0",
+   "speaker": null,
+   "en": "The key that was changed has[n]overlapping functions.[n]Overwrite with this setting?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_config_buttonassi#0",
+   "speaker": null,
+   "en": "The key that was changed has[n]overlapping functions.[n]Overwrite with this setting?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_config_default_au#0",
+   "speaker": null,
+   "en": "Restore the audio settings to their [n]default settings?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_config_default_gr#0",
+   "speaker": null,
+   "en": "Restore the graphics setting[n]to the default setting?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_config_default_di#0",
+   "speaker": null,
+   "en": "Restore the display setting[n]to the default setting?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_config_default_ke#0",
+   "speaker": null,
+   "en": "Restore the key configuration (keyboard)[n]to the default settings?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_config_default_mo#0",
+   "speaker": null,
+   "en": "Reset the key configuration (mouse)[n]to the default settings?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_config_default_bu#0",
+   "speaker": null,
+   "en": "Reset the gamepad configuration[n]to the default settings?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_config_keyassign_#0",
+   "speaker": null,
+   "en": "Press a key to assign.[n]Press Esc to return to the config screen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_config_buttonassi_2#0",
+   "speaker": null,
+   "en": "Press a button to assign.[n]Press Esc to return to the config screen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_camp_config_render#0",
+   "speaker": null,
+   "en": "Keep these rendering settings?[n]Settings will be reverted[n]if nothing is entered for [var 0] seconds.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_keyconfig_nodata#0",
+   "speaker": null,
+   "en": "Some functions have not been assigned.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_config_yes_no#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_config_yes_no#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_config_default_sy#0",
+   "speaker": null,
+   "en": "Revert the system settings[n]back to default?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_signin#0",
+   "speaker": null,
+   "en": "Please sign in to start the game.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "system_signout#0",
+   "speaker": null,
+   "en": "The user has signed out.[n]Closing the application.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

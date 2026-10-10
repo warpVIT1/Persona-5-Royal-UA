@@ -1,0 +1,390 @@
+{
+ "file": "EN/FIELD/HIT/FHIT_162_010_00.BF",
+ "entries": [
+  {
+   "id": "e511_630_mes_Start#0",
+   "speaker": "Yusuke",
+   "en": "We should expect a battle. Are we fully[n]prepared?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "e511_630_mes_SEL#0",
+   "speaker": null,
+   "en": "Yes, let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "e511_630_mes_SEL#1",
+   "speaker": null,
+   "en": "No, not yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "e511_630_mes_01#0",
+   "speaker": "Yusuke",
+   "en": "Hm... Okay, let's reconvene later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "e511_630_mes_02#0",
+   "speaker": "Yusuke",
+   "en": "Okay. Let's do it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "e511_630_mes_03#0",
+   "speaker": "Guard Shadow",
+   "en": "There you are! Enemies of Lord Maruki!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "e511_630_before_battle_S#0",
+   "speaker": null,
+   "en": "Just passing through.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "e511_630_before_battle_S#1",
+   "speaker": null,
+   "en": "Get out of the way!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "e511_630_mes_04#0",
+   "speaker": "Guard Shadow",
+   "en": "We will not allow you to disturb our[n]master!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "e511_630_mes_05#0",
+   "speaker": "Guard Shadow",
+   "en": "I refuse to move for the likes of you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_researcher_enemy0#0",
+   "speaker": "Yusuke",
+   "en": "Enemies ahead, Joker! Hm? What're they[n]wearing...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_researcher_enemy0_2#0",
+   "speaker": "Yusuke",
+   "en": "Lab coats? Why would Shadows be[n]wearing lab coats in a sports arena?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_researcher_enemy0_2#1",
+   "speaker": "Yusuke",
+   "en": "What does Dr. Maruki see this place as?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_get_map_start#0",
+   "speaker": "Yusuke",
+   "en": "This appears to be the floorplan of[n]the Palace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_get_map_start#1",
+   "speaker": "Yusuke",
+   "en": "This place is so vast. We still have a long[n]way to go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_get_map02#0",
+   "speaker": "Makoto",
+   "en": "\"Maruki Cognitive Psience Laboratory\"...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_get_map02#1",
+   "speaker": "Makoto",
+   "en": "Of course... This Palace is a laboratory.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_get_map03#0",
+   "speaker": "[sumi 10 0]",
+   "en": "I see! That explains why the Shadows[n]are wearing lab coats.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_get_map_end#0",
+   "speaker": "Makoto",
+   "en": "It's very much Dr. Maruki in a way, but...[n]Why imagine a stadium in Odaiba to be a lab?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_get_map_end#1",
+   "speaker": "Makoto",
+   "en": "...I suppose there's no use thinking about[n]it now. We should continue on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_1st_passcode_lock#0",
+   "speaker": "Futaba",
+   "en": "Hm... Wait a second, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_1st_passcode_lock#1",
+   "speaker": "Futaba",
+   "en": "This door doesn't have an authentication[n]device, but it's heavily secured.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_1st_passcode_lock#2",
+   "speaker": "Futaba",
+   "en": "Check it out!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_1st_passcode_lock_2#0",
+   "speaker": "Mechanical Voice",
+   "en": "Security lock is currently engaged.[n]Please answer the secret question.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_1st_passcode_lock_2#1",
+   "speaker": "Mechanical Voice",
+   "en": "\"What did Takuto Maruki lose in exchange[n]for the power to rewrite cognition?\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_1st_passcode_lock_3#0",
+   "speaker": "Ryuji",
+   "en": "Whoa! It talks! ...Well, guess that doesn't[n]really matter.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_1st_passcode_lock_3#1",
+   "speaker": "Ryuji",
+   "en": "What did Dr. Maruki lose? What is this,[n]some kind of riddle?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_1st_passcode_lock_4#0",
+   "speaker": "Futaba",
+   "en": "It's like a security question to make sure[n]you really are who you say you are.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_1st_passcode_lock_4#1",
+   "speaker": "Futaba",
+   "en": "His personal info is being used as the key.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_1st_passcode_lock_5#0",
+   "speaker": "Morgana",
+   "en": "So then it's not a riddle. We just have to[n]find the answer to the question.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_1st_passcode_lock_5#1",
+   "speaker": "Morgana",
+   "en": "Well, we are in Maruki's Palace, so it'll[n]be easier to find the answer here than[n]in reality.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_1st_passcode_lock_6#0",
+   "speaker": "Ryuji",
+   "en": "All right, then. Let's start lookin' for clues!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_1st_passcode_lock_7#0",
+   "speaker": "Ryuji",
+   "en": "Joker! Shouldn't we look for clues?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_1st_passcode_lock_8#0",
+   "speaker": "Mechanical Voice",
+   "en": "Security lock is currently engaged.[n]Please answer the secret question.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_1st_passcode_lock_8#1",
+   "speaker": "Mechanical Voice",
+   "en": "\"What did Takuto Maruki lose in exchange[n]for the power to rewrite cognition?\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_1st_passcode_lock_9#0",
+   "speaker": "Akechi",
+   "en": "After seeing the footage earlier, I think[n]I might know the answer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_1st_passcode_lock_9#1",
+   "speaker": "Akechi",
+   "en": "Really? Okay then, I'll let you enter the[n]answer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_1st_passcode_lock_10#0",
+   "speaker": null,
+   "en": "Friends",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_1st_passcode_lock_10#1",
+   "speaker": null,
+   "en": "Family",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_1st_passcode_lock_10#2",
+   "speaker": null,
+   "en": "Teacher",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_1st_passcode_lock_10#3",
+   "speaker": null,
+   "en": "Fiancée",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_1st_passcode_lock_11#0",
+   "speaker": "Mechanical Voice",
+   "en": "Incorrect. Lock not disengaged.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_1st_passcode_lock_12#0",
+   "speaker": "Akechi",
+   "en": "Looks like that wasn't the correct choice, Joker. Try again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_1st_passcode_lock_13#0",
+   "speaker": "Mechanical Voice",
+   "en": "Authentication complete.[n]Disengaging lock.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_1st_passcode_lock_14#0",
+   "speaker": "Ryuji",
+   "en": "Nice! We did it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_1st_passcode_lock_15#0",
+   "speaker": "Futaba",
+   "en": "Joker, could you take a closer look at that[n]heavily secured door?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_get_map_start_bef#0",
+   "speaker": "Yusuke",
+   "en": "Hold up. Look at this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_wall_vanish_start#0",
+   "speaker": "Haru",
+   "en": "Oh, the cable in the back is missing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_wall_vanish_01#0",
+   "speaker": "Yusuke",
+   "en": "Maybe messing with the console in[n]Mementos worked out. It looks like[n]we can move forward.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_wall_vanish_sel#0",
+   "speaker": null,
+   "en": "Let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_wall_vanish_sel#1",
+   "speaker": null,
+   "en": "Proceed with caution.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_wall_vanish_end#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Yes, let's go, Senpai!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_find_boss_start#0",
+   "speaker": "Makoto",
+   "en": "Wait a second. Look over there!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_find_boss_01#0",
+   "speaker": "Yusuke",
+   "en": "Security is heavy, and they look quite[n]formidable.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_12_find_boss_end#0",
+   "speaker": "Akechi",
+   "en": "This place must be important.[n]Let's go when we're ready.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

@@ -1,0 +1,369 @@
+{
+ "file": "EN/FIELD/INIT/FINI_005_002.BF",
+ "entries": [
+  {
+   "id": "MSG_BillStart1st_01#0",
+   "speaker": "Casually Dressed Man",
+   "en": "Welcome!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BillStart1st_02#0",
+   "speaker": "Morgana",
+   "en": "Hey, did you forget already?[n]You can play billiards at this place, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BillStart1st_02#1",
+   "speaker": "Morgana",
+   "en": "Well, it's up to you whether you want[n]to play darts or billiards.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DB_Start_common#0",
+   "speaker": "Casually Dressed Man",
+   "en": "Welcome!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DB_Start_common_loop#0",
+   "speaker": "Casually Dressed Man",
+   "en": "Would you like to play darts or billiards?[n]It's 800 yen to play all you want.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DB#0",
+   "speaker": null,
+   "en": "Let's play darts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DB#1",
+   "speaker": null,
+   "en": "Let's play billiards.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DB#2",
+   "speaker": null,
+   "en": "Not right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AkechiNG_001#0",
+   "speaker": "Morgana",
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AkechiNG_001#1",
+   "speaker": "Morgana",
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AkechiNG_001#2",
+   "speaker": "Morgana",
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Darts_Select1st_001#0",
+   "speaker": "Morgana",
+   "en": "Darts, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Darts_Select1st_002#0",
+   "speaker": "Morgana",
+   "en": "I've explained to everyone how playing[n]darts is useful to us.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Darts_Select1st_002#1",
+   "speaker": "Morgana",
+   "en": "Heh, didn't I tell you? I'm always thinking[n]of what's best for the Phantom Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DB_PayMoney#0",
+   "speaker": "Casually Dressed Man",
+   "en": "Thank you, that'll be 800 yen![n]Please enjoy yourselves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Darts_OKorNG#0",
+   "speaker": "Morgana",
+   "en": "What're you gonna do?[n]You wanna play with someone?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DartsOK#0",
+   "speaker": null,
+   "en": "Let's call someone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DartsOK#1",
+   "speaker": null,
+   "en": "I might play by myself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DartsOK#2",
+   "speaker": null,
+   "en": "Let me think about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Darts_MemberPlay_mor#0",
+   "speaker": "Morgana",
+   "en": "You wanna play with me, huh?[n]All right then, I'll take you on!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Darts_MemberPlay_mor#1",
+   "speaker": "Morgana",
+   "en": "Since we're here, might as well try calling[n]up some other people. The more the[n]merrier, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Darts_MemberPlay_Nor#0",
+   "speaker": "Morgana",
+   "en": "Since we're here, might as well try calling[n]up some other people. The more the[n]merrier, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Darts_SoloPlay_moru#0",
+   "speaker": "Morgana",
+   "en": "Playing solo, huh? Yeah, it's not a bad[n]idea to get some practice in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Billis_Select1st_001#0",
+   "speaker": "Morgana",
+   "en": "Billiards, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Billis_OKorNG#0",
+   "speaker": "Morgana",
+   "en": "All right, let's get everyone over here.[n]So, billiards, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BillisOK#0",
+   "speaker": null,
+   "en": "Yeah.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BillisOK#1",
+   "speaker": null,
+   "en": "Showing off some trick shots.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BillisOK#2",
+   "speaker": null,
+   "en": "Actually, never mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DB_Cancel#0",
+   "speaker": "Morgana",
+   "en": "If we aren't gonna play, we should[n]get going.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DB_MoneyError#0",
+   "speaker": "Morgana",
+   "en": "You don't have enough money...[n]Let's come back some other time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MyTool#0",
+   "speaker": null,
+   "en": "Use",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MyTool#1",
+   "speaker": null,
+   "en": "Don't use",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MyDarts_1st#0",
+   "speaker": "Morgana",
+   "en": "Oh yeah, you bought your own Dart Set,[n]didn't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MyDarts_1st_02#0",
+   "speaker": "Morgana",
+   "en": "Are you gonna use it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MyDarts#0",
+   "speaker": "Morgana",
+   "en": "Oh yeah, you bought your own Dart Set,[n]didn't you? Are you gonna use it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_MyDarts#0",
+   "speaker": null,
+   "en": "When you use your own Dart Set,[n]the targeting area will deviate less[n]when you are preparing to throw.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MyDarts_YesUse#0",
+   "speaker": "Morgana",
+   "en": "You did spend the money on it.[n]Good luck!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MyDarts_NoUse#0",
+   "speaker": "Morgana",
+   "en": "Gonna go with the house darts this time?[n]Good luck!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MyCue_1st#0",
+   "speaker": "Morgana",
+   "en": "Oh yeah, you bought your own Cue Stick,[n]didn't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MyCue_1st_02#0",
+   "speaker": "Morgana",
+   "en": "Are you gonna use it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_MyCue#0",
+   "speaker": null,
+   "en": "Using your own Cue Stick will[n]make it easier to strike a ball.[n]The shot range will also be larger.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MyCue#0",
+   "speaker": "Morgana",
+   "en": "Oh yeah, you bought your own Cue Stick,[n]didn't you? Are you gonna use it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MyCue_YesUse#0",
+   "speaker": "Morgana",
+   "en": "You did spend the money on it.[n]Good luck!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MyCue_NoUse#0",
+   "speaker": "Morgana",
+   "en": "Gonna go with the house cue this time?[n]Good luck!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsChatAnne_Start#0",
+   "speaker": "Morgana",
+   "en": "All right, we're here![n]Now we just have to wait for Lady Ann!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsChatRyuji_Start#0",
+   "speaker": "Morgana",
+   "en": "All right, we're here![n]Now we just have to wait for Ryuji!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DartsChatFutaba_Star#0",
+   "speaker": "Morgana",
+   "en": "All right, we're here![n]Now we just have to wait for Futaba!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BillChat_Start#0",
+   "speaker": "Morgana",
+   "en": "All right, we're here! Now we just have[n]to wait for everyone else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Billi_BookRemind_Not#0",
+   "speaker": "Casually Dressed Man",
+   "en": "Oh, right. Did you find the book I[n]recommended to you before? I think[n]you can buy it at a [clr 2]sports shop[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Billi_BookRemind_Not#1",
+   "speaker": "Casually Dressed Man",
+   "en": "You don't need the book to play, but I[n]think it will allow you to enjoy the game[n]even more, so you should try to find it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Billi_BookRemind_Not_2#0",
+   "speaker": "Casually Dressed Man",
+   "en": "Ah, [clr 3][var 0][clr 27]! So you bought it![n]...Oh, but you haven't read it yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Billi_BookRemind_Not_2#1",
+   "speaker": "Casually Dressed Man",
+   "en": "I think it's quite an interesting read.[n]It talks about trick shots and the like...!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

@@ -1,0 +1,509 @@
+{
+ "file": "EN/FIELD/INIT/FINI_010_013.BF",
+ "entries": [
+  {
+   "id": "MSG_Fish_StartTalk_1ST#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "Welcome... Are you a high schooler?[n]You've got good taste in hobbies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_StartTalk#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "Welcome. Thanks for your[n]continued patronage.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_StartTalk_Q#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "If you wanna fish, it'll be 3,000 yen.[n]Oh, and I'll give you a nice discount[n]if you come at night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_StartTalk_Q_nig#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "It's nighttime, so it'll only cost[n]1,000 yen to fish. What'll it be?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_StartTalk_Q_nig_2#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "It's nighttime, so it'll only cost 1,000 yen[n]to fish. And factoring in this weather,[n]you might even catch the [clr 2]Guardian[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_StartTalk_Q_nig_3#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "It's nighttime, so it'll only cost 1,000 yen[n]to fish. And factoring in this weather,[n]you might even catch [clr 2]him[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_StartTalk_Q_nig_3#1",
+   "speaker": "Fishing Pond Attendant",
+   "en": "He only eats a special type of bait.[n]Whether you can actually reel him[n]in or not depends on you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_EndTalk_Q#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "What do you wanna do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_FishStart#0",
+   "speaker": null,
+   "en": "Let me use the fishing pond.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_FishStart#1",
+   "speaker": null,
+   "en": "What prizes do you have?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_FishStart#2",
+   "speaker": null,
+   "en": "I'll come again later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_FishStart02#0",
+   "speaker": null,
+   "en": "I want to keep fishing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_FishStart02#1",
+   "speaker": null,
+   "en": "What prizes do you have?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_FishStart02#2",
+   "speaker": null,
+   "en": "I'm done.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_StartOK#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "All right then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_StartOK#1",
+   "speaker": "Fishing Pond Attendant",
+   "en": "Here's the bait. You should be able[n]to catch some small fish with these.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_Cancel_AfterFis#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "We're open both day and night, so feel[n]free to stop by anytime.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FISH_NO_MONEY#0",
+   "speaker": "Morgana",
+   "en": "You don't have enough money!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FISH_KiyouUp#0",
+   "speaker": "Morgana",
+   "en": "Nice job.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FISH_KiyouUp#1",
+   "speaker": "Morgana",
+   "en": "I know this was just for fun, but it seems[n]like you actually managed to boost your[n][stIcon 2][clr 26][stLabel 2][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_Env_Night#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "It's hard to catch fish at night, but you'll[n]see a lot of rare ones.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_Env_Daytime_and#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "With today's weather...[n]You might see a lot of rare ones...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FishResult_Start#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "Well then... Your haul just now was...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FishResult_Fish01#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "[clr 3][var 3][clr 27], huh?[n]It's [clr 2][var 4][clr 27] cm in length.[n]That's [clr 2][var 5][clr 27] points.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FishResult_Fish01_ta#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "[clr 3][var 3][clr 27], huh?[n]It's [clr 2][var 4][clr 27] cm in length.[n]That's [clr 2][var 5][clr 27] points.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FishResult_Fish01_ta#1",
+   "speaker": "Fishing Pond Attendant",
+   "en": "Oh, it's got a tag. In that case it's worth[n]double, so that racks up to [clr 2][var 21][clr 27] points.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FishResult_Fish02#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "[clr 3][var 6][clr 27], huh?[n]It's [clr 2][var 7][clr 27] cm in length.[n]That's [clr 2][var 8][clr 27] points.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FishResult_Fish02_ta#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "[clr 3][var 6][clr 27], huh?[n]It's [clr 2][var 7][clr 27] cm in length.[n]That's [clr 2][var 8][clr 27] points.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FishResult_Fish02_ta#1",
+   "speaker": "Fishing Pond Attendant",
+   "en": "Oh, it's got a tag. In that case it's worth[n]double, so that racks up to [clr 2][var 22][clr 27] points.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FishResult_Fish03#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "[clr 3][var 9][clr 27], huh?[n]It's [clr 2][var 10][clr 27] cm in length.[n]That's [clr 2][var 11][clr 27] points.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FishResult_Fish03_ta#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "[clr 3][var 9][clr 27], huh?[n]It's [clr 2][var 10][clr 27] cm in length.[n]That's [clr 2][var 11][clr 27] points.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FishResult_Fish03_ta#1",
+   "speaker": "Fishing Pond Attendant",
+   "en": "Oh, it's got a tag. In that case it's worth[n]double, so that racks up to [clr 2][var 23][clr 27] points.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FishResult_Fish04#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "[clr 3][var 24][clr 27], huh?[n]It's [clr 2][var 25][clr 27] cm in length.[n]That's [clr 2][var 26][clr 27] points.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FishResult_Fish04_ta#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "[clr 3][var 24][clr 27], huh?[n]It's [clr 2][var 25][clr 27] cm in length.[n]That's [clr 2][var 26][clr 27] points.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FishResult_Fish04_ta#1",
+   "speaker": "Fishing Pond Attendant",
+   "en": "Oh, it's got a tag. In that case it's worth[n]double, so that racks up to [clr 2][var 27][clr 27] points.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FishResult_Fish05#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "[clr 3][var 28][clr 27], huh?[n]It's [clr 2][var 29][clr 27] cm in length.[n]That's [clr 2][var 30][clr 27] points.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FishResult_Fish05_ta#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "[clr 3][var 28][clr 27], huh?[n]It's [clr 2][var 29][clr 27] cm in length.[n]That's [clr 2][var 30][clr 27] points.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FishResult_Fish05_ta#1",
+   "speaker": "Fishing Pond Attendant",
+   "en": "Oh, it's got a tag. In that case it's worth[n]double, so that racks up to [clr 2][var 31][clr 27] points.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FishResult_Fish06#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "[clr 3][var 12][clr 27], huh?[n]It's [clr 2][var 13][clr 27] cm in length.[n]That's [clr 2][var 14][clr 27] points.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FishResult_Fish06_ta#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "[clr 3][var 12][clr 27], huh?[n]It's [clr 2][var 13][clr 27] cm in length.[n]That's [clr 2][var 14][clr 27] points.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FishResult_Fish06_ta#1",
+   "speaker": "Fishing Pond Attendant",
+   "en": "Oh, it's got a tag. In that case it's worth[n]double, so that racks up to [clr 2][var 15][clr 27] points.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FishResult_Fish07#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "[clr 3][var 16][clr 27], huh?[n]It's [clr 2][var 17][clr 27] cm in length.[n]That's [clr 2][var 18][clr 27] points.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FishResult_Fish07_ta#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "[clr 3][var 16][clr 27], huh?[n]It's [clr 2][var 17][clr 27] cm in length.[n]That's [clr 2][var 18][clr 27] points.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FishResult_Fish07_ta#1",
+   "speaker": "Fishing Pond Attendant",
+   "en": "Oh, it's got a tag. In that case it's worth[n]double, so that racks up to [clr 2][var 19][clr 27] points.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FishResult_End_1st#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "And right now you've got...[n][clr 2][var 1][clr 27] points.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FishResult_End#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "And right now you've got...[n][clr 2][var 1][clr 27] points.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FishResult_End_NotFi#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "Looks like you couldn't catch any.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FishResult_End_NotFi#1",
+   "speaker": "Fishing Pond Attendant",
+   "en": "You may have better luck if you use[n]better fishing rods and bait.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FishResult_End_NotFi_2#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "Looks like you couldn't catch any.[n]Take your time... Don't panic. That's[n]the trick to fishing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_Get_Nusi_1ST#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "Whoa...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_Get_Nusi_1ST#1",
+   "speaker": "Fishing Pond Attendant",
+   "en": "Way to go! You caught the Guardian!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_Get_Nusi_1ST#2",
+   "speaker": "Fishing Pond Attendant",
+   "en": "I can really feel your love for the[n]fishing pond.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_Get_Nusi_1ST#3",
+   "speaker": "Fishing Pond Attendant",
+   "en": "Since this is your first time catching it,[n]I'll give you an extra [clr 2][var 2][clr 27] points!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_Get_Nusi#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_Get_Nusi#1",
+   "speaker": "Fishing Pond Attendant",
+   "en": "Way to go! You caught the Guardian!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_Get_Nusi#2",
+   "speaker": "Fishing Pond Attendant",
+   "en": "I can really feel your love for the[n]fishing pond.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_Get_Ura_1ST#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "...No way!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_Get_Ura_1ST#1",
+   "speaker": "Fishing Pond Attendant",
+   "en": "Incredible...! You caught the Ichigaya Kingpin!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_Get_Ura_1ST#2",
+   "speaker": "Fishing Pond Attendant",
+   "en": "I can really feel your passion for the[n]fishing pond.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_Get_Ura_1ST#3",
+   "speaker": "Fishing Pond Attendant",
+   "en": "Since this is your first time catching it,[n]I'll give you an extra [clr 2][var 20][clr 27] points!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_Get_Ura#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "...Wow!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_Get_Ura#1",
+   "speaker": "Fishing Pond Attendant",
+   "en": "You did it...! You managed to catch[n]the Ichigaya Kingpin!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_Get_Ura#2",
+   "speaker": "Fishing Pond Attendant",
+   "en": "I can really feel your passion for the[n]fishing pond.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_MiddleItemPrese#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "Since this is your first time here... I'll give[n]you some medium-sized bait as a bonus.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_ItemView_Start#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "You've got [clr 2][var 0][clr 27] points right now.[n]What would you like?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_Exchange_Error#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "The [clr 3][var 2][clr 27] costs [clr 2][var 1][clr 27] points, but[n]you've only got [clr 2][var 0][clr 27] points right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_GiftExchange_Q#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "You've got [clr 2][var 0][clr 27] points right now. Do you[n]wanna exchange [clr 2][var 1][clr 27] points for the[n][clr 3][var 2][clr 27]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GiftSelect#0",
+   "speaker": null,
+   "en": "Yes, please.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GiftSelect#1",
+   "speaker": null,
+   "en": "Never mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Fish_Exchange_OK#0",
+   "speaker": "Fishing Pond Attendant",
+   "en": "All right, that'll be [clr 2][var 1][clr 27] points.[n]Here's your [clr 3][var 2][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FishCancel_YetFish#0",
+   "speaker": "Morgana",
+   "en": "You came all the way out here just to[n]walk away...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Cancel_Lmap#0",
+   "speaker": "Morgana",
+   "en": "Oh, so you want to go fishing after all?",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

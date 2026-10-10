@@ -1,0 +1,1636 @@
+{
+ "file": "EN/FIELD/NPC/CORP008.BF",
+ "entries": [
+  {
+   "id": "MSG_C08_BEGIN_D00_10_00#0",
+   "speaker": "Akechi",
+   "en": "Hey, [lName]-kun. Good evening.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_D00_10_01#0",
+   "speaker": "Akechi",
+   "en": "Oh, [fName]. Good evening.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_D00_10_02#0",
+   "speaker": "Akechi",
+   "en": "Oh, it's you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_D10_REV#0",
+   "speaker": "Akechi",
+   "en": "Hey, [fName].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_D06_50_00#0",
+   "speaker": "Akechi",
+   "en": "All we need to do now is send the[n]calling card. What should we do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C08_ACTION_D06_50_00#0",
+   "speaker": null,
+   "en": "Let's meet at the hideout.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C08_ACTION_D06_50_00#1",
+   "speaker": null,
+   "en": "No need to rush.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_ACTION_D06_50_00#0",
+   "speaker": "Akechi",
+   "en": "Ah, okay. Then let's head over to[n]Leblanc.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_ACTION_D06_51_00#0",
+   "speaker": "Akechi",
+   "en": "...I understand. Perhaps I'm jumping[n]the gun a little bit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_ACTION_D06_51_00#1",
+   "speaker": "Akechi",
+   "en": "You are the leader, I suppose. Just let[n]me know when it's time to proceed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D06_50_01#0",
+   "speaker": "Akechi",
+   "en": "We're all prepared. All we need to do is[n]wait for the proposed date.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D06_50_01#1",
+   "speaker": "Akechi",
+   "en": "Haha... Perhaps it's not quite[n]appropriate, but... I confess[n]I'm a little excited for this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_D05_00_00#0",
+   "speaker": "Akechi",
+   "en": "Welcome home, [lName]-kun.[n]I hope you don't mind that I'm[n]intruding on your home again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_D05_00_01#0",
+   "speaker": "Akechi",
+   "en": "Welcome home, [fName].[n]I'm visiting again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_D06_00_00#0",
+   "speaker": "Akechi",
+   "en": "Good evening, [lName]-kun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_D06_00_01#0",
+   "speaker": "Akechi",
+   "en": "Good evening [fName]-kun. I'm[n]glad you came.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_D06_00_02#0",
+   "speaker": "Akechi",
+   "en": "Good evening, [fName]. I've been[n]waiting for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_COOPNG_00#0",
+   "speaker": "Akechi",
+   "en": "I wanted to talk to you, but... sadly,[n]I need to get to work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_COOPNG_00#1",
+   "speaker": "Akechi",
+   "en": "We should talk when I've got more[n]time. See you later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_COOPNG_R8_#0",
+   "speaker": "Akechi",
+   "en": "Sorry, I want to focus on the mission[n]right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_COOPNG_R8_#1",
+   "speaker": "Akechi",
+   "en": "...Oh, perhaps I was a little too honest[n]the other day... but it was all true.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_COOPNG_R8_#2",
+   "speaker": "Akechi",
+   "en": "Let's duel again after this mission.[n]Next time, no holding back.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_COOPNG_R8__2#0",
+   "speaker": "Akechi",
+   "en": "All that remains is to wait for that date.[n]Personally, I've got too much on my[n]mind to even consider socializing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_COOPNG_R8__2#1",
+   "speaker": "Akechi",
+   "en": "I'm not too concerned, but you guys[n]can't afford to mess this up. It has to[n]be done right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_COOPNG_R8__2#2",
+   "speaker": "Akechi",
+   "en": "You still owe me a duel, too. So we[n]have to make sure we finish that[n]mission.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_COOPNG_01_#0",
+   "speaker": "Akechi",
+   "en": "Don't we have something better to do[n]than just hanging out?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_COOPNG_01_#1",
+   "speaker": "Akechi",
+   "en": "We have to do something about Maruki.[n]Otherwise, the world is his to shape[n]as he pleases.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_COOPNG_01_#2",
+   "speaker": "Akechi",
+   "en": "And I'd hate to see that happen. So stop[n]wasting time and get yourself ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_COOPNG_01__2#0",
+   "speaker": "Akechi",
+   "en": "Don't we have something better to do[n]than just hanging out?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_COOPNG_01__2#1",
+   "speaker": "Akechi",
+   "en": "Your time would be much better spent[n]on combat contingencies instead of[n]idle chitchat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_COOPNG_10_#0",
+   "speaker": "Akechi",
+   "en": "Don't you have anything better to do[n]than talking to me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_COOPNG_10_#1",
+   "speaker": "Akechi",
+   "en": "We have to do something about Maruki.[n]Otherwise, the world is his to shape[n]as he pleases.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_COOPNG_10_#2",
+   "speaker": "Akechi",
+   "en": "And I'd hate to see that happen. So stop[n]wasting time and get yourself ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_COOPNG_10__2#0",
+   "speaker": "Akechi",
+   "en": "What, you came just to see me? Just[n]the sort of brainless sentimentality[n]I'd expect from you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_COOPNG_10__2#1",
+   "speaker": "Akechi",
+   "en": "All we can do is wait until the date[n]Maruki gave us. Use that time to make[n]your preparations. Understood?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_COOPNG_10__2#2",
+   "speaker": "Akechi",
+   "en": "If we're going to do this, we need to hit[n]him with everything we've got. I suggest[n]you make sure you're capable of that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_COOPNG_02#0",
+   "speaker": "Akechi",
+   "en": "You really are a strange one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_COOPNG_02#1",
+   "speaker": "Akechi",
+   "en": "You do realize talking to me is a waste[n]of valuable time, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BEGIN_COOPNG_02#2",
+   "speaker": "Akechi",
+   "en": "Do you get it now? If we're on the same[n]page, then let's go change Maruki's[n]heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C01_00#0",
+   "speaker": "Akechi",
+   "en": "I wanted to talk to you, but... since we[n]have the time, do you want to go play[n]billiards together?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C01_00#1",
+   "speaker": "Akechi",
+   "en": "It's not that difficult, and we can[n]chat and play at the same time.[n]How about it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C02_00#0",
+   "speaker": "Akechi",
+   "en": "There's actually a prolific café right[n]over there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C02_01#0",
+   "speaker": "Akechi",
+   "en": "We went to that café with[n]Yoshizawa-san the other[n]day, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C02_01#1",
+   "speaker": "Akechi",
+   "en": "It's been getting quite a bit of[n]buzz lately, you know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C02_10#0",
+   "speaker": "Akechi",
+   "en": "I was hoping we could discuss things[n]over some tea, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C02_10#1",
+   "speaker": "Akechi",
+   "en": "I think it'd cause trouble for you,[n]so maybe next time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C02_10#2",
+   "speaker": "Akechi",
+   "en": "It's probably because of the TV[n]appearance, but I've been getting some[n]rather... unreasonable fans.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C02_10#3",
+   "speaker": "Akechi",
+   "en": "Whoever I spend time with publicly[n]is soon judged and lambasted on[n]social media...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C02_10#4",
+   "speaker": "Akechi",
+   "en": "Declaring my company is not intelligent[n]enough, or not attractive enough for me...[n]It's honestly a real nuisance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_AKECHI_COOP_C02_01#0",
+   "speaker": null,
+   "en": "Akechi wants to have a discussion[n]at a café nearby...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_AKECHI_COOP_C02_02#0",
+   "speaker": null,
+   "en": "With the [stIcon 1][clr 26][stLabel 1][clr 27] that I have,[n]Akechi might be able to relax...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_AKECHI_COOP_C02_02#1",
+   "speaker": null,
+   "en": "I can't hold a discussion with Akechi[n]unless my [stIcon 0][clr 26][stLabel 0][clr 27] is [clr 26][stLvLabel 0 3][clr 27], though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_AKECHI_COOP_C02_03#0",
+   "speaker": null,
+   "en": "With my [stIcon 0][clr 26][stLabel 0][clr 27], I should be able to[n]have a discussion with Akechi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_AKECHI_COOP_C02_03#1",
+   "speaker": null,
+   "en": "Akechi won't relax unless my[n][stIcon 1][clr 26][stLabel 1][clr 27] is [clr 26][stLvLabel 1 3][clr 27], though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_AKECHI_COOP_C02_04#0",
+   "speaker": null,
+   "en": "If only my [stIcon 0][clr 26][stLabel 0][clr 27] was [clr 26][stLvLabel 0 3][clr 27][n]and my [stIcon 1][clr 26][stLabel 1][clr 27] was [clr 26][stLvLabel 1 3][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_AKECHI_COOP_C02_04#1",
+   "speaker": null,
+   "en": "I could talk with Akechi without[n]prompting any backlash...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C02_05#0",
+   "speaker": "Akechi",
+   "en": "Apologies... Perhaps another time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C02_11#0",
+   "speaker": "Akechi",
+   "en": "I was hoping we could discuss things[n]over some tea, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C02_11#1",
+   "speaker": "Akechi",
+   "en": "Unfortunately, my television appearance[n]has earned me the attention of a rather[n]extreme fanbase.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C02_11#2",
+   "speaker": "Akechi",
+   "en": "As far as they're concerned, anyone in[n]my company must meet their standards[n]of intelligence and attractiveness...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C02_11#3",
+   "speaker": "Akechi",
+   "en": "If not, well, they take it to social media,[n]denouncing and harassing the people[n]in question. I wouldn't wish that on you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_AKECHI_COOP_C02_05#0",
+   "speaker": null,
+   "en": "With the [stIcon 0][clr 26][stLabel 0][clr 27] and [stIcon 1][clr 26][stLabel 1][clr 27][n]that I have, it shouldn't be a problem...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_AKECHI_COOP_C02_06#0",
+   "speaker": "Akechi",
+   "en": "But you? I expect you'll pass muster[n]easily.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C03_00#0",
+   "speaker": "Akechi",
+   "en": "Do you have some time right now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C03_00#1",
+   "speaker": "Akechi",
+   "en": "There was a place I wanted to visit[n]with you, but what do you think?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C03_00#2",
+   "speaker": "Akechi",
+   "en": "It's a special place for me. I'm hoping[n]you'll like it too...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C04_00#0",
+   "speaker": "Akechi",
+   "en": "Hey, do you ever go to arcades?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C04_00#1",
+   "speaker": "Akechi",
+   "en": "I've never been to places like that,[n]so I'm pretty interested...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C04_00#2",
+   "speaker": "Akechi",
+   "en": "If you're so inclined, shall we visit one[n]together?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C05_00#0",
+   "speaker": "Akechi",
+   "en": "I expect we've both had a long day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C05_00#1",
+   "speaker": "Akechi",
+   "en": "I was out until now with work, but I[n]think I finally can take a break...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C05_00#2",
+   "speaker": "Akechi",
+   "en": "You're not planning on anything too[n]strenuous tonight, are you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C05_01#0",
+   "speaker": "Akechi",
+   "en": "Then perhaps we can talk over some[n]of Boss's coffee...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C05_02#0",
+   "speaker": "Sojiro",
+   "en": "Not that I'm complaining, but if you two[n]are so tired, maybe you could use a[n]bath more than a coffee.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C05_02#1",
+   "speaker": "Sojiro",
+   "en": "I mean, there's a bathhouse right there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C05_03#0",
+   "speaker": "Akechi",
+   "en": "A bathhouse? That doesn't sound too bad.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C05_03#1",
+   "speaker": "Akechi",
+   "en": "Want to come with me, [lName]-kun?[n]I'd appreciate it if you could show me[n]the way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C05_04#0",
+   "speaker": "Akechi",
+   "en": "Okay. In that case, I think I'll head out.[n]Don't want to impose, after all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C05_04#1",
+   "speaker": "Akechi",
+   "en": "Thank you, Boss.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C05_50#0",
+   "speaker": "Akechi",
+   "en": "Actually, I've been pretty busy, and I[n]can't take any time off during August.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C05_50#1",
+   "speaker": "Akechi",
+   "en": "I know you came here to see me, but I[n]apologize. Once I can take some time[n]off, I'll let you know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C06_00_0#0",
+   "speaker": "Akechi",
+   "en": "I actually have quite a bit to do. I'm[n]waiting for someone right now, in fact.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C06_00_0#1",
+   "speaker": "Akechi",
+   "en": "I'll let you know once I have a little[n]more time. Until then, our battles[n]will have to wait.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C06_00_0_2#0",
+   "speaker": "Akechi",
+   "en": "But if you have phantom thief business,[n]let me know. I'll be there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C06_00_0_3#0",
+   "speaker": "Akechi",
+   "en": "I rearranged my schedule a bit so I'd[n]have time for all this business concerning[n]Sae-san.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C06_00_0_3#1",
+   "speaker": "Akechi",
+   "en": "It doesn't feel right to just leave our[n]battles on hold...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C06_00_0_3#2",
+   "speaker": "Akechi",
+   "en": "Speaking of which...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C06_00#0",
+   "speaker": "Akechi",
+   "en": "Do you want to play billiards again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C06_00#1",
+   "speaker": "Akechi",
+   "en": "Even if I only have a little time, I'd like[n]to spend it with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C06_00#2",
+   "speaker": "Akechi",
+   "en": "I expect you've improved since last time.[n]If you're confident, I'll play you using my[n]right hand.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C06_00_0_4#0",
+   "speaker": "Akechi",
+   "en": "Assuming you have a plan on how to[n]beat me, that is.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_AKECHI_COOP_C06_01#0",
+   "speaker": null,
+   "en": "Billiards with Akechi... I wonder[n]if I can win this time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_AKECHI_COOP_C06_02#0",
+   "speaker": null,
+   "en": "Even if he's handicapping himself,[n]can I find a tactic to beat him?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_AKECHI_COOP_C06_02#1",
+   "speaker": null,
+   "en": "With the [stIcon 0][clr 26][stLabel 0][clr 27] I have now,[n]Akechi would probably beat me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_AKECHI_COOP_C06_02#2",
+   "speaker": null,
+   "en": "I could compete with him if my[n][stIcon 0][clr 26][stLabel 0][clr 27] was [clr 26][stLvLabel 0 4][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C06_00_0_5#0",
+   "speaker": "Akechi",
+   "en": "What's wrong? Don't tell me you're[n]getting cold feet now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C06_00_0_5#1",
+   "speaker": "Akechi",
+   "en": "Talk to me when you think you can win[n]against me. I'll be waiting for you here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_AKECHI_COOP_C06_03#0",
+   "speaker": null,
+   "en": "With my [stIcon 0][clr 26][stLabel 0][clr 27], I think I can[n]compete with Akechi's skills!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C07_00#0",
+   "speaker": "Akechi",
+   "en": "Do you have time? I want to talk to you[n]about something...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C07_00#1",
+   "speaker": "Akechi",
+   "en": "It'd be best if we went somewhere[n]where there aren't many people around.[n]How about, let's say... Mementos?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C07_00#2",
+   "speaker": "Akechi",
+   "en": "...Nobody can get in our way there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C07_00_K#0",
+   "speaker": "Akechi",
+   "en": "Do you have time? I want to talk to you[n]about something...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C07_00_K#1",
+   "speaker": "Akechi",
+   "en": "It'd be best if we went somewhere[n]where there aren't many people around.[n]How about, let's say... Mementos?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C07_00_K#2",
+   "speaker": "Akechi",
+   "en": "...Nobody can get in our way there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C07_00_2#0",
+   "speaker": "Akechi",
+   "en": "Are you ready to join me in Mementos?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C07_00_L#0",
+   "speaker": "Akechi",
+   "en": "A grudge match, is it? Fine, I'll indulge[n]you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C00_00#0",
+   "speaker": "Akechi",
+   "en": "I have some time before the shoot.[n]If you're not busy, do you want to[n]hang out?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C10_00#0",
+   "speaker": "Akechi",
+   "en": "If you got some time, let's chat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C10_00#1",
+   "speaker": "Akechi",
+   "en": "I was hoping for a change of pace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C00_02#0",
+   "speaker": "Akechi",
+   "en": "You seem like you've got some time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C00_02#1",
+   "speaker": "Akechi",
+   "en": "Do you think you can make some time[n]for me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_AKECHI_COOP_C00_02#2",
+   "speaker": "Akechi",
+   "en": "I could use a change of pace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_DOUZOKUSEI#0",
+   "speaker": null,
+   "en": "I feel I can become closer with[n]Akechi thanks to the [var 2][n]Persona [clr 1][var 5][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANKUP_OK_FIRST#0",
+   "speaker": null,
+   "en": "This may be a good opportunity[n]to deepen my bond with Akechi...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANKUP_OK#0",
+   "speaker": null,
+   "en": "I feel like my bond with Akechi[n]will grow stronger soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANKUP_8_OK#0",
+   "speaker": null,
+   "en": "I feel like my bond with Akechi[n]is about to get stronger, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANKUP_NG#0",
+   "speaker": null,
+   "en": "I don't think my bond with[n]Akechi will deepen just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANK_MAX_00#0",
+   "speaker": null,
+   "en": "I have a strong bond[n]with Akechi...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_DUNGEON#0",
+   "speaker": "Morgana",
+   "en": "It's good to take a break[n]every so often. Do you want[n]to hang out with Akechi?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_DAY#0",
+   "speaker": "Morgana",
+   "en": "What's the plan? Are you gonna go[n]with Akechi?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_SHIDOU#0",
+   "speaker": "Morgana",
+   "en": "Nobody thinks you're alive at[n]this point, so it should be okay[n]as long as you're careful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_SHIDOU#1",
+   "speaker": "Morgana",
+   "en": "What's the plan? Are you gonna go[n]with Akechi?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_R8_FIRST#0",
+   "speaker": "Morgana",
+   "en": "He wants the two of you to go to[n]Mementos alone...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_R8_FIRST#1",
+   "speaker": "Morgana",
+   "en": "Well, you guys are strong enough that[n]you should be fine, but... be ready for[n]anything, I guess.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_R8#0",
+   "speaker": "Morgana",
+   "en": "You guys are going again? What are[n]you two even doing down there?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_R8#1",
+   "speaker": "Morgana",
+   "en": "Welp, I guess it's not my place to say[n]anything, but make sure you're ready[n]for trouble, just in case.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK#0",
+   "speaker": null,
+   "en": "Hang out with him",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK#1",
+   "speaker": null,
+   "en": "Check bond with Akechi",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK#2",
+   "speaker": null,
+   "en": "Decline",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_R6_0#0",
+   "speaker": null,
+   "en": "Not much.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_R6_0#1",
+   "speaker": null,
+   "en": "I've got things to do.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_R6_1#0",
+   "speaker": null,
+   "en": "Hang out with him",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_R6_1#1",
+   "speaker": null,
+   "en": "Check bond with Akechi",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_R6_1#2",
+   "speaker": null,
+   "en": "Hold that thought",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_R8#0",
+   "speaker": null,
+   "en": "Let's get going",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_R8#1",
+   "speaker": null,
+   "en": "Check bond with Akechi",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_R8#2",
+   "speaker": null,
+   "en": "Not right now",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_YES_01_00#0",
+   "speaker": "Akechi",
+   "en": "I'm glad I asked. I was a little worried[n]you'd turn me down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_YES_01_00#1",
+   "speaker": "Akechi",
+   "en": "Well then, let's get going.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_YES_02_00#0",
+   "speaker": "Akechi",
+   "en": "Thanks. The place is really quite popular.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_YES_02_00#1",
+   "speaker": "Akechi",
+   "en": "It should be open right now...[n]Let's get going.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_YES_02_01#0",
+   "speaker": "Akechi",
+   "en": "Thanks. I really do like the place.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_YES_02_01#1",
+   "speaker": "Akechi",
+   "en": "It should be open right now...[n]Let's get going.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_YES_03_00#0",
+   "speaker": "Akechi",
+   "en": "Great. It's actually really close... Just[n]follow me. I'll take you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_YES_04_00#0",
+   "speaker": "Akechi",
+   "en": "Excellent. If we're going, I'd like to try[n]that battling thing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_YES_04_00#1",
+   "speaker": "Akechi",
+   "en": "I think there's a game center around[n]here. Let's get going.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_YES_05_00#0",
+   "speaker": "Akechi",
+   "en": "Oh... really?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_YES_05_00#1",
+   "speaker": "Akechi",
+   "en": "If that's the case, I suppose I'll take you[n]and Boss up on that suggestion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_YES_05_01#0",
+   "speaker": "Akechi",
+   "en": "Now then, Boss, if you'll excuse me.[n]Thank you very much for that delicious[n]coffee.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_YES_06_00#0",
+   "speaker": "Akechi",
+   "en": "Haha... You certainly are determined.[n]Let's see how you do.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_YES_07_00#0",
+   "speaker": "Akechi",
+   "en": "Okay, then let's get going.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_YES_07_00_KCJ#0",
+   "speaker": "Akechi",
+   "en": "Then let's head to Shibuya.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_YES_07_00_SBY#0",
+   "speaker": "Akechi",
+   "en": "Now, shall we get going?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_COOP_ESCAPE#0",
+   "speaker": "Morgana",
+   "en": "I'm gonna walk around.[n]Let me know when you're ready[n]to leave.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_COOP_ESCAPE_#0",
+   "speaker": "Morgana",
+   "en": "Akechi just wants to go with you, right?[n]Then I'll be waiting outside.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_COOP_ESCAPE_#1",
+   "speaker": "Morgana",
+   "en": "...Be careful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_COOP_ESCAPE__2#0",
+   "speaker": "Morgana",
+   "en": "It's just two guys having a competition,[n]right? And there's no way you'd lose.[n]But... just be careful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_SPOT_00_00#0",
+   "speaker": "Akechi",
+   "en": "So, what's the plan today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C08_SPOT_00_01#0",
+   "speaker": null,
+   "en": "Let's go hang out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C08_SPOT_00_01#1",
+   "speaker": null,
+   "en": "Let's battle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_SPOT_00_10#0",
+   "speaker": "Akechi",
+   "en": "Good idea. Where should we go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_YES_00_00#0",
+   "speaker": "Akechi",
+   "en": "Good. Then let's get going.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_YES_10_01#0",
+   "speaker": "Akechi",
+   "en": "Let's get going. The location doesn't[n]matter, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_COOP_CANCEL_00#0",
+   "speaker": "Akechi",
+   "en": "Ah, that's too bad. Some other[n]time, then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_COOP_CANCEL_01#0",
+   "speaker": "Akechi",
+   "en": "Ah, okay. Well, that's fine...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_COOP_CANCEL_01#1",
+   "speaker": "Akechi",
+   "en": "But if you change your mind,[n]just let me know. See you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_COOP_CANCEL_08_R#0",
+   "speaker": "Akechi",
+   "en": "Well, that's a shame. I guess[n]I'll head home, then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_COOP_CANCEL_08_R#1",
+   "speaker": "Akechi",
+   "en": "Thank you, Boss.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_COOP_CANCEL_08_R_2#0",
+   "speaker": "Akechi",
+   "en": "Yeah, that'll be fine. Let me know[n]when you're ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_COOP_10_00_REV#0",
+   "speaker": "Akechi",
+   "en": "Then let me get right to it: can I borrow[n]you for a moment? I want to talk to[n]you about something.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANK_MAX__REV#0",
+   "speaker": null,
+   "en": "It seems like something's[n]weighing on Akechi...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_3RD_REV#0",
+   "speaker": "Morgana",
+   "en": "Something he wants to talk to you[n]about...? I wonder what's going on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_3RD_REV#1",
+   "speaker": "Morgana",
+   "en": "What're you going to do? Are you gonna[n]go hang out with Akechi?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_REV#0",
+   "speaker": null,
+   "en": "Hang out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_REV#1",
+   "speaker": null,
+   "en": "Not this time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_YES_10_00_REV#0",
+   "speaker": "Akechi",
+   "en": "Okay, then let's go someplace quiet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_COOP_ESCAPE__3#0",
+   "speaker": "Morgana",
+   "en": "Okay, then I'll take my leave... I'm[n]leaving Lady Ann to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_COOP_CANCEL_REV#0",
+   "speaker": "Akechi",
+   "en": "Ah, okay. Then perhaps next time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_KANDA#0",
+   "speaker": null,
+   "en": "You can now go to [clr 1]Kanda[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINJUKU#0",
+   "speaker": null,
+   "en": "You can now go to [clr 2]Shinjuku[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_AKIHABARA#0",
+   "speaker": null,
+   "en": "You can now go to [clr 2]Akihabara[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_AKIHABARA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_KICHIIJOHJ#0",
+   "speaker": null,
+   "en": "You can now go to [clr 2]Kichijoji[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_KICHIIJOHJ#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy that location[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_INOKASHIRA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Inokashira Park[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_INOKASHIRA#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may like it there to hang out[n]with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_OGIKUBO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ogikubo Ramen[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_OGIKUBO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy eating ramen[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ODAIBA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Odaiba Seaside Park[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ODAIBA#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may like such parks to hang out[n]with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_UENO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ueno Museum[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_UENO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy art museums[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TSUKISHIMA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Tsukishima Monja[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TSUKISHIMA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy eating monjayaki[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_HARAJUKU#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Harajuku Takenoko Street[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_HARAJUKU#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may enjoy Takenoko Street to[n]hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TYUKAGAI#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Motomachi Chinatown[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TYUKAGAI#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to hang[n]out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MAIHAMA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Maihama Destinyland[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MAIHAMA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to hang[n]out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ASAKUSA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Asakusa[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ASAKUSA#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may enjoy the Skytree or Nakamise[n]Street to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_IKEBUKURO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ikebukuro Planetarium[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_IKEBUKURO#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may like it there to hang out[n]with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MEIJIJINGU#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Meiji Shrine[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MEIJIJINGU#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may like it there to hang out[n]with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MEIJIJINGU#2",
+   "speaker": null,
+   "en": "Furthermore, you can go by[n]yourself to pay homage to[n]the shrine if you wish.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SUIDOUBASH#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Suidobashi Dome Town[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SUIDOUBASH#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHIBUYA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Shibuya Wilton Hotel[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHIBUYA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_GINZA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ginza Sushi Bar[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_GINZA#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may enjoy eating expensive sushi[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_JINBOCHO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Jinbocho Book Town[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_JINBOCHO#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may like it there to hang out[n]with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_JINBOCHO#2",
+   "speaker": null,
+   "en": "Furthermore, you can go by[n]yourself for some shopping[n]if you so desire.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ICHIGAYA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ichigaya Fishing Pond[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ICHIGAYA#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may enjoy fishing to hang out[n]with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ICHIGAYA#2",
+   "speaker": null,
+   "en": "Furthermore, you can go by[n]yourself and try your hand at[n]fishing if you so choose.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINAGAWA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Shinagawa Aquarium[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINAGAWA#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may enjoy the aquarium to hang[n]out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_NAKANO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Nakano Commerce Building District[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_NAKANO#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may enjoy that location to hang[n]out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BYEGREET_00_00#0",
+   "speaker": "Akechi",
+   "en": "Dummy",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C08_BYEGREET_00_01#0",
+   "speaker": null,
+   "en": "Dummy 1",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C08_BYEGREET_00_01#1",
+   "speaker": null,
+   "en": "Dummy 2",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C08_BYEGREET_00_01#2",
+   "speaker": null,
+   "en": "Dummy 3",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BYEGREET_00_02#0",
+   "speaker": "Akechi",
+   "en": "Dummy",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BYEGREET_00_03#0",
+   "speaker": "Akechi",
+   "en": "Dummy",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BYEGREET_00_04#0",
+   "speaker": "Akechi",
+   "en": "Dummy",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BYEGREET_00_05#0",
+   "speaker": "Akechi",
+   "en": "Dummy",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BYEGREET_00_06#0",
+   "speaker": "Akechi",
+   "en": "Dummy",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C08_BYEGREET_00_07#0",
+   "speaker": "Akechi",
+   "en": "Dummy",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

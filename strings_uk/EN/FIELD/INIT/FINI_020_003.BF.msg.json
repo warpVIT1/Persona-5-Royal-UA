@@ -1,0 +1,173 @@
+{
+ "file": "EN/FIELD/INIT/FINI_020_003.BF",
+ "entries": [
+  {
+   "id": "MSG_JINBOUTYOU_START_1ST#0",
+   "speaker": "Morgana",
+   "en": "Whoa! This line of bookstores makes[n]for a grand sight. So this is Jinbocho,[n]the town of books!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JINBOUTYOU_START_1ST#1",
+   "speaker": "Morgana",
+   "en": "Well then, let's go in the store.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JINBOUTYOU_START#0",
+   "speaker": "Morgana",
+   "en": "There are so many books here, it's crazy.[n]I feel overwhelmed and excited at the[n]same time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BOOKSTORE_YESNO_SEL#0",
+   "speaker": null,
+   "en": "Yeah.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BOOKSTORE_YESNO_SEL#1",
+   "speaker": null,
+   "en": "I'll pass.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BOOKSTORE_START#0",
+   "speaker": "Bookstore Owner",
+   "en": "Welcome... Oh, you're pretty young[n]compared to most of our customers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BOOKSTORE_START#1",
+   "speaker": "Bookstore Owner",
+   "en": "Our bookstore caters to experts, so the[n]books here might be a tad difficult for[n]most high schoolers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BOOKSTORE_START#2",
+   "speaker": "Bookstore Owner",
+   "en": "Well, I'll sell you the easiest book that[n]we've got. Go ahead and take your time[n]with it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BOOKSTORE_SELECT#0",
+   "speaker": "Bookstore Owner",
+   "en": "Welcome...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BookStore_2nd#0",
+   "speaker": "Bookstore Owner",
+   "en": "Oh... Were you still looking for something?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BookStore_OpenLMAP#0",
+   "speaker": "Morgana",
+   "en": "All right, let's go somewhere else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BOOKSTORE_READ_01#0",
+   "speaker": "Bookstore Owner",
+   "en": "Hm, so you finished reading[n][clr 3]Master Swordsman[clr 27]. Very impressive,[n]considering how young you are.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BOOKSTORE_READ_01#1",
+   "speaker": "Bookstore Owner",
+   "en": "Well then, let me sell you a different[n]book. *chuckle* Sorry, it sounds like[n]I'm testing you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BOOKSTORE_READ_02#0",
+   "speaker": "Bookstore Owner",
+   "en": "Hm, so you finished reading[n][clr 3]Call Me Chief[clr 27]. Very impressive,[n]considering how young you are.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BOOKSTORE_READ_02#1",
+   "speaker": "Bookstore Owner",
+   "en": "Well then, let me sell you another book[n]you may enjoy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BOOKSTORE_READ_03#0",
+   "speaker": "Bookstore Owner",
+   "en": "Oh...? It seems you've read all of the[n]books in the shop... I underestimated[n]you, young man.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BOOKSTORE_READ_03#1",
+   "speaker": "Bookstore Owner",
+   "en": "My greatest treasure... Perhaps it would[n]be all right to sell to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BOOKSTORE_THANKS#0",
+   "speaker": "Bookstore Owner",
+   "en": "Thank you. Come again...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BOOKSTORE_NOT_BUY#0",
+   "speaker": "Bookstore Owner",
+   "en": "Come back again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "BOOKSTORE_SOLDOUT#0",
+   "speaker": "Morgana",
+   "en": "Hm? You already bought what the owner[n]here recommended for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOKSTORE_OUT#0",
+   "speaker": "Morgana",
+   "en": "Oh, did you want to go someplace else?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RETURN_SELECT_SEL#0",
+   "speaker": null,
+   "en": "Wait, I forgot something.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RETURN_SELECT_SEL#1",
+   "speaker": null,
+   "en": "Let's go somewhere else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LMAP_RETURN#0",
+   "speaker": "Morgana",
+   "en": "Was there something else you needed[n]to do around here?",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

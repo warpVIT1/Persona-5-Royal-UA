@@ -1,0 +1,229 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR5000_100_020.BF",
+ "entries": [
+  {
+   "id": "SAFE_ROOM_Item_help_01#0",
+   "speaker": null,
+   "en": "Fully restores HP[n]of all allies.[n](Safe room only)",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_ROOM_Item_help_02#0",
+   "speaker": null,
+   "en": "Restores 50% HP[n]of all allies.[n](Safe room only)",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_ROOM_Item_help_03#0",
+   "speaker": null,
+   "en": "Restores 75% HP[n]of all allies.[n](Safe room only)",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_ROOM_Item_help_04#0",
+   "speaker": null,
+   "en": "Fully restores HP[n]of all allies.[n](Safe room only)",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_ROOM_Item_help_00#0",
+   "speaker": null,
+   "en": "Stop using items",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_ROOM_Item_TITLE#0",
+   "speaker": null,
+   "en": "Safe Room Items",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_ROOM_Item_SEL#0",
+   "speaker": null,
+   "en": "(x[var 11])",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_OK_PC03_me#0",
+   "speaker": "Morgana",
+   "en": "All right, let's rest up, guys!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_OK_PC09_me#0",
+   "speaker": "Akechi",
+   "en": "Then let's rest.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_OK_END_PC0#0",
+   "speaker": "Morgana",
+   "en": "Phew... That helped a little.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_OK_END_PC0_2#0",
+   "speaker": "Akechi",
+   "en": "That helped us recover a bit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_OK_END_PC0_3#0",
+   "speaker": "Morgana",
+   "en": "Phew... That definitely helped.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_OK_END_PC0_4#0",
+   "speaker": "Akechi",
+   "en": "That definitely helped us recover a bit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_NG_PC03_me#0",
+   "speaker": "Morgana",
+   "en": "Hey, you don't have any tools you[n]can use.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_NG_PC03_me#1",
+   "speaker": "Morgana",
+   "en": "Make sure to prepare beforehand.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_NG_PC09_me#0",
+   "speaker": "Akechi",
+   "en": "It doesn't seem like you have tools[n]you can use?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_NG_PC09_me#1",
+   "speaker": "Akechi",
+   "en": "Maybe you forgot to prepare?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_NG_PC03_me_2#0",
+   "speaker": "Morgana",
+   "en": "Hm? Doesn't seem like anyone here[n]is tired.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_NG_PC09_me_2#0",
+   "speaker": "Akechi",
+   "en": "It doesn't seem like anyone here is tired.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_SYSTEM_mes#0",
+   "speaker": null,
+   "en": "All party members HP and SP[n]recovered a little bit by resting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_SYSTEM_mes_2#0",
+   "speaker": null,
+   "en": "You used a [f 2 5 3 9999 8][n]and recovered HP.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_RECOVERY_SYSTEM_mes_3#0",
+   "speaker": null,
+   "en": "You used a [f 2 5 3 9999 8][n]and recovered SP.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_BREIFING_USE_ITE#0",
+   "speaker": "Morgana",
+   "en": "Didn't you have something we could use[n]to recover? Should we use that and rest?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_BREIFING_USE_ITE_2#0",
+   "speaker": "Akechi",
+   "en": "It seems like you have something we[n]could use to recover. Would you like[n]to use it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_BREIFING_USE_ITE_3#0",
+   "speaker": null,
+   "en": "Use",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_BREIFING_USE_ITE_3#1",
+   "speaker": null,
+   "en": "Don't use",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CHECK_USE_ITEM_PC03_mes0#0",
+   "speaker": "Morgana",
+   "en": "I'm glad you came prepared, Joker![n]All right then, let's rest up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CHECK_USE_ITEM_PC09_mes0#0",
+   "speaker": "Akechi",
+   "en": "I knew you'd be prepared. Let's rest.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CANCEL_USE_ITEM_PC03_mes#0",
+   "speaker": "Morgana",
+   "en": "Hm? Are we not resting?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CANCEL_USE_ITEM_PC09_mes#0",
+   "speaker": "Akechi",
+   "en": "Hm? We're not resting?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NO_EFF_USE_ITEM_PC03_mes#0",
+   "speaker": "Morgana",
+   "en": "There's no point in using that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NO_EFF_USE_ITEM_PC09_mes#0",
+   "speaker": "Akechi",
+   "en": "I don't think there's any point in[n]using that.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

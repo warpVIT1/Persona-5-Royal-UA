@@ -1,0 +1,1167 @@
+{
+ "file": "EN/INIT/CMM.BIN/cmmFunctionHelp.bmd",
+ "entries": [
+  {
+   "id": "corpFuncHelp_Blank#0",
+   "speaker": null,
+   "en": "??????????????????????",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_000_RANK_01#0",
+   "speaker": null,
+   "en": "Allows you to negotiate with Shadows[n]after performing a Hold Up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_000_RANK_11#0",
+   "speaker": null,
+   "en": "Earn bonus EXP when fusing Personas[n]based on their arcana's Confidant rank.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_000_RANK_02#0",
+   "speaker": null,
+   "en": "See things normally invisible to the[n]naked eye by pressing [f 1 10 49].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_000_RANK_04#0",
+   "speaker": null,
+   "en": "Increases your Persona[n]stock to 8 slots.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_000_RANK_05#0",
+   "speaker": null,
+   "en": "Increases your Persona[n]stock to 10 slots.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_000_RANK_06#0",
+   "speaker": null,
+   "en": "Increases the EXP bonus[n]granted by Arcana Burst.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_000_RANK_08#0",
+   "speaker": null,
+   "en": "Increases your Persona[n]stock to 12 slots.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_000_RANK_10#0",
+   "speaker": null,
+   "en": "Greatly increases the EXP[n]bonus granted by Arcana Burst.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_RANK_01#0",
+   "speaker": null,
+   "en": "Allows you to craft basic[n]infiltration tools.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_RANK_02#0",
+   "speaker": null,
+   "en": "Allows you to pass your turn over to[n]other Baton Pass users after a 1 More.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_RANK_03#0",
+   "speaker": null,
+   "en": "Chance to perform a follow-up attack if[n]Joker's attack does not down the enemy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_RANK_04#0",
+   "speaker": null,
+   "en": "If negotiation with an animal-type[n]Shadow fails, you can try again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_RANK_05#0",
+   "speaker": null,
+   "en": "Chance to obtain an item when[n]Joker performs a melee attack.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_RANK_06#0",
+   "speaker": null,
+   "en": "Allows you to craft[n]all infiltration tools.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_RANK_07#0",
+   "speaker": null,
+   "en": "Chance to cure status ailments[n]inflicted upon party members.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_RANK_08#0",
+   "speaker": null,
+   "en": "Chance to withstand an otherwise[n]fatal attack with 1 HP remaining.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_RANK_09#0",
+   "speaker": null,
+   "en": "Chance to shield Joker from[n]an otherwise fatal attack.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_RANK_10#0",
+   "speaker": null,
+   "en": "Transforms Persona into[n]a mythological trickster.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_RANK_11#0",
+   "speaker": null,
+   "en": "Fuse with the mythological Trickster,[n]awakening its true power.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_002_RANK_01#0",
+   "speaker": null,
+   "en": "Allows you to see skills and potential[n]item drops on the analysis screen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_002_RANK_02#0",
+   "speaker": null,
+   "en": "Allows you to pass your turn over to[n]other Baton Pass users after a 1 More.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_002_RANK_03#0",
+   "speaker": null,
+   "en": "If negotiation with a martial arts-using[n]Shadow fails, you can try again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_002_RANK_04#0",
+   "speaker": null,
+   "en": "Chance to perform a follow-up attack if[n]Joker's attack does not down the enemy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_002_RANK_06#0",
+   "speaker": null,
+   "en": "Chance to cure status ailments[n]inflicted upon party members.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_002_RANK_07#0",
+   "speaker": null,
+   "en": "Allows you to see Null, Repel, and Drain[n]when highlighting a target in battle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_002_RANK_08#0",
+   "speaker": null,
+   "en": "Chance to withstand an otherwise[n]fatal attack with 1 HP remaining.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_002_RANK_09#0",
+   "speaker": null,
+   "en": "Chance to shield Joker from[n]an otherwise fatal attack.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_002_RANK_10#0",
+   "speaker": null,
+   "en": "Transforms Persona into[n]a mythological trickster.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_002_RANK_11#0",
+   "speaker": null,
+   "en": "Fuse with the mythological Trickster,[n]awakening its true power.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_RANK_01#0",
+   "speaker": null,
+   "en": "Allows you to grow vegetables with[n]Haru on the Shujin Academy rooftop.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_RANK_02#0",
+   "speaker": null,
+   "en": "Allows you to pass your turn over to[n]other Baton Pass users after a 1 More.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_RANK_03#0",
+   "speaker": null,
+   "en": "Chance to perform a follow-up attack if[n]Joker's attack does not down the enemy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_RANK_04#0",
+   "speaker": null,
+   "en": "If negotiation amidst a group of Shadows[n]fails, you can try again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_RANK_05#0",
+   "speaker": null,
+   "en": "Increases the total vegetable[n]yield for a single harvest.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_RANK_06#0",
+   "speaker": null,
+   "en": "Chance to cure status ailments[n]inflicted upon party members.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_RANK_07#0",
+   "speaker": null,
+   "en": "Decreases the total amount of time[n]it takes to cultivate vegetables.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_RANK_08#0",
+   "speaker": null,
+   "en": "Chance to withstand an otherwise[n]fatal attack with 1 HP remaining.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_RANK_09#0",
+   "speaker": null,
+   "en": "Chance to shield Joker from[n]an otherwise fatal attack.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_RANK_10#0",
+   "speaker": null,
+   "en": "Transforms Persona into[n]a mythological trickster.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_RANK_11#0",
+   "speaker": null,
+   "en": "Fuse with the mythological Trickster,[n]awakening its true power.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_004_RANK_01#0",
+   "speaker": null,
+   "en": "Allows Yusuke to duplicate[n]Skill Cards.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_004_RANK_02#0",
+   "speaker": null,
+   "en": "Allows you to pass your turn over to[n]other Baton Pass users after a 1 More.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_004_RANK_03#0",
+   "speaker": null,
+   "en": "Chance to perform a follow-up attack if[n]Joker's attack does not down the enemy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_004_RANK_04#0",
+   "speaker": null,
+   "en": "If negotiation with a lone Shadow fails,[n]you can try again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_004_RANK_05#0",
+   "speaker": null,
+   "en": "Allows Yusuke to create any Skill Card[n]he has copied once before.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_004_RANK_06#0",
+   "speaker": null,
+   "en": "Chance to cure status ailments[n]inflicted upon party members.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_004_RANK_07#0",
+   "speaker": null,
+   "en": "Allows Yusuke to use Card Duplication[n]and Card Creation on the spot.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_004_RANK_08#0",
+   "speaker": null,
+   "en": "Chance to withstand an otherwise[n]fatal attack with 1 HP remaining.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_004_RANK_09#0",
+   "speaker": null,
+   "en": "Chance to shield Joker from[n]an otherwise fatal attack.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_004_RANK_10#0",
+   "speaker": null,
+   "en": "Transforms Persona into[n]a mythological trickster.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_004_RANK_11#0",
+   "speaker": null,
+   "en": "Fuse with the mythological Trickster,[n]awakening its true power.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_005_RANK_02#0",
+   "speaker": null,
+   "en": "Allows you to brew coffee that[n]slightly restores SP of one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_005_RANK_04#0",
+   "speaker": null,
+   "en": "Allows you to brew coffee that[n]greatly restores SP of one ally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_005_RANK_06#0",
+   "speaker": null,
+   "en": "Allows you to make curry that[n]slightly restores SP of all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_005_RANK_08#0",
+   "speaker": null,
+   "en": "Allows you to make curry that[n]moderately restores SP of all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_005_RANK_10#0",
+   "speaker": null,
+   "en": "Allows you to make curry that[n]greatly restores SP of all allies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_006_RANK_01#0",
+   "speaker": null,
+   "en": "Allows you to pass your turn over to[n]other Baton Pass users after a 1 More.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_006_RANK_02#0",
+   "speaker": null,
+   "en": "If negotiation with a female Shadow[n]fails, you can try again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_006_RANK_03#0",
+   "speaker": null,
+   "en": "Chance to perform a follow-up attack if[n]Joker's attack does not down the enemy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_006_RANK_05#0",
+   "speaker": null,
+   "en": "Chance to force enemies to ask for[n]less during negotiations.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_006_RANK_06#0",
+   "speaker": null,
+   "en": "Chance to cure status ailments[n]inflicted upon party members.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_006_RANK_07#0",
+   "speaker": null,
+   "en": "Chance to grab the enemy's attention[n]and cancel their action.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_006_RANK_08#0",
+   "speaker": null,
+   "en": "Chance to withstand an otherwise[n]fatal attack with 1 HP remaining.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_006_RANK_09#0",
+   "speaker": null,
+   "en": "Chance to shield Joker from[n]an otherwise fatal attack.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_006_RANK_10#0",
+   "speaker": null,
+   "en": "Transforms Persona into[n]a mythological trickster.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_006_RANK_11#0",
+   "speaker": null,
+   "en": "Fuse with the mythological Trickster,[n]awakening its true power.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_007_RANK_02#0",
+   "speaker": null,
+   "en": "If negotiation with an upbeat Shadow[n]fails, you can try again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_007_RANK_03#0",
+   "speaker": null,
+   "en": "Chance to perform a follow-up attack if[n]Joker's attack does not down the enemy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_007_RANK_04#0",
+   "speaker": null,
+   "en": "Makes you less likely to be found in[n]the Metaverse while dashing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_007_RANK_06#0",
+   "speaker": null,
+   "en": "Chance to cure status ailments[n]inflicted upon party members.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_007_RANK_07#0",
+   "speaker": null,
+   "en": "When encountering a weak Shadow,[n]you may destroy it immediately.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_007_RANK_08#0",
+   "speaker": null,
+   "en": "Chance to withstand an otherwise[n]fatal attack with 1 HP remaining.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_007_RANK_09#0",
+   "speaker": null,
+   "en": "Chance to shield Joker from[n]an otherwise fatal attack.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_007_RANK_10#0",
+   "speaker": null,
+   "en": "Transforms Persona into[n]a mythological trickster.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_007_RANK_11#0",
+   "speaker": null,
+   "en": "Fuse with the mythological Trickster,[n]awakening its true power.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_008_RANK_01#0",
+   "speaker": null,
+   "en": "Chance to reveal one enemy affinity[n]at the start of battle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_008_RANK_03#0",
+   "speaker": null,
+   "en": "If negotiation with a god-like Shadow[n]fails, you can try again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_008_RANK_04#0",
+   "speaker": null,
+   "en": "Chance to reveal all of one enemy's[n]affinities at the start of battle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_008_RANK_06#0",
+   "speaker": null,
+   "en": "Chance to perform a follow-up attack if[n]Joker's attack does not down the enemy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_008_RANK_07#0",
+   "speaker": null,
+   "en": "Chance to cure status ailments[n]inflicted upon party members.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_008_RANK_08#0",
+   "speaker": null,
+   "en": "Chance to shield Joker from[n]an otherwise fatal attack.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_008_RANK_09#0",
+   "speaker": null,
+   "en": "Chance to withstand an otherwise[n]fatal attack with 1 HP remaining.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_008_RANK_10#0",
+   "speaker": null,
+   "en": "Grants uncontrollable power.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_008_RANK_11#0",
+   "speaker": null,
+   "en": "Fuse with the mythological Trickster,[n]awakening its true power.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_009_RANK_01#0",
+   "speaker": null,
+   "en": "Chance to cast Kaja or party-healing[n]magic during battle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_009_RANK_02#0",
+   "speaker": null,
+   "en": "Chance to fully map a floor of[n]Mementos when entering that floor.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_009_RANK_04#0",
+   "speaker": null,
+   "en": "Chance to instantly Hold Up enemies[n]when starting a battle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_009_RANK_06#0",
+   "speaker": null,
+   "en": "Moral Support may now[n]Charge or recover SP.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_009_RANK_07#0",
+   "speaker": null,
+   "en": "Chance to revive search objects[n]in the area after battle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_009_RANK_09#0",
+   "speaker": null,
+   "en": "Chance to swap current party with[n]backups when 2 or more people are KO'd.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_009_RANK_10#0",
+   "speaker": null,
+   "en": "Chance to nullify a fatal attack[n]to a current party member.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_009_RANK_11#0",
+   "speaker": null,
+   "en": "Transforms Persona into[n]a mythological trickster.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_009_RANK_12#0",
+   "speaker": null,
+   "en": "Fuse with the mythological Trickster,[n]awakening its true power.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_RANK_01#0",
+   "speaker": null,
+   "en": "Temporarily increases the growth[n]rate of a selected social stat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_RANK_03#0",
+   "speaker": null,
+   "en": "Temporarily increases money[n]earned from battle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_RANK_05#0",
+   "speaker": null,
+   "en": "Provides a preview of all abilities[n]for a Confidant of your choice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_RANK_07#0",
+   "speaker": null,
+   "en": "Deepens your bond with a[n]Confidant of your choice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_RANK_08#0",
+   "speaker": null,
+   "en": "Triggers a Fusion Alarm, then raises[n]alarm chance until end of day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_RANK_10#0",
+   "speaker": null,
+   "en": "Allows you to clearly understand what[n]other people are thinking.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_011_RANK_01#0",
+   "speaker": null,
+   "en": "Allows you to fuse three Personas[n]to create powerful new ones.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_011_RANK_03#0",
+   "speaker": null,
+   "en": "Allows you to leave a Persona to[n]learn an attribute resistance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_011_RANK_05#0",
+   "speaker": null,
+   "en": "Allows you to pay a lot of money to[n]create Personas of a higher level.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_011_RANK_07#0",
+   "speaker": null,
+   "en": "Increases the possible fusions of[n]Personas in the Group Guillotine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_011_RANK_08#0",
+   "speaker": null,
+   "en": "Increases the possible fusions of[n]Personas in the Group Guillotine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_011_RANK_10#0",
+   "speaker": null,
+   "en": "Reduces the amount of money[n]needed for Special Treatment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_012_RANK_01#0",
+   "speaker": null,
+   "en": "Allows you to customize your gun[n]and install upgrades.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_012_RANK_03#0",
+   "speaker": null,
+   "en": "Allows you to customize camouflage[n]on your gun, which can inflict ailments.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_012_RANK_05#0",
+   "speaker": null,
+   "en": "Decreases the cost of[n]gun customization.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_012_RANK_07#0",
+   "speaker": null,
+   "en": "Unlocks more parts for customization.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_012_RANK_10#0",
+   "speaker": null,
+   "en": "Allows you to customize[n]your gun for free.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_013_RANK_01#0",
+   "speaker": null,
+   "en": "Increases the selection of[n]healing items at the clinic.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_013_RANK_03#0",
+   "speaker": null,
+   "en": "Adds more healing items[n]to the clinic.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_013_RANK_05#0",
+   "speaker": null,
+   "en": "Adds support items to the[n]inventory at the clinic.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_013_RANK_07#0",
+   "speaker": null,
+   "en": "Decreases the price for all[n]items sold at the clinic.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_013_RANK_10#0",
+   "speaker": null,
+   "en": "Increases the selection of[n]revival items at the clinic.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_014_RANK_01#0",
+   "speaker": null,
+   "en": "Allows you to perform various[n]activities in Kawakami's class.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_014_RANK_03#0",
+   "speaker": null,
+   "en": "Allows you to request Kawakami to[n]brew coffee or do laundry for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_014_RANK_05#0",
+   "speaker": null,
+   "en": "Gain free time in other teachers'[n]classes with Kawakami's help.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_014_RANK_07#0",
+   "speaker": null,
+   "en": "Allows you to also request Kawakami to[n]make curry or infiltration tools for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_014_RANK_10#0",
+   "speaker": null,
+   "en": "Request a massage after going into the[n]Metaverse, letting you go out at night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_015_RANK_01#0",
+   "speaker": null,
+   "en": "Decreases the Security Level when[n]you find a new Safe Room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_015_RANK_03#0",
+   "speaker": null,
+   "en": "Security Level raises slowly, and lowers[n]upon defeating an ambushed enemy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_015_RANK_05#0",
+   "speaker": null,
+   "en": "Allows you to begin with a low Security[n]Level when infiltrating a Palace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_015_RANK_07#0",
+   "speaker": null,
+   "en": "Allows you to begin with an even lower[n]Security Level when infiltrating a Palace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_015_RANK_10#0",
+   "speaker": null,
+   "en": "Makes it easier to ambush the enemy,[n]regardless of Security Level.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_016_RANK_01#0",
+   "speaker": null,
+   "en": "Allows you to knock down an enemy[n]with a special shot once per infiltration.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_016_RANK_02#0",
+   "speaker": null,
+   "en": "Chance to enter a gun-based All-Out[n]Attack after a successful ambush.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_016_RANK_03#0",
+   "speaker": null,
+   "en": "Able to scare enemies in negotiation[n]to make it easier to obtain a Persona.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_016_RANK_05#0",
+   "speaker": null,
+   "en": "Increases the success rate of an[n]ailment-inflicting gunshot.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_016_RANK_06#0",
+   "speaker": null,
+   "en": "Allows you to use Down Shot three[n]times per infiltration.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_016_RANK_08#0",
+   "speaker": null,
+   "en": "Increases the damage inflicted[n]by Bullet Hail.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_016_RANK_10#0",
+   "speaker": null,
+   "en": "Allows Joker's gun attacks to ignore[n]resistances and hit the enemy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_017_RANK_01#0",
+   "speaker": null,
+   "en": "Allows you to swap current party with[n]backup members during Joker's turn.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_017_RANK_03#0",
+   "speaker": null,
+   "en": "Chance for a follow-up by a backup[n]member if Joker downs an enemy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_017_RANK_05#0",
+   "speaker": null,
+   "en": "Allows you to attempt an escape,[n]even when surrounded by the enemy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_017_RANK_07#0",
+   "speaker": null,
+   "en": "Earn double money if a battle is won[n]in 1 turn after a successful ambush.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_017_RANK_09#0",
+   "speaker": null,
+   "en": "Decreases turn delay to zero, allowing[n]you to instantly escape battle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_017_RANK_10#0",
+   "speaker": null,
+   "en": "Allows you to swap current party with[n]backup members during anyone's turn.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_RANK_01#0",
+   "speaker": null,
+   "en": "Allows backup members to earn EXP.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_RANK_03#0",
+   "speaker": null,
+   "en": "Increases EXP earned from battle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_RANK_05#0",
+   "speaker": null,
+   "en": "Increases EXP earned[n]by backup members.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_RANK_07#0",
+   "speaker": null,
+   "en": "Greatly increases EXP[n]earned from battle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_RANK_10#0",
+   "speaker": null,
+   "en": "Allows backup members to earn the[n]same EXP as current party members.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_RANK_02#0",
+   "speaker": null,
+   "en": "Occasionally ask for more money[n]or items during negotiations.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_RANK_03#0",
+   "speaker": null,
+   "en": "Allows you to ask for large amounts[n]of money during negotiations.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_RANK_05#0",
+   "speaker": null,
+   "en": "Occasionally raises the chances of[n]an enemy giving you a rare item.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_RANK_08#0",
+   "speaker": null,
+   "en": "Occasionally lets you skip negotiation[n]when attempting to obtain a Persona.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_RANK_10#0",
+   "speaker": null,
+   "en": "Allows you to form contracts[n]with higher-level Shadows.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_020_RANK_10#0",
+   "speaker": null,
+   "en": "Cooperate as comrades who fight[n]for justice and seek the truth.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_022_RANK_01#0",
+   "speaker": null,
+   "en": "Allows you to avoid being surrounded[n]by enemies in Palaces.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_022_RANK_04#0",
+   "speaker": null,
+   "en": "Allows you to ambush from a distance[n]by attacking with the grappling hook.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_022_RANK_05#0",
+   "speaker": null,
+   "en": "??????????????????????",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_022_RANK_06#0",
+   "speaker": null,
+   "en": "Chance to perform a follow-up attack if[n]Joker's attack does not down the enemy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_022_RANK_06_2#0",
+   "speaker": null,
+   "en": "If negotiation with any kind of Shadow[n]fails, you can try again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_022_RANK_07#0",
+   "speaker": null,
+   "en": "Chance to cure status ailments[n]inflicted upon party members.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_022_RANK_08#0",
+   "speaker": null,
+   "en": "Chance to withstand an otherwise[n]fatal attack with 1 HP remaining.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_022_RANK_09#0",
+   "speaker": null,
+   "en": "Chance to shield Joker from[n]an otherwise fatal attack.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_022_RANK_10#0",
+   "speaker": null,
+   "en": "Transforms Persona into[n]a mythological trickster.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_022_RANK_11#0",
+   "speaker": null,
+   "en": "Fuse with the mythological Trickster,[n]awakening its true power.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_023_RANK_01#0",
+   "speaker": null,
+   "en": "When Joker is inflicted with an ailment,[n]he may recover immediately.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_023_RANK_03#0",
+   "speaker": null,
+   "en": "Chance to receive the effects of Charge[n]and Concentrate at the start of battle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_023_RANK_05#0",
+   "speaker": null,
+   "en": "Chance to restore Joker's SP when[n]it is low.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_023_RANK_06#0",
+   "speaker": null,
+   "en": "Raises the chance of Flow succeeding.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_023_RANK_08#0",
+   "speaker": null,
+   "en": "Raises the chance of Detox X[n]succeeding.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_023_RANK_10#0",
+   "speaker": null,
+   "en": "Raises the SP recovered from[n]Mindfulness.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

@@ -1,0 +1,2084 @@
+{
+ "file": "EN/FACILITY/MSG_COMBINE_L.BMD",
+ "entries": [
+  {
+   "id": "FCL_MSG_COMBINE_SELECT#0",
+   "speaker": null,
+   "en": "Go ahead.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_SELECT#1",
+   "speaker": null,
+   "en": "Never mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CONFIRM#0",
+   "speaker": "Igor",
+   "en": "Is this Persona acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_OVER_LEV#0",
+   "speaker": "Igor",
+   "en": "My deepest apologies, but it appears[n]as though this Persona is too powerful[n]for you to bear.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_SAME#0",
+   "speaker": "Igor",
+   "en": "It appears as though you already[n]possess that Persona.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_JAIL#0",
+   "speaker": "Igor",
+   "en": "It appears as though [clr 1][var 0][clr 27][n]is in Lockdown at the moment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_STOCK_OV#0",
+   "speaker": "Igor",
+   "en": "It appears as though you cannot hold[n]any more Personas...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_STOCK_EM#0",
+   "speaker": "Igor",
+   "en": "It appears as though you do not have[n]enough Personas for use in fusion[n]at the moment...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_MONEY#0",
+   "speaker": "Igor",
+   "en": "It appears as though you do not possess[n]enough money for that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_MONEY_CO#0",
+   "speaker": "Igor",
+   "en": "It will require [var 0] yen[n]to create this Persona.[n]Is that acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_SUCCESSI#0",
+   "speaker": "Lavenza",
+   "en": "Please choose the skills you wish[n]to inherit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_COMU_POW#0",
+   "speaker": "Igor",
+   "en": "Ah, your [var 0] arcana[n]Confidant is bestowing new[n]power upon [var 1]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_GET_CARD#0",
+   "speaker": null,
+   "en": "The Persona [clr 1][var 0][clr 27][n]has been born!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_ACCIDENT#0",
+   "speaker": "Igor",
+   "en": "Ah! My sincerest apologies... It seems[n]the results did not go exactly according[n]to plan...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_ACCIDENT_2#0",
+   "speaker": "Igor",
+   "en": "It seems there is someone [clr 2]wary[clr 27] of you,[n]causing a violent maelstrom in the sea[n]of consciousness...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_ACCIDENT_2#1",
+   "speaker": "Igor",
+   "en": "This may cause an unexpected accident...[n]Are you sure this is acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_SKILL_EV#0",
+   "speaker": "Igor",
+   "en": "Ah, I can sense a glimmer of evolution[n]in [var 0].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_SKILL_EV#1",
+   "speaker": "Igor",
+   "en": "Tell me, what shall you do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_SKILL_EV_2#0",
+   "speaker": "Igor",
+   "en": "[var 0] evolved[n]into [var 1]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_SKILL_CH#0",
+   "speaker": "Igor",
+   "en": "Ah, I can see the spark of change[n]within [var 0].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_SKILL_CH#1",
+   "speaker": "Igor",
+   "en": "Tell me, what shall you do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_SKILL_CH_2#0",
+   "speaker": "Igor",
+   "en": "[var 0] turned[n]into [var 1]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_GALL_SKI#0",
+   "speaker": null,
+   "en": "Your Persona is inheriting[n]the power of the sacrifice...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_GALL_ACC#0",
+   "speaker": "Igor",
+   "en": "It appears your Persona didn't gain any[n]experience, but in exchange, its power[n]seems to have grown...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_SKILL_EV_3#0",
+   "speaker": null,
+   "en": "Do it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_SKILL_EV_3#1",
+   "speaker": null,
+   "en": "It's fine as is.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_BONUS#0",
+   "speaker": "Igor",
+   "en": "Your Persona seems more powerful[n]than originally anticipated...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_BONUS_SK#0",
+   "speaker": "Igor",
+   "en": "Something is happening to a skill...[n]Will you permit it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_BONUS_SK_2#0",
+   "speaker": null,
+   "en": "Do it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_BONUS_SK_2#1",
+   "speaker": null,
+   "en": "I'll keep it as is.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_BONUS_SK_2#2",
+   "speaker": null,
+   "en": "Let's go back to the skills.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_PUBLIC_S#0",
+   "speaker": "Igor",
+   "en": "It seems to have acquired a special skill...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_SEL#0",
+   "speaker": null,
+   "en": "Do it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_SEL#1",
+   "speaker": null,
+   "en": "Never mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_CON#0",
+   "speaker": "Lavenza",
+   "en": "Is this Persona acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_STO#0",
+   "speaker": "Lavenza",
+   "en": "You do not currently possess any[n]Personas you can imprison.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_IN_#0",
+   "speaker": "Lavenza",
+   "en": "Hm? But you already have a Persona[n]in Lockdown.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_HOU#0",
+   "speaker": "Lavenza",
+   "en": "That Persona possesses a shared[n]consciousness with an ancient relic,[n]and hence cannot grow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_HOU#1",
+   "speaker": "Lavenza",
+   "en": "As such, imprisoning it is, in essence,[n]futile. I advise that you rethink your[n]decision.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_LAV#0",
+   "speaker": "Lavenza",
+   "en": "The evil god has been unleashed upon[n]us. Unfortunately, we do not have[n]the time to train a Persona.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_LAV#1",
+   "speaker": "Lavenza",
+   "en": "Furthermore, please remember to take[n]any Personas remaining in Lockdown[n]along with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_LV9#0",
+   "speaker": "Lavenza",
+   "en": "It seems that Persona has reached[n]its full potential.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_LV9#1",
+   "speaker": "Lavenza",
+   "en": "As such, imprisoning it is, in essence,[n]futile. I advise that you rethink your[n]decision.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_NOT#0",
+   "speaker": "Lavenza",
+   "en": "There are no Personas currently[n]imprisoned. Please observe more[n]carefully next time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_NOT_2#0",
+   "speaker": "Lavenza",
+   "en": "You lack any incense to use here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_ITE#0",
+   "speaker": "Lavenza",
+   "en": "Will you burn some incense?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_ITE_2#0",
+   "speaker": null,
+   "en": "Burn one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_ITE_2#1",
+   "speaker": null,
+   "en": "No, let's not.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_ITE_2#2",
+   "speaker": null,
+   "en": "Actually, let's change Personas.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_OVE#0",
+   "speaker": "Lavenza",
+   "en": " is still burning...[n]Do you wish to burn a different[n]incense?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_ITE_3#0",
+   "speaker": "Lavenza",
+   "en": "You wish to burn a [f 2 5 3 9999 0],[n]then?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_ITE_4#0",
+   "speaker": null,
+   "en": "Do it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_ITE_4#1",
+   "speaker": null,
+   "en": "Pick a different one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_GET#0",
+   "speaker": "Lavenza",
+   "en": "Do you wish to release this Persona[n]from its imprisonment?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_GET_2#0",
+   "speaker": "Lavenza",
+   "en": "It seems that your Persona is about to[n]learn a skill...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_GET_2#1",
+   "speaker": "Lavenza",
+   "en": "Do you still wish to release it from[n]imprisonment?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_GET_3#0",
+   "speaker": "Lavenza",
+   "en": "It seems a bit more time is needed[n]for your Persona to learn a skill...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_GET_3#1",
+   "speaker": "Lavenza",
+   "en": "Do you still wish to release it from[n]imprisonment?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_GET_4#0",
+   "speaker": "Lavenza",
+   "en": "It will still be quite some time before[n]your Persona learns a skill.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_GET_4#1",
+   "speaker": "Lavenza",
+   "en": "Do you still wish to release it from[n]imprisonment?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_NON#0",
+   "speaker": "Lavenza",
+   "en": "Your Persona has not yet gained any[n]additional strength. Do you truly wish[n]to release it from imprisonment?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_ITE_5#0",
+   "speaker": "Lavenza",
+   "en": "The [f 2 5 3 9999 0] hasn't had any[n]effect yet. Do you still wish to release[n]the Persona?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_CELL_GET_5#0",
+   "speaker": "Lavenza",
+   "en": "Here is your newly strengthened[n]Persona. Use it well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_PUB_NET_#0",
+   "speaker": null,
+   "en": "Network Functions are currently[n]set to Off, so this feature is disabled.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_PUB_DAY_#0",
+   "speaker": "Lavenza",
+   "en": "My apologies, but this is a special ritual.[n]As such, it cannot be performed more[n]than once a day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_PUB_DAY_#1",
+   "speaker": "Lavenza",
+   "en": "I will have to request that you come back[n]another time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_PUB_CONF#0",
+   "speaker": "Lavenza",
+   "en": "Even we are unsure of what Persona[n]this will result in. Are you truly certain[n]of this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_PUB_RESU#0",
+   "speaker": "Igor",
+   "en": "*chuckle* Is this result a satisfactory[n]one?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_PUB_TUTO#0",
+   "speaker": "Lavenza",
+   "en": "First, choose one of your own Personas[n]that you wish to use in the fusion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_PUB_TUTO#1",
+   "speaker": "Lavenza",
+   "en": "Next, choose a Persona that has come[n]from another world.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_PUB_TUTO#2",
+   "speaker": "Lavenza",
+   "en": "The rest of the process follows that[n]of a standard fusion...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_PUB_TUTO#3",
+   "speaker": "Lavenza",
+   "en": "Although there is a rare chance to acquire[n]unique skills with this ritual, so please[n]bear that in mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_ELECT_KE#0",
+   "speaker": "Igor",
+   "en": "It appears as though you do not possess[n]the requisite materials...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_ELECT_NU#0",
+   "speaker": "Lavenza",
+   "en": "Given the unique nature of this ritual,[n]it cannot be repeated so easily.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_ELECT_NU#1",
+   "speaker": "Lavenza",
+   "en": "Please come back another day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_ELECT_CH#0",
+   "speaker": "Igor",
+   "en": "There do not seem to be any among you[n]who can use this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_ELECT_PO#0",
+   "speaker": "Igor",
+   "en": "You already possess this. You don't[n]need any more...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_ELECT_MA#0",
+   "speaker": "Igor",
+   "en": "It would seem you don't need any more[n]of these...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_ELECT_NO#0",
+   "speaker": "Igor",
+   "en": "You are going to lose the Persona[n]capable of using this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_ELECT_LE#0",
+   "speaker": null,
+   "en": "Level too low error (Unused)",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_BOOK_REGIST_HELP#0",
+   "speaker": "Lavenza",
+   "en": "It seems these Personas differ from[n]those currently registered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_BOOK_ACCEPTANCE#0",
+   "speaker": "Lavenza",
+   "en": "Do you desire this Persona? Then in turn,[n]I request [var 0] yen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_BOOK_ACCEPTANCE_#0",
+   "speaker": "Lavenza",
+   "en": "Shall I summon it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_BOOK_NO_MONEY#0",
+   "speaker": "Lavenza",
+   "en": "It seems you do not possess enough[n]money.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_BOOK_SUMMONS#0",
+   "speaker": null,
+   "en": "You summoned [clr 1][var 0][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_BOOK_SAME#0",
+   "speaker": "Lavenza",
+   "en": "It seems you already have that Persona[n]in your possession...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_BOOK_LEVEL#0",
+   "speaker": "Lavenza",
+   "en": "My apologies, but I don't believe you[n]could control this strong of a Persona[n]at your current level.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_BOOK_MAX#0",
+   "speaker": "Lavenza",
+   "en": "I believe holding any more Personas[n]within yourself would be quite the[n]difficult task at the moment...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_BOOK_WRITE#0",
+   "speaker": "Lavenza",
+   "en": "As requested, I have overwritten[n]the prior registration in favor of[n]your Persona's current condition.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_BOOK_WRITE_OK#0",
+   "speaker": "Lavenza",
+   "en": "Shall I register your[n][clr 1][var 0][clr 27]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_BOOK_WRITE_OK_AL#0",
+   "speaker": "Lavenza",
+   "en": "You would like me to register all of your[n]current Personas in the compendium,[n]yes?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_BOOK_WRITE_OK_MA#0",
+   "speaker": "Lavenza",
+   "en": "You would like me to register all of your[n]selected Personas in the compendium,[n]yes?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_BOOK_ALL_REGISTE#0",
+   "speaker": "Lavenza",
+   "en": "The Personas in your possession do not[n]differ from those already registered in[n]the compendium...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_BOOK_ALL_REGISTE#1",
+   "speaker": "Lavenza",
+   "en": "As such, there is no point to registering[n]them again. Do you not agree?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_DLC_COMBINE#0",
+   "speaker": "Igor",
+   "en": "Ah... This Persona was born from[n]the heart of another hero.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_DLC_COMBINE#1",
+   "speaker": "Igor",
+   "en": "If it can manifest the power of its[n]original owner, it will prove to be[n]of great import to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_DLC_BOOK_ACCEPTA#0",
+   "speaker": "Lavenza",
+   "en": "This is one of the Personas brought forth[n]by a hero from a story outside of this one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_DLC_BOOK_ACCEPTA#1",
+   "speaker": "Lavenza",
+   "en": "It holds immense power, just as its[n]owner did. I have no doubt it will[n]grant you much assistance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_DLC_BOOK_ACCEPTA#2",
+   "speaker": "Lavenza",
+   "en": "Shall I summon it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_GET_ITEM#0",
+   "speaker": null,
+   "en": "You obtained [f 2 5 3 9999 0].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "book_bonus001#0",
+   "speaker": null,
+   "en": "Registry reached 25%",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "book_bonus002#0",
+   "speaker": null,
+   "en": "Registry reached 50%",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "book_bonus003#0",
+   "speaker": null,
+   "en": "Registry reached 75%",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "book_bonus004#0",
+   "speaker": null,
+   "en": "Registry reached 100%",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_before_comu_none#0",
+   "speaker": "Igor",
+   "en": "It seems you do not yet have a[n]Confidant relationship for the[n][var 0] arcana...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_before_comu_none#1",
+   "speaker": "Igor",
+   "en": "As such, your Persona shall not be born[n]with new power. Is that acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_before_comu_none_2#0",
+   "speaker": "Igor",
+   "en": "It seems you do not yet have a[n]Confidant relationship for the[n][var 0] arcana...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_before_comu_none_2#1",
+   "speaker": "Igor",
+   "en": "As such, your Persona shall not be born[n]with new power. Is that acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_before_comu_none_3#0",
+   "speaker": "Igor",
+   "en": "It seems you do not yet have a[n]Confidant relationship for the[n][var 0] arcana...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_before_comu_none_3#1",
+   "speaker": "Igor",
+   "en": "As such, your Persona shall not be born[n]with new power. Is that acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_00#0",
+   "speaker": "Igor",
+   "en": "It seems you do not yet have a[n]Confidant relationship for the[n][var 0] arcana...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_00#1",
+   "speaker": "Igor",
+   "en": "As such, your Persona shall not be born[n]with new power. Is that acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_01#0",
+   "speaker": "Igor",
+   "en": "Your associated Confidant relationship[n]is at Rank 1. Shall we see new power?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_01#1",
+   "speaker": "Igor",
+   "en": "Is this Persona acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_02#0",
+   "speaker": "Igor",
+   "en": "Your associated Confidant relationship[n]is at Rank 2. You may see some strength...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_02#1",
+   "speaker": "Igor",
+   "en": "Is this Persona acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_03#0",
+   "speaker": "Igor",
+   "en": "Your associated Confidant relationship[n]is at Rank 3. You may see some strength...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_03#1",
+   "speaker": "Igor",
+   "en": "Is this Persona acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_04#0",
+   "speaker": "Igor",
+   "en": "Your associated Confidant relationship[n]is at Rank 4. You may receive adequate[n]power.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_04#1",
+   "speaker": "Igor",
+   "en": "Is this Persona acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_05#0",
+   "speaker": "Igor",
+   "en": "Your associated Confidant relationship[n]is at Rank 5. You may receive adequate[n]power.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_05#1",
+   "speaker": "Igor",
+   "en": "Is this Persona acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_06#0",
+   "speaker": "Igor",
+   "en": "Your associated Confidant relationship[n]is at Rank 6. It will obtain great power.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_06#1",
+   "speaker": "Igor",
+   "en": "Is this Persona acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_07#0",
+   "speaker": "Igor",
+   "en": "Your associated Confidant relationship[n]is at Rank 7. It will obtain great power.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_07#1",
+   "speaker": "Igor",
+   "en": "Is this Persona acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_08#0",
+   "speaker": "Igor",
+   "en": "Your associated Confidant relationship[n]is at Rank 8. You shall see boundless[n]strength.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_08#1",
+   "speaker": "Igor",
+   "en": "Is this Persona acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_09#0",
+   "speaker": "Igor",
+   "en": "Your associated Confidant relationship[n]is at Rank 9. You shall see boundless[n]strength.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_09#1",
+   "speaker": "Igor",
+   "en": "Is this Persona acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_10#0",
+   "speaker": "Igor",
+   "en": "Your associated Confidant relationship[n]is at Rank 10.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_10#1",
+   "speaker": "Igor",
+   "en": "*chuckle* It will undoubtedly be granted[n]immeasurable power when it is born.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_10#2",
+   "speaker": "Igor",
+   "en": "Is this Persona acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_s00#0",
+   "speaker": "Igor",
+   "en": "Judgement 00[n]Is this Persona acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_s01#0",
+   "speaker": "Igor",
+   "en": "Judgement 01[n]Is this Persona acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_s02#0",
+   "speaker": "Igor",
+   "en": "Judgement 02[n]Is this Persona acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_s03#0",
+   "speaker": "Igor",
+   "en": "Judgement 03[n]Is this Persona acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_s04#0",
+   "speaker": "Igor",
+   "en": "Judgement 04[n]Is this Persona acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_s05#0",
+   "speaker": "Igor",
+   "en": "Judgement 05[n]Is this Persona acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_s06#0",
+   "speaker": "Igor",
+   "en": "Judgement 06[n]Is this Persona acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_s07#0",
+   "speaker": "Igor",
+   "en": "Judgement 07[n]Is this Persona acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_s08#0",
+   "speaker": "Igor",
+   "en": "Judgement 08[n]Is this Persona acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_s09#0",
+   "speaker": "Igor",
+   "en": "Judgement 09[n]Is this Persona acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_rank_s10#0",
+   "speaker": "Igor",
+   "en": "Judgement 10[n]Is this Persona acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_doubt#0",
+   "speaker": "Igor",
+   "en": "\"[var 0]\" doubt (not used)",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_doubt#1",
+   "speaker": "Igor",
+   "en": "Are you certain this Persona[n]is acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_broken#0",
+   "speaker": "Igor",
+   "en": "\"[var 0]\" broken (not used)",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_broken#1",
+   "speaker": "Igor",
+   "en": "Are you certain this Persona[n]is acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_comu_world#0",
+   "speaker": "Igor",
+   "en": "Is this Persona acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP000#0",
+   "speaker": "Igor",
+   "en": "The greatest assistance we offer here[n]to you is Persona Fusion...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP000#1",
+   "speaker": "Igor",
+   "en": "It is an ancient ritual by which Personas[n]in your possession are combined to[n]form a new one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP000#2",
+   "speaker": "Igor",
+   "en": "This ritual is the birth of your new self...[n]while also being the execution of your[n]former existence.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP000#3",
+   "speaker": "Igor",
+   "en": "The resulting Persona from a fusion will[n]surely be stronger than the composite[n]ones.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP000#4",
+   "speaker": "Igor",
+   "en": "However, you will lose any Personas[n]used for the ritual.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP000#5",
+   "speaker": "Igor",
+   "en": "Furthermore, given that you use[n]multiple Personas to create only one,[n]your stock will decrease...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP000#6",
+   "speaker": "Igor",
+   "en": "*chuckle* You may wish to consider[n]well what you gain and what you lose[n]from fusion before partaking...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP001#0",
+   "speaker": "Igor",
+   "en": "Think carefully about the Confidant[n]bonds you have formed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP001#1",
+   "speaker": "Igor",
+   "en": "They are closely connected to your[n]heart, and by association, the Personas[n]that dwell within it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP001#2",
+   "speaker": "Igor",
+   "en": "Fuse a Persona of your Confidant bond's[n]arcana, and it will gain experience...[n]perhaps, even levels.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP001#3",
+   "speaker": "Igor",
+   "en": "The higher the Confidant's Rank, of[n]course, the more experience your[n]Persona will earn.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP001#4",
+   "speaker": "Igor",
+   "en": "Perhaps now you truly understand[n]the value of a bond with a fine, trusted[n]Confidant...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP002#0",
+   "speaker": "Igor",
+   "en": "Allow me to explain the Arcana Burst[n]in a little more detail.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP002#1",
+   "speaker": "Igor",
+   "en": "The power you receive from an Arcana[n]Burst is called Burst Points.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP002#2",
+   "speaker": "Igor",
+   "en": "By spending Burst Points, you can grant[n]yet further power to your Persona in[n]any way you please.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP002#3",
+   "speaker": "Igor",
+   "en": "Will you temper their strengths?[n]Or shield their vulnerabilities?[n]The choice is yours alone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP002#4",
+   "speaker": "Igor",
+   "en": "Take note that abilities raised with[n]Burst Points do not grow through[n]leveling up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP002#5",
+   "speaker": "Igor",
+   "en": "Take care that you consider each of[n]your options carefully before you[n]conduct a fusion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP003#0",
+   "speaker": "Igor",
+   "en": "Traits are the individual qualities that[n]a Persona may possess. There are[n]numerous kinds with various effects...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP003#1",
+   "speaker": "Igor",
+   "en": "They are inheritable during fusion,[n]but only one may be inherited at[n]a time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP003#2",
+   "speaker": "Igor",
+   "en": "Keep this in mind whenever you[n]perform a fusion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP003#3",
+   "speaker": "Igor",
+   "en": "Furthermore, there are also rare cases[n]where you cannot pass on a Trait, or[n]a new Trait will appear mid-inheritance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP003#4",
+   "speaker": "Igor",
+   "en": "There does appear to be some method[n]to the madness, though. Perhaps you can[n]eventually comprehend how it works?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP004#0",
+   "speaker": "Igor",
+   "en": "Of course, there is more than one way[n]to fuse Personas.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP004#1",
+   "speaker": "Igor",
+   "en": "You have other rituals at your disposal[n]besides the standard guillotine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP004#2",
+   "speaker": "Igor",
+   "en": "Ah, but you must no doubt be well[n]familiar with these by now, yes?[n]*chuckle*",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP005#0",
+   "speaker": "Igor",
+   "en": "Personas born from fusion can inherit[n]some of the skills of their source[n]Personas.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP005#1",
+   "speaker": "Igor",
+   "en": "Simply put, it is possible to create[n]Personas with skills they would[n]ordinarily never learn.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP005#2",
+   "speaker": "Igor",
+   "en": "Full understanding is best achieved in[n]practice, but I will provide some simple[n]guidance...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP005#3",
+   "speaker": "Igor",
+   "en": "Firstly, the more skills the base Personas[n]have, the more skills you may inherit...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP005#4",
+   "speaker": "Igor",
+   "en": "You shall have your choice of which[n]skills shall be passed on... to an extent.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP005#5",
+   "speaker": "Igor",
+   "en": "However, be aware that some Personas[n]and some skills may never intertwine...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP005#6",
+   "speaker": "Igor",
+   "en": "If you wish to create Personas of[n]unmatched power, I suggest you[n]remember this well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP007#0",
+   "speaker": "Igor",
+   "en": "I must apologize, but even our ritual[n]is not foolproof.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP007#1",
+   "speaker": "Igor",
+   "en": "We have been known to have rare cases[n]in which... \"accidents\" may occur.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP007#2",
+   "speaker": "Igor",
+   "en": "These fusion accidents may cause an[n]entirely unexpected Persona to be[n]born instead.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP007#3",
+   "speaker": "Igor",
+   "en": "The results of such accidents are beyond[n]even our predictions... One must expect[n]the unexpected.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP008#0",
+   "speaker": "Igor",
+   "en": "The Guillotine Search allows you to[n]view what Personas you can fuse with[n]what you currently possess.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP008#1",
+   "speaker": "Igor",
+   "en": "Even should the results be identical,[n]you will be able to see all possible[n]combinations.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP008#2",
+   "speaker": "Igor",
+   "en": "Ah, but you have come so far... I suspect[n]you are far beyond such fundamentals,[n]hmm?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP009#0",
+   "speaker": "Igor",
+   "en": "Allow me to explain the fusion[n]known as Group Guillotine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP009#1",
+   "speaker": "Igor",
+   "en": "You do not pick from individual[n]Personas, but rather select a[n]predetermined combination.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP009#2",
+   "speaker": "Igor",
+   "en": "They will all require three or more[n]Personas, but the end result may be[n]truly one of a kind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP009#3",
+   "speaker": "Igor",
+   "en": "This type of fusion is guaranteed to[n]grant you a Persona of remarkable[n]strength...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP009#4",
+   "speaker": "Igor",
+   "en": "Perhaps this will serve you in the battles[n]to come, hmm?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP010#0",
+   "speaker": "Igor",
+   "en": "In worlds adjacent to our own, other[n]thieves strive against the very same[n]trials you face...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP010#1",
+   "speaker": "Igor",
+   "en": "By combining resources with the thieves[n]beyond, you may perform a Public[n]Execution fusion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP010#2",
+   "speaker": "Igor",
+   "en": "You select a Persona from your own[n]stock to fuse with a Persona chosen[n]by another such thief...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP010#3",
+   "speaker": "Igor",
+   "en": "I'm sure you understand the potential[n]of performing fusions with Personas[n]that you yourself do not yet possess...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP010#4",
+   "speaker": "Igor",
+   "en": "It is a most enticing means of fusion—[n]one that at times can even produce skills[n]unobtainable with any other method.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP010#5",
+   "speaker": "Igor",
+   "en": "However, Public Execution is not to be[n]abused... Such a ritual can be performed[n]only once daily.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP010#6",
+   "speaker": "Igor",
+   "en": "Remember the limits imposed on you.[n]Only once per day...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP010#7",
+   "speaker": "Igor",
+   "en": "Your time is running out, it seems...[n]Consider your final gambits carefully.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP011#0",
+   "speaker": "Igor",
+   "en": "Allow me to explain the use of[n]the Gallows.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP011#1",
+   "speaker": "Igor",
+   "en": "It is a ritual of sacrificing a Persona to[n]another, gaining power and retaining[n]form...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP011#2",
+   "speaker": "Igor",
+   "en": "This is not so much a fusion, you see,[n]as it is an offering.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP011#3",
+   "speaker": "Igor",
+   "en": "If the Persona and the sacrifice are of[n]the same arcana, it will earn even more[n]experience.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP011#4",
+   "speaker": "Igor",
+   "en": "If you sacrifice a Treasure Demon,[n]the recipient will gain a massive[n]amount of experience.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP011#5",
+   "speaker": "Igor",
+   "en": "To fuse, or to sacrifice... How will you[n]decide their fates?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP012#0",
+   "speaker": "Igor",
+   "en": "Points earned on the Gallows are[n]\"Burst Points.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP012#1",
+   "speaker": "Igor",
+   "en": "Do you remember? These are the same[n]Burst Points as the ones you earn when[n]fusing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP012#2",
+   "speaker": "Igor",
+   "en": "By sacrificing, you allot Burst Points to[n]Personas even after creating them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP012#3",
+   "speaker": "Igor",
+   "en": "And of course you can earn \"Burst Skills\"[n]as well by allotting the requisite points.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP012#4",
+   "speaker": "Igor",
+   "en": "Burst Skills will be a great help to you.[n]Use them well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP013#0",
+   "speaker": "Igor",
+   "en": "You cannot offer a sacrifice to a Persona[n]twice in succession.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP013#1",
+   "speaker": "Igor",
+   "en": "Such a flood of power would be more[n]than the Persona could bear. Your[n]limit is once per day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP013#2",
+   "speaker": "Igor",
+   "en": "That being said, this does not seem[n]to be the case during a Fusion Alarm.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP013#3",
+   "speaker": "Igor",
+   "en": "However, do be aware of the potential[n]for accidents if you repeatedly fuse[n]Personas during an alarm.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP014#0",
+   "speaker": "Igor",
+   "en": "With the Electric Chair, you may sacrifice[n]a Persona to an item, embedding its[n]spirit within.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP014#1",
+   "speaker": "Igor",
+   "en": "Offering a living sacrifice to an inanimate[n]object... Cruel, perhaps, and even[n]idolatrous...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP014#2",
+   "speaker": "Igor",
+   "en": "However, the process is sure to result in[n]an item of incomparable value.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP014#3",
+   "speaker": "Igor",
+   "en": "All manner of items can be powered up:[n]from weapons to accessories.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP014#4",
+   "speaker": "Igor",
+   "en": "Try your hand, and see what wonders[n]you can create.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP015#0",
+   "speaker": "Igor",
+   "en": "Allow me to introduce the Fusion Alarm,[n]designed to inspire your will of rebellion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP015#1",
+   "speaker": "Igor",
+   "en": "These occur after completing a battle.[n]The more battles you win and masks you[n]obtain, the more likely the occurrence.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP015#2",
+   "speaker": "Igor",
+   "en": "Fusions performed during an alarm will[n]grant more power to the results than[n]usual, and also potentially alter skills.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP015#3",
+   "speaker": "Igor",
+   "en": "Special executions performed during[n]an alarm are also similarly improved.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP015#4",
+   "speaker": "Igor",
+   "en": "However, be wary of performing the[n]same ritual too many times, as it may[n]cause an unpredictable fusion accident.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP015#5",
+   "speaker": "Igor",
+   "en": "On the other hand, if you wish to witness[n]the unknown and discover new power,[n]then feel free to induce such accidents.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP015#6",
+   "speaker": "Igor",
+   "en": "Taking your leave after an execution[n]will end the alarm period. You can also[n]end it by speaking with Lavenza.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP016#0",
+   "speaker": "Igor",
+   "en": "It is a curious tendency of man to[n]personify items of power and[n]ascribe souls to them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP016#1",
+   "speaker": "Igor",
+   "en": "This subconscious idea is what gave rise[n]to the Shadows known as Treasure[n]Demons...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP016#2",
+   "speaker": "Igor",
+   "en": "You cannot summon them in battle,[n]as you would a normal Persona.[n]Their purpose lies in fusion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP016#3",
+   "speaker": "Igor",
+   "en": "In using Treasure Demons, you may[n]drastically change what Persona may[n]arise from a given fusion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP016#4",
+   "speaker": "Igor",
+   "en": "It appears the fusion's result[n]would somehow rely on arcana...[n]but I can offer no specifics.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP016#5",
+   "speaker": "Igor",
+   "en": "Treasure Demons may prove useful[n]in fusions other than the Guillotine,[n]as well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP016#6",
+   "speaker": "Igor",
+   "en": "Their mysteries are yours to discover.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP017#0",
+   "speaker": "Lavenza",
+   "en": "You may choose to place one of your[n]Personas into solitary confinement[n]where it can undergo special \"training.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP017#1",
+   "speaker": "Lavenza",
+   "en": "Only one Persona may undergo this[n]training at a time, though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP017#2",
+   "speaker": "Lavenza",
+   "en": "In addition, this Persona will be[n]unavailable for battle or fusions[n]during its confinement.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP018#0",
+   "speaker": "Lavenza",
+   "en": "After the day has passed, the Persona[n]in Lockdown will grow stronger.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP018#1",
+   "speaker": "Lavenza",
+   "en": "With enough time, the Persona will[n]also learn how to \"purge itself of[n]weakness.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP018#2",
+   "speaker": "Lavenza",
+   "en": "The higher the Confidant rank for[n]that Persona's arcana, the sooner[n]the purging will occur.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP018#3",
+   "speaker": "Lavenza",
+   "en": "Nurturing your bonds with others will[n]grant even greater strength to your[n]Personas—please do not forget that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP006#0",
+   "speaker": "Lavenza",
+   "en": "Solitary confinement is a place to face[n]oneself and grow. Burning an incense[n]may allow for even greater focus...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP006#1",
+   "speaker": "Lavenza",
+   "en": "The incense will take effect after the[n]day has passed—but remember, you[n]can only burn one incense at a time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP006#2",
+   "speaker": "Lavenza",
+   "en": "Once the effect has taken place, you may[n]light another incense. Make good use of[n]this to further strengthen your Personas.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP006#3",
+   "speaker": "Lavenza",
+   "en": "Incense can be found not only in the[n]Metaverse, but in your world as well.[n]Stay vigilant in your search for them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP019#0",
+   "speaker": "Lavenza",
+   "en": "While it may be locked away, a Persona[n]is still a part of your heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP019#1",
+   "speaker": "Lavenza",
+   "en": "Should you leave it in Lockdown for[n]too long, it may potentially disappear.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP019#2",
+   "speaker": "Lavenza",
+   "en": "I will give you a sole warning before it[n]disappears. Should you fail to take action,[n]you must prepare for the consequences.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP020#0",
+   "speaker": "Lavenza",
+   "en": "Personas possess unique properties[n]known as Traits.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP020#1",
+   "speaker": "Lavenza",
+   "en": "These traits can be passed on through[n]fusion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP020#2",
+   "speaker": "Lavenza",
+   "en": "With proper planning, you could come[n]to possess a nigh-unstoppable Persona.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP020#3",
+   "speaker": "Lavenza",
+   "en": "However, some rare Traits cannot be[n]inherited, so do keep that in mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_HELP020#4",
+   "speaker": "Lavenza",
+   "en": "But no matter what, only one Trait[n]can be passed along at a time, so[n]make your choice carefully.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_MHELP001#0",
+   "speaker": "Lavenza",
+   "en": "You can register your Persona's[n]name and abilities in this[n]Persona Compendium I carry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_MHELP001#1",
+   "speaker": "Lavenza",
+   "en": "Registered Personas can be restored[n]to your stock for a price.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_MHELP001#2",
+   "speaker": "Lavenza",
+   "en": "I will automatically register any[n]unrecorded Personas you bring to me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_MHELP001#3",
+   "speaker": "Lavenza",
+   "en": "I can easily overwrite an entry if you[n]have a more powerful version of[n]a Persona.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_MHELP001#4",
+   "speaker": "Lavenza",
+   "en": "Registering is free. You may request to[n]do so at any time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_MHELP001#5",
+   "speaker": "Lavenza",
+   "en": "However, if you wish to summon one,[n]I must request a fee based on its strength.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_MHELP001#6",
+   "speaker": "Lavenza",
+   "en": "Do you understand now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_MHELP002#0",
+   "speaker": "Lavenza",
+   "en": "While it may be possible to summon[n]Personas from the Compendium during[n]an alarm, you must exercise caution.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_MHELP002#1",
+   "speaker": "Lavenza",
+   "en": "The exact reason for this is unknown, but[n]withdrawing Personas seems to make[n]unforeseeable accidents more likely.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_MHELP002#2",
+   "speaker": "Lavenza",
+   "en": "As such, you must take care when using[n]the Compendium in the midst of a[n]Fusion Alarm.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_conquest_questio#0",
+   "speaker": "Igor",
+   "en": "Normally, this Persona would be[n]too powerful for you to handle...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_conquest_questio#1",
+   "speaker": "Igor",
+   "en": "It would seem, however, we do not have[n]the luxury to be strict. We shall help you[n]as well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_conquest_questio#2",
+   "speaker": "Igor",
+   "en": "If you have [clr 3][var 0][clr 27] yen, then I will[n]perform the fusion... Is that acceptable?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_conquest_sel#0",
+   "speaker": null,
+   "en": "Do it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_conquest_sel#1",
+   "speaker": null,
+   "en": "I'll pass.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_book_high_questi#0",
+   "speaker": "Lavenza",
+   "en": "It appears this Persona will require[n]summoning from the Persona[n]Compendium.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_book_high_questi#1",
+   "speaker": "Lavenza",
+   "en": "I shall summon it for you if you pay[n][clr 3][var 0][clr 27] yen. What will you do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_book_high_sel#0",
+   "speaker": null,
+   "en": "Do it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_book_high_sel#1",
+   "speaker": null,
+   "en": "I'll pass.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_WARNING_#0",
+   "speaker": "Lavenza",
+   "en": "When a Fusion Alarm is active, the[n]effects of a fusion are stronger than[n]normal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_WARNING_#1",
+   "speaker": "Lavenza",
+   "en": "However, relying upon the same[n]execution equipment too often may[n]lead to results that you aren't expecting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_WARNING__2#0",
+   "speaker": "Lavenza",
+   "en": "The next execution seems like it will[n]be rather risky... The results could very[n]well turn out differently than expected.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_WARNING__3#0",
+   "speaker": "Lavenza",
+   "en": "The newly born Persona is temporarily[n]overflowing with power.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_WARNING__3#1",
+   "speaker": "Lavenza",
+   "en": "Using this Persona in a fusion ritual may[n]well produce results that are outside[n]your expectations.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_WARNING__3#2",
+   "speaker": "Lavenza",
+   "en": "Should you wish to brave the unknown[n]in your search for power, then perhaps[n]embracing such uncertainty could help.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_WARNING__4#0",
+   "speaker": "Lavenza",
+   "en": "The Guillotine has grown unstable...[n]Be wary of performing any further[n]executions with this equipment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_WARNING__5#0",
+   "speaker": "Lavenza",
+   "en": "Something has gone amiss with the[n]Gallows... Be wary of performing any[n]further executions with this equipment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_WARNING__6#0",
+   "speaker": "Lavenza",
+   "en": "The Electric Chair is not performing as[n]expected... Be wary of performing any[n]further executions with this equipment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_WARNING__7#0",
+   "speaker": "Lavenza",
+   "en": "I believe the execution equipment can[n]no longer take any more... Please allow[n]me to bring the alarm to an end.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_WARNING__7#1",
+   "speaker": "Lavenza",
+   "en": "I must perform equipment maintenance,[n]so I will now ask you to take your leave.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_WARNING__8#0",
+   "speaker": "Lavenza",
+   "en": "The result was rather unexpected,[n]but is it still to your liking?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_WARNING__8#1",
+   "speaker": "Lavenza",
+   "en": "I must perform equipment maintenance,[n]so I will now ask you to take your leave.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_WARNING__9#0",
+   "speaker": "Lavenza",
+   "en": "The result was rather unexpected,[n]but appears to be quite significant.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MSG_COMBINE_WARNING__9#1",
+   "speaker": "Lavenza",
+   "en": "I must perform equipment maintenance,[n]so I will now ask you to take your leave.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_koukai_a6#0",
+   "speaker": null,
+   "en": "You can connect to the[n]network and fuse Personas[n]through random matching.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_kousyu_a6#0",
+   "speaker": "Lavenza",
+   "en": "By sacrificing multiple Personas[n]to a single Persona, you can power[n]up that Persona's stats.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_denki_a6#0",
+   "speaker": "Lavenza",
+   "en": "You can execute a single Persona[n]and have it transform into an item.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "msg_combine_dokubou_a6#0",
+   "speaker": "Lavenza",
+   "en": "You can leave a Persona here[n]for a certain amount of days[n]and earn experience points.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_mes_tutorial_top#0",
+   "speaker": "Velvet Resident",
+   "en": "Welcome... to the Velvet Room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_mes_tutorial_com#0",
+   "speaker": "Velvet Resident",
+   "en": "Level up your Confidant rank with[n]the Velvet residents to be able to[n]customize fusion results by bribing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_mes_tutorial_com#1",
+   "speaker": "Velvet Resident",
+   "en": "What you can customize increases as[n]your Confidant rank increases.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "combine_mes_tutorial_com#2",
+   "speaker": "Velvet Resident",
+   "en": "Provisionally, press the △ button[n]to access the bribe function.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

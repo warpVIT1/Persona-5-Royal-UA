@@ -1,0 +1,348 @@
+{
+ "file": "EN/BATTLE/EVENT/SCRIPT/02F9.BF",
+ "entries": [
+  {
+   "id": "MSG_BTL_START_000#0",
+   "speaker": "Shadow Saburi",
+   "en": "I am the miracle merchant! The savior of[n]those who are ill!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_START_001#0",
+   "speaker": "Morgana",
+   "en": "Joker, try talking to him! I'm sure he'll[n]change his heart if he hears what we[n]have to say!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SYS_MSG#0",
+   "speaker": null,
+   "en": "By holding up the enemy, you will be able[n]to have a conversation with the target.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SYS_MSG#1",
+   "speaker": null,
+   "en": "By choosing the correct answers, you[n]will be able to change the target's heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_DIA_BF__000_000#0",
+   "speaker": "Shadow Saburi",
+   "en": "Time for a miracle! Miracle X!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ATTACK_NG__000_0#0",
+   "speaker": "Haru",
+   "en": "What!? Did he just heal!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP00_000_000#0",
+   "speaker": "Haru",
+   "en": "You might call it a miracle, but some[n]people are getting even sicker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP00_000_001#0",
+   "speaker": "Shadow Saburi",
+   "en": "That's their own damn fault! They need[n]to take better care of themselves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP00_000_002#0",
+   "speaker": "Shadow Saburi",
+   "en": "I've gotten word from people who had[n]the drink saying that they're all better[n]now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP01_000#0",
+   "speaker": null,
+   "en": "They're fake.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP01_000#1",
+   "speaker": null,
+   "en": "10,000 yen is too expensive.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP01_000#2",
+   "speaker": null,
+   "en": "The drink didn't heal them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_001_000#0",
+   "speaker": "Haru",
+   "en": "Their illnesses weren't cured by the[n]ingredients in the drink.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_001_001#0",
+   "speaker": "Shadow Saburi",
+   "en": "Shut up! They were all cured, right!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_002_001#0",
+   "speaker": "Shadow Saburi",
+   "en": "You have to believe for it to work!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_002_002#0",
+   "speaker": "Morgana",
+   "en": "Looks like we couldn't convince him![n]We'll have to try a different approach!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_000_000#0",
+   "speaker": "Shadow Saburi",
+   "en": "If it didn't work, then why would people[n]still be buying it!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP02_000#0",
+   "speaker": null,
+   "en": "You're forcing them to.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP02_000#1",
+   "speaker": null,
+   "en": "It's an automatic renewal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP02_000#2",
+   "speaker": null,
+   "en": "You're undercharging them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_001_000#0",
+   "speaker": "Haru",
+   "en": "I heard that you have the clients sign a[n]self-renewing contract?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_001_001#0",
+   "speaker": "Haru",
+   "en": "If you were confident in the authenticity[n]of your products, you wouldn't have to[n]do something like that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_001_002#0",
+   "speaker": "Shadow Saburi",
+   "en": "Wh-What? That's just so customers don't[n]have to keep ordering them manually!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_001_002#1",
+   "speaker": "Shadow Saburi",
+   "en": "Why don't they just cancel their[n]subscription if they don't want it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_002_000#0",
+   "speaker": "Shadow Saburi",
+   "en": "I'm gonna sue you for defamation!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_002_001#0",
+   "speaker": "Morgana",
+   "en": "Looks like we couldn't convince him![n]We'll have try a different approach!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_000_000#0",
+   "speaker": "Shadow Saburi",
+   "en": "The amount of cancellations made by[n]customers is super low! It's 'cause miracles[n]happen if you keep drinking it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP03_000#0",
+   "speaker": null,
+   "en": "I read the fine print.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP03_000#1",
+   "speaker": null,
+   "en": "Miracles don't happen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP03_000#2",
+   "speaker": null,
+   "en": "It's just an excuse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_001_000#0",
+   "speaker": "Haru",
+   "en": "You don't allow them to cancel the renewal[n]because of a loophole, right? People feel like[n]they can't fight back, so they just give up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_001_001#0",
+   "speaker": "Haru",
+   "en": "Do you have any proof that it causes[n]miracles?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_001_002#0",
+   "speaker": "Shadow Saburi",
+   "en": "Uh, proof...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_002_000#0",
+   "speaker": "Shadow Saburi",
+   "en": "Ugh! Stop nagging! Just try drinking it,[n]then we'll see who's complaining!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_002_001#0",
+   "speaker": "Morgana",
+   "en": "Looks like we couldn't convince him![n]We'll have to try a different approach!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP04_000_000#0",
+   "speaker": "Shadow Saburi",
+   "en": "I use healthy fruits and vegetables and...[n]There's tons of vitamins in the drink!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP04_000#0",
+   "speaker": null,
+   "en": "There's no scientific proof.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP04_000#1",
+   "speaker": null,
+   "en": "It's just a mixed drink.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP04_000#2",
+   "speaker": null,
+   "en": "It's fake.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP04_001_000#0",
+   "speaker": "Haru",
+   "en": "You trick sick people by only showing[n]them the successful data right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP04_001_001#0",
+   "speaker": "Haru",
+   "en": "There's nothing wrong with a healthy[n]drink. It's you who needs to be brought[n]to justice!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP04_001_002#0",
+   "speaker": "Shadow Saburi",
+   "en": "Ugh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP04_001_003#0",
+   "speaker": "Haru",
+   "en": "Food becomes cells, bones, and muscles...[n]In other words, we are what we eat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP04_001_004#0",
+   "speaker": "Haru",
+   "en": "If you can't show your customers any[n]sincerity, then you have no right to sell[n]them food! You should be ashamed!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP04_001_005#0",
+   "speaker": "Shadow Saburi",
+   "en": "Rgh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP04_002_000#0",
+   "speaker": "Shadow Saburi",
+   "en": "All you're doing is talking shit!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP04_002_001#0",
+   "speaker": "Morgana",
+   "en": "Looks like we couldn't convince him![n]We'll have to try a different approach!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_END#0",
+   "speaker": "Shadow Saburi",
+   "en": "I'm... sorry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_OFF#0",
+   "speaker": "Shadow Saburi",
+   "en": "You can't talk to him!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

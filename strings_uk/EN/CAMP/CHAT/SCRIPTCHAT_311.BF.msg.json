@@ -1,0 +1,362 @@
+{
+ "file": "EN/CAMP/CHAT/SCRIPTCHAT_311.BF",
+ "entries": [
+  {
+   "id": "MSG_001_0_0#0",
+   "speaker": "Alibaba",
+   "en": "Good day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_002_0_0#0",
+   "speaker": null,
+   "en": "Who is this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_002_0_0#1",
+   "speaker": null,
+   "en": "What do you want?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_002_0_0#2",
+   "speaker": null,
+   "en": "Good day to you too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_0_0#0",
+   "speaker": "Alibaba",
+   "en": "Ah, you responded today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_5_0#0",
+   "speaker": "Alibaba",
+   "en": "Once again, I am Alibaba.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_7_0#0",
+   "speaker": "Alibaba",
+   "en": "You are the leader of the[n]Phantom Thieves, correct?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_004_0_0#0",
+   "speaker": null,
+   "en": "You got the wrong guy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_004_0_0#1",
+   "speaker": null,
+   "en": "That's right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_004_0_0#2",
+   "speaker": null,
+   "en": "Who are you again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_005_0_0#0",
+   "speaker": "Alibaba",
+   "en": "No, I know I'm right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_006_0_0#0",
+   "speaker": "Alibaba",
+   "en": "Mm, I appreciate your honesty.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_007_0_0#0",
+   "speaker": "Alibaba",
+   "en": "I already said, I am Alibaba.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_008_0_0#0",
+   "speaker": "Alibaba",
+   "en": "I take it you received[n]the calling card?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_009_0_0#0",
+   "speaker": "Morgana",
+   "en": "So it really was from this guy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_0#0",
+   "speaker": "Alibaba",
+   "en": "Are you at school right now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_011_0_0#0",
+   "speaker": null,
+   "en": "I'm in class.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_011_0_0#1",
+   "speaker": null,
+   "en": "Nope.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_011_0_0#2",
+   "speaker": null,
+   "en": "Who are you again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_012_0_0#0",
+   "speaker": "Alibaba",
+   "en": "Hm, you're a surprisingly[n]diligent student.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_013_0_0#0",
+   "speaker": "Alibaba",
+   "en": "Are you cutting class?[n]That's not good, you know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_014_0_0#0",
+   "speaker": "Alibaba",
+   "en": "I'll answer that question as[n]many times as is necessary.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_014_5_0#0",
+   "speaker": "Alibaba",
+   "en": "I am Alibaba.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_015_0_0#0",
+   "speaker": "Alibaba",
+   "en": "Now then, I have prepared[n]the calling card for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_015_5_0#0",
+   "speaker": "Alibaba",
+   "en": "When are you going to steal it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_016_0_0#0",
+   "speaker": null,
+   "en": "What're you talking about?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_016_0_0#1",
+   "speaker": null,
+   "en": "Steal from who?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_016_0_0#2",
+   "speaker": null,
+   "en": "Who are you again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_017_0_0#0",
+   "speaker": "Alibaba",
+   "en": "Hm? Stealing a heart, of course.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_0_0#0",
+   "speaker": "Alibaba",
+   "en": "What do you mean by that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_0_0#0",
+   "speaker": "Alibaba",
+   "en": "I'll keep answering if[n]you insist on asking.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_5_0#0",
+   "speaker": "Alibaba",
+   "en": "I am Alibaba.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_020_0_0#0",
+   "speaker": "Alibaba",
+   "en": "Aren't you able to steal a[n]heart as long as you have[n]a calling card?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_021_0_0#0",
+   "speaker": "Morgana",
+   "en": "Tell him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_021_0_0#1",
+   "speaker": "Morgana",
+   "en": "We need the name of the target.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_021_5_0#0",
+   "speaker": null,
+   "en": "What's the target's name?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_021_5_0#1",
+   "speaker": null,
+   "en": "I need a name.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_022_0_0#0",
+   "speaker": "Alibaba",
+   "en": "...A name? Is your heart[n]thievery truly impossible[n]without such information?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_023_0_0#0",
+   "speaker": null,
+   "en": "It is.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_023_0_0#1",
+   "speaker": null,
+   "en": "Just tell me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_024_0_0#0",
+   "speaker": "Alibaba",
+   "en": "...I see.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_024_1_0#0",
+   "speaker": "Alibaba",
+   "en": "Hm, I suppose past calling[n]cards did have names on them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_024_3_0#0",
+   "speaker": "Alibaba",
+   "en": "One moment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_024_5_0#0",
+   "speaker": "Alibaba",
+   "en": "Very well, I'll tell you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_024_6_0#0",
+   "speaker": "Alibaba",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_024_7_0#0",
+   "speaker": "Alibaba",
+   "en": "I believe their name[n]was... Futaba Sakura.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_024_8_0#0",
+   "speaker": "Alibaba",
+   "en": "If you fail in this mission,[n]I will expose your identity to[n]the world and to the police.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_024_9_0#0",
+   "speaker": "Alibaba",
+   "en": "Well then, I'll be counting on[n]you. We shall speak again after[n]the change of heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_025_0_0#0",
+   "speaker": null,
+   "en": "Wait.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_025_0_0#1",
+   "speaker": null,
+   "en": "Who is Futaba Sakura?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_025_0_0#2",
+   "speaker": null,
+   "en": "Who are you?",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

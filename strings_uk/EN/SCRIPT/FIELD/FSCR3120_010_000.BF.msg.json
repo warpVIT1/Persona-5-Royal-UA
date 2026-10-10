@@ -1,0 +1,1363 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR3120_010_000.BF",
+ "entries": [
+  {
+   "id": "MND_PUB_TELEPHONE_YET#0",
+   "speaker": null,
+   "en": "There's the public phone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_PUB_TELEPHONE_YET#1",
+   "speaker": null,
+   "en": "You don't see too many of these[n]rotary style phones around.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PUB_TELEPHONE_YET#0",
+   "speaker": "Morgana",
+   "en": "Oh, a rotary phone? Well, you don't see[n]something like this very often these days.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_PUB_TELEPHONE#0",
+   "speaker": null,
+   "en": "There's the public phone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_PUB_TELEPHONE#1",
+   "speaker": null,
+   "en": "Should I call the maid delivery service?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PUB_TELEPHONE#0",
+   "speaker": "Morgana",
+   "en": "If you call the maid delivery service from[n]here, there won't be any evidence[n]tracing back to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PUB_TELEPHONE#1",
+   "speaker": "Morgana",
+   "en": "So were you going to call the maid[n]delivery service?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_PUB_TELEPHONE#0",
+   "speaker": null,
+   "en": "Let's call the service.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_PUB_TELEPHONE#1",
+   "speaker": null,
+   "en": "No, never mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_PUB_TELEPHONE_NG#0",
+   "speaker": null,
+   "en": "There's the public phone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_PUB_TELEPHONE_NG#1",
+   "speaker": null,
+   "en": "I'm tired today, so I'll use this[n]some other time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PUB_TELEPHONE_NG#0",
+   "speaker": "Morgana",
+   "en": "You're tired, right? You can always make[n]phone calls later. Let's hit the sack.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_DAY_TIME_NOT#0",
+   "speaker": "Kawakami's Voice",
+   "en": "Hiii, this is Becky!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_DAY_TIME_NOT#1",
+   "speaker": "Kawakami's Voice",
+   "en": "I'm so sorry, Master, but I'm on break[n]right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_DAY_TIME_NOT#2",
+   "speaker": "Kawakami's Voice",
+   "en": "I can only serve you as your maid at night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_DAY_TIME_NOT#3",
+   "speaker": "Kawakami's Voice",
+   "en": "Also, more maids are available on [clr 2]Friday[n]and Saturday[clr 27], so try calling back on[n]a weekend night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_NIGHT_NOT#0",
+   "speaker": "Kawakami's Voice",
+   "en": "Hiii, this is Becky!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_NIGHT_NOT#1",
+   "speaker": "Kawakami's Voice",
+   "en": "I'm so sorry, Master, but I'm already hard[n]at work right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_NIGHT_NOT#2",
+   "speaker": "Kawakami's Voice",
+   "en": "More maids are available on [clr 2]Friday and[n]Saturday[clr 27], so try calling back on a[n]weekend night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_NIGHT#0",
+   "speaker": "Kawakami",
+   "en": "Hiii, this is Becky!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_NIGHT#1",
+   "speaker": "Kawakami",
+   "en": "Oh... You actually called. Thanks.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_NIGHT#2",
+   "speaker": "Kawakami",
+   "en": "I'm on the job right now, so it'll cost[n]5,000 yen. Would you like to request me[n]to come over?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_PHONE_NIGHT_CHECK#0",
+   "speaker": null,
+   "en": "Of course.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_PHONE_NIGHT_CHECK#1",
+   "speaker": null,
+   "en": "Maybe next time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_NIGHT_OK#0",
+   "speaker": "Kawakami",
+   "en": "Hehe, thanks.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_NIGHT_OK#1",
+   "speaker": "Kawakami",
+   "en": "I'll be right over, Master.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PHONE_NIGHT_CANCEL#0",
+   "speaker": "Kawakami",
+   "en": "Oh... Well, call again if you need me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_PUB_TELEPHONE_OPEN#0",
+   "speaker": null,
+   "en": "There's the public phone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_PUB_TELEPHONE_OPEN#1",
+   "speaker": null,
+   "en": "I should try calling Kawakami's[n]work cell number...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PUB_TELEPHONE_OPEN#0",
+   "speaker": "Morgana",
+   "en": "It's safe to call the maid delivery service[n]from here since it won't leave a record.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PUB_TELEPHONE_OPEN#1",
+   "speaker": "Morgana",
+   "en": "Are you going to call Kawakami?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_NG#0",
+   "speaker": "Kawakami's Voice",
+   "en": "Hiii, this is Becky!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_NG#1",
+   "speaker": "Kawakami's Voice",
+   "en": "I'm so sorry, Master, but I'm already hard[n]at work right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_NG#2",
+   "speaker": "Kawakami's Voice",
+   "en": "More maids are available on [clr 2]Friday and[n]Saturday[clr 27], so try calling back on aweekend night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_NG_RANK_8#0",
+   "speaker": "Kawakami's Voice",
+   "en": "Hiii, this is Becky! I'm on break for[n]a whiiile.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_NG_RANK_8#1",
+   "speaker": "Kawakami's Voice",
+   "en": "I hope you'll call back again soon!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C00_00#0",
+   "speaker": "Kawakami",
+   "en": "Hiii, Master! This is Becky.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C00_00#1",
+   "speaker": "Kawakami",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C00_00#2",
+   "speaker": "Kawakami",
+   "en": "Oh, wait, it's you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C00_00#3",
+   "speaker": "Kawakami",
+   "en": "...Yeah, as you might have guessed,[n]I don't have any customers tonight.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C00_00#4",
+   "speaker": "Kawakami",
+   "en": "Would you mind calling me over?[n]I'll give you the student discount[n]rate of 5,000 yen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C01_00#0",
+   "speaker": "Kawakami",
+   "en": "Hiii, Master! Thanks for calling.[n]This is Becky!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C01_00#1",
+   "speaker": "Kawakami",
+   "en": "Oh, wait, it's you. I'm actually pretty[n]bored today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C01_00#2",
+   "speaker": "Kawakami",
+   "en": "It'll just be 5,000 yen if you want to[n]hire me. Would you call me over?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C02_00#0",
+   "speaker": "Kawakami",
+   "en": "Hiii, this is Becky! Are you hungry, Master?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C02_00#1",
+   "speaker": "Kawakami",
+   "en": "Right now, we're offering the[n]\"Maid Cooking\" and \"Together[n]with a Maid\" options for free!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C02_00#2",
+   "speaker": "Kawakami",
+   "en": "It's just 5,000 yen for all that and more,[n]tax included. What do you say?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C03_00#0",
+   "speaker": "Kawakami",
+   "en": "Hiii, this is Becky!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C03_00#1",
+   "speaker": "Kawakami",
+   "en": "Oh, hey...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C03_00#2",
+   "speaker": "Kawakami",
+   "en": "It's the usual 5,000 yen,[n]but the secret menu...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C03_00#3",
+   "speaker": "Kawakami",
+   "en": "Um, I can tell you the prices for[n]the secret menu when I get there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C04_00#0",
+   "speaker": "Kawakami",
+   "en": "Hiii, this is Becky! Good evening, Master.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C04_00#1",
+   "speaker": "Kawakami",
+   "en": "Hm? Oh, it's you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C04_00#2",
+   "speaker": "Kawakami",
+   "en": "So what did you need?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C05_00#0",
+   "speaker": "Kawakami",
+   "en": "Hiii, this is Becky! Is that you, Master?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C05_00#1",
+   "speaker": "Kawakami",
+   "en": "Guess what? Today, I have a special deal[n]just for you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C05_00#2",
+   "speaker": "Kawakami",
+   "en": "It's just 5,000 yen to request me,[n]and everything's included. So what[n]do you think?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C06_00#0",
+   "speaker": "Nurse",
+   "en": "Hello, this is Aoyama Hospital.[n]Am I speaking with [lName]-san?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C06_00#1",
+   "speaker": "Nurse",
+   "en": "Kawakami-san actually collapsed, and[n]she's been admitted to our hospital.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C06_00#2",
+   "speaker": "Nurse",
+   "en": "She's delirious, but she's been calling[n]your name. Can you come see her?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C07_00#0",
+   "speaker": "Kawakami",
+   "en": "Hiii, this is Becky! I'll be right over.[n]Is that okay, Master?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C07_00#1",
+   "speaker": "Kawakami",
+   "en": "Um, I'll throw in a bunch of bonus[n]services, so is 5,000 yen all right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C08_00#0",
+   "speaker": "Kawakami's Voice",
+   "en": "Hiii, this is Becky! I'm on break for[n]a whiiile.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C08_00#1",
+   "speaker": "Kawakami's Voice",
+   "en": "I hope you'll call back again soon!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C08_01#0",
+   "speaker": "Morgana",
+   "en": "We have a name, so let's head into[n]Mementos.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C08_03#0",
+   "speaker": "Kawakami",
+   "en": "Hiii, this is Becky!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C08_03#1",
+   "speaker": "Kawakami",
+   "en": "Hold on, what's going on?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C08_03#2",
+   "speaker": "Kawakami",
+   "en": "There are some things I want to ask you,[n]so you're going to call me over, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C09_00#0",
+   "speaker": "Kawakami",
+   "en": "Hi! Oh, it's you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_CORP_C09_00#1",
+   "speaker": "Kawakami",
+   "en": "Perfect timing. I have something I wanted[n]to tell you, so just wait in your room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_NIGHT#0",
+   "speaker": "Morgana",
+   "en": "It'll cost 5,000 yen. Do you want to call[n]Kawakami tonight?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_RANK_6#0",
+   "speaker": "Morgana",
+   "en": "Kawakami's in the hospital!? Are you[n]gonna go visit her?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHK#0",
+   "speaker": null,
+   "en": "Let's ask for a massage.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHK#1",
+   "speaker": null,
+   "en": "Let's call Kawakami.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHK#2",
+   "speaker": null,
+   "en": "Kawakami's arcana...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHK#3",
+   "speaker": null,
+   "en": "No, never mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHK_RANK_6#0",
+   "speaker": null,
+   "en": "Let's ask for a massage.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHK_RANK_6#1",
+   "speaker": null,
+   "en": "Let's visit the hospital.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHK_RANK_6#2",
+   "speaker": null,
+   "en": "Kawakami's arcana...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHK_RANK_6#3",
+   "speaker": null,
+   "en": "No, never mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_COOP_CANCEL#0",
+   "speaker": "Kawakami",
+   "en": "*sigh*... Fine, I guess I'll just have to call[n]people up and see if anyone's interested.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_COOP_CANCEL#1",
+   "speaker": "Kawakami",
+   "en": "Oh, and you'd better be taking your[n]studies seriously, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_COOP_CANCEL_2#0",
+   "speaker": "Nurse",
+   "en": "You're a member of the family, right?[n]Please come here as soon as you can.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_COOP_CANCEL_2#1",
+   "speaker": "Nurse",
+   "en": "All right, we'll be waiting for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_K_YES#0",
+   "speaker": "Kawakami",
+   "en": "I'll get a ride over there now, so clean[n]your room and wait for me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_K_YES_RANK1#0",
+   "speaker": "Kawakami",
+   "en": "Oh, you're really going to request me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_K_YES_RANK1#1",
+   "speaker": "Kawakami",
+   "en": "I'll get a ride over there now, so clean[n]your room and wait for me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_K_YES_RANK2#0",
+   "speaker": "Kawakami",
+   "en": "Okay! Thank you for requesting me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_K_YES_RANK2#1",
+   "speaker": "Kawakami",
+   "en": "I hope you're hungry, Master!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_K_YES_RANK3#0",
+   "speaker": "Kawakami",
+   "en": "I'll be right over... Wait for me, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_K_YES_RANK4#0",
+   "speaker": "Kawakami",
+   "en": "Seriously!? I guess you must really[n]need help...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_K_YES_RANK5#0",
+   "speaker": "Kawakami",
+   "en": "Okay! Thank you for requesting me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_K_YES_RANK5#1",
+   "speaker": "Kawakami",
+   "en": "I'll get a ride over there right now, so[n]clean up your desk and just wait for me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_K_YES_RANK6#0",
+   "speaker": "Nurse",
+   "en": "Okay. Do you know where the hospital is?[n]The room number is...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_K_YES_RANK7#0",
+   "speaker": "Kawakami",
+   "en": "Okay! Thank you for requesting me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_K_YES_RANK7#1",
+   "speaker": "Kawakami",
+   "en": "I'll get a ride over there, so get some[n]pen and paper ready and wait for me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_K_YES_RANK8#0",
+   "speaker": "Kawakami",
+   "en": "Thanks.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_K_YES_RANK8#1",
+   "speaker": "Kawakami",
+   "en": "I'll be right over, so hold on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_K_YES_NEXTM#0",
+   "speaker": "Kawakami",
+   "en": "I-I'll be right there...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_K_YES_NEXTM#1",
+   "speaker": "Kawakami",
+   "en": "See you soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_F_YES_NEXTM#0",
+   "speaker": "Kawakami",
+   "en": "I-I'll be right there...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_F_YES_NEXTM#1",
+   "speaker": "Kawakami",
+   "en": "See you soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SPOT_NAKANO#0",
+   "speaker": "Kawakami",
+   "en": "Do you know somewhere I can learn[n]about otaku culture?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SPOT_NAKANO#1",
+   "speaker": "Kawakami",
+   "en": "I went to Akihabara the other day,[n]so I want to check out a new place.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_KAWAKAMI_SPOT_NAKANO#0",
+   "speaker": null,
+   "en": "Let's go to Nakano Broadway.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_KAWAKAMI_SPOT_NAKANO#1",
+   "speaker": null,
+   "en": "Just do your job.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_KAWAKAMI_SPOT_NAKANO#2",
+   "speaker": null,
+   "en": "I wouldn't know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SPOT_NAKANO_2#0",
+   "speaker": "Kawakami",
+   "en": "Oh! Nakano! I've heard of that area.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SPOT_NAKANO_2#1",
+   "speaker": "Kawakami",
+   "en": "Let's go check it out now! You can be[n]my guide, Master~",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SPOT_NAKANO_3#0",
+   "speaker": "Kawakami",
+   "en": "Aw, don't be so uptight...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SPOT_NAKANO_4#0",
+   "speaker": "Kawakami",
+   "en": "I guess that makes sense—you did[n]just move here and all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SPOT_NAKANO_4#1",
+   "speaker": "Kawakami",
+   "en": "Oh, well. I guess I'll just clean for today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SPOT_TUKISI#0",
+   "speaker": "Kawakami",
+   "en": "I kinda wanna go out and get something[n]to eat to celebrate getting out of[n]the hospital.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SPOT_TUKISI#1",
+   "speaker": "Kawakami",
+   "en": "Griddle food or something sounds good.[n]Do you have any suggestions?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_KAWAKAMI_SPOT_TUKISI#0",
+   "speaker": null,
+   "en": "Let's get monjayaki.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_KAWAKAMI_SPOT_TUKISI#1",
+   "speaker": null,
+   "en": "Just do your job.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_KAWAKAMI_SPOT_TUKISI#2",
+   "speaker": null,
+   "en": "I don't know any good places.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SPOT_TUKISI_2#0",
+   "speaker": "Kawakami",
+   "en": "Oh, good idea! Tsukishima has[n]the best monja.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SPOT_TUKISI_2#1",
+   "speaker": "Kawakami",
+   "en": "It's so nice of you to treat me.[n]Let's go, Master!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SPOT_TUKISI_3#0",
+   "speaker": "Kawakami",
+   "en": "Aw, don't be so uptight...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SPOT_TUKISI_4#0",
+   "speaker": "Kawakami",
+   "en": "I guess that makes sense—you did just[n]move here and all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SPOT_TUKISI_4#1",
+   "speaker": "Kawakami",
+   "en": "Oh, well. I guess I'll just clean for today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SPOT_UENO_0#0",
+   "speaker": "Kawakami",
+   "en": "Why don't we do some extracurricular[n]lessons? Let's test your artistic sense.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SPOT_UENO_0#1",
+   "speaker": "Kawakami",
+   "en": "Take me somewhere right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_KAWAKAMI_SPOT_UENO_0#0",
+   "speaker": null,
+   "en": "Let's go to the art museum.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_KAWAKAMI_SPOT_UENO_0#1",
+   "speaker": null,
+   "en": "Get back to work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_KAWAKAMI_SPOT_UENO_0#2",
+   "speaker": null,
+   "en": "I don't know any good places.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SPOT_UENO_0_2#0",
+   "speaker": "Kawakami",
+   "en": "The art museum in Ueno, huh?[n]Sounds interesting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SPOT_UENO_0_2#1",
+   "speaker": "Kawakami",
+   "en": "Let's go, Master! ☆",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SPOT_UENO_0_3#0",
+   "speaker": "Kawakami",
+   "en": "Aw, don't be so uptight...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SPOT_UENO_0_4#0",
+   "speaker": "Kawakami",
+   "en": "I guess that makes sense—you did just[n]move here and all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SPOT_UENO_0_4#1",
+   "speaker": "Kawakami",
+   "en": "Oh, well. I guess I'll just clean for today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SPOT_ODAIBA#0",
+   "speaker": "Kawakami",
+   "en": "Hey, why don't we go out somewhere[n]together?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SPOT_ODAIBA#1",
+   "speaker": "Kawakami",
+   "en": "You should at least know some good[n]date spots, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_KAWAKAMI_SPOT_ODAIBA#0",
+   "speaker": null,
+   "en": "Let's go to Odaiba.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_KAWAKAMI_SPOT_ODAIBA#1",
+   "speaker": null,
+   "en": "I'd rather you clean.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_KAWAKAMI_SPOT_ODAIBA#2",
+   "speaker": null,
+   "en": "I don't know any good places.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SPOT_ODAIBA_2#0",
+   "speaker": "Kawakami",
+   "en": "Okay, Mast— Wait.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SPOT_ODAIBA_2#1",
+   "speaker": "Kawakami",
+   "en": "Let's go, [fName].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SPOT_ODAIBA_3#0",
+   "speaker": "Kawakami",
+   "en": "Aw, don't be so uptight...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SPOT_ODAIBA_4#0",
+   "speaker": "Kawakami",
+   "en": "I guess that makes sense—you did just[n]move here and all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SPOT_ODAIBA_4#1",
+   "speaker": "Kawakami",
+   "en": "Oh, well. I guess I'll just clean for today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_DOUZOKUSEI#0",
+   "speaker": null,
+   "en": "I should be able to deepen[n]our bond since I have [clr 1][var 5][clr 27][n]of the [var 2] arcana...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_ABI_MORGANA#0",
+   "speaker": "Morgana",
+   "en": "If you deepen your bond with Kawakami,[n]you can use your time at school and home[n]more effectively.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_RANKUP_OK#0",
+   "speaker": "Morgana",
+   "en": "It feels like something special might[n]happen today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_COOP_BONUS#0",
+   "speaker": null,
+   "en": "Raise Kawakami's Confidant Rank[n]to receive a bonus when creating[n]Personas of the Temperance arcana.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MONEY_NG_MORGANA#0",
+   "speaker": "Morgana",
+   "en": "Hey... You only have [var 1] yen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MONEY_NG_MORGANA#1",
+   "speaker": "Morgana",
+   "en": "You can't request Kawakami[n]with that amount.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MONEY_NG#0",
+   "speaker": "Kawakami",
+   "en": "...Wait, are you strapped for cash!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MONEY_NG#1",
+   "speaker": "Kawakami",
+   "en": "Well, just call me again after you save up[n]a bit more money. Byeee.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TELEPHONE_MASSAGE#0",
+   "speaker": null,
+   "en": "There's the public phone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TELEPHONE_MASSAGE#1",
+   "speaker": null,
+   "en": "Since I'm so exhausted, I should request[n]Kawakami to give me a massage...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TELEPHONE_MASSAGE#0",
+   "speaker": "Morgana",
+   "en": "It's safe to call the maid delivery service[n]from here since it won't leave a record.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TELEPHONE_MASSAGE#1",
+   "speaker": "Morgana",
+   "en": "If you're tired, why not ask Kawakami[n]for a massage?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TELEPHONE_MASSAGE#0",
+   "speaker": null,
+   "en": "I want a massage.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TELEPHONE_MASSAGE#1",
+   "speaker": null,
+   "en": "No, never mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_MASSAGE#0",
+   "speaker": "Kawakami",
+   "en": "Oh, you're seriously requesting[n]a massage...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_MASSAGE#1",
+   "speaker": "Kawakami",
+   "en": "Okay, I'll head over right now,[n]so just wait for me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_NOT_MASSAGE#0",
+   "speaker": null,
+   "en": "I'll pass for now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NOT_MASSAGE#0",
+   "speaker": "Morgana",
+   "en": "Aren't you going to call her? If you can[n]massage the fatigue away, you can go[n]out, you know?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SASOI_THROU#0",
+   "speaker": "Kawakami",
+   "en": "I need to work, you know? I wish you'd[n]request me when I'm free.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SASOI_THROU_2#0",
+   "speaker": "Kawakami",
+   "en": "You do whatever you want when you're[n]in class, but you never listen when[n]I have a request...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_SASOI_THROU_2#1",
+   "speaker": "Kawakami",
+   "en": "I mean, you even ignore me when I talk[n]to you. Isn't that kind of mean?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KAWAKAMI_DOUBT_EVENT#0",
+   "speaker": "Kawakami",
+   "en": "This might take a little while, but can[n]we talk?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OOYA_DOUBT_HELLO#0",
+   "speaker": "Kawakami",
+   "en": "Sorry, I'm busy right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OOYA_DOUBT_HELLO#1",
+   "speaker": "Kawakami",
+   "en": "And, while I am grateful to you... I can't[n]really go any farther than this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DOUBT_RELEASE_01#0",
+   "speaker": "Kawakami",
+   "en": "It's my fault for being deceived and[n]letting you slack off since you didn't fit in,[n]but... *sigh*",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DOUBT_RELEASE_02#0",
+   "speaker": "Morgana",
+   "en": "Whoa, it's not good forthe Phantom Thieves if you[n]lose that free time in class.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DOUBT_RELEASE_02#1",
+   "speaker": "Morgana",
+   "en": "Wait, maybe she suspects that you've[n]been playing around with other girls.[n]That must be it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DOUBT_RELEASE_02#2",
+   "speaker": "Morgana",
+   "en": "Now's the time to play up the fact[n]that you've been all alone. Make[n]it sound like all you do is read.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DOUBT_RELEASE_04#0",
+   "speaker": "Kawakami",
+   "en": "...You sure you didn't mix up my number[n]with one of your girlfriends or something?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DOUBT_RELEASE_05#0",
+   "speaker": "Morgana",
+   "en": "It's time to prove you've been all alone.[n]Start talking about what you've been[n]reading in books!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DOUBT_RELEASE_06#0",
+   "speaker": null,
+   "en": "I'll prove that I've been all alone by[n]bringing up what I've been reading lately.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DOUBT_RELEASE_07#0",
+   "speaker": "Kawakami",
+   "en": "W-Wait! You're saying way too much.[n]I'm getting confused.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DOUBT_RELEASE_07#1",
+   "speaker": "Kawakami",
+   "en": "Did you seriously read that entire book?[n]How bored are you...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DOUBT_RELEASE_07#2",
+   "speaker": "Kawakami",
+   "en": "Oh... It's because you're usually alone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DOUBT_RELEASE_07#3",
+   "speaker": "Kawakami",
+   "en": "R-Right... I guess I misunderstood you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DOUBT_RELEASE_08#0",
+   "speaker": null,
+   "en": "It looks like she believed my lie.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DOUBT_RELEASE_09#0",
+   "speaker": "Morgana",
+   "en": "Nice! You made it out!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DOUBT_RELEASE_10#0",
+   "speaker": "Kawakami",
+   "en": "Um, so... You were going to request me,[n]right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BROKEN_01#0",
+   "speaker": "Kawakami",
+   "en": "Isn't it a bit late to be trying to explain[n]yourself, Master?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BROKEN_01#1",
+   "speaker": "Kawakami",
+   "en": "...Are you still going to try to say that[n]you don't have a place to belong?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BROKEN_02#0",
+   "speaker": null,
+   "en": "Kawakami saw through my lie...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BROKEN_03#0",
+   "speaker": "Kawakami",
+   "en": "You know... I did try and wait for you[n]to make an excuse. But you didn't do[n]anything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BROKEN_03#1",
+   "speaker": "Kawakami",
+   "en": "That must have been about how[n]much you cared about your free[n]time. Honestly, it's tough on me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BROKEN_03#2",
+   "speaker": "Kawakami",
+   "en": "So, that means our deal is off.[n]And that's final!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BROKEN_04#0",
+   "speaker": "Kawakami",
+   "en": "So... goodbye, Master!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BROKEN_05#0",
+   "speaker": null,
+   "en": "It looks like it's impossible to[n]restart my deal with Kawakami...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BROKEN_06#0",
+   "speaker": "Morgana",
+   "en": "This is hopeless. You're not going to be[n]able to restart your deal with Kawakami.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BROKEN_06#1",
+   "speaker": "Morgana",
+   "en": "It's your fault for not trying to patch things[n]up when she started doubting you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BROKEN_06#2",
+   "speaker": "Morgana",
+   "en": "Just give it up already.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BROKEN_HELLOW#0",
+   "speaker": "Kawakami",
+   "en": "Oh, uh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BROKEN_HELLOW#1",
+   "speaker": "Kawakami",
+   "en": "Oh, right! I'm already fully booked,[n]actually.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BROKEN_HELLOW#2",
+   "speaker": "Kawakami",
+   "en": "I hope to see you again soon, Master!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

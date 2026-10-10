@@ -1,0 +1,327 @@
+{
+ "file": "EN/FIELD/HIT/FHIT_DUNGEON.BF",
+ "entries": [
+  {
+   "id": "ENTER_SEL#0",
+   "speaker": null,
+   "en": "Let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ENTER_SEL#1",
+   "speaker": null,
+   "en": "Hold on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DNG_ENTRANCE#0",
+   "speaker": "Morgana",
+   "en": "Do you want to head back[n]to the entrance?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DNG_QUEST#0",
+   "speaker": "Morgana",
+   "en": "Hm!? I can sense the target up ahead!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DNG_QUEST#1",
+   "speaker": "Morgana",
+   "en": "Do you want to head in?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_ENTRANCE_FLOOR_NG01#0",
+   "speaker": "Morgana",
+   "en": "Wait, Joker. I can sense a target[n]in this area.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_ENTRANCE_FLOOR_NG01#1",
+   "speaker": "Morgana",
+   "en": "I bet they're hiding somewhere around[n]here... Let's try searching for them, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_ENTRANCE_FLOOR_NG02#0",
+   "speaker": "Morgana",
+   "en": "Wait, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_ENTRANCE_FLOOR_NG02#1",
+   "speaker": "Morgana",
+   "en": "The area we want to investigate is[n]below us. Find a way down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_NEXT_FLOOR_NG01_mes#0",
+   "speaker": "Morgana",
+   "en": "Wait, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_NEXT_FLOOR_NG01_mes#1",
+   "speaker": "Morgana",
+   "en": "I don't think the target is down there.[n]I bet they're hiding somewhere in[n]this area...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_NEXT_FLOOR_NG01_mes#2",
+   "speaker": "Morgana",
+   "en": "Let's scour every corner of this place![n]There has to be somewhere we haven't[n]checked!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_NEXT_FLOOR_NG02_mes#0",
+   "speaker": "Morgana",
+   "en": "Wait, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_NEXT_FLOOR_NG02_mes#1",
+   "speaker": "Morgana",
+   "en": "Our goal is to change Nakanohara's[n]heart, right? Let's go back to that place[n]from earlier.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TUTO_QUEST_FLOOR_mes01#0",
+   "speaker": "Ryuji",
+   "en": "Dude, the hell is this? It's all wavy[n]and shit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TUTO_QUEST_FLOOR_mes02#0",
+   "speaker": "Morgana",
+   "en": "This is the place... I sense the target[n]up ahead.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TUTO_QUEST_FLOOR_mes02#1",
+   "speaker": "Morgana",
+   "en": "Now, are you ready, Joker?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TUTO_QUEST_FLOOR_selA#0",
+   "speaker": null,
+   "en": "Let's do it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TUTO_QUEST_FLOOR_selA#1",
+   "speaker": null,
+   "en": "Gimme a few.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TUTO_QUEST_FLOOR_selA_1_#0",
+   "speaker": "Morgana",
+   "en": "All right. We can head in once you're[n]prepared!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TUTO_QUEST_FLOOR_re_mes0#0",
+   "speaker": "Morgana",
+   "en": "The target's waiting up ahead...[n]Are you ready for this, Joker?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "QUEST27_ng_mes01#0",
+   "speaker": "Morgana",
+   "en": "Wait!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "QUEST27_ng_mes01#1",
+   "speaker": "Morgana",
+   "en": "Attacks won't work here, remember?[n]This is where that cheater is.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "QUEST27_ng_mes01#2",
+   "speaker": "Morgana",
+   "en": "If you don't have some sort of[n]countermeasure, you'll just end up[n]making the same mistakes again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_CHECK_HOME_NEXT_mes#0",
+   "speaker": "Ryuji",
+   "en": "Hold on a sec... You guys hearin'[n]somethin'?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_CHECK_HOME_NEXT_mes_2#0",
+   "speaker": "Ryuji",
+   "en": "The trains're totally runnin'!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_CHECK_HOME_NEXT_mes_3#0",
+   "speaker": "Morgana",
+   "en": "Of course they are. We're in the subway,[n]you know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_CHECK_HOME_NEXT_mes_4#0",
+   "speaker": "Ann",
+   "en": "Yeah, but I thought this was a Palace!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_CHECK_HOME_NEXT_mes_5#0",
+   "speaker": "Morgana",
+   "en": "Then maybe this is how the public[n]views this place? I don't know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_CHECK_HOME_NEXT_mes_6#0",
+   "speaker": "Ann",
+   "en": "People go through this darkness...[n]every day?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_CHECK_HOME_NEXT_mes_7#0",
+   "speaker": "Ryuji",
+   "en": "Forget that! You sure we're cool runnin'[n]around on these tracks!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_CHECK_HOME_NEXT_mes_8#0",
+   "speaker": "Morgana",
+   "en": "It should be fine as long as we're not[n]on the same ones... I think. I'm no[n]train expert.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_CHECK_HOME_NEXT_mes_9#0",
+   "speaker": "Ryuji",
+   "en": "You gotta be kiddin' me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_CHECK_HOME_NEXT_mes_10#0",
+   "speaker": "Morgana",
+   "en": "Anyway, let's head to the lower area.[n]It should be right after we go down[n]that escalator.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_NEXT_FLOOR_NG01_JOZ#0",
+   "speaker": "Ann",
+   "en": "Joker, we haven't met up with Jose yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_NEXT_FLOOR_NG01_JOZ#1",
+   "speaker": "Ann",
+   "en": "Let's hurry and find him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GO_SEL#0",
+   "speaker": null,
+   "en": "Let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GO_SEL#1",
+   "speaker": null,
+   "en": "Never mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RETURN_SEL#0",
+   "speaker": null,
+   "en": "Let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RETURN_SEL#1",
+   "speaker": null,
+   "en": "Never mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DNG_GO_01#0",
+   "speaker": "Morgana",
+   "en": "Do you want to move on to the next area?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DNG_GO_02#0",
+   "speaker": "Morgana",
+   "en": "Oh, you want to go even further, Joker?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DNG_GO_03#0",
+   "speaker": "Morgana",
+   "en": "Are you heading downstairs?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DNG_RETURN_01#0",
+   "speaker": "Morgana",
+   "en": "Are you heading back up to the area[n]above?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DNG_RETURN_02#0",
+   "speaker": "Morgana",
+   "en": "Do you want to head upstairs, Joker?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DNG_RETURN_03#0",
+   "speaker": "Morgana",
+   "en": "Want to climb up?",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

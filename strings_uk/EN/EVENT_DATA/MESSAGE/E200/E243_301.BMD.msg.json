@@ -1,0 +1,873 @@
+{
+ "file": "EN/EVENT_DATA/MESSAGE/E200/E243_301.BMD",
+ "entries": [
+  {
+   "id": "MSG_000_0_0#0",
+   "speaker": "Morgana",
+   "en": "All right, we're going to Shibuya today,[n]just as planned!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_000_0_0#1",
+   "speaker": "Morgana",
+   "en": "There's a chance we'll have a battle[n]on our hands, so be on guard!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_0_0#0",
+   "speaker": "Ryuji",
+   "en": "Mkay, everybody's here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_0_0#1",
+   "speaker": "Ryuji",
+   "en": "I came over this way yesterday too...[n]Man, there're so many people. This is[n]gonna suck.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_002_0_0#0",
+   "speaker": "Ann",
+   "en": "There's a pretty strong police presence[n]too. The mafia might be trying to hide[n]from them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_0_0#0",
+   "speaker": "Yusuke",
+   "en": "Yes, the increased crime is also being[n]discussed often in the media. They may[n]not even show themselves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_004_0_0#0",
+   "speaker": null,
+   "en": "We have to do this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_004_0_0#1",
+   "speaker": null,
+   "en": "Let's hold off for today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_005_0_0#0",
+   "speaker": "Ryuji",
+   "en": "Right! We're gonna grab 'em by the tail!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_006_0_0#0",
+   "speaker": "Ryuji",
+   "en": "C'mon, man. We got four of us here, so[n]gettin' something's gonna be simple.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_007_0_0#0",
+   "speaker": "Morgana",
+   "en": "How rude! There are five of us!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_008_0_0#0",
+   "speaker": "Ann",
+   "en": "As we discussed yesterday, you should[n]head over to Central Street, [fName].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_009_0_0#0",
+   "speaker": "Ryuji",
+   "en": "Sweet, let's get goin'! Lemme know if[n]you find any shady people!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_0#0",
+   "speaker": "Morgana",
+   "en": "Central Street is your assigned area.[n]You can leave anywhere outside of here[n]to the others.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_011_0_0#0",
+   "speaker": "Black-Haired Kosei Student",
+   "en": "Hey, I was on a message board the other[n]day and came across this: \"Bill 10,000at HQ.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_012_0_0#0",
+   "speaker": "Brown-Haired Kosei Student",
+   "en": "Huh? Is that code or something?[n]It seems a little suspicious...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_012_0_0#1",
+   "speaker": "Brown-Haired Kosei Student",
+   "en": "Though I will say, I heard something[n]kinda like that back in that alley[n]the other day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_013_0_0#0",
+   "speaker": "Black-Haired Kosei Student",
+   "en": "There really is more suspicious stuff here now, huh?[n]I bet that's why the police are[n]out here too...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_014_0_0#0",
+   "speaker": "Male Host",
+   "en": "My shift's finally over. Ugh, I feel awful.[n]I drank a shitton.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_014_0_0#1",
+   "speaker": "Male Host",
+   "en": "Maybe I should find a new job. You know[n]any opportunities for making money[n]quick?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_015_0_0#0",
+   "speaker": "Male Player",
+   "en": "I wish I did. Maybe you could work for[n]the mafia?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_015_0_0#1",
+   "speaker": "Male Player",
+   "en": "You know, like those sneaky guys in the[n]back alleys. You'd prolly have to swindle[n]some kids though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_016_0_0#0",
+   "speaker": "Male Host",
+   "en": "Oh, I'd rather not get involved in that.[n]I like my life outside of prison, thank you[n]very much.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_017_0_0#0",
+   "speaker": "Patrolling Officer",
+   "en": "Once again, nothing to report. We've[n]turned up plenty victims, but none of[n]the actual masterminds.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_017_0_0#1",
+   "speaker": "Patrolling Officer",
+   "en": "They appear and disappear as they[n]please... Not only that, but they blend[n]in with normal teenagers...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_0_0#0",
+   "speaker": "Alert Officer",
+   "en": "Stop complaining! If we don't try getting[n]information, people will say the police[n]are useless!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_0_0#1",
+   "speaker": "Alert Officer",
+   "en": "The media are already on our case, and[n]the higher-ups aren't doing a thing...[n]This is bad for morale...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_0_0#0",
+   "speaker": "Homeless Man",
+   "en": "What's with that scary look on your face?[n]If you have something to say to me,[n]just say it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_020_0_0#0",
+   "speaker": null,
+   "en": "I want a part-time job.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_020_0_0#1",
+   "speaker": null,
+   "en": "Are you in the mafia?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_021_0_0#0",
+   "speaker": "Homeless Man",
+   "en": "A part-time job...? You're not talking[n]about some ordinary job, huh?[n]Take my advice: don't do it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_021_0_0#1",
+   "speaker": "Homeless Man",
+   "en": "They'll squeeze every last penny out of you[n]with threats and extortion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_022_0_0#0",
+   "speaker": "Homeless Man",
+   "en": "Me? No, I'm just a lonely hermit. What[n]could you possibly want with them[n]anyway?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_022_0_0#1",
+   "speaker": "Homeless Man",
+   "en": "Don't go near them, you hear me?[n]They're horrible people.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_023_0_0#0",
+   "speaker": "Homeless Man",
+   "en": "Some of my friends have even fallen[n]victim to their schemes... They seriously[n]control the whole city.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_024_0_0#0",
+   "speaker": null,
+   "en": "How can I find this mafia?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_024_0_0#1",
+   "speaker": null,
+   "en": "Are your friends gonna run?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_025_0_0#0",
+   "speaker": "Homeless Man",
+   "en": "They blend into the normal crowd[n]around here, but they use strange[n]words.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_025_0_0#1",
+   "speaker": "Homeless Man",
+   "en": "It's like some kind of secret code[n]language.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_025_0_0#2",
+   "speaker": "Homeless Man",
+   "en": "Anyway, if you sense something weird,[n]stay back. They've been primarily[n]targeting young people.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_026_0_0#0",
+   "speaker": "Homeless Man",
+   "en": "It's easy to say that, but none of them[n]have places to go... Just don't go[n]anywhere near that mafia.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_026_0_0#1",
+   "speaker": "Homeless Man",
+   "en": "They blend into the normal crowd[n]around here, but there are ways to[n]identify them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_026_0_0#2",
+   "speaker": "Homeless Man",
+   "en": "They use strange words, like some kinda[n]secret code. Just be careful if you hear[n]weird conversations.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_027_0_0#0",
+   "speaker": "Ann",
+   "en": "How's it going? Have you found[n]anything?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_028_0_0#0",
+   "speaker": null,
+   "en": "Nothing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_028_0_0#1",
+   "speaker": null,
+   "en": "I want to go home...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_029_0_0#0",
+   "speaker": "Yusuke",
+   "en": "That sounds like a proverbial[n]swing and miss. I wonder how[n]the others fared.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_030_0_0#0",
+   "speaker": null,
+   "en": "How'd it go, Ryuji?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_030_0_0#1",
+   "speaker": null,
+   "en": "How'd it go, Ann?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_030_0_0#2",
+   "speaker": null,
+   "en": "How'd it go, Yusuke?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_031_0_0#0",
+   "speaker": "Ryuji",
+   "en": "Supposedly some guy near the[n]accessway talking about some[n]kinda \"strong drugs.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_031_0_0#1",
+   "speaker": "Ryuji",
+   "en": "I'm not countin' on anything,[n]but I'll go check it out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_032_0_0#0",
+   "speaker": "Ann",
+   "en": "I heard about someone soliciting[n]a \"high-paying job\" in the square[n]in front of the station.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_032_0_0#1",
+   "speaker": "Ann",
+   "en": "Apparently they're mostly[n]targeting girls. I'll go[n]see what it's about.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_033_0_0#0",
+   "speaker": "Yusuke",
+   "en": "On my end, I heard there are[n]people saying strange things in[n]the back alley near the arcade.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_033_0_0#1",
+   "speaker": "Yusuke",
+   "en": "Something about ice and[n]vegetables, and something[n]about snow tomorrow...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_033_0_0#2",
+   "speaker": "Yusuke",
+   "en": "I will go observe, just[n]in case. The arcade is on[n]Central Street, correct?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_034_0_0#0",
+   "speaker": "Morgana",
+   "en": "All right, we should do what we can[n]to help them out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_034_0_0#1",
+   "speaker": "Morgana",
+   "en": "I have no idea which of these leads[n]are real. Try going to the most[n]suspicious-sounding place.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_035_0_0#0",
+   "speaker": "Homeless Man",
+   "en": "I already told you about the mafia.[n]You need something else?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_036_0_0#0",
+   "speaker": null,
+   "en": "I want to thank you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_036_0_0#1",
+   "speaker": null,
+   "en": "How can I identify them?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_037_0_0#0",
+   "speaker": "Homeless Man",
+   "en": "No need. You distracted me from my[n]ever-present boredom. That mafia's[n]been trouble for me too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_037_0_0#1",
+   "speaker": "Homeless Man",
+   "en": "Anyway, it's best you keep a low profile.[n]Life gets hard once they start noticing you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_038_0_0#0",
+   "speaker": "Homeless Man",
+   "en": "They speak in all sorts of weird,[n]uncommon phrases. Code, I'd say.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_038_0_0#1",
+   "speaker": "Homeless Man",
+   "en": "They're very cautious though.[n]Even the police are having trouble[n]figuring them out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_039_0_0#0",
+   "speaker": "Kind Old Woman",
+   "en": "Hello, young man. Would you happen[n]to know how I could board the Inogami[n]Line?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_040_0_0#0",
+   "speaker": "Ryuji",
+   "en": "Sorry granny, I'm kinda busy. Just go[n]down those stairs and then turn left...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_041_0_0#0",
+   "speaker": "Kind Old Woman",
+   "en": "Oh, Shibuya is so complicated. These[n]bones don't move like they used to,[n]either. How troubling.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_042_0_0#0",
+   "speaker": "Ryuji",
+   "en": "*sigh* Fineee, let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_043_0_0#0",
+   "speaker": "Tall Man",
+   "en": "I told you, that drug is perfect![n]Deliver it, quick!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_043_0_0#1",
+   "speaker": "Tall Man",
+   "en": "I've heard it's super effective. Even[n]the most barren deserts will become[n]lush forests of hair...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_044_0_0#0",
+   "speaker": "Morgana",
+   "en": "So that's who Ryuji was talking[n]about. Lush forests...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_044_0_0#1",
+   "speaker": "Morgana",
+   "en": "I don't really want to know. I guess[n]I can see how you'd mistake him for[n]what we want, though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_045_0_0#0",
+   "speaker": "Morgana",
+   "en": "We should forget about this guy...[n]Let's go look elsewhere.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_046_0_0#0",
+   "speaker": "Ann",
+   "en": "Urgh, there are too many people![n]It's all about scouting and solicitations[n]and just, urghhh!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_047_0_0#0",
+   "speaker": "Lighthearted Scout",
+   "en": "Five hundred thousand yen, for[n]just one video. You may even get[n]more if you're popular...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_048_0_0#0",
+   "speaker": "Lighthearted Scout",
+   "en": "Huh? You... want to be in one of[n]our videos?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_048_0_0#1",
+   "speaker": "Lighthearted Scout",
+   "en": "I guess I can't say there's no demand...[n]but our company only hires girls. Sorry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_049_0_0#0",
+   "speaker": "Morgana",
+   "en": "...Be in a video? What kind[n]of job is that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_049_0_0#1",
+   "speaker": "Morgana",
+   "en": "Though I guess that doesn't have[n]anything to do with drugs. It must[n]not be him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_050_0_0#0",
+   "speaker": "Morgana",
+   "en": "He's not what we're looking for.[n]Let's check somewhere else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051_0_0#0",
+   "speaker": "Yusuke",
+   "en": "...I was simply wondering where[n]the arcade is. I'll be going now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_052_0_0#0",
+   "speaker": "Elderly Officer",
+   "en": "Wait, you're a high school student,[n]right? You should stay away from[n]those places...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_052_0_0#1",
+   "speaker": "Elderly Officer",
+   "en": "Back in my day, arcades were where[n]all the hoodlums used to hang out[n]and make trouble...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_0_0#0",
+   "speaker": "Menacing Man",
+   "en": "You're a high school kid, yeah?[n]You want an easy part-time job?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_054_0_0#0",
+   "speaker": null,
+   "en": "I'm listening.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_054_0_0#1",
+   "speaker": null,
+   "en": "Not really.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_055_0_0#0",
+   "speaker": "Menacing Man",
+   "en": "Ahaha, I knew it. Everyone wants[n]a slice of that sweet money pie.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_055_0_0#1",
+   "speaker": "Menacing Man",
+   "en": "Anyway, it's too loud to talk here.[n]Let's just go to the back...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_056_0_0#0",
+   "speaker": "Menacing Man",
+   "en": "Ahahaha, don't say that. Making money[n]here's almost effortless.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_056_0_0#1",
+   "speaker": "Menacing Man",
+   "en": "Anyway, it's too loud to talk here.[n]Let's just go to the back...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_057_0_0#0",
+   "speaker": "Morgana",
+   "en": "There's no doubt: This has to be the guy.[n]Don't let your guard down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_058_0_0#0",
+   "speaker": "Menacing Man",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_058_0_0#1",
+   "speaker": "Menacing Man",
+   "en": "You know curling irons? Those things[n]girls use to curl their hair?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_058_0_0#2",
+   "speaker": "Menacing Man",
+   "en": "I wonder, what would happen if the hot[n]iron hit someone's face? Now, let's take[n]a moment to imagine it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_059_0_0#0",
+   "speaker": null,
+   "en": "It would burn their face.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_059_0_0#1",
+   "speaker": null,
+   "en": "I don't understand.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_059_0_0#2",
+   "speaker": null,
+   "en": "So about that part-time job...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_060_0_0#0",
+   "speaker": "Menacing Man",
+   "en": "Ahahahaaa, that's correct! I doubt even[n]the doctors can fix him up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_060_0_0#1",
+   "speaker": "Menacing Man",
+   "en": "I tried it on some guy and he wouldn't[n]stop crying. I got a picture of him.[n]You wanna see?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_061_0_0#0",
+   "speaker": "Menacing Man",
+   "en": "Oh? You don't know the answer? [n]*snicker* Well the answer is...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_061_0_0#1",
+   "speaker": "Menacing Man",
+   "en": "\"That person will cry and apologize.\"[n]I got a picture of him. Wanna see?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_062_0_0#0",
+   "speaker": "Menacing Man",
+   "en": "Sorry kid. Registrations closed, so beat it.[n]I'm a very busy man.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_062_0_0#1",
+   "speaker": "Menacing Man",
+   "en": "If you play with fire you'll get burned.[n]And we wouldn't want that, would we?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_063_0_0#0",
+   "speaker": "Menacing Man",
+   "en": "...I've got your face memorized. [n]Stop snoopin' around here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_063_0_0#1",
+   "speaker": "Menacing Man",
+   "en": "I'm givin' you a nice, polite, warning.[n]You better appreciate it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_064_0_0#0",
+   "speaker": "Morgana",
+   "en": "Dammit... now he's threatening us!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_064_0_0#1",
+   "speaker": "Morgana",
+   "en": "I guess our strategy failed... Let's go[n]tell the others.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_065_0_0#0",
+   "speaker": "Ann",
+   "en": "I underestimated them. I can't believe[n]they already figured out what we were[n]trying to do...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_066_0_0#0",
+   "speaker": "Ryuji",
+   "en": "You sure the whole rememberin'[n]our faces thing ain't a bluff?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_067_0_0#0",
+   "speaker": "Yusuke",
+   "en": "In any case, this will make it significantly[n]tougher to investigate the part-time job.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_068_0_0#0",
+   "speaker": null,
+   "en": "We can still do it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_068_0_0#1",
+   "speaker": null,
+   "en": "Let's try something else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_069_0_0#0",
+   "speaker": "Ryuji",
+   "en": "Don't get too excited. It'd be real bad if[n]something happened to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_070_0_0#0",
+   "speaker": "Ann",
+   "en": "It might put us back to square one,[n]but I think that's the only option[n]we have now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_071_0_0#0",
+   "speaker": "Yusuke",
+   "en": "Well then, I will return to Kosei and[n]investigate there some more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_072_0_0#0",
+   "speaker": "Ann",
+   "en": "Oh, and I can talk to some of my friends[n]who come to Shibuya a lot.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_073_0_0#0",
+   "speaker": "Ryuji",
+   "en": "Mkay. I don't wanna keep dealin' with[n]the cops, so I'll try takin' a look on the[n]net for now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_073_0_0#1",
+   "speaker": "Ryuji",
+   "en": "Welp, everyone split up. We can talk[n]tomorrow if any of us end up findin'[n]anything good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_074_0_0#0",
+   "speaker": "Yusuke",
+   "en": "And where exactly should we gather[n]tomorrow? I suggest somewhere[n]inconspicuous.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_075_0_0#0",
+   "speaker": "Ann",
+   "en": "Hm, it should be a place we can[n]tell secrets... How about karaoke?[n]It should be nice and cheap too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_076_0_0#0",
+   "speaker": "Yusuke",
+   "en": "Ah yes, that will be helpful. They have[n]a \"hustle hour\" promotion there, yes?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_077_0_0#0",
+   "speaker": "Ryuji",
+   "en": "...Dude, it's happy hour. Why'd it[n]be hustle...?",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

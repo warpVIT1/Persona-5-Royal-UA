@@ -1,0 +1,474 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR1500_000_000.BF",
+ "entries": [
+  {
+   "id": "SHORTCUT_TEST_mes01#0",
+   "speaker": null,
+   "en": "Test",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "f_menu_txt#0",
+   "speaker": null,
+   "en": "Where should I go...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "train_txt#0",
+   "speaker": null,
+   "en": "Where should I take the train...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TRAIN_mes#0",
+   "speaker": null,
+   "en": "Ride the train",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TRAIN_mes#1",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TRAIN_AOYAMA_mes#0",
+   "speaker": null,
+   "en": "Shibuya",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TRAIN_AOYAMA_mes#1",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TRAIN_SHIBUYA_DENEN_mes#0",
+   "speaker": null,
+   "en": "Yongen-Jaya",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TRAIN_SHIBUYA_DENEN_mes#1",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TRAIN_SHIBUYA_GINZA_mes#0",
+   "speaker": null,
+   "en": "Aoyama-Itchome",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TRAIN_SHIBUYA_GINZA_mes#1",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TRAIN_YONCHA_mes#0",
+   "speaker": null,
+   "en": "Shibuya",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TRAIN_YONCHA_mes#1",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SCHOOL_MY_CLASS_mes#0",
+   "speaker": null,
+   "en": "Leave the classroom",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SCHOOL_MY_CLASS_mes#1",
+   "speaker": null,
+   "en": "Leave the school",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SCHOOL_MY_CLASS_mes#2",
+   "speaker": null,
+   "en": "Rooftop",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SCHOOL_MY_CLASS_mes#3",
+   "speaker": null,
+   "en": "Courtyard",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SCHOOL_MY_CLASS_mes#4",
+   "speaker": null,
+   "en": "Practice Building",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SCHOOL_COURT_mes#0",
+   "speaker": null,
+   "en": "Classroom Building",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SCHOOL_COURT_mes#1",
+   "speaker": null,
+   "en": "Practice Building",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SCHOOL_COURT_mes#2",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SCHOOL_ROOTTOP_mes#0",
+   "speaker": null,
+   "en": "Return to campus",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SCHOOL_ROOTTOP_mes#1",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SCHOOL_OUTGATE_mes#0",
+   "speaker": null,
+   "en": "Enter the school",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SCHOOL_OUTGATE_mes#1",
+   "speaker": null,
+   "en": "Go to the station",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SCHOOL_OUTGATE_mes#2",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SCHOOL_OUTGATE_OFF_mes#0",
+   "speaker": null,
+   "en": "Go to the station",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SCHOOL_OUTGATE_OFF_mes#1",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SCHOOL_PASSAGE_KYOUSITU_#0",
+   "speaker": null,
+   "en": "Leave the school",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SCHOOL_PASSAGE_KYOUSITU_#1",
+   "speaker": null,
+   "en": "My classroom",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SCHOOL_PASSAGE_KYOUSITU_#2",
+   "speaker": null,
+   "en": "Rooftop",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SCHOOL_PASSAGE_KYOUSITU_#3",
+   "speaker": null,
+   "en": "Courtyard",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SCHOOL_PASSAGE_KYOUSITU_#4",
+   "speaker": null,
+   "en": "Practice Building",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SCHOOL_PASSAGE_KYOUSITU_#5",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SCHOOL_PASSAGE_JISSYUU_m#0",
+   "speaker": null,
+   "en": "Leave the school",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SCHOOL_PASSAGE_JISSYUU_m#1",
+   "speaker": null,
+   "en": "Classroom Building",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SCHOOL_PASSAGE_JISSYUU_m#2",
+   "speaker": null,
+   "en": "Courtyard",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SCHOOL_PASSAGE_JISSYUU_m#3",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SIBUYA_OUT_FIELD_METRO_m#0",
+   "speaker": null,
+   "en": "Denen-Toshi Line Ticket Gate",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SIBUYA_OUT_FIELD_METRO_m#1",
+   "speaker": null,
+   "en": "Ground-Level Square",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SIBUYA_OUT_FIELD_METRO_m#2",
+   "speaker": null,
+   "en": "Station Building 2F",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SIBUYA_OUT_FIELD_METRO_m#3",
+   "speaker": null,
+   "en": "Station Building 3F",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SIBUYA_OUT_FIELD_METRO_m#4",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SIBUYA_OUT_FIELD_GROUND_#0",
+   "speaker": null,
+   "en": "Station Building 3F",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SIBUYA_OUT_FIELD_GROUND_#1",
+   "speaker": null,
+   "en": "Station Building 2F",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SIBUYA_OUT_FIELD_GROUND_#2",
+   "speaker": null,
+   "en": "Underground Walkway",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SIBUYA_OUT_FIELD_GROUND_#3",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SIBUYA_BLDG_FIELD_2F_mes#0",
+   "speaker": null,
+   "en": "Station Building 3F",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SIBUYA_BLDG_FIELD_2F_mes#1",
+   "speaker": null,
+   "en": "Ground-Level Square",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SIBUYA_BLDG_FIELD_2F_mes#2",
+   "speaker": null,
+   "en": "Underground Walkway",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SIBUYA_BLDG_FIELD_2F_mes#3",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SIBUYA_BLDG_FIELD_3F_mes#0",
+   "speaker": null,
+   "en": "Ginza Line Ticket Gate",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SIBUYA_BLDG_FIELD_3F_mes#1",
+   "speaker": null,
+   "en": "Station Building 2F",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SIBUYA_BLDG_FIELD_3F_mes#2",
+   "speaker": null,
+   "en": "Ground-Level Square",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SIBUYA_BLDG_FIELD_3F_mes#3",
+   "speaker": null,
+   "en": "Underground Walkway",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SIBUYA_BLDG_FIELD_3F_mes#4",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YONCHA_ARCADE_mes#0",
+   "speaker": null,
+   "en": "Go to the station",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YONCHA_ARCADE_mes#1",
+   "speaker": null,
+   "en": "Backstreets",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YONCHA_ARCADE_mes#2",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YONCHA_ROJIURA_mes#0",
+   "speaker": null,
+   "en": "Shopping Arcade",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YONCHA_ROJIURA_mes#1",
+   "speaker": null,
+   "en": "Leblanc",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YONCHA_ROJIURA_mes#2",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_HOUSE_CAFE_mes#0",
+   "speaker": null,
+   "en": "Go outside",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_HOUSE_CAFE_mes#1",
+   "speaker": null,
+   "en": "Return to own room",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_HOUSE_CAFE_mes#2",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_HOUSE_ROOM_mes#0",
+   "speaker": null,
+   "en": "To Leblanc",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MY_HOUSE_ROOM_mes#1",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

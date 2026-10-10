@@ -1,0 +1,61 @@
+{
+ "file": "EN/FIELD/DOOR/FDOOR162_012.BF",
+ "entries": [
+  {
+   "id": "NOT_OPEN_DOOR#0",
+   "speaker": null,
+   "en": "The door is tightly sealed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "LOCK_DOOR#0",
+   "speaker": null,
+   "en": "The door is locked.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DOOR_162_013_go_selA#0",
+   "speaker": null,
+   "en": "Return to entrance?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DOOR_162_00_go_sel#0",
+   "speaker": null,
+   "en": "Return to entrance",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DOOR_162_00_go_sel#1",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FLD162_012_notkey_mes_01#0",
+   "speaker": "Ryuji",
+   "en": "Huh? It won't open...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FLD162_012_notkey_mes_02#0",
+   "speaker": "Yusuke",
+   "en": "It's locked from the inside. We should[n]use a different entrance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FLD162_012_notkey_mes_03#0",
+   "speaker": "Yusuke",
+   "en": "What are you doing!? That'll break your[n]shoulder!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

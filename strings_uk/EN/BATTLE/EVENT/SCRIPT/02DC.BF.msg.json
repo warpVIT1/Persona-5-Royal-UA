@@ -1,0 +1,327 @@
+{
+ "file": "EN/BATTLE/EVENT/SCRIPT/02DC.BF",
+ "entries": [
+  {
+   "id": "MSG_BTL_START_000#0",
+   "speaker": "Shadow Fuwa",
+   "en": "The only person that can complain about[n]my hobbies is my wife, and that's more[n]than enough! Just go away already!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HEAL_000#0",
+   "speaker": "Shadow Fuwa",
+   "en": "Lily-nyan, give me strength!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_FIRST_000#0",
+   "speaker": "Shadow Fuwa",
+   "en": "H-Hold on!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_FIRST_000#1",
+   "speaker": "Shadow Fuwa",
+   "en": "If I'm gone, there's going to be one[n]less otaku cheering for Lily-nyan!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_FIRST_000#2",
+   "speaker": "Shadow Fuwa",
+   "en": "Just let me go... for Lily-nyan!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_FIRST_001#0",
+   "speaker": "Ryuji",
+   "en": "I get idols are important... but that's[n]not everything in life, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_FIRST_002#0",
+   "speaker": "Ryuji",
+   "en": "We need to tell 'im that there're[n]more important things in life.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_FIRST_003#0",
+   "speaker": "Ryuji",
+   "en": "Here's the stuff we know 'bout him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_FIRST_003#1",
+   "speaker": "Ryuji",
+   "en": "\"He's got no place at home\" and[n]\"He wants to get involved with his[n]kid's life, but he can't.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SYS_MSG#0",
+   "speaker": null,
+   "en": "By choosing the correct answers,[n]you will be able to change the[n]target's heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SYS_MSG#1",
+   "speaker": null,
+   "en": "Use the information you[n]have obtained to respond[n]successfully!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_000_000#0",
+   "speaker": "Shadow Fuwa",
+   "en": "The only person I want to protect is[n]Lily-nyan! You understand me right!?[n]My love for her!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP01_000#0",
+   "speaker": null,
+   "en": "Lily-nyan is probably troubled by it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP01_000#1",
+   "speaker": null,
+   "en": "I think I do.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP01_000#2",
+   "speaker": null,
+   "en": "What about your family?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_001_002#0",
+   "speaker": "Shadow Fuwa",
+   "en": "You have no right to talk about[n]Lily-nyan!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_FAIL_002_00#0",
+   "speaker": "Futaba",
+   "en": "Crap, he's going berserk!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_FAIL_002_00_2#0",
+   "speaker": "Futaba",
+   "en": "Think about what to say and try[n]again, Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_001_003_000#0",
+   "speaker": "Shadow Fuwa",
+   "en": "Right!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_001_003_000#1",
+   "speaker": "Shadow Fuwa",
+   "en": "See? I wasn't doing anything wrong![n]As long as I love Lily-nyan, everything'll[n]be okay!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_FAIL_003_00#0",
+   "speaker": "Futaba",
+   "en": "Whoa! He's real pumped all of a sudden!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_001_001_000#0",
+   "speaker": "Shadow Fuwa",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_001_001_000#1",
+   "speaker": "Shadow Fuwa",
+   "en": "Why do you gotta bring up my family?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_001_001_001#0",
+   "speaker": "Shadow Fuwa",
+   "en": "Family huh... All I've done with my wife[n]is argue...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_001_001_001#1",
+   "speaker": "Shadow Fuwa",
+   "en": "Forcing the kid to learn a shit ton of[n]stuff... I told her it's too much.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_001_001_001#2",
+   "speaker": "Shadow Fuwa",
+   "en": "But she doesn't understand that.[n]My words don't reach her heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_001_001_002#0",
+   "speaker": "Shadow Fuwa",
+   "en": "But not Lily-nyan!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_001_001_003#0",
+   "speaker": "Shadow Fuwa",
+   "en": "Lily-nyan always pays attention to[n]what I have to say! She's the only one[n]that listens to me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP02_000#0",
+   "speaker": null,
+   "en": "While you have money.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP02_000#1",
+   "speaker": null,
+   "en": "You don't talk to your kid?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP02_000#2",
+   "speaker": null,
+   "en": "Maybe you're right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_002_002_000#0",
+   "speaker": "Shadow Fuwa",
+   "en": "Shut up, shut up! That doesn't matter[n]to me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_002_003_000#0",
+   "speaker": "Shadow Fuwa",
+   "en": "Right!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_002_003_000#1",
+   "speaker": "Shadow Fuwa",
+   "en": "See? I wasn't doing anything wrong![n]As long as I love Lily-nyan, everything'll[n]be okay!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_002_001_000#0",
+   "speaker": "Shadow Fuwa",
+   "en": "My kid...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_002_001_000#1",
+   "speaker": "Shadow Fuwa",
+   "en": "I can't do anything now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_002_001_001#0",
+   "speaker": "Shadow Fuwa",
+   "en": "All my money goes to her CDs, and if[n]I have time I go to the concerts. I rarely[n]ever thought of my family.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_002_001_001#1",
+   "speaker": "Shadow Fuwa",
+   "en": "My wife was the one that stopped[n]caring about me. So I decided to[n]stop caring about her.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_002_001_002#0",
+   "speaker": "Futaba",
+   "en": "And that's what got you into idols...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_002_001_003#0",
+   "speaker": "Futaba",
+   "en": "He might think he stopped caring about[n]his family, but we all know that's not the[n]case.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_002_001_004#0",
+   "speaker": "Futaba",
+   "en": "Tell 'im, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_002_001_005#0",
+   "speaker": "Shadow Fuwa",
+   "en": "My family doesn't need me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP03_000#0",
+   "speaker": null,
+   "en": "Maybe your kid thinks that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP03_000#1",
+   "speaker": null,
+   "en": "You can still go back.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_END#0",
+   "speaker": "Shadow Fuwa",
+   "en": "Even me...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_OFF#0",
+   "speaker": "Shadow Fuwa",
+   "en": "You can't talk to him.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

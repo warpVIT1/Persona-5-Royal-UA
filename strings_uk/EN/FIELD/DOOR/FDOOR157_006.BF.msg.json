@@ -1,0 +1,68 @@
+{
+ "file": "EN/FIELD/DOOR/FDOOR157_006.BF",
+ "entries": [
+  {
+   "id": "NOT_OPEN_DOOR#0",
+   "speaker": null,
+   "en": "The door is tightly sealed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "LOCK_DOOR#0",
+   "speaker": null,
+   "en": "The door is locked.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SlotChip_Lock#0",
+   "speaker": null,
+   "en": "You cannot pass unless you have over[n][clr 2]5,000 coins[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SlotChip_Lock#1",
+   "speaker": null,
+   "en": "Your current total of [clr 2][var 0] coins[clr 27][n]is insufficient. You may not pass.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SlotChip_UN_Lock#0",
+   "speaker": null,
+   "en": "Your current total of [clr 2][var 0] coins[clr 27][n]is sufficient. You may pass.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D157_006_miniEV_01_mes01#0",
+   "speaker": "Man's Voice",
+   "en": "...Excuse me, sir.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D157_006_miniEV_01_mes02#0",
+   "speaker": "Shadow Dealer",
+   "en": "You haven't completed your registration[n]yet. Come this way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D157_006_miniEV_01_mes03#0",
+   "speaker": "Akechi",
+   "en": "It seems we have no choice but to do as[n]he says. Let us go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D06_MIDDLE_BOSS_LOCK_mes#0",
+   "speaker": "Akechi",
+   "en": "We finally obtained the High Stakes Card.[n]Why don't we go check the elevator?",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

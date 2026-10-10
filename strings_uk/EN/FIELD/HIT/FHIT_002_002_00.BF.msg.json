@@ -1,0 +1,1923 @@
+{
+ "file": "EN/FIELD/HIT/FHIT_002_002_00.BF",
+ "entries": [
+  {
+   "id": "YESNO_SEL#0",
+   "speaker": null,
+   "en": "Yes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#1",
+   "speaker": null,
+   "en": "No.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_place#0",
+   "speaker": "Morgana",
+   "en": "You don't need to be here right now,[n]do you? Come on, let's head somewhere[n]else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_etc#0",
+   "speaker": "Morgana",
+   "en": "What's wrong? Come on, we should[n]go say goodbye to the others!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KOUBAIBU_NOTOPEN#0",
+   "speaker": "Lady at School Store",
+   "en": "Sorry, we're still setting up. Come by[n]again later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KOUBAIBU_SELECT#0",
+   "speaker": "Lady at School Store",
+   "en": "Hello, there. Is there something[n]you'd like?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KOUBAIBU_THANKS#0",
+   "speaker": "Lady at School Store",
+   "en": "Thank you very much.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KOUBAIBU_NOT_BUY#0",
+   "speaker": "Lady at School Store",
+   "en": "All right, come again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KOUBAIBU_YAKISOBA_INFO#0",
+   "speaker": "Lady at School Store",
+   "en": "The [f 2 5 3 9999 0] here is pretty popular...[n]But we usually have a few extras on [clr 2]Fridays[clr 27],[n]for some reason.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KOUBAIBU_YAKISOBA_INFO_0#0",
+   "speaker": "Lady at School Store",
+   "en": "Both the [f 2 5 3 9999 0] and the[n][f 2 5 3 9999 1] here are popular...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KOUBAIBU_YAKISOBA_INFO_0#1",
+   "speaker": "Lady at School Store",
+   "en": "But surprisingly enough, we usually[n]have a few extras on [clr 2]Fridays[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KOUBAIBU_KAMOSHIDA_T#0",
+   "speaker": "Morgana",
+   "en": "This stuff might be good for a snack in[n]the Palace, but it won't do much in terms[n]of recovery...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KOUBAIBU_KAMOSHIDA_T#1",
+   "speaker": "Morgana",
+   "en": "Maybe we can find something a bit[n]more useful at one of the drugstores[n]out in the city.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OFFICE#0",
+   "speaker": null,
+   "en": "I have no business in the[n]administration office...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_OFFICE_MORU#0",
+   "speaker": "Morgana",
+   "en": "There's nothing you need to do here,[n]right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "AUTO_MACHINE01_NOTOPEN#0",
+   "speaker": null,
+   "en": "I'm not thirsty right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "AUTO_MACHINE01_START#0",
+   "speaker": "Morgana",
+   "en": "Are you thinking of buying something[n]to drink?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Juice_SoldOut#0",
+   "speaker": "Morgana",
+   "en": "Everything's sold out... Let's wait for[n]it to get restocked next week.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Juice_AllBuy#0",
+   "speaker": "Morgana",
+   "en": "Whoops, everything's sold out. Let's[n]wait for it to get restocked next week.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Juice_HeatIsland#0",
+   "speaker": "Morgana",
+   "en": "...Everything's sold out. I guess it's no[n]surprise with how hot it is right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SHELF_TROPHY_MORU_AF#0",
+   "speaker": "Morgana",
+   "en": "Hey, they actually managed to cover up[n]Kamoshida's name on the trophy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SHELF_TROPHY_MORU#0",
+   "speaker": "Morgana",
+   "en": "Hmmm, all the trophies in here were[n]won by the volleyball team...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SHELF_TROPHY#0",
+   "speaker": null,
+   "en": "All the trophies in here belong[n]to the volleyball team...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SHELF_PHOTO_MORU#0",
+   "speaker": "Morgana",
+   "en": "This picture dates all the way back to[n]when Shujin was first established...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SHELF_PHOTO_MORU#1",
+   "speaker": "Morgana",
+   "en": "The teachers look like they really had[n]hope for the future of the school...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SHELF_PHOTO#0",
+   "speaker": null,
+   "en": "This picture was taken back when[n]the school was first established...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_ENTRANCE_MORU#0",
+   "speaker": "Morgana",
+   "en": "The school slogan is written here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_ENTRANCE_MORU#1",
+   "speaker": "Morgana",
+   "en": "Is this supposed to be the school[n]slogan? It's kinda weird...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_ENTRANCE#0",
+   "speaker": null,
+   "en": "The school slogan is written here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_ENTRANCE#1",
+   "speaker": null,
+   "en": "\"True freedom lies within[n]the constructs of society.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BOARD_ENTRANCE_KOUTY#0",
+   "speaker": null,
+   "en": "\"It seems our campus has grown so[n]corrupt that baseless rumors have[n]begun to spread like wildfire.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BOARD_ENTRANCE_KOUTY#1",
+   "speaker": null,
+   "en": "\"In an effort to resolve this issue,[n]we will gladly accept any and all[n]information students have to offer.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BOARD_ENTRANCE_KOUTY#2",
+   "speaker": null,
+   "en": "\"Please go to your class president[n]if you have anything you would like[n]to come forth about.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BOARD_ENTRANCE_KOUTY#3",
+   "speaker": null,
+   "en": "\"Strict secrecy will be observed.[n]I hope you act responsibly.[n]—Principal Kobayakawa\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BOARD_ENTRANCE_COUNS#0",
+   "speaker": null,
+   "en": "There are flyers posted[n]about counseling.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BOARD_ENTRANCE_COUNS#1",
+   "speaker": null,
+   "en": "It seems like sessions will[n]take place until November...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BOARD_ENTRANCE_SOUJI#0",
+   "speaker": null,
+   "en": "★Notification about the Clean Up Event★",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BOARD_ENTRANCE_SOUJI#2",
+   "speaker": null,
+   "en": "We will be cleaning Inokashira Park.[n]Meet at the park. Must wear tracksuits.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BOARD_ENTRANCE_SOUJI#3",
+   "speaker": null,
+   "en": "...That's what the flyer said.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SIKEN_TOP#0",
+   "speaker": "Morgana",
+   "en": "It looks like the results from your last[n]exam are up. Let's see here, where is[n]your name?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SIKEN_TOP#1",
+   "speaker": "Morgana",
+   "en": "Incredible, you're at the very top[n]of your class!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SIKEN_TOP#2",
+   "speaker": "Morgana",
+   "en": "Lady Ann is a bit below the middle[n]though... and Ryuji's really close to[n]the bottom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SIKEN_IN10#0",
+   "speaker": "Morgana",
+   "en": "It looks like the results from your last[n]exam are up. Let's see here, where is[n]your name?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SIKEN_IN10#1",
+   "speaker": "Morgana",
+   "en": "Oh, you finished in the top ten for[n]your class. Pretty darn good!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SIKEN_IN10#2",
+   "speaker": "Morgana",
+   "en": "Lady Ann is a bit below the middle[n]though... and Ryuji's really close to[n]the bottom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SIKEN_HIGH#0",
+   "speaker": "Morgana",
+   "en": "It looks like the results from your last[n]exam are up. Let's see here, where is[n]your name?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SIKEN_HIGH#1",
+   "speaker": "Morgana",
+   "en": "You're slightly above the middle, so[n]I guess that makes you better than[n]average, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SIKEN_HIGH#2",
+   "speaker": "Morgana",
+   "en": "Lady Ann is a bit below the middle[n]though... and Ryuji's really close to[n]the bottom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SIKEN_LOW#0",
+   "speaker": "Morgana",
+   "en": "It looks like the results from your last[n]exam are up. Let's see here, where is[n]your name?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SIKEN_LOW#1",
+   "speaker": "Morgana",
+   "en": "You're just below the middle.[n]You should have tried harder...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SIKEN_LOW#2",
+   "speaker": "Morgana",
+   "en": "Lady Ann's name is right next to yours[n]though, and Ryuji's is way lower...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SIKEN_BOTTOM#0",
+   "speaker": "Morgana",
+   "en": "It looks like the results from your last[n]exam are up. Let's see here, where is[n]your name?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SIKEN_BOTTOM#1",
+   "speaker": "Morgana",
+   "en": "Uh, your name is far too low on the list.[n]You're all the way down at the bottom[n]with Ryuji...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SIKEN_BOTTOM#2",
+   "speaker": "Morgana",
+   "en": "Even Lady Ann is slightly below[n]the middle... You guys really need[n]to take school more seriously...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SIKEN_ERROR#0",
+   "speaker": "Morgana",
+   "en": "It looks like the results from your last[n]exam are up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CHK_CANTEEN_DOOR_S_01#0",
+   "speaker": null,
+   "en": "There's no reason for me[n]to go to the cafeteria...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SYOKUDOU_NotOpen#0",
+   "speaker": "Morgana",
+   "en": "Nothing in there smells very good...[n]Let's go somewhere else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CHK_TOILET_MEN_01#0",
+   "speaker": null,
+   "en": "The walls in there are disgusting...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TOILET_WOMEN_MORU#0",
+   "speaker": "Morgana",
+   "en": "Don't you know that's the girls'[n]bathroom? You're not supposed[n]to be in there...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TOILET_WOMEN#0",
+   "speaker": null,
+   "en": "I don't have a good reason[n]to be in the ladies' restroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CHK_ATTENTION_BOARD_01#0",
+   "speaker": null,
+   "en": "This bulletin board has a[n]lot of postings compared[n]to the other ones...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CHK_ATTENTION_BOARD_01#1",
+   "speaker": null,
+   "en": "Everything on here is about[n]Kamoshida or the volleyball team...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRADE3_CLASS_MORU#0",
+   "speaker": "Morgana",
+   "en": "This classroom is for third-years...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRADE3_CLASS_MORU#1",
+   "speaker": "Morgana",
+   "en": "There's no reason for you to be here.[n]Come on, let's find somewhere else[n]to go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRADE3_CLASS#0",
+   "speaker": null,
+   "en": "It's a third-year classroom.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRADE3_CLASS#1",
+   "speaker": null,
+   "en": "I have no reason to go in there...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Emergency_Door_m#0",
+   "speaker": "Morgana",
+   "en": "Hold on, we should use the main[n]entrance if you wanna go outside.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Emergency_Door#0",
+   "speaker": null,
+   "en": "There's no reason for me to[n]use the emergency exit...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BLDG_B_KEEPOUT_000_0#0",
+   "speaker": null,
+   "en": "There's nothing that[n]I need to do up ahead...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_KFEVT_COMMON_NG#0",
+   "speaker": null,
+   "en": "There's nothing I particularly[n]need to do here right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12010100_NG_ENTRANC#0",
+   "speaker": null,
+   "en": "I better head to[n]the faculty office...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12010100_NG_ENTRANC#1",
+   "speaker": null,
+   "en": "The faculty office should be on[n]the [clr 2]second floor of this building[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_NG_ENTRANC#0",
+   "speaker": null,
+   "en": "Sakamoto said he'll be[n]waiting at the [clr 2]rooftop[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_NG_ENTRANC#1",
+   "speaker": null,
+   "en": "I'll try going there...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13710100_NG_ENTRANC#0",
+   "speaker": "Ryuji",
+   "en": "Hey, where you goin'? Let's get to your[n]classroom already!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_NG_ENTRANC#0",
+   "speaker": null,
+   "en": "Let's go talk to a volleyball player[n]with a noticeable injury...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_NG_ENTRANC_2#0",
+   "speaker": null,
+   "en": "I need to meet Ryuji[n]in the [clr 2]courtyard[clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_NG_ENTRANC#0",
+   "speaker": "Ryuji",
+   "en": "Hey, we gotta get to Mishima! He'll be[n]long gone if we don't hurry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_NG_ENTRANC#0",
+   "speaker": null,
+   "en": "I'm supposed to meet up[n]with Ryuji. Let's head to[n]the [clr 2]courtyard[clr 27] for now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_NG_ENTRANC_2#0",
+   "speaker": null,
+   "en": "There's nothing in particular[n]I need to do today. Let's head[n]straight home without any detours.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_NG_ENTRANC#0",
+   "speaker": null,
+   "en": "I better hurry to the courtyard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E15010100_NG_ENTRANC#0",
+   "speaker": null,
+   "en": "I must get to Ryuji for now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E23810100_NG_ENTRANC#0",
+   "speaker": "Morgana",
+   "en": "Where do you think you're going? Aren't[n]you going to the student council room on[n]the [clr 2]third floor[clr 27]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_NG_ENTRANC#0",
+   "speaker": "Morgana",
+   "en": "Where do you think you're going?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_NG_ENTRANC#1",
+   "speaker": "Morgana",
+   "en": "Aren't you supposed to go around[n]school, asking people what's been[n]going on?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65410200_NG_ENTRANC#0",
+   "speaker": "Morgana",
+   "en": "Hey, where are you going? Don't you[n]have to chase after that butterfly?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_NG_ENTRANCE_0#0",
+   "speaker": null,
+   "en": "This is no time for detours...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12010100_NG_BldgA1F#0",
+   "speaker": null,
+   "en": "This way seems to lead[n]to another building.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12010100_NG_BldgA1F#1",
+   "speaker": null,
+   "en": "The faculty office should be on[n]the [clr 2]second floor of this building[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13710100_NG_BldgA1F#0",
+   "speaker": "Ryuji",
+   "en": "That'll take you to the Practice Building.[n]We gotta get to the room for Class D.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_NG_BldgA1F#0",
+   "speaker": null,
+   "en": "I should let Ryuji handle[n]the Practice Building...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_NG_BldgA1F#0",
+   "speaker": "Ryuji",
+   "en": "Hey, I said the main entrance![n]He's gonna leave if we don't hurry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_NG_BldgA1F#0",
+   "speaker": null,
+   "en": "The way leading to the[n]Practice Building is so[n]crowded, I can't get through...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_NG_BldgA1F#1",
+   "speaker": null,
+   "en": "Let's try another route...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12010100_NG_Yard_00#0",
+   "speaker": null,
+   "en": "It looks like the[n]courtyard is just past here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12010100_NG_Yard_00#1",
+   "speaker": null,
+   "en": "The faculty office should be on[n]the [clr 2]second floor of this building[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13910100_NG_Yard_00#0",
+   "speaker": "Ryuji",
+   "en": "Hey, I said the main entrance![n]He's gonna leave if we don't hurry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_NG_Yard_00#0",
+   "speaker": null,
+   "en": "I can't get past this[n]crowd of students...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_NG_Yard_00#1",
+   "speaker": null,
+   "en": "I wonder if I can get to[n]the courtyard from the[n][clr 2]Practice Building side[clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65110100_NG_BldgB1F#0",
+   "speaker": "Lavenza",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E65110100_NG_BldgB1F#0",
+   "speaker": null,
+   "en": "Not this way...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_NG_BldgA1F_2#0",
+   "speaker": "Ryuji",
+   "en": "Hey, I said the main entrance![n]He's gonna leave if we don't hurry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65410200_NG_BldgA1F#0",
+   "speaker": "Morgana",
+   "en": "Hey, where are you going? Don't you[n]have to chase after that butterfly?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12010100_CHK_School#0",
+   "speaker": null,
+   "en": "I have no business in the[n]administration office...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_School#0",
+   "speaker": null,
+   "en": "I have no business in the[n]administration office...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_School#0",
+   "speaker": null,
+   "en": "I have no business in the[n]administration office...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13710100_CHK_School#0",
+   "speaker": "Ryuji",
+   "en": "You don't gotta do anything there,[n]right? The ball game's gonna end[n]if we don't hurry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_School#0",
+   "speaker": null,
+   "en": "I have no business in the[n]administration office...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_NG_CHK_Sch#0",
+   "speaker": "Ryuji",
+   "en": "Hey, we gotta catch up to Mishima.[n]He's gonna leave if we don't get a[n]move on!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_School#0",
+   "speaker": null,
+   "en": "I have no business in the[n]administration office...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_CHK_School#0",
+   "speaker": null,
+   "en": "I better hurry to the courtyard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E15010100_CHK_School#0",
+   "speaker": null,
+   "en": "I must get to Ryuji for now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E23810100_CHK_School#0",
+   "speaker": "Morgana",
+   "en": "You don't need anything from there,[n]do you? Aren't you going to the student[n]council room on the [clr 2]third floor[clr 27]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E65110100_CHK_School#0",
+   "speaker": null,
+   "en": "I better hurry on my way...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_SchoolOff#0",
+   "speaker": null,
+   "en": "There's nothing in particular[n]that I need to do here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12010100_CHK_School_2#0",
+   "speaker": null,
+   "en": "It's the school store.[n]None of the bread here[n]particularly interests me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13710100_CHK_School_2#0",
+   "speaker": "Ryuji",
+   "en": "Look, I'll buy you somethin' next time![n]Right now, we gotta head over to your[n]classroom.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13710100_CHK_School_3#0",
+   "speaker": "Unmotivated Employee",
+   "en": "We're still setting up... Please come[n]another time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_CHK_School#0",
+   "speaker": "Ryuji",
+   "en": "Hey, we gotta catch up to Mishima.[n]He's gonna leave if we don't get a[n]move on!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_CHK_School_2#0",
+   "speaker": null,
+   "en": "I better hurry to the courtyard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E15010100_CHK_School_2#0",
+   "speaker": null,
+   "en": "I must get to Ryuji for now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E65110100_CHK_School_2#0",
+   "speaker": null,
+   "en": "I better hurry on my way...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_SchoolSto#0",
+   "speaker": null,
+   "en": "This is no time for detours...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12010100_CHK_AUTO_M#0",
+   "speaker": null,
+   "en": "I'll come back here and buy[n]something when I have the time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13710100_CHK_AUTO_M#0",
+   "speaker": "Ryuji",
+   "en": "Hey, can't you do that later?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13710100_CHK_AUTO_M#1",
+   "speaker": "Ryuji",
+   "en": "The ball game's gonna end, so we can't[n]take too much time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_AUTO_M#0",
+   "speaker": null,
+   "en": "I'll come back here and buy[n]something when I have the time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_CHK_AUTO_M#0",
+   "speaker": "Ryuji",
+   "en": "Hey, what're you doin'!? We gotta hurry[n]and catch up to Mishima!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_CHK_AUTO_M#0",
+   "speaker": null,
+   "en": "I better hurry to the courtyard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E15010100_CHK_AUTO_M#0",
+   "speaker": null,
+   "en": "I must get to Ryuji for now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E65110200_CHK_AUTO_M#0",
+   "speaker": null,
+   "en": "I better hurry on my way...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_AUTO_MACH#0",
+   "speaker": null,
+   "en": "I'll come back here and buy[n]something when I have the time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12010100_CHK_TROPHY#0",
+   "speaker": null,
+   "en": "This place proudly displays[n]the school's trophies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12010100_CHK_TROPHY#1",
+   "speaker": null,
+   "en": "It seems all these trophies[n]belong to the volleyball team...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_TROPHY#0",
+   "speaker": null,
+   "en": "All the trophies in here belong[n]to the volleyball team...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_TROPHY#0",
+   "speaker": null,
+   "en": "All the trophies in here belong[n]to the volleyball team...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13710100_CHK_TROPHY#0",
+   "speaker": "Ryuji",
+   "en": "The volleyball team won all these[n]trophies, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13710100_CHK_TROPHY#1",
+   "speaker": "Ryuji",
+   "en": "Shit... I'm definitely gonna show[n]everyone the truth about them[n]gettin' abused!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_TROPHY#0",
+   "speaker": null,
+   "en": "All the trophies in here belong[n]to the volleyball team...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_CHK_TROPHY#0",
+   "speaker": "Ryuji",
+   "en": "Hey, what're you doin'!? We gotta hurry[n]and catch up to Mishima!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_TROPHY#0",
+   "speaker": null,
+   "en": "All the trophies in here belong[n]to the volleyball team...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_CHK_TROPHY#0",
+   "speaker": null,
+   "en": "I better hurry to the courtyard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E15010100_CHK_TROPHY#0",
+   "speaker": null,
+   "en": "I must get to Ryuji for now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E23810100_CHK_TROPHY#0",
+   "speaker": "Morgana",
+   "en": "Is something wrong with the volleyball[n]trophies? Aren't you going to the student[n]council room on the [clr 2]third floor[clr 27]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_TROPHY_00#0",
+   "speaker": null,
+   "en": "All the trophies in here belong[n]to the volleyball team...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12010100_CHK_PHOTO_#0",
+   "speaker": null,
+   "en": "This picture was taken back when[n]the school was first established...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_PHOTO_#0",
+   "speaker": null,
+   "en": "This picture was taken back when[n]the school was first established...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_PHOTO_#0",
+   "speaker": null,
+   "en": "This picture was taken back when[n]the school was first established...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13710100_CHK_PHOTO_#0",
+   "speaker": "Ryuji",
+   "en": "That's a picture of this school? Everyone[n]in it looks like they're havin' fun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13710100_CHK_PHOTO_#1",
+   "speaker": "Ryuji",
+   "en": "So this is the way things usedta be, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_PHOTO_#0",
+   "speaker": null,
+   "en": "This picture was taken back when[n]the school was first established...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_CHK_PHOTO_#0",
+   "speaker": "Ryuji",
+   "en": "Hey, what're you doin'!? We gotta hurry[n]and catch up to Mishima!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_PHOTO_#0",
+   "speaker": null,
+   "en": "This picture was taken back when[n]the school was first established...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_CHK_PHOTO_#0",
+   "speaker": null,
+   "en": "I better hurry to the courtyard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E15010100_CHK_PHOTO_#0",
+   "speaker": null,
+   "en": "I must get to Ryuji for now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E23810100_CHK_PHOTO_#0",
+   "speaker": "Morgana",
+   "en": "Why are you looking at the pictures?[n]You've been called to the student[n]council room on the [clr 2]third floor[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_PHOTO_000#0",
+   "speaker": null,
+   "en": "This picture was taken back when[n]the school was first established...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12010100_CHK_BOARD_#0",
+   "speaker": null,
+   "en": "The school slogan is written here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12010100_CHK_BOARD_#1",
+   "speaker": null,
+   "en": "\"True freedom lies within[n]the constructs of society.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_BOARD_#0",
+   "speaker": null,
+   "en": "The school slogan is written here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_BOARD_#1",
+   "speaker": null,
+   "en": "\"True freedom lies within[n]the constructs of society.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_BOARD_#0",
+   "speaker": null,
+   "en": "The school slogan is written here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_BOARD_#1",
+   "speaker": null,
+   "en": "\"True freedom lies within[n]the constructs of society.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13710100_CHK_BOARD_#0",
+   "speaker": "Ryuji",
+   "en": "Whaddya doin'? Let's hurry up and[n]get to your classroom!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_BOARD_#0",
+   "speaker": null,
+   "en": "The school slogan is written here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_BOARD_#1",
+   "speaker": null,
+   "en": "\"True freedom lies within[n]the constructs of society.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_CHK_BOARD_#0",
+   "speaker": "Ryuji",
+   "en": "Hey, what're you doin'!? We gotta hurry[n]and catch up to Mishima!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_BOARD_#0",
+   "speaker": null,
+   "en": "The school slogan is written here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_BOARD_#1",
+   "speaker": null,
+   "en": "\"True freedom lies within[n]the constructs of society.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_CHK_BOARD_#0",
+   "speaker": null,
+   "en": "I better hurry to the courtyard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E15010100_CHK_BOARD_#0",
+   "speaker": null,
+   "en": "I must get to Ryuji for now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E23810100_CHK_BOARD_#0",
+   "speaker": "Morgana",
+   "en": "Is something wrong? You're going to the[n]student council room on the [clr 2]third floor[clr 27],[n]right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E65110100_CHK_BOARD_#0",
+   "speaker": null,
+   "en": "The school slogan is written here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E65110100_CHK_BOARD_#1",
+   "speaker": null,
+   "en": "\"True freedom lies within[n]the constructs of society.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_BOARD_ENT#0",
+   "speaker": null,
+   "en": "The school slogan is written here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_BOARD_ENT#1",
+   "speaker": null,
+   "en": "\"True freedom lies within[n]the constructs of society.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12010100_CHK_TICKET#0",
+   "speaker": null,
+   "en": "The ticket machine for the[n]cafeteria is placed here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12010100_CHK_TICKET#1",
+   "speaker": null,
+   "en": "It looks like there's a variety[n]of dishes on the menu...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_TICKET#0",
+   "speaker": null,
+   "en": "The ticket machine for the[n]cafeteria is placed here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_TICKET#1",
+   "speaker": null,
+   "en": "It looks like there's a variety[n]of dishes on the menu...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_TICKET#0",
+   "speaker": null,
+   "en": "It's the ticket machine[n]for the cafeteria.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_TICKET#1",
+   "speaker": null,
+   "en": "There's a wide variety of dishes[n]on the menu, but there's nothing[n]I particularly want to eat...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13710100_CHK_TICKET#0",
+   "speaker": "Ryuji",
+   "en": "You hungry or somethin'? The cafeteria[n]ain't open right now, though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_TICKET#0",
+   "speaker": null,
+   "en": "It's the ticket machine[n]for the cafeteria.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_TICKET#1",
+   "speaker": null,
+   "en": "There's a wide variety of dishes[n]on the menu, but there's nothing[n]I particularly want to eat...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_CHK_TICKET#0",
+   "speaker": "Ryuji",
+   "en": "Hey, what're you doin'!? We gotta hurry[n]and catch up to Mishima!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_TICKET#0",
+   "speaker": null,
+   "en": "It's the ticket machine[n]for the cafeteria.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_TICKET#1",
+   "speaker": null,
+   "en": "There's a wide variety of dishes[n]on the menu, but there's nothing[n]I particularly want to eat...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_CHK_TICKET#0",
+   "speaker": null,
+   "en": "I better hurry to the courtyard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E15010100_CHK_TICKET#0",
+   "speaker": null,
+   "en": "I must get to Ryuji for now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E23810100_CHK_TICKET#0",
+   "speaker": null,
+   "en": "It's the ticket machine[n]for the cafeteria.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E23810100_CHK_TICKET#1",
+   "speaker": null,
+   "en": "There's a wide variety of dishes[n]on the menu, but there's nothing[n]I particularly want to eat...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E65110100_CHK_TICKET#0",
+   "speaker": null,
+   "en": "I better hurry on my way...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_TICKET_MA#0",
+   "speaker": null,
+   "en": "It's the ticket machine[n]for the cafeteria.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_TICKET_MA#1",
+   "speaker": null,
+   "en": "There's a wide variety of dishes[n]on the menu, but there's nothing[n]I particularly want to eat...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12010100_CHK_SHOKUD#0",
+   "speaker": null,
+   "en": "This looks like the cafeteria.[n]For now though, I better[n]head to the [clr 2]faculty office[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_SHOKUD#0",
+   "speaker": null,
+   "en": "There's no reason for me[n]to go to the cafeteria...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_SHOKUD#1",
+   "speaker": null,
+   "en": "Sakamoto said he'll be[n]waiting up on the [clr 2]rooftop[clr 27].[n]Let's try going there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_SHOKUD#0",
+   "speaker": null,
+   "en": "There's no reason for me[n]to go to the cafeteria...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13710100_CHK_SHOKUD#0",
+   "speaker": "Ryuji",
+   "en": "There's a ball game goin' on right now,[n]you know? No one's gonna be in the[n]cafeteria.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_SHOKUD#0",
+   "speaker": null,
+   "en": "There's no reason for me[n]to go to the cafeteria...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_CHK_SHOKUD#0",
+   "speaker": "Ryuji",
+   "en": "Hey, I said the main entrance![n]He's gonna leave if we don't hurry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_SHOKUD#0",
+   "speaker": null,
+   "en": "There's no reason for me[n]to go to the cafeteria...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_CHK_SHOKUD#0",
+   "speaker": null,
+   "en": "I better hurry to the courtyard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E15010100_CHK_SHOKUD#0",
+   "speaker": null,
+   "en": "I must get to Ryuji for now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E23810100_CHK_SHOKUD#0",
+   "speaker": "Morgana",
+   "en": "That's the cafeteria. Don't you need to[n]go to the student council room on the[n][clr 2]third floor[clr 27]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E65110100_CHK_SHOKUD#0",
+   "speaker": null,
+   "en": "I better hurry on my way...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_SHOKUDO_D#0",
+   "speaker": null,
+   "en": "There's no reason for me[n]to go to the cafeteria...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12010100_CHK_TOILET#0",
+   "speaker": null,
+   "en": "The walls in there are disgusting...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_TOILET#0",
+   "speaker": null,
+   "en": "The walls in there are disgusting...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_TOILET#0",
+   "speaker": null,
+   "en": "The walls in there are disgusting...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13710100_CHK_TOILET#0",
+   "speaker": "Ryuji",
+   "en": "Oh, I've been needin' to go this whole[n]time. We better go while we got the[n]chance!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13710100_CHK_TOILET_2#0",
+   "speaker": "Ryuji",
+   "en": "Phew...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13710100_CHK_TOILET_3#0",
+   "speaker": "Ryuji",
+   "en": "Aight, let's keep goin'! We'll start by[n]checkin' out your classroom.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13710100_CHK_TOILET_4#0",
+   "speaker": "Ryuji",
+   "en": "You need ta go again already? We just[n]went earlier.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_TOILET#0",
+   "speaker": null,
+   "en": "I don't need to go[n]to the restroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_CHK_TOILET#0",
+   "speaker": "Ryuji",
+   "en": "Hey, what're you doin'!? We gotta hurry[n]and catch up to Mishima!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_TOILET#0",
+   "speaker": null,
+   "en": "Let's head to the[n]courtyard for now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_CHK_TOILET#0",
+   "speaker": null,
+   "en": "I better hurry to the courtyard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E15010100_CHK_TOILET#0",
+   "speaker": null,
+   "en": "I must get to Ryuji for now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E23810100_CHK_TOILET#0",
+   "speaker": "Morgana",
+   "en": "Do it later. You're going to the student[n]council room on the [clr 2]third floor[clr 27], right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E65110100_CHK_TOILET#0",
+   "speaker": null,
+   "en": "I better hurry on my way...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_TOILET_ME#0",
+   "speaker": null,
+   "en": "I don't need to go to the restroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12010100_CHK_TOILET_2#0",
+   "speaker": null,
+   "en": "This seems to be the[n]ladies' restroom for the[n]upper-class students.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12010100_CHK_TOILET_2#1",
+   "speaker": null,
+   "en": "I can hear the voices[n]of girls gossiping inside...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_TOILET_2#0",
+   "speaker": null,
+   "en": "I don't have a good reason[n]to be in the ladies' restroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_TOILET_2#0",
+   "speaker": null,
+   "en": "I don't have a good reason[n]to be in the ladies' restroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13710100_CHK_TOILET_5#0",
+   "speaker": "Ryuji",
+   "en": "Whoa, man, we can't be goin' in there![n]Let's hurry and get to your classroom!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_TOILET_2#0",
+   "speaker": null,
+   "en": "I don't have a good reason[n]to be in the ladies' restroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_CHK_TOILET_2#0",
+   "speaker": "Ryuji",
+   "en": "Hey, what're you doin'!? We gotta hurry[n]and catch up to Mishima!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_TOILET_2#0",
+   "speaker": null,
+   "en": "I don't have a good reason[n]to be in the ladies' restroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_CHK_TOILET_2#0",
+   "speaker": null,
+   "en": "I better hurry to the courtyard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E15010100_CHK_TOILET_2#0",
+   "speaker": null,
+   "en": "I must get to Ryuji for now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E23810100_CHK_TOILET_2#0",
+   "speaker": "Morgana",
+   "en": "You don't need to go over there, do you?[n]Aren't you going to the student council[n]room on the [clr 2]third floor[clr 27]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E65110100_CHK_TOILET_2#0",
+   "speaker": null,
+   "en": "I better hurry on my way...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_TOILET_WO#0",
+   "speaker": null,
+   "en": "I don't have a good reason[n]to be in the ladies' restroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12010100_CHK_ATTENT#0",
+   "speaker": null,
+   "en": "There are flyers posted[n]here on this board.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12010100_CHK_ATTENT#1",
+   "speaker": null,
+   "en": "Most of them seem to be[n]related to the volleyball team...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_ATTENT#0",
+   "speaker": null,
+   "en": "There are flyers posted[n]here on this board.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_ATTENT#1",
+   "speaker": null,
+   "en": "Most of them seem to be[n]related to the volleyball team...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_ATTENT#0",
+   "speaker": null,
+   "en": "There are flyers posted[n]here on this board.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_ATTENT#1",
+   "speaker": null,
+   "en": "Most of them seem to be[n]related to the volleyball team...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13710100_CHK_ATTENT#0",
+   "speaker": "Ryuji",
+   "en": "What're you lookin' at? C'mon, let's[n]hurry up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_ATTENT#0",
+   "speaker": null,
+   "en": "There are flyers posted[n]here on this board.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_ATTENT#1",
+   "speaker": null,
+   "en": "Most of them seem to be[n]related to the volleyball team...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_CHK_ATTENT#0",
+   "speaker": "Ryuji",
+   "en": "Hey, what're you doin'!? We gotta hurry[n]and catch up to Mishima!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_ATTENT#0",
+   "speaker": null,
+   "en": "There are flyers posted[n]here on this board.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_ATTENT#1",
+   "speaker": null,
+   "en": "Most of them seem to be[n]related to the volleyball team...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_CHK_ATTENT#0",
+   "speaker": null,
+   "en": "I better hurry to the courtyard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E15010100_CHK_ATTENT#0",
+   "speaker": null,
+   "en": "I must get to Ryuji for now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E23810100_CHK_ATTENT#0",
+   "speaker": "Morgana",
+   "en": "Is something wrong? You're going to the[n]student council room on the [clr 2]third floor[clr 27],[n]right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E65110100_CHK_ATTENT#0",
+   "speaker": null,
+   "en": "There are flyers posted[n]here on this board.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E65110100_CHK_ATTENT#1",
+   "speaker": null,
+   "en": "I better hurry on my way...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_ATTENTION#0",
+   "speaker": null,
+   "en": "There are flyers posted[n]here on this board.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_ATTENTION#1",
+   "speaker": null,
+   "en": "Most of them seem to be[n]related to the volleyball team...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12010100_CHK_CLASS_#0",
+   "speaker": null,
+   "en": "The first floor seems to have all[n]the classrooms for the third-years...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_CLASS_#0",
+   "speaker": null,
+   "en": "There are third-year classrooms[n]lined up on the first floor...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_CLASS_#0",
+   "speaker": null,
+   "en": "It's a third-year classroom.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_CLASS_#1",
+   "speaker": null,
+   "en": "I'll attract too much attention[n]since I'm in a different year.[n]I better go somewhere else...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13710100_CHK_CLASS_#0",
+   "speaker": "Ryuji",
+   "en": "I'm not seein' anyone from the[n]volleyball team.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13710100_CHK_CLASS_#1",
+   "speaker": "Ryuji",
+   "en": "Let's start askin' the guys in your class!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_CLASS_#0",
+   "speaker": null,
+   "en": "I don't see any students[n]with any noticeable injuries...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_CHK_CLASS_#0",
+   "speaker": "Ryuji",
+   "en": "Hey, I said the main entrance![n]He's gonna leave if we don't hurry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_CLASS_#0",
+   "speaker": null,
+   "en": "It's a third-year classroom.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_CLASS_#1",
+   "speaker": null,
+   "en": "I'll attract too much attention[n]since I'm in a different year.[n]I better go somewhere else...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_CHK_CLASS_#0",
+   "speaker": null,
+   "en": "I better hurry to the courtyard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E15010100_CHK_CLASS_#0",
+   "speaker": null,
+   "en": "I must get to Ryuji for now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E23810100_CHK_CLASS_#0",
+   "speaker": "Morgana",
+   "en": "That's the third-year classroom. Let's[n]go to the student council room on[n]the [clr 2]third floor[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E65110100_CHK_CLASS_#0",
+   "speaker": null,
+   "en": "I better hurry on my way...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_CLASS_3_0#0",
+   "speaker": null,
+   "en": "It's a third-year classroom.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_CLASS_3_0#1",
+   "speaker": null,
+   "en": "There's nothing in particular[n]that I need to do here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ENTRANCE_NG_KAWAKAMI#0",
+   "speaker": null,
+   "en": "I need to go around campus[n]and find information that can[n]prove Kawakami's innocence...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E65110200_CHK_EMERGE#0",
+   "speaker": null,
+   "en": "Not this way...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_EMERGENCY#0",
+   "speaker": null,
+   "en": "There's nothing in particular[n]that I need to do here...",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

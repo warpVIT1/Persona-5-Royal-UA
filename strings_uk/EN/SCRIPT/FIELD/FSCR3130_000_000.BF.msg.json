@@ -1,0 +1,236 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR3130_000_000.BF",
+ "entries": [
+  {
+   "id": "DUMMY_MSG#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MND_MGK_BOOK_1ST#0",
+   "speaker": null,
+   "en": "This counter is old, but it's[n]been well maintained.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_MGK_BOOK_1ST#1",
+   "speaker": null,
+   "en": "The faint smell of coffee and[n]the perfect amount of lighting[n]create a calm atmosphere.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_MGK_BOOK_1ST#2",
+   "speaker": null,
+   "en": "This just might be the perfect[n]place to do some reading.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_MGK_BOOK_2ND#0",
+   "speaker": null,
+   "en": "This counter is looking[n]pretty nice, as usual.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHK_BOOK#0",
+   "speaker": "Morgana",
+   "en": "Did you want to spend some time reading?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CHK_BOOK#0",
+   "speaker": null,
+   "en": "Let's read.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CHK_BOOK#1",
+   "speaker": null,
+   "en": "Let's check what books I have.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CHK_BOOK#2",
+   "speaker": null,
+   "en": "No, not really.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHK_BOOK_ROOM_CLEANI#0",
+   "speaker": "Morgana",
+   "en": "...You know what I'm going to say, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHK_BOOK_ROOM_CLEANI#1",
+   "speaker": "Morgana",
+   "en": "I'm going to keep saying it until you[n]clean up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_NG_DNG#0",
+   "speaker": "Morgana",
+   "en": "Hey, aren't you're too tired tonight?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_NG_DNG#1",
+   "speaker": "Morgana",
+   "en": "You can enjoy yourself on a day when[n]you're not so tired.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_NG#0",
+   "speaker": "Morgana",
+   "en": "Hey, now is no time to be reading a book.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_NG#1",
+   "speaker": "Morgana",
+   "en": "You can go ahead and enjoy yourself[n]in the afternoon or at night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_NONE#0",
+   "speaker": "Morgana",
+   "en": "Looks like you've already finished[n]reading all the books you have.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_NONE#1",
+   "speaker": "Morgana",
+   "en": "Wasn't there a bookstore in Shibuya?[n]Why not go there and buy some more?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_DETAIL_START#0",
+   "speaker": "Morgana",
+   "en": "These are the books you have right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_DETAIL_01#0",
+   "speaker": "Morgana",
+   "en": "\"The Housewife's Cleaning Manual,\"[n]eh? You'll finish this guide on[n]cleaning after [var 0] more session(s).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_DETAIL_02#0",
+   "speaker": "Morgana",
+   "en": "\"Yesterday's Cooking,\" eh?[n]You'll finish this book of cooking[n]advice after [var 0] more session(s).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_DETAIL_03#0",
+   "speaker": "Morgana",
+   "en": "\"Muscle Mania,\" eh? You'll[n]finish this physical training[n]guide after [var 0] more session(s).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_DETAIL_04#0",
+   "speaker": "Morgana",
+   "en": "\"After School Workers,\" huh?[n]You'll finish this daytime job[n]guide after [var 0] more session(s).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_DETAIL_05#0",
+   "speaker": "Morgana",
+   "en": "\"Nighttime Workers,\" eh?[n]You'll finish this nighttime job[n]guide after [var 0] more session(s).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_DETAIL_06#0",
+   "speaker": "Morgana",
+   "en": "\"Lead the Pack! Speed Reading[n]Cram School!,\" eh? You'll finish[n]after [var 0] more session(s).",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_DETAIL_END#0",
+   "speaker": "Morgana",
+   "en": "That's all of them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_DETAIL_END#1",
+   "speaker": "Morgana",
+   "en": "So, what did you want to do? Are you[n]going to spend some time reading today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_CHK_BOOK_CHK_ryuji#0",
+   "speaker": null,
+   "en": "Ryuji was reading some manga.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_CHK_BOOK_CHK_ryuji#1",
+   "speaker": null,
+   "en": "I feel like I could deepen my[n][clr 1]Perception[clr 27] if we read together[n]and shared out opinions.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_CHK_BOOK_CHK_anne#0",
+   "speaker": null,
+   "en": "Ann was reading some manga.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_CHK_BOOK_CHK_anne#1",
+   "speaker": null,
+   "en": "I feel like I could deepen my[n][clr 1]Perception[clr 27] if we read together[n]and shared out opinions.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CHK_BOOK_PC#0",
+   "speaker": null,
+   "en": "Let's read together.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CHK_BOOK_PC#1",
+   "speaker": null,
+   "en": "I'll read by myself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CHK_BOOK_PC#2",
+   "speaker": null,
+   "en": "I'll do something else.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

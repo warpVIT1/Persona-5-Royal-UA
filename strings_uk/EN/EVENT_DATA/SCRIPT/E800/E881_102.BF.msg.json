@@ -1,0 +1,474 @@
+{
+ "file": "EN/EVENT_DATA/SCRIPT/E800/E881_102.BF",
+ "entries": [
+  {
+   "id": "MND_COOP_START_000_00#0",
+   "speaker": null,
+   "en": "Who could it be at this hour...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_NEXT_000_00#0",
+   "speaker": null,
+   "en": "Another phone call... Who is it this time?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_END_000_00#0",
+   "speaker": null,
+   "en": "...They hung up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_END_000_00#1",
+   "speaker": null,
+   "en": "They might be suspicious.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_END_000_00#2",
+   "speaker": null,
+   "en": "It might have been better[n]to accept their invitation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_END_000_00#3",
+   "speaker": null,
+   "en": "...I should call it a day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_MORGANA_000_00#0",
+   "speaker": "Morgana",
+   "en": "Why aren't you answering your phone?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_MAKOTO_000_00#0",
+   "speaker": "Makoto",
+   "en": "Why aren't you answering your phone?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_HARU_000_00#0",
+   "speaker": "Haru",
+   "en": "Why aren't you answering your phone?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_YUSUKE_000_00#0",
+   "speaker": "Yusuke",
+   "en": "Why aren't you answering your phone?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_SOJIRO_000_00#0",
+   "speaker": "Sojiro",
+   "en": "Why aren't you answering your phone?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_ANNE_000_00#0",
+   "speaker": "Ann",
+   "en": "Why aren't you answering your phone?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_RYUJI_000_00#0",
+   "speaker": "Ryuji",
+   "en": "Why aren't you answering your phone?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_AKECHI_000_00#0",
+   "speaker": "Akechi",
+   "en": "Why aren't you answering your phone?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_FUTABA_000_00#0",
+   "speaker": "Futaba",
+   "en": "Why aren't you answering your phone?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_URANAI_000_00#0",
+   "speaker": "Chihaya",
+   "en": "I read my fortune, and it said I should[n]call you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_URANAI_000_00#1",
+   "speaker": "Chihaya",
+   "en": "I just obeyed the cards... See you later!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_URANAI_000_01#0",
+   "speaker": "Chihaya",
+   "en": "Um, I just wanted to ask... Are you[n]so busy that you don't have time to[n]talk to me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_URANAI_000_01#1",
+   "speaker": "Chihaya",
+   "en": "Do you have a lot to do? Are there[n]secrets that you can't tell other peop-",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_URANAI_000_01#2",
+   "speaker": "Chihaya",
+   "en": "Never mind! Forget what I said![n]Goodbye!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_VELVET_A_000_00#0",
+   "speaker": "Justine",
+   "en": "Why aren't you answering your phone?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_VELVET_B_000_00#0",
+   "speaker": "Caroline",
+   "en": "Why aren't you answering your phone?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_IWAI_000_00#0",
+   "speaker": "Iwai",
+   "en": "Hey, it's me. Why did you back out?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_IWAI_000_00#1",
+   "speaker": "Iwai",
+   "en": "Scared? You wanted a custom order,[n]didn't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_IWAI_000_00#2",
+   "speaker": "Iwai",
+   "en": "...Then check your attitude at the door,[n]Mr. Gun Maniac.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_IWAI_000_01#0",
+   "speaker": "Iwai",
+   "en": "Hey, it's you. You didn't show up again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_IWAI_000_01#1",
+   "speaker": "Iwai",
+   "en": "You like guns, right? Or was that all a lie?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_IWAI_000_01#2",
+   "speaker": "Iwai",
+   "en": "...Don't disappoint me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_TAKEMI_000_00#0",
+   "speaker": "Takemi",
+   "en": "Hey, just checking, you need [n]medicine to help study for [n]your exams, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_TAKEMI_000_00#1",
+   "speaker": "Takemi",
+   "en": "You haven't been coming to my clinical[n]trials. Was it all talk?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_TAKEMI_000_00#2",
+   "speaker": "Takemi",
+   "en": "Don't waste my time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_TAKEMI_000_01#0",
+   "speaker": "Takemi",
+   "en": "Did you not want to attend these clinics[n]anymore?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_TAKEMI_000_01#1",
+   "speaker": "Takemi",
+   "en": "Were you lying when you said it was for[n]college exams?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_TAKEMI_000_01#2",
+   "speaker": "Takemi",
+   "en": "If you still want to do this, hurry up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_KAWAKAMI_000_00#0",
+   "speaker": "Kawakami",
+   "en": "Um... Well...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_KAWAKAMI_000_00#1",
+   "speaker": "Kawakami",
+   "en": "Don't you need to ditch class again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_KAWAKAMI_000_00#2",
+   "speaker": "Kawakami",
+   "en": "I'm tight on money. Please?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_KAWAKAMI_000_01#0",
+   "speaker": "Kawakami",
+   "en": "You haven't forgotten your promise[n]to ask for me from the maid service[n]if I let you skip class, have you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_KAWAKAMI_000_01#1",
+   "speaker": "Kawakami",
+   "en": "What are you doing when you ditch[n]class, anyway?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_KAWAKAMI_000_01#2",
+   "speaker": "Kawakami",
+   "en": "Suspicious...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_KAWAKAMI_000_01#3",
+   "speaker": "Kawakami",
+   "en": "Oh! I so apologize for calling you this[n]late. Good night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_OOYA_000_00#0",
+   "speaker": "Ohya",
+   "en": "...It's me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_OOYA_000_00#1",
+   "speaker": "Ohya",
+   "en": "What's wrong? You don't have any more[n]information for me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_OOYA_000_00#2",
+   "speaker": "Ohya",
+   "en": "...Or maybe you're not even a fan of[n]the Phantom Thieves?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_OOYA_000_00#3",
+   "speaker": "Ohya",
+   "en": "...If you've been telling the truth,[n]hurry and come see me already.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_OOYA_000_01#0",
+   "speaker": "Ohya",
+   "en": "...Hey, come on. What's with that[n]reaction?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_OOYA_000_01#1",
+   "speaker": "Ohya",
+   "en": "I'm having doubts that you're really[n]a Phantom Thieves fan...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_OOYA_000_01#2",
+   "speaker": "Ohya",
+   "en": "...*sigh* I don't care anymore. See you[n]around.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_ODA_000_00#0",
+   "speaker": "Shinya",
+   "en": "Hey, why aren't you coming by?[n]I wanted to talk about the Phantom[n]Thieves with you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_ODA_000_00#1",
+   "speaker": "Shinya",
+   "en": "Hey, could it be that you're lying about[n]knowing the Phantom Thieves?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_ODA_000_00#2",
+   "speaker": "Shinya",
+   "en": "...Whatever. See you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_ODA_000_01#0",
+   "speaker": "Shinya",
+   "en": "Hey, what's going on? You said you'd[n]tell me about the Phantom Thieves...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_ODA_000_01#1",
+   "speaker": "Shinya",
+   "en": "So you really were lying about [n]knowing the Phantom Thieves [n]after all!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_ODA_000_01#2",
+   "speaker": "Shinya",
+   "en": "I don't care anymore. I'm going to go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_HIFUMI_000_00#0",
+   "speaker": "Hifumi",
+   "en": "If I may be so rude, but I must say...[n]you'll never improve with these[n]half-hearted attempts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_HIFUMI_000_00#1",
+   "speaker": "Hifumi",
+   "en": "Be committed. That is, if you really[n]enjoy shogi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_HIFUMI_000_01#0",
+   "speaker": "Hifumi",
+   "en": "Maybe I was wrong about your passion[n]for shogi...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_HIFUMI_000_01#1",
+   "speaker": "Hifumi",
+   "en": "I'd be incredibly disappointed if your[n]desire to become my apprentice was[n]only a lie.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_MISHIMA_000_00#0",
+   "speaker": "Mishima",
+   "en": "Why aren't you answering your phone?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_YOSHIDA_000_00#0",
+   "speaker": "Yoshida",
+   "en": "Hey, this is Yoshida. What have you[n]been spending your time on lately?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_YOSHIDA_000_00#1",
+   "speaker": "Yoshida",
+   "en": "Making time for your studies is[n]important—but, did you lose[n]your passion for legislature?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_YOSHIDA_000_00#2",
+   "speaker": "Yoshida",
+   "en": "...And I had high hopes for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_YOSHIDA_000_01#0",
+   "speaker": "Yoshida",
+   "en": "Hello, it's Yoshida. Have you lost interest[n]in politics?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_YOSHIDA_000_01#1",
+   "speaker": "Yoshida",
+   "en": "Perhaps you were you lying about your[n]aspirations to become a politician.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_YOSHIDA_000_01#2",
+   "speaker": "Yoshida",
+   "en": "I'm very disappointed in you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_SAE_000_00#0",
+   "speaker": "Sae",
+   "en": "Why aren't you answering your phone?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_WORLD_000_00#0",
+   "speaker": "World",
+   "en": "Why aren't you answering your phone?",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

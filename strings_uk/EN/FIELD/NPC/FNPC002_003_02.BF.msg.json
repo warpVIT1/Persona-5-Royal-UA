@@ -1,0 +1,2161 @@
+{
+ "file": "EN/FIELD/NPC/FNPC002_003_02.BF",
+ "entries": [
+  {
+   "id": "YESNO_SEL#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KARIOKI_NPC_grt00#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "KARIOKI_NPC_talk00#0",
+   "speaker": null,
+   "en": "temp location for NPC",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BUKATSU_NPC01_0_0#0",
+   "speaker": "Timid Cultural Club Member",
+   "en": "Mr. Kamoshida is so reliable. He's[n]gonna expel that student with the[n]criminal record, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BUKATSU_NPC01_0_0#1",
+   "speaker": "Timid Cultural Club Member",
+   "en": "I wish he was the supervisor for my[n]club, too. His reputation would even[n]help when we go job hunting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BUKATSU_NPC01_1_0#0",
+   "speaker": "Reserved Cultural Club Member",
+   "en": "But maybe he's got too much power.[n]His student jumped off a building,[n]and the principal did nothing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BUKATSU_NPC01_2_0#0",
+   "speaker": "Timid Cultural Club Member",
+   "en": "Oh, you're right. Most teachers would[n]get punished for that. Maybe they're[n]keeping it under wraps...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_VALLEY_NPC02_0_0#0",
+   "speaker": "Loud-Voiced Female Student",
+   "en": "What happened with Suzui-senpai?[n]Something must be wrong if she[n]jumped off a building.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_VALLEY_NPC02_1_0#0",
+   "speaker": "Gossipy Female Student",
+   "en": "She was close to Takamaki-senpai.[n]Maybe they were fighting over Mr.[n]Kamoshida?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_VALLEY_NPC02_2_0#0",
+   "speaker": "Loud-Voiced Female Student",
+   "en": "Wow, that's crazy! I'm sure he didn't[n]like getting caught up in that kind of[n]drama, either.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_VALLEY_NPC02_3_0#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I also heard he got hassled by the[n]new transfer student. Even popular[n]teachers have it tough, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Is that the transfer student, the[n]one who assaulted a guy? I read[n]about it online...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I heard someone who got[n]charged with assault transferred[n]to our school as a second-year...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "My senpai told me that some[n]criminal transferred here as a[n]second-year.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_002_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "He really does have a criminal[n]record, doesn't he?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_002_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Mr. Kamoshida's got it rough.[n]I mean, he has to deal with[n]problem students like him...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_002_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "He looks like the kind of guy[n]who'd just stab you if you made[n]him mad.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_002_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I'm so glad I don't have to be[n]in the same class as him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_003_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Hey, look. That's him, isn't it?[n]The idiot that got on[n]Kamoshida's bad side.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_003_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I heard he's getting expelled[n]soon since he's already causing[n]trouble.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_003_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Making Kamoshida mad[n]was a dumb move.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_003_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I heard that delinquent[n]Sakamoto and the transfer[n]student will get expelled...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_004_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "\"Phantom Thieves of Hearts\"?[n]Who are they supposed to be?[n]Is this some kind of joke?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_004_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "What's this calling card[n]people keep talking about?[n]Did something happen?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_004_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_004_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "A phantom thief calling card?[n]What are they trying to do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_005_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "He probably thought he was[n]getting busted and that[n]confessing was his best bet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_005_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Do you really believe that[n]the Phantom Thieves exist?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_005_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_005_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "You think phantom thieves[n]did it? No way!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_006_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "You should stay away from him.[n]There's no telling what he might[n]do to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_006_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "That dude is definitely scary...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_006_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "What happened? I thought[n]he was getting expelled?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_006_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "The part about him being[n]violent and getting into fights[n]is true, isn't it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_007_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "What's going to happen to[n]our school? It's bad for us if[n]its reputation is ruined, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_007_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I'm glad I didn't join the[n]volleyball team...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_007_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_007_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Is this school going to be okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_204_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Is that Madarame guy really[n]that famous?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_204_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_204_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_204_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Oh yeah, he's got that[n]exhibition in Shibuya.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_205_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_205_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I hear more and more people[n]are getting victimized by bank[n]transfer scams...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_205_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_205_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_008_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Someone told me that[n]Madarame got one of[n]those calling cards...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_008_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "They were really talking about[n]phantom thieves on the news...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_008_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_008_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Hold on, does that mean that[n]phantom thieves really exist?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_009_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "There were students from Shujin[n]who became victims too, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_009_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "One of my friends was scammed.[n]That's really too close to home...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_009_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "It's too scary... I don't even[n]wanna go near Shibuya[n]anymore.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_009_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I heard that some of the kids that[n]got scammed go to our school...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_010_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "There was really a phantom[n]thief calling card?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_010_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I heard a calling card appeared[n]in Shibuya this time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_010_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_010_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Is someone going to publicly[n]apologize again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_011_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "It's a relief that they finally[n]stopped that scam ring.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_011_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "This might finally prove that[n]those phantom thieves are real!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_011_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I knew it! I knew the[n]Phantom Thieves were real!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_011_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "The Phantom Thieves caught[n]Kaneshiro too, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_012_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "A lot of people are supporting[n]the Phantom Thieves on the[n]internet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_012_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "The forums are all talking[n]about phantom thieves, too!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_012_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_012_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "There's been a lot of talk about[n]phantom thieves online!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_013_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I knew the Phantom Thieves[n]were heroes! I just knew it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_013_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "It was because of phantom[n]thieves that Mr. Kamoshida[n]had a change of heart, too!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_013_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_013_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "If they really are making bad[n]people rethink their ways, then[n]I'm glad they're here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_014_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Those phantom thieves will[n]definitely win against those[n]hackers, it's no contest!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_014_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "A showdown between[n]phantom thieves and hackers[n]sounds pretty exciting!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_014_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_014_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I'm sure the Phantom Thieves[n]will do something about the[n]hackers!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_015_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "What will those phantom[n]thieves do about Medjed's[n]ultimatum?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_015_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "How are the Phantom Thieves[n]going to fight back against[n]hackers?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_015_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_015_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Wow, they don't mince words.[n]What are the Phantom Thieves[n]gonna do after hearing that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_016_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Akechi must be feeling pretty[n]frustrated right about now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_016_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Even though there's so many[n]bad people in the world, they'll[n]take care of them all!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_016_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_016_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "The phantom thief boom[n]is here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_150_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I heard the school was in[n]on it and tried to hide it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_150_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I wish the principal[n]would actually explain[n]what's going on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_150_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "There's no way the teachers[n]didn't know about this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_017_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "First, we had an attempted[n]suicide, and now an actual[n]suicide!? What is going on!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_017_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "The principal committed[n]suicide? What is going on!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_017_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_017_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "This school is so effed.[n]I mean, our own principal[n]went and committed suicide.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_018_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I hope the Phantom Thieves[n]keep reforming society!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_018_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "The Phantom Thieves[n]are so amazing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_018_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_018_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Who do you think the Phantom[n]Thieves are going to target next?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_019_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I heard President Okumura's[n]daughter is one of our senpai.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_019_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Did you know that the[n]president of Okumura Foods[n]has a daughter?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_019_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_019_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "If she's President Okumura's[n]daughter, she must be pretty[n]ruthless and cold-hearted.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_020_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Just leave it to the Phantom[n]Thieves! They'll bring all[n]evil in this world to justice!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_020_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Everything's going to be okay![n]Those phantom thieves will take[n]out all the bad guys for us!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_020_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_020_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Keep punishing evil out there,[n]Phantom Thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_021_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "A calling card showed up![n]I'm so pumped!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_021_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Crooked adults like that[n]deserve to be taken down[n]by the Phantom Thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_021_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "It's another calling card![n]I knew it would be for[n]President Okumura!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_021_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I knew they'd target[n]President Okumura!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_022_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "What happened during[n]President Okumura's press[n]conference was just gruesome...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_022_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Did you see that apology[n]conference? He didn't deserve[n]all that to happen to him...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_022_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_022_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I can't believe that happened[n]during a press conference...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_023_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "He might have been corrupt,[n]but they didn't have to kill him!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_023_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "The Phantom Thieves are[n]murderers! They deceived[n]us this whole time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_023_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_023_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "They must be crazy if they[n]got carried away and killed[n]someone like that!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_024_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Didn't people start talking about[n]phantom thieves when that[n]Kamoshida thing happened?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_024_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I wonder if that rumor is true,[n]about the Phantom Thieves being[n]somehow related to Shujin...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_024_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_024_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I heard they were talking about[n]criminal profiling to catch the[n]Phantom Thieves...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_025_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I heard the reward for the[n]Phantom Thieves is the highest[n]ever offered for a criminal!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_025_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Why is Akechi-kun defending[n]the Phantom Thieves?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_025_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_025_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "It looks like those psychotic[n]breakdowns are on the rise...[n]It's kind of scary.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_026_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "It has to have been those[n]phantom thieves who caused all[n]those psychotic breakdowns...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_026_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "When will they catch those[n]phantom thieves!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_026_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_026_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "So those psychotic breakdowns[n]happened because of phantom[n]thieves, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_027_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I never would have thought[n]that Shido-san would have[n]done all that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_027_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "What are we going[n]to do without[n]Representative Shido...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_027_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_027_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_028_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Even if I don't study, I'm sure my[n]parents will take care of me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_028_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "It's over...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_028_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_028_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I've still got a lot of work to[n]do for my future!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_101_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I heard we have a second-year[n]senpai who's a criminal...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_101_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "If the rumors online are true,[n]I don't feel safe going to the[n]same school as him...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_101_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_101_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I hear this guy drinks and[n]smokes, it's like he just doesn't[n]care...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_102_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I heard that transfer student is[n]real hot-headed, and gets into[n]fights all the time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_102_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "People say he's a short fuse.[n]It doesn't take much before[n]he blows up. Let's be careful...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_102_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_102_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Make sure you stay away from[n]that guy. You never know when[n]he might knife you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_103_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Ugh, the police are here...[n]It can't get worse than this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_103_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I feel so nervous with the police[n]roaming all over the school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_103_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_103_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Seems like the teachers are[n]really busy dealing with the[n]police, too...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_104_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "As long as I don't fail, I should[n]be fine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_104_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I wonder if I'll do okay on my[n]midterms... I'm starting to worry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_104_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_104_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "There's barely any time left[n]until midterms!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_105_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "It's already time for finals...[n]I'm really not feeling it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_105_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I need to give it my all for finals!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_105_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_105_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Finals are coming up...[n]I better start hitting the books.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_201_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_201_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Oh yeah, he was popular for a[n]while. What did they call him?[n]The Detective Prince?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_201_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_201_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_202_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_202_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Phantom thieves are all right,[n]as long as they only go after[n]evil people.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_202_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_202_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_301_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "That transfer student is in the[n]top ten!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_301_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "He's good at studying, even[n]though he's a delinquent?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_301_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "It's kind of frustrating that his[n]test scores are so much better[n]than mine...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_301_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Wow, he's actually smart...[n]I didn't expect that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_302_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "HE got the top score!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_302_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "He's not just good at[n]studying—he's at the[n]top of our class...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_302_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Why did he do all that stuff,[n]even though he's smart?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_302_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I can't believe he got the[n]top score...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_303_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "He's still here... And his name[n]is up there in the top scores.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_303_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "His grades are good enough[n]that he could shoot for the top[n]if he wanted... I'm surprised.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_303_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I guess having a criminal record[n]doesn't have anything to do[n]with your grades.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_303_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Maybe he's really smart, but it's[n]a waste on someone like him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_304_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I heard the guy with the top[n]score is a real bad apple.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_304_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "That kid everyone was talking[n]about got the top score.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_304_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I can't believe it![n]How did he get the top score!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_304_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I can't beat him when[n]it comes to grades...[n]How did this happen?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_305_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "A tough, bad dude with brains...[n]You know, I can respect that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_305_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Who do you think is smarter?[n]Him or Akechi-kun?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_305_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I thought he was only gonna try[n]to make trouble, but now he's in[n]the top ten?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_305_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I still refuse to believe that he's[n]getting such good grades.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_306_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "He may be getting the highest[n]grades in class, but there's still[n]those weird rumors about him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_306_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "It's amazing that he got the top[n]score. I can respect that, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_306_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "That's him. Hmph, that guy[n]got the top grades in our class,[n]somehow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_306_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "What I wanna see is a battle[n]of wits between him and[n]Akechi-kun!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Our club president has such[n]amazing judgment. He's so cool.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "My senpai is so nice to me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "If we're going out, let's keep[n]it to an hour. I want to study...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Play an instrument!? No way![n]All I can play is basketball.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_05_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Senpai got hurt... right?[n]Didn't it heal weirdly fast?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_06_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "He's doing self-training today too?[n]What happened to him?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_031_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "How old's your grandpa?[n]He hasn't changed from[n]before, I bet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_031_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I have one of those too. It[n]showed up in class and all...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_031_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Oh, I'll head to Shibuya too![n]I've been meaning to buy[n]some new cleats...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_031_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I'm not exactly shooting to[n]be a pro athlete.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_031_05_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Wasn't Senpai planning to[n]move on to college?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_503_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Is it true he'll listen to[n]anything you say?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_503_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Maybe I can consult with[n]him on my other problems,[n]not just about Kamoshida...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_503_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "The school must be[n]desperate too...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_503_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "A counselor, huh...[n]He seems trustworthy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_601_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Is it true there's a[n]gymnastics athlete[n]among the first-years?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_601_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "She's in the running to[n]become a medalist, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_601_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "The one with the ribbon[n]in her hair, you mean?[n]She does look pretty cute.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_601_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "The teachers are expecting[n]a lot out of her.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_505_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Do those two know[n]each other?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_505_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "A prodigy, and an honor[n]student. What a showoff...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_505_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Does she like bad boys[n]or something? I wanna[n]be like that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_505_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Yoshizawa-san's making[n]friends with a dangerous[n]crowd... What's her deal?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_501_01_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Hey, have you seen that[n]amazing first-year yet?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_501_02_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Does that first-year have[n]some serious athletic[n]talent or what...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_501_03_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Whenever that gymnastics[n]girl walks down the hall,[n]I always end up staring...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_501_04_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Should I just forget about[n]sports? I'll never be as good[n]as her.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_501_05_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I thought athletes couldn't[n]eat stuff like pork...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_501_06_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I dunno what she was[n]doing here, but she had[n]some crazy moves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_501_07_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Did she go training after[n]the cleanup? That sounds[n]so tiresome...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_501_08_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "With that special treatment,[n]it doesn't even matter if she[n]scores badly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_501_09_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "Hey, at least she's taking[n]the tests.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_501_10_#0",
+   "speaker": "Gossipy Female Student",
+   "en": "I wonder if Yoshizawa-san's[n]parents are really strict...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest39_target_00_00#0",
+   "speaker": "Older Female Teacher",
+   "en": "Ah, Miss Mizuki? Have you finished[n]the paperwork that I asked you to do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest39_target_00_01#0",
+   "speaker": "Younger Female Teacher",
+   "en": "What? At the meeting last week, I[n]thought you said you were going to[n]do it so I wouldn't have to...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest39_target_00_02#0",
+   "speaker": "Older Female Teacher",
+   "en": "I just said that to be polite. That kind of[n]grunt work needs to be done by young[n]people like you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest39_target_00_02#1",
+   "speaker": "Older Female Teacher",
+   "en": "You should have understood that by now.[n]Handling that paperwork is part of what's[n]expected of you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest39_target_00_02#2",
+   "speaker": "Older Female Teacher",
+   "en": "*sigh* It doesn't matter.[n]Just finish it by tomorrow, please.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest39_target_00_03#0",
+   "speaker": "Younger Female Teacher",
+   "en": "Okay... Fine, Ms. Sayuri.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest39_target_00_04#0",
+   "speaker": "Older Female Teacher",
+   "en": "That's \"Ms. Yoshioka.\" It feels wrong to[n]hear someone as immature as you call[n]me by my first name.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest39_target_00_05#0",
+   "speaker": "Younger Female Teacher",
+   "en": "Yes, Ms. Yoshioka... Sorry about that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_quest39_morgana_01#0",
+   "speaker": "Morgana",
+   "en": "So this is that rumored teacher...[n]Let's discuss this at the hideout!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest39_target_01_00#0",
+   "speaker": "Sayuri Yoshioka",
+   "en": "A calling card...? This is the same prank[n]someone played on Mr. Kamoshida.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest39_target_01_00#1",
+   "speaker": "Sayuri Yoshioka",
+   "en": "Well, I'm nothing like Mr. Kamoshida.[n]I don't have anything to hide.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest39_target_01_00#2",
+   "speaker": "Sayuri Yoshioka",
+   "en": "Come on, hurry up and get that paperwork[n]out of storage! We don't have much time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest39_target_01_01#0",
+   "speaker": "Younger Female Teacher",
+   "en": "Yes... Sorry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest39_target_sinjyo_01#0",
+   "speaker": null,
+   "en": "It seems that the calling card arrived[n]safely. Let's dive into Mementos...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest39_target_02_00#0",
+   "speaker": "Younger Female Teacher",
+   "en": "Ms. Yoshioka... I finished making the[n]information packet for the next round-[n]table conference.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest39_target_02_01#0",
+   "speaker": "Sayuri Yoshioka",
+   "en": "Ah... Thank you. You know, I feel like[n]you've been doing a lot of work lately.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest39_target_02_01#1",
+   "speaker": "Sayuri Yoshioka",
+   "en": "We should switch off from now on. I'm[n]really sorry I've been making you handle[n]that all on your own.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest39_target_02_01#2",
+   "speaker": "Sayuri Yoshioka",
+   "en": "I think the thing you need most right now[n]is time with your students. Back when I[n]was young...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest39_target_02_02#0",
+   "speaker": "Younger Female Teacher",
+   "en": "Okay... Thank you. But why did you[n]want to switch off all of a sudden?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest39_target_02_03#0",
+   "speaker": "Sayuri Yoshioka",
+   "en": "I guess I've just had a change of heart.[n]I feel like I can teach with a fresh outlook[n]now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest39_target_02_03#1",
+   "speaker": "Sayuri Yoshioka",
+   "en": "Oh, and let me apologize for how I've[n]been. I was wrong— you're not immature.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest39_target_02_03#2",
+   "speaker": "Sayuri Yoshioka",
+   "en": "Please, call me \"Sayuri.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest39_target_02_04#0",
+   "speaker": "Younger Female Teacher",
+   "en": "Of course! Let's help each other out,[n]Ms. Sayuri!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest39_target_sinjyo_02#0",
+   "speaker": null,
+   "en": "It seems the target safely had a change[n]of heart...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_000_00#0",
+   "speaker": "Apathetic Student",
+   "en": "Are you that transfer student everyone's[n]talking about?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_000_00#1",
+   "speaker": "Apathetic Student",
+   "en": "I've heard a lot about you. You're pretty[n]famous, thanks to those rumors. Not in[n]a good way though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_000_00#2",
+   "speaker": "Apathetic Student",
+   "en": "But rumors are just that. I only trust what[n]I've seen with my own eyes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_000_00#3",
+   "speaker": "Apathetic Student",
+   "en": "I'll be looking forward to seeing how you[n]do at this school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_010_00#0",
+   "speaker": "Apathetic Student",
+   "en": "Did you hear about Kamoshida?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_010_00#1",
+   "speaker": "Apathetic Student",
+   "en": "The guy certainly committed crimes,[n]but was he rotten to the core?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_010_00#2",
+   "speaker": "Apathetic Student",
+   "en": "He definitely wasn't a good person,[n]but maybe it was his surroundings[n]that turned him into a criminal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_010_00#3",
+   "speaker": "Apathetic Student",
+   "en": "I can't help but think like that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_020_00#0",
+   "speaker": "Apathetic Student",
+   "en": "Did you see the great Madarame's[n]confession? Even the Japanese art[n]world has a lot going on in it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_020_00#1",
+   "speaker": "Apathetic Student",
+   "en": "Even the most beautiful world has a[n]backside steeped in darkness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_020_00#2",
+   "speaker": "Apathetic Student",
+   "en": "It's sad, but that seems to be the reality.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_020_00#3",
+   "speaker": "Apathetic Student",
+   "en": "With that in mind, what are we even[n]supposed to strive for in life?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_030_00#0",
+   "speaker": "Apathetic Student",
+   "en": "Sounds like the mafia based in Shibuya[n]have been apprehended.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_030_00#1",
+   "speaker": "Apathetic Student",
+   "en": "Did you know that there were victims who[n]suffered from the mafia at this school too?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_030_00#2",
+   "speaker": "Apathetic Student",
+   "en": "In fact, I knew one of the students,[n]but didn't really care to help him out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_030_00#3",
+   "speaker": "Apathetic Student",
+   "en": "He's not a very likeable guy, you know?[n]I figured he got what was coming to him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_030_00#4",
+   "speaker": "Apathetic Student",
+   "en": "Is that too heartless of me? But,[n]everyone's like that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_040_00#0",
+   "speaker": "Apathetic Student",
+   "en": "Medjed versus the Phantom Thieves.[n]It was a pretty interesting showdown.[n]It was kind of good for you, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_040_00#1",
+   "speaker": "Apathetic Student",
+   "en": "All the gossipers in the school started[n]talking about Medjed instead of you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_040_00#2",
+   "speaker": "Apathetic Student",
+   "en": "A story's gotta be fresh when it comes to[n]baseless rumors like that. So basically,[n]you're old news, but that's a good thing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_040_00#3",
+   "speaker": "Apathetic Student",
+   "en": "I imagine your school life will be a bit[n]easier from here on out, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_050_00#0",
+   "speaker": "Apathetic Student",
+   "en": "So President Okumura passed away.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_050_00#1",
+   "speaker": "Apathetic Student",
+   "en": "The Phantom Thieves are being named[n]as responsible, but I don't think they're[n]the vengeful type at heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_050_00#2",
+   "speaker": "Apathetic Student",
+   "en": "I think those guys might've been[n]wronged by society, too. That's why[n]they try to help the weak...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_050_00#3",
+   "speaker": "Apathetic Student",
+   "en": "Well, this is all just my speculation.[n]It'd be nice if it were true though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_060_00#0",
+   "speaker": "Apathetic Student",
+   "en": "Those Phantom Thieves are[n]something else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_060_00#1",
+   "speaker": "Apathetic Student",
+   "en": "I thought that in this world, you were[n]either strong or weak, and that the weak[n]had to just accept how things are.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_060_00#2",
+   "speaker": "Apathetic Student",
+   "en": "But the Phantom Thieves have been[n]fighting for their own ideals, no matter[n]who stands in their way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_060_00#3",
+   "speaker": "Apathetic Student",
+   "en": "I think I'm going to try learning from[n]them and do what needs to be done.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_060_00#4",
+   "speaker": "Apathetic Student",
+   "en": "I don't think I can suppress my feelings[n]anymore.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_070_00#0",
+   "speaker": "Takuro",
+   "en": "Hey, it's you. Perfect timing. There's[n]something I wanted to ask you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_070_00#1",
+   "speaker": "Takuro",
+   "en": "I think I might have had a change of[n]heart because of the Phantom Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_070_00#2",
+   "speaker": "Takuro",
+   "en": "But I don't hate them for it. In fact,[n]I'm grateful to them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_070_00#3",
+   "speaker": "Takuro",
+   "en": "Powerful feelings can make someone[n]strong, but they can also lead them to[n]make mistakes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_070_00#4",
+   "speaker": "Takuro",
+   "en": "That only becomes more true if those[n]feelings become twisted. And that's[n]what happened to me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_070_00#5",
+   "speaker": "Takuro",
+   "en": "But there was nothing I could have[n]done about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_070_00#6",
+   "speaker": "Takuro",
+   "en": "That's why I feel somewhat relieved[n]right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_070_00#7",
+   "speaker": "Takuro",
+   "en": "I think I might have had you worried.[n]I apologize for that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_070_00#8",
+   "speaker": "Takuro",
+   "en": "The truth is, I'm thinking of quitting[n]school and moving out of my home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_070_00#9",
+   "speaker": "Takuro",
+   "en": "I've gotten the urge to seriously pursue[n]my dream of becoming a boxer again...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_070_00#10",
+   "speaker": "Takuro",
+   "en": "I haven't practiced in a while, and I know[n]it's going to be hard. I can't neglect[n]my daily life either.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_070_00#11",
+   "speaker": "Takuro",
+   "en": "But I've realized now that I have to do[n]the things that I really want to do.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_070_00#12",
+   "speaker": "Takuro",
+   "en": "So, this is goodbye.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_070_00#13",
+   "speaker": "Takuro",
+   "en": "If there's something you want to do in[n]your life, I hope you can do it too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIWAKA_000_080_00#0",
+   "speaker": "Takuro",
+   "en": "If there's something you want to do in[n]your life, I hope you can do it too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Q84_HINT_NPC_000_00#0",
+   "speaker": "Apathetic Student",
+   "en": "Have you heard of the Phantom[n]Aficionado Website?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Q84_HINT_NPC_000_00#1",
+   "speaker": "Apathetic Student",
+   "en": "It's a forum where you can post about[n]people whose hearts you want changed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Q84_HINT_NPC_000_00#2",
+   "speaker": "Apathetic Student",
+   "en": "There was a post there saying that one[n]of our students is picking fights with delinquents[n]at other schools.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Q84_HINT_NPC_000_00#3",
+   "speaker": "Apathetic Student",
+   "en": "That was actually about me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Q84_HINT_NPC_000_00#4",
+   "speaker": "Apathetic Student",
+   "en": "Oh, that's right, I never introduced myself.[n]I'm Takuro Ushiwaka. I'm a second-year,[n]same as you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Q84_HINT_NPC_010_00#0",
+   "speaker": "Takuro",
+   "en": "It's true that I beat up delinquents. But it's[n]because they already hurt someone else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Q84_HINT_NPC_010_00#1",
+   "speaker": "Takuro",
+   "en": "People who hurt others don't know[n]the feeling of the pain they're inflicting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Q84_HINT_NPC_010_00#2",
+   "speaker": "Takuro",
+   "en": "It's just like what my older brother used[n]to do to me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Q84_HINT_NPC_010_00#3",
+   "speaker": "Takuro",
+   "en": "That's why I consider it my duty to bring[n]justice upon them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Q84_HINT_NPC_010_00#4",
+   "speaker": "Takuro",
+   "en": "Don't worry though, I have no intention[n]of causing any harm to ordinary people.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Q84_HINT_NPC_020_00#0",
+   "speaker": "Takuro",
+   "en": "I consider it my duty to bring justice[n]upon them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Q84_HINT_NPC_020_00#1",
+   "speaker": "Takuro",
+   "en": "Don't worry though, I have no intention[n]of causing any harm to ordinary people.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHK_Q84_HINT_000_00#0",
+   "speaker": "Morgana",
+   "en": "Whoa, what...? This guy seems kind of[n]dangerous.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHK_Q84_HINT_000_00#1",
+   "speaker": "Morgana",
+   "en": "We should put a stop to him. This could[n]turn into a serious incident in the future.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHK_Q84_HINT_000_00#2",
+   "speaker": "Morgana",
+   "en": "Let's meet at the hideout and discuss[n]with the others.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

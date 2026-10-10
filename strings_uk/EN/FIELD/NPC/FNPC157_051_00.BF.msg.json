@@ -1,0 +1,971 @@
+{
+ "file": "EN/FIELD/NPC/FNPC157_051_00.BF",
+ "entries": [
+  {
+   "id": "TEST_MES#0",
+   "speaker": null,
+   "en": "Test",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_RYUJI_01_01#0",
+   "speaker": "Ryuji",
+   "en": "So she wants to do this \"fair and square,\"[n]huh? Works for me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_RYUJI_02_01#0",
+   "speaker": "Ryuji",
+   "en": "It'd be awesome if we could just get[n]a Shadow to drop a card for us... but[n]I guess things ain't gonna go that easy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_RYUJI_03_01#0",
+   "speaker": "Ryuji",
+   "en": "I think we're done with this floor.[n]Let's head upstairs.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_RYUJI_04_01#0",
+   "speaker": "Ryuji",
+   "en": "I guess I'm kinda interested in gamblin',[n]but my poker face is real pathetic...[n]I'd prolly just end up gettin' wiped out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_RYUJI_05_01#0",
+   "speaker": "Ryuji",
+   "en": "It's gonna take friggin' forever to get[n]50,000 coins. Let's speed up the[n]process with a little sleight of hand!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_RYUJI_06_01#0",
+   "speaker": "Ryuji",
+   "en": "We got a little held up back there, but[n]let's get to the upper floor ASAP!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_RYUJI_06_02#0",
+   "speaker": "Ryuji",
+   "en": "Nooo waaay, you got this many coins[n]on your own!? I can't believe it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_RYUJI_06_03#0",
+   "speaker": "Ryuji",
+   "en": "Joker... You got a little too caught up[n]in the shopping, didn't you? How're[n]we supposed to go up now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_RYUJI_06_04#0",
+   "speaker": "Ryuji",
+   "en": "Whew, you really had me goin' there[n]for a sec. Let's get back to the progress!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_RYUJI_07_01#0",
+   "speaker": "Ryuji",
+   "en": "A prosecutor does whatever it takes[n]to win, huh? Ain't no way that's right,[n]I don't care who says it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_RYUJI_08_01#0",
+   "speaker": "Ryuji",
+   "en": "Ugh, now we gotta get 100,000 coins?[n]We busted our asses gettin' HALF that!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_RYUJI_09_01#0",
+   "speaker": "Ryuji",
+   "en": "Owww... I think I banged my foot on[n]something in that pitch-black room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_RYUJI_10_01#0",
+   "speaker": "Ryuji",
+   "en": "Welp, looks like we got what we needed![n]Serves 'em right for cheatin' us so much.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_RYUJI_10_02#0",
+   "speaker": "Ryuji",
+   "en": "Damn, we ain't done gettin' coins now![n]Let's go back for another round.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_RYUJI_11_01#0",
+   "speaker": "Ryuji",
+   "en": "Nice work in here! The rest is just[n]business as usual for us Phantom[n]Thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MONA_01_01#0",
+   "speaker": "Morgana",
+   "en": "She must be awfully confident if she's[n]fine with flat-out telling us where her[n]Treasure is...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MONA_02_01#0",
+   "speaker": "Morgana",
+   "en": "Since we're in a casino right now, that[n]means they have to be keeping some[n]pretty good stuff in the back room!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MONA_03_01#0",
+   "speaker": "Morgana",
+   "en": "That member's card was a cinch for you![n]I knew you were something special!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MONA_04_01#0",
+   "speaker": "Morgana",
+   "en": "We're not getting anywhere until[n]we get our hands on one of those[n]cards... Let's work on that first.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MONA_05_01#0",
+   "speaker": "Morgana",
+   "en": "Gambling's not really our thing...[n]Let's just get those coins so we can[n]get back to the phantom thievery.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MONA_06_01#0",
+   "speaker": "Morgana",
+   "en": "Y'know, when we struck it big on that[n]slot machine, I think I finally understood[n]what gambling's all about!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MONA_06_02#0",
+   "speaker": "Morgana",
+   "en": "Look at all those coins! Nice, Joker—[n]you really are special!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MONA_06_03#0",
+   "speaker": "Morgana",
+   "en": "Rein in the spending, Joker! We[n]would've had a member's card by now[n]if you could control yourself!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MONA_06_04#0",
+   "speaker": "Morgana",
+   "en": "Geez, you gave me a heart attack back[n]there... Good thing you've got that[n]special something.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MONA_07_01#0",
+   "speaker": "Morgana",
+   "en": "That was my first time in a courthouse.[n]I've gotta say, I have no idea how a stuffy[n]place like that could be seen as a casino.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MONA_08_01#0",
+   "speaker": "Morgana",
+   "en": "A scale-shaped bridge... That's going[n]to be a real hassle. Looks like the[n]tough times aren't through yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MONA_09_01#0",
+   "speaker": "Morgana",
+   "en": "Heh, some underhanded move like[n]hers isn't going to stop us!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MONA_10_01#0",
+   "speaker": "Morgana",
+   "en": "Finally, we can cross the bridge.[n]Let's go, Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MONA_10_02#0",
+   "speaker": "Morgana",
+   "en": "We were just one step away...[n]Why did you use the coins on[n]something else?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MONA_11_01#0",
+   "speaker": "Morgana",
+   "en": "Be careful, Joker—this is where things[n]get real serious.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_ANN_01_01#0",
+   "speaker": "Ann",
+   "en": "Now that I think about it, this is actually[n]a courthouse in our world, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_ANN_01_01#1",
+   "speaker": "Ann",
+   "en": "The Phantom Thieves, sneaking into[n]a courthouse... Hoo boy, now I'm a little[n]nervous!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_ANN_02_01#0",
+   "speaker": "Ann",
+   "en": "Looks like we have to become members[n]first. Let's get our hands on a member's[n]card.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_ANN_03_01#0",
+   "speaker": "Ann",
+   "en": "We've got a card and a map now.[n]Things are looking up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_ANN_04_01#0",
+   "speaker": "Ann",
+   "en": "So, she forced us to get a card so we'd[n]have no choice but to gamble...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_ANN_05_01#0",
+   "speaker": "Ann",
+   "en": "I think I'm getting hooked on all the[n]gambling! Let's keep working towards[n]50,000!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_ANN_06_01#0",
+   "speaker": "Ann",
+   "en": "Ahhh, I'm so nervous! That fear of[n]losing it all... Gambling is too scary!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_ANN_06_02#0",
+   "speaker": "Ann",
+   "en": "You went for it and got us all the coins[n]we need... What a dependable leader.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_ANN_06_03#0",
+   "speaker": "Ann",
+   "en": "We had just what we needed... How are[n]we supposed to get the card now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_ANN_06_03#1",
+   "speaker": "Ann",
+   "en": "Well, knowing you, Joker, you'll probably[n]just make it all right back, but still...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_ANN_06_04#0",
+   "speaker": "Ann",
+   "en": "Joker, if you ever get married, um...[n]It may be a good idea to let your wife[n]take care of the money stuff for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_ANN_07_01#0",
+   "speaker": "Ann",
+   "en": "That was my first time at a trial...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_ANN_07_01#1",
+   "speaker": "Ann",
+   "en": "If we get busted, we'll be on the way[n]scarier side of the courtroom... This[n]change of heart better go well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_ANN_08_01#0",
+   "speaker": "Ann",
+   "en": "We can practically see the manager's[n]floor! If only we could clear the gap...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_ANN_09_01#0",
+   "speaker": "Ann",
+   "en": "Gah, my eyes are killing me. Please,[n]no more dark rooms...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_ANN_10_01#0",
+   "speaker": "Ann",
+   "en": "We can finally get to the manager's[n]floor now, right? Let's hurry and get[n]that Treasure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_ANN_10_02#0",
+   "speaker": "Ann",
+   "en": "Jokerrrr! Now we don't have enough[n]coins!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_ANN_11_01#0",
+   "speaker": "Ann",
+   "en": "Now all we have to do is send the[n]calling card. Let's do this right!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_YUUSUKE_01_01#0",
+   "speaker": "Yusuke",
+   "en": "A casino... If a Palace is the manifestation[n]of a person's desires, this seems to be[n]the most blatant reinterpretation yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_YUUSUKE_02_01#0",
+   "speaker": "Yusuke",
+   "en": "The back area of a casino... What might[n]we find while sneaking about?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_YUUSUKE_03_01#0",
+   "speaker": "Yusuke",
+   "en": "An air duct in the surveillance room...[n]What a classic approach to infiltration.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_YUUSUKE_04_01#0",
+   "speaker": "Yusuke",
+   "en": "So much gambling... If I win, I'll treat[n]myself to an extra-large beef bowl.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_YUUSUKE_05_01#0",
+   "speaker": "Yusuke",
+   "en": "To think she would attempt to cheat us.[n]I suppose this is what was meant by[n]winning at any cost...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_YUUSUKE_06_01#0",
+   "speaker": "Yusuke",
+   "en": "Excellent—we've hit our goal. I believe[n]we're done with this floor now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_YUUSUKE_06_02#0",
+   "speaker": "Yusuke",
+   "en": "Excellent—we've hit our goal. I believe[n]we're done with this floor now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_YUUSUKE_06_03#0",
+   "speaker": "Yusuke",
+   "en": "Ah— Joker! We had the requisite 50,000[n]coins. What are we supposed to do now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_YUUSUKE_06_04#0",
+   "speaker": "Yusuke",
+   "en": "It looks like you've recouped our losses.[n]It's about time to dispense with all the[n]unnecessary meandering.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_YUUSUKE_07_01#0",
+   "speaker": "Yusuke",
+   "en": "The tension one feels in a courtroom...[n]I can see how it is very similar to all the[n]tension in a casino.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_YUUSUKE_08_01#0",
+   "speaker": "Yusuke",
+   "en": "Hmm, so we must be successful in[n]the games in order to proceed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_YUUSUKE_09_01#0",
+   "speaker": "Yusuke",
+   "en": "This business can hardly be called[n]gambling—it's rather tragic, actually.[n]You can tell she doesn't want us to win.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_YUUSUKE_10_01#0",
+   "speaker": "Yusuke",
+   "en": "No matter what underhanded trick[n]she may employ, it won't work on us.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_YUUSUKE_10_02#0",
+   "speaker": "Yusuke",
+   "en": "Joker, we no longer have enough coins.[n]I doubt you planned for this to happen,[n]but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_YUUSUKE_11_01#0",
+   "speaker": "Yusuke",
+   "en": "Well, we've finally reached the end.[n]We shall soon prevail!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MAKOTO_01_01#0",
+   "speaker": "Makoto",
+   "en": "Well, at least Sis is seeing people as[n]actual humans here. That's somewhat[n]of a relief...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MAKOTO_02_01#0",
+   "speaker": "Makoto",
+   "en": "If we want to reach the next level,[n]we'll need to gain access to the[n]elevator somehow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MAKOTO_03_01#0",
+   "speaker": "Makoto",
+   "en": "Just you wait, Sis... We're coming.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MAKOTO_04_01#0",
+   "speaker": "Makoto",
+   "en": "So she's number one, huh? We really[n]need to open Sis's eyes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MAKOTO_05_01#0",
+   "speaker": "Makoto",
+   "en": "If we played fair here, we'd never get[n]all the coins we need.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MAKOTO_06_01#0",
+   "speaker": "Makoto",
+   "en": "Sis rigged both the dice and the slots.[n]The amount of effort she's putting into[n]us failing is almost inhuman...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MAKOTO_06_01#1",
+   "speaker": "Makoto",
+   "en": "We absolutely have to change her heart.[n]Let's head on up—Sis is waiting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MAKOTO_06_02#0",
+   "speaker": "Makoto",
+   "en": "You collected 50,000 coins, all without[n]cheating!? Only you would be able to[n]pull something like that off, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MAKOTO_06_03#0",
+   "speaker": "Makoto",
+   "en": "We don't have enough coins anymore...[n]I'm sure you'll be able to fix this, though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MAKOTO_06_04#0",
+   "speaker": "Makoto",
+   "en": "Okay, no more wasting time here—[n]we need to go after Sis.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MAKOTO_07_01#0",
+   "speaker": "Makoto",
+   "en": "I wonder what I should tell Sis about[n]us being at the courthouse when I get[n]back...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MAKOTO_08_01#0",
+   "speaker": "Makoto",
+   "en": "Fine then, we'll just keep on winning[n]until Sis feels like she has to face us!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MAKOTO_09_01#0",
+   "speaker": "Makoto",
+   "en": "She's not even trying to hide her[n]cheating anymore... At least it's[n]easier to spot now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MAKOTO_10_01#0",
+   "speaker": "Makoto",
+   "en": "Now we can get to the manager's floor...[n]No more looking down on us.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MAKOTO_10_02#0",
+   "speaker": "Makoto",
+   "en": "Joker, we don't have enough to meet[n]the 100,000 coin requirement now.[n]What are we going to do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_MAKOTO_11_01#0",
+   "speaker": "Makoto",
+   "en": "It's finally time to change Sis's heart![n]Let's get this done, Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HARU_01_01#0",
+   "speaker": "Haru",
+   "en": "This place is so vibrant... but it's still[n]a Palace. There's no doubt that we[n]need to be careful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HARU_01_01#1",
+   "speaker": "Haru",
+   "en": "Anything could happen here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HARU_02_01#0",
+   "speaker": "Haru",
+   "en": "I'd hoped we could make a beeline[n]for the Treasure, but it doesn't look[n]like we'll be so lucky.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HARU_03_01#0",
+   "speaker": "Haru",
+   "en": "Is there anything else we need to do on[n]this floor? If not, we should head up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HARU_04_01#0",
+   "speaker": "Haru",
+   "en": "Is being number one really so important?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HARU_05_01#0",
+   "speaker": "Haru",
+   "en": "Is being number one really so important?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HARU_06_01#0",
+   "speaker": "Haru",
+   "en": "I'm glad we're doing so well! ...I have a[n]feeling it's not over yet, though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HARU_06_02#0",
+   "speaker": "Haru",
+   "en": "You got all those without cheating!?[n]Do you have some sort of knack for[n]gambling, Joker?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HARU_06_03#0",
+   "speaker": "Haru",
+   "en": "We've fallen below 50,000 coins...[n]I assume you have some sort of plan?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HARU_06_04#0",
+   "speaker": "Haru",
+   "en": "We finally have the 50,000 coins we[n]need again—should we head on up?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HARU_07_01#0",
+   "speaker": "Haru",
+   "en": "We have to make sure Queen's sister[n]has a change of heart!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HARU_08_01#0",
+   "speaker": "Haru",
+   "en": "Now we need twice as many coins as[n]before... Do you think it's possible,[n]Joker?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HARU_09_01#0",
+   "speaker": "Haru",
+   "en": "Almost everything that attendant told us[n]was a lie! How rude.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HARU_10_01#0",
+   "speaker": "Haru",
+   "en": "They might still try to pull something[n]on us... We should be careful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HARU_10_02#0",
+   "speaker": "Haru",
+   "en": "We've fallen below 100,000 coins...[n]Um, are we going to be okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HARU_11_01#0",
+   "speaker": "Haru",
+   "en": "Let's make sure we're fully prepared...[n]for everyone's sakes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HUTABA_01_01#0",
+   "speaker": "Futaba",
+   "en": "No worries on the navigation front[n]here—all systems are go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HUTABA_02_01#0",
+   "speaker": "Futaba",
+   "en": "Leave the terminal work to me![n]I can't wait to get crackin'!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HUTABA_03_01#0",
+   "speaker": "Futaba",
+   "en": "I sure did a good job coming up with[n]a fake name for that card, didn't I?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HUTABA_04_01#0",
+   "speaker": "Futaba",
+   "en": "If only we could overwrite the card,[n]we'd be at the Treasure already. Hmph,[n]guess they're smarter than I thought...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HUTABA_05_01#0",
+   "speaker": "Futaba",
+   "en": "Just find me another terminal and[n]I'll take it from there. Two can play[n]the \"cheating at games\" game!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HUTABA_06_01#0",
+   "speaker": "Futaba",
+   "en": "I guess things turned out all right, but[n]I still wish I could've worked over that[n]giant slot machine more effectively...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HUTABA_06_02#0",
+   "speaker": "Futaba",
+   "en": "C'mon, Joker, when do I get to show[n]off my stuff? I'm gettin' bored!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HUTABA_06_03#0",
+   "speaker": "Futaba",
+   "en": "Waaaugh! Joker, what have you done!?[n]We were at 50,000 coins!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HUTABA_06_04#0",
+   "speaker": "Futaba",
+   "en": "You've got luck all right, Joker—but[n]do me a favor... don't scare me like[n]that again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HUTABA_07_01#0",
+   "speaker": "Futaba",
+   "en": "Casino security is surprisingly easy[n]to crack. I want a real challenge!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HUTABA_08_01#0",
+   "speaker": "Futaba",
+   "en": "Whatever game she throws at us next,[n]you better believe she's cheating at it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HUTABA_09_01#0",
+   "speaker": "Futaba",
+   "en": "She really has no intention of letting us[n]win here... I suppose we figured that[n]out on the lower floors already, though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HUTABA_10_01#0",
+   "speaker": "Futaba",
+   "en": "Sorry I couldn't do anything about the[n]cheating this time around—I'm glad[n]you're all right though!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HUTABA_10_02#0",
+   "speaker": "Futaba",
+   "en": "Jokerrrr! We're short on coins now![n]Y'know we can't cheat anymore,[n]right!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_HUTABA_11_01#0",
+   "speaker": "Futaba",
+   "en": "Don't worry, I've got my eye out for[n]you all! We've got this locked down!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_AKECHI_01_01#0",
+   "speaker": "Akechi",
+   "en": "Don't concern yourself with me—[n]just focus on infiltrating the Palace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_AKECHI_02_01#0",
+   "speaker": "Akechi",
+   "en": "If the public knew I was working[n]alongside the Phantom Thieves,[n]they'd be absolutely gobsmacked.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "AKECHI_SEL_02_01#0",
+   "speaker": null,
+   "en": "Will you stick with us?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "AKECHI_SEL_02_01#1",
+   "speaker": null,
+   "en": "They'd probably cry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_AKECHI_02_02#0",
+   "speaker": "Akechi",
+   "en": "After this mission? I think not. This is[n]the only time I'm going to be a part[n]of the Phantom Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_AKECHI_02_03#0",
+   "speaker": "Akechi",
+   "en": "Yes, I suppose my fans could very well[n]do that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_AKECHI_03_01#0",
+   "speaker": "Akechi",
+   "en": "Dear me... The Phantom Thieves[n]sure are tough on newcomers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_AKECHI_04_01#0",
+   "speaker": "Akechi",
+   "en": "Don't worry, I've deduced a way for us[n]to \"win.\" I'll share the details later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_AKECHI_05_01#0",
+   "speaker": "Akechi",
+   "en": "I bet you could even get 50,000 coins[n]without resorting to cheating.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_AKECHI_06_01#0",
+   "speaker": "Akechi",
+   "en": "Now that we have the requisite coins,[n]we have no further business here.[n]Let's go, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_AKECHI_06_02#0",
+   "speaker": "Akechi",
+   "en": "Now that we have the requisite coins,[n]we have no further business here.[n]Let's go, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_AKECHI_06_03#0",
+   "speaker": "Akechi",
+   "en": "Our collection's fallen below 50,000[n]coins. What do you plan to do about[n]that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_AKECHI_06_04#0",
+   "speaker": "Akechi",
+   "en": "I suspected you'd make it all back.[n]Now, let's make our way to Sae-san.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_AKECHI_07_01#0",
+   "speaker": "Akechi",
+   "en": "I wonder what Sae-san's cognitive[n]versions of us would look like.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_AKECHI_08_01#0",
+   "speaker": "Akechi",
+   "en": "We managed 50,000 coins before—[n]I'm sure we're more than capable[n]of netting double the amount.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_AKECHI_09_01#0",
+   "speaker": "Akechi",
+   "en": "So far, so good... I doubt Sae-san is[n]going to sit idly by at this rate, though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_AKECHI_10_01#0",
+   "speaker": "Akechi",
+   "en": "I knew you could pull off such a victory,[n]Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_AKECHI_10_02#0",
+   "speaker": "Akechi",
+   "en": "We no longer have the amount of coins[n]we need. I trust you have a contingency[n]plan for this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFETY_MES_AKECHI_11_01#0",
+   "speaker": "Akechi",
+   "en": "We must put an end to this. Let's go[n]change Sae-san's heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TEST_VELVET_GIRL_QUIET01#0",
+   "speaker": "Justine",
+   "en": "Sinner who is tied to the chains of fate...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TEST_VELVET_GIRL_QUIET01#1",
+   "speaker": "Justine",
+   "en": "You must not dawdle in the real world.[n]Return to your cell and find the strength[n]to resist.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TEST_VELVET_GIRL_QUIET02#0",
+   "speaker": "Justine",
+   "en": "Your must continue to resist in order[n]to change your fate...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TEST_VELVET_GIRL_LOUD01#0",
+   "speaker": "Caroline",
+   "en": "Heehee! Do you really have the time[n]to fool around?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TEST_VELVET_GIRL_LOUD01#1",
+   "speaker": "Caroline",
+   "en": "Get back in the pokey and challenge[n]your fate!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TEST_VELVET_GIRL_LOUD02#0",
+   "speaker": "Caroline",
+   "en": "Give it all you got! Your future depends[n]on it!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

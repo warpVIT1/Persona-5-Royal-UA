@@ -1,0 +1,54 @@
+{
+ "file": "EN/FIELD/DOOR/FDOOR151_005.BF",
+ "entries": [
+  {
+   "id": "NOT_OPEN_DOOR#0",
+   "speaker": null,
+   "en": "The door is tightly sealed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "LOCK_DOOR#0",
+   "speaker": null,
+   "en": "The door is locked.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "LOCK_CLEAR02#0",
+   "speaker": "Ryuji",
+   "en": "All right! Let's get movin'!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "EX_0009_mes01#0",
+   "speaker": "Ryuji",
+   "en": "Hey, it ain't openin'!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "EX_0009_mes02#0",
+   "speaker": "Morgana",
+   "en": "This shouldn't be the only exit![n]Let's look for another way out!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "LOCK_EX_DOOR#0",
+   "speaker": null,
+   "en": "The door is tightly sealed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "PREV_SEED_GET_EX_DOOR_me#0",
+   "speaker": "Morgana",
+   "en": "Hmm? Is that what I think it is? Joker,[n]could you take a closer look?",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

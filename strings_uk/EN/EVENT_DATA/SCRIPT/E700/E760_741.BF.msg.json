@@ -1,0 +1,775 @@
+{
+ "file": "EN/EVENT_DATA/SCRIPT/E700/E760_741.BF",
+ "entries": [
+  {
+   "id": "MSG_GAMESTART#0",
+   "speaker": "Morgana",
+   "en": "Let's start up Power Intuition.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAMESTART_NULL#0",
+   "speaker": null,
+   "en": "Time to start playing[n]Power Intuition...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_FI#0",
+   "speaker": "Morgana",
+   "en": "By the way, haven't you read[n]that secret technique book?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_FI#1",
+   "speaker": "Morgana",
+   "en": "The amount of time you have for[n]the input commands will increase,[n]making the game easier, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_NU#0",
+   "speaker": null,
+   "en": "Now that I think about it, I've[n]actually read a book on secret[n]video game techniques...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_NU#1",
+   "speaker": null,
+   "en": "Apparently it'll give me more time[n]for the input commands, making the[n]game a little easier to beat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_FI_2#0",
+   "speaker": "Morgana",
+   "en": "So, should we use the trick? You'll have[n]more time to enter the input commands.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_201_6_0#0",
+   "speaker": null,
+   "en": "Should I use the trick I[n]read about in that book?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_001_0_0#0",
+   "speaker": null,
+   "en": "Use the technique",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_001_0_0#1",
+   "speaker": null,
+   "en": "Play the game normally",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_NO#0",
+   "speaker": "Morgana",
+   "en": "Whoa, you're fired up! All right, go for it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_202_6_0#0",
+   "speaker": null,
+   "en": "I should try using my[n]own skills to beat it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_YE#0",
+   "speaker": "Morgana",
+   "en": "Makes sense, since you've learned[n]how to. All right, let's do this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_203_6_0#0",
+   "speaker": null,
+   "en": "This should make the[n]game a bit less difficult...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HLP_BOOK_NG_01#0",
+   "speaker": null,
+   "en": "Use [f 1 10 67] to match the arrows[n]onscreen within the time limit,[n]then press [f 1 10 75] to complete the command.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_0#0",
+   "speaker": "Morgana",
+   "en": "So, your first opponent is a kung fu[n]master... His attacks are apparently[n]pretty ruthless.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_0#1",
+   "speaker": "Morgana",
+   "en": "You're both running low on health...[n]You could probably win if you land[n]a special move!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_1_0#0",
+   "speaker": "Morgana",
+   "en": "Hey, the enemy's stunned! Go for[n]a special!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_205_6_0#0",
+   "speaker": null,
+   "en": "My first opponent uses kung fu.[n]We just keep trading punches...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_205_6_0#1",
+   "speaker": null,
+   "en": "We're both running out of health.[n]I think I can win if I manage to[n]land a special attack on him...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_205_6_1#0",
+   "speaker": null,
+   "en": "I stunned him...[n]This is my chance!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_011_0_0#0",
+   "speaker": "Morgana",
+   "en": "This is that kung fu guy again.[n]His attacks are tough as always...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_011_1_0#0",
+   "speaker": "Morgana",
+   "en": "Hey, the enemy's stunned! Go for[n]a special!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_205_7_0#0",
+   "speaker": null,
+   "en": "I'm going up against the same[n]kung fu user as before...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_205_7_1#0",
+   "speaker": null,
+   "en": "He's stunned...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_017_0_0#0",
+   "speaker": "Morgana",
+   "en": "All right, it's over! You won!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_208_6_0#0",
+   "speaker": null,
+   "en": "I beat him...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_0_0#0",
+   "speaker": "Morgana",
+   "en": "It was incredible watching you go[n]up against such a tough opponent!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_018_1_0#0",
+   "speaker": null,
+   "en": "I learned about the courage it[n]takes to face a strong opponent...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_023_0_0#0",
+   "speaker": "Morgana",
+   "en": "You're up against a real kung fu artist[n]this time. She's got quick movements...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_023_0_0#1",
+   "speaker": "Morgana",
+   "en": "She's definitely stronger than our first[n]opponent. You'll need to play aggressively.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_023_0_1#0",
+   "speaker": "Morgana",
+   "en": "All right, you got behind her! Now go[n]for the combo!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_023_1_0#0",
+   "speaker": null,
+   "en": "My opponent this time is another[n]kung fu artist... She's fast too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_023_1_0#1",
+   "speaker": null,
+   "en": "I'll need to play aggressively[n]against her...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_023_1_1#0",
+   "speaker": null,
+   "en": "I got behind her...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_024_0_0#0",
+   "speaker": "Morgana",
+   "en": "You have to fight that female kung fu[n]artist again. She's as quick as ever.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_024_0_0#1",
+   "speaker": "Morgana",
+   "en": "You'll need to pull off a big combo to[n]beat her. Just don't miss your chance[n]when it comes!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_024_0_1#0",
+   "speaker": "Morgana",
+   "en": "All right, you got behind her! Now go[n]for the combo!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_024_1_0#0",
+   "speaker": null,
+   "en": "I have to go up against that[n]female kung fu artist again...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_024_1_0#1",
+   "speaker": null,
+   "en": "I'll need to play aggressively[n]against her...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_024_1_1#0",
+   "speaker": null,
+   "en": "I got behind her...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_023_0_2#0",
+   "speaker": "Morgana",
+   "en": "All right, now go for a follow-up attack!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_023_1_2#0",
+   "speaker": null,
+   "en": "Next is a follow-up attack...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_028_0_0#0",
+   "speaker": "Morgana",
+   "en": "All right, it's over! You won!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_028_1_0#0",
+   "speaker": null,
+   "en": "I pulled off the combo...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_029_0_0#0",
+   "speaker": "Morgana",
+   "en": "I never thought you'd be able to land[n]such a fierce combo!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_029_0_0#1",
+   "speaker": "Morgana",
+   "en": "It really was incredible watching you[n]go up against such a tough opponent!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_029_1_0#0",
+   "speaker": null,
+   "en": "I learned about the courage it[n]takes to face a strong opponent...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_034_0_0#0",
+   "speaker": "Morgana",
+   "en": "This is the final opponent... Wait, it's[n]just a little old lady?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_034_1_0#0",
+   "speaker": null,
+   "en": "An old woman showed up... Could[n]she really be the final opponent?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_035_0_0#0",
+   "speaker": "Morgana",
+   "en": "There she is... That strong grandma...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_035_0_0#1",
+   "speaker": "Morgana",
+   "en": "She's incredibly tough. Don't let your[n]guard down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_035_1_0#0",
+   "speaker": null,
+   "en": "The world's strongest[n]grandma is back...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_034_0_1#0",
+   "speaker": "Morgana",
+   "en": "Dammit! She moves so fast and[n]deals so much damage!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_034_0_1#1",
+   "speaker": "Morgana",
+   "en": "You'll need to land a special attack[n]if you want to even begin to create[n]an opening for yourself!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_034_1_1#0",
+   "speaker": null,
+   "en": "Her attacks deal lot of damage...[n]I'll have to land a special move[n]to create an opening...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_034_0_3#0",
+   "speaker": "Morgana",
+   "en": "Oh, you have a small window[n]of opportunity... Go, go, go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_034_1_2#0",
+   "speaker": null,
+   "en": "I have a slight window[n]of opportunity...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_034_0_4#0",
+   "speaker": "Morgana",
+   "en": "She's on her heels! Keep pushing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_034_1_3#0",
+   "speaker": null,
+   "en": "She recoiled... I need to[n]keep on the offensive!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_034_0_5#0",
+   "speaker": "Morgana",
+   "en": "You're almost there! This is the[n]moment of truth!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_034_1_4#0",
+   "speaker": null,
+   "en": "It's time for the finishing blow...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_039_0_0#0",
+   "speaker": "Morgana",
+   "en": "What beautifully flowing combos...[n]That was amazing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_039_1_0#0",
+   "speaker": null,
+   "en": "My combo succeeded. The boss[n]has no more health...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_048_0_0#0",
+   "speaker": "Morgana",
+   "en": "I can't believe you seriously pulled[n]off that combo...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_048_0_0#1",
+   "speaker": "Morgana",
+   "en": "It was incredible watching you go[n]up against such a tough opponent!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_048_1_0#0",
+   "speaker": null,
+   "en": "I learned about the courage it[n]takes to face a strong opponent...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HLP_BOOK#0",
+   "speaker": null,
+   "en": "Use [f 1 10 67] to match the arrows[n]onscreen within the time limit,[n]then press [f 1 10 75] to complete the command.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_020_1_0#0",
+   "speaker": "Morgana",
+   "en": "Wha, why did you jump!? The enemy's[n]going to hit you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_020_0_0#0",
+   "speaker": "Morgana",
+   "en": "You couldn't activate your special attack...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_020_0_0#1",
+   "speaker": "Morgana",
+   "en": "I bet you would have been able to win[n]if you had.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_207_6_1#0",
+   "speaker": null,
+   "en": "I messed up the input...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_207_6_0#0",
+   "speaker": null,
+   "en": "I lost...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_207_6_0#1",
+   "speaker": null,
+   "en": "If only I could have pulled[n]off my special attack...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_022_0_0#0",
+   "speaker": "Morgana",
+   "en": "Wow, you beat the level![n]You're amazing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_022_1_0#0",
+   "speaker": null,
+   "en": "I cleared the level...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_021_0_0#0",
+   "speaker": "Morgana",
+   "en": "You got a game over, huh... What a[n]depressing screen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_021_1_0#0",
+   "speaker": null,
+   "en": "I got a game over...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_046_0_0#0",
+   "speaker": "Morgana",
+   "en": "You beat Power Intuition!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_046_1_0#0",
+   "speaker": null,
+   "en": "I beat Power Intuition...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051_0_0#0",
+   "speaker": "Morgana",
+   "en": "It's so disappointing to get a game over[n]after coming this far...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_051_1_0#0",
+   "speaker": null,
+   "en": "I got a game over...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FAILED_UP#0",
+   "speaker": "Morgana",
+   "en": "You might have lost... but you still[n]looked pretty cool, standing up to[n]that strong opponent.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_FAILED_UP#0",
+   "speaker": null,
+   "en": "I lost... but I still managed to[n]learn about the courage it takes[n]to face strong opponents...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HINTO_BOOK_NO#0",
+   "speaker": "Morgana",
+   "en": "I wish there was a way to make this[n]game a little easier...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_HINTO_BOOK_NO#0",
+   "speaker": null,
+   "en": "If only there was a way to[n]lower the game's difficulty...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HINTO_BOOK00#0",
+   "speaker": "Morgana",
+   "en": "Don't you have a book on secret[n]techniques? Maybe you should[n]try giving it a read sometime.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_HINTO_BOOK04#0",
+   "speaker": null,
+   "en": "Now that I think about it, I have[n]a book on secret techniques...[n]Maybe I should read it sometime.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_DONE_M#0",
+   "speaker": "Morgana",
+   "en": "Is it too tough for you? We'll just[n]have to try again next time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BOOK_DONE_N#0",
+   "speaker": null,
+   "en": "This is pretty difficult... I'll[n]have to give it another try later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_0_1#0",
+   "speaker": "Morgana",
+   "en": "So this manual says if you send in the[n]password you see after the ending...[n]you get a prize?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_0_1#1",
+   "speaker": "Morgana",
+   "en": "...This is a promotion from years ago[n]though. There's probably no point in[n]doing it now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_0_1#2",
+   "speaker": "Morgana",
+   "en": "But I guess it wouldn't hurt to write it[n]down anyway. Maybe some antique[n]game stores are into that kind of thing?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_053_1_0#0",
+   "speaker": null,
+   "en": "Supposedly if I send in the password[n]shown after the ending, I get some[n]kind of prize.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_053_1_0#1",
+   "speaker": null,
+   "en": "But... this is a very old promotion.[n]It's probably not still running...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_053_1_0#2",
+   "speaker": null,
+   "en": "Maybe I should write it[n]down, just in case...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAME_END_MORU#0",
+   "speaker": "Morgana",
+   "en": "This is probably a good stopping point.[n]Let's end here for today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_GAME_END_NULL#0",
+   "speaker": null,
+   "en": "I should stop for now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAME_END_MORU_DAY#0",
+   "speaker": "Morgana",
+   "en": "That took a really long time...[n]We should probably stop playing[n]games for now, don't you think?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_GAME_END_NULL_DAY#0",
+   "speaker": null,
+   "en": "Hm, I should probably take a[n]break from all the video games...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEBUG#0",
+   "speaker": null,
+   "en": "Debug Mode",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#0",
+   "speaker": null,
+   "en": "with morgana",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#1",
+   "speaker": null,
+   "en": "no morgana",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEBUG_2#0",
+   "speaker": null,
+   "en": "Debug Mode",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_2#0",
+   "speaker": null,
+   "en": "stage 1",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_2#1",
+   "speaker": null,
+   "en": "stage 2",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_2#2",
+   "speaker": null,
+   "en": "stage 3",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEBUG_3#0",
+   "speaker": null,
+   "en": "Debug Mode",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_3#0",
+   "speaker": null,
+   "en": "1st time",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_3#1",
+   "speaker": null,
+   "en": "2nd time",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

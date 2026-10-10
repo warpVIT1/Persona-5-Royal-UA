@@ -1,0 +1,1615 @@
+{
+ "file": "EN/EVENT_DATA/SCRIPT/E700/E737_002.BF",
+ "entries": [
+  {
+   "id": "THINK_START_0_00#0",
+   "speaker": "Biology",
+   "en": "What is the reason people will see[n]the same thing differently?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_1_00#0",
+   "speaker": "Morgana",
+   "en": "If how they're seeing things is different,[n]it probably has to do with this kind of[n]information...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_00#0",
+   "speaker": null,
+   "en": "Auditory information.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_00#1",
+   "speaker": null,
+   "en": "Personal information.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_00#2",
+   "speaker": null,
+   "en": "Visual information.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1A_00#0",
+   "speaker": "Morgana",
+   "en": "Wait. We're talking about them seeing[n]things differently. Is that really right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_00#0",
+   "speaker": "Morgana",
+   "en": "Wait. We're talking about them seeing[n]things differently. Is that really right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1C_00#0",
+   "speaker": "Morgana",
+   "en": "Right. How you see something is visual[n]information.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1C_00#1",
+   "speaker": "Morgana",
+   "en": "What takes the visual information from[n]your eyes and processes it is the, uh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_00#0",
+   "speaker": null,
+   "en": "Brain.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_00#1",
+   "speaker": null,
+   "en": "Stomach.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_00#2",
+   "speaker": null,
+   "en": "Marrow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_00#0",
+   "speaker": "Morgana",
+   "en": "Right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_00#1",
+   "speaker": "Morgana",
+   "en": "The brain processes visual information.[n]So, the reason why people see things[n]differently is...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_00#0",
+   "speaker": "Morgana",
+   "en": "That's not right... is it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_00#1",
+   "speaker": "Morgana",
+   "en": "I think you'd better rethink this one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_00#0",
+   "speaker": "Morgana",
+   "en": "That's not right... is it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_00#1",
+   "speaker": "Morgana",
+   "en": "I think you'd better rethink this one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_00#0",
+   "speaker": null,
+   "en": "They have different cognitions.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_00#1",
+   "speaker": null,
+   "en": "Their visual acuity.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_00#2",
+   "speaker": null,
+   "en": "How accurate the printout is.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3A_00#0",
+   "speaker": "Morgana",
+   "en": "\"How the brain interprets the same[n]visual data—how one perceives the[n]world—differs from person to person.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3A_00#1",
+   "speaker": "Morgana",
+   "en": "Ooh, this sounds pretty good!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_00#0",
+   "speaker": "Morgana",
+   "en": "...Is that really right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_00#1",
+   "speaker": "Morgana",
+   "en": "Try thinking it through again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_00#0",
+   "speaker": "Morgana",
+   "en": "...Is that really right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_00#1",
+   "speaker": "Morgana",
+   "en": "Try thinking it through again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MISS_LAST_ALL_00#0",
+   "speaker": "Morgana",
+   "en": "Mm, I don't think that's it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_0_01#0",
+   "speaker": "History",
+   "en": "Why did Ishikawa Goemon become[n]a popular subject after his death?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_1_01#0",
+   "speaker": "Morgana",
+   "en": "Goemon was popular because he wasn't[n]just a thief. He was a...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_01#0",
+   "speaker": null,
+   "en": "Hottie.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_01#1",
+   "speaker": null,
+   "en": "Gentleman thief.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_01#2",
+   "speaker": null,
+   "en": "Vice-shogun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1A_01#0",
+   "speaker": "Morgana",
+   "en": "Come on! Think it through again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_01#0",
+   "speaker": "Morgana",
+   "en": "Stealing from the rich and giving to the[n]poor—yup, that's Goemon all right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_01#1",
+   "speaker": "Morgana",
+   "en": "And, the person in power who had it in[n]for Goemon was...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1C_01#0",
+   "speaker": "Morgana",
+   "en": "That's not right, is it? Think it through[n]again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_01#0",
+   "speaker": null,
+   "en": "Oda Nobunaga.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_01#1",
+   "speaker": null,
+   "en": "Toyotomi Hideyoshi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_01#2",
+   "speaker": null,
+   "en": "Tokugawa Ieyasu.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_01#0",
+   "speaker": "Morgana",
+   "en": "That's not right, is it? Think it through[n]again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_01#0",
+   "speaker": "Morgana",
+   "en": "Yeah, Hideyoshi was the most powerful[n]figure during the Sengoku period.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_01#1",
+   "speaker": "Morgana",
+   "en": "And, Goemon's death after he got[n]captured by Hideyoshi is famous too...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_01#0",
+   "speaker": "Morgana",
+   "en": "That's not right, is it? Think it through[n]again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_01#0",
+   "speaker": null,
+   "en": "He was boiled alive.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_01#1",
+   "speaker": null,
+   "en": "He was forced to swallow needles.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_01#2",
+   "speaker": null,
+   "en": "He was skinned.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3A_01#0",
+   "speaker": "Morgana",
+   "en": "Yeah! We even have the term[n]\"Goemon bath\" because of it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3A_01#1",
+   "speaker": "Morgana",
+   "en": "\"Goemon fought against those in power[n]and was executed for it. After his death,[n]he was seen as a hero.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_01#0",
+   "speaker": "Morgana",
+   "en": "No. I think there was some well-known[n]phrase associated with it. Try thinking it[n]over again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_01#0",
+   "speaker": "Morgana",
+   "en": "No. I think there was some well-known[n]phrase associated with it. Try thinking it[n]over again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_0_02#0",
+   "speaker": "History",
+   "en": "Explain why the guillotine was used[n]during the French Revolution.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_1_02#0",
+   "speaker": "Morgana",
+   "en": "First of all, who proposed the idea of[n]the guillotine?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_02#0",
+   "speaker": null,
+   "en": "An executioner.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_02#1",
+   "speaker": null,
+   "en": "A doctor.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_02#2",
+   "speaker": null,
+   "en": "The king.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1A_02#0",
+   "speaker": "Morgana",
+   "en": "Hmmm... I don't think that's right...[n]Let's try this again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_02#0",
+   "speaker": "Morgana",
+   "en": "Yeah! I think he was named Joseph-[n]Ignace Guillotin.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_02#1",
+   "speaker": "Morgana",
+   "en": "So, from his perspective, what was[n]the advantage of the guillotine?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1C_02#0",
+   "speaker": "Morgana",
+   "en": "Hmmm... I don't think that's right...[n]Let's try this again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_02#0",
+   "speaker": null,
+   "en": "It'd entertain the masses.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_02#1",
+   "speaker": null,
+   "en": "It could execute people quickly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_02#2",
+   "speaker": null,
+   "en": "He'd get bodies to dissect.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_02#0",
+   "speaker": "Morgana",
+   "en": "Really? Try thinking it through again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_02#0",
+   "speaker": "Morgana",
+   "en": "There were thousands of people[n]executed during the Revolution...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_02#1",
+   "speaker": "Morgana",
+   "en": "Looks like... \"they needed a method of[n]execution that was quick and impartial.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_02#0",
+   "speaker": "Morgana",
+   "en": "You don't need to chop their head off[n]to be able to dissect them. Try thinking[n]it through again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_0_03#0",
+   "speaker": "Biology",
+   "en": "Describe how sounds are played[n]through a cell phone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_1_03#0",
+   "speaker": "Morgana",
+   "en": "I think they said the voice you hear[n]through the phone is...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_03#0",
+   "speaker": null,
+   "en": "Their real voice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_03#1",
+   "speaker": null,
+   "en": "Their voice pitched up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_03#2",
+   "speaker": null,
+   "en": "Not their real voice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1A_03#0",
+   "speaker": "Morgana",
+   "en": "Really? I don't think that was it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_03#0",
+   "speaker": "Morgana",
+   "en": "Really? I don't think that was it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1C_03#0",
+   "speaker": "Morgana",
+   "en": "There would be too much data to[n]transmit, so it just plays a sound[n]similar to your voice, I think.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1C_03#1",
+   "speaker": "Morgana",
+   "en": "But why does the listener think the[n]synthetic voice is the real person?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_03#0",
+   "speaker": null,
+   "en": "They speak the same.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_03#1",
+   "speaker": null,
+   "en": "Humans have bad hearing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_03#2",
+   "speaker": null,
+   "en": "They can sense their aura.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_03#0",
+   "speaker": "Morgana",
+   "en": "Yeah. Everyone talks their own way:[n]their tone, how they stress words,[n]and so on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_03#1",
+   "speaker": "Morgana",
+   "en": "Even if the voice is different, as long[n]as they talk the same, the listener will[n]subconsciously...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_03#0",
+   "speaker": "Morgana",
+   "en": "Really? C'mon, be serious.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_03#0",
+   "speaker": "Morgana",
+   "en": "Really? C'mon, be serious.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_03#0",
+   "speaker": null,
+   "en": "Nod along.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_03#1",
+   "speaker": null,
+   "en": "Supplement the voice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_03#2",
+   "speaker": null,
+   "en": "Tap their foot.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3A_03#0",
+   "speaker": "Morgana",
+   "en": "Absolutely— I mean, no! Calm down,[n]and let's think this through.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_03#0",
+   "speaker": "Morgana",
+   "en": "That's it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_03#1",
+   "speaker": "Morgana",
+   "en": "\"Even if the sound differs from the[n]actual voice, the listener's brain[n]will make it sound like their voice.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_03#0",
+   "speaker": "Morgana",
+   "en": "Absolutely— I mean, no! Calm down,[n]and let's think this through.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_0512_00#0",
+   "speaker": "History",
+   "en": "Provide the reason why Minamoto no[n]Yoshitsune is viewed as a hero.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_0512_01#0",
+   "speaker": "Morgana",
+   "en": "Yoshitsune had a brother, right? Uh,[n]I think his name was...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_0512_02#0",
+   "speaker": null,
+   "en": "Fujiwara no Hidehira.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_0512_02#1",
+   "speaker": null,
+   "en": "Kiso Yoshinaka.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_0512_02#2",
+   "speaker": null,
+   "en": "Minamoto no Yoritomo.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1A_0512_03#0",
+   "speaker": "Morgana",
+   "en": "Was that his name...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MISS_1A_0512_03_ADD#0",
+   "speaker": "Morgana",
+   "en": "Yoshitsune's brother's really famous too,[n]isn't he? I think his name was...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_0512_04#0",
+   "speaker": "Morgana",
+   "en": "Was that his name...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1C_0512_05#0",
+   "speaker": "Morgana",
+   "en": "Yeah, that's the one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1C_0512_05#1",
+   "speaker": "Morgana",
+   "en": "Yoshitsune worked under Yoritomo.[n]He did a lot for his brother.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1C_0512_05#2",
+   "speaker": "Morgana",
+   "en": "But they ended up coming into conflict.[n]And in the end, when they had to[n]oppose each other...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_0512_06#0",
+   "speaker": null,
+   "en": "Yoritomo won.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_0512_06#1",
+   "speaker": null,
+   "en": "They both lost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_0512_06#2",
+   "speaker": null,
+   "en": "Yoshitsune won.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_0512_07#0",
+   "speaker": "Morgana",
+   "en": "Yeah. Yoshitsune committed suicide after[n]being exiled by his brother.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_0512_07#1",
+   "speaker": "Morgana",
+   "en": "But even though he lost, Yoshitsune's[n]the one who went down in history[n]as a hero.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_0512_07#2",
+   "speaker": "Morgana",
+   "en": "That's probably because people tend to[n]sympathize less with figures in power,[n]and sympathize more with...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_0512_08#0",
+   "speaker": "Morgana",
+   "en": "No, I don't think so.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_0512_08#1",
+   "speaker": "Morgana",
+   "en": "I think you'd better reconsider this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_0512_09#0",
+   "speaker": "Morgana",
+   "en": "No, I don't think so.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_0512_09#1",
+   "speaker": "Morgana",
+   "en": "I think you'd better reconsider this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MISS_2A_0512_09_ADD#0",
+   "speaker": "Morgana",
+   "en": "Uh, the idea is to explain why he's[n]viewed as a hero...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MISS_2A_0512_09_ADD#1",
+   "speaker": "Morgana",
+   "en": "Yoshitsune had a brother, right? I think[n]his name was...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_0512_10#0",
+   "speaker": null,
+   "en": "The weak.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_0512_10#1",
+   "speaker": null,
+   "en": "The vengeful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_0512_10#2",
+   "speaker": null,
+   "en": "The crafty.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3A_0512_11#0",
+   "speaker": "Morgana",
+   "en": "Yeah. Not just any weak person, though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3A_0512_11#1",
+   "speaker": "Morgana",
+   "en": "People love rooting for an underdog[n]who stands up to powerful oppressors.[n]And Yoshitsune did that to his brother.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3A_0512_11#2",
+   "speaker": "Morgana",
+   "en": "So the reason Yoshitsune is treated as a[n]hero is because he stood up against[n]the powerful Yoritomo!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_0512_12#0",
+   "speaker": "Morgana",
+   "en": "Really!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_0512_12#1",
+   "speaker": "Morgana",
+   "en": "Try thinking it through again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_0512_12_ADD#0",
+   "speaker": "Morgana",
+   "en": "Uh, the idea is to explain why he's[n]viewed as a hero...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_0512_12_ADD#1",
+   "speaker": "Morgana",
+   "en": "Yoshitsune had a brother, right? I think[n]his name was...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_0512_13#0",
+   "speaker": "Morgana",
+   "en": "Really!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_0512_13#1",
+   "speaker": "Morgana",
+   "en": "Try thinking it through again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_0713_00#0",
+   "speaker": "History",
+   "en": "Explain the origin of baozi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_0713_01#0",
+   "speaker": "Morgana",
+   "en": "Ugh. Baozi, in this hot weather...? Well,[n]never mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_0713_01#1",
+   "speaker": "Morgana",
+   "en": "I think this came up in class. They were[n]invented by that famous guy from[n]Romance of the Three Kingdoms, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_0713_02#0",
+   "speaker": null,
+   "en": "Lu Su.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_0713_02#1",
+   "speaker": null,
+   "en": "Zhuge Liang.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_0713_02#2",
+   "speaker": null,
+   "en": "Cao Cao.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1A_0713_03#0",
+   "speaker": "Morgana",
+   "en": "Was that really it...? I don't think so.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MISS_1A_0713_00#0",
+   "speaker": "Morgana",
+   "en": "Let's start with the guy who invented[n]baozi. It's... you know, that guy from[n]Romance of the Three Kingdoms...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_0713_04#0",
+   "speaker": "Morgana",
+   "en": "Yeah. The strategist of Shu.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_0713_04#1",
+   "speaker": "Morgana",
+   "en": "I think the story was about a river[n]overflowing somewhere Zhuge Liang[n]visited.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_0713_04#2",
+   "speaker": "Morgana",
+   "en": "And they were offering something to[n]quell the river...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1C_0713_05#0",
+   "speaker": "Morgana",
+   "en": "Was that really it...? I don't think so.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_0713_06#0",
+   "speaker": null,
+   "en": "Travelers' hearts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_0713_06#1",
+   "speaker": null,
+   "en": "Barbarians' heads.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_0713_06#2",
+   "speaker": null,
+   "en": "Barbarians' skulls.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_0713_07#0",
+   "speaker": "Morgana",
+   "en": "Is that right? Think about it again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_0713_08#0",
+   "speaker": "Morgana",
+   "en": "That's it. A crazy story...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_0713_08#1",
+   "speaker": "Morgana",
+   "en": "And that's how he came up with the[n]baozi, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_0713_08#2",
+   "speaker": "Morgana",
+   "en": "This master strategist came up with[n]the baozi to...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_0713_09#0",
+   "speaker": "Morgana",
+   "en": "Is that right? Think about it again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_0713_10#0",
+   "speaker": null,
+   "en": "To offer them instead of heads.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_0713_10#1",
+   "speaker": null,
+   "en": "To offer with the heads.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_0713_10#2",
+   "speaker": null,
+   "en": "To feed the survivors.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3A_0713_11#0",
+   "speaker": "Morgana",
+   "en": "Yeah. I think you're right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3A_0713_11#1",
+   "speaker": "Morgana",
+   "en": "The baozi were invented as an offering[n]to a river spirit, to replace the tradition[n]of offering severed heads!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_0713_12#0",
+   "speaker": "Morgana",
+   "en": "I don't think that's it... Maybe we should[n]think a little harder.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_0713_13#0",
+   "speaker": "Morgana",
+   "en": "I don't think that's it... Maybe we should[n]think a little harder.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MISS_2A_0713_00#0",
+   "speaker": "Morgana",
+   "en": "Uhh... So the question's about the[n]origin of baozi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MISS_2A_0713_00#1",
+   "speaker": "Morgana",
+   "en": "I think we learned this in class, right?[n]Someone from the Romance of the[n]Three Kingdoms invented it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_1017_00#0",
+   "speaker": "Math",
+   "en": "Provide an explanation for why the[n]soccer ball is only comprised of the[n]colors black and white.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_1017_01#0",
+   "speaker": "Morgana",
+   "en": "Soccer balls...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_1017_01#1",
+   "speaker": "Morgana",
+   "en": "Didn't the teacher say that the number[n]of colors used to be different? Do you[n]remember?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_1017_02#0",
+   "speaker": null,
+   "en": "It used to be flashier.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_1017_02#1",
+   "speaker": null,
+   "en": "It used to be one color.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_1017_02#2",
+   "speaker": null,
+   "en": "It used to be three colors.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1A_1017_03#0",
+   "speaker": "Morgana",
+   "en": "No, I don't think so.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MISS_1A_1017_00#0",
+   "speaker": "Morgana",
+   "en": "Something was different about the old[n]soccer balls, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MISS_1A_1017_00#1",
+   "speaker": "Morgana",
+   "en": "...Um, what was it? I think the teacher[n]said this in class... Do you remember?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_01017_04#0",
+   "speaker": "Morgana",
+   "en": "Right, it was only one color. But that[n]wouldn't really grab your eye.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_01017_04#1",
+   "speaker": "Morgana",
+   "en": "Oh yeah, I remember. I think she said[n]that unlike now, soccer games were[n]broadcasted with...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1C_1017_05#0",
+   "speaker": "Morgana",
+   "en": "No, it was less than that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_1017_06#0",
+   "speaker": null,
+   "en": "No commentary.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_1017_06#1",
+   "speaker": null,
+   "en": "Black and white picture.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_1017_06#2",
+   "speaker": null,
+   "en": "No visuals.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_1017_07#0",
+   "speaker": "Morgana",
+   "en": "Really? Let's think it over again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MISS_2A_1017_00#0",
+   "speaker": "Morgana",
+   "en": "The question here is: Why are soccer[n]balls colored with black and white[n]only? That's it, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MISS_2A_1017_00#1",
+   "speaker": "Morgana",
+   "en": "Didn't the teacher say that the number[n]of colors used to be different? Do you[n]remember?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_1017_08#0",
+   "speaker": "Morgana",
+   "en": "Right. A single-colored ball would be[n]hard to spot in black and white.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_1017_08#1",
+   "speaker": "Morgana",
+   "en": "So they changed the color of the ball[n]to make it easily identifiable on TV.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_1017_09#0",
+   "speaker": "Morgana",
+   "en": "Was that what we learned in class?[n]Let's think it over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_1220_00#0",
+   "speaker": "History",
+   "en": "Explain why the infamous thief[n]Nezumi Kozo had makeup applied[n]to him before his execution.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_1220_01#0",
+   "speaker": "Morgana",
+   "en": "He was a really famous thief in the[n]Edo period, right? How much money[n]did he steal, in the end?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_1220_02#0",
+   "speaker": null,
+   "en": "About 300,000 yen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_1220_02#1",
+   "speaker": null,
+   "en": "Around 100 million yen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_1220_02#2",
+   "speaker": null,
+   "en": "Over one billion yen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1A_1220_03#0",
+   "speaker": "Morgana",
+   "en": "Hmm... I don't think that's right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MISS_1A_1220_00#0",
+   "speaker": "Morgana",
+   "en": "Nezumi Kozo was one of the greatest[n]thieves of the Edo period. I think the[n]damage amounted to...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MISS_2A_1220_00#0",
+   "speaker": "Morgana",
+   "en": "The question is \"why did Nezumi Kozo[n]have makeup applied to him\"?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MISS_2A_1220_00#1",
+   "speaker": "Morgana",
+   "en": "Nezumi Kozo was one of the greatest[n]thieves of the Edo period. I think the[n]damage amounted to...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_1220_04#0",
+   "speaker": "Morgana",
+   "en": "Hmm... I don't think that's right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1C_1220_05#0",
+   "speaker": "Morgana",
+   "en": "That's right. But he was caught in the[n]end.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1C_1220_05#1",
+   "speaker": "Morgana",
+   "en": "As a result, he was sentenced to...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_1220_06#0",
+   "speaker": null,
+   "en": "Having his head displayed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_1220_06#1",
+   "speaker": null,
+   "en": "Death by sawing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_1220_06#2",
+   "speaker": null,
+   "en": "Seppuku.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_1220_07#0",
+   "speaker": "Morgana",
+   "en": "Yeah, he was paraded around town and[n]then had his head displayed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_1220_07#1",
+   "speaker": "Morgana",
+   "en": "It sounds harsh, but it had a certain[n]significance back then, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_1220_07#2",
+   "speaker": "Morgana",
+   "en": "Criminals, especially famous criminals,[n]were mostly paraded around for...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_1220_08#0",
+   "speaker": "Morgana",
+   "en": "Was that really it? Let's think it over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_1220_09#0",
+   "speaker": "Morgana",
+   "en": "That's more of a warrior thing... Let's[n]rethink this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_1220_10#0",
+   "speaker": null,
+   "en": "Ritual purposes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_1220_10#1",
+   "speaker": null,
+   "en": "Public performance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_1220_10#2",
+   "speaker": null,
+   "en": "Racing them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3A_1220_11#0",
+   "speaker": "Morgana",
+   "en": "Is that really it...? Let's think about it[n]more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_1220_12#0",
+   "speaker": "Morgana",
+   "en": "...Oh, that sounds familiar.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_1220_12#1",
+   "speaker": "Morgana",
+   "en": "The people wouldn't have been happy[n]if he looked shabby for his death.[n]Things were brutal back then...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_1220_12#2",
+   "speaker": "Morgana",
+   "en": "Even condemned criminals had to be[n]prettied up for a crowd.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_1220_12#3",
+   "speaker": "Morgana",
+   "en": "So the reason Nezumi Kozo had makeup[n]was to appease the people!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_1220_13#0",
+   "speaker": "Morgana",
+   "en": "No, that's not it... Let's calm down and[n]think it over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_0228_00#0",
+   "speaker": "Biology",
+   "en": "Explain how to dye hair gold[n]by using metal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_0228_01#0",
+   "speaker": "Morgana",
+   "en": "Well, this question's... imaginative...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_START_0228_01#1",
+   "speaker": "Morgana",
+   "en": "Do you remember what melts metal?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_0228_02#0",
+   "speaker": null,
+   "en": "Tea.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_0228_02#1",
+   "speaker": null,
+   "en": "Acid.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1_SEL_0228_02#2",
+   "speaker": null,
+   "en": "Alkali.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1A_0228_03#0",
+   "speaker": "Morgana",
+   "en": "Uh, I don't think so.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_0228_04#0",
+   "speaker": "Morgana",
+   "en": "Yeah, acid melts most things.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1B_0228_04#1",
+   "speaker": "Morgana",
+   "en": "So if you melt gold with acid, and use[n]that to dye your hair, would your hair[n]turn golden...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_1C_0228_05#0",
+   "speaker": "Morgana",
+   "en": "No, that's not it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_0228_06#0",
+   "speaker": null,
+   "en": "It would turn blue.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_0228_06#1",
+   "speaker": null,
+   "en": "It will turn gold.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2_SEL_0228_06#2",
+   "speaker": null,
+   "en": "It won't turn gold.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2A_0228_07#0",
+   "speaker": "Morgana",
+   "en": "I don't think that's it... Let's think about[n]this again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_00228_08#0",
+   "speaker": "Morgana",
+   "en": "Oh, wait...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_00228_08#1",
+   "speaker": "Morgana",
+   "en": "Acid doesn't melt gold. So melting gold[n]isn't gonna work here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2B_00228_08#2",
+   "speaker": "Morgana",
+   "en": "But we could theoretically use acid to[n]melt a metal with a color similar to[n]gold. Which would be...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_2C_0228_09#0",
+   "speaker": "Morgana",
+   "en": "I don't think that's it... Let's think about[n]this again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_0228_10#0",
+   "speaker": null,
+   "en": "Brass.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_0228_10#1",
+   "speaker": null,
+   "en": "Iron.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3_SEL_0228_10#2",
+   "speaker": null,
+   "en": "Silver.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3A_0228_11#0",
+   "speaker": "Morgana",
+   "en": "No, that's not it. Calm down and think[n]about it again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_0228_12#0",
+   "speaker": "Morgana",
+   "en": "Yeah, that's it! All right, now we have[n]our answer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_0228_12#1",
+   "speaker": "Morgana",
+   "en": "To dye your hair gold, you would melt[n]brass with acid, and douse your hair[n]in it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3B_0228_12#2",
+   "speaker": "Morgana",
+   "en": "...Though that seems like an easy way[n]to make yourself sick.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "THINK_3C_0228_13#0",
+   "speaker": "Morgana",
+   "en": "No, I don't think that's it. Calm down[n]and think through it again.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

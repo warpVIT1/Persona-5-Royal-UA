@@ -1,0 +1,859 @@
+{
+ "file": "EN/EVENT_DATA/MESSAGE/E700/E722_082.BMD",
+ "entries": [
+  {
+   "id": "MSG_000_0_0#0",
+   "speaker": "Sumire's Voice",
+   "en": "Ooh. This is...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_0_0#0",
+   "speaker": "Apparel Shop Staff",
+   "en": "Oh, this is so working for you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_0_0#1",
+   "speaker": "Apparel Shop Staff",
+   "en": "I know you said you wanted people to[n]see you, so I put together something a[n]little more wild and eye-catching.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_002_0_0#0",
+   "speaker": null,
+   "en": "Is that... Sumire?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_0_0#0",
+   "speaker": "Sumire",
+   "en": "Wow... It's like I'm a totally different[n]person.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_004_0_0#0",
+   "speaker": "Apparel Shop Staff",
+   "en": "You've got some of that carnivore energy,[n]and a little herbivore meekness too. This[n]savannah style will definitely turn heads!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_005_0_0#0",
+   "speaker": "Sumire",
+   "en": "I see. Well, I guess it's important to[n]have a balanced diet...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_006_0_0#0",
+   "speaker": null,
+   "en": "Walk up to Sumire",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_006_0_0#1",
+   "speaker": null,
+   "en": "Watch her from a distance",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_006_0_0#2",
+   "speaker": null,
+   "en": "Slowly walk away",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_006_5_0#0",
+   "speaker": null,
+   "en": "Walk up to Sumire[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_006_5_0#1",
+   "speaker": null,
+   "en": "Watch her from a distance",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_006_5_0#2",
+   "speaker": null,
+   "en": "Slowly walk away",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_007_0_0#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MND_007_0_0#1",
+   "speaker": null,
+   "en": "I don't have the [stIcon 3][clr 26][stLabel 3][clr 27][n]to walk up to her...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_008_0_0#0",
+   "speaker": "Sumire",
+   "en": "Oh, [fName]-senpai!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_009_0_0#0",
+   "speaker": "Sumire",
+   "en": "Oh, [fName]-senpai! I'm glad[n]you made it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_0#0",
+   "speaker": "Sumire",
+   "en": "Oh, [fName]-senpai!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_011_0_0#0",
+   "speaker": "Sumire",
+   "en": "Oh, [fName]-senpai! Over here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_012_0_0#0",
+   "speaker": "Sumire",
+   "en": "I wanted to surprise you, so I got here[n]a little early to dress up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_013_0_0#0",
+   "speaker": "Sumire",
+   "en": "I tried this ensemble based on the staff's[n]advice, but what do you think?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_013_0_0#1",
+   "speaker": "Sumire",
+   "en": "I've definitely been getting attention[n]in this. Some people are even staring!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_013_0_0#2",
+   "speaker": "Sumire",
+   "en": "This is sort of like showing off my[n]own style, right!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_014_0_0#0",
+   "speaker": null,
+   "en": "Look at yourself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_014_0_0#1",
+   "speaker": null,
+   "en": "You're just standing out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_015_0_0#0",
+   "speaker": "Sumire",
+   "en": "O-Oh, you don't like it? I thought it was[n]a pretty cool outfit...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_015_0_0#1",
+   "speaker": "Sumire",
+   "en": "...Well, to be honest, I could tell some[n]of this was a little off.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_015_0_0#2",
+   "speaker": "Sumire",
+   "en": "I mean, they say these are leopard[n]spots, but it could just as easily be[n]some kind of... mutant giraffe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_016_0_0#0",
+   "speaker": "Sumire",
+   "en": "Anyway, I should change.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_017_0_0#0",
+   "speaker": "Sumire",
+   "en": "I thought this might help me find some[n]answers, but I guess I didn't go in with[n]much of a plan...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_017_0_0#1",
+   "speaker": "Sumire",
+   "en": "...So once again, I totally misinterpreted[n]everything and made no progress at all.[n]Classic Sumire.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_0_0#0",
+   "speaker": "Sumire",
+   "en": "I wasn't like this when I was looking[n]for my father's glasses...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_0_0#1",
+   "speaker": "Sumire",
+   "en": "I feel like I'm doing so much worse than[n]when I thought I was Kasumi...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_0_0#2",
+   "speaker": "Sumire",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_0_0#3",
+   "speaker": "Sumire",
+   "en": "I don't even know if I'm worth showing[n]off, let alone how to do it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_019_0_0#0",
+   "speaker": null,
+   "en": "Try to stay positive.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_019_0_0#1",
+   "speaker": null,
+   "en": "I'm here for you.[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_019_0_0#2",
+   "speaker": null,
+   "en": "It'll work out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_020_0_0#0",
+   "speaker": "Sumire",
+   "en": "Y-You're right. I can't just let my[n]pessimism win! I have to stay strong!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_021_0_0#0",
+   "speaker": "Sumire",
+   "en": "You're right. I have you, Senpai.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_021_0_0#1",
+   "speaker": "Sumire",
+   "en": "I need to make sure you see the[n]real me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_022_0_0#0",
+   "speaker": "Sumire",
+   "en": "Hahah, I guess you're right... I'll try to[n]relax a little more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_023_0_0#0",
+   "speaker": "Sumire",
+   "en": "Okay. I don't have time to be lost in[n]my thoughts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_023_0_0#1",
+   "speaker": "Sumire",
+   "en": "I'll find some clothes that'll help me[n]show off my true self!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_024_0_0#0",
+   "speaker": "Sumire",
+   "en": "But still... look at how many different[n]styles there are.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_024_0_0#1",
+   "speaker": "Sumire",
+   "en": "Huh? Why does this sweater have a[n]hole...? Where is this string going...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_024_0_0#2",
+   "speaker": "Sumire",
+   "en": "Um, what do I do now...? This is a lot[n]harder than I thought...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_025_0_0#0",
+   "speaker": "Sumire",
+   "en": "Hmm... This isn't it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_025_0_0#1",
+   "speaker": "Sumire",
+   "en": "All of these clothes are very stylish,[n]but I'm not sure I'd really want to be[n]seen in them...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_026_0_0#0",
+   "speaker": "Sumire",
+   "en": "How do I want to be seen...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_026_0_0#1",
+   "speaker": "Sumire",
+   "en": "Or... how do I want Senpai to see me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_027_0_0#0",
+   "speaker": "Sumire",
+   "en": "Senpai... Senpai... Hmm...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_028_0_0#0",
+   "speaker": null,
+   "en": "What is it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_028_0_0#1",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MSG_029_0_0#0",
+   "speaker": "Sumire",
+   "en": "Oh, uh... um... Please don't stare at[n]me like that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_030_0_0#0",
+   "speaker": null,
+   "en": "You started it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_030_0_0#1",
+   "speaker": null,
+   "en": "What, I can't look at you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_031_0_0#0",
+   "speaker": "Sumire",
+   "en": "W-Well, yes...! But if you look at[n]me, I don't know what to do!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_032_0_0#0",
+   "speaker": "Sumire",
+   "en": "I-It's not that, just... I didn't think[n]you'd stare back at me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_033_0_0#0",
+   "speaker": "Sumire",
+   "en": "...Oh! R-Right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_033_0_0#1",
+   "speaker": "Sumire",
+   "en": "Maybe it shouldn't be that one-sided...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_033_0_0#2",
+   "speaker": "Sumire",
+   "en": "If I give other people attention, then[n]surely I'd get attention in return.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_033_0_0#3",
+   "speaker": "Sumire",
+   "en": "I think I get it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_034_0_0#0",
+   "speaker": "Sumire",
+   "en": "Oh...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_034_5_0#0",
+   "speaker": "Sumire",
+   "en": "I think I'll try on... this one!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_035_0_0#0",
+   "speaker": "Sumire",
+   "en": "Sorry to keep you waiting, [fName]-[n]senpai...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_036_0_0#0",
+   "speaker": "Sumire",
+   "en": "Um, what do you think?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_037_0_0#0",
+   "speaker": null,
+   "en": "It looks great.[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_037_0_0#1",
+   "speaker": null,
+   "en": "You look really cute.[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_037_0_0#2",
+   "speaker": null,
+   "en": "I'm in love.[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_038_0_0#0",
+   "speaker": "Sumire",
+   "en": "R-Really!? Well... I'll try to believe that,[n]Senpai.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_039_0_0#0",
+   "speaker": "Sumire",
+   "en": "*giggle* ...I'm really happy to hear that.[n]I guess I found a way for you to see[n]the real me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_040_0_0#0",
+   "speaker": "Sumire",
+   "en": "C-C-Cute!? I-I mean, REALLY cute!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_040_0_0#1",
+   "speaker": "Sumire",
+   "en": "I, um... what are you trying to say,[n]Senpai!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_041_0_0#0",
+   "speaker": "Sumire",
+   "en": "I... I guess I'm... I mean, I KNOW[n]I'm happy to hear it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_041_0_0#1",
+   "speaker": "Sumire",
+   "en": "Thank you. For letting me show you[n]a part of myself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_042_0_0#0",
+   "speaker": "Sumire",
+   "en": "Wh... What? D-Did you just say what[n]I think you said!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_042_0_0#1",
+   "speaker": "Sumire",
+   "en": "You said you're... in love...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_043_0_0#0",
+   "speaker": "Sumire",
+   "en": "Oh! I, um, uh, yeah!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_043_0_0#1",
+   "speaker": "Sumire",
+   "en": "W-With the outfit, right!? You're just[n]\"in love\" with the outfit! Don't worry,[n]I get it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_043_0_0#2",
+   "speaker": "Sumire",
+   "en": "S-Sorry, I know you didn't mean anything[n]by it, I just wasn't ready, I mean my heart[n]wasn't, so I'm kind of—",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_043_0_0#3",
+   "speaker": "Sumire",
+   "en": "H-Hold on, I need to calm down... Okay,[n]deep breaths... hahhh, phew...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_044_0_0#0",
+   "speaker": "Sumire",
+   "en": "B-But I really am happy to hear that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_044_0_0#1",
+   "speaker": "Sumire",
+   "en": "Thank you. For letting me show you[n]a part of myself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_045_0_0#0",
+   "speaker": "Sumire",
+   "en": "I've made up my mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_045_0_0#1",
+   "speaker": "Sumire",
+   "en": "Um, could you wait here for a second?[n]I need to go buy this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_046_0_0#0",
+   "speaker": "Sumire",
+   "en": "I'm so glad I found something good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_047_0_0#0",
+   "speaker": null,
+   "en": "Did I help?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_047_0_0#1",
+   "speaker": null,
+   "en": "You found your answer?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_048_0_0#0",
+   "speaker": "Sumire",
+   "en": "Of course!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_049_0_0#0",
+   "speaker": "Sumire",
+   "en": "Umm, I'm not sure if I can call it[n]an answer, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_050_0_0#0",
+   "speaker": "Sumire",
+   "en": "Thanks to you, I think I realized[n]something.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051_0_0#0",
+   "speaker": "Sumire",
+   "en": "When I first saw that piece, I kind of[n]fell in love with it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051_0_0#1",
+   "speaker": "Sumire",
+   "en": "And um... It's a little embarrassing[n]to say this, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051_0_0#2",
+   "speaker": "Sumire",
+   "en": "My first thought was that I couldn't[n]wait for you to see me in it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051_0_0#3",
+   "speaker": "Sumire",
+   "en": "I wondered what kind of face you'd make,[n]or how you'd react...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051_0_0#4",
+   "speaker": "Sumire",
+   "en": "I wanted to see that side of you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_052_0_0#0",
+   "speaker": "Sumire",
+   "en": "Oh, um—I don't mean anything weird[n]by that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_052_0_0#1",
+   "speaker": "Sumire",
+   "en": "I just wanted to... show myself off to[n]you, I guess. To see you, and be seen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_0_0#0",
+   "speaker": "Sumire",
+   "en": "The more I thought about it, the more[n]important that feeling became.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_0_0#1",
+   "speaker": "Sumire",
+   "en": "And then, suddenly, I just... realized[n]I wasn't nervous anymore.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_054_0_0#0",
+   "speaker": null,
+   "en": "I see...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_054_0_0#1",
+   "speaker": null,
+   "en": "So that's how it was.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_055_0_0#0",
+   "speaker": "Sumire",
+   "en": "I've always been really bad at making[n]decisions on my own...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_055_0_0#1",
+   "speaker": "Sumire",
+   "en": "I mean, Kasumi always picked perfect[n]things for me anyway.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_055_0_0#2",
+   "speaker": "Sumire",
+   "en": "I never really knew making my own[n]decisions could feel validating.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_055_0_0#3",
+   "speaker": "Sumire",
+   "en": "So I didn't really feel a need to choose[n]anything for myself. After all, nobody[n]expected me to.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_055_0_0#4",
+   "speaker": "Sumire",
+   "en": "But today, I picked something because[n]I liked it. And I felt confident in that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_055_0_0#5",
+   "speaker": "Sumire",
+   "en": "Even if you didn't like it... I don't think[n]that'd change how I feel about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_056_0_0#0",
+   "speaker": null,
+   "en": "That's how it should be.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_056_0_0#1",
+   "speaker": null,
+   "en": "Sounds like progress.[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_057_0_0#0",
+   "speaker": "Sumire",
+   "en": "Yeah. I think so too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_058_0_0#0",
+   "speaker": "Sumire",
+   "en": "Yes! And I feel great about it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_059_0_0#0",
+   "speaker": "Sumire",
+   "en": "Is this what Coach meant? About Kasumi[n]wanting me to see how she felt...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_060_0_0#0",
+   "speaker": "Sumire",
+   "en": "If that's true, then... did she really[n]think I was...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_060_0_0#1",
+   "speaker": "Sumire",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_061_0_0#0",
+   "speaker": "Sumire",
+   "en": "Well, I can't say for sure... but I think[n]as long as I've got you supporting me,[n]I'll be okay.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_062_0_0#0",
+   "speaker": null,
+   "en": "I can sense a deep bond[n]of trust from Sumire...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_063_0_0#0",
+   "speaker": "Sumire",
+   "en": "Now, we should head home. Thanks[n]for coming out with me today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_063_0_0#1",
+   "speaker": "Sumire",
+   "en": "Oh, should we go buy some clothes[n]for you next time?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_063_0_0#2",
+   "speaker": "Sumire",
+   "en": "You could always try on that savannah[n]ensemble. I think it might even suit you[n]better than me... maybe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_064_0_0#0",
+   "speaker": "Sumire",
+   "en": "See you!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

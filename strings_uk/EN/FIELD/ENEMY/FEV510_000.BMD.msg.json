@@ -1,0 +1,985 @@
+{
+ "file": "EN/FIELD/ENEMY/FEV510_000.BMD",
+ "entries": [
+  {
+   "id": "MSG_NML01_FIND_01_01#0",
+   "speaker": null,
+   "en": "Wh-Who goes there!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_FIND_01_02#0",
+   "speaker": null,
+   "en": "You! Who are you!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_FIND_01_03#0",
+   "speaker": null,
+   "en": "Hey! What are[n]you doing there!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_FIND_01_04#0",
+   "speaker": null,
+   "en": "You look suspicious![n]Who are you!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_FIND_01_05#0",
+   "speaker": null,
+   "en": "You look suspicious![n]Intruders...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_PURSUE_01_01#0",
+   "speaker": null,
+   "en": "I won't let you go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_PURSUE_01_02#0",
+   "speaker": null,
+   "en": "Thieves! Stop right there!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_PURSUE_01_03#0",
+   "speaker": null,
+   "en": "Thieves! I'll capture you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_PURSUE_01_04#0",
+   "speaker": null,
+   "en": "Thieves! You[n]won't get away!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_PURSUE_01_05#0",
+   "speaker": null,
+   "en": "You rats! Stop[n]scurrying around!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_LOST_01_01#0",
+   "speaker": null,
+   "en": "Damn, I lost them...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_LOST_01_02#0",
+   "speaker": null,
+   "en": "Damn, they got away...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_LOST_01_03#0",
+   "speaker": null,
+   "en": "You're quick!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_LOST_01_04#0",
+   "speaker": null,
+   "en": "They disappeared!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_LOST_01_05#0",
+   "speaker": null,
+   "en": "Damn, where did you go!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_NML_01_01#0",
+   "speaker": null,
+   "en": "None shall pass... I'd[n]like to see them try.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_NML_01_02#0",
+   "speaker": null,
+   "en": "Can't the king just[n]give me a reward? Just[n]one person is fine...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_NML_01_03#0",
+   "speaker": null,
+   "en": "I hope someone comes[n]soon... My sword's thirsty[n]for blood...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_NML_01_04#0",
+   "speaker": null,
+   "en": "Wait, is this the right patrol[n]route...? Eh, it's fine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_NML_01_05#0",
+   "speaker": null,
+   "en": "If you wish to pass,[n]you'll have to defeat ME!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_NML_01_06#0",
+   "speaker": null,
+   "en": "Man, the king gets to do[n]whatever he wants... I'm[n]jealous.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_NML_01_07#0",
+   "speaker": null,
+   "en": "T&A? No way. It's[n]all about the legs...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_NML_01_08#0",
+   "speaker": null,
+   "en": "I'm not scared, 'cause[n]I am strong~ ♪ Does not[n]matter who comes along~ ♪",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_NML_01_09#0",
+   "speaker": null,
+   "en": "Feels like I'm being[n]watched... Nah, no way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_NML_01_10#0",
+   "speaker": null,
+   "en": "When I get promoted...[n]I'll wear golden armor[n]and push people around...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_ALT_01_01#0",
+   "speaker": null,
+   "en": "Dammit, where are[n]they...? Where could[n]they be hiding...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_ALT_01_02#0",
+   "speaker": null,
+   "en": "Hmph, thieves... I'll find[n]you no matter what...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_ALT_01_03#0",
+   "speaker": null,
+   "en": "Rats, creating more[n]work for me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_ALT_01_04#0",
+   "speaker": null,
+   "en": "Thieves... I'll get you[n]right when I see you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_ALT_01_05#0",
+   "speaker": null,
+   "en": "It's no use hiding![n]Get out here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_ALT_01_06#0",
+   "speaker": null,
+   "en": "I-I'll punch you to death![n]I'll slash you with my sword!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_ALT_01_07#0",
+   "speaker": null,
+   "en": "Not even a tiny cat[n]will get through me,[n]as long as I live...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_ALT_01_08#0",
+   "speaker": null,
+   "en": "I won't forgive intruders.[n]I'll lock them up[n]and torture them...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_ALT_01_09#0",
+   "speaker": null,
+   "en": "I'll hurt them... and no one[n]is allowed to complain.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_ALT_01_10#0",
+   "speaker": null,
+   "en": "If it's a man, I'll kill him.[n]If it's a woman, well...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_REPORT_01_01#0",
+   "speaker": null,
+   "en": "Why you little... I must[n]report this at once!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_REPORT_01_02#0",
+   "speaker": null,
+   "en": "I must report this[n]to the king at once.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_REPORT_01_03#0",
+   "speaker": null,
+   "en": "I must tell the[n]king at once.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_REPORT_01_04#0",
+   "speaker": null,
+   "en": "Just you watch![n]I'll have security[n]tightened around here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_REPORT_01_05#0",
+   "speaker": null,
+   "en": "Dammit! I'm gonna tell on[n]you to King Kamoshida!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_01_#0",
+   "speaker": null,
+   "en": "I'll never give this[n]to anyone... Never...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_01__2#0",
+   "speaker": null,
+   "en": "I'll defend this no[n]matter what! Or my[n]boss will get mad...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_01__3#0",
+   "speaker": null,
+   "en": "I hope nothing[n]happens while I[n]have this with me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_01__4#0",
+   "speaker": null,
+   "en": "*sigh* I wish they wouldn't[n]entrust valuables to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_01__5#0",
+   "speaker": null,
+   "en": "What if someone comes[n]after this...? Will they[n]let me go if I give it up?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_01#0",
+   "speaker": null,
+   "en": "King! Intruder alert![n]Requesting backup!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_01_2#0",
+   "speaker": null,
+   "en": "I've found an intruder![n]What should I do,[n]King Kamoshida!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_01_3#0",
+   "speaker": null,
+   "en": "King, I've discovered[n]the thieves! Please[n]give me orders!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_01_4#0",
+   "speaker": null,
+   "en": "Thieves! Thieves![n]King Kamoshida,[n]what shall I do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_01_5#0",
+   "speaker": null,
+   "en": "King, I am sorry![n]I've let an intruder go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_01_0#0",
+   "speaker": null,
+   "en": "Man, the king gets[n]to do whatever he[n]wants... I'm jealous.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_01_0_2#0",
+   "speaker": null,
+   "en": "Can't the king just[n]give me a reward?[n]Just one person is fine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_01_0_3#0",
+   "speaker": null,
+   "en": "T&A? No way. It's[n]all about the legs...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_01_0_4#0",
+   "speaker": null,
+   "en": "I feel sorry for the slaves.[n]I couldn't deal with that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_01_0_5#0",
+   "speaker": null,
+   "en": "I'm gonna get promoted[n]and have my own[n]castle someday!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_01_0_6#0",
+   "speaker": null,
+   "en": "I hope someone comes[n]soon... My sword's[n]thirsty for blood...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_01_0_7#0",
+   "speaker": null,
+   "en": "You should hide your[n]valuables in a vase[n]or a dresser...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_01_0_8#0",
+   "speaker": null,
+   "en": "*sigh* Sword and shield[n]so heavy... I wanna get[n]rid of them. But I can't...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_01_0_9#0",
+   "speaker": null,
+   "en": "I-I'll punch you to death![n]I'll slash you with my sword!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_01_1#0",
+   "speaker": null,
+   "en": "Not even a tiny cat[n]will get through me,[n]as long as I live...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_01_1_2#0",
+   "speaker": null,
+   "en": "Wait, is this the[n]right patrol route...?[n]Eh, it's fine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_01_1_3#0",
+   "speaker": null,
+   "en": "I won't forgive intruders.[n]I'll lock them up[n]and torture them...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_01_1_4#0",
+   "speaker": null,
+   "en": "I'll hurt them... and no[n]one is allowed to complain.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_01_1_5#0",
+   "speaker": null,
+   "en": "Man, am I bored. I[n]wish they'd put me[n]back on torture duty...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_01_1_6#0",
+   "speaker": null,
+   "en": "Feels like I'm[n]being watched...[n]Nah, no way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_01_1_7#0",
+   "speaker": null,
+   "en": "When I get promoted...[n]I'll wear golden armor[n]and push people around...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_01_1_8#0",
+   "speaker": null,
+   "en": "I'm not scared, 'cause[n]I am strong~ ♪ Does not[n]matter who comes along~ ♪",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_01_1_9#0",
+   "speaker": null,
+   "en": "I smell strangers...[n]I'll have to be on alert...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_01_1_10#0",
+   "speaker": null,
+   "en": "You're all idiots[n]for defying the king...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_01_2#0",
+   "speaker": null,
+   "en": "If it's a man, I'll kill him.[n]If it's a woman, well...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_FIND_02_01#0",
+   "speaker": null,
+   "en": "Hmph, intruders!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_FIND_02_02#0",
+   "speaker": null,
+   "en": "You're intruders,[n]aren't you!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_FIND_02_03#0",
+   "speaker": null,
+   "en": "Intruders, huh...[n]I'll make you bathe[n]in your own blood!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_FIND_02_04#0",
+   "speaker": null,
+   "en": "Hmph, it seems[n]some thieves made[n]their way in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_FIND_02_05#0",
+   "speaker": null,
+   "en": "Gah, there's[n]a rat here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_PURSUE_02_01#0",
+   "speaker": null,
+   "en": "They're here! The[n]intruders are here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_PURSUE_02_02#0",
+   "speaker": null,
+   "en": "The intruders are here![n]Call for backup!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_PURSUE_02_03#0",
+   "speaker": null,
+   "en": "You thieves...[n]Don't struggle[n]when I tie you up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_PURSUE_02_04#0",
+   "speaker": null,
+   "en": "Hahaha, there's no[n]use running away!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_PURSUE_02_05#0",
+   "speaker": null,
+   "en": "I must eradicate these[n]rats as soon as possible!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_LOST_02_01#0",
+   "speaker": null,
+   "en": "Hmph, I lost them...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_LOST_02_02#0",
+   "speaker": null,
+   "en": "Hmph, they got away...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_LOST_02_03#0",
+   "speaker": null,
+   "en": "Ah, so they got away...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_LOST_02_04#0",
+   "speaker": null,
+   "en": "Ah, it seems they're[n]fast runners...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_LOST_02_05#0",
+   "speaker": null,
+   "en": "My, what quick rats...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_NML_02_01#0",
+   "speaker": null,
+   "en": "Hm, nothing[n]unusual here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_NML_02_02#0",
+   "speaker": null,
+   "en": "Nothing out of the[n]ordinary, for now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_NML_02_03#0",
+   "speaker": null,
+   "en": "Nothing wrong here.[n]Time to move on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_NML_02_04#0",
+   "speaker": null,
+   "en": "Do I really have[n]to patrol...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_NML_02_05#0",
+   "speaker": null,
+   "en": "I wish they'd leave[n]patrolling to the[n]general soldiers...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_NML_02_06#0",
+   "speaker": null,
+   "en": "My, the king sure[n]likes making me work...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_NML_02_07#0",
+   "speaker": null,
+   "en": "Hehehe... After this, it's[n]torture time. I'm excited.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_NML_02_08#0",
+   "speaker": null,
+   "en": "Defying the king? Those[n]fools are such a hassle...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_NML_02_09#0",
+   "speaker": null,
+   "en": "No matter what...[n]King Kamoshida will[n]always be in power!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_NML_02_10#0",
+   "speaker": null,
+   "en": "Sword-stabbin' dreams~ ♪[n]Love hearin' screams~ ♪",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_ALT_02_01#0",
+   "speaker": null,
+   "en": "Now, where are[n]you hiding?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_ALT_02_02#0",
+   "speaker": null,
+   "en": "Show yourselves! It's for[n]your own good, heheh.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_ALT_02_03#0",
+   "speaker": null,
+   "en": "Why not give up and[n]show yourself already?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_ALT_02_04#0",
+   "speaker": null,
+   "en": "You've got three seconds![n]Three... two... one...![n]...Well, I tried.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_ALT_02_05#0",
+   "speaker": null,
+   "en": "I wish King Kamoshida[n]would wear full armor...[n]Not just that cape...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_ALT_02_06#0",
+   "speaker": null,
+   "en": "The princess is rather[n]feisty, but... that's[n]her charm, hehehe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_ALT_02_07#0",
+   "speaker": null,
+   "en": "The soldiers are well[n]prepared, but... they[n]may not be perfect.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_ALT_02_08#0",
+   "speaker": null,
+   "en": "Should thieves be[n]captured, or killed...?[n]Hehe... Killed, of course!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_ALT_02_09#0",
+   "speaker": null,
+   "en": "I'd give my life for[n]King Kamoshida[n]and his princess...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_ALT_02_10#0",
+   "speaker": null,
+   "en": "Hehehe... I love how[n]they come in just to[n]get murdered...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_REPORT_02_01#0",
+   "speaker": null,
+   "en": "You cannot leave! I must[n]report this immediately!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_REPORT_02_02#0",
+   "speaker": null,
+   "en": "I must tell the king[n]to tighten security!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_REPORT_02_03#0",
+   "speaker": null,
+   "en": "Let's retreat and await[n]the king's orders!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_REPORT_02_04#0",
+   "speaker": null,
+   "en": "I'll tell the king![n]He's gonna get serious!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_REPORT_02_05#0",
+   "speaker": null,
+   "en": "I will report this[n]to the king at once!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_02_#0",
+   "speaker": null,
+   "en": "Hmph, why don't you[n]just try to take it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_02__2#0",
+   "speaker": null,
+   "en": "I will protect this[n]no matter what.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_02__3#0",
+   "speaker": null,
+   "en": "Keeping this safe is[n]a huge responsibility.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_02__4#0",
+   "speaker": null,
+   "en": "I'll defeat anyone who[n]tries to take this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_02__5#0",
+   "speaker": null,
+   "en": "They're really trusting[n]me to protect this...[n]I've come a long way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_02#0",
+   "speaker": null,
+   "en": "King! Intruder alert![n]Requesting backup!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_02_2#0",
+   "speaker": null,
+   "en": "I've found an intruder![n]What should I do,[n]King Kamoshida!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_02_3#0",
+   "speaker": null,
+   "en": "King, I've discovered[n]the thieves! Please[n]give me orders!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_02_4#0",
+   "speaker": null,
+   "en": "Thieves! Thieves![n]King Kamoshida,[n]what shall I do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_02_5#0",
+   "speaker": null,
+   "en": "King, I am sorry![n]I've let an intruder go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_02_0#0",
+   "speaker": null,
+   "en": "My, the king sure[n]likes making me work...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_02_0_2#0",
+   "speaker": null,
+   "en": "The princess is always[n]beautiful, no matter[n]when I see her...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_02_0_3#0",
+   "speaker": null,
+   "en": "Hehehe... After this, it's[n]torture time. I'm excited.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_02_0_4#0",
+   "speaker": null,
+   "en": "I've come a long way[n]to get to this position...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_02_0_5#0",
+   "speaker": null,
+   "en": "Hey. You're there,[n]aren't you...?[n]...I guess not.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_02_0_6#0",
+   "speaker": null,
+   "en": "Whoops, my armor's dirty...[n]I'll have to polish it later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_02_0_7#0",
+   "speaker": null,
+   "en": "You'll pay for creating[n]unnecessary work for me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_02_0_8#0",
+   "speaker": null,
+   "en": "Defying the king? Those[n]fools are such a hassle...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_02_0_9#0",
+   "speaker": null,
+   "en": "The princess is rather[n]feisty, but... that's[n]her charm, hehehe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_02_1#0",
+   "speaker": null,
+   "en": "The soldiers are well[n]prepared, but... they[n]may not be perfect.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_02_1_2#0",
+   "speaker": null,
+   "en": "Did I hear something?[n]Ugh, my clanging footsteps[n]are covering it up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_02_1_3#0",
+   "speaker": null,
+   "en": "Should thieves be[n]captured, or killed...?[n]Hehe... Killed, of course!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_02_1_4#0",
+   "speaker": null,
+   "en": "I'd give my life for[n]King Kamoshida[n]and his princess...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_02_1_5#0",
+   "speaker": null,
+   "en": "Hehehe... I love how[n]they come in just to[n]get murdered...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_02_1_6#0",
+   "speaker": null,
+   "en": "No matter what...[n]King Kamoshida will[n]always be in power!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_02_1_7#0",
+   "speaker": null,
+   "en": "Sword-stabbin' dreams~ ♪[n]Love hearin' screams~ ♪",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_02_1_8#0",
+   "speaker": null,
+   "en": "I doubt my subordinates[n]would be defeated, but...[n]well, they ARE wimpy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_02_1_9#0",
+   "speaker": null,
+   "en": "I wish King Kamoshida[n]would wear full armor...[n]Not just that cape...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_02_1_10#0",
+   "speaker": null,
+   "en": "This armor isn't[n]just for show!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML01_MNLG_FREE_02_2#0",
+   "speaker": null,
+   "en": "Gah, my sword's cracked...[n]I should ask the king[n]for a replacement.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

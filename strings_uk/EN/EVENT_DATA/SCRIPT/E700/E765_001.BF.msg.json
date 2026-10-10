@@ -1,0 +1,796 @@
+{
+ "file": "EN/EVENT_DATA/SCRIPT/E700/E765_001.BF",
+ "entries": [
+  {
+   "id": "MSG_004_0_0#0",
+   "speaker": "Maid",
+   "en": "Welcome home, Master! I'm Clara,[n]your clumsy maid!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_005_0_0#0",
+   "speaker": "Clara",
+   "en": "Oh? Master, is this your first time here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Use1ST#0",
+   "speaker": null,
+   "en": "Yes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Use1ST#1",
+   "speaker": null,
+   "en": "Embarrassingly so.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_005_0_1#0",
+   "speaker": "Clara",
+   "en": "I'm so happy you came! This is your[n]home, so please relax!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_005_0_2#0",
+   "speaker": "Clara",
+   "en": "*giggle* That's how everyone feels[n]their first time! This is your home,[n]so please relax!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_011_5_0_0#0",
+   "speaker": "Clara",
+   "en": "Oopsies! I almost forgot to inform my[n]first time visitor! How clumsy of me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_011_5_0_0#1",
+   "speaker": "Clara",
+   "en": "We offer stamp cards here! If you collect[n][clr 2]20 stamps[clr 27], you can get a [clr 2]special item[clr 27] from[n]us!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_011_5_0_0#2",
+   "speaker": "Clara",
+   "en": "You get one stamp [clr 2]per 1000 yen[clr 27] spent![n]It would make me sooo happy if you'd[n]collect a lot of them!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_011_5_0_0#3",
+   "speaker": "Clara",
+   "en": "So, what will your order be?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_011_5_0_1#0",
+   "speaker": "Clara",
+   "en": "So, what will your order be?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_012_0_0#0",
+   "speaker": "Clara",
+   "en": "*giggle* Welcome home, Master!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_012_5_0_0#0",
+   "speaker": "Clara",
+   "en": "So, what will your order be?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_coffee_0_0#0",
+   "speaker": "Clara",
+   "en": "A Relaxing Coffee, correct!? As you wish,[n]Master.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_tea_0_0#0",
+   "speaker": "Clara",
+   "en": "An Oo-hot Tea, correct!? As you wish,[n]Master.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_pancake_0_0#0",
+   "speaker": "Clara",
+   "en": "A Love★Pancake, correct!? As you wish,[n]Master.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_omelet_0_0#0",
+   "speaker": "Clara",
+   "en": "A Sincere Omelette, correct!? As you wish,[n]Master.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NO_MONEY_0_0#0",
+   "speaker": "Morgana",
+   "en": "Hey, you don't have enough money.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_015_0_0#0",
+   "speaker": "Clara",
+   "en": "I'm sorry to keep you waiting. Here is[n]your Relaxing Coffee!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_015_0_0#1",
+   "speaker": "Clara",
+   "en": "I made it with all my love, so please[n]enjoy it while it's still hot!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_016_0_0#0",
+   "speaker": "Morgana",
+   "en": "That was way too fast. It's probably[n]instant coffee...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_017_0_0#0",
+   "speaker": "Clara",
+   "en": "I'm sorry to keep you waiting. Here is[n]your Oo-hot Tea!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_0_0#0",
+   "speaker": "Morgana",
+   "en": "Hold on... You ordered coffee,[n]didn't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_0_0#0",
+   "speaker": "Clara",
+   "en": "T-That's not right!? I'm sorry... I'm such[n]a klutz!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_0_0#1",
+   "speaker": "Clara",
+   "en": "But, but, I made it with all my love...[n]Is this not okay, Master?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_020_0_0#0",
+   "speaker": null,
+   "en": "It's fine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_020_0_0#1",
+   "speaker": null,
+   "en": "Go fix it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_021_0_0#0",
+   "speaker": "Clara",
+   "en": "Yay! Thank you! I'm so glad you're such[n]a kind Master!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_022_0_0#0",
+   "speaker": "Morgana",
+   "en": "I feel like you're going too easy on her...[n]but I guess you learned how to be[n]tolerant.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_023_0_0#0",
+   "speaker": "Clara",
+   "en": "Awww... Very well, Master...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_024_0_0#0",
+   "speaker": "Morgana",
+   "en": "Being strict even to a cute maid, huh?[n]You have some real [stIcon 3][clr 26][stLabel 3][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_032_0_0#0",
+   "speaker": "Clara",
+   "en": "I'm sorry to keep you waiting. Here is[n]your Oo-hot Tea!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_032_0_0#1",
+   "speaker": "Clara",
+   "en": "It really is hot, so please be careful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_033_0_0#0",
+   "speaker": "Morgana",
+   "en": "Um, is this really tea? It doesn't have[n]a scent...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_034_0_0#0",
+   "speaker": "Clara",
+   "en": "I'm sorry to keep you waiting. Here is[n]your Relaxing Coffee!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_035_0_0#0",
+   "speaker": "Morgana",
+   "en": "Huh? Hold on a sec. Didn't you order[n]tea?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_036_0_0#0",
+   "speaker": "Clara",
+   "en": "T-That's not right!? I'm sorry... I made[n]a mistake.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_036_0_0#1",
+   "speaker": "Clara",
+   "en": "But, it has the same amount of love[n]in it... Is it really not okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_037_0_0#0",
+   "speaker": null,
+   "en": "It's fine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_037_0_0#1",
+   "speaker": null,
+   "en": "Go fix it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_038_0_0#0",
+   "speaker": "Clara",
+   "en": "Really!? My master has a heart of gold!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_039_0_0#0",
+   "speaker": "Morgana",
+   "en": "I feel like you're going too easy on her...[n]but I guess you learned how to be[n]tolerant.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_040_0_0#0",
+   "speaker": "Clara",
+   "en": "Hrngh... Very well, Master...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_041_0_0#0",
+   "speaker": "Morgana",
+   "en": "Being strict even to a cute maid, huh?[n]You have some real [stIcon 3][clr 26][stLabel 3][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_050_0_0#0",
+   "speaker": "Clara",
+   "en": "Here it is! Now I will top it with some[n]love cream!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051_0_0#0",
+   "speaker": "Clara",
+   "en": "Thank you for waiting! It's topped with[n]plenty of love!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051_0_0#1",
+   "speaker": "Clara",
+   "en": "Please enjoy it while it's still hot.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_052_0_0#0",
+   "speaker": "Clara",
+   "en": "Oh no! I put too much love on it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_0_0#0",
+   "speaker": "Morgana",
+   "en": "She should've noticed that while[n]she was making it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_054_0_0#0",
+   "speaker": "Clara",
+   "en": "U-Um... Master... Th-This shows how[n]high my love goes!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_054_0_0#1",
+   "speaker": "Clara",
+   "en": "So... you'll forgive me, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_055_0_0#0",
+   "speaker": null,
+   "en": "It's fine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_055_0_0#1",
+   "speaker": null,
+   "en": "Go fix it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_056_0_0#0",
+   "speaker": "Clara",
+   "en": "*sniff* I've never met a person as kind[n]as my master!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_057_0_0#0",
+   "speaker": "Morgana",
+   "en": "I feel like you're going too easy on her...[n]but I guess you learned how to be[n]tolerant.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_058_0_0#0",
+   "speaker": "Clara",
+   "en": "Y-Yes... I'll go make it again!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_059_0_0#0",
+   "speaker": "Morgana",
+   "en": "Being strict even to a cute maid, huh?[n]You have some real [stIcon 3][clr 26][stLabel 3][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_068_0_0#0",
+   "speaker": "Clara",
+   "en": "Now I will start drawing with sincerity[n]on your omelette!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_069_0_0#0",
+   "speaker": "Clara",
+   "en": "*giggle* I drew my feelings!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_069_0_0#1",
+   "speaker": "Clara",
+   "en": "Now, please enjoy it before it gets cold!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_070_0_0#0",
+   "speaker": "Clara",
+   "en": "How is it!? Isn't that excellent[n]penmanship?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_070_0_0#1",
+   "speaker": "Clara",
+   "en": "Now, please enjoy it before it gets cold!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Omelet_Failed01#0",
+   "speaker": "Clara",
+   "en": "Oh nooo! I messed up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Omelet_Failed01#1",
+   "speaker": "Clara",
+   "en": "I-I'm sorry, Master! I was trying to write[n]\"retributive justice\"...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Omelet_Failed02#0",
+   "speaker": "Clara",
+   "en": "Oh nooo! I messed up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Omelet_Failed02#1",
+   "speaker": "Clara",
+   "en": "I-I'm sorry, Master! I was trying to write[n]\"earth-shattering\"...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Omelet_Failed03#0",
+   "speaker": "Clara",
+   "en": "Oh nooo! I messed up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Omelet_Failed03#1",
+   "speaker": "Clara",
+   "en": "I-I'm sorry, Master! I was trying to write[n]\"the impermanence of all worldly[n]matter\"...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Omelet_Failed04#0",
+   "speaker": "Clara",
+   "en": "Oh nooo! I messed up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Omelet_Failed04#1",
+   "speaker": "Clara",
+   "en": "I-I'm sorry, Master! I was trying to write[n]\"the pain of separation\"...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_072_0_0#0",
+   "speaker": "Morgana",
+   "en": "Why did she pick... that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_073_0_0#0",
+   "speaker": "Clara",
+   "en": "M-Master... I tried my best. Would you[n]please forgive me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_074_0_0#0",
+   "speaker": null,
+   "en": "It's fine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_074_0_0#1",
+   "speaker": null,
+   "en": "Go fix it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_075_0_0#0",
+   "speaker": "Clara",
+   "en": "Wow! Master, you're so kind! You're[n]amazing! I love you so much!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_075_0_0#1",
+   "speaker": "Clara",
+   "en": "I'll be your humble maid for the rest of[n]eternity!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_076_0_0#0",
+   "speaker": "Morgana",
+   "en": "I feel like you're going too easy on her...[n]but I guess you learned how to be[n]tolerant.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_077_0_0#0",
+   "speaker": "Clara",
+   "en": "Ahh, I knew it... Very well, Master...[n]*sniff*",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_078_0_0#0",
+   "speaker": "Morgana",
+   "en": "Being strict even to a cute maid, huh?[n]You have some real [stIcon 3][clr 26][stLabel 3][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARA_UP_MORU#0",
+   "speaker": "Morgana",
+   "en": "*sigh* That sure was... unique.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARA_UP_MORU#1",
+   "speaker": "Morgana",
+   "en": "Either way, I think you learned how to[n]get people to like you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_025_0_0#0",
+   "speaker": "Clara",
+   "en": "*giggle* Thank you very much, Master.[n]It was really fun talking with you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_026_5_0_0#0",
+   "speaker": "Clara",
+   "en": "Master, I'm sorry for messing up today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_027_0_0#0",
+   "speaker": "Clara",
+   "en": "But it really is nice having as kind[n]a master as you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_028_0_0#0",
+   "speaker": "Clara",
+   "en": "But your strictness showed how reliable[n]you really are, Master!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_090_0_0_0#0",
+   "speaker": "Clara",
+   "en": "Since this is your first visit,[n]I'll give you a stamp card!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_1stInfo_UseNormalDay#0",
+   "speaker": "Clara",
+   "en": "Every [clr 2]Saturday[clr 27] is our Maid Day, where[n]you can get four additional stamps! I[n]highly recommend you visit us then!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_1stInfo_UseStampDay#0",
+   "speaker": "Clara",
+   "en": "[clr 2]Saturday[clr 27] is our Maid Day, where you can[n]get four additional stamps! It's a great[n]bargain!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_090_0_1_0#0",
+   "speaker": "Clara",
+   "en": "Today, you get [clr 2][var 0][clr 27], leaving you[n]with a total of [clr 2][var 1][clr 27] stamps.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_090_0_1_0_Special#0",
+   "speaker": "Clara",
+   "en": "Here's a new card for you! Time to start[n]from [clr 2][var 1][clr 27]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_090_0_1_1#0",
+   "speaker": "Clara",
+   "en": "Today is Maid Day, so you get extra stamps![n]And since you get four additional stamps...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_090_0_1_1#1",
+   "speaker": "Clara",
+   "en": "Today, you get [clr 2][var 0][clr 27], leaving you[n]with a total of [clr 2][var 1][clr 27] stamps.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_090_1_0_0#0",
+   "speaker": "Clara",
+   "en": "...Oh my! Wow, Master!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_090_1_0_0#1",
+   "speaker": "Clara",
+   "en": "You filled up the stamp card![n]You get a special item today!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_090_2_0_0#0",
+   "speaker": "Clara",
+   "en": "I-I'm sooo sorry! I didn't realize[n]the mistake I was making...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_090_2_0_0#1",
+   "speaker": "Clara",
+   "en": "Would you please forgive me, Master?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_090_2_0#0",
+   "speaker": null,
+   "en": "Forgive her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_090_2_0#1",
+   "speaker": null,
+   "en": "Scold her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_090_3_0_1#0",
+   "speaker": "Clara",
+   "en": "Waaaah! Your forgiving heart[n]is making me tear up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_090_3_0_2#0",
+   "speaker": "Morgana",
+   "en": "She's so over the top... And[n]you're being too nice to her.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_090_3_1_1#0",
+   "speaker": "Clara",
+   "en": "*shriek* So scaryyy! I'll be[n]more careful from now on!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_090_3_1_2#0",
+   "speaker": "Morgana",
+   "en": "That was some solid scolding right there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_090_4_0_1#0",
+   "speaker": "Morgana",
+   "en": "This is... just an assortment of their items.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_090_4_0_2#0",
+   "speaker": "Clara",
+   "en": "Aaand, you get to take a picture with[n]me! Don't get too excited now, mister!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_090_5_0_1#0",
+   "speaker": "Clara",
+   "en": "Yay! You filled up the stamp card! You'll[n]get a special item on your next visit!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_090_5_0_1#1",
+   "speaker": "Clara",
+   "en": "It's free, okay? So please visit again soon!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_090_6_0_1#0",
+   "speaker": "Clara",
+   "en": "...Um, here's the picture.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_500_0_0#0",
+   "speaker": "Morgana",
+   "en": "Hey...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_500_0_0#1",
+   "speaker": "Morgana",
+   "en": "This is pretty overwhelming...[n]All the pink hurts my eyes...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_500_1_0#0",
+   "speaker": "Morgana",
+   "en": "Could it be that you're actually starting to[n]like this place?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_500_2_0#0",
+   "speaker": "Morgana",
+   "en": "I guess all that effort paid off. Sheesh,[n]you're basically a regular here now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_500_3_0#0",
+   "speaker": "Morgana",
+   "en": "Sheesh, you're basically a regular here[n]now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GetAfterKuraraPhoto#0",
+   "speaker": "Morgana",
+   "en": "You... really come here a lot now.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

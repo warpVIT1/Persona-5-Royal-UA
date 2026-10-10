@@ -1,0 +1,292 @@
+{
+ "file": "EN/BATTLE/EVENT/SCRIPT/02C9.BF",
+ "entries": [
+  {
+   "id": "MSG_BTL_START_000#0",
+   "speaker": "Shadow Aino",
+   "en": "I'll be the one to protect the snowballs![n]I won't let anyone stand in my way!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SYS_MSG#0",
+   "speaker": null,
+   "en": "By choosing the correct answers, you[n]will be able to change the target's heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_SYS_MSG#1",
+   "speaker": null,
+   "en": "Use the information you have obtained to[n]change the target's heart!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_DIA_BF__000_000#0",
+   "speaker": "Shadow Aino",
+   "en": "I won't lose! There's no way!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_DIA_BF__000_001#0",
+   "speaker": "Shadow Aino",
+   "en": "If I'm gone, who's going to protect all the[n]snowballs!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_FAILD#0",
+   "speaker": "Morgana",
+   "en": "Crap, we couldn't calm her down![n]We'll have to find a different way!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_START_000#0",
+   "speaker": "Shadow Aino",
+   "en": "Please! Stop it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_START_000#1",
+   "speaker": "Shadow Aino",
+   "en": "If I'm gone, there won't be anyone[n]protecting the snowballs!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_START_001#0",
+   "speaker": "Morgana",
+   "en": "Joker, it seems like there's something[n]going on with this one. Maybe we should[n]try talking to them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_START_001#1",
+   "speaker": "Morgana",
+   "en": "Okay, here's what we know about her.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_START_001#2",
+   "speaker": "Morgana",
+   "en": "She's calling the cats she catnapped[n]\"snowballs,\" the catnapped cats are[n]\"stressed out\"...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_START_001#3",
+   "speaker": "Morgana",
+   "en": "And lastly, \"the pet owners are giving up.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_000_000#0",
+   "speaker": "Shadow Aino",
+   "en": "All I want to do is protect the snowballs.[n]I have to protect them, I just HAVE TO[n]PROTECT THEM!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP01_000#0",
+   "speaker": null,
+   "en": "Just give up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP01_000#1",
+   "speaker": null,
+   "en": "Calm down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_002_000#0",
+   "speaker": "Shadow Aino",
+   "en": "There's no WAY I'll give up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_001_000#0",
+   "speaker": "Shadow Aino",
+   "en": "I am calm... Of course I'm calm...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_001_000#1",
+   "speaker": "Shadow Aino",
+   "en": "I need to stay calm for the snowballs.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_001_001#0",
+   "speaker": "Morgana",
+   "en": "What does she mean by snowballs?[n]That's so weird.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_001_001#1",
+   "speaker": "Morgana",
+   "en": "Are all cats snowballs!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP01_001_002#0",
+   "speaker": "Shadow Aino",
+   "en": "Snowballs are snowballs...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP02_000#0",
+   "speaker": null,
+   "en": "Are there a lot of snowballs?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP02_000#1",
+   "speaker": null,
+   "en": "Are they the cats you catnap?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_001_000#0",
+   "speaker": "Shadow Aino",
+   "en": "That's right... They're all snowballs. I have[n]to protect them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_002_000#0",
+   "speaker": "Shadow Aino",
+   "en": "I didn't catnap them... I'm protecting them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP02_001_001#0",
+   "speaker": "Shadow Aino",
+   "en": "As long as I protect them, the snowballs[n]will be happy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP03_000#0",
+   "speaker": null,
+   "en": "They're unhappy like this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP03_000#1",
+   "speaker": null,
+   "en": "The cats are stressed out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP03_000#2",
+   "speaker": null,
+   "en": "You don't seem happy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_002_000#0",
+   "speaker": "Shadow Aino",
+   "en": "I don't give a damn about my happiness![n]All that matters is keeping the snowballs[n]safe!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_001_000#0",
+   "speaker": "Shadow Aino",
+   "en": "W-Well that's...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_001_000#1",
+   "speaker": "Shadow Aino",
+   "en": "But if I don't keep an eye out for the[n]snowballs, they'll die too...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_001_001#0",
+   "speaker": "Morgana",
+   "en": "They'll die \"too\"?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_001_001#1",
+   "speaker": "Morgana",
+   "en": "So the real Snowball is already gone?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_001_002#0",
+   "speaker": "Morgana",
+   "en": "Okay, I think we've got this. She's[n]calm enough for us to talk to her now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_001_002#1",
+   "speaker": "Morgana",
+   "en": "Go for it, Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HOLDUP03_001_003#0",
+   "speaker": "Shadow Aino",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP04_000#0",
+   "speaker": null,
+   "en": "The cats want to go home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BTL_HOLDUP04_000#1",
+   "speaker": null,
+   "en": "Snowball is gone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_TALK_OFF#0",
+   "speaker": "Shadow Aino",
+   "en": "You can't talk to her!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_BTLEND_000_000#0",
+   "speaker": "Shadow Aino",
+   "en": "You're... right.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

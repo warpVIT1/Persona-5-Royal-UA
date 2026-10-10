@@ -1,0 +1,2777 @@
+{
+ "file": "EN/FIELD/NPC/CORP002.BF",
+ "entries": [
+  {
+   "id": "MSG_C02_BEGIN_D01_00#0",
+   "speaker": null,
+   "en": "She doesn't notice me... She must[n]be concentrating.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D01_50#0",
+   "speaker": "Serious-Looking Student",
+   "en": "Kamoshida-sensei locks himself away[n]after that prank with those \"Phantom[n]Thieves\"...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D01_50#1",
+   "speaker": "Serious-Looking Student",
+   "en": "And on top of that, we have mid-terms[n]coming up after the break. I wonder how[n]next semester is going to go...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D03_10_00#0",
+   "speaker": "Makoto",
+   "en": "I'll be counting on you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D03_30_00#0",
+   "speaker": "Makoto",
+   "en": "Do you remember Kaneshiro's deadline?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D03_30_00#1",
+   "speaker": "Makoto",
+   "en": "The month is almost over. We don't[n]have time to waste.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D03_30_00#2",
+   "speaker": "Makoto",
+   "en": "So, shall we go today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D03_40_00#0",
+   "speaker": "Makoto",
+   "en": "How many days have passed us by?[n]We don't have much more time until[n]the deadline.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D03_40_00#1",
+   "speaker": "Makoto",
+   "en": "We're heading in today, yes?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D03_50_00#0",
+   "speaker": "Makoto",
+   "en": "We've secured our route to the[n]Treasure, so all we have to do now[n]is steal it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D03_50_00#1",
+   "speaker": "Makoto",
+   "en": "Along those lines, shall we send the[n]calling card today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_ACTION_D03_00_00#0",
+   "speaker": null,
+   "en": "Of course.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_ACTION_D03_00_00#1",
+   "speaker": null,
+   "en": "Let me think about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D03_00_00#0",
+   "speaker": "Makoto",
+   "en": "Then let's gather up at the hideout.[n]I'll contact the others, and we'll all[n]meet you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D03_31_00#0",
+   "speaker": "Makoto",
+   "en": "But...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D03_31_00#1",
+   "speaker": "Makoto",
+   "en": "No, I should leave you to your own[n]methodology.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D03_31_00#2",
+   "speaker": "Makoto",
+   "en": "I'm sorry for being so restless...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_ACTION_D03_32_00#0",
+   "speaker": null,
+   "en": "Don't stress yourself out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_ACTION_D03_32_00#1",
+   "speaker": null,
+   "en": "Let's hang out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D03_33_00#0",
+   "speaker": "Makoto",
+   "en": "You're right... Maybe I should try[n]to take my mind off of it all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D03_33_00#1",
+   "speaker": "Makoto",
+   "en": "Call me when you're ready to act.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D03_35_00#0",
+   "speaker": "Makoto",
+   "en": "...I would prefer to focus on[n]Kaneshiro at the moment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D03_35_00#1",
+   "speaker": "Makoto",
+   "en": "Furthermore, and I don't mean this[n]in a rude way, I'm not sure spending[n]time with you is worthwhile for me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D03_35_00#2",
+   "speaker": "Makoto",
+   "en": "If you have the time to spare,[n]maybe you should study instead.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D03_80_00#0",
+   "speaker": "Morgana",
+   "en": "It looks like you'll need to[n]be pretty smart if you want[n]to invite Makoto out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D03_80_00#1",
+   "speaker": "Morgana",
+   "en": "On top of that, she's too worried[n]about Kaneshiro right now. You[n]probably shouldn't bother her.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D03_41_00#0",
+   "speaker": "Makoto",
+   "en": "We don't have time to be messing[n]around. Let's secure our route.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D03_51_00#0",
+   "speaker": "Makoto",
+   "en": "I want to give Kaneshiro[n]what's coming to him...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D03_51_00#1",
+   "speaker": "Makoto",
+   "en": "We're going to meet at the hideout[n]before we send the calling card, yes?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D03_51_00#2",
+   "speaker": "Makoto",
+   "en": "I'll be waiting until then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D03_60_00#0",
+   "speaker": "Makoto",
+   "en": "All we can do now is wait until Kaneshiro's[n]change of heart becomes clear to us.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D00_10_00#0",
+   "speaker": "Makoto",
+   "en": "Oh, [fName]-kun. What is it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D00_20_00#0",
+   "speaker": "Makoto",
+   "en": "It's almost time for exams.[n]How are your studies going?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D00_20_00#1",
+   "speaker": "Makoto",
+   "en": "If you'd like, I could go over the[n]questions from last year with you.[n]Would you like to study together?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_ACTION_D00_20_01#0",
+   "speaker": null,
+   "en": "That sounds good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_ACTION_D00_20_01#1",
+   "speaker": null,
+   "en": "Let me think about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D00_20_02#0",
+   "speaker": "Makoto",
+   "en": "Great. Let's head to the library then,[n]shall we?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D00_21_02#0",
+   "speaker": "Makoto",
+   "en": "I suppose sometimes it's easier[n]to focus if you study alone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D00_21_02#1",
+   "speaker": "Makoto",
+   "en": "Either way, I'd be glad to help[n]if there's anything you're having[n]trouble with. I'm always available.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D00_30_00#0",
+   "speaker": "Makoto",
+   "en": "Oh, [fName]-kun. Have you decided[n]on our plans for today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_ACTION_D00_31_00#0",
+   "speaker": null,
+   "en": "Let's hang out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_ACTION_D00_31_00#1",
+   "speaker": null,
+   "en": "Let's go to the Metaverse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_ACTION_D00_31_00#2",
+   "speaker": null,
+   "en": "Not yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D00_31_10#0",
+   "speaker": "Makoto",
+   "en": "*sigh* Now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D00_31_10#1",
+   "speaker": "Makoto",
+   "en": "I guess if that's really what you want[n]to do... Is this a part of your grand[n]strategy?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_ACTION_D00_31_10#0",
+   "speaker": null,
+   "en": "That's exactly right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_ACTION_D00_31_10#1",
+   "speaker": null,
+   "en": "I dunno.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D00_31_11#0",
+   "speaker": "Makoto",
+   "en": "Hm. I suppose it wouldn't hurt[n]to take things a little slower.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D00_31_12#0",
+   "speaker": "Makoto",
+   "en": "U-Um, isn't a leader supposed to[n]be a little more organized?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D00_31_12#1",
+   "speaker": "Makoto",
+   "en": "You need to be ready for anything,[n]both in the real world and in[n]the Metaverse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D00_40_00#0",
+   "speaker": "Makoto",
+   "en": "We should hurry up and secure our[n]infiltration route.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D00_40_00#1",
+   "speaker": "Makoto",
+   "en": "That's our plan for today then?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D00_50_00#0",
+   "speaker": "Makoto",
+   "en": "We have our infiltration route, so[n]we can send the calling card now.[n]Shall we meet at the hideout?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_ACTION_D00_99_00#0",
+   "speaker": null,
+   "en": "Let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_ACTION_D00_99_00#1",
+   "speaker": null,
+   "en": "I haven't decided.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D00_99_00#0",
+   "speaker": "Makoto",
+   "en": "Okay, then I'll get the others.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D00_31_00#0",
+   "speaker": "Makoto",
+   "en": "We still have some time until the[n]deadline, but we should try to keep[n]a detailed plan for our operation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D00_31_00#1",
+   "speaker": "Makoto",
+   "en": "Let me know once you've figured[n]out our next course of action.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D00_41_00#0",
+   "speaker": "Makoto",
+   "en": "Our lack of planning means we've[n]yet to even secure a route...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D00_41_00#1",
+   "speaker": "Makoto",
+   "en": "Be sure to let us know when[n]you want to hold a meeting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D00_51_00#0",
+   "speaker": "Makoto",
+   "en": "We've secured our infiltration route,[n]so the sooner we send the calling card,[n]the better.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D00_51_00#1",
+   "speaker": "Makoto",
+   "en": "Please let us know once you're ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D00_60_00#0",
+   "speaker": "Makoto",
+   "en": "All we can do now is wait...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D06_50_00#0",
+   "speaker": "Makoto",
+   "en": "The only thing left for us to do is send[n]the calling card, but there's something[n]I'd like to discuss first.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D06_50_00#1",
+   "speaker": "Makoto",
+   "en": "Do you think we could gather at[n]the hideout?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_ACTION_D06_50_00#0",
+   "speaker": null,
+   "en": "Sounds good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_ACTION_D06_50_00#1",
+   "speaker": null,
+   "en": "Not right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D06_50_00#0",
+   "speaker": "Makoto",
+   "en": "Then I'll contact the others.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D06_51_00#0",
+   "speaker": "Makoto",
+   "en": "Is there something else you would[n]rather do, [fName]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D06_51_00#1",
+   "speaker": "Makoto",
+   "en": "I understand. You can determine[n]the timing of our meeting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D06_50_01#0",
+   "speaker": "Makoto",
+   "en": "All we can do now is wait until[n]the designated day of the heist.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D06_50_01#1",
+   "speaker": "Makoto",
+   "en": "Sis...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D06_50_01#2",
+   "speaker": "Makoto",
+   "en": "No, I shouldn't let myself worry[n]about it... We'll just have to wait[n]and see for the time being...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D07_10_00#0",
+   "speaker": "Makoto",
+   "en": "Oh, [fName]-kun. What is it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D07_20_00#0",
+   "speaker": "Makoto",
+   "en": "It's almost time for exams. How are[n]your studies going?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D07_20_00#1",
+   "speaker": "Makoto",
+   "en": "If you'd like, I could go over[n]the questions from last year with you.[n]Would you like to study together?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_ACTION_D07_20_01#0",
+   "speaker": null,
+   "en": "That sounds good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_ACTION_D07_20_01#1",
+   "speaker": null,
+   "en": "Let me think about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D07_20_02#0",
+   "speaker": "Makoto",
+   "en": "Great. Shall we head to the diner?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D07_21_02#0",
+   "speaker": "Makoto",
+   "en": "Are you sure!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D07_21_02#1",
+   "speaker": "Makoto",
+   "en": "Sorry, I don't mean to pry. Just let me[n]know if you feel up to it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D07_30_00#0",
+   "speaker": "Makoto",
+   "en": "Oh, [fName]-kun. Have you decided on[n]our plans for today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_ACTION_D07_31_00#0",
+   "speaker": null,
+   "en": "Let's hang out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_ACTION_D07_31_00#1",
+   "speaker": null,
+   "en": "Let's go to the Metaverse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_ACTION_D07_31_00#2",
+   "speaker": null,
+   "en": "Not yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D07_31_10#0",
+   "speaker": "Makoto",
+   "en": "*sigh* Now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D07_31_10#1",
+   "speaker": "Makoto",
+   "en": "Isn't it dangerous for you to be outside?[n]They might find you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_ACTION_D07_31_10#0",
+   "speaker": null,
+   "en": "It'll be fine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_ACTION_D07_31_10#1",
+   "speaker": null,
+   "en": "I dunno.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D07_31_11#0",
+   "speaker": "Makoto",
+   "en": "Hm... Well, I suppose it should be okay[n]as long as you keep a low profile...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D07_31_12#0",
+   "speaker": "Makoto",
+   "en": "Um, you realize how horrible it would[n]be if you were caught, yes?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D07_31_12#1",
+   "speaker": "Makoto",
+   "en": "If you're not interested in heading to[n]the Metaverse today, you should return to[n]the safety of your home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D07_40_00#0",
+   "speaker": "Makoto",
+   "en": "We should hurry up and secure our[n]infiltration route.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D07_40_00#1",
+   "speaker": "Makoto",
+   "en": "Naturally, that means we're going[n]to head in today, yes?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D07_50_00#0",
+   "speaker": "Makoto",
+   "en": "We have an infiltration route, so we can[n]now send the calling card. Shall we[n]gather at the hideout?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_ACTION_D07_99_00#0",
+   "speaker": null,
+   "en": "Let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_ACTION_D07_99_00#1",
+   "speaker": null,
+   "en": "I haven't decided.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D07_99_00#0",
+   "speaker": "Makoto",
+   "en": "Okay, then I'll get the others.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D07_31_00#0",
+   "speaker": "Makoto",
+   "en": "We still have time to spare, but if[n]we aren't going to the Metaverse,[n]you should head straight home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D07_31_00#1",
+   "speaker": "Makoto",
+   "en": "It would be astronomically bad if[n]they spotted you outside, yes?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D07_41_00#0",
+   "speaker": "Makoto",
+   "en": "If we don't have a more detailed[n]plan, we'll never be able to secure[n]a proper infiltration route...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D07_41_00#1",
+   "speaker": "Makoto",
+   "en": "Be sure to let us know when[n]you want to hold a meeting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D07_51_00#0",
+   "speaker": "Makoto",
+   "en": "We've secured our infiltration route,[n]so the sooner we send the calling card,[n]the better.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D07_51_00#1",
+   "speaker": "Makoto",
+   "en": "Please let us know once you're ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D07_60_00#0",
+   "speaker": "Makoto",
+   "en": "Is the world going to truly become[n]a better place now? It still doesn't[n]quite feel real to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D10_50_00#0",
+   "speaker": "Makoto",
+   "en": "We secured our route, so all we need[n]to do is wait for the day of the heist.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D10_50_00#1",
+   "speaker": "Makoto",
+   "en": "Have you decided on today's plan?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_ACTION_D10_50_00#0",
+   "speaker": null,
+   "en": "Let's hang out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_ACTION_D10_50_00#1",
+   "speaker": null,
+   "en": "I have not.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D10_50_10#0",
+   "speaker": "Makoto",
+   "en": "It's always important to be ready, but[n]we do need to take breaks now and[n]then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D10_50_11#0",
+   "speaker": "Makoto",
+   "en": "We still have some time until the[n]deadline, but we should try to keep[n]a detailed plan for our operation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D10_50_11#1",
+   "speaker": "Makoto",
+   "en": "Let me know once you've figured[n]out our next course of action.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D10_50_12#0",
+   "speaker": "Makoto",
+   "en": "Oh, [fName]-kun. What is it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D10_50_13#0",
+   "speaker": "Makoto",
+   "en": "Do you remember the deadline that[n]Dr. Maruki gave you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D10_50_13#1",
+   "speaker": "Makoto",
+   "en": "His actualization's spreading to a lot of[n]people... We should hurry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D10_50_13#2",
+   "speaker": "Makoto",
+   "en": "[fName], should we gather at the[n]hideout?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D10_50_14#0",
+   "speaker": null,
+   "en": "Let's hang out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D10_50_14#1",
+   "speaker": null,
+   "en": "We'll meet up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D10_50_14#2",
+   "speaker": null,
+   "en": "I haven't decided yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D10_50_15#0",
+   "speaker": "Makoto",
+   "en": "Wh—really!? I mean, I certainly[n]understand not wanting to rush, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D10_50_16#0",
+   "speaker": null,
+   "en": "Let's take it easy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D10_50_16#1",
+   "speaker": null,
+   "en": "Let me think about it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D10_50_17#0",
+   "speaker": "Makoto",
+   "en": "...Okay, I understand. I suppose it is[n]important to relax once in a while.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D10_50_18#0",
+   "speaker": "Makoto",
+   "en": "...Then let me know once you've decided.[n]I'll wait for your decision.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D10_50_19#0",
+   "speaker": "Makoto",
+   "en": "Okay, then I'll get the others.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D10_50_20#0",
+   "speaker": "Makoto",
+   "en": "Maybe this world is safe. Maybe here,[n]nobody can ever be hurt...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D10_50_20#1",
+   "speaker": "Makoto",
+   "en": "But if all you do is run away from pain,[n]you never learn to cope with it. And[n]then you can't do anything on your own.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D10_50_20#2",
+   "speaker": "Makoto",
+   "en": "That's why we need to put an end[n]to this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D10_50_20#3",
+   "speaker": "Makoto",
+   "en": "We don't have much time until the[n]deadline... Let's go to the Palace today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D10_50_21#0",
+   "speaker": null,
+   "en": "Of course.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D10_50_21#1",
+   "speaker": null,
+   "en": "I'm not sure yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D10_50_22#0",
+   "speaker": "Makoto",
+   "en": "Okay, then I'll get the others.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D10_50_23#0",
+   "speaker": "Makoto",
+   "en": "Well, I suppose we do have time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D10_50_23#1",
+   "speaker": "Makoto",
+   "en": "We can't relax for too much longer, so[n]if you do decide to go, let me know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D10_50_24#0",
+   "speaker": "Makoto",
+   "en": "If we don't have a detailed plan,[n]we'll never be able to secure[n]a proper infiltration route...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_ACTION_D10_50_24#1",
+   "speaker": "Makoto",
+   "en": "Let me know when we have a solid[n]plan. Someone has to stop Dr. Maruki.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_COOPNG_00#0",
+   "speaker": "Makoto",
+   "en": "I have some work I need to finish[n]up for the student council today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_COOPNG_00#1",
+   "speaker": "Makoto",
+   "en": "Please let me know if anything[n]important comes up, though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_PREOPEN_01_01#0",
+   "speaker": "Makoto",
+   "en": "Do you need something on the[n]third floor? Have you come to[n]study in the library, perhaps?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_PREOPEN_01_02#0",
+   "speaker": "Makoto",
+   "en": "Do you have business at school today?[n]Are you hoping to study in the library,[n]perhaps?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_PREOPEN_01_03#0",
+   "speaker": "Makoto",
+   "en": "Do you have business at school today?[n]If you're looking to study, it would be[n]safer to do it at home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_PREOPEN_01_02#0",
+   "speaker": null,
+   "en": "I came to see you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_PREOPEN_01_02#1",
+   "speaker": null,
+   "en": "Let's go into the city.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_PREOPEN_02_00#0",
+   "speaker": "Makoto",
+   "en": "Hm...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_PREOPEN_02_00#1",
+   "speaker": "Makoto",
+   "en": "I don't mean to be rude, but I'm[n]not sure spending time with you[n]is worthwhile to me right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_PREOPEN_02_00#2",
+   "speaker": "Makoto",
+   "en": "Perhaps you should focus on your[n]studies if you have free time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C02_PREOPEN_02_01#0",
+   "speaker": null,
+   "en": "Makoto doesn't seem interested...[n]Maybe I could invite her out if my[n][stIcon 0][clr 26][stLabel 0][clr 27] were [clr 26][stLvLabel 0 3][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_PREOPEN_02_02#0",
+   "speaker": "Morgana",
+   "en": "It looks like you need to improve[n]academically before Makoto will[n]want to spend time with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_PREOPEN_02_02#1",
+   "speaker": "Morgana",
+   "en": "You should probably try to keep up[n]with your studies at all times.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_PREOPEN_03_00#0",
+   "speaker": "Makoto",
+   "en": "It seems your studies have paid off.[n]Have you been working hard?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C02_PREOPEN_03_01#0",
+   "speaker": null,
+   "en": "It seems I have enough [stIcon 0][clr 26][stLabel 0][clr 27][n]to invite Makoto out...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C02_PREOPEN_03_01#1",
+   "speaker": null,
+   "en": "This may be a good opportunity[n]to deepen my bond with her...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_PREOPEN_03_02#0",
+   "speaker": "Makoto",
+   "en": "There's something I want to ask[n]you. If it doesn't get in the way[n]of your studies, that is.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_PREOPEN_03_SHIDO#0",
+   "speaker": "Morgana",
+   "en": "Nobody thinks you're alive at[n]this point, so it should be okay[n]as long as you're careful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_PREOPEN_03_SHIDO#1",
+   "speaker": "Morgana",
+   "en": "So, what's it going to be? Do you[n]want to hang out with Makoto?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_PREOPEN_03_03#0",
+   "speaker": null,
+   "en": "I can lend an ear.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_PREOPEN_03_03#1",
+   "speaker": null,
+   "en": "Maybe later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_PREOPEN_03_04#0",
+   "speaker": "Makoto",
+   "en": "Thank you. Now then, let's find[n]somewhere better to talk.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_PREOPEN_03_04#1",
+   "speaker": "Makoto",
+   "en": "The courtyard should do.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_PREOPEN_03_04_01#0",
+   "speaker": "Makoto",
+   "en": "Thank you. Now then, let's find[n]somewhere better to talk.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_PREOPEN_03_04_01#1",
+   "speaker": "Makoto",
+   "en": "The courtyard should do. We can[n]go in through the back entrance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_PREOPEN_03_05#0",
+   "speaker": "Makoto",
+   "en": "I see. Well, come speak to me[n]when you have a little more time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_COOP_00_00#0",
+   "speaker": "Makoto",
+   "en": "Ah, right. Do you think you could[n]come help me broaden my views?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_COOP_01_00#0",
+   "speaker": "Makoto",
+   "en": "Um, about our trip to the red-light[n]district. Do you have time today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_COOP_02_00#0",
+   "speaker": "Makoto",
+   "en": "Oh, right. I wanted to ask you[n]a favor about that student we[n]saw in the red-light district.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_COOP_03_00#0",
+   "speaker": "Makoto",
+   "en": "...If you have time, there's something[n]I'd like to talk to you about.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_COOP_04_00#0",
+   "speaker": "Makoto",
+   "en": "...Um, if you're available, I'd[n]like to talk to you about Eiko.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_COOP_05_00#0",
+   "speaker": "Makoto",
+   "en": "Oh, so I spoke with Eiko and she said[n]her boyfriend was okay with the[n]double date idea.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_COOP_05_00#1",
+   "speaker": "Makoto",
+   "en": "She asked me to show her your picture[n]though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_COOP_05_00#2",
+   "speaker": "Makoto",
+   "en": "Apparently, um... she thinks[n]you look a little lame...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_COOP_05_00#3",
+   "speaker": "Makoto",
+   "en": "She told me that my boyfriend isn't[n]in the same league as her Tsukasa...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_COOP_05_01#0",
+   "speaker": "Makoto",
+   "en": "I was going to disagree, but you[n]are a bit disheveled at times...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_COOP_05_01#1",
+   "speaker": "Makoto",
+   "en": "Hm, this is a problem...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C02_COOP_05_02#0",
+   "speaker": null,
+   "en": "I think my [stIcon 1][clr 26][stLabel 1][clr 27] needs to[n]be at least [clr 26][stLvLabel 1 5][clr 27] if I[n]want Eiko to accept me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_COOP_05_03#0",
+   "speaker": "Makoto",
+   "en": "Eiko... I need to meet her boyfriend[n]somehow and make sure he's not[n]scamming her...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_COOP_05_04#0",
+   "speaker": "Makoto",
+   "en": "But I think she'll change her mind once[n]she sees you in person.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_COOP_05_04#1",
+   "speaker": "Makoto",
+   "en": "Don't worry, I'll back you up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C02_COOP_05_05#0",
+   "speaker": null,
+   "en": "I think Eiko will approve of me[n]with my current [stIcon 1][clr 26][stLabel 1][clr 27]...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_C02_COOP_05_05#1",
+   "speaker": null,
+   "en": "Should I act as Makoto's boyfriend[n]and go to meet with Eiko...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_COOP_06_00#0",
+   "speaker": "Makoto",
+   "en": "...Hey, do you have some time to[n]talk about Eiko's boyfriend?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_COOP_07_00#0",
+   "speaker": "Makoto",
+   "en": "Oh, Eiko said she had a favor to ask,[n]but I've been pushing it off...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_COOP_07_00#1",
+   "speaker": "Makoto",
+   "en": "Do you think you could maybe come[n]with me to see her?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_COOP_08_00#0",
+   "speaker": "Makoto",
+   "en": "Um, I need some help with a matter[n]involving Eiko. Are you free?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_COOP_09_00#0",
+   "speaker": "Makoto",
+   "en": "Um, are you free right now? I want[n]to talk to you about something.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_COOP_09_01#0",
+   "speaker": "Makoto",
+   "en": "Um... do you have time right now?[n]There's something I'd like to speak[n]with you about.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_COOP_10_00#0",
+   "speaker": "Makoto",
+   "en": "Hey, if you're free, would you like[n]to spend some time together?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_COOP_10_01#0",
+   "speaker": "Makoto",
+   "en": "Um... if it's all right with you,[n]could we... be together?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_DOUZOKUSEI#0",
+   "speaker": null,
+   "en": "I feel I can become closer with[n]Makoto thanks to the [var 2][n]Persona [clr 1][var 5][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANKUP_OK#0",
+   "speaker": null,
+   "en": "I feel like my bond with Makoto[n]will grow stronger soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANKUP_NG#0",
+   "speaker": null,
+   "en": "I don't think my bond with[n]Makoto will deepen just yet...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANK_MAX_00#0",
+   "speaker": null,
+   "en": "I have a solid bond[n]with Makoto...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANK_MAX_01#0",
+   "speaker": null,
+   "en": "I have a special bond[n]with Makoto...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_SPOT_CHECK#0",
+   "speaker": "Morgana",
+   "en": "Hey, didn't you discover a new[n]hangout spot the other day? You[n]should try going there sometime.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_DUNGEON#0",
+   "speaker": "Morgana",
+   "en": "It's good to take a break every so often.[n]Want to hang out with Makoto?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_DAY#0",
+   "speaker": "Morgana",
+   "en": "So, what's it going to be? Do you want[n]to hang out with Makoto?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_SHIDOU#0",
+   "speaker": "Morgana",
+   "en": "Nobody thinks you're alive at[n]this point, so it should be okay[n]as long as you're careful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_SHIDOU#1",
+   "speaker": "Morgana",
+   "en": "So, what's it going to be? Do you[n]want to hang out with Makoto?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK#0",
+   "speaker": null,
+   "en": "Hang out with her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK#1",
+   "speaker": null,
+   "en": "Check bond with Makoto",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK#2",
+   "speaker": null,
+   "en": "Decline",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_NOT_RANKU#0",
+   "speaker": null,
+   "en": "Hang out with her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_NOT_RANKU#1",
+   "speaker": null,
+   "en": "Check bond with Makoto",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_NOT_RANKU#2",
+   "speaker": null,
+   "en": "Decline",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_01_00#0",
+   "speaker": "Makoto",
+   "en": "Great. Let's meet up after we change[n]out of our uniforms.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_01_01#0",
+   "speaker": "Makoto",
+   "en": "All right, let's take the train there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_02_00#0",
+   "speaker": "Makoto",
+   "en": "Thank you. It will be nice to have you[n]there when I talk to her.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_02_00#1",
+   "speaker": "Makoto",
+   "en": "Wait for me in the student council[n]room. I'll call her in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_02_01#0",
+   "speaker": "Makoto",
+   "en": "Thank you. It will be nice to have[n]you there when I talk to her.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_02_01#1",
+   "speaker": "Makoto",
+   "en": "Let's do it in the student council room.[n]I'll leave the back entrance open for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_03_00#0",
+   "speaker": "Makoto",
+   "en": "It feels like I just don't know anything[n]anymore...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_03_00#1",
+   "speaker": "Makoto",
+   "en": "Um, let's talk more inside.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_03_01#0",
+   "speaker": "Makoto",
+   "en": "It feels like I just don't know anything[n]anymore...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_03_01#1",
+   "speaker": "Makoto",
+   "en": "Um, let's talk more in the student[n]council room. We can get in through[n]the back entrance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_04_00#0",
+   "speaker": "Makoto",
+   "en": "Thank goodness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_04_00#1",
+   "speaker": "Makoto",
+   "en": "I have a small favor to ask you...[n]Let's get a drink before we talk.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_04_01#0",
+   "speaker": "Makoto",
+   "en": "I have a small favor to ask you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_04_01#1",
+   "speaker": "Makoto",
+   "en": "Let's get a drink before we talk.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_04_01#2",
+   "speaker": "Makoto",
+   "en": "Oh, and we can take the back entrance[n]into the school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_05_00#0",
+   "speaker": "Makoto",
+   "en": "Thank goodness. I'll contact Eiko.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_05_00#1",
+   "speaker": "Makoto",
+   "en": "Let's meet at the diner,[n]as I mentioned before.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_06_00#0",
+   "speaker": "Makoto",
+   "en": "Thanks. Well then, let's step inside[n]the student council room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_06_01#0",
+   "speaker": "Makoto",
+   "en": "Thank you. Let's meet in the student[n]council room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_06_01#1",
+   "speaker": "Makoto",
+   "en": "We can take the back entrance into[n]school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_07_00#0",
+   "speaker": "Makoto",
+   "en": "Thank you. It is reassuring to know[n]you'll be there with me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_07_00#1",
+   "speaker": "Makoto",
+   "en": "She's waiting over at Big Bang Burger.[n]Let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_08_00#0",
+   "speaker": "Makoto",
+   "en": "Thank you. It'll be nice to have you[n]with me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_08_00#1",
+   "speaker": "Makoto",
+   "en": "Um, I want to dig up some dirt[n]regarding Eiko's boyfriend Tsukasa[n]before we confront her about him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_08_00#2",
+   "speaker": "Makoto",
+   "en": "I was thinking of asking around[n]the red-light district for info.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_08_00#3",
+   "speaker": "Makoto",
+   "en": "Shall we head over there?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_09_00#0",
+   "speaker": "Makoto",
+   "en": "Thank goodness. Is it okay if we study[n]while we talk?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_09_01#0",
+   "speaker": "Makoto",
+   "en": "Thank goodness. In that case, um...[n]how about your place...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_COOP_ESCAPE#0",
+   "speaker": "Morgana",
+   "en": "Well, I'm gonna walk around.[n]Let me know when you're ready[n]to leave.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_SPOT_00_00#0",
+   "speaker": "Makoto",
+   "en": "What are you doing today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_SPOT_00_01#0",
+   "speaker": null,
+   "en": "Let's go somewhere fun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_SPOT_00_01#1",
+   "speaker": null,
+   "en": "Let's go to my room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_SPOT_00_01#2",
+   "speaker": null,
+   "en": "Let's broaden our views.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_SPOT_00_10#0",
+   "speaker": "Makoto",
+   "en": "That sounds good to me. Where are[n]we going to go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_SPOT_00_10#1",
+   "speaker": "Makoto",
+   "en": "Somewhere stimulating would[n]be nice. Perhaps a place I've[n]never been to before...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_MYROOM_00_00#0",
+   "speaker": "Makoto",
+   "en": "Your room...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_00_00#0",
+   "speaker": "Makoto",
+   "en": "In that case, let's go to Shibuya.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_10_00#0",
+   "speaker": "Makoto",
+   "en": "In that case, I'll have you come to[n]Shibuya with me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_10_01#0",
+   "speaker": "Makoto",
+   "en": "Okay... Let's take a detour on our way[n]home...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BEGIN_D10_REV#0",
+   "speaker": "Makoto",
+   "en": "Oh, [fName]. You're here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_COOP_10_00_REV#0",
+   "speaker": "Makoto",
+   "en": "Well... could I borrow a little bit of[n]your time?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_COOP_10_00_REV#1",
+   "speaker": "Makoto",
+   "en": "...There's something I need to tell you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANK_MAX__REV#0",
+   "speaker": null,
+   "en": "It sounds like Makoto has something[n]important to tell me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_3RD_REV#0",
+   "speaker": "Morgana",
+   "en": "Looks like Makoto has something to say...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COOP_CHECK_3RD_REV#1",
+   "speaker": "Morgana",
+   "en": "So, what's it going to be? Do you[n]want to hang out with Makoto?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_REV#0",
+   "speaker": null,
+   "en": "Hang out with her",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_REV#1",
+   "speaker": null,
+   "en": "Check bond with Makoto",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_COOP_CHECK_REV#2",
+   "speaker": null,
+   "en": "Decline",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_YES_10_00_REV#0",
+   "speaker": "Makoto",
+   "en": "Thank you. Let's get going then...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MORGANA_COOP_ESCAPE_#0",
+   "speaker": "Morgana",
+   "en": "Okay, then I'll take my leave... I'm[n]leaving Lady Ann to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_COOP_CANCEL_REV#0",
+   "speaker": "Makoto",
+   "en": "Okay, I understand.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_COOP_CANCEL_REV#1",
+   "speaker": "Makoto",
+   "en": "I see. Well, come talk to me when you[n]have a little more time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_EVOLUTION_WAIT#0",
+   "speaker": "Makoto",
+   "en": "There's something on my mind...[n]Once things settle down, can we talk?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_EVOLUTION_WAIT#1",
+   "speaker": "Makoto",
+   "en": "Feel free to contact me in case of[n]emergency though. I'll gladly come.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_KANDA#0",
+   "speaker": null,
+   "en": "You can now go to [clr 2]Kanda[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINJUKU#0",
+   "speaker": null,
+   "en": "You can now go to [clr 2]Shinjuku[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_AKIHABARA#0",
+   "speaker": null,
+   "en": "You can now go to [clr 2]Akihabara[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_AKIHABARA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_INOKASHIRA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Inokashira Park[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_INOKASHIRA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_OGIKUBO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ogikubo Ramen[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_OGIKUBO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy eating ramen[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ODAIBA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Odaiba Seaside Park[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ODAIBA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like such parks to[n]hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_UENO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ueno Museum[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_UENO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy art museums[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TSUKISHIMA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Tsukishima Monja[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TSUKISHIMA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy eating monjayaki[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_HARAJUKU#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Harajuku Takenoko Street[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_HARAJUKU#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy Takenoko Street[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TYUKAGAI#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Motomachi Chinatown[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TYUKAGAI#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MAIHAMA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Maihama Destinyland[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MAIHAMA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ASAKUSA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Asakusa[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ASAKUSA#1",
+   "speaker": null,
+   "en": "You can also invite people who may[n]enjoy the Skytree or Nakamise Street[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_IKEBUKURO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ikebukuro Planetarium[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_IKEBUKURO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MEIJIJINGU#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Meiji Shrine[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MEIJIJINGU#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MEIJIJINGU#2",
+   "speaker": null,
+   "en": "Furthermore, you can go by[n]yourself to pay homage to[n]the shrine if you wish.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SUIDOUBASH#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Suidobashi Dome Town[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SUIDOUBASH#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHIBUYA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Shibuya Wilton Hotel[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHIBUYA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_GINZA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ginza Sushi Bar[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_GINZA#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may enjoy eating expensive sushi[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_JINBOCHO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Jinbocho Book Town[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_JINBOCHO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_JINBOCHO#2",
+   "speaker": null,
+   "en": "Furthermore, you can go by[n]yourself for some shopping[n]if you so desire.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ICHIGAYA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ichigaya Fishing Pond[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ICHIGAYA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy fishing to[n]hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ICHIGAYA#2",
+   "speaker": null,
+   "en": "Furthermore, you can go by[n]yourself and try your hand at[n]fishing if you so choose.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINAGAWA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Shinagawa Aquarium[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINAGAWA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy the aquarium[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_NAKANO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Nakano Commerce Building District[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_NAKANO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy that location[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_COOP_CANCEL_00#0",
+   "speaker": "Makoto",
+   "en": "Oh, okay. I'll see you later then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_0621_ANN_AND_MAKOTO_#0",
+   "speaker": "Makoto",
+   "en": "Oh, [fName]. I was just getting to[n]know Takamaki-sa... well, Ann.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_0621_ANN_AND_MAKOTO__2#0",
+   "speaker": "Makoto",
+   "en": "Oh, are we supposed to meet up soon?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_0621_ANN_AND_MAKOTO_#0",
+   "speaker": null,
+   "en": "It's time to meet up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_0621_ANN_AND_MAKOTO_#1",
+   "speaker": null,
+   "en": "I haven't decided yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_0621_ANN_AND_MAKOTO__3#0",
+   "speaker": "Makoto",
+   "en": "Okay.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_0621_ANN_AND_MAKOTO__3#1",
+   "speaker": "Makoto",
+   "en": "...Oh, I must've missed a call from[n]a student council member.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_0621_ANN_AND_MAKOTO__3#2",
+   "speaker": "Makoto",
+   "en": "I'll head to the hideout once I return[n]this call. Sorry Ann, could you head[n]over there without me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_0621_ANN_AND_MAKOTO__4#0",
+   "speaker": "Ann",
+   "en": "Okay.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_0621_ANN_AND_MAKOTO__4#1",
+   "speaker": "Ann",
+   "en": "Oh, I'm going to use the restroom first,[n]so you and Mona can go on first!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_0621_ANN_AND_MAKOTO__5#0",
+   "speaker": "Makoto",
+   "en": "Okay, shall we head over, Ann?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_0621_ANN_AND_MAKOTO__6#0",
+   "speaker": "Ann",
+   "en": "Mhm!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_0621_ANN_AND_MAKOTO__7#0",
+   "speaker": "Ann",
+   "en": "Okay, I'll be spending time with Makoto[n]today, so if we're meeting up, we'll head[n]there together! Right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_0621_ANN_AND_MAKOTO__8#0",
+   "speaker": "Makoto",
+   "en": "Mhm. Let us know if we decide to head[n]into the Palace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_00#0",
+   "speaker": "Makoto",
+   "en": "Sorry to bother you when you're so busy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_00#1",
+   "speaker": "Makoto",
+   "en": "But... I wanted to see you[n]before you left, [fName].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_00#2",
+   "speaker": "Makoto",
+   "en": "I... I'm going to study hard in[n]college, and work towards my dream[n]of becoming a police commissioner.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_BYEGREET_00_01#0",
+   "speaker": null,
+   "en": "I'll be rooting for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_BYEGREET_00_01#1",
+   "speaker": null,
+   "en": "Be sure to come visit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_BYEGREET_00_01#2",
+   "speaker": null,
+   "en": "Hope I can go to your school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_02#0",
+   "speaker": "Makoto",
+   "en": "Thank you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_03#0",
+   "speaker": "Makoto",
+   "en": "Of course. You'll have your hands[n]full dealing with me, I promise.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_04#0",
+   "speaker": "Makoto",
+   "en": "Really...? In that case, I'll be[n]sure to help with your studies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_05#0",
+   "speaker": "Makoto",
+   "en": "You know... I used to be a coward.[n]That's why I was so reliant on the[n]advice of the adults around me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_05#1",
+   "speaker": "Makoto",
+   "en": "I was too afraid to look at things[n]head on, to make decisions on my[n]own... but you set me straight.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_05#2",
+   "speaker": "Makoto",
+   "en": "You showed me how many different[n]experiences there are in the world...[n]and how I can take part in them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_05#3",
+   "speaker": "Makoto",
+   "en": "Now more than ever, I can look[n]at myself in the mirror and be[n]proud of the person I've become.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_05#4",
+   "speaker": "Makoto",
+   "en": "Oh, this is for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_06#0",
+   "speaker": "Makoto",
+   "en": "It's what first got me interested[n]in studying. You could even say[n]it made me who I am today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_06#1",
+   "speaker": "Makoto",
+   "en": "Well, I suppose that's a bit of[n]an exaggeration... but honestly,[n]it's more useful than it appears.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_06#2",
+   "speaker": "Makoto",
+   "en": "It should help you keep up with your[n]studies, even while we're apart...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_06#3",
+   "speaker": "Makoto",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_06#4",
+   "speaker": "Makoto",
+   "en": "...To tell you the truth, I was fine[n]on my own before I met you, but...[n]saying goodbye now is so hard.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_06#5",
+   "speaker": "Makoto",
+   "en": "...All of this is because you made[n]me stop acting like the typical[n]honor student... Thank you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_07#0",
+   "speaker": "Makoto",
+   "en": "...All of this is because you made me[n]stop acting like the typical honor[n]student... Thank you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_00#0",
+   "speaker": "Makoto",
+   "en": "Oh, [fName].[n]What a coincidence.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_00#1",
+   "speaker": "Makoto",
+   "en": "I was just getting some of my college[n]enrollment papers ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_00#2",
+   "speaker": "Makoto",
+   "en": "...I know we'll be at different schools[n]next year, but I want us both to keep[n]working hard.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_BYEGREET_01_01#0",
+   "speaker": null,
+   "en": "I'll be rooting for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_BYEGREET_01_01#1",
+   "speaker": null,
+   "en": "Hope I'll see everyone soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_BYEGREET_01_01#2",
+   "speaker": null,
+   "en": "Wonder if they'll miss me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_02#0",
+   "speaker": "Makoto",
+   "en": "Thanks.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_03#0",
+   "speaker": "Makoto",
+   "en": "I agree. I look forward to the time[n]when we'll all be together once more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_04#0",
+   "speaker": "Makoto",
+   "en": "As am I. It wasn't long ago that[n]we were meeting with the others[n]almost every single day...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_04#1",
+   "speaker": "Makoto",
+   "en": "Once our lives settle down a little,[n]we should try to meet up again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_05#0",
+   "speaker": "Makoto",
+   "en": "You know... I used to be a coward.[n]That's why I was so reliant on the[n]advice of the adults around me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_05#1",
+   "speaker": "Makoto",
+   "en": "I was too afraid to look at things[n]head on, to make decisions on my[n]own... but you set me straight.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_05#2",
+   "speaker": "Makoto",
+   "en": "The reason I now think of living[n]life like I want to is because you[n]showed me the world.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_05#3",
+   "speaker": "Makoto",
+   "en": "Now more than ever, I can look[n]at myself in the mirror and be[n]proud of the person I've become.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_05#4",
+   "speaker": "Makoto",
+   "en": "Oh, this is for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_06#0",
+   "speaker": "Makoto",
+   "en": "It's what first got me interested[n]in studying. You could even say[n]it made me who I am today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_06#1",
+   "speaker": "Makoto",
+   "en": "Well, I suppose that's a bit of[n]an exaggeration... but honestly,[n]it's more useful than it appears.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_06#2",
+   "speaker": "Makoto",
+   "en": "It should help you keep up with your[n]studies...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_06#3",
+   "speaker": "Makoto",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_06#4",
+   "speaker": "Makoto",
+   "en": "...Take care of yourself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_06#5",
+   "speaker": "Makoto",
+   "en": "You are a truly great person...[n]Thank you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_07#0",
+   "speaker": "Makoto",
+   "en": "You are a truly great person...[n]Thank you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_00_5#0",
+   "speaker": "Makoto",
+   "en": "Sorry to bother you when you're so busy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_00_5#1",
+   "speaker": "Makoto",
+   "en": "But... I wanted to see you before[n]you left, [fName].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_00_5#2",
+   "speaker": "Makoto",
+   "en": "It won't be long until I'm living alone,[n]too. We'll both have to get used to[n]the quiet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_BYEGREET_00_01_5#0",
+   "speaker": null,
+   "en": "You can do it, Makoto.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_BYEGREET_00_01_5#1",
+   "speaker": null,
+   "en": "We can see each other any time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_BYEGREET_00_01_5#2",
+   "speaker": null,
+   "en": "Sounds like an excuse to visit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_02_5#0",
+   "speaker": "Makoto",
+   "en": "Somehow it's easier to believe when[n]I hear you say it, [fName]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_03_5#0",
+   "speaker": "Makoto",
+   "en": "Really? Haha... I guess I have something[n]to look forward to, then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_04_5#0",
+   "speaker": "Makoto",
+   "en": "Huh!? I-I, uh... What's that supposed[n]to mean?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_04_5#1",
+   "speaker": "Makoto",
+   "en": "W-Well, I guess we won't have to tiptoe[n]around my sister or Boss... Drop by[n]whenever you like.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_05_5#0",
+   "speaker": "Makoto",
+   "en": "My sister and I are actually going to[n]go look at my new place soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_05_5#1",
+   "speaker": "Makoto",
+   "en": "A year ago, all this would have been[n]unthinkable for me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_05_5#2",
+   "speaker": "Makoto",
+   "en": "But nobody told me to do this.[n]It's a path I chose for myself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_05_5#3",
+   "speaker": "Makoto",
+   "en": "Of course, I'd never have gotten to this[n]point alone. You gave me the push[n]I needed, [fName]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_05_5#4",
+   "speaker": "Makoto",
+   "en": "Back then, I was just another honor[n]student. Meeting you helped me[n]change how I define myself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_06_5#0",
+   "speaker": "Makoto",
+   "en": "So I want you to have this. It helped me[n]learn to love studying.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_06_5#1",
+   "speaker": "Makoto",
+   "en": "One day, I'll be a police commissioner.[n]I know it won't be easy... but I also know[n]I'll never give up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_06_5#2",
+   "speaker": "Makoto",
+   "en": "By giving this to you, I want to prove[n]that. And... I hope it'll comfort you[n]when I can't be there myself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_06_5#3",
+   "speaker": "Makoto",
+   "en": "It doesn't matter if we're far apart.[n]Our hearts will be as close as ever...[n]and that'll help me keep fighting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_00_07_5#0",
+   "speaker": "Makoto",
+   "en": "It doesn't matter if we're far apart.[n]Our hearts will be as close as ever...[n]and that'll help me keep on fighting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_00_5#0",
+   "speaker": "Makoto",
+   "en": "Oh, [fName].[n]What a coincidence.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_00_5#1",
+   "speaker": "Makoto",
+   "en": "I was just getting some of my[n]college enrollment papers ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_00_5#2",
+   "speaker": "Makoto",
+   "en": "Soon enough, I'll be living on my[n]own too. New beginnings for both[n]of us, I suppose.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_BYEGREET_01_01_5#0",
+   "speaker": null,
+   "en": "I'll be rooting for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_BYEGREET_01_01_5#1",
+   "speaker": null,
+   "en": "Hope I'll see everyone soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C02_BYEGREET_01_01_5#2",
+   "speaker": null,
+   "en": "You gonna miss me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_02_5#0",
+   "speaker": "Makoto",
+   "en": "Thanks. You'd better take care of[n]yourself back home, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_03_5#0",
+   "speaker": "Makoto",
+   "en": "Of course. Maybe not right away,[n]but once things slow down, I'll[n]definitely make the time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_04_5#0",
+   "speaker": "Makoto",
+   "en": "A little. We've been seeing each[n]other so often, after all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_04_5#1",
+   "speaker": "Makoto",
+   "en": "But once things calm down, we can[n]all meet up again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_05_5#0",
+   "speaker": "Makoto",
+   "en": "My sister and I are actually going to[n]look at my new place soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_05_5#1",
+   "speaker": "Makoto",
+   "en": "A year ago, all this would have been[n]unthinkable for me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_05_5#2",
+   "speaker": "Makoto",
+   "en": "But nobody told me to do this.[n]It's a path I chose for myself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_05_5#3",
+   "speaker": "Makoto",
+   "en": "If I'd never met you, and stayed a[n]simple honor student... I'd never[n]have realized I had that choice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_06_5#0",
+   "speaker": "Makoto",
+   "en": "So I want you to have this. It helped me[n]learn to love studying.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_06_5#1",
+   "speaker": "Makoto",
+   "en": "One day, I'll be a police commissioner.[n]I know it won't be easy... but I also know[n]I'll never give up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_06_5#2",
+   "speaker": "Makoto",
+   "en": "By giving this to you, I want to prove[n]that. We fought back together, so[n]it seems only fair you keep it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_06_5#3",
+   "speaker": "Makoto",
+   "en": "I want you to know that you're an[n]irreplaceable comrade to me. Always[n]have been... always will be.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C02_BYEGREET_01_07_5#0",
+   "speaker": "Makoto",
+   "en": "I want you to know that you're an[n]irreplaceable comrade to me. Always[n]have been... always will be.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

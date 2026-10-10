@@ -1,0 +1,2532 @@
+{
+ "file": "EN/FIELD/NPC/FNPC002_003_01.BF",
+ "entries": [
+  {
+   "id": "KARIOKI_NPC_grt00#0",
+   "speaker": null,
+   "en": "Setting NPC girls who hold each other's[n]weaknesses",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KARIOKI_NPC_talk00#0",
+   "speaker": null,
+   "en": "Temp location for NPC girls who hold[n]each others' weaknesses",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_POLICEMAN_03_000_00#0",
+   "speaker": "Aloof Officer",
+   "en": "Sorry, but we're investigating inside.[n]Would you keep out of this area[n]for a while?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_POLICEMAN_03_000_00#1",
+   "speaker": "Aloof Officer",
+   "en": "I apologize if I've startled you.[n]I'd appreciate your cooperation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BUKATSU_NPC01_000_00#0",
+   "speaker": "Blond Student Athlete",
+   "en": "Well, speak of the devil. What'd you[n]guys do to Kamoshida?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BUKATSU_NPC01_001_00#0",
+   "speaker": "Blond Student Athlete",
+   "en": "Stop making trouble or you'll mess it[n]up for everyone. But I guess it won't[n]matter once you're expelled.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BUKATSU_NPC01_002_00#0",
+   "speaker": "Bossy Student Athlete",
+   "en": "You hang out with Sakamoto, right?[n]There's something I want you to tell[n]him for me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BUKATSU_NPC01_002_00#1",
+   "speaker": "Bossy Student Athlete",
+   "en": "\"You got what you deserve.\" You guys[n]getting kicked out of school is good[n]news to me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BUKATSU_NPC01_003_00#0",
+   "speaker": "Blond Student Athlete",
+   "en": "The track and field guys'll be glad[n]Sakamoto's gone too. It's all his fault[n]they got shut down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_001_0_0#0",
+   "speaker": "Ruthless Student",
+   "en": "Hey... You stole the questions to[n]the quiz from the teachers' office,[n]didn't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_001_1_0#0",
+   "speaker": "Timid-Looking Female Student",
+   "en": "O-Of course not... Why are you[n]saying that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_001_2_0#0",
+   "speaker": "Ruthless Student",
+   "en": "Wow. Now you're going to lie[n]about it? I could send this picture[n]to everyone as proof, you know?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_001_3_0#0",
+   "speaker": "Timid-Looking Female Student",
+   "en": "Oh, no... Please, don't do this.[n]You can't let the teachers know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_001_4_0#0",
+   "speaker": "Ruthless Student",
+   "en": "Fine. Then just do the same thing[n]for me. It's easy for you to steal[n]test questions, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_002_0_0#0",
+   "speaker": "Ruthless Student",
+   "en": "You get those test questions yet?[n]If you don't hurry, you won't make[n]it by break time, you know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_002_1_0#0",
+   "speaker": "Timid-Looking Female Student",
+   "en": "I couldn't... The teachers are being[n]extra careful because of the \"Phantom[n]Thieves\" or whatever.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_002_2_0#0",
+   "speaker": "Ruthless Student",
+   "en": "Huh? You couldn't steal the test[n]questions, just like you did in this[n]picture?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_002_2_0#1",
+   "speaker": "Ruthless Student",
+   "en": "Or did you want to confess to your[n]crimes already? \"I'm sorry, I'm a thief[n]and a cheater.\" Hmm?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_002_3_0#0",
+   "speaker": "Timid-Looking Female Student",
+   "en": "S-Stop! I know! Please, just give me[n]a little more time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_003_0_0#0",
+   "speaker": "Ruthless Student",
+   "en": "Finally, you got them. You really made[n]me wait till the very last minute.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_003_1_0#0",
+   "speaker": "Timid-Looking Female Student",
+   "en": "Are you happy? Now delete that picture,[n]like you said you would.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_003_2_0#0",
+   "speaker": "Ruthless Student",
+   "en": "What? No. You could still be useful to[n]me. Isn't that right, my little test thief?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_003_3_0#0",
+   "speaker": "Ruthless Student",
+   "en": "If anyone finds out what you did, you'll[n]be kicked out of school, just like Mr.[n]Kamoshida.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_003_4_0#0",
+   "speaker": "Timid-Looking Female Student",
+   "en": "No... I can't keep doing this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_004_0_0#0",
+   "speaker": "Ruthless Student",
+   "en": "You did good on the test, right?[n]I mean, you stole the questions,[n]so it should've been super easy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_004_1_0#0",
+   "speaker": "Timid-Looking Female Student",
+   "en": "Oh, come on. You used them too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_004_2_0#0",
+   "speaker": "Ruthless Student",
+   "en": "Pretending you're innocent? Think[n]you're better than me? People like[n]you make me mad.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_004_3_0#0",
+   "speaker": "Timid-Looking Female Student",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_004_4_0#0",
+   "speaker": "Ruthless Student",
+   "en": "Whatever. I'm counting on you for[n]the finals, too, Lil Miss Goody Two[n]Shoes, so don't let me down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_005_0_0#0",
+   "speaker": "Ruthless Student",
+   "en": "What are you doing, ditching[n]school? You still have to get me[n]the questions for the quiz, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_005_0_0#1",
+   "speaker": "Ruthless Student",
+   "en": "...What? Are you going to tell the[n]teacher?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_005_0_0#2",
+   "speaker": "Ruthless Student",
+   "en": "Hey, I'm the one who should be[n]saying that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_005_0_0#3",
+   "speaker": "Ruthless Student",
+   "en": "You better get to school if you[n]don't want everyone in school to[n]see that picture. You got that!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_051_0_0#0",
+   "speaker": "Ruthless Student",
+   "en": "I told you, you can't just ditch school[n]whenever you want. If my grades drop,[n]that's your fault.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_051_1_0#0",
+   "speaker": "Timid-Looking Female Student",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_051_2_0#0",
+   "speaker": "Ruthless Student",
+   "en": "Hey, you think I'm the bad one here?[n]Then why don't you just ask the[n]\"Phantom Thieves\" for help?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_051_3_0#0",
+   "speaker": "Ruthless Student",
+   "en": "But if anyone's gonna beg for mercy[n]in a press conference, it's you. I've got[n]proof right here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_051_4_0#0",
+   "speaker": "Timid-Looking Female Student",
+   "en": "I'm sorry... I'll do what you want...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_006_0_0#0",
+   "speaker": "Ruthless Student",
+   "en": "...Hey. You see this girl with black[n]hair around? The quiet one who's[n]looking down all the time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_YOWAMINIGIRI_007_0_0#0",
+   "speaker": null,
+   "en": "I don't know her.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_YOWAMINIGIRI_007_0_0#1",
+   "speaker": null,
+   "en": "What about her?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_YOWAMINIGIRI_007_0_0#2",
+   "speaker": null,
+   "en": "Maybe she's sick.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_006_1_0#0",
+   "speaker": "Ruthless Student",
+   "en": "Yeah? Then I guess it doesn't matter.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_006_2_0#0",
+   "speaker": "Ruthless Student",
+   "en": "Huh? Aw, forget it. It's got nothing to[n]do with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_006_3_0#0",
+   "speaker": "Ruthless Student",
+   "en": "Yeah? Well, if she was sick, then she[n]should've called me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_006_4_0#0",
+   "speaker": "Ruthless Student",
+   "en": "How could she not show up to school?[n]Gah, this is so frustrating!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_007_0_0#0",
+   "speaker": "Ruthless Student",
+   "en": "Hey, didn't I say not to ditch[n]school without you telling me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_007_0_0#1",
+   "speaker": "Ruthless Student",
+   "en": "You want everyone to see that[n]picture? Want me to post it online[n]like the Phantom Thieves do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_007_0_0#2",
+   "speaker": "Ruthless Student",
+   "en": "What? Blackmail? You're joking.[n]I'm just doing what's fair, you[n]know? Like the Phantom Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_007_0_0#3",
+   "speaker": "Ruthless Student",
+   "en": "The Phantom Thieves punish the[n]bad guys, and I'm basically just[n]doing the same thing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_008_0_0#0",
+   "speaker": "Ruthless Student",
+   "en": "What the hell...? It's so close to finals,[n]but she hasn't been showing up to[n]school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_008_1_0#0",
+   "speaker": "Talkative Female Student",
+   "en": "Oh, you didn't hear? That girl's on[n]medical leave. She's been resting[n]at home for a while now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_008_1_0#1",
+   "speaker": "Talkative Female Student",
+   "en": "She's been applying for college, so[n]I guess she stressed herself out by[n]studying way too much.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_008_2_0#0",
+   "speaker": "Ruthless Student",
+   "en": "You've got to be joking! For real?[n]I don't believe it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_009_0_0#0",
+   "speaker": "Ruthless Student",
+   "en": "I'm in such deep crap for the final[n]exams... It'll be her fault if I lose my[n]recommendation!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_009_0_0#1",
+   "speaker": "Ruthless Student",
+   "en": "No matter how hard I push her, she[n]still hasn't stolen the test questions.[n]She's even ignoring me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_009_0_0#2",
+   "speaker": "Ruthless Student",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_009_0_0#3",
+   "speaker": "Ruthless Student",
+   "en": "What'll I do? She didn't talk to the[n]police, did she? Maybe I should[n]delete that picture...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_010_0_0#0",
+   "speaker": "Ruthless Student",
+   "en": "...Huh. I guess you weren't as sick as[n]I thought you were. I never should[n]have worried.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_010_1_0#0",
+   "speaker": "Timid-Looking Female Student",
+   "en": "You were worried, huh? Well, your[n]recommendation's on the line, and[n]you'd be in trouble without me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_010_2_0#0",
+   "speaker": "Ruthless Student",
+   "en": "Whatever. I deleted that picture of[n]you stealing those test questions.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_010_2_0#1",
+   "speaker": "Ruthless Student",
+   "en": "Now you can't say I blackmailed you.[n]Too bad there's no proof.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_010_3_0#0",
+   "speaker": "Timid-Looking Female Student",
+   "en": "What? Oh, so you really deleted that[n]picture...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_011_0_0#0",
+   "speaker": "Timid-Looking Female Student",
+   "en": "Hello. So about my[n]request... How did it go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_011_0_0#1",
+   "speaker": "Timid-Looking Female Student",
+   "en": "...Really? Wow, you work fast.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_011_0_0#2",
+   "speaker": "Timid-Looking Female Student",
+   "en": "Right. I'll deposit the money.[n]Once you've received it, please[n]send me the images... Yes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_012_0_0#0",
+   "speaker": "Ruthless Student",
+   "en": "What do you want? I already told you[n]that I erased that photo of you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_012_1_0#0",
+   "speaker": "Timid-Looking Female Student",
+   "en": "...I thought that I should show you this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_012_2_0#0",
+   "speaker": "Ruthless Student",
+   "en": "Wh-Why do you have this!? How'd you[n]get this picture!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_012_3_0#0",
+   "speaker": "Timid-Looking Female Student",
+   "en": "Forget your recommendation. You[n]should be more worried about the[n]police if you're shoplifting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_012_3_0#1",
+   "speaker": "Timid-Looking Female Student",
+   "en": "You know how this works. If you don't[n]want people to know, then you know[n]what I want you to do.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_013_0_0#0",
+   "speaker": "Ruthless Student",
+   "en": "Look, I'm sorry! Please erase that picture![n]If they know I've been shoplifting, I...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_013_1_0#0",
+   "speaker": "Timid-Looking Female Student",
+   "en": "You started this. Now do you understand[n]how I feel? Getting blackmailed isn't so[n]fun, is it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_013_2_0#0",
+   "speaker": "Ruthless Student",
+   "en": "That's why I'm saying I'm sorry! I even[n]stole the test questions!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_013_3_0#0",
+   "speaker": "Timid-Looking Female Student",
+   "en": "When you were the one blackmailing[n]me, did you let me off the hook? I don't[n]think so.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_013_4_0#0",
+   "speaker": "Ruthless Student",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_014_0_0#0",
+   "speaker": "Ruthless Student",
+   "en": "You're just a high school student, but[n]you went on dates with older men for[n]money?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_014_0_0#1",
+   "speaker": "Ruthless Student",
+   "en": "I'm just shocked. You look so shy, but[n]you're running your own little romance[n]scam, aren't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_014_1_0#0",
+   "speaker": "Timid-Looking Female Student",
+   "en": "What!? No way, you hired a private[n]investigator too!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_014_2_0#0",
+   "speaker": "Ruthless Student",
+   "en": "You think I'll let someone like you bully[n]me? All I did was level the playing field.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_014_3_0#0",
+   "speaker": "Timid-Looking Female Student",
+   "en": "Don't think you can get away with this.[n]Don't forget that I still have those[n]shoplifting photos.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_015_0_0#0",
+   "speaker": "Timid-Looking Female Student",
+   "en": "Maybe we should both delete[n]whatever evidence we have, and[n]stop meeting each other like this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_015_1_0#0",
+   "speaker": "Ruthless Student",
+   "en": "Hmm... Yeah. It's not good for the[n]both of us if we just blackmail each[n]other. There's no point.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_015_2_0#0",
+   "speaker": "Timid-Looking Female Student",
+   "en": "Shut up! Here's the incriminating[n]pictures I've got of you. Show me[n]the ones you have of me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_015_3_0#0",
+   "speaker": "Ruthless Student",
+   "en": "Fine. This is everything I've got.[n]Let's just delete them together.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_015_4_0#0",
+   "speaker": "Timid-Looking Female Student",
+   "en": "...It's done. All of it's erased.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_015_4_0#1",
+   "speaker": "Timid-Looking Female Student",
+   "en": "But who knows if that was really[n]everything or not...? Hehehe.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YOWAMINIGIRI_015_5_0#0",
+   "speaker": "Ruthless Student",
+   "en": "Haha, yeah. We've already gone[n]too far. Looks like we're stuck with[n]each other.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "So, he's the transfer[n]student people were[n]talking about online...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "I heard he got[n]arrested for assault.[n]He's an actual criminal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "Wait, is that the guy[n]that assaulted someone?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "Hey, that's him, isn't[n]it? The one people were[n]talking about online...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_002_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "Even the teachers have[n]given up on him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_002_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "The rumors were right...[n]He does look really[n]dangerous...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_002_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "I don't want to get involved[n]with him... He's scary.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_002_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "If he gets expelled,[n]I'd feel so relieved...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_002_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "He really is[n]dangerous, isn't he?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_003_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "He's already started[n]causing trouble?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_003_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "He's not going to[n]suddenly just start[n]attacking people, is he?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_003_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "He's getting expelled?[n]That guy must not have any[n]remorse for his crimes at all...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_003_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "He's getting expelled[n]already? That's kind of[n]impressive, in a way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_003_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "That transfer student's already[n]getting kicked out of school!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_004_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "I'm getting a good laugh out of[n]this phantom thief nonsense.[n]I hope it doesn't stop here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_004_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_004_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "He picked a fight with[n]Mr. Kamoshida? Is he stupid?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_004_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "It's probably just a prank[n]by someone who watches[n]too much anime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_004_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "A phantom thief calling card?[n]That's just a prank, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_005_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "Hold on, that phantom[n]thief thing was for real?[n]No, that's ridiculous...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_005_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "Why was he suddenly acting[n]that way? Did the phantom[n]thieves threaten him?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_005_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "Can you believe the things[n]Mr. Kamoshida said he did?[n]He's completely awful!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_005_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "You can't steal someone's heart...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_005_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "That prank was perfectly timed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_006_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "I wish he'd just disappear[n]along with Kamoshida.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_006_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "Wait, did he really have[n]nothing to do with it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_006_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "Walking around here[n]like he owns the place...[n]He should've gotten expelled.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_006_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "Maybe he wasn't expelled,[n]but he's still got that[n]criminal record...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_006_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "I hear that the transfer student[n]isn't getting expelled anymore...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_007_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "The volleyball team is[n]finished without Kamoshida.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_007_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_007_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "The volleyball team is gonna[n]have it rough from now on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_007_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "I'd never want to become[n]known for sexual harassment...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_007_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "I guess the volleyball team won't[n]be getting the royal treatment[n]from our school anymore...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_204_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_204_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_204_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_204_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_204_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "If people are talking[n]about it that much, do[n]you wanna check it out?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_205_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "Another spam email?[n]What's the deal with all these?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_205_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_205_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "Some weirdo tried to start[n]talking to me in Shibuya...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_205_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "I heard that they're actually[n]targeting high school students...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_205_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_008_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "It mentioned something about the[n]Phantom Thieves. Is Kamoshida[n]really involved somehow?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_008_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_008_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "Both Kamoshida and[n]Madarame... Maybe phantom[n]thieves really do exist...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_008_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "Is it true that Madarame[n]got a calling card too?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_008_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "I heard that phantom[n]thieves sent a calling[n]card to Madarame, too...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_009_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "What are the police doing?[n]Hurry up and arrest them...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_009_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "I'm hearing that some people[n]got ruined by phishing scams...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_009_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "I heard that some people[n]from our school got extorted...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_009_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "Some of our classmates[n]actually got scammed, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_009_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "It's scary that so many[n]more people are falling for[n]phishing scams these days...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_010_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "People have been seeing[n]phantom thief calling[n]cards in Shibuya!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_010_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_010_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "Who are they gonna[n]punish next?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_010_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "Who's this Kaneshiro guy[n]they're targeting this time?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_010_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "Is it true that they[n]found another phantom[n]thief calling card?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_011_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "I heard that the[n]Phantom Thieves took[n]down that crime ring...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_011_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_011_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "With that crime syndicate gone,[n]we no longer have to be afraid[n]while out walking the city.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_011_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "The Phantom Thieves are[n]finally getting serious!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_011_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "So it was because of[n]phantom thieves that[n]Kaneshiro got arrested?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_012_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "It looks like more and more[n]people are posting on that[n]phantom thief forum.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_012_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_012_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "Everyone online's been talking[n]about phantom thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_012_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "The Phantom Thieves forum[n]is getting flooded!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_012_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "Wait, you haven't heard of the[n]Phantom Aficionado Website!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_013_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "Those phantom thieves[n]are finally starting to[n]dish out some real justice!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_013_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "I'm really curious about who[n]the Phantom Thieves really are!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_013_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "I knew it! I knew the[n]Phantom Thieves were real!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_013_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "Do you think Kamoshida[n]was the Phantom Thieves'[n]first job after all?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_013_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "Phantom thieves are just too[n]cool. Just look at the way[n]they defeat evil and stuff...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_014_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "I can't wait to see what'll[n]happen in a clash between the[n]Phantom Thieves and hackers!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_014_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "Who do you think's[n]gonna win? The Phantom[n]Thieves or Medjed?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_014_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "I'm sort of looking forward to[n]the Phantom Thieves' upcoming[n]showdown against the hackers!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_014_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "The Phantom Thieves versus[n]hackers? Looks like things[n]are getting interesting!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_014_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "Medjed declared war on[n]the Phantom Thieves...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_015_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "Unless the Phantom Thieves meet[n]their demands, they're going to[n]cause some serious damage...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_015_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_015_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "What are the Phantom Thieves[n]doing!? Hurry and take them[n]out before they attack us!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_015_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "How are the Phantom Thieves[n]going to respond to the[n]hackers' threats?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_015_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "Those phantom thieves will[n]stop those hackers before[n]they can do anything, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_016_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "Phantom thieves are way[n]better than the police!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_016_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "The Phantom Thieves took[n]down Medjed! No one can[n]stand in their way!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_016_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "I knew we could count on[n]the Phantom Thieves! I'll[n]show them more support!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_016_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "Why should we even worry?[n]Those phantom thieves are[n]out there, fighting for us.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_016_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "Can you believe they took[n]down an international hacker[n]organization? How amazing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_150_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "I wonder if the principal was[n]putting pressure on them...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_150_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "I'm starting to worry! Will[n]the drama at this school[n]hurt my college chances?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_150_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "Shujin's reputation has just[n]been going down the drain...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_017_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "He got what he deserved, didn't[n]he? I mean, he let Kamoshida do[n]all that stuff to his students...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_017_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_017_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "Did the Phantom Thieves change[n]his heart, and then he killed[n]himself to make up for it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_017_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "So wait, he killed himself out[n]of guilt, caused by phantom[n]thieves changing his heart...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_017_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "Maybe it's his right to commit[n]suicide, but I wish it didn't[n]cause so much trouble for us.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_018_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "The media really have[n]their eyes on our school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_018_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_018_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "How can you not know about[n]the Phantom Thieves!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_018_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "Everything will turn out[n]okay if we leave it to the[n]Phantom Thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_018_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "I hope those phantom[n]thieves keep taking down[n]evil and wrongdoers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_019_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "Does President Okumura's[n]daughter really go to our school?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_019_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_019_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "I heard President[n]Okumura's daughter is[n]a third-year at our school!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_019_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "Apparently, that corrupt CEO[n]everyone's talking about has a[n]daughter who goes to our school...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_019_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "President Okumura's kid[n]goes to our school!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_020_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "What kind of villain do you[n]think the Phantom Thieves[n]will go after next?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_020_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_020_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "There's nothing to fear,[n]as long as the Phantom[n]Thieves are here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_020_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "We'll be fine with the Phantom[n]Thieves protecting us!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_020_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "Someone needs to delete[n]all the evil and wicked[n]people in our world!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_021_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "Those irresponsible adults[n]need to be taken down[n]by the Phantom Thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_021_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "Just hurry up and take[n]him down, Phantom Thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_021_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "I knew they'd go after[n]President Okumura!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_021_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "Make him get down on[n]his knees and grovel!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_021_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "I was hoping they'd send out[n]a calling card! I can't wait to[n]see what happens next!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_022_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "I was pretty shocked when[n]I saw President Okumura's[n]press conference...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_022_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "I never imagined that the[n]Phantom Thieves would do[n]something like that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_022_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "What happened to President[n]Okumura wasn't CG... right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_022_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "Did you see the press conference[n]with President Okumura?[n]That was completely nuts...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_022_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "What happened during that[n]conference was actually[n]real, wasn't it...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_023_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "Killing him was crossing the[n]line, Phantom Thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_023_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_023_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "I never thought the Phantom[n]Thieves would be murderers!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_023_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "So they've been changing[n]people's hearts at first,[n]just to trick us!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_023_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "They killed him!?[n]That's disgusting!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_024_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "Are they even TRYING to[n]catch the Phantom Thieves!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_024_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_024_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "I heard that everything[n]they've done till now[n]was just them warming up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_024_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "Somebody needs to arrest[n]the Phantom Thieves![n]It doesn't matter who!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_024_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "When are the police[n]going to take action!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_025_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "So, the police have finally[n]gotten serious about arresting[n]the Phantom Thieves...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_025_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "I heard you can get reward[n]money for providing information[n]about the Phantom Thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_025_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "I heard they put a bounty on[n]the Phantom Thieves! They're[n]finally making their move...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_025_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "NOW they're doing[n]something!? Aren't they[n]working a little slow?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_025_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "I hope this will convince the[n]Phantom Thieves to stop...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_026_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "Are they even TRYING to[n]catch the Phantom Thieves!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_026_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_026_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "I heard that everything[n]they've done till now[n]was just them warming up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_026_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "Everything's all messed[n]up because of the[n]Phantom Thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_026_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "Somebody catch the[n]Phantom Thieves! It[n]doesn't matter who!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_027_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "No way... I thought he was[n]a shoo-in for prime minister...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_027_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_027_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_027_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "All those things Representative[n]Shido said, they can't be true...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_027_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "What are we going to do[n]without Representative Shido...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_028_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "It doesn't matter what I do.[n]It won't change anything...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_028_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_028_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_028_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_028_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "Somebody, please, do[n]something about all this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_06_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_07_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_08_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_09_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_101_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "Drinking, smoking, theft...[n]I heard this guy's done it all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_101_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "So that's him? That's the[n]guy with the criminal record?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_101_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "That transfer student's[n]gotten involved in all sorts[n]of shady things, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_101_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "He looks harmless, but he's[n]done some crazy stuff, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_101_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "That transfer student actually[n]committed some crimes, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_102_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "I heard he pulls out knives[n]on people without any warning.[n]This guy is a loose cannon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_102_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_102_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "I hear that anyone who makes[n]eye contact with him has to[n]be sent to the hospital...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_102_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "Don't look him in the eye![n]He'll beat you to near-death...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_102_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "Everyone's saying that he uses[n]weapons to threaten people...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_103_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "Ugh, the police are here?[n]Come on, give me a break...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_103_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_103_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "It looks like the police[n]are going to investigate[n]things about our school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_103_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "The school's gotten so noisy[n]with all this commotion...[n]It's getting on my nerves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_103_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "The police have been going around,[n]questioning people, apparently.[n]I hope they leave soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_104_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "I'll just have to stay up all[n]night to cram, and then guess[n]whatever I don't know...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_104_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "Who cares about exams? I don't[n]feel like studying anyway...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_104_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "It's already time for midterms!?[n]Shoot, I need to start reviewing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_104_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "We don't have any club[n]activities, so I can just study.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_104_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "Midterms are soon, huh?[n]What a hassle...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_105_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "It's almost time for finals.[n]I better make sure I[n]study enough...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_105_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_105_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "I need to get a better[n]score on my finals than[n]I did on my midterms!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_105_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "Man, it's already[n]finals season?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_105_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "What, it's time for finals already?[n]I just wanna go to my clubs...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_201_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "Oh yeah, have you heard of[n]that detective, Akechi?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_201_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_201_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_201_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_201_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_202_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "Are you on Akechi's side,[n]or the Phantom Thieves'?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_202_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_202_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_202_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_202_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_301_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "Those scores just[n]have to be a fluke.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_301_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "A delinquent who's also smart...[n]That's kind of scary, isn't it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_301_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "Did he steal the test[n]answers or something?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_301_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "I bet he just cheated[n]during the test.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_301_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "Getting good scores in school[n]won't erase what he's done.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_302_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "He's at the top of the[n]class? What's his deal?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_302_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "I feel totally defeated.[n]I'm so ashamed of myself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_302_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "He really got the top score?[n]Did they make a mistake when[n]they were grading his tests?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_302_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "I wonder if I should ask him to[n]tutor me. He's so scary though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_302_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "He better not let it go to his[n]head. Him getting the top score[n]was probably a fluke, anyway.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_303_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "Before I realized it, he was[n]getting better grades than me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_303_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "I thought he was just some[n]delinquent, but he's[n]actually pretty good...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_303_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "Did you see the test scores?[n]The top scores were crazy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_303_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "Even though he's got a criminal[n]record, he still got those scores?[n]He might be big someday...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_303_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "You can't tell from looking at[n]him, but I guess he actually[n]studies like a serious student...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_304_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "I made fun of him, but getting[n]the top score is pretty amazing...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_304_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "The way his mind works is[n]probably just completely[n]different than ours...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_304_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "Did I read that wrong?[n]He can't have gotten[n]the top score...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_304_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "Just when did he become[n]the top of the class?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_304_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "I guess he really was[n]studying all this time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_305_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "I have to admit, he really is[n]that smart. I mean, all of his[n]scores are so good...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_305_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "I feel dumb for being so[n]scared of him. He's actually[n]a really good student.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_305_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "It's nice that he has[n]good grades, but he's[n]still kind of scary...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_305_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "Even though he got a good score,[n]how can we be sure he suddenly[n]won't cause trouble again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_305_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "I get that he's smart, but I still[n]feel more comfortable keeping my[n]distance from him, you know?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_306_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "It's actually kind of[n]scary when someone like[n]that gets the top score...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_306_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "He might even be[n]smarter than Akechi...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_306_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "He's really smart, but I'm still[n]not so sure about him. He might[n]end up becoming an evil genius...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_306_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "It's unbelievable that[n]he got the top score.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_306_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "Well, he is the smartest[n]one in our school...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "That guy's been playing[n]soccer since he was two?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "What's with all the[n]bandages...? Did someone[n]break their shoulder?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "Was this the coach's last[n]year? I don't want him to[n]be replaced...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "Worry about the time later.[n]Just have fun with it for now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "He switched clubs!? I mean,[n]he was one of us before,[n]wasn't he?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_06_#0",
+   "speaker": "Ruthless Student",
+   "en": "Hm? Weren't we told not[n]to come to club...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_031_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "Maybe I'll spar with the[n]old man.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_031_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "My parents are so[n]overprotective...[n]Oh, I have to get home!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_031_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "I've been trying for a sports[n]recommendation ever since[n]I started here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_031_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "I'm taking today off.[n]I'm going shopping with[n]my sister.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_031_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "Was it someone else who[n]got treatment? Well, we've[n]got enough people now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_503_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "Counseling...? So what[n]exactly do you do there?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_503_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "Dr. Maruki?[n]That guy's totally a dope...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_503_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "I bet that counselor's[n]gonna be popular.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_503_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "He's in the nurse's office,[n]right? Maybe I'll go if I[n]feel like it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_504_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "This cleanup event is[n]such a drag...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_504_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "Is the school worried[n]about its image with all[n]that stuff about Kamoshida?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_504_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "Let's just get it over with[n]and then go home...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_504_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "A cleanup event...[n]Are you kidding me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_601_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "Yoshizawa-san has such[n]a pretty face...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_601_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "I'm so jealous of[n]Yoshizawa-san...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_601_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "I guess it's tough having to[n]meet all those expectations...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_601_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "Prodigies are really[n]something else...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_505_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "Is there something going[n]on between Yoshizawa-san[n]and that transfer student?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_505_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "She has some connection[n]with that guy? Yikes...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_505_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "Is Yoshizawa-san falling[n]in with a bad crowd...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_505_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "Come on, honor students[n]shouldn't associate with[n]shady characters...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_506_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "You guys are being too harsh.[n]Everybody makes mistakes...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_506_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "She's got no one to blame[n]but herself if she can't get[n]those results...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_506_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "I think it's pathetic that[n]everyone is ganging up[n]to badmouth her.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_506_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "Are you joking?[n]She's not medalist material.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_603_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "I saw the whole thing...[n]It was that second-year...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_603_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "Is she alive? She fell all[n]the way from the roof...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_603_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "What could've caused her[n]to do that...? Poor girl...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_603_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "I'll never go onto the roof[n]again... I can't handle stuff[n]like this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_603_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "Don't ask me...[n]She's probably alive...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_603_06_#0",
+   "speaker": "Ruthless Student",
+   "en": "I saw people taking pictures![n]Unbelievable...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_502_01_#0",
+   "speaker": "Ruthless Student",
+   "en": "An honor student and a[n]beauty. Talk about out of[n]my league...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_502_02_#0",
+   "speaker": "Ruthless Student",
+   "en": "I passed by that one first-year[n]near the gym the other day!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_502_03_#0",
+   "speaker": "Ruthless Student",
+   "en": "Just looking at her is[n]happiness enough for me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_502_04_#0",
+   "speaker": "Ruthless Student",
+   "en": "That honor student is[n]an absolute beauty!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_502_05_#0",
+   "speaker": "Ruthless Student",
+   "en": "She was wearing a regular[n]school jersey. I wish she[n]came in her gymnast outfit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_502_06_#0",
+   "speaker": "Ruthless Student",
+   "en": "She's really got a cute face.[n]That's why everyone's[n]talking about it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_502_07_#0",
+   "speaker": "Ruthless Student",
+   "en": "Must be nice... I wish I[n]could take my exams on[n]a different day...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_502_08_#0",
+   "speaker": "Ruthless Student",
+   "en": "I've never seen someone[n]sleeping during class.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_502_09_#0",
+   "speaker": "Ruthless Student",
+   "en": "Maybe I'll start doing[n]gymnastics.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

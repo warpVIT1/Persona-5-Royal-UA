@@ -1,0 +1,1468 @@
+{
+ "file": "EN/BATTLE/EVENT/SCRIPT/0304.BF",
+ "entries": [
+  {
+   "id": "MSG_BTL_FLYENTRY_000_000#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Heheheheh! Bein' young is such a crime!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYENTRY_010_000#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "They're naïve, they're reckless, and[n]on top of that, they don't even realize[n]how stupid they are.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYENTRY_020_000#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Now I couldn't just sit back and not[n]cash in on those idiots, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYUNDER50_000_0#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Ahahaha! Yer just gonna keep goin'[n]at this to the bitter end, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYUNDER50_010_0#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "No more games then. I ain't gonna[n]forgive ya punks for this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYUNDER50_020_0#0",
+   "speaker": "Makoto",
+   "en": "That's our line! You had better be[n]prepared!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_001_000#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Ngh... Aaagh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_002_002#0",
+   "speaker": "Morgana",
+   "en": "Keep at it, Joker! Corner him!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_000_000#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "D-Dammit...! Yeh goddamn punks!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_000_002#0",
+   "speaker": "Morgana",
+   "en": "Show no mercy! Let's finish him!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_010_000#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Tch... The hell? Ya punks're stronger[n]than you look...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_020_000#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Looks like I gotta bring out my big guns!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_030_000#0",
+   "speaker": "Morgana",
+   "en": "You're all buzz and no bite!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_040_000#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Hehehe... We'll see about that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_060_000#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Time to roll out...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_070_000#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Here he is... My guardian robot!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_080_000#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Gyahahahahaha! Ya ready to die!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_090_002#0",
+   "speaker": "Morgana",
+   "en": "A pig!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_100_000#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "It ain't a pig, yo! This is my Palace's[n]swine-model defensive mechanoid,[n]Piggytron!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_100_000#1",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Goin' against me's a real bad crime,[n]ya know? It's time for ya all to[n]go to hell!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_110_002#0",
+   "speaker": "Morgana",
+   "en": "Dammit! I didn't expect he'd have[n]something like this up his sleeve!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_120_005#0",
+   "speaker": "Makoto",
+   "en": "Joker! Make sure you have us regroup[n]if you think we're at a disadvantage!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_120_005#1",
+   "speaker": "Makoto",
+   "en": "That thing's a giant... If it attacks us[n]while we're at low stamina, we won't[n]survive!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_130_002#0",
+   "speaker": "Morgana",
+   "en": "Joker! Have us regroup if you think[n]we're at a disadvantage!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_130_002#1",
+   "speaker": "Morgana",
+   "en": "We need to take down that giant robot,[n]but we'll be in trouble if it attacks us[n]when we're weakened!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGUNDER50_000_0#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Ya punks're really pissin' me off![n]Ya called my Piggytron a pig earlier,[n]right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGUNDER50_010_0#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Were ya talkin' about me too when you[n]said that? If you were... Imma tear ya all[n]to shreds!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGUNDER50_020_0#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Go, Piggytron! Super VIP Fooorm!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGUNDER50_030_0#0",
+   "speaker": "Morgana",
+   "en": "It transformed!? What is it planning[n]on doing!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGUNDER50_040_0#0",
+   "speaker": "Morgana",
+   "en": "Don't tell me it's going to rush us!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGUNDER50_050_0#0",
+   "speaker": "Morgana",
+   "en": "It transformed!? Don't tell me it's going[n]to roll into us!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGSPECIAL_000_0#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "How's this!? Can't even speak 'cause of[n]how scary my Piggytron is, huh?[n]Gyahahahaha!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_ORDER02_000_00#0",
+   "speaker": "Morgana",
+   "en": "Hm!? Is that bastard going to rush us[n]again!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_ORDER02_010_00#0",
+   "speaker": "Morgana",
+   "en": "What do we do? Should we try[n]distracting Kaneshiro!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_PARTY_ORDER02_020_00#0",
+   "speaker": null,
+   "en": "How do we do that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_PARTY_ORDER02_020_00#1",
+   "speaker": null,
+   "en": "Nah, let's just beat it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_PARTY_ORDER02_020_00#2",
+   "speaker": null,
+   "en": "Someone go be a decoy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_ORDER02_030_00#0",
+   "speaker": "Morgana",
+   "en": "As you can see, Kaneshiro is obviously[n]a money monger!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_ORDER02_030_00#1",
+   "speaker": "Morgana",
+   "en": "We might be able to draw his attention[n]by throwing an expensive item[n]his way!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_ORDER02_030_00#2",
+   "speaker": "Morgana",
+   "en": "Let's give it a try, Joker! It's[n]your call what item we throw!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_ORDER_032_002#0",
+   "speaker": "Morgana",
+   "en": "Don't be ridiculous! There's another[n]way!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_ORDER_032_002#1",
+   "speaker": "Morgana",
+   "en": "As you know, Kaneshiro is a money[n]monger.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_ORDER_032_002#2",
+   "speaker": "Morgana",
+   "en": "Tossing an expensive item his[n]way might draw his attention[n]and serve as a distraction!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_ORDER_032_002#3",
+   "speaker": "Morgana",
+   "en": "Let's give it a try, Joker! It's[n]your call what item we throw!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_TSUIKA_010_002#0",
+   "speaker": "Morgana",
+   "en": "Hm!? Is that bastard going to rush us[n]again!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_TSUIKA_200_002#0",
+   "speaker": "Morgana",
+   "en": "What's the plan? Should we knock him[n]off like earlier, or do you want to find[n]another way out?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_PARTY_TSUIKA02_020_0#0",
+   "speaker": null,
+   "en": "Another way out?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_PARTY_TSUIKA02_020_0#1",
+   "speaker": null,
+   "en": "Nah, let's just beat it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_PARTY_TSUIKA02_020_0#2",
+   "speaker": null,
+   "en": "Someone go be a decoy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_TSUIKA_300_002#0",
+   "speaker": "Morgana",
+   "en": "Don't be ridiculous! There's another[n]way!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_TSUIKA_400_002#0",
+   "speaker": "Morgana",
+   "en": "As you know, Kaneshiro is a money[n]monger.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_TSUIKA_400_002#1",
+   "speaker": "Morgana",
+   "en": "Tossing an expensive item his[n]way might draw his attention[n]and serve as a distraction!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_TSUIKA_400_002#2",
+   "speaker": "Morgana",
+   "en": "Let's give it a try, Joker! It's[n]your call what item we throw!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_TSUIKA_000_002#0",
+   "speaker": "Morgana",
+   "en": "Hm!? Is that bastard going to rush us[n]again!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_TSUIKA_100_002#0",
+   "speaker": "Morgana",
+   "en": "What do we do? Should we try[n]distracting Kaneshiro!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_TSUIKA_100_002#1",
+   "speaker": "Morgana",
+   "en": "Shouldn't we be able to stop the rush[n]then? Perhaps we can drop him on it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_TSUIKA_500_002#0",
+   "speaker": "Morgana",
+   "en": "He's going to rush us again... Hey Joker,[n]I have a good idea.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_TSUIKA_700_002#0",
+   "speaker": "Morgana",
+   "en": "Attacking him is fine... but why not[n]find another way to distract him?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_PARTY_TSUIKA_100_000#0",
+   "speaker": null,
+   "en": "Another way out?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_PARTY_TSUIKA_100_000#1",
+   "speaker": null,
+   "en": "Nah, let's just beat it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_PARTY_TSUIKA_100_000#2",
+   "speaker": null,
+   "en": "Someone go be a decoy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_TSUIKA_800_002#0",
+   "speaker": "Morgana",
+   "en": "Don't be ridiculous! There's another[n]way!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_TSUIKA_900_002#0",
+   "speaker": "Morgana",
+   "en": "As you know, Kaneshiro is a money[n]monger.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_TSUIKA_900_002#1",
+   "speaker": "Morgana",
+   "en": "Tossing an expensive item his[n]way might draw his attention[n]and serve as a distraction!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_TSUIKA_900_002#2",
+   "speaker": "Morgana",
+   "en": "Let's give it a try, Joker! It's[n]your call what item we throw!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGSHOOT_000_000#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Gah!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGSHOOT_100_000#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Aaaaaagh!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGSHOOT_200_000#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Ngh... Aaagh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGSHOOT_200_000#1",
+   "speaker": "Shadow Kaneshiro",
+   "en": "How dare you!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGSHOOT_300_000#0",
+   "speaker": "Morgana",
+   "en": "He's in pain. This is our chance to keep[n]the pressure on!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGOPEN_000_000#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Hm? What is that!? It's got the shine[n]of somethin' pricey!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGOPEN_010_000#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Go collect it, Piggytron! R-Right away!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGOPEN_020_000#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "...Wh-Whoooaaa!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGOPEN_020_000#1",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Th-This'll make us a fortune! Damn[n]good find, yo!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGOPEN_030_002#0",
+   "speaker": "Morgana",
+   "en": "D-Did it work...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGOPEN_030_002#1",
+   "speaker": "Morgana",
+   "en": "We don't need to worry about getting[n]rushed now! Nice work, Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGWAIT_000_000#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Oooh, this ain't half bad, yo!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGWAIT_000_000#1",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Maybe I can pick up a girl or two once[n]I pawn this thing off...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGWAIT_010_002#0",
+   "speaker": "Morgana",
+   "en": "Kaneshiro's completely engrossed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGWAIT_010_002#1",
+   "speaker": "Morgana",
+   "en": "Attack him while he's off guard![n]It's only right that a money monger[n]like him is destroyed by money!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGCLOSED_000_00#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "What're you thinkin', litterin' in my[n]bank!? What kinda stuff they been[n]teachin' ya in school, huh!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGCLOSED_010_00#0",
+   "speaker": "Morgana",
+   "en": "Ngh, he's not interested at all...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGCLOSED_010_00#1",
+   "speaker": "Morgana",
+   "en": "Do we need to use something worth[n]a little more?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGUNDER25_000_0#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Dammit... How dare ya hurt my[n]Piggytron so much!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGUNDER25_010_0#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "My Piggytron's gonna lose? No,[n]that's impossible!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGUNDER25_020_0#0",
+   "speaker": "Makoto",
+   "en": "It's already been decided...[n]You are going down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYENTRY_000_000_2#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Heheheheh! Bein' young is such a crime!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYENTRY_010_000_2#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "They're naïve, they're reckless, and[n]on top of that, they don't even realize[n]how stupid they are.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYENTRY_020_000_2#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Now I couldn't just sit back and not[n]cash in on those idiots, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYUNDER50_000_0_2#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Ahahaha! You just gonna keep goin'[n]at this to the bitter end, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYUNDER50_010_0_2#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "No more games then. I ain't gonna[n]forgive ya punks for this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYUNDER50_020_0_2#0",
+   "speaker": "Makoto",
+   "en": "That's our line! You had better be[n]prepared!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_001_000EX#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Ngh... Aaagh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_002_002EX#0",
+   "speaker": "Morgana",
+   "en": "Keep at it, Joker! Corner him!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_000_000EX#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "D-Dammit...! Yeh goddamn punks!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_000_002EX#0",
+   "speaker": "Morgana",
+   "en": "Show no mercy! Let's finish him!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_010_000EX#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Tch... The hell? Ya punks're stronger[n]than you look...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_020_000EX#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Looks like I gotta bring out my big guns!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_030_000EX#0",
+   "speaker": "Morgana",
+   "en": "You're all buzz and no bite!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_040_000EX#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Hehehe... We'll see about that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_060_000EX#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Time to roll out...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_070_000EX#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Here he is... My guardian robot!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_080_000EX#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Gyahahahahaha! Ya ready to die!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_090_002EX#0",
+   "speaker": "Morgana",
+   "en": "A pig!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_100_000EX#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "It ain't a pig, yo! This is my Palace's[n]swine-model defensive mechanoid,[n]Piggytron!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_100_000EX#1",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Goin' against me's a real bad crime,[n]ya know? It's time for ya all to[n]go to hell!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_110_002EX#0",
+   "speaker": "Morgana",
+   "en": "Dammit! I didn't expect he'd have[n]something like this up his sleeve!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_120_005EX#0",
+   "speaker": "Makoto",
+   "en": "Joker! Make sure you have us regroup[n]if you think we're at a disadvantage!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_120_005EX#1",
+   "speaker": "Makoto",
+   "en": "That thing's a giant... If it attacks us[n]while we're at low stamina, we won't[n]survive!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_130_002EX#0",
+   "speaker": "Morgana",
+   "en": "Joker! Have us regroup if you think[n]we're at a disadvantage!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FLYEND_130_002EX#1",
+   "speaker": "Morgana",
+   "en": "We need to take down that giant robot,[n]but we'll be in trouble if it attacks us[n]when we're weakened!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGUNDER50_000_0_2#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Ya punks're really pissin' me off![n]Ya called my Piggytron a pig earlier,[n]right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGUNDER50_010_0_2#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Were ya talkin' about me too when you[n]said that? If you were... Imma tear ya all[n]to shreds!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGUNDER50_020_0_2#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Go, Piggytron! Super VIP Fooorm!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGUNDER50_030_0_2#0",
+   "speaker": "Morgana",
+   "en": "It transformed!? What is it planning[n]on doing!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGUNDER50_040_0_2#0",
+   "speaker": "Morgana",
+   "en": "Don't tell me it's going to rush us!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGUNDER50_050_0_2#0",
+   "speaker": "Morgana",
+   "en": "It transformed!? Don't tell me it's going[n]to roll into us!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGSPECIAL_000_0_2#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "How's this!? Can't even speak 'cause of[n]how scary my Piggytron is, huh?[n]Gyahahahaha!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_ORDER02_000_00_2#0",
+   "speaker": "Morgana",
+   "en": "Hm!? Is that bastard going to rush us[n]again!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_ORDER02_010_00_2#0",
+   "speaker": "Morgana",
+   "en": "What do we do? Should we try[n]distracting Kaneshiro!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_PARTY_ORDER02_020_00_2#0",
+   "speaker": null,
+   "en": "How do we do that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_PARTY_ORDER02_020_00_2#1",
+   "speaker": null,
+   "en": "Nah, let's just beat it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_PARTY_ORDER02_020_00_2#2",
+   "speaker": null,
+   "en": "Someone go be a decoy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_ORDER02_030_00_2#0",
+   "speaker": "Morgana",
+   "en": "As you can see, Kaneshiro is obviously[n]a money monger!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_ORDER02_030_00_2#1",
+   "speaker": "Morgana",
+   "en": "We might be able to draw his attention[n]by throwing an expensive item[n]his way!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_ORDER02_030_00_2#2",
+   "speaker": "Morgana",
+   "en": "Let's give it a try, Joker! It's[n]your call what item we throw!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_ORDER_032_002E#0",
+   "speaker": "Morgana",
+   "en": "Don't be ridiculous! There's another[n]way!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_ORDER_032_002E#1",
+   "speaker": "Morgana",
+   "en": "As you can see, Kaneshiro is obviously[n]a money monger!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_ORDER_032_002E#2",
+   "speaker": "Morgana",
+   "en": "Tossing an expensive item his[n]way might draw his attention[n]and serve as a distraction!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_ORDER_032_002E#3",
+   "speaker": "Morgana",
+   "en": "Let's give it a try, Joker! It's[n]your call what item we throw!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_TSUIKA_010_002_2#0",
+   "speaker": "Morgana",
+   "en": "Hm!? Is that bastard going to rush us[n]again!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_TSUIKA_200_002_2#0",
+   "speaker": "Morgana",
+   "en": "What's the plan? Should we knock him[n]off like earlier, or do you want to find[n]another way out?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_PARTY_TSUIKA02_020_0_2#0",
+   "speaker": null,
+   "en": "Another way out?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_PARTY_TSUIKA02_020_0_2#1",
+   "speaker": null,
+   "en": "Nah, let's just beat it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_PARTY_TSUIKA02_020_0_2#2",
+   "speaker": null,
+   "en": "Someone go be a decoy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_TSUIKA_300_002_2#0",
+   "speaker": "Morgana",
+   "en": "Don't be ridiculous! There's another[n]way!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_TSUIKA_400_002_2#0",
+   "speaker": "Morgana",
+   "en": "As you know, Kaneshiro is a money[n]monger.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_TSUIKA_400_002_2#1",
+   "speaker": "Morgana",
+   "en": "Tossing an expensive item his[n]way might draw his attention[n]and serve as a distraction!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_TSUIKA_400_002_2#2",
+   "speaker": "Morgana",
+   "en": "Let's give it a try, Joker! It's[n]your call what item we throw!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_TSUIKA_000_002_2#0",
+   "speaker": "Morgana",
+   "en": "Hm!? Is that bastard going to rush us[n]again!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_TSUIKA_100_002_2#0",
+   "speaker": "Morgana",
+   "en": "What do we do? Should we try[n]distracting Kaneshiro!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_TSUIKA_100_002_2#1",
+   "speaker": "Morgana",
+   "en": "Shouldn't we be able to stop the rush[n]then? Perhaps we can drop him on it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_TSUIKA_500_002_2#0",
+   "speaker": "Morgana",
+   "en": "He's going to rush us again... Hey Joker,[n]I have a good idea.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_TSUIKA_700_002_2#0",
+   "speaker": "Morgana",
+   "en": "Attacking him is fine... but why not[n]find another way to distract him?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_PARTY_TSUIKA_100_000_2#0",
+   "speaker": null,
+   "en": "Another way out?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_PARTY_TSUIKA_100_000_2#1",
+   "speaker": null,
+   "en": "Nah, let's just beat it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_PARTY_TSUIKA_100_000_2#2",
+   "speaker": null,
+   "en": "Someone go be a decoy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_TSUIKA_800_002_2#0",
+   "speaker": "Morgana",
+   "en": "Don't be ridiculous! There's another[n]way!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_TSUIKA_900_002_2#0",
+   "speaker": "Morgana",
+   "en": "As you know, Kaneshiro is a money[n]monger.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_TSUIKA_900_002_2#1",
+   "speaker": "Morgana",
+   "en": "Tossing an expensive item his[n]way might draw his attention[n]and serve as a distraction!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_TSUIKA_900_002_2#2",
+   "speaker": "Morgana",
+   "en": "Let's give it a try, Joker! It's[n]your call what item we throw!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGSHOOT_000_000_2#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Gah!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGSHOOT_100_000_2#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Aaaaaagh!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGSHOOT_200_000_2#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Ngh... Aaagh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGSHOOT_200_000_2#1",
+   "speaker": "Shadow Kaneshiro",
+   "en": "How dare you!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGSHOOT_300_000_2#0",
+   "speaker": "Morgana",
+   "en": "He's in pain. This is our chance to keep[n]the pressure on!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGOPEN_000_000E#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Hm? What is that!? It's got the shine[n]of somethin' pricey!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGOPEN_010_000E#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Go collect it, Piggytron! R-Right away!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGOPEN_020_000E#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "...Wh-Whoooaaa!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGOPEN_020_000E#1",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Th-This'll make us a fortune! Damn[n]good find, yo!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGOPEN_030_002E#0",
+   "speaker": "Morgana",
+   "en": "D-Did it work...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGOPEN_030_002E#1",
+   "speaker": "Morgana",
+   "en": "We don't need to worry about getting[n]rushed now! Nice work, Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGWAIT_000_000E#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Oooh, this ain't half bad, yo!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGWAIT_000_000E#1",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Maybe I can pick up a girl or two once[n]I pawn this thing off...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGWAIT_010_002E#0",
+   "speaker": "Morgana",
+   "en": "Kaneshiro's completely engrossed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGWAIT_010_002E#1",
+   "speaker": "Morgana",
+   "en": "Attack him while he's off guard![n]It's only right that a money monger[n]like him is destroyed by money!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGCLOSED_000_00_2#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "What're you thinkin', litterin' in my[n]bank!? What kinda stuff they been[n]teachin' ya in school, huh!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGCLOSED_010_00_2#0",
+   "speaker": "Morgana",
+   "en": "Ngh, he's not interested at all...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGCLOSED_010_00_2#1",
+   "speaker": "Morgana",
+   "en": "Do we need to use something worth[n]a little more?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGUNDER25_000_0_2#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Dammit... How dare ya hurt my[n]Piggytron so much!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGUNDER25_010_0_2#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "My Piggytron's gonna lose? No,[n]that's impossible!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_PIGUNDER25_020_0_2#0",
+   "speaker": "Makoto",
+   "en": "It's already been decided...[n]You are going down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_3RD_START#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Wha— My Piggytron!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_3RD_START2#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "That's it! I'll just deal with you busters[n]myself—through the power of cash!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_3RD_START3#0",
+   "speaker": "Makoto",
+   "en": "It's about time for you to face the[n]bottom line!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_3RD_BLOCK#0",
+   "speaker": "Morgana",
+   "en": "What!? They blocked that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_3RD_BLOCK2#0",
+   "speaker": "Morgana",
+   "en": "Hmmm, that shield move is a real[n]hassle... Should we put them to[n]sleep so they can't get in our way?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_3RD_TROUBLE#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Business couldn't be better right now—[n]all the cash is flowin' straight to ME!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_3RD_TROUBLE#1",
+   "speaker": "Shadow Kaneshiro",
+   "en": "But where to put it all...[n]Ooh! This'll be perfect.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_3RD_TROUBLE2#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Huh? The hell!? Somethin' ain't right!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_3RD_TROUBLE3#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Wh-What the fuck is goin' on here!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_3RD_BLOCK1B#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "C'mooon, I told you they're an[n]invincible wall, right? Welcome[n]to the power of cash! Booyah!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_3RD_BUFF#1",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Even somethin' this crazy's possible[n]when ya got the dough! Heheheh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_3RD_PRE_SPECIAL#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Why won't you just go down, yo?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_AFTER_SPECIAL#0",
+   "speaker": "Morgana",
+   "en": "His minions are nowhere to be seen...[n]I guess relationships built on money don't[n]mean anything once the wealth dries up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_AFTER_SPECIAL_B#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Hey! Where are ya going!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_AFTER_SPECIAL_C#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Shit, I screwed up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_AFTER_BROKEN#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Wha— My Piggytron!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FRIENDSUMMON_01#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Ha, wassup! I paid these guys off, and now[n]they're gonna clean you up! Ya like that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FRIENDSUMMON_01#1",
+   "speaker": "Shadow Kaneshiro",
+   "en": "They're super duper powerful![n]And super duper fly!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FRIENDSUMMON_02#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Time to say yer prayers, you[n]pieces of shit!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FRIENDSUMMON_03#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Heheheh... A totally invincible wall!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FRIENDSUMMON_04#0",
+   "speaker": "Morgana",
+   "en": "Ugh, how is this dealing with us[n]yourself?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FRIENDSUMMON_05#0",
+   "speaker": "Morgana",
+   "en": "Hey, guys! Their numbers may be[n]growing, but we can't let that get[n]to us! Let's do this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FIRSTBLOCK_01#0",
+   "speaker": "Morgana",
+   "en": "Hmmm... That shield move is a real[n]hassle...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FIRSTBLOCK_02#0",
+   "speaker": "Morgana",
+   "en": "We can try to take down those minions,[n]but Kaneshiro's not lying when he says[n]they're tough.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FIRSTBLOCK_03#0",
+   "speaker": "Morgana",
+   "en": "...In that case, why don't we just put them[n]to sleep? If they're not awake, they can't[n]get in our way!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FIRSTBLOCK_04#0",
+   "speaker": "Morgana",
+   "en": "We'll leave the tactics to you, Joker—[n]but I don't think it's a bad plan, myself!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HP25UNDER_01#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "F-Fine... It's time for my last trump card!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HP25UNDER_02#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "I'm gonna make it rain and party down![n]Ya dig!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_LASTMONEYSHOWER#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Gah! I ran outta cash!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FRIENDSGONE_01#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Wha— Hey! Where'd everyone go!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_FRIENDSGONE_02#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "I'm just a little short on funds at the[n]moment! C'mon, come back, yo!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_ULTIMATUM#0",
+   "speaker": "Morgana",
+   "en": "You're out of options here. Why won't[n]you accept your fate already?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_LAST_NOMONEY_01#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "I-I can't! I-If I don't have money... then I...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_LAST_NOMONEY_02#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Oh, I know—there's still money inside[n]Piggytron! Gotta get back in there!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_LAST_NOMONEY_03#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Whew... Cash... Cash really does calm[n]my nerves...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_LAST_NOMONEY_04#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Wait—what's wrong, Piggytron!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_LAST_NOMONEY_05#0",
+   "speaker": "Shadow Kaneshiro",
+   "en": "Waaaaaaah!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

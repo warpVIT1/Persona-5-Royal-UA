@@ -1,0 +1,460 @@
+{
+ "file": "EN/EVENT_DATA/SCRIPT/E800/E880_004.BF",
+ "entries": [
+  {
+   "id": "MSG_GREET_RESERVE_1#0",
+   "speaker": null,
+   "en": "Dammit... I wanna go home...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_RESERVE_2#0",
+   "speaker": null,
+   "en": "I don't wanna go to school...[n]This sucks...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_RESERVE_3#0",
+   "speaker": null,
+   "en": "I'm so tired every day...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_RESERVE_4#0",
+   "speaker": null,
+   "en": "I don't want to go to work...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_RESERVE_5#0",
+   "speaker": null,
+   "en": "Are there any[n]breaks coming up?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_0812_1#0",
+   "speaker": null,
+   "en": "Only 10 days left until[n]Medjed's deadline...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_0812_2#0",
+   "speaker": null,
+   "en": "What are the Phantom[n]Thieves doing?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_0812_3#0",
+   "speaker": null,
+   "en": "Are they just going to[n]let Medjed have their way?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_0812_4#0",
+   "speaker": null,
+   "en": "What is Medjed trying to do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_0812_5#0",
+   "speaker": null,
+   "en": "Is this going to affect us?[n]We have nothing to do[n]with this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_0821_1#0",
+   "speaker": null,
+   "en": "Apparently some ATMs[n]aren't working...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_0821_2#0",
+   "speaker": null,
+   "en": "I heard someone's[n]tampering with the[n]system.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_0821_3#0",
+   "speaker": null,
+   "en": "Is it Medjed?[n]No, it couldn't be...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_0821_4#0",
+   "speaker": null,
+   "en": "What are the police doing?[n]They're so incompetent...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_0821_5#0",
+   "speaker": null,
+   "en": "Even the Phantom Thieves[n]couldn't stop them...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_0824_1#0",
+   "speaker": null,
+   "en": "Did the Phantom Thieves[n]start all these scandals, too?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_0824_2#0",
+   "speaker": null,
+   "en": "No, I don't think those[n]had calling cards...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_0824_3#0",
+   "speaker": null,
+   "en": "You know, like,[n]changing people's hearts[n]from the shadows!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_0824_4#0",
+   "speaker": null,
+   "en": "That's so manly! I'm[n]totally falling for them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_0824_5#0",
+   "speaker": null,
+   "en": "Maybe I should make a[n]request on that forum too...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_1002_1#0",
+   "speaker": null,
+   "en": "I can't wait for his[n]public apology!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_1002_2#0",
+   "speaker": null,
+   "en": "They should just execute[n]everyone who causes[n]trouble for society.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_1002_3#0",
+   "speaker": null,
+   "en": "Ooh, maybe they could[n]take down my boss!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_1002_4#0",
+   "speaker": null,
+   "en": "Politicians who knock the[n]Phantom Thieves are[n]just sore losers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_1002_5#0",
+   "speaker": null,
+   "en": "What about Akechi-kun?[n]Is he too afraid of[n]backlash to comment?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_1016_1#0",
+   "speaker": null,
+   "en": "They still haven't caught[n]the Phantom Thieves?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_1016_2#0",
+   "speaker": null,
+   "en": "I don't care how they[n]do it. Just throw them[n]in the slammer already.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_1016_3#0",
+   "speaker": null,
+   "en": "It's too scary to have[n]murderers on the loose...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_1016_4#0",
+   "speaker": null,
+   "en": "I wonder what kind of[n]people the culprits are.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_1016_5#0",
+   "speaker": null,
+   "en": "They're murderers. Don't[n]give me any of this \"justice\"[n]crap.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_1201_1#0",
+   "speaker": null,
+   "en": "I heard Shido's approval[n]rating went up again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_1201_2#0",
+   "speaker": null,
+   "en": "This election's[n]already decided!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_1201_3#0",
+   "speaker": null,
+   "en": "I mean, I can't imagine[n]anyone but Shido in office.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_1201_4#0",
+   "speaker": null,
+   "en": "It'd be nice to have[n]a strong country.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_1201_5#0",
+   "speaker": null,
+   "en": "Shido has this in the bag![n]I can't wait for the election.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_1215_1#0",
+   "speaker": null,
+   "en": "That damn circus is[n]happening soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_1215_2#0",
+   "speaker": null,
+   "en": "It's almost election day.[n]I'm getting excited!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_1215_3#0",
+   "speaker": null,
+   "en": "We'll definitely get all[n]300 seats in parliament...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_1215_4#0",
+   "speaker": null,
+   "en": "If you care about this[n]country, you should[n]vote for Shido.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_1215_5#0",
+   "speaker": null,
+   "en": "We're with you, Shido![n]Hurry up and become[n]prime minister!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_YOKOKUGO_1201_#0",
+   "speaker": null,
+   "en": "That phantom thief is still[n]alive? Is this for real?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_YOKOKUGO_1201__2#0",
+   "speaker": null,
+   "en": "They have to be lying.[n]There's no proof.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_YOKOKUGO_1201__3#0",
+   "speaker": null,
+   "en": "His approval rating[n]is still the same.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_YOKOKUGO_1201__4#0",
+   "speaker": null,
+   "en": "I mean, I can't imagine[n]anyone but Shido in office.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_YOKOKUGO_1201__5#0",
+   "speaker": null,
+   "en": "Shido's gonna win![n]I hope he becomes[n]prime minister soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_YOKOKUGO_1215_#0",
+   "speaker": null,
+   "en": "That damn circus is[n]happening soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_YOKOKUGO_1215__2#0",
+   "speaker": null,
+   "en": "It's almost election day.[n]I'm getting excited!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_YOKOKUGO_1215__3#0",
+   "speaker": null,
+   "en": "Is Shido-san okay? We haven't[n]heard from him since then...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_YOKOKUGO_1215__4#0",
+   "speaker": null,
+   "en": "He's strong. He'll[n]be back in no time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_YOKOKUGO_1215__5#0",
+   "speaker": null,
+   "en": "We're with you, Shido![n]Hurry up and become[n]prime minister!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_0107_1#0",
+   "speaker": null,
+   "en": "My little sister's been telling[n]me to fix her PC... She's[n]always been the bossy type.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_0107_2#0",
+   "speaker": null,
+   "en": "Study abroad? No thanks.[n]I'm having a great time here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_0107_3#0",
+   "speaker": null,
+   "en": "You work at a maid café!?[n]Wow, I never would have[n]guessed with you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_0107_4#0",
+   "speaker": null,
+   "en": "Huh? Really? It's the[n]best job I've ever had!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_0107_5#0",
+   "speaker": null,
+   "en": "Have the store attendants[n]here always been so friendly?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_0122_1#0",
+   "speaker": null,
+   "en": "Am I an idol...? No, not me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_0122_2#0",
+   "speaker": null,
+   "en": "My mom lets me play games.[n]We even play them together!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_0122_3#0",
+   "speaker": null,
+   "en": "I'm not going to get a[n]facelift! I like my face.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_0122_4#0",
+   "speaker": null,
+   "en": "Oh? I thought you said your[n]nose was... Sorry, never mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_0122_5#0",
+   "speaker": null,
+   "en": "I don't mind the pay...[n]as long as I can buy[n]my trading cards.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_0129_1#0",
+   "speaker": null,
+   "en": "You've changed somehow.[n]Like, you're more dependable[n]than you were before...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_0129_2#0",
+   "speaker": null,
+   "en": "I like playing the maid.[n]I don't think I can hold[n]an office job...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_0129_3#0",
+   "speaker": null,
+   "en": "Your own shop? Forget it. No[n]matter how hard you work,[n]it can still give you trouble.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_0129_4#0",
+   "speaker": null,
+   "en": "Was I always like this...? ...Huh?[n]Oh, it's nothing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GREET_0129_5#0",
+   "speaker": null,
+   "en": "I'm so glad to have a pet[n]like Leo! We'll be together[n]forever, won't we?",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

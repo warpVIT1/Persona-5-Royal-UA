@@ -1,0 +1,3036 @@
+{
+ "file": "EN/FIELD/PANEL/LMAP/LMAP.BF",
+ "entries": [
+  {
+   "id": "MSG_DUMMY#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "SPOT_SELECT_COMMON#0",
+   "speaker": null,
+   "en": "Go with Ryuji",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SPOT_SELECT_COMMON#1",
+   "speaker": null,
+   "en": "Go with Ann",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SPOT_SELECT_COMMON#2",
+   "speaker": null,
+   "en": "Go with Yusuke",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SPOT_SELECT_COMMON#3",
+   "speaker": null,
+   "en": "Go with Makoto",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SPOT_SELECT_COMMON#4",
+   "speaker": null,
+   "en": "Go by yourself",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SPOT_SELECT_COMMON#5",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SPOT_GO#0",
+   "speaker": null,
+   "en": "Let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SPOT_GO#1",
+   "speaker": null,
+   "en": "Never mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SPOT_GO_ASAKUSA#0",
+   "speaker": null,
+   "en": "Skytree",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SPOT_GO_ASAKUSA#1",
+   "speaker": null,
+   "en": "Nakamise Street",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SPOT_GO_ASAKUSA#2",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "OGIKUBO_COMMON_000#0",
+   "speaker": "Morgana",
+   "en": "[clr 2]Ogikubo[clr 27], huh? There's a [clr 2]popular[n]ramen shop[clr 27] there. Want to go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "OGIKUBO_COMMON_001#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]ramen[n]shop[clr 27] in [clr 2]Ogikubo[clr 27] with Ryuji.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "OGIKUBO_COMMON_002#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]ramen[n]shop[clr 27] in [clr 2]Ogikubo[clr 27] with Lady Ann.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "OGIKUBO_COMMON_003#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]ramen[n]shop[clr 27] in [clr 2]Ogikubo[clr 27] with Yusuke.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "OGIKUBO_COMMON_004#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]ramen[n]shop[clr 27] in [clr 2]Ogikubo[clr 27] with Makoto.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "OGIKUBO_COMMON_005#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]ramen[n]shop[clr 27] in [clr 2]Ogikubo[clr 27] with Futaba.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "OGIKUBO_COMMON_006#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]ramen[n]shop[clr 27] in [clr 2]Ogikubo[clr 27] with Haru.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ITIGAYA_COMMON_000#0",
+   "speaker": "Morgana",
+   "en": "[clr 2]Ichigaya[clr 27], huh? There's a [clr 2]fishing[n]pond[clr 27] there... Want to go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ITIGAYA_COMMON_001#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]fishing[n]pond[clr 27] in [clr 2]Ichigaya[clr 27] with Ryuji.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ITIGAYA_COMMON_002#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]fishing[n]pond[clr 27] in [clr 2]Ichigaya[clr 27] with Lady Ann.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ITIGAYA_COMMON_003#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]fishing[n]pond[clr 27] in [clr 2]Ichigaya[clr 27] with Yusuke.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ITIGAYA_COMMON_004#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]fishing[n]pond[clr 27] in [clr 2]Ichigaya[clr 27] with Makoto.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ITIGAYA_COMMON_005#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]fishing[n]pond[clr 27] in [clr 2]Ichigaya[clr 27] with Futaba.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ITIGAYA_COMMON_006#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]fishing[n]pond[clr 27] in [clr 2]Ichigaya[clr 27] with Haru.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SUIDOUBASHI_COMMON_000#0",
+   "speaker": "Morgana",
+   "en": "[clr 2]Suidobashi[clr 27], huh? That's where[n][clr 2]Dome Town[clr 27] is... Want to go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SUIDOUBASHI_BAD_WEATHER#0",
+   "speaker": "Morgana",
+   "en": "[clr 2]Suidobashi[clr 27], huh? That's where [clr 2]Dome[n]Town[clr 27] is... but the weather's no[n]good today. Let's go elsewhere.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SUIDOUBASHI_COMMON_001#0",
+   "speaker": "Morgana",
+   "en": "You've already been to [clr 2]Dome[n]Town[clr 27] in [clr 2]Suidobashi[clr 27] with Ryuji.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SUIDOUBASHI_COMMON_002#0",
+   "speaker": "Morgana",
+   "en": "You've already been to [clr 2]Dome[n]Town[clr 27] in [clr 2]Suidobashi[clr 27] with Lady Ann.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SUIDOUBASHI_COMMON_003#0",
+   "speaker": "Morgana",
+   "en": "You've already been to [clr 2]Dome[n]Town[clr 27] in [clr 2]Suidobashi[clr 27] with Yusuke.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SUIDOUBASHI_COMMON_004#0",
+   "speaker": "Morgana",
+   "en": "You've already been to [clr 2]Dome[n]Town[clr 27] in [clr 2]Suidobashi[clr 27] with Makoto.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SUIDOUBASHI_COMMON_005#0",
+   "speaker": "Morgana",
+   "en": "You've already been to [clr 2]Dome[n]Town[clr 27] in [clr 2]Suidobashi[clr 27] with Futaba.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SUIDOUBASHI_COMMON_006#0",
+   "speaker": "Morgana",
+   "en": "You've already been to [clr 2]Dome[n]Town[clr 27] in [clr 2]Suidobashi[clr 27] with Haru.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "INOKASIRA_COMMON_000#0",
+   "speaker": "Morgana",
+   "en": "[clr 2]Inokashira Park[clr 27], huh? There's a[n][clr 2]big lake[clr 27] there... Want to go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "INOKASIRA_BAD_WEATHER#0",
+   "speaker": "Morgana",
+   "en": "[clr 2]Inokashira Park[clr 27], huh? There's a [clr 2]big[n]lake[clr 27] there... but the weather's no[n]good today. Let's go elsewhere.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "INOKASIRA_COMMON_001#0",
+   "speaker": "Morgana",
+   "en": "You've already [clr 2]been to the lake[clr 27][n]at [clr 2]Inokashira Park[clr 27] with Ryuji.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "INOKASIRA_COMMON_002#0",
+   "speaker": "Morgana",
+   "en": "You've already [clr 2]been to the lake[clr 27][n]at [clr 2]Inokashira Park[clr 27] with Lady Ann.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "INOKASIRA_COMMON_003#0",
+   "speaker": "Morgana",
+   "en": "You've already [clr 2]been to the lake[clr 27][n]at [clr 2]Inokashira Park[clr 27] with Yusuke.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "INOKASIRA_COMMON_004#0",
+   "speaker": "Morgana",
+   "en": "You've already [clr 2]been to the lake[clr 27][n]at [clr 2]Inokashira Park[clr 27] with Makoto.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "INOKASIRA_COMMON_005#0",
+   "speaker": "Morgana",
+   "en": "You've already [clr 2]been to the lake[clr 27][n]at [clr 2]Inokashira Park[clr 27] with Futaba.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "INOKASIRA_COMMON_006#0",
+   "speaker": "Morgana",
+   "en": "You've already [clr 2]been to the lake[clr 27][n]at [clr 2]Inokashira Park[clr 27] with Haru.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "INOKASIRA_COMMON_007#0",
+   "speaker": "Morgana",
+   "en": "You've already [clr 2]been to the lake[clr 27][n]at [clr 2]Inokashira Park[clr 27] with Yoshizawa.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "INOKASIRA_COMMON_008#0",
+   "speaker": "Morgana",
+   "en": "You've already [clr 2]been to the lake[clr 27][n]at [clr 2]Inokashira Park[clr 27] with Sumire.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TUKISIMA_COMMON_000#0",
+   "speaker": "Morgana",
+   "en": "[clr 2]Tsukishima[clr 27], huh? There's a[n][clr 2]monjayaki shop[clr 27] there. Want to go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TUKISIMA_COMMON_001#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]monjayaki shop[clr 27] in [clr 2]Tsukishima[clr 27] with[n]Ryuji. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TUKISIMA_COMMON_002#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]monjayaki shop[clr 27] in [clr 2]Tsukishima[clr 27] with[n]Lady Ann. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TUKISIMA_COMMON_003#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]monjayaki shop[clr 27] in [clr 2]Tsukishima[clr 27] with[n]Yusuke. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TUKISIMA_COMMON_004#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]monjayaki shop[clr 27] in [clr 2]Tsukishima[clr 27] with[n]Makoto. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TUKISIMA_COMMON_005#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]monjayaki shop[clr 27] in [clr 2]Tsukishima[clr 27] with[n]Futaba. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TUKISIMA_COMMON_006#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]monjayaki shop[clr 27] in [clr 2]Tsukishima[clr 27] with[n]Haru. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HARAJUKU_COMMON_000#0",
+   "speaker": "Morgana",
+   "en": "[clr 2]Harajuku[clr 27], huh? That's where[n][clr 2]Takenoko Street[clr 27] is. Want to go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HARAJUKU_BAD_WEATHER#0",
+   "speaker": "Morgana",
+   "en": "[clr 2]Harajuku[clr 27], huh? That's where[n][clr 2]Takenoko Street[clr 27] is... but the[n]weather's not right for it today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HARAJUKU_COMMON_001#0",
+   "speaker": "Morgana",
+   "en": "You've already been to [clr 2]Takenoko[n]Street[clr 27] in [clr 2]Harajuku[clr 27] with Ryuji.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HARAJUKU_COMMON_002#0",
+   "speaker": "Morgana",
+   "en": "You've already been to [clr 2]Takenoko[n]Street[clr 27] in [clr 2]Harajuku[clr 27] with Lady Ann.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HARAJUKU_COMMON_003#0",
+   "speaker": "Morgana",
+   "en": "You've already been to [clr 2]Takenoko[n]Street[clr 27] in [clr 2]Harajuku[clr 27] with Yusuke.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HARAJUKU_COMMON_004#0",
+   "speaker": "Morgana",
+   "en": "You've already been to [clr 2]Takenoko[n]Street[clr 27] in [clr 2]Harajuku[clr 27] with Makoto.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HARAJUKU_COMMON_005#0",
+   "speaker": "Morgana",
+   "en": "You've already been to [clr 2]Takenoko[n]Street[clr 27] in [clr 2]Harajuku[clr 27] with Futaba.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HARAJUKU_COMMON_006#0",
+   "speaker": "Morgana",
+   "en": "You've already been to [clr 2]Takenoko[n]Street[clr 27] in [clr 2]Harajuku[clr 27] with Haru.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "IKEBUKURO_COMMON_000#0",
+   "speaker": "Morgana",
+   "en": "[clr 2]Ikebukuro[clr 27], huh? There's a[n][clr 27]planetarium there... Want to go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "IKEBUKURO_COMMON_001#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]planetarium[clr 27] in [clr 2]Ikebukuro[clr 27] with[n]Ryuji. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "IKEBUKURO_COMMON_002#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]planetarium[clr 27] in [clr 2]Ikebukuro[clr 27] with[n]Lady Ann. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "IKEBUKURO_COMMON_003#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]planetarium[clr 27] in [clr 2]Ikebukuro[clr 27] with[n]Yusuke. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "IKEBUKURO_COMMON_004#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]planetarium[clr 27] in [clr 2]Ikebukuro[clr 27] with[n]Makoto. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "IKEBUKURO_COMMON_005#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]planetarium[clr 27] in [clr 2]Ikebukuro[clr 27] with[n]Futaba. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "IKEBUKURO_COMMON_006#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]planetarium[clr 27] in [clr 2]Ikebukuro[clr 27] with[n]Haru. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "AKIHABARA_COMMON_000#0",
+   "speaker": "Morgana",
+   "en": "[clr 2]Akihabara[clr 27], huh? There's[n]an [clr 2]electronics store[clr 27] there...[n]Want to go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "AKIHABARA_COMMON_001#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]electronics store[clr 27] in [clr 2]Akihabara[clr 27] with[n]Ryuji. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "AKIHABARA_COMMON_002#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]electronics store[clr 27] in [clr 2]Akihabara[clr 27] with[n]Lady Ann. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "AKIHABARA_COMMON_003#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]electronics store[clr 27] in [clr 2]Akihabara[clr 27] with[n]Yusuke. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "AKIHABARA_COMMON_004#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]electronics store[clr 27] in [clr 2]Akihabara[clr 27] with[n]Makoto. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "AKIHABARA_COMMON_005#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]electronics store[clr 27] in [clr 2]Akihabara[clr 27] with[n]Futaba. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "AKIHABARA_COMMON_006#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]electronics store[clr 27] in [clr 2]Akihabara[clr 27] with[n]Haru. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "UENO_COMMON_000#0",
+   "speaker": "Morgana",
+   "en": "[clr 2]Ueno[clr 27], huh? There's an [clr 2]art[n]museum[clr 27] there... Want to go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "UENO_COMMON_001#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]art museum[clr 27] in [clr 2]Ueno[clr 27] with Ryuji.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "UENO_COMMON_002#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]art museum[clr 27] in [clr 2]Ueno[clr 27] with Lady Ann.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "UENO_COMMON_003#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]art museum[clr 27] in [clr 2]Ueno[clr 27] with Yusuke.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "UENO_COMMON_004#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]art museum[clr 27] in [clr 2]Ueno[clr 27] with Makoto.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "UENO_COMMON_005#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]art museum[clr 27] in [clr 2]Ueno[clr 27] with Futaba.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "UENO_COMMON_006#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]art museum[clr 27] in [clr 2]Ueno[clr 27] with Haru.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GINZA_COMMON_000#0",
+   "speaker": "Morgana",
+   "en": "[clr 2]Ginza[clr 27], huh? There's a [clr 2]fancy sushi[n]restaurant[clr 27] there... Want to go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GINZA_COMMON_001#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]fancy[n]sushi restaurant[clr 27] in [clr 2]Ginza[clr 27] with[n]Ryuji. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GINZA_COMMON_002#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]fancy[n]sushi restaurant[clr 27] in [clr 2]Ginza[clr 27] with[n]Lady Ann. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GINZA_COMMON_003#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]fancy[n]sushi restaurant[clr 27] in [clr 2]Ginza[clr 27] with[n]Yusuke. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GINZA_COMMON_004#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]fancy[n]sushi restaurant[clr 27] in [clr 2]Ginza[clr 27] with[n]Makoto. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GINZA_COMMON_005#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]fancy[n]sushi restaurant[clr 27] in [clr 2]Ginza[clr 27] with[n]Futaba. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GINZA_COMMON_006#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]fancy[n]sushi restaurant[clr 27] in [clr 2]Ginza[clr 27] with[n]Haru. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ASAKUSA_COMMON_000#0",
+   "speaker": "Morgana",
+   "en": "[clr 2]Asakusa[clr 27], huh? [clr 2]Nakamise Street[clr 27][n]and the [clr 2]Skytree[clr 27] are there...[n]Want to go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ASAKUSA_BAD_WEATHER#0",
+   "speaker": "Morgana",
+   "en": "[clr 2]Nakamise Street[clr 27] and the [clr 2]Skytree[clr 27],[n]huh? The weather's looking pretty[n]bad today... Let's go elsewhere.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ASAKUSA_COMMON_001#0",
+   "speaker": "Morgana",
+   "en": "You've already been to [clr 2]Nakamise[n]Street[clr 27] in [clr 2]Asakusa[clr 27] with Ryuji.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ASAKUSA_COMMON_002#0",
+   "speaker": "Morgana",
+   "en": "You've already been to [clr 2]Nakamise[n]Street[clr 27] in [clr 2]Asakusa[clr 27] with Lady Ann.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ASAKUSA_COMMON_003#0",
+   "speaker": "Morgana",
+   "en": "You've already been to [clr 2]Nakamise[n]Street[clr 27] in [clr 2]Asakusa[clr 27] with Yusuke.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ASAKUSA_COMMON_004#0",
+   "speaker": "Morgana",
+   "en": "You've already been to [clr 2]Nakamise[n]Street[clr 27] in [clr 2]Asakusa[clr 27] with Makoto.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ASAKUSA_COMMON_005#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]Skytree[clr 27] in [clr 2]Asakusa[clr 27] with Futaba.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ASAKUSA_COMMON_015#0",
+   "speaker": "Morgana",
+   "en": "You've already been to [clr 2]Nakamise[n]Street[clr 27] in [clr 2]Asakusa[clr 27] with Futaba.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ASAKUSA_COMMON_025#0",
+   "speaker": "Morgana",
+   "en": "You've already been to both the[n][clr 2]Skytree[clr 27] and [clr 2]Nakamise Street[clr 27] with[n]Futaba. What do you want to do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ASAKUSA_COMMON_006#0",
+   "speaker": "Morgana",
+   "en": "You've already been to [clr 2]Nakamise[n]Street[clr 27] in [clr 2]Asakusa[clr 27] with Haru.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ASAKUSA_COMMON_007#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]Skytree[clr 27] in [clr 2]Asakusa[clr 27] with Sumire.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ASAKUSA_COMMON_008#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]Skytree[clr 27] in [clr 2]Asakusa[clr 27] with Sumire.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JINBOUTYOU_COMMON_000#0",
+   "speaker": "Morgana",
+   "en": "[clr 2]Jinbocho[clr 27], huh? That's where[n][clr 2]Book Town[clr 27] is... Want to go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JINBOUTYOU_BAD_WEATHER#0",
+   "speaker": "Morgana",
+   "en": "[clr 2]Jinbocho[clr 27], huh? That's where[n][clr 2]Book Town[clr 27] is... but the weather's[n]bad today. Let's go elsewhere.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JINBOUTYOU_COMMON_001#0",
+   "speaker": "Morgana",
+   "en": "You've already been to [clr 2]Book[n]Town[clr 27] in [clr 2]Jinbocho[clr 27] with Ryuji.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JINBOUTYOU_COMMON_002#0",
+   "speaker": "Morgana",
+   "en": "You've already been to [clr 2]Book[n]Town[clr 27] in [clr 2]Jinbocho[clr 27] with Lady Ann.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JINBOUTYOU_COMMON_003#0",
+   "speaker": "Morgana",
+   "en": "You've already been to [clr 2]Book[n]Town[clr 27] in [clr 2]Jinbocho[clr 27] with Yusuke.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JINBOUTYOU_COMMON_004#0",
+   "speaker": "Morgana",
+   "en": "You've already been to [clr 2]Book[n]Town[clr 27] in [clr 2]Jinbocho[clr 27] with Makoto.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JINBOUTYOU_COMMON_005#0",
+   "speaker": "Morgana",
+   "en": "You've already been to [clr 2]Book[n]Town[clr 27] in [clr 2]Jinbocho[clr 27] with Futaba.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JINBOUTYOU_COMMON_006#0",
+   "speaker": "Morgana",
+   "en": "You've already been to [clr 2]Book[n]Town[clr 27] in [clr 2]Jinbocho[clr 27] with Haru.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ODAIBA_COMMON_000#0",
+   "speaker": "Morgana",
+   "en": "[clr 2]Odaiba Seaside Park[clr 27], huh? There's a[n][clr 2]Ferris wheel[clr 27] there... Want to go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ODAIBA_COMMON_999#0",
+   "speaker": "Morgana",
+   "en": "[clr 2]Odaiba[clr 27], huh? That's where[n][clr 2]Seaside Park[clr 27] is... Want to go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ODAIBA_BAD_WEATHER#0",
+   "speaker": "Morgana",
+   "en": "[clr 2]Odaiba[clr 27], huh? That's where [clr 2]Seaside[n]Park[clr 27] is... but the weather's pretty[n]bad today. Let's go elsewhere.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ODAIBA_COMMON_001#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]Ferris[n]wheel[clr 27] in [clr 2]Odaiba Seaside Park[clr 27] with[n]Ryuji. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ODAIBA_COMMON_002#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]Ferris[n]wheel[clr 27] in [clr 2]Odaiba Seaside Park[clr 27] with[n]Lady Ann. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ODAIBA_COMMON_003#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]Ferris[n]wheel[clr 27] in [clr 2]Odaiba Seaside Park[clr 27] with[n]Yusuke. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ODAIBA_COMMON_004#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]Ferris[n]wheel[clr 27] in [clr 2]Odaiba Seaside Park[clr 27] with[n]Makoto. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ODAIBA_COMMON_014#0",
+   "speaker": "Morgana",
+   "en": "You've already been to [clr 2]Seaside[n]Park[clr 27] in [clr 2]Odaiba[clr 27] with Makoto.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ODAIBA_COMMON_005#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]Ferris[n]wheel[clr 27] in [clr 2]Odaiba Seaside Park[clr 27] with[n]Futaba. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ODAIBA_COMMON_006#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]Ferris[n]wheel[clr 27] in [clr 2]Odaiba Seaside Park[clr 27] with[n]Haru. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ODAIBA_COMMON_007#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]Ferris[n]wheel[clr 27] in [clr 2]Odaiba Seaside Park[clr 27] with[n]Yoshizawa. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YOKOHAMA_COMMON_000#0",
+   "speaker": "Morgana",
+   "en": "[clr 2]Motomachi[clr 27], huh? There's a[n][clr 2]Chinatown[clr 27] there... Want to go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YOKOHAMA_BAD_WEATHER#0",
+   "speaker": "Morgana",
+   "en": "[clr 2]Motomachi[clr 27], huh? There's a[n][clr 2]Chinatown[clr 27] there, but the weather's[n]bad today... Let's go elsewhere.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YOKOHAMA_COMMON_001#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]Chinatown[clr 27] in [clr 2]Motomachi[clr 27] with[n]Ryuji. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YOKOHAMA_COMMON_002#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]Chinatown[clr 27] in [clr 2]Motomachi[clr 27] with[n]Lady Ann. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YOKOHAMA_COMMON_003#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]Chinatown[clr 27] in [clr 2]Motomachi[clr 27] with[n]Yusuke. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YOKOHAMA_COMMON_004#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]Chinatown[clr 27] in [clr 2]Motomachi[clr 27] with[n]Makoto. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YOKOHAMA_COMMON_005#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]Chinatown[clr 27] in [clr 2]Motomachi[clr 27] with[n]Futaba. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YOKOHAMA_COMMON_006#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]Chinatown[clr 27] in [clr 2]Motomachi[clr 27] with[n]Haru. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MIURAKAIGAN_COMMON_000#0",
+   "speaker": "Morgana",
+   "en": "[clr 2]Miura[clr 27], huh? There's a[n][clr 2]beach[clr 27] there... Want to go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MAIHAMA_COMMON_000#0",
+   "speaker": "Morgana",
+   "en": "[clr 2]Maihama[clr 27], huh? That's where[n][clr 2]Destinyland[clr 27] is... Want to go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MAIHAMA_BAD_WEATHER#0",
+   "speaker": "Morgana",
+   "en": "[clr 2]Maihama[clr 27], huh? That's where[n][clr 2]Destinyland[clr 27] is... but the weather[n]isn't looking good for it today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MAIHAMA_COMMON_001#0",
+   "speaker": "Morgana",
+   "en": "You've already been to[n][clr 2]Destinyland[clr 27] in [clr 2]Maihama[clr 27] with[n]Ryuji. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MAIHAMA_COMMON_002#0",
+   "speaker": "Morgana",
+   "en": "You've already been to[n][clr 2]Destinyland[clr 27] in [clr 2]Maihama[clr 27] with[n]Lady Ann. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MAIHAMA_COMMON_003#0",
+   "speaker": "Morgana",
+   "en": "You've already been to[n][clr 2]Destinyland[clr 27] in [clr 2]Maihama[clr 27] with[n]Yusuke. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MAIHAMA_COMMON_004#0",
+   "speaker": "Morgana",
+   "en": "You've already been to[n][clr 2]Destinyland[clr 27] in [clr 2]Maihama[clr 27] with[n]Makoto. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MAIHAMA_COMMON_005#0",
+   "speaker": "Morgana",
+   "en": "You've already been to[n][clr 2]Destinyland[clr 27] in [clr 2]Maihama[clr 27] with[n]Futaba. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MAIHAMA_COMMON_006#0",
+   "speaker": "Morgana",
+   "en": "You've already been to[n][clr 2]Destinyland[clr 27] in [clr 2]Maihama[clr 27] with[n]Haru. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MAIHAMA_COMMON_007#0",
+   "speaker": "Morgana",
+   "en": "You've already been to[n][clr 2]Destinyland[clr 27] in [clr 2]Maihama[clr 27] with[n]Sumire. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEIJIJINGU_COMMON_000#0",
+   "speaker": "Morgana",
+   "en": "[clr 2]Meiji Shrine[clr 27], huh? You can[n][clr 2]pray[clr 27] there... Want to go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEIJIJINGU_BAD_WEATHER#0",
+   "speaker": "Morgana",
+   "en": "[clr 2]Meiji Shrine[clr 27], huh? You can [clr 2]pray[clr 27][n]there... but the weather's pretty[n]bad today. Let's go elsewhere.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEIJIJINGU_COMMON_001#0",
+   "speaker": "Morgana",
+   "en": "You've already [clr 2]prayed[clr 27] at[n][clr 2]Meiji Shrine[clr 27] with Ryuji.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEIJIJINGU_COMMON_002#0",
+   "speaker": "Morgana",
+   "en": "You've already [clr 2]prayed[clr 27] at[n][clr 2]Meiji Shrine[clr 27] with Lady Ann.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEIJIJINGU_COMMON_003#0",
+   "speaker": "Morgana",
+   "en": "You've already [clr 2]prayed[clr 27] at[n][clr 2]Meiji Shrine[clr 27] with Yusuke.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEIJIJINGU_COMMON_004#0",
+   "speaker": "Morgana",
+   "en": "You've already [clr 2]prayed[clr 27] at[n][clr 2]Meiji Shrine[clr 27] with Makoto.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEIJIJINGU_COMMON_005#0",
+   "speaker": "Morgana",
+   "en": "You've already [clr 2]prayed[clr 27] at[n][clr 2]Meiji Shrine[clr 27] with Futaba.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEIJIJINGU_COMMON_006#0",
+   "speaker": "Morgana",
+   "en": "You've already [clr 2]prayed[clr 27] at[n][clr 2]Meiji Shrine[clr 27] with Haru.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEIJIJINGU_COMMON_007#0",
+   "speaker": "Morgana",
+   "en": "You've already [clr 2]prayed[clr 27] at[n][clr 2]Meiji Shrine[clr 27] with Yoshizawa.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEIJIJINGU_COMMON_008#0",
+   "speaker": "Morgana",
+   "en": "You've already [clr 2]prayed[clr 27] at[n][clr 2]Meiji Shrine[clr 27] with Sumire.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHIBUYA_COMMON_000#0",
+   "speaker": "Morgana",
+   "en": "[clr 2]Shibuya[clr 27], huh? That's where the[n][clr 2]Wilton buffet[clr 27] is... Want to go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHIBUYA_COMMON_001#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]Wilton[n]buffet[clr 27] in [clr 2]Shibuya[clr 27] with Ryuji.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHIBUYA_COMMON_002#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]Wilton[n]buffet[clr 27] in [clr 2]Shibuya[clr 27] with Lady Ann.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHIBUYA_COMMON_003#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]Wilton[n]buffet[clr 27] in [clr 2]Shibuya[clr 27] with Yusuke.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHIBUYA_COMMON_004#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]Wilton[n]buffet[clr 27] in [clr 2]Shibuya[clr 27] with Makoto.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHIBUYA_COMMON_005#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]Wilton[n]buffet[clr 27] in [clr 2]Shibuya[clr 27] with Futaba.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SHIBUYA_COMMON_006#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]Wilton[n]buffet[clr 27] in [clr 2]Shibuya[clr 27] with Haru.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YONCHA_COMMON_000#0",
+   "speaker": "Morgana",
+   "en": "Do you want to go back[n]to [clr 2]your place[clr 27] together?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SINAGAWA_COMMON_000#0",
+   "speaker": "Morgana",
+   "en": "[clr 2]Shinagawa[clr 27], huh? That's where[n]the [clr 2]aquarium[clr 27] is... Want to go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SINAGAWA_COMMON_001#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]aquarium[clr 27] in [clr 2]Shinagawa[clr 27] with[n]Ryuji. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SINAGAWA_COMMON_002#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]aquarium[clr 27][n]in [clr 2]Shinagawa[clr 27] with Lady Ann. Do you[n]want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SINAGAWA_COMMON_003#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]aquarium[clr 27][n]in [clr 2]Shinagawa[clr 27] with Yusuke. Do you[n]want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SINAGAWA_COMMON_004#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]aquarium[clr 27][n]in [clr 2]Shinagawa[clr 27] with Makoto. Do you[n]want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SINAGAWA_COMMON_005#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]aquarium[clr 27][n]in [clr 2]Shinagawa[clr 27] with Futaba. Do you[n]want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SINAGAWA_COMMON_006#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the[n][clr 2]aquarium[clr 27] in [clr 2]Shinagawa[clr 27] with[n]Haru. Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SINAGAWA_COMMON_007#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]aquarium[clr 27][n]in [clr 2]Shinagawa[clr 27] with Yoshizawa. Do you[n]want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SINAGAWA_COMMON_008#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]aquarium[clr 27][n]in [clr 2]Shinagawa[clr 27] with Sumire. Do you[n]want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NAKANO_COMMON_000#0",
+   "speaker": "Morgana",
+   "en": "[clr 2]Nakano[clr 27], huh? That's where the[n][clr 2]Commerce Building District[clr 27] is...[n]Want to go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NAKANO_COMMON_001#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]Commerce[n]Building District[clr 27] in [clr 2]Nakano[clr 27] with Ryuji.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NAKANO_COMMON_002#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]Commerce[n]Building District[clr 27] in [clr 2]Nakano[clr 27] with Lady Ann.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NAKANO_COMMON_003#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]Commerce[n]Building District[clr 27] in [clr 2]Nakano[clr 27] with Yusuke.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NAKANO_COMMON_004#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]Commerce[n]Building District[clr 27] in [clr 2]Nakano[clr 27] with Makoto.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NAKANO_COMMON_005#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]Commerce[n]Building District[clr 27] in [clr 2]Nakano[clr 27] with Futaba.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NAKANO_COMMON_006#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]Commerce[n]Building District[clr 27] in [clr 2]Nakano[clr 27] with Haru.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NAKANO_COMMON_007#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]Commerce[n]Building District[clr 27] in [clr 2]Nakano[clr 27] with Yoshizawa.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NAKANO_COMMON_008#0",
+   "speaker": "Morgana",
+   "en": "You've already been to the [clr 2]Commerce[n]Building District[clr 27] in [clr 2]Nakano[clr 27] with Sumire.[n]Do you want to go again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_DUMMY#0",
+   "speaker": "Morgana",
+   "en": "Dummy MSG_SPOT_DUMMY",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RYUJI_SPOT_OGIKUBO#0",
+   "speaker": "Ryuji",
+   "en": "Oh, that ramen place!? Sure,[n]I'm pretty damn hungry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RYUJI_SPOT_OGIKUBO#1",
+   "speaker": "Ryuji",
+   "en": "Mkay, let's get goin'!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RYUJI_SPOT_OGIKUBO_0#0",
+   "speaker": "Ryuji",
+   "en": "You're totally diggin' that[n]ramen, huh? Mkay, let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RYUJI_SPOT_TUKISHIMA#0",
+   "speaker": "Ryuji",
+   "en": "Oh, you wanna go to that[n]monja shop? Let's make some[n]tasty memories, dude.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RYUJI_SPOT_TUKISHIMA#1",
+   "speaker": "Ryuji",
+   "en": "Mkay, let's get goin'!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RYUJI_SPOT_TUKISHIMA_2#0",
+   "speaker": "Ryuji",
+   "en": "Monja's best when it's[n]burnin' the roof of your[n]mouth. C'mon, let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RYUJI_SPOT_AKIHABARA#0",
+   "speaker": "Ryuji",
+   "en": "The electronics store? I guess it's[n]pretty fun goin' there. Let's go[n]look at some exercise machines!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RYUJI_SPOT_AKIHABARA#1",
+   "speaker": "Ryuji",
+   "en": "Mkay, let's get goin'!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RYUJI_SPOT_AKIHABARA_2#0",
+   "speaker": "Ryuji",
+   "en": "Ain't it weird how you wanna look[n]at electronics even though you[n]can't buy 'em? Anyways, let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RYUJI_SPOT_SUIDOUBAS#0",
+   "speaker": "Ryuji",
+   "en": "Isn't that place all couples?[n]Well, as long as it's fun...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RYUJI_SPOT_SUIDOUBAS#1",
+   "speaker": "Ryuji",
+   "en": "Anyways, let's go. We're gonna[n]conquer that roller coaster!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RYUJI_SPOT_SUIDOUBAS_2#0",
+   "speaker": "Ryuji",
+   "en": "Sweet, we're gonna have some[n]fun today! Let's get goin'!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RYUJI_SPOT_YOKOHAMA#0",
+   "speaker": "Ryuji",
+   "en": "Niiice, I'm game for some[n]all-you-can-eat Chinese food.[n]Let's stuff our faces, dude.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RYUJI_SPOT_YOKOHAMA#1",
+   "speaker": "Ryuji",
+   "en": "Mkay, let's get goin'!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RYUJI_SPOT_YOKOHAMA_#0",
+   "speaker": "Ryuji",
+   "en": "I'll never get tired of goin'[n]there! C'mon, let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RYUJI_SPOT_NAKANO#0",
+   "speaker": "Ryuji",
+   "en": "Nakano, huh... I guess we can go check it[n]out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RYUJI_SPOT_NAKANO#1",
+   "speaker": "Ryuji",
+   "en": "Alright, let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RYUJI_SPOT_NAKANO_02#0",
+   "speaker": "Ryuji",
+   "en": "I'll never get tired of goin'[n]there! C'mon, let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_SPOT_INOKASIRA#0",
+   "speaker": "Ann",
+   "en": "Inokashira Park? Okay.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_SPOT_INOKASIRA#1",
+   "speaker": "Ann",
+   "en": "I like it there too. Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_SPOT_INOKASIRA_#0",
+   "speaker": "Ann",
+   "en": "Yeah, Inokashira Park sounds[n]really nice. Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_SPOT_HARAJUKU#0",
+   "speaker": "Ann",
+   "en": "Harajuku... How about Takenoko[n]Street? It'd be great if you[n]could come shopping with me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_SPOT_HARAJUKU#1",
+   "speaker": "Ann",
+   "en": "Even just going for the[n]people watching is interesting.[n]Anyway, let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_SPOT_HARAJUKU_0#0",
+   "speaker": "Ann",
+   "en": "Okay, Takenoko Street sounds great.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_SPOT_IKEBUKURO#0",
+   "speaker": "Ann",
+   "en": "I've been wanting to go to the[n]planetarium for ages! Ikebukuro[n]isn't too far away either.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_SPOT_IKEBUKURO#1",
+   "speaker": "Ann",
+   "en": "Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_SPOT_IKEBUKURO_#0",
+   "speaker": "Ann",
+   "en": "Yeah, let's do it. That[n]planetarium's great.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_SPOT_BUFFET#0",
+   "speaker": "Ann",
+   "en": "That buffet we went to before?[n]I'll need you to make sure I[n]don't eat too much, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_SPOT_BUFFET#1",
+   "speaker": "Ann",
+   "en": "Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_SPOT_BUFFET_02#0",
+   "speaker": "Ann",
+   "en": "Sounds good. Just don't[n]let me eat too much!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_SPOT_MAIHAMA#0",
+   "speaker": "Ann",
+   "en": "Whoa, really!? I'm so happy you[n]asked! Let's go enjoy ourselves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_SPOT_MAIHAMA#1",
+   "speaker": "Ann",
+   "en": "Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_SPOT_MAIHAMA_02#0",
+   "speaker": "Ann",
+   "en": "Of course I'll go with you![n]I'm gonna savor this trip!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_SPOT_KANRANSYA#0",
+   "speaker": "Ann",
+   "en": "Yeah, the Ferris wheel sounds[n]lovely. It'll be nice spending[n]some time just the two of us...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_SPOT_KANRANSYA#1",
+   "speaker": "Ann",
+   "en": "Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_SPOT_KANRANSYA_#0",
+   "speaker": "Ann",
+   "en": "Yeah, let's go! The view from[n]up there was really pretty.[n]I'd love to see it again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_SPOT_UENO#0",
+   "speaker": "Ann",
+   "en": "The art museum? Sure. I could[n]probably learn a thing or two[n]about modeling while we're there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_SPOT_UENO#1",
+   "speaker": "Ann",
+   "en": "Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_SPOT_UENO_02#0",
+   "speaker": "Ann",
+   "en": "Yeah, it's a great opportunity[n]for me to study. Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUSUKE_SPOT_OGIKUBO#0",
+   "speaker": "Yusuke",
+   "en": "Hm... Ramen in Ogikubo? I was[n]just beginning to feel peckish.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUSUKE_SPOT_OGIKUBO#1",
+   "speaker": "Yusuke",
+   "en": "Let us depart at once.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUSUKE_SPOT_OGIKUBO_#0",
+   "speaker": "Yusuke",
+   "en": "Mm... I was just thinking[n]about my desire to have[n]that again. Let us go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUSUKE_SPOT_UENO#0",
+   "speaker": "Yusuke",
+   "en": "Ah yes, gazing upon the work[n]of the masters... You have such[n]interesting ideas.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUSUKE_SPOT_UENO#1",
+   "speaker": "Yusuke",
+   "en": "Well then, let us be off.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUSUKE_SPOT_UENO_02#0",
+   "speaker": "Yusuke",
+   "en": "Yes, let us go forth and[n]study the great classics.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUSUKE_SPOT_IKEBUKUR#0",
+   "speaker": "Yusuke",
+   "en": "The planetarium, hm? That[n]may be a good place for me[n]to make new discoveries.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUSUKE_SPOT_IKEBUKUR#1",
+   "speaker": "Yusuke",
+   "en": "Let's go, [fName].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUSUKE_SPOT_IKEBUKUR_2#0",
+   "speaker": "Yusuke",
+   "en": "Very well. The stars provide[n]great inspiration for my[n]art. Now then, let us go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUSUKE_SPOT_JINBO#0",
+   "speaker": "Yusuke",
+   "en": "Ah, you think we could look[n]for art books there? I hope[n]there are some good ones.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUSUKE_SPOT_JINBO#1",
+   "speaker": "Yusuke",
+   "en": "Let us depart at once.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUSUKE_SPOT_JINBO_02#0",
+   "speaker": "Yusuke",
+   "en": "You want to look for the hidden[n]gem that is a wonderful art book?[n]Very well, let us depart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUSUKE_SPOT_MEIJIJIN#0",
+   "speaker": "Yusuke",
+   "en": "A shrine, hm? Experiencing[n]traditional culture may be nice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUSUKE_SPOT_MEIJIJIN#1",
+   "speaker": "Yusuke",
+   "en": "Let us go. I'll be counting[n]on you to lead the way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUSUKE_SPOT_MEIJIJIN_2#0",
+   "speaker": "Yusuke",
+   "en": "Another meditation session at the[n]shrine sounds superb. Let us go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUSUKE_SPOT_SINAGAWA#0",
+   "speaker": "Yusuke",
+   "en": "Hm, an aquarium... Let us go and be awed[n]by the beautiful movements of the fish.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUSUKE_SPOT_SINAGAWA#1",
+   "speaker": "Yusuke",
+   "en": "Let us go. I'll be counting[n]on you to lead the way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUSUKE_SPOT_SINAGAWA_2#0",
+   "speaker": "Yusuke",
+   "en": "Perhaps I can create a new painting in[n]my mind by observing. Let us get going.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAKOTO_SPOT_OGIKUBO#0",
+   "speaker": "Makoto",
+   "en": "Hm, I haven't been to a[n]ramen shop in a long time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAKOTO_SPOT_OGIKUBO#1",
+   "speaker": "Makoto",
+   "en": "It would be nice to go again.[n]Can I ask that you show me[n]where it is?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAKOTO_SPOT_OGIKUBO_#0",
+   "speaker": "Makoto",
+   "en": "Sure. The flavor of that[n]ramen is honestly addicting...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAKOTO_SPOT_TUKISIMA#0",
+   "speaker": "Makoto",
+   "en": "Monjayaki... I've actually never[n]had it before. I'm interested in[n]giving it a try though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAKOTO_SPOT_TUKISIMA#1",
+   "speaker": "Makoto",
+   "en": "Could you take me there, [fName]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAKOTO_SPOT_TUKISIMA_2#0",
+   "speaker": "Makoto",
+   "en": "Sure. We can think about what[n]we want to get on our way there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAKOTO_SPOT_HARAJUKU#0",
+   "speaker": "Makoto",
+   "en": "I've actually never been to[n]Takenoko Street... This is a good[n]opportunity for a new experience.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAKOTO_SPOT_HARAJUKU#1",
+   "speaker": "Makoto",
+   "en": "Please lead the way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAKOTO_SPOT_HARAJUKU_2#0",
+   "speaker": "Makoto",
+   "en": "I still haven't quite had[n]enough of that place. Let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAKOTO_SPOT_SUIDOUBA#0",
+   "speaker": "Makoto",
+   "en": "Dome Town... I've heard of it,[n]but this will actually be my[n]first time going there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAKOTO_SPOT_SUIDOUBA#1",
+   "speaker": "Makoto",
+   "en": "You can lead the way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAKOTO_SPOT_SUIDOUBA_2#0",
+   "speaker": "Makoto",
+   "en": "Sure, I could go there as many[n]times as you ask me. Let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAKOTO_SPOT_YOKOHAMA#0",
+   "speaker": "Makoto",
+   "en": "Good idea. I've truthfully been[n]curious about going there myself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAKOTO_SPOT_YOKOHAMA#1",
+   "speaker": "Makoto",
+   "en": "Let's depart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAKOTO_SPOT_YOKOHAMA_2#0",
+   "speaker": "Makoto",
+   "en": "I love the foreign feel of[n]being there. Let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAKOTO_SPOT_MAIHAMA#0",
+   "speaker": "Makoto",
+   "en": "Hehe, I'm sure going with you[n]will be quite fun. Let's enjoy[n]a leisurely day out together.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAKOTO_SPOT_MAIHAMA#1",
+   "speaker": "Makoto",
+   "en": "We should get going.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAKOTO_SPOT_MAIHAMA_#0",
+   "speaker": "Makoto",
+   "en": "Sure, I would love relaxing with[n]you in the kingdom of dreams.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAKOTO_SPOT_KANRANSY#0",
+   "speaker": "Makoto",
+   "en": "I don't think I've ever ridden a[n]Ferris wheel... I'm a bit nervous.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAKOTO_SPOT_KANRANSY#1",
+   "speaker": "Makoto",
+   "en": "Well, shall we go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAKOTO_SPOT_KANRANSY_2#0",
+   "speaker": "Makoto",
+   "en": "That sounds good. I would love[n]another chance to appreciate the[n]view with you, [fName]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAKOTO_SPOT_ODAIBA#0",
+   "speaker": "Makoto",
+   "en": "I don't know much about Odaiba,[n]but that sounds like fun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAKOTO_SPOT_ODAIBA#1",
+   "speaker": "Makoto",
+   "en": "Let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAKOTO_SPOT_ODAIBA_0#0",
+   "speaker": "Makoto",
+   "en": "Yeah, the scenery there[n]was lovely. Let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_SPOT_ASAKUSA_#0",
+   "speaker": "Futaba",
+   "en": "The Skytree? 'Kay![n]High places are fun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_SPOT_ASAKUSA_#1",
+   "speaker": "Futaba",
+   "en": "Can you show me how to[n]get there [fName]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_SPOT_ASAKUSA__2#0",
+   "speaker": "Futaba",
+   "en": "The view last time was freaking[n]awesome... I'll go with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_SPOT_ASAKUSA__3#0",
+   "speaker": "Futaba",
+   "en": "That's a famous tourist[n]spot, right? I wonder[n]what it's like there...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_SPOT_ASAKUSA__3#1",
+   "speaker": "Futaba",
+   "en": "Okay, let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_SPOT_ASAKUSA__4#0",
+   "speaker": "Futaba",
+   "en": "...I'll go! I'm gonna eat[n]all the food there is!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_SPOT_HARAJUKU#0",
+   "speaker": "Futaba",
+   "en": "Takenoko Street...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_SPOT_HARAJUKU#1",
+   "speaker": "Futaba",
+   "en": "N-No, it's fine... Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_SPOT_HARAJUKU_2#0",
+   "speaker": "Futaba",
+   "en": "Takenoko Street... It'll be[n]Okay, I promise. Let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_SPOT_AKIHABAR#0",
+   "speaker": "Futaba",
+   "en": "A-A-Akihabaraaa! It's the best!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_SPOT_AKIHABAR#1",
+   "speaker": "Futaba",
+   "en": "I'm so happy! This is gonna[n]be so much fun! Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_SPOT_AKIHABAR_2#0",
+   "speaker": "Futaba",
+   "en": "Akihabara sounds perfect![n]There's stuff I wanna see there!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_SPOT_INOKASIR#0",
+   "speaker": "Futaba",
+   "en": "It's just a park, right? Quiet[n]places like that should be fine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_SPOT_INOKASIR#1",
+   "speaker": "Futaba",
+   "en": "I'm game. Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_SPOT_INOKASIR_2#0",
+   "speaker": "Futaba",
+   "en": "It's really relaxing there.[n]I'll gladly go with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_SPOT_KANRANSY#0",
+   "speaker": "Futaba",
+   "en": "Being alone together on the Ferris[n]wheel...? Piece of cake. I think[n]I'd really like that, actually.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_SPOT_KANRANSY#1",
+   "speaker": "Futaba",
+   "en": "Let's go! I'm gonna be[n]a great girlfriend!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_SPOT_KANRANSY_2#0",
+   "speaker": "Futaba",
+   "en": "Sure, I'll go. We can be alone[n]together on the Ferris wheel...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_SPOT_YOKOHAMA#0",
+   "speaker": "Futaba",
+   "en": "Chinatown!? I-It'll be fine...[n]They speak Japanese, right...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_SPOT_YOKOHAMA#1",
+   "speaker": "Futaba",
+   "en": "I-I'll go though. I'm excited!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_SPOT_YOKOHAMA_2#0",
+   "speaker": "Futaba",
+   "en": "I wanna explore Chinatown some[n]more... I'll go with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_SPOT_MAIHAMA#0",
+   "speaker": "Futaba",
+   "en": "Oof... There are lots of[n]people there, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_SPOT_MAIHAMA#1",
+   "speaker": "Futaba",
+   "en": "But... I'll be okay on a date!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_SPOT_MAIHAMA_#0",
+   "speaker": "Futaba",
+   "en": "Yeah, I wanna go! Crowds of[n]people are nothing to me when[n]we're together...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_SPOT_NAKANO#0",
+   "speaker": "Futaba",
+   "en": "Oh, Nakano! That's my holy land!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_SPOT_NAKANO#1",
+   "speaker": "Futaba",
+   "en": "I'm so happy! This is gonna[n]be so much fun! Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_SPOT_NAKANO_0#0",
+   "speaker": "Futaba",
+   "en": "Nakano sounds great! There's something[n]I wanna check out there!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SPOT_OGIKUBO#0",
+   "speaker": "Haru",
+   "en": "Ogikubo's ramen is famous, yes?[n]I've always wanted to try it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SPOT_OGIKUBO#1",
+   "speaker": "Haru",
+   "en": "All right, let's head over there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SPOT_OGIKUBO_02#0",
+   "speaker": "Haru",
+   "en": "Sure, I would love some more of[n]that ramen. Let's go, [fName]-kun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SPOT_TUKISHIMA#0",
+   "speaker": "Haru",
+   "en": "Monjayaki? I... don't think[n]I've ever had it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SPOT_TUKISHIMA#1",
+   "speaker": "Haru",
+   "en": "I wonder what it tastes like.[n]Let's go find out!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SPOT_TUKISHIMA_#0",
+   "speaker": "Haru",
+   "en": "Sure, I want to try cooking[n]it myself again! Let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SPOT_HARAJUKU#0",
+   "speaker": "Haru",
+   "en": "Takenoko Street? Looking at all[n]the stores there does sound nice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SPOT_HARAJUKU#1",
+   "speaker": "Haru",
+   "en": "All right, let's head over there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SPOT_HARAJUKU_0#0",
+   "speaker": "Haru",
+   "en": "Sure, let's head over. There's[n]actually a store there I've[n]been meaning to check out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SPOT_AKIHABARA#0",
+   "speaker": "Haru",
+   "en": "An electronics store? I look[n]forward to seeing what kind[n]of things they have there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SPOT_AKIHABARA#1",
+   "speaker": "Haru",
+   "en": "All right, let's head over there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SPOT_AKIHABARA_#0",
+   "speaker": "Haru",
+   "en": "Sure. Just going and looking[n]around is fun, don't you think?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SPOT_GINZA#0",
+   "speaker": "Haru",
+   "en": "Oh, the place in Ginza?[n]I love the sushi there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SPOT_GINZA#1",
+   "speaker": "Haru",
+   "en": "All right, let's head over there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SPOT_GINZA_02#0",
+   "speaker": "Haru",
+   "en": "Yes, the shrimp there is[n]absolutely delectable. Let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SPOT_MAIHAMA#0",
+   "speaker": "Haru",
+   "en": "Oh, I'm so glad you asked! We[n]have the day off today, so we[n]can take our time and have fun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SPOT_MAIHAMA#1",
+   "speaker": "Haru",
+   "en": "All right, let's head over there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SPOT_MAIHAMA_02#0",
+   "speaker": "Haru",
+   "en": "Yay! Let's walk around[n]and see all the sights!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SPOT_KANRANSYA#0",
+   "speaker": "Haru",
+   "en": "I might get a little embarrassed[n]alone on the Ferris wheel with[n]you... Not that I mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SPOT_KANRANSYA#1",
+   "speaker": "Haru",
+   "en": "Um... let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SPOT_KANRANSYA_#0",
+   "speaker": "Haru",
+   "en": "Sure, I've been hoping we could[n]ride the Ferris wheel together[n]again. Let's go, [fName]-kun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SPOT_MEIJIJINGU#0",
+   "speaker": "Haru",
+   "en": "I've always wanted to get a good[n]look at the grounds there. It's[n]such a wonderful shrine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SPOT_MEIJIJINGU#1",
+   "speaker": "Haru",
+   "en": "All right, let's head over there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SPOT_MEIJIJINGU_2#0",
+   "speaker": "Haru",
+   "en": "Can't you just feel the history[n]there? Well, let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KASUMI_SPOT_MEIJIJIN#0",
+   "speaker": "Kasumi",
+   "en": "That sounds great! It's good[n]to pray every now and then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KASUMI_SPOT_MEIJIJIN#1",
+   "speaker": "Kasumi",
+   "en": "Shall we get going?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_MEIJIJIN#0",
+   "speaker": "Sumire",
+   "en": "That's a great idea! I always go and pray[n]when there's something important I need[n]to do.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_MEIJIJIN#1",
+   "speaker": "Sumire",
+   "en": "Let's get going!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KASUMI_SPOT_MEIJIJIN_2#0",
+   "speaker": "Kasumi",
+   "en": "Okay! I've been feeling so much better[n]since the last time I prayed there!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KASUMI_SPOT_MEIJIJIN_2#1",
+   "speaker": "Kasumi",
+   "en": "Shall we get going?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_MEIJIJIN_2#0",
+   "speaker": "Sumire",
+   "en": "Sounds great! I'm sure the gods and[n]goddesses will hear our wishes again!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_MEIJIJIN_2#1",
+   "speaker": "Sumire",
+   "en": "Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KASUMI_SPOT_SKYTREE#0",
+   "speaker": "Kasumi",
+   "en": "Oh! I'd love to go up there! It may not[n]seem like it, but I really like heights!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KASUMI_SPOT_SKYTREE#1",
+   "speaker": "Kasumi",
+   "en": "Shall we get going?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_SKYTREE#0",
+   "speaker": "Sumire",
+   "en": "Oh, that one tall building! Sure, I love[n]heights!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_SKYTREE#1",
+   "speaker": "Sumire",
+   "en": "Let's get going!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KASUMI_SPOT_SKYTREE_#0",
+   "speaker": "Kasumi",
+   "en": "That sounds great! I can't wait to[n]see the view from up there again!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KASUMI_SPOT_SKYTREE_#1",
+   "speaker": "Kasumi",
+   "en": "Let's head on over!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_SKYTREE_#0",
+   "speaker": "Sumire",
+   "en": "Okay! The view from up there is amazing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_SKYTREE_#1",
+   "speaker": "Sumire",
+   "en": "Let's get going!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KASUMI_SPOT_INOKASHI#0",
+   "speaker": "Kasumi",
+   "en": "Great! I love that place!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KASUMI_SPOT_INOKASHI#1",
+   "speaker": "Kasumi",
+   "en": "Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_INOKASHI#0",
+   "speaker": "Sumire",
+   "en": "I really like boats. They're[n]great for balance training, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_INOKASHI#1",
+   "speaker": "Sumire",
+   "en": "Let's get going!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KASUMI_SPOT_INOKASHI_2#0",
+   "speaker": "Kasumi",
+   "en": "Sure! Let's go surround ourselves with[n]nature. I could use some of that energy!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KASUMI_SPOT_INOKASHI_2#1",
+   "speaker": "Kasumi",
+   "en": "Let's get going!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_INOKASHI_2#0",
+   "speaker": "Sumire",
+   "en": "We're going on that boat again? I'm so glad[n]you remembered that I like to go there!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_INOKASHI_2#1",
+   "speaker": "Sumire",
+   "en": "Now then, let's get going!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KASUMI_SPOT_YOKOHAMA#0",
+   "speaker": "Kasumi",
+   "en": "I've never been there before! Let's see[n]if we can visit every single store!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KASUMI_SPOT_YOKOHAMA#1",
+   "speaker": "Kasumi",
+   "en": "Let's hurry over!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_YOKOHAMA#0",
+   "speaker": "Sumire",
+   "en": "Oh, it'll be my first time going there! I[n]wonder if we can go to all the stores!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_YOKOHAMA#1",
+   "speaker": "Sumire",
+   "en": "Now then. Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KASUMI_SPOT_YOKOHAMA_2#0",
+   "speaker": "Kasumi",
+   "en": "I've been craving Chinese food! Let's make[n]sure we go to every store this time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KASUMI_SPOT_YOKOHAMA_2#1",
+   "speaker": "Kasumi",
+   "en": "Let's get going!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_YOKOHAMA_2#0",
+   "speaker": "Sumire",
+   "en": "I've been wanting Chinese food all day![n]We'll have to do our best to visit every[n]store this time around!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_YOKOHAMA_2#1",
+   "speaker": "Sumire",
+   "en": "Let's get going!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KASUMI_SPOT_SHINAGAW#0",
+   "speaker": "Kasumi",
+   "en": "I love aquariums! I hope there're penguins...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KASUMI_SPOT_SHINAGAW#1",
+   "speaker": "Kasumi",
+   "en": "Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_SHINAGAW#0",
+   "speaker": "Sumire",
+   "en": "Aquariums are the best! I wonder[n]if we'll get to see some penguins.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_SHINAGAW#1",
+   "speaker": "Sumire",
+   "en": "C'mon, Senpai! Let's get going!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KASUMI_SPOT_SHINAGAW_2#0",
+   "speaker": "Kasumi",
+   "en": "I just recently saw giant squid special[n]on TV, and I've been wanting to go[n]there ever since!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KASUMI_SPOT_SHINAGAW_2#1",
+   "speaker": "Kasumi",
+   "en": "Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_SHINAGAW_2#0",
+   "speaker": "Sumire",
+   "en": "Oh! I've been wanting to go there ever[n]since I saw a giant squid special on TV a[n]while back!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_SHINAGAW_2#1",
+   "speaker": "Sumire",
+   "en": "Let's get going!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_MAIHAMA#0",
+   "speaker": "Sumire",
+   "en": "I want to go on the thrill rides! I think[n]I'll be okay if I'm with you, Senpai...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_MAIHAMA#1",
+   "speaker": "Sumire",
+   "en": "Let's hurry over there!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_MAIHAMA_#0",
+   "speaker": "Sumire",
+   "en": "Spending time with my boyfriend at the[n]land of dreams... This time, let's take our[n]time going around.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_MAIHAMA_#1",
+   "speaker": "Sumire",
+   "en": "Let's head over now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_ODAIBA#0",
+   "speaker": "Kasumi",
+   "en": "It's been so long since I've been on a[n]Ferris wheel!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_ODAIBA#1",
+   "speaker": "Kasumi",
+   "en": "C'mon, Senpai. Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_ODAIBA_0#0",
+   "speaker": "Kasumi",
+   "en": "I'm so happy that I get to ride the[n]Ferris wheel with you again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_ODAIBA_0#1",
+   "speaker": "Kasumi",
+   "en": "Let's head over, Senpai.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_MYROOM#0",
+   "speaker": "Sumire",
+   "en": "As long as I'm with you, even just[n]sitting and talking can be fun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_MYROOM#1",
+   "speaker": "Sumire",
+   "en": "Let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_MYROOM_0#0",
+   "speaker": "Sumire",
+   "en": "I love how your room has the scent[n]of coffee...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SUMIRE_SPOT_MYROOM_0#1",
+   "speaker": "Sumire",
+   "en": "Let's head over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MONEY_SHORTAGE_FARE#0",
+   "speaker": "Morgana",
+   "en": "Hm, you don't have enough money.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MONEY_SHORTAGE_FARE#1",
+   "speaker": "Morgana",
+   "en": "Planning is important if you want[n]to be a good thief, you know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MONEY_SHORTAGE_FARE#2",
+   "speaker": "Morgana",
+   "en": "Oh well. I'll use my secret[n]savings to cover your return trip.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_MONEY_SHORTAGE_FARE#0",
+   "speaker": null,
+   "en": "I don't have enough for the train fare...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_MONEY_SHORTAGE_FARE#1",
+   "speaker": null,
+   "en": "Oh yeah...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_MONEY_SHORTAGE_FARE#2",
+   "speaker": null,
+   "en": "Morgana gave me some of his savings...[n]I should be careful how I spend it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NO_MONEY#0",
+   "speaker": null,
+   "en": "I don't have enough money[n]for a round trip fare...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_DISABLE_KF#0",
+   "speaker": "Morgana",
+   "en": "There's no reason for me[n]to go there right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_DISABLE_SPOT#0",
+   "speaker": "Morgana",
+   "en": "I should bring someone[n]here sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_DISABLE_SPOT_R#0",
+   "speaker": "Ryuji",
+   "en": "Huh. I dunno, it ain't bad but...[n]maybe we should go somewhere else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_DISABLE_SPOT_A#0",
+   "speaker": "Ann",
+   "en": "Um... sorry, but do you think[n]we could go somewhere else?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_DISABLE_SPOT_Y#0",
+   "speaker": "Yusuke",
+   "en": "I do not have interest in such[n]a location... My apologies, but[n]could you pick another spot?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_DISABLE_SPOT_M#0",
+   "speaker": "Makoto",
+   "en": "Well... I appreciate the offer,[n]but do you think there's anywhere[n]else we could go instead?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_DISABLE_SPOT_F#0",
+   "speaker": "Futaba",
+   "en": "Can we not? I think I[n]wanna go somewhere else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_DISABLE_SPOT_H#0",
+   "speaker": "Haru",
+   "en": "Um, sorry for saying this but...[n]if I'm going somewhere with you,[n]I'd rather it be a different spot.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_DISABLE_SPOT_K#0",
+   "speaker": "Kasumi",
+   "en": "Um... Sorry, but can we go somewhere else?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_DISABLE_SPOT_S#0",
+   "speaker": "Sumire",
+   "en": "Sorry, but would it be okay if we go[n]somewhere else?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_SHIBUYA#0",
+   "speaker": null,
+   "en": "This is where we went to[n]that buffet. I should bring[n]someone there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_YONCHA#0",
+   "speaker": null,
+   "en": "It's still a little early for[n]me to go back to Leblanc...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_AOYAMA#0",
+   "speaker": null,
+   "en": "I don't have any reason to be[n]going to school right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_SHINJUKU#0",
+   "speaker": null,
+   "en": "I don't have any reason to be[n]going to Shinjuku right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_AKIBA#0",
+   "speaker": null,
+   "en": "There's a large electronics store[n]near this station. I should bring[n]someone there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_KANDA#0",
+   "speaker": null,
+   "en": "There's nothing for me to[n]do in Kanda right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_KANDA_NIG#0",
+   "speaker": null,
+   "en": "There's nothing for me to do in[n]Kanda right now... I should comeback during the day...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_HARAJYUKU#0",
+   "speaker": null,
+   "en": "Takenoko Street is right near[n]this station. I should bring[n]someone there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_IKEBUKURO#0",
+   "speaker": null,
+   "en": "I know of a planetarium right[n]near this station. I should[n]bring someone there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_AKIBA_SPO#0",
+   "speaker": null,
+   "en": "There's a large electronics store[n]near this station. I should bring[n]someone there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_UENO#0",
+   "speaker": null,
+   "en": "There are lots of art museums near[n]this station. I should take someone[n]to check them out sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_OGIKUBO#0",
+   "speaker": null,
+   "en": "This station is near a famous[n]ramen shop. I should go eat[n]with someone there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_ICHIGAYA#0",
+   "speaker": null,
+   "en": "There's a fishing pond next to[n]this station. I should go fish[n]with someone there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_INOKASIRA#0",
+   "speaker": null,
+   "en": "This is where Inokashira[n]Park is. I should bring[n]someone there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_NAGATACHO#0",
+   "speaker": null,
+   "en": "The National Diet Building is[n]by this station. I don't have[n]any reason to go there now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_GINZA#0",
+   "speaker": null,
+   "en": "I know of a fancy sushi[n]restaurant near here. I should[n]bring someone there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_ASAKUSA#0",
+   "speaker": null,
+   "en": "The Skytree and Nakamise Street[n]are near here. I should bring[n]someone there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_KORAKUEN#0",
+   "speaker": null,
+   "en": "Dome Town is right by this[n]station. I should bring[n]someone there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_JINBOCHO#0",
+   "speaker": null,
+   "en": "There's a shopping district full[n]of bookshops nearby. I should[n]bring someone there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_JINBOCHO_#0",
+   "speaker": null,
+   "en": "There's a shopping district full[n]of bookshops nearby. I should go[n]there with someone during the day...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_TUKISIMA#0",
+   "speaker": null,
+   "en": "There's a monjayaki shop close[n]to this station. I should bring[n]someone there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_KAIHINPAR#0",
+   "speaker": null,
+   "en": "There's a park and Ferris wheel[n]near this station. I should bring[n]someone there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_KAIHINPAR_2#0",
+   "speaker": null,
+   "en": "There's a park and Ferris wheel[n]near this station. I should bring[n]someone there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_AKASAKA#0",
+   "speaker": null,
+   "en": "This is near the TV station I went[n]to on my social studies trip. I[n]don't need to go there now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_YOKOHAMA#0",
+   "speaker": null,
+   "en": "Chinatown is close to this station.[n]I should bring someone there for[n]Chinese food on my day off...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_BEACH#0",
+   "speaker": null,
+   "en": "This is where we all went to[n]the beach together. Beach[n]season is over now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_ROPPONGI#0",
+   "speaker": null,
+   "en": "This is the station near the[n]Okumura Foods Corporate HQ. I[n]have no business there now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_MAIHAMA#0",
+   "speaker": null,
+   "en": "This is right near Destinyland.[n]I should go there with someone[n]when I have a day off...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_MAIHAMA_S#0",
+   "speaker": null,
+   "en": "This is right near[n]Destinyland. I should bring[n]someone there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_MEIJI_JIN#0",
+   "speaker": null,
+   "en": "Meiji Shrine is really close to[n]this station. I should come pray[n]with someone sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_MEIJI_JIN_2#0",
+   "speaker": null,
+   "en": "Meiji Shrine is really close to[n]this station. I should come pray[n]with someone during the day...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_NAKANO#0",
+   "speaker": null,
+   "en": "This station is filled with unique cultural[n]sites. I should bring someone here[n]sometime.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_SINAGAWA#0",
+   "speaker": null,
+   "en": "This station is known for its hotels and[n]aquarium. I should bring someone with[n]me next time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_SHIBUYA_L#0",
+   "speaker": null,
+   "en": "This is where we went to that[n]buffet. I should go eat with[n]someone next time I'm in Tokyo...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_AKIBA_LAS#0",
+   "speaker": null,
+   "en": "There's a large electronics store[n]near here. I should come with[n]someone next time I'm in Tokyo...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_HARAJYUKU_2#0",
+   "speaker": null,
+   "en": "Takenoko Street is right near[n]this station. I should come with[n]someone next time I'm in Tokyo...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_IKEBUKURO_2#0",
+   "speaker": null,
+   "en": "I know of a planetarium right near[n]this station. I should come with[n]someone next time I'm in Tokyo...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_AKIBA_SPO_2#0",
+   "speaker": null,
+   "en": "There's a large electronics store[n]near here. I should come with[n]someone next time I'm in Tokyo...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_UENO_LAST#0",
+   "speaker": null,
+   "en": "There are lots of art museums near[n]this station. I should come with[n]someone next time I'm in Tokyo...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_OGIKUBO_L#0",
+   "speaker": null,
+   "en": "This station is near a famous[n]ramen shop. I should go eat with[n]someone next time I'm in Tokyo...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_ICHIGAYA_#0",
+   "speaker": null,
+   "en": "There's a fishing pond next to[n]this station. I should go fish with[n]someone next time I'm in Tokyo...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_INOKASIRA_2#0",
+   "speaker": null,
+   "en": "This is where Inokashira Park[n]is. I should bring someone there[n]next time I'm in Tokyo...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_GINZA_LAS#0",
+   "speaker": null,
+   "en": "I know of a fancy sushi restaurant[n]near here. I should bring someone[n]next time I'm in Tokyo...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_ASAKUSA_L#0",
+   "speaker": null,
+   "en": "The Skytree and Nakamise Street[n]are near here. I should bring[n]someone next time I'm in Tokyo...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_KORAKUEN_#0",
+   "speaker": null,
+   "en": "Dome Town is right by this[n]station. I should bring someone[n]next time I'm in Tokyo...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_JINBOCHO__2#0",
+   "speaker": null,
+   "en": "There are lots of bookshops near[n]here. I should bring someone[n]next time I'm in Tokyo...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_TUKISIMA_#0",
+   "speaker": null,
+   "en": "There's a monjayaki shop close[n]to this station. I should bring[n]someone next time I'm in Tokyo...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_KAIHINPAR_3#0",
+   "speaker": null,
+   "en": "There's a park and Ferris wheel[n]near here. I should bring someone[n]next time I'm in Tokyo...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_YOKOHAMA_#0",
+   "speaker": null,
+   "en": "Chinatown is close to this station.[n]I should take someone to eat there[n]next time I'm in Tokyo...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_MAIHAMA_L#0",
+   "speaker": null,
+   "en": "This is right near Destinyland.[n]I should bring someone there[n]next time I'm in Tokyo...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_MEIJI_JIN_3#0",
+   "speaker": null,
+   "en": "Meiji Shrine is really close to[n]this station. I should go pray with[n]someone next time I'm in Tokyo...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_NAKANO_LA#0",
+   "speaker": null,
+   "en": "This station is filled with unique cultural[n]sites. I should bring someone with me[n]next time I'm in Tokyo.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ERROR_SPOT_SINAGAWA_#0",
+   "speaker": null,
+   "en": "This station is known for its hotels and[n]aquarium. I should bring someone with[n]me next time I'm in Tokyo.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RYUJI_SPOT_CANCEL#0",
+   "speaker": "Ryuji",
+   "en": "Dude, way to be a downer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_SPOT_CANCEL#0",
+   "speaker": "Ann",
+   "en": "Oh, that's too bad.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUSUKE_SPOT_CANCEL#0",
+   "speaker": "Yusuke",
+   "en": "I see. That's disappointing...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MAKOTO_SPOT_CANCEL#0",
+   "speaker": "Makoto",
+   "en": "Oh... Did you change your mind?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FUTABA_SPOT_CANCEL#0",
+   "speaker": "Futaba",
+   "en": "Don't waffle on me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HARU_SPOT_CANCEL#0",
+   "speaker": "Haru",
+   "en": "Oh... okay.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

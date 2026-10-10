@@ -1,0 +1,600 @@
+{
+ "file": "EN/BATTLE/EVENT/SCRIPT/0358.BF",
+ "entries": [
+  {
+   "id": "MSG_BTLSTART_000#0",
+   "speaker": "Sumire",
+   "en": "Dr. Maruki...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_002#0",
+   "speaker": "Maruki",
+   "en": "I have to do this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART_003#0",
+   "speaker": "Futaba",
+   "en": "Incoming, guys! Get ready!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HP75_1#0",
+   "speaker": "Maruki",
+   "en": "Not bad...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HP75_1#1",
+   "speaker": "Maruki",
+   "en": "But, we've only just begun!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HP75_2B#0",
+   "speaker": "Maruki",
+   "en": "So, let's move on!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HP75_2#0",
+   "speaker": "Futaba",
+   "en": "Huh? He's getting stronger!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HP75_2#1",
+   "speaker": "Futaba",
+   "en": "Be careful!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_AFTER_CHANGE#0",
+   "speaker": "Futaba",
+   "en": "Nnh... What was that just now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_END_1#0",
+   "speaker": "Maruki",
+   "en": "Ngh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_BLOCK01#0",
+   "speaker": "Makoto",
+   "en": "The Persona protected him!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_BLOCK01B#0",
+   "speaker": "Ann",
+   "en": "No way! The Persona blocked for him!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_BLOCK01C#0",
+   "speaker": "Futaba",
+   "en": "What? The Persona shielded him!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_BLOCK02#0",
+   "speaker": "Futaba",
+   "en": "This Persona's definitely trouble...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_CHARGE_1#0",
+   "speaker": "Morgana",
+   "en": "What the—!? What are they doing!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_CHARGE_1B#0",
+   "speaker": "Futaba",
+   "en": "Be careful! I'm sensing a ridiculous[n]amount of energy from his Persona!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_CHARGE_1B#1",
+   "speaker": "Futaba",
+   "en": "Joker! You all have to guard this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HP20#0",
+   "speaker": "Maruki",
+   "en": "I won't fail...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_HP20#1",
+   "speaker": "Maruki",
+   "en": "I CAN'T fail!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_CHARGE_1C#0",
+   "speaker": "Futaba",
+   "en": "Here they come again, Joker! Get your[n]guard up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_AFTER_SPECIAL1#0",
+   "speaker": "Maruki",
+   "en": "Please, stop fighting this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_AFTER_SPECIAL2#0",
+   "speaker": "Maruki",
+   "en": "So even that didn't do it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_CAST#0",
+   "speaker": "Maruki",
+   "en": "Azathoth!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_CAST2#0",
+   "speaker": "Maruki",
+   "en": "Persona!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_CAST3#0",
+   "speaker": "Maruki",
+   "en": "Here I go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_AZATOTH_PRE_DEAD#0",
+   "speaker": "Maruki",
+   "en": "Azathoth!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_AZATOTH_DEAD#0",
+   "speaker": "Futaba",
+   "en": "Finally! His Persona can't act anymore!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_AZATOTH_DEAD2#0",
+   "speaker": "Futaba",
+   "en": "Now's your shot, Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_GAME_CALL#0",
+   "speaker": "Maruki",
+   "en": "Sakamoto-kun! You dream of running...[n]Running would make life so much[n]easier for your mother!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_GAME_CALL#1",
+   "speaker": "Maruki",
+   "en": "I can make that dream your reality!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_GAME_CALL_2#0",
+   "speaker": "Maruki",
+   "en": "Morgana-kun! I know how you truly[n]feel... and there's no need to fear your[n]differences anymore!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_GAME_CALL_2#1",
+   "speaker": "Maruki",
+   "en": "Don't worry... You don't have to explain[n]anything to me. All I have to do to help[n]you is merely imagine it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_GAME_CALL_3#0",
+   "speaker": "Maruki",
+   "en": "Takamaki-san! Didn't you always want[n]to protect your friend?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_GAME_CALL_3#1",
+   "speaker": "Maruki",
+   "en": "Don't abandon such a pure dream[n]when it's right in front of you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_GAME_CALL_4#0",
+   "speaker": "Maruki",
+   "en": "Kitagawa-kun! I know you don't really[n]want your approval to be earned[n]through force!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_GAME_CALL_4#1",
+   "speaker": "Maruki",
+   "en": "You want a world guided by beauty...[n]and I can give you such a world!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_GAME_CALL_5#0",
+   "speaker": "Maruki",
+   "en": "Niijima-san! Everyone has the right[n]to wish for a happy family!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_GAME_CALL_5#1",
+   "speaker": "Maruki",
+   "en": "You don't need to keep holding back[n]your desires!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_GAME_CALL_6#0",
+   "speaker": "Maruki",
+   "en": "Okumura-san! Stop tormenting[n]yourself over your father's sins!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_GAME_CALL_6#1",
+   "speaker": "Maruki",
+   "en": "I swear, I'll give you a world where[n]you'll have every chance to succeed[n]on your own right!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_GAME_CALL_7#0",
+   "speaker": "Maruki",
+   "en": "Futaba-san! Wishing for the happiness[n]that was robbed from you isn't selfish[n]or asking too much!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_GAME_CALL_7#1",
+   "speaker": "Maruki",
+   "en": "I just want to give you a world where[n]you can forget your worries and have[n]your ideal family!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_GAME_CALL_8#0",
+   "speaker": "Maruki",
+   "en": "Akechi-kun! Don't throw away your life!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_GAME_CALL_8#1",
+   "speaker": "Maruki",
+   "en": "If you're with [lName]-kun and[n]his friends, you could begin to atone[n]for what you've done!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_GAME_CALL_9#0",
+   "speaker": "Maruki",
+   "en": "Yoshizawa-san! That pain you're[n]suffering... It must be impossible[n]to move on!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_GAME_CALL_9#1",
+   "speaker": "Maruki",
+   "en": "I want to save you from that awful life!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_GAME_CALL_10#0",
+   "speaker": "Maruki",
+   "en": "Do you remember how every one[n]of your dreams was granted in[n]my reality?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_GAME_CALL_10#1",
+   "speaker": "Maruki",
+   "en": "Not a single person is in pain here![n]Everyone is happy... Why would you[n]deny them that opportunity?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_GAME_CALL_11#0",
+   "speaker": "Maruki",
+   "en": "I understand the difficulty of accepting[n]such a huge change, but that's nothing[n]more than your fears controlling you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_GAME_CALL_11#1",
+   "speaker": "Maruki",
+   "en": "Please, won't you please believe me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_GAME_CALL_12#0",
+   "speaker": "Maruki",
+   "en": "Suffering and pain bring nothing to[n]people except their ruin! Why would[n]you force yourself into that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_GAME_CALL_12#1",
+   "speaker": "Maruki",
+   "en": "Just... Let me save you all, just this once!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_GAME_STAR#0",
+   "speaker": "Maruki",
+   "en": "This is all I can do at the moment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_REACTION02#0",
+   "speaker": "Ryuji",
+   "en": "Yeah? Well, too bad for you—I'm done[n]runnin' away from my problems!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_REACTION03#0",
+   "speaker": "Morgana",
+   "en": "I don't care what I look like anymore![n]I'm always going to be myself!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_REACTION04#0",
+   "speaker": "Ann",
+   "en": "We're... We're both going to keep[n]living our lives on our own strength!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_REACTION05#0",
+   "speaker": "Yusuke",
+   "en": "I have my friends by my side in this[n]world—I don't need another world[n]forced upon me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_REACTION06#0",
+   "speaker": "Makoto",
+   "en": "I'll fulfill my desire for a happy family—[n]with my own power!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_REACTION07#0",
+   "speaker": "Haru",
+   "en": "I'm going to do just that with my life—[n]pain and all!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_REACTION08#0",
+   "speaker": "Futaba",
+   "en": "Unused",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_REACTION09#0",
+   "speaker": "Akechi",
+   "en": "Enough of this high-and-mighty[n]bullshit! You're pissing me off!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_REACTION10#0",
+   "speaker": "Sumire",
+   "en": "I am myself! I'll never forget that again!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_REACTION01_B#0",
+   "speaker": "Futaba",
+   "en": "They can't do anything!?[n]Something's not right here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_REACTION02_B#0",
+   "speaker": "Ryuji",
+   "en": "I can't, though... Why?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_REACTION03_B#0",
+   "speaker": "Morgana",
+   "en": "Hey, something's wrong.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_REACTION04_B#0",
+   "speaker": "Ann",
+   "en": "Huh? But, I... I can't...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_REACTION05_B#0",
+   "speaker": "Yusuke",
+   "en": "I can't... But, why?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_REACTION06_B#0",
+   "speaker": "Makoto",
+   "en": "I have to move... I have to... But...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_REACTION07_B#0",
+   "speaker": "Haru",
+   "en": "I can't do it... What is...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_REACTION0F_B#0",
+   "speaker": "Futaba",
+   "en": "They can't do anything!?[n]Something's not right here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_REACTION08_B#0",
+   "speaker": "Akechi",
+   "en": "What did you do to me!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARTY_REACTION09_B#0",
+   "speaker": "Sumire",
+   "en": "Huh? Something's not right...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HP_MIDDLE#0",
+   "speaker": "Maruki",
+   "en": "A reality where none shall suffer...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HP_MIDDLE#1",
+   "speaker": "Maruki",
+   "en": "To realize it... I will use all of our power!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_TARGET00#0",
+   "speaker": "Maruki",
+   "en": "I can't deny that you're all strong—but[n]that's exactly what's making you suffer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_TARGET00#1",
+   "speaker": "Maruki",
+   "en": "It's time to end this. I'm going to save[n]all of you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_TARGET01#0",
+   "speaker": "Maruki",
+   "en": "Joker, be careful! I'm picking up[n]multiple readings beneath you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_TARGET02#0",
+   "speaker": "Futaba",
+   "en": "Skull, be careful! I'm picking up[n]multiple readings beneath you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_TARGET03#0",
+   "speaker": "Futaba",
+   "en": "Mona, be careful! I'm picking up[n]multiple readings beneath you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_TARGET04#0",
+   "speaker": "Futaba",
+   "en": "Panther, be careful! I'm picking up[n]multiple readings beneath you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_TARGET05#0",
+   "speaker": "Futaba",
+   "en": "Fox, be careful! I'm picking up[n]multiple readings beneath you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_TARGET06#0",
+   "speaker": "Futaba",
+   "en": "Queen, be careful! I'm picking up[n]multiple readings beneath you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_TARGET07#0",
+   "speaker": "Futaba",
+   "en": "Noir, be careful! I'm picking up[n]multiple readings beneath you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_TARGET09#0",
+   "speaker": "Futaba",
+   "en": "Crow, be careful! I'm picking up[n]multiple readings beneath you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTL_MARUKI_TARGET10#0",
+   "speaker": "Futaba",
+   "en": "Violet, be careful! I'm picking up[n]multiple readings beneath you!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

@@ -1,0 +1,1636 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR3010_000_000.BF",
+ "entries": [
+  {
+   "id": "MSG_SOFA_STANDBY#0",
+   "speaker": "Morgana",
+   "en": "You have to succeed tomorrow.[n]There'll be no second chances.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_STANDBY#1",
+   "speaker": "Morgana",
+   "en": "There isn't much you can do to prepare[n]at this point, but make sure you give this[n]all you've got.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_CLEAN_SUGGEST#0",
+   "speaker": "Morgana",
+   "en": "If you don't have anything to do, then[n]why don't you clean your room up a bit?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_KAWAKAMI_01#0",
+   "speaker": "Morgana",
+   "en": "Oh yeah, are you thinking about[n]investigating that flyer?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_KAWAKAMI_01#1",
+   "speaker": "Morgana",
+   "en": "I'm sure Mishima's waiting for you to[n]get in touch. Maybe you should talk to[n]him about it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_KAWAKAMI_02#0",
+   "speaker": "Morgana",
+   "en": "Kawakami ended up giving you a phone[n]number, but you're not going to call her,[n]are you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_OOYA#0",
+   "speaker": "Morgana",
+   "en": "It was pretty cool, going to Shinjuku[n]at night with all those neon signs.[n]We should go again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_CHIHAYA_01#0",
+   "speaker": "Morgana",
+   "en": "If you've got some time, do you want to[n]go see that fortune teller in Shinjuku?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_CHIHAYA_02#0",
+   "speaker": "Morgana",
+   "en": "That fortune was spot on... It cost[n]100,000 yen, though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_CHIHAYA_03#0",
+   "speaker": "Morgana",
+   "en": "That \"Holy Stone\" was 100,000 yen,[n]but it's just a salt rock. Should we[n]complain to the fortune teller?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_CHIHAYA_04#0",
+   "speaker": "Morgana",
+   "en": "Aren't you going to let the fortune teller[n]know we made Uchimura have a change[n]of heart?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_HIFUMI_1#0",
+   "speaker": "Morgana",
+   "en": "Yusuke said that shogi player's in Kanda,[n]right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_HIFUMI_1#1",
+   "speaker": "Morgana",
+   "en": "Why not go and meet her?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_HIFUMI_2#0",
+   "speaker": "Morgana",
+   "en": "That shogi player at the church is pretty[n]famous, right? She gave you the cold[n]shoulder though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_MILITARY_SHOP#0",
+   "speaker": "Morgana",
+   "en": "Oh yeah, when are you going to ask[n]about the paper bag at the airsoft shop?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_YOSHIDA_01#0",
+   "speaker": "Morgana",
+   "en": "The old man who talked to you at the[n]beef bowl shop was a politician, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_YOSHIDA_01#1",
+   "speaker": "Morgana",
+   "en": "He's in front of Shibuya Station giving[n]speeches. I had no idea he was a[n]politician from his looks...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_YOSHIDA_02#0",
+   "speaker": "Morgana",
+   "en": "I wonder why that Yoshida guy decided[n]to get into politics.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_MAKOTO#0",
+   "speaker": "Morgana",
+   "en": "Makoto gets good grades at school, and[n]on top of that, she's the student council[n]president.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_MAKOTO#1",
+   "speaker": "Morgana",
+   "en": "You could learn a thing or two from her,[n]don't you think?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_TV_SUGGEST#0",
+   "speaker": "Morgana",
+   "en": "How about at least getting a TV? I think[n]they had one for pretty cheap at the[n]secondhand shop.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_TV_GAME_SUGGEST#0",
+   "speaker": "Morgana",
+   "en": "Since you went to the trouble of getting[n]a TV, it would be cool if you had some[n]games to play...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_TV_GAME_SUGGEST#1",
+   "speaker": "Morgana",
+   "en": "Do you think that secondhand shop[n]down the street might have some?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_TV_WAIT#0",
+   "speaker": "Morgana",
+   "en": "I hope the TV gets delivered here soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_TV_GAME#0",
+   "speaker": "Morgana",
+   "en": "Man, that secondhand shop near our[n]place just sells a bunch of weird junk.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_TV_GAME#1",
+   "speaker": "Morgana",
+   "en": "Though, it's also the kind of place where[n]you can find some really good stuff[n]sometimes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_DEFAULT#0",
+   "speaker": "Morgana",
+   "en": "This room is barely habitable. Maybe we[n]can clean it up, and make it a bit nicer to[n]live in.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SOFA_DEFAULT#0",
+   "speaker": null,
+   "en": "This room is the same as it was[n]when I moved in...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SOFA_0411#0",
+   "speaker": null,
+   "en": "Was that castle we wandered into[n]this morning just a dream?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SOFA_0412#0",
+   "speaker": null,
+   "en": "A world embodying Kamoshida's[n]desires... That was no dream.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SOFA_0413_1#0",
+   "speaker": null,
+   "en": "Why do the parents and the school[n]just accept his abuse...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SOFA_0413_2#0",
+   "speaker": null,
+   "en": "Is it right for Kamoshida to get[n]special treatment like this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SOFA_0414#0",
+   "speaker": null,
+   "en": "If he has a change of heart, he'll[n]probably stop abusing his students,[n]but it's too risky...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0415#0",
+   "speaker": "Morgana",
+   "en": "This is really your room, huh? I don't[n]even know where to start...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0416#0",
+   "speaker": "Morgana",
+   "en": "Don't worry. I came up with some ideas[n]for infiltration tools.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0416#1",
+   "speaker": "Morgana",
+   "en": "I'll tell you about them once you've[n]made your preparations.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0417#0",
+   "speaker": "Morgana",
+   "en": "Were you listening to me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0417#1",
+   "speaker": "Morgana",
+   "en": "Your desk isn't going to get clean if you[n]just sit there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0501#0",
+   "speaker": "Morgana",
+   "en": "It'll be okay. Just trust me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_KAMOSHIDA_CLEAR#0",
+   "speaker": "Morgana",
+   "en": "We did all we could. Now we just wait[n]and see how this turns out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_KAMOSHIDA_CLEAR_2#0",
+   "speaker": "Morgana",
+   "en": "All we have to do now is wait for him to[n]have a change of heart...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_KAMOSHIDA#0",
+   "speaker": "Morgana",
+   "en": "If you don't have anything to do, why[n]don't you make some infiltration tools?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_KAMOSHIDA_NIGHT#0",
+   "speaker": "Morgana",
+   "en": "You're tired after going to the Palace,[n]aren't you? Let's get some rest today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0502#0",
+   "speaker": "Morgana",
+   "en": "Now we know we can make them have[n]a change of heart. Well, as long as we[n]don't mess up, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0502#1",
+   "speaker": "Morgana",
+   "en": "I was sweating bullets when Ann almost[n]finished him off, though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0504#0",
+   "speaker": "Morgana",
+   "en": "You can't sleep, either, eh? I'm excited[n]about tomorrow, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0505#0",
+   "speaker": "Morgana",
+   "en": "[group], eh...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0505#1",
+   "speaker": "Morgana",
+   "en": "That might not be a bad name!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0506#0",
+   "speaker": "Morgana",
+   "en": "If you don't have anything to do,[n]why not drop by the airsoft shop?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0507#0",
+   "speaker": "Morgana",
+   "en": "Once I'm human again, I'll definitely[n]repay you. I need you to help me out[n]until then, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0507_0510#0",
+   "speaker": "Morgana",
+   "en": "Shouldn't you be studying if you don't[n]have anything to do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0514#0",
+   "speaker": "Morgana",
+   "en": "You're a failure as a phantom thief if[n]you can't discern good art from bad,[n]understand?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0515#0",
+   "speaker": "Morgana",
+   "en": "This is [group]'s[n]first target. Let's be careful and make[n]sure we do things right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0516#0",
+   "speaker": "Morgana",
+   "en": "Well, now we know that he has a Palace.[n]That in itself is useful information.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0517#0",
+   "speaker": "Morgana",
+   "en": "So nervous you can't sleep?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_MADARAME_NIGHT_#0",
+   "speaker": "Morgana",
+   "en": "You must be tired from going to the[n]Palace, right? Let's relax at the house.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_MADARAME_NIGHT__2#0",
+   "speaker": "Morgana",
+   "en": "You're tired after going to the Palace,[n]aren't you? Let's get some rest today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_MADARAME_CLEAR#0",
+   "speaker": "Morgana",
+   "en": "We did all we could. Now we just wait[n]and see how this turns out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_MADARAME_CLEAR_#0",
+   "speaker": "Morgana",
+   "en": "All we have to do now is wait for him to[n]have a change of heart...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_MADARAME#0",
+   "speaker": "Morgana",
+   "en": "If you don't have anything to do, why[n]don't you make some infiltration tools?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_KANESHIRO_NIGHT#0",
+   "speaker": "Morgana",
+   "en": "You must be tired from going to the[n]Palace, right? Let's relax at the house.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_KANESHIRO_NIGHT_2#0",
+   "speaker": "Morgana",
+   "en": "You're tired after going to the Palace,[n]aren't you? Let's get some rest today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_KANESHIRO_CLEAR#0",
+   "speaker": "Morgana",
+   "en": "We did all we could. Now we just wait[n]and see how this turns out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_KANESHIRO_CLEAR_2#0",
+   "speaker": "Morgana",
+   "en": "All we have to do now is wait for him to[n]have a change of heart...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_KANESHIRO#0",
+   "speaker": "Morgana",
+   "en": "If you don't have anything to do, why[n]don't you make some infiltration tools?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0605#0",
+   "speaker": "Morgana",
+   "en": "We did it! People will start talking about[n]us now, I know it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0606#0",
+   "speaker": "Morgana",
+   "en": "Let's lay low for a bit and see how[n]people react.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0607#0",
+   "speaker": "Morgana",
+   "en": "We should look for our next big target[n]soon!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0608#0",
+   "speaker": "Morgana",
+   "en": "Your social studies trip is tomorrow,[n]right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0609#0",
+   "speaker": "Morgana",
+   "en": "They're going to be filming a show at the[n]TV station tomorrow... Like we talked[n]about, stay low.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0610#0",
+   "speaker": "Morgana",
+   "en": "I'm absolutely sure we're doing the right[n]thing. Don't sweat it too much, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0611#0",
+   "speaker": "Yusuke",
+   "en": "If you sit there, then where will I recline?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0612#0",
+   "speaker": "Morgana",
+   "en": "I hope we can find another target soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0613#0",
+   "speaker": "Morgana",
+   "en": "We can worry about the details once we[n]hear what she has to say tomorrow...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0614#0",
+   "speaker": "Morgana",
+   "en": "Tomorrow, we need to gather info[n]about the mafia at school...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0615#0",
+   "speaker": "Morgana",
+   "en": "So, we're gathering info about the[n]mafia in Shibuya tomorrow, huh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0616#0",
+   "speaker": "Morgana",
+   "en": "Things aren't looking good. We need to[n]find more clues somehow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0617#0",
+   "speaker": "Morgana",
+   "en": "Good things come to those who wait,[n]eh...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0618#0",
+   "speaker": "Morgana",
+   "en": "Let's try going to Shinjuku again.[n]It seems like there were a lot[n]of places worth checking out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0619#0",
+   "speaker": "Morgana",
+   "en": "I didn't expect the Palace to be floating[n]in the sky...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0620#0",
+   "speaker": "Morgana",
+   "en": "Our target this time is a big-time[n]criminal. We need to be careful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0709#0",
+   "speaker": "Morgana",
+   "en": "We've done it! It's another flawless[n]victory for us!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0710#0",
+   "speaker": "Morgana",
+   "en": "I can't wait to go see the fireworks!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0711#0",
+   "speaker": "Morgana",
+   "en": "Exams start the day after tomorrow,[n]huh? I bet everyone is studying.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0711#1",
+   "speaker": "Morgana",
+   "en": "Well... everyone but Ryuji.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0712#0",
+   "speaker": "Morgana",
+   "en": "Right after exams end, there's the[n]fireworks show. Make sure to give it[n]everything you've got.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0716#0",
+   "speaker": "Morgana",
+   "en": "Good job finishing your exams![n]They said your scores will be posted[n]next week, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0717#0",
+   "speaker": "Morgana",
+   "en": "Tomorrow's Marine Day, right? A lot of[n]people will probably be there since it's[n]a holiday.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0718#0",
+   "speaker": "Morgana",
+   "en": "It's too bad about the fireworks. I wanted[n]to see more of Lady Ann in her yukata.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0719#0",
+   "speaker": "Morgana",
+   "en": "With everything that's been going on,[n]we almost forgot about the exam results.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0720#0",
+   "speaker": "Morgana",
+   "en": "They know all our secrets... We can't let[n]our guard down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0721#0",
+   "speaker": "Morgana",
+   "en": "Futaba Sakura, huh...? She's probably[n]someone who's related to the chief.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0722#0",
+   "speaker": "Morgana",
+   "en": "She said \"abuse\"...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0722#1",
+   "speaker": "Morgana",
+   "en": "Would the chief really do that? It's gotta[n]be some kind of mistake, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0723#0",
+   "speaker": "Morgana",
+   "en": "Eating sushi in Ginza... We Phantom[n]Thieves have really come a long way!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SOFA_0724#0",
+   "speaker": null,
+   "en": "I wonder where Morgana went...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0725#0",
+   "speaker": "Morgana",
+   "en": "With those hacking skills, she might be[n]our best bet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_FUTABA_NIGHT_NG#0",
+   "speaker": "Morgana",
+   "en": "You must be tired from going to the[n]Palace, right? Let's relax at the house.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_FUTABA_NIGHT_NG_2#0",
+   "speaker": "Morgana",
+   "en": "You're tired after going to the Palace,[n]aren't you? Let's get some rest today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_FUTABA_CLEAR_DA#0",
+   "speaker": "Morgana",
+   "en": "All we can do now is wait for Futaba to[n]wake up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_FUTABA_CLEAR#0",
+   "speaker": "Morgana",
+   "en": "All we can do now is wait for Futaba to[n]wake up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_FUTABA#0",
+   "speaker": "Morgana",
+   "en": "If you don't have anything to do, why[n]don't you make some infiltration tools?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0820#0",
+   "speaker": "Morgana",
+   "en": "Medjed's cleanse is supposed to be[n]tomorrow...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0821#0",
+   "speaker": "Morgana",
+   "en": "Man, how can she stay so focused?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0822#0",
+   "speaker": "Morgana",
+   "en": "It looks like all this hacker business has[n]calmed down for now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0823#0",
+   "speaker": "Morgana",
+   "en": "Well, I guess we can say that we've[n]cleared that first hurdle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0824#0",
+   "speaker": "Morgana",
+   "en": "People are going wild over us Phantom[n]Thieves. Ryuji might get carried away,[n]though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0825#0",
+   "speaker": "Morgana",
+   "en": "I'd have a heart attack if someone[n]brought me coffee wearing that mask...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0826#0",
+   "speaker": "Morgana",
+   "en": "Makoto said this too, but we still have[n]many questions that are left unanswered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0826#1",
+   "speaker": "Morgana",
+   "en": "Sooner or later, we need to decide[n]what we want to do from here on out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0827#0",
+   "speaker": "Morgana",
+   "en": "We're going to the beach the day after[n]tomorrow, huh? I hope the weather's[n]good this time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0828#0",
+   "speaker": "Morgana",
+   "en": "Futaba pointed the smoke towards me.[n]Damn, it's still smoky...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0828_01#0",
+   "speaker": "Morgana",
+   "en": "...But you know, she probably heard[n]that the fireworks we went to see got[n]canceled...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0828_01#1",
+   "speaker": "Morgana",
+   "en": "So she must have wanted you to see...[n]If you think about it like that, she's[n]a pretty good person.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0828_02#0",
+   "speaker": "Morgana",
+   "en": "...But I won't forgive her about the[n]smoke! Man, the smell is all over[n]my body.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0829#0",
+   "speaker": "Morgana",
+   "en": "Futaba was so serious... Nothing at all[n]like Ryuji.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0830#0",
+   "speaker": "Morgana",
+   "en": "Tomorrow's the last day of summer[n]vacation, right? Let's make sure that[n]you make the best of it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0831#0",
+   "speaker": "Morgana",
+   "en": "It's kind of sad that summer vacation is[n]about to end...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0901#0",
+   "speaker": "Morgana",
+   "en": "It's our first time back in school after[n]a while, and people were talking all[n]about us.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0902#0",
+   "speaker": "Morgana",
+   "en": "I wonder why that article about the[n]principal came out just now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0903#0",
+   "speaker": "Morgana",
+   "en": "You're all going to Hawaii now? But we[n]just went to the beach.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0904#0",
+   "speaker": "Morgana",
+   "en": "I wish I could go with you on your[n]school trip...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0905#0",
+   "speaker": "Morgana",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Sofa0905#0",
+   "speaker": null,
+   "en": "What's wrong?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Sofa0905#1",
+   "speaker": null,
+   "en": "Are you sad?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0905_01#0",
+   "speaker": "Morgana",
+   "en": "No... It's nothing...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0906#0",
+   "speaker": "Morgana",
+   "en": "...Go to bed already. Don't blame me if[n]you oversleep.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0912#0",
+   "speaker": "Morgana",
+   "en": "Our popularity has gone through the[n]roof while you guys were gone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SOFA_0914#0",
+   "speaker": null,
+   "en": "I wonder what Morgana's doing[n]right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SOFA_0915#0",
+   "speaker": null,
+   "en": "Why did Morgana leave...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SOFA_0916#0",
+   "speaker": null,
+   "en": "Why didn't I notice that something was[n]bothering Morgana...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0917#0",
+   "speaker": "Morgana",
+   "en": "It's good to have a place to belong...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0918#0",
+   "speaker": "Morgana",
+   "en": "The world is rooting for us, so we can't[n]mess up here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_1003#0",
+   "speaker": "Morgana",
+   "en": "I wonder if Yoshizawa is all right...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_1003#1",
+   "speaker": "Morgana",
+   "en": "I'm concerned about Okumura too, but[n]let's sleep for tonight.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_OKUMURA_NIGHT_N#0",
+   "speaker": "Morgana",
+   "en": "You must be tired from going to the[n]Palace, right? Let's relax at the house.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_OKUMURA_NIGHT_N_2#0",
+   "speaker": "Morgana",
+   "en": "You're tired after going to the Palace,[n]aren't you? Let's get some rest today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_OKUMURA_CLEAR_D#0",
+   "speaker": "Morgana",
+   "en": "I hope this will help Haru with her[n]situation, one way or another...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_OKUMURA_CLEAR#0",
+   "speaker": "Morgana",
+   "en": "Now we just have to wait for Okumura[n]to have a change of heart. I'm sure it'll[n]go well this time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_OKUMURA#0",
+   "speaker": "Morgana",
+   "en": "If you don't have anything to do, why[n]don't you make some infiltration tools?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_1011#0",
+   "speaker": "Morgana",
+   "en": "I haven't heard anything from Haru...[n]I'm getting worried.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_1012#0",
+   "speaker": "Morgana",
+   "en": "Hey... Do you think Haru has doubts[n]about us?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_1012#1",
+   "speaker": "Morgana",
+   "en": "She wouldn't, right? ...Right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_1013#0",
+   "speaker": "Morgana",
+   "en": "What is Futaba going to investigate?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_1014#0",
+   "speaker": "Morgana",
+   "en": "I don't want people to believe we're[n]murderers!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_1015#0",
+   "speaker": "Morgana",
+   "en": "Well... You're just going to have to[n]tough it out until exams are over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_1016#0",
+   "speaker": "Morgana",
+   "en": "I'm glad Haru calmed down a bit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_1020#0",
+   "speaker": "Morgana",
+   "en": "This is a tough situation... Who the heck[n]is behind this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_1021#0",
+   "speaker": "Morgana",
+   "en": "How much do the police know?[n]We need some info...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_1022#0",
+   "speaker": "Morgana",
+   "en": "Why did Akechi do something like that?[n]He's pretty cunning...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_1023#0",
+   "speaker": "Morgana",
+   "en": "The school festival starts on Tuesday,[n]huh? It's so soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_1024#0",
+   "speaker": "Morgana",
+   "en": "Like Haru said, we should at least try to[n]have some fun tomorrow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_1025#0",
+   "speaker": "Morgana",
+   "en": "Whatever that red thing was, it's really[n]strong...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_1026#0",
+   "speaker": "Morgana",
+   "en": "So much stuff happened today... I can't[n]help but feel exhausted.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_1027#0",
+   "speaker": "Morgana",
+   "en": "He had the nerve to join our team.[n]He must be awfully confident in his[n]own skills.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_1029#0",
+   "speaker": "Morgana",
+   "en": "The way Akechi used his Persona...[n]He's not your average guy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_NIIJIMA_NIGHT_N#0",
+   "speaker": "Morgana",
+   "en": "You must be tired from going to the[n]Palace, right? Let's relax at the house.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_NIIJIMA_NIGHT_N_2#0",
+   "speaker": "Morgana",
+   "en": "You're tired after going to the Palace,[n]aren't you? Let's get some rest today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_NIIJIMA#0",
+   "speaker": "Morgana",
+   "en": "If you don't have anything to do, why[n]don't you make some infiltration tools?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_1121#0",
+   "speaker": "Morgana",
+   "en": "You really did a great job. You should[n]take it easy today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_1122#0",
+   "speaker": "Morgana",
+   "en": "Wear a hood or something when[n]you're in a place where someone[n]might recognize you, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_1123#0",
+   "speaker": "Morgana",
+   "en": "...Akechi seemed awfully pleased with[n]himself. Let's take him down a peg[n]or two.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_SHIDOU_NIGHT_NG#0",
+   "speaker": "Morgana",
+   "en": "You must be tired from going to the[n]Palace, right? Let's relax at the house.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_SHIDOU_NIGHT_NG_2#0",
+   "speaker": "Morgana",
+   "en": "You're tired after going to the Palace,[n]aren't you? Let's get some rest today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_SHIDOU_CLEAR_DA#0",
+   "speaker": "Morgana",
+   "en": "It looks like you finally settled the score.[n]You feel a little better now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_SHIDOU_CLEAR#0",
+   "speaker": "Morgana",
+   "en": "Now we just have to wait for Shido to[n]have a change of heart. I can't wait to[n]see how people will react.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_SHIDOU#0",
+   "speaker": "Morgana",
+   "en": "If you don't have anything to do, why[n]don't you make some infiltration tools?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_1218#0",
+   "speaker": "Morgana",
+   "en": "It's your first time back to school in a[n]while. I wonder how everyone's been[n]doing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_1219#0",
+   "speaker": "Morgana",
+   "en": "I hope everything gets settled by the[n]time exams are over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_1222#0",
+   "speaker": "Morgana",
+   "en": "It's been a while since we all went to[n]Shibuya, hasn't it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_1223#0",
+   "speaker": "Morgana",
+   "en": "We've had so many talks, here in this[n]room...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_1223#1",
+   "speaker": "Morgana",
+   "en": "...This really is a nice and comfy little[n]room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_LAUNDRY#0",
+   "speaker": "Morgana",
+   "en": "Looks like you got some sooty armor[n]from the Palace. If you clean it, maybe[n]you can use it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_MARUKI_NIGHT_NG#0",
+   "speaker": "Morgana",
+   "en": "You must be tired from going to the[n]Palace, right? Let's relax at the house.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_MARUKI_NIGHT_NG_2#0",
+   "speaker": "Morgana",
+   "en": "You're tired after going to the Palace,[n]aren't you? Let's get some rest today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_MARUKI_CLEAR_DA#0",
+   "speaker": "Morgana",
+   "en": "We secured the route. Let's relax until[n]tomorrow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0109#0",
+   "speaker": "Morgana",
+   "en": "Maruki's power is really something...[n]But we can't falter.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0110#0",
+   "speaker": "Morgana",
+   "en": "Our path has been decided. Now we just[n]move forward...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0111#0",
+   "speaker": "Morgana",
+   "en": "...We can't fail.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0111#1",
+   "speaker": "Morgana",
+   "en": "Let's stop Maruki. It's something only[n]we can do.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0112#0",
+   "speaker": "Morgana",
+   "en": "It's good to have another member on[n]our side! I gotta work hard too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0113#0",
+   "speaker": "Morgana",
+   "en": "Let's find the treasure before the date[n]Maruki said.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0114#0",
+   "speaker": "Morgana",
+   "en": "Let's do what we can. It won't be easy[n]dealing with Maruki.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0115#0",
+   "speaker": "Morgana",
+   "en": "Let's meet anyone who might cooperate[n]and get all the help we can get!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0116#0",
+   "speaker": "Morgana",
+   "en": "What is Maruki thinking...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0117#0",
+   "speaker": "Morgana",
+   "en": "Hey, [fName].[n]Let's train until the deadline.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0117#1",
+   "speaker": "Morgana",
+   "en": "Then maybe Lady Ann will...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0118#0",
+   "speaker": "Morgana",
+   "en": "We won't let Maruki have it his way...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0119#0",
+   "speaker": "Morgana",
+   "en": "Two more weeks until the deadline...[n]Let's do our best these two weeks!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0120#0",
+   "speaker": "Morgana",
+   "en": "You look different from a year ago...[n]In a good way!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0121#0",
+   "speaker": "Morgana",
+   "en": "Nothing from Maruki, huh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0122#0",
+   "speaker": "Morgana",
+   "en": "We still have time before the deadline.[n]Let's steadily do what we can each day!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0123#0",
+   "speaker": "Morgana",
+   "en": "I didn't see Maruki as a person who's[n]bad all the way to the core...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0124#0",
+   "speaker": "Morgana",
+   "en": "Hey [fName], let's get something[n]good to eat once this whole thing is[n]settled!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0125#0",
+   "speaker": "Morgana",
+   "en": "In the course of this one year... everyone[n]in the Phantom Thieves got stronger...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0126#0",
+   "speaker": "Morgana",
+   "en": "One week left until the deadline!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0126#1",
+   "speaker": "Morgana",
+   "en": "We don't really know what Maruki is[n]capable of. Let's do what we can!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0127#0",
+   "speaker": "Morgana",
+   "en": "The Day of Fates is coming up...[n]We can't waste even a day!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0128#0",
+   "speaker": "Morgana",
+   "en": "Only a few more days... Make sure you[n]have no regrets.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0129#0",
+   "speaker": "Morgana",
+   "en": "Hey [fName], how is the Phantom[n]Thieves' power coming along?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0130#0",
+   "speaker": "Morgana",
+   "en": "There's a tough battle ahead of us...[n]Make sure to see all the people you[n]want to see before then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0131#0",
+   "speaker": "Morgana",
+   "en": "January's over... It's almost the Day of[n]Fates.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0201#0",
+   "speaker": "Morgana",
+   "en": "The deadline is approaching... Let's be[n]ready by tomorrow!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_0202#0",
+   "speaker": "Morgana",
+   "en": "We're finally meeting... Let's stay on[n]our guard.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Sofa_CHECK_NG_0409_mes01#0",
+   "speaker": null,
+   "en": "It's covered in dust, but it should be[n]usable after I clean it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Sofa_CHECK_NG_0409_mes02#0",
+   "speaker": null,
+   "en": "I should wipe it off...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_DEFAULT_0427#0",
+   "speaker": "Morgana",
+   "en": "I respect how calm you are, but... I hope[n]you don't take it too easy and fail...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_DEFAULT_0428#0",
+   "speaker": "Morgana",
+   "en": "You know what you're doing, right?[n]You're gonna get expelled.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_DEFAULT_0428_D0#0",
+   "speaker": "Morgana",
+   "en": "You know what you're doing, right?[n]The exhibition's gonna end.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_DEFAULT_0428_D0_2#0",
+   "speaker": "Morgana",
+   "en": "You know what you're doing, right?[n]Kaneshiro's date is coming up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_DEFAULT_0428_D0_3#0",
+   "speaker": "Morgana",
+   "en": "You know what you're doing, right?[n]Medjed's cleansing is going to happen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_DEFAULT_0428_D0_4#0",
+   "speaker": "Morgana",
+   "en": "You know what you're doing, right?[n]The deadline is coming up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_DEFAULT_0428_D0_5#0",
+   "speaker": "Morgana",
+   "en": "You know what you're doing, right?[n]The deadline is coming up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_DEFAULT_0428_D0_6#0",
+   "speaker": "Morgana",
+   "en": "You know what you're doing, right?[n]The deadline is coming up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_DEFAULT_0428_D0_7#0",
+   "speaker": "Morgana",
+   "en": "You know what you're doing, right?[n]The deadline is coming up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_DEFAULT_0429_NO#0",
+   "speaker": "Morgana",
+   "en": "You don't have time to relax![n]Let's go steal Kamoshida's heart!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_DEFAULT_0429_NO_2#0",
+   "speaker": "Morgana",
+   "en": "You don't have time to relax![n]Let's go steal Madarame's heart!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_DEFAULT_0429_NO_3#0",
+   "speaker": "Morgana",
+   "en": "You don't have time to relax![n]Let's go steal Kaneshiro's heart!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_DEFAULT_0429_NO_4#0",
+   "speaker": "Morgana",
+   "en": "You don't have time to relax![n]Let's go steal Futaba's heart!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_DEFAULT_0429_NO_5#0",
+   "speaker": "Morgana",
+   "en": "You don't have time to relax![n]Let's go steal Okumura's heart!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_DEFAULT_0429_NO_6#0",
+   "speaker": "Morgana",
+   "en": "You don't have time to relax![n]Let's go steal Niijima's heart!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_DEFAULT_0429_NO_7#0",
+   "speaker": "Morgana",
+   "en": "You don't have time to relax![n]Let's go steal Shido's heart!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_DEFAULT_0429_NO_8#0",
+   "speaker": "Morgana",
+   "en": "You don't have time to relax![n]Let's go steal Maruki's heart!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_DEFAULT_0429#0",
+   "speaker": "Morgana",
+   "en": "We're not gonna make it anymore...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_DEFAULT_0430#0",
+   "speaker": "Morgana",
+   "en": "Oh, come on... I told you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_DEFAULT_0428_01#0",
+   "speaker": "Morgana",
+   "en": "Ryuji and Lady Ann must both be[n]nervous. Let's go to the hideout[n]tomorrow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_DEFAULT_0428_01_2#0",
+   "speaker": "Morgana",
+   "en": "Everyone must be nervous. Let's go to[n]the hideout tomorrow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_DEFAULT_DAY_042#0",
+   "speaker": "Morgana",
+   "en": "...You don't think that there's nothing[n]to do, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_DEFAULT_DAY_042_2#0",
+   "speaker": "Morgana",
+   "en": "We don't have any more time![n]Let's finish this tomorrow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_DEFAULT_0501#0",
+   "speaker": "Morgana",
+   "en": "What are we supposed to do...? I guess[n]we should stay low for now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_HOUMON_YUSUKE#0",
+   "speaker": "Morgana",
+   "en": "Hey, Yusuke's here, right?[n]Let's go downstairs.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_HOUMON_RYUJI#0",
+   "speaker": "Morgana",
+   "en": "Hey, Ryuji's here, right?[n]Let's go downstairs.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SOFA_HOUMON_FUTABA#0",
+   "speaker": "Morgana",
+   "en": "Hey, Futaba's here, right?[n]Let's go downstairs.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

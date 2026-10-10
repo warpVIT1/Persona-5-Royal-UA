@@ -1,0 +1,460 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR0156_008_010.BF",
+ "entries": [
+  {
+   "id": "D05_02_e341_072_mes01#0",
+   "speaker": "Yusuke",
+   "en": "Ah, these must be shift controls for the[n]presses. You can select Break, Lunch,[n]or Unpaid Overtime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_mes01#1",
+   "speaker": "Yusuke",
+   "en": "Wait... Break is an option!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_mes02#0",
+   "speaker": "Makoto",
+   "en": "We may be able to get past that[n]problematic press if we can find[n]the corresponding control panel.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_mes02#1",
+   "speaker": "Makoto",
+   "en": "Let's do this, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_mes03#0",
+   "speaker": "Guidance Voice",
+   "en": "NOW CHANGING PRESS SHIFTS!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_selA#0",
+   "speaker": null,
+   "en": "Set it to \"Break\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_selA#1",
+   "speaker": null,
+   "en": "Set it to \"Lunch\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_selA#2",
+   "speaker": null,
+   "en": "Set it to \"Unpaid Overtime\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_selA#3",
+   "speaker": null,
+   "en": "Don't change anything",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_selA_2#0",
+   "speaker": null,
+   "en": "Set it to \"Break\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_selA_2#1",
+   "speaker": null,
+   "en": "Set it to \"Lunch\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_selA_2#2",
+   "speaker": null,
+   "en": "Set it to \"Unpaid Overtime\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_selA_2#3",
+   "speaker": null,
+   "en": "Set it to \"Disable Security\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_selA_2#4",
+   "speaker": null,
+   "en": "Don't change anything",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_selA_0_m#0",
+   "speaker": "Guidance Voice",
+   "en": "IT IS NOW BREAK TIME!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_selA_0_m_2#0",
+   "speaker": "Guidance Voice",
+   "en": "LET US REST AND RESTORE OUR WEARY[n]SPIRITS!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_selA_0_m_3#0",
+   "speaker": "Guidance Voice",
+   "en": "BREAK TIME SHALL LAST FOR[n]APPROXIMATELY [clr 2]FIVE SECONDS[clr 27]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_selA_1_m#0",
+   "speaker": "Guidance Voice",
+   "en": "IT IS NOW LUNCHTIME!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_selA_1_m_2#0",
+   "speaker": "Guidance Voice",
+   "en": "LET US CONSUME OUR SLOP AND[n]GLEEFULLY REENERGIZE!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_selA_1_m_3#0",
+   "speaker": "Guidance Voice",
+   "en": "LUNCHTIME SHALL LAST FOR[n]APPROXIMATELY [clr 2]THIRTY SECONDS[clr 27]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_selA_2_m#0",
+   "speaker": "Guidance Voice",
+   "en": "WE ARE CURRENTLY IN A STATE OF[n]CONSTANT UNPAID OVERTIME!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_selA_2_m#1",
+   "speaker": "Guidance Voice",
+   "en": "FOR THE GOOD OF THE COMPANY![n]GLORY TO OUR WONDERFUL PRESIDENT[n]OKUMURA AND HIM ALONE!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_mes04#0",
+   "speaker": "Guidance Voice",
+   "en": "BREAK TIME IS OVER!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_mes05#0",
+   "speaker": "Guidance Voice",
+   "en": "LET US WORK EVEN HARDER TO[n]ACCOUNT FOR OUR TIME WASTED[n]SLACKING OFF!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_mes06#0",
+   "speaker": "Guidance Voice",
+   "en": "IT IS CURRENTLY BREAK TIME!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_mes06#1",
+   "speaker": "Guidance Voice",
+   "en": "LET US USE THIS OPPORTUNITY TO[n]REST OUR FATIGUED BODIES!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_rest_mes#0",
+   "speaker": "Ryuji",
+   "en": "That's bullshit! What're we supposed[n]to do in five goddamn seconds!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_rest_mes_2#0",
+   "speaker": "Ann",
+   "en": "Take a deep breath?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_rest_mes_3#0",
+   "speaker": "Yusuke",
+   "en": "Five seconds is a useless amount of time[n]for us. We can likely ignore that option[n]entirely.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_service_#0",
+   "speaker": "Ryuji",
+   "en": "Whoa, whoa, whoa. Hold up! What the[n]hell did it mean, \"constant\"!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_service__2#0",
+   "speaker": "Morgana",
+   "en": "Working unpaid overtime is just how[n]these workers live, so setting it to that[n]changes nothing...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_service__3#0",
+   "speaker": "Futaba",
+   "en": "What a nightmare...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_service__4#0",
+   "speaker": "Haru",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_service__5#0",
+   "speaker": "Yusuke",
+   "en": "There is no benefit to us if nothing[n]changes. We can likely ignore that[n]option entirely.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_service__6#0",
+   "speaker": "Ann",
+   "en": "Hold on, it looks like you can disable[n]the infrared on this too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_service__7#0",
+   "speaker": "Futaba",
+   "en": "Aha! So this room is actually the one[n]with the main console in it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_service__7#1",
+   "speaker": "Futaba",
+   "en": "We should prolly disable the infrared[n]before setting it to \"Lunchtime.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_reset_me#0",
+   "speaker": "Guidance Voice",
+   "en": "AH! COULD YOU NOT WAIT ANY[n]LONGER TO RETURN TO YOUR[n]REWARDING WORK?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_reset_se#0",
+   "speaker": null,
+   "en": "That's right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_reset_se#1",
+   "speaker": null,
+   "en": "No.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_reset_se_2#0",
+   "speaker": "Guidance Voice",
+   "en": "THEN ENJOY THE PLEASURES OF HARD[n]LABOR TO YOUR HEART'S CONTENT!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_reset_se_3#0",
+   "speaker": "Guidance Voice",
+   "en": "...HOWEVER, BREAK TIME HAS ENDED[n]IN THE TIME IT TOOK YOU TO SAY THAT.[n]NOW, LET US RETURN TO WORK!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D05_02_e341_072_reset_se_4#0",
+   "speaker": "Morgana",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ticket3830_press_mes01#0",
+   "speaker": "Ryuji",
+   "en": "This is another one of them control[n]panels... right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ticket3830_press_mes03#0",
+   "speaker": "Ann",
+   "en": "Should we set it to \"Lunch\" again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ticket3830_press_mes04#0",
+   "speaker": "Futaba",
+   "en": "Yup. Actually, I did some research into[n]these... and the other two options are[n]meaningless.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ticket3830_press_mes05#0",
+   "speaker": "Futaba",
+   "en": "\"Break\" only lasts for five seconds,[n]while \"Unpaid Overtime\" doesn't[n]change anything at all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ticket3830_press_mes06#0",
+   "speaker": "Ann",
+   "en": "Wait... What do you mean it doesn't[n]change anything?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ticket3830_press_mes07#0",
+   "speaker": "Futaba",
+   "en": "It's probably because the workers here[n]are constantly working unpaid overtime.[n]What a nightmare...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ticket3830_press_mes08#0",
+   "speaker": "Haru",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ticket3830_press_mes09#0",
+   "speaker": "Futaba",
+   "en": "We already know what \"Break\" does,[n]while \"Unpaid Overtime\" doesn't[n]change anything at all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ticket3830_press_mes10#0",
+   "speaker": "Ann",
+   "en": "Wait... What do you mean it doesn't[n]change anything?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ticket3830_press_mes11#0",
+   "speaker": "Futaba",
+   "en": "It's probably because the workers here[n]are constantly working unpaid overtime.[n]What a nightmare...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ticket3830_press_mes12#0",
+   "speaker": "Haru",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ticket3830_press_mes13#0",
+   "speaker": "Futaba",
+   "en": "\"Break\" only lasted for like 5 seconds...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ticket3830_press_mes14#0",
+   "speaker": "Ryuji",
+   "en": "FIVE!? What the hell're you supposed to[n]do in five seconds!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ticket3830_press_mes15#0",
+   "speaker": "Ann",
+   "en": "Take a deep breath?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ticket3830_press_mes16#0",
+   "speaker": "Yusuke",
+   "en": "Regardless, those options are no[n]use to us. It's probably best we[n]simply choose \"Lunch\" from now on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ticket3830_press_mes17#0",
+   "speaker": "Ann",
+   "en": "Hold on, it looks like you can disable[n]the infrared on this too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ticket3830_press_mes18#0",
+   "speaker": "Futaba",
+   "en": "Aha! So this room is actually the one[n]with the main console in it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ticket3830_press_mes18#1",
+   "speaker": "Futaba",
+   "en": "We should prolly disable the infrared[n]before setting it to \"Lunch.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Infra_Release_Guid_mes01#0",
+   "speaker": "Guidance Voice",
+   "en": "AS A COST-CUTTING MEASURE, WE[n]WILL NOW DISABLE SECURITY IN[n]SOME LOCATIONS.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Infra_Release_Guid_mes01#1",
+   "speaker": "Guidance Voice",
+   "en": "PLEASE CONTINUE TO MONITOR[n]YOUR OWN WORKSPACES.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Infra_Release_Yusuke_mes#0",
+   "speaker": "Yusuke",
+   "en": "To think the higher-ups are just shoving[n]all this stress on the employees so things[n]can go pleasantly for themselves...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Infra_Release_Ryuji_mes0#0",
+   "speaker": "Ryuji",
+   "en": "Well, now we can get over to that[n]hydraulic press, right?",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

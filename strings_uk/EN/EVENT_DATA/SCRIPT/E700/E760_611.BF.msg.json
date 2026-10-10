@@ -1,0 +1,306 @@
+{
+ "file": "EN/EVENT_DATA/SCRIPT/E700/E760_611.BF",
+ "entries": [
+  {
+   "id": "MSG_START_RADIO_MORU#0",
+   "speaker": "Morgana",
+   "en": "This is a lot more complex than[n]I thought. We'll have to handle[n]this delicately as we repair it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_START_RADIO_NULL#0",
+   "speaker": null,
+   "en": "I better make sure I handle this[n]carefully while I try to fix it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TALK_RADIO_MORU#0",
+   "speaker": "Morgana",
+   "en": "Make sure we don't lose any of the[n]screws. We'll have to remember how[n]all the wiring was connected, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TALK_RADIO_NULL#0",
+   "speaker": null,
+   "en": "I need to remember how all[n]of the wiring was connected...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARA_RADIO_MORU#0",
+   "speaker": "Morgana",
+   "en": "Ah... You finished fixing it. Good work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARA_RADIO_MORU#1",
+   "speaker": "Morgana",
+   "en": "Repairing such a complex machine is sure[n]to have improved your [stIcon 2][clr 26][stLabel 2][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_PARA_RADIO_NULL#0",
+   "speaker": null,
+   "en": "I was able to fix it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_PARA_RADIO_NULL#1",
+   "speaker": null,
+   "en": "It feels like I've managed to[n]hone my [stIcon 2][clr 26][stLabel 2][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DONE_RADIO_MORU#0",
+   "speaker": "Morgana",
+   "en": "Let's buy a CD sometime. Listening to[n]some new music would be a nice change[n]of pace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DONE_RADIO_NULL#0",
+   "speaker": null,
+   "en": "Maybe I'll go out[n]and buy a CD sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_GAME_MORU#0",
+   "speaker": "Morgana",
+   "en": "There's so much dust... Can this really[n]be fixed?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_START_GAME_NULL#0",
+   "speaker": null,
+   "en": "There's so much dust...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TALK_GAME_MORU#0",
+   "speaker": "Morgana",
+   "en": "The construction is simpler than[n]I thought, but this green circuit[n]board is complicated...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TALK_GAME_NULL#0",
+   "speaker": null,
+   "en": "This game console's constructio[n]nis simpler than I thought...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARA_GAME_MORU#0",
+   "speaker": "Morgana",
+   "en": "Ah, you already finished fixing it?[n]Nicely done.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARA_GAME_MORU#1",
+   "speaker": "Morgana",
+   "en": "Repairing such a complex machine is sure[n]to have improved your [stIcon 2][clr 26][stLabel 2][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_PARA_GAME_NULL#0",
+   "speaker": null,
+   "en": "I was able to fix it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_PARA_GAME_NULL#1",
+   "speaker": null,
+   "en": "It feels like I've managed to[n]hone my [stIcon 2][clr 26][stLabel 2][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PLAY_GAME_MORU#0",
+   "speaker": "Morgana",
+   "en": "Now, let's see if this thing will turn on...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_PLAY_GAME_NULL#0",
+   "speaker": null,
+   "en": "I wonder if it will turn on...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DONE_GAME_MORU#0",
+   "speaker": "Morgana",
+   "en": "Ah! It worked.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DONE_GAME_MORU#1",
+   "speaker": "Morgana",
+   "en": "Let's play some games on it sometime.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DONE_GAME_NULL#0",
+   "speaker": null,
+   "en": "It seems to be working[n]without any problems...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DONE_GAME_NULL#1",
+   "speaker": null,
+   "en": "I should keep playing that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_PC_MORU#0",
+   "speaker": "Morgana",
+   "en": "Gah... This is so complicated. I don't[n]even know what that part is. Just be[n]careful!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_START_PC_NULL#0",
+   "speaker": null,
+   "en": "This machine is[n]pretty complicated.[n]I better be careful...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TALK_PC_MORU#0",
+   "speaker": "Morgana",
+   "en": "I see... So all computers are essentially[n]made up of different components that[n]are assembled.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_TALK_PC_NULL#0",
+   "speaker": null,
+   "en": "Laptops are a little bit[n]different, but I think I'm[n]starting to get how this works...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARA_PC_MORU#0",
+   "speaker": "Morgana",
+   "en": "You finished fixing it already? Then[n]again, the damage wasn't too bad[n]to begin with.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PARA_PC_MORU#1",
+   "speaker": "Morgana",
+   "en": "Repairing such a complex machine is sure[n]to have improved your [stIcon 2][clr 26][stLabel 2][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_PARA_PC_NULL#0",
+   "speaker": null,
+   "en": "I was able to fix it...[n]Luckily, the damage wasn't[n]nearly as bad as I thought.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_PARA_PC_NULL#1",
+   "speaker": null,
+   "en": "It feels like I've managed to[n]hone my [stIcon 2][clr 26][stLabel 2][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YAMI_NET#0",
+   "speaker": "Shady Commodities Tanaka",
+   "en": "Hello! This is Shady Commodities[n]Tanaka! I repeat, I'm Shady Commodities[n]Tanakaaa!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YAMI_NET_2#0",
+   "speaker": "Shady Commodities Tanaka",
+   "en": "Here we sell wonderful and rare items[n]that are not circulated among the[n]general public!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YAMI_NET_2#1",
+   "speaker": "Shady Commodities Tanaka",
+   "en": "Curious about something? You've got[n]access! Want something? You've got[n]access!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DONE_PC_MORU#0",
+   "speaker": "Morgana",
+   "en": "What the heck? It just went to that site[n]automatically. Was it configured to do[n]that beforehand?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DONE_PC_MORU#1",
+   "speaker": "Morgana",
+   "en": "Shady Commodities? So... It's an online[n]shopping site?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DONE_PC_MORU#2",
+   "speaker": "Morgana",
+   "en": "Either way, it's certainly gotten my[n]attention. Let's check it out when we[n]have some time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DONE_PC_NULL#0",
+   "speaker": null,
+   "en": "It automatically just[n]went to that site. Was[n]this PC configured to...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DONE_PC_NULL#1",
+   "speaker": null,
+   "en": "Shady Commodities...[n]I'm curious, but I should[n]probably get some sleep now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEBUG#0",
+   "speaker": null,
+   "en": "Debug Mode",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#0",
+   "speaker": null,
+   "en": "broken game console",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#1",
+   "speaker": null,
+   "en": "broken laptop",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

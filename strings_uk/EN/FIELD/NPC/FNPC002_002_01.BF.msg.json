@@ -1,0 +1,5325 @@
+{
+ "file": "EN/FIELD/NPC/FNPC002_002_01.BF",
+ "entries": [
+  {
+   "id": "YESNO_SEL#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_2F_GREETIN#0",
+   "speaker": "Kamoshida",
+   "en": "What's this...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_2F_TALK_SO#0",
+   "speaker": "Kamoshida",
+   "en": "You've got some nerve showing up[n]around here, ex-con...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_2F_TALK_SO#1",
+   "speaker": "Kamoshida",
+   "en": "You may already be expelled, but that[n]doesn't mean you can go around[n]doing whatever! Got it!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_2F_GREETIN_2#0",
+   "speaker": "Kamoshida",
+   "en": "What's this...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_2F_TALK_00#0",
+   "speaker": "Kamoshida",
+   "en": "Oh, it's the walking piece of trash,[n][lName]... Stop loitering and beat it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_2F_TALK_00_2#0",
+   "speaker": "Kamoshida",
+   "en": "You know, you're real trouble. It's[n]unpleasant just having to be in the[n]same room as you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_2F_TALK_00_2#1",
+   "speaker": "Kamoshida",
+   "en": "I wish you'd just behave... or are you[n]trying to stir up some trouble before[n]you get expelled?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_2F_TALK_00_3#0",
+   "speaker": null,
+   "en": "So what if I am?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_2F_TALK_00_3#1",
+   "speaker": null,
+   "en": "Of course not.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_2F_TALK_00_4#0",
+   "speaker": "Kamoshida",
+   "en": "You want to talk back, scum!? Try me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_2F_TALK_00_4#1",
+   "speaker": "Kamoshida",
+   "en": "If anything happens, I won't even[n]wait for the board meeting to send[n]you packing out of this school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_2F_TALK_00_4#2",
+   "speaker": "Kamoshida",
+   "en": "Either way, you're finished. It's too[n]late now to come crying to me asking[n]for forgiveness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_2F_TALK_00_5#0",
+   "speaker": "Kamoshida",
+   "en": "Hmph, whatever... I'll just have to[n]expel you on the spot if anything[n]happens.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_2F_TALK_00_5#1",
+   "speaker": "Kamoshida",
+   "en": "Either way, you're finished. It's too[n]late now to come crying to me asking[n]for forgiveness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_2F_TALK_00_6#0",
+   "speaker": "Kamoshida",
+   "en": "I'm gonna slam both you and that[n]Sakamoto punk down to hell. I hope[n]you two enjoy each other's company.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_2F_TALK_00_6#1",
+   "speaker": "Kamoshida",
+   "en": "Now get out of my sight! Haven't[n]I told you how unpleasant you are?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_2F_TALK_00_6#2",
+   "speaker": "Kamoshida",
+   "en": "I'll make you realize what happens[n]when you cross me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_2F_TALK_ca#0",
+   "speaker": "Kamoshida",
+   "en": "I'm surprised you have the nerve[n]to face me, [lName]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_WALK_2F_TALK_ca#1",
+   "speaker": "Kamoshida",
+   "en": "Get him out of here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_A_01#0",
+   "speaker": "Kamoshida",
+   "en": "You're such an eyesore... It won't be[n]long till I have you out of this school.[n]Now beat it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_A_02#0",
+   "speaker": "Kamoshida",
+   "en": "[lName]...? What do you want?[n]Don't worry. I'll have you expelled in[n]no time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_A_02#1",
+   "speaker": "Kamoshida",
+   "en": "I don't like that look though... Are you[n]trying to snoop around again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_A_03#0",
+   "speaker": null,
+   "en": "So what if I am?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_A_03#1",
+   "speaker": null,
+   "en": "What are you talking about?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_A_04#0",
+   "speaker": "Kamoshida",
+   "en": "It's no use, you scum! Do you still not[n]understand?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_A_04#1",
+   "speaker": "Kamoshida",
+   "en": "My power here is absolute. Nobody[n]would dare take your side against me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_A_04#2",
+   "speaker": "Kamoshida",
+   "en": "Just wait for the board meeting.[n]I'm going to humiliate you in[n]front of the entire school!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_A_05#0",
+   "speaker": "Kamoshida",
+   "en": "Well, not that it matters one way or[n]the other...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_A_05#1",
+   "speaker": "Kamoshida",
+   "en": "My power here is absolute. Nobody[n]would dare take your side against me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_A_06#0",
+   "speaker": "Kamoshida",
+   "en": "Everyone'll be so happy when you get[n]expelled. I'm sure they'll cheer that[n]trash like you is gone!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_A_06#1",
+   "speaker": "Kamoshida",
+   "en": "Don't you see? We all want you to go[n]spend your shitty life somewhere[n]else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "KAMOSIDA_TRAP_A_06#2",
+   "speaker": "Kamoshida",
+   "en": "Now get lost already. And don't show[n]your face in front of me again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_VALLEY_NPC01_000_00#0",
+   "speaker": "Arrogant Volleyball Player",
+   "en": "Hey... I hear you guys're getting[n]expelled?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_VALLEY_NPC01_001_00#0",
+   "speaker": "Arrogant Volleyball Player",
+   "en": "You two are idiots trying to go against[n]Kamoshida and shit...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_VALLEY_NPC01_002_00#0",
+   "speaker": "Cruel Volleyball Player",
+   "en": "I don't know what you said to him,[n]but the volleyball team is the lifeblood[n]of Shujin.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_VALLEY_NPC01_002_00#1",
+   "speaker": "Cruel Volleyball Player",
+   "en": "We've come to accept that. Don't butt[n]into something you have no concept of.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_VALLEY_NPC01_003_00#0",
+   "speaker": "Arrogant Volleyball Player",
+   "en": "It's too late now though... Kamoshida's[n]pissed, so you're totally done for.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KYOTOU_001#0",
+   "speaker": "Vice Principal",
+   "en": "The board has been causing a huge[n]headache!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KYOTOU_001#1",
+   "speaker": "Vice Principal",
+   "en": "The acceptance rate for next year isn't[n]looking too good. What happened to[n]the principal could happen to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KYOTOU_001#2",
+   "speaker": "Vice Principal",
+   "en": "I-I can't let that happen! I have to[n]raise the school's reputation!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KYOTOU_001#3",
+   "speaker": "Vice Principal",
+   "en": "In order to do that... Ah, of course,[n]that honor student...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KYOTOU_001_END#0",
+   "speaker": "Vice Principal",
+   "en": "Perhaps if I use her... the board will...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KYOTOU_002_00#0",
+   "speaker": "Shocked Student",
+   "en": "S-Sir, why are you retracting my[n]letter of recommendation!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KYOTOU_002_00#1",
+   "speaker": "Shocked Student",
+   "en": "I've been getting the necessary grades!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KYOTOU_002_01#0",
+   "speaker": "Vice Principal",
+   "en": "I'm simply telling you that you won't[n]get a recommendation with your[n]current grades.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KYOTOU_002_02#0",
+   "speaker": "Shocked Student",
+   "en": "B-But then... It's over for me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KYOTOU_002_03#0",
+   "speaker": "Vice Principal",
+   "en": "If you have time to mope around,[n]why not prepare for your next[n]mock exam?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KYOTOU_002_03#1",
+   "speaker": "Vice Principal",
+   "en": "I'll talk to the higher-ups if your[n]grades are good, of course.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KYOTOU_002_03#2",
+   "speaker": "Vice Principal",
+   "en": "...I won't hold back on supporting[n]capable students.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KYOTOU_002_04#0",
+   "speaker": "Shocked Student",
+   "en": "A-All right...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KYOTOU_002_05#0",
+   "speaker": "Vice Principal",
+   "en": "I'm going to have to retract my[n]recommendation with these grades...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KYOTOU_002_05#1",
+   "speaker": "Vice Principal",
+   "en": "But I'll talk to the higher-ups if your[n]grades improve, of course.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KYOTOU_002_06#0",
+   "speaker": "Shocked Student",
+   "en": "A-All right...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KYOTOU_003_00#0",
+   "speaker": "Vice Principal",
+   "en": "...Late again!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KYOTOU_003_00#1",
+   "speaker": "Vice Principal",
+   "en": "Teachers must act as role models[n]for the students! I need you to get it[n]together!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KYOTOU_003_01#0",
+   "speaker": "Kawakami",
+   "en": "I... I'm sorry...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KYOTOU_003_02#0",
+   "speaker": "Vice Principal",
+   "en": "*sigh* This is why the board is[n]concerned about us.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KYOTOU_003_02#1",
+   "speaker": "Vice Principal",
+   "en": "We need to prove that Shujin[n]Academy is a fine school...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KYOTOU_003_02#2",
+   "speaker": "Vice Principal",
+   "en": "Oh, what am I supposed to do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KYOTOU_003_03#0",
+   "speaker": "Vice Principal",
+   "en": "*sigh* The board is concerned because[n]our teachers lack motivation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KYOTOU_003_03#1",
+   "speaker": "Vice Principal",
+   "en": "We need to prove that Shujin[n]Academy is a fine school...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KYOTOU_003_04#0",
+   "speaker": "Kawakami",
+   "en": "I... I'm sorry...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NETOSUTO_talk_01#0",
+   "speaker": "Creepy Female Student",
+   "en": "Oh, Ikesugi-kun, you must be so tired.[n]Don't worry, I'll be watching over you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NETOSUTO_talk_01#1",
+   "speaker": "Creepy Female Student",
+   "en": "*giggle* I'll post online and everyone[n]will know what me and Ikesugi-kun[n]share... *giggle*",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NETOSUTO_talk_01#2",
+   "speaker": "Creepy Female Student",
+   "en": "I'll tell them, \"He seemed a bit[n]tired... so I massaged his shoulders[n]for him. ☆\" *giggle*",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NETOSUTO_talk_02#0",
+   "speaker": "Creepy Female Student",
+   "en": "He's talking about Mr. Kamoshida.[n]I wonder if those \"Phantom Thieves[n]of Hearts\" really do exist...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NETOSUTO_talk_02#1",
+   "speaker": "Creepy Female Student",
+   "en": "*gasp* Oh no! If Ikesugi-kun's heart[n]gets stolen... I'd...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NETOSUTO_talk_02#2",
+   "speaker": "Creepy Female Student",
+   "en": "I'll... I'll knit him a scarf for his birthday.[n]We'll be together. I just need to weave[n]in my hair...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NETOSUTO_talk_03#0",
+   "speaker": "Creepy Female Student",
+   "en": "You bitch, that's my Ikesugi-kun![n]*gasp* Wait, is she one of those[n]\"Phantom Thieves of Hearts\"!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NETOSUTO_talk_03#1",
+   "speaker": "Creepy Female Student",
+   "en": "What are you doing with someone[n]else's man!? Burn, trampy bitch![n]Burn and bleed in a blood storm!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NETOSUTO_talk_03#2",
+   "speaker": "Creepy Female Student",
+   "en": "I'll never, ever let anyone else have him.[n]Ikesugi-kun belongs to me, only me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NETOSUTO_talk_04#0",
+   "speaker": "Creepy Female Student",
+   "en": "What a relief... Looks like that home[n]wrecking tramp isn't around here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NETOSUTO_talk_04#1",
+   "speaker": "Creepy Female Student",
+   "en": "After that artist, though, those[n]Phantom Thieves might come back[n]to steal Ikesugi-kun's heart!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NETOSUTO_talk_04#2",
+   "speaker": "Creepy Female Student",
+   "en": "If they come, I'll show them[n]no mercy. I'll make them bleed...[n]It'll be a blood storm! *giggle*",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NETOSUTO_talk_05#0",
+   "speaker": "Creepy Female Student",
+   "en": "They can't steal Ikesugi-kun's \"heart\"![n]It's mine! Yumeko Mogami[n]and Ikesugi-kun belong together!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NETOSUTO_talk_05#1",
+   "speaker": "Creepy Female Student",
+   "en": "Oh, wait... When I marry him, I'll be[n]Yumeko Ikesugi... *giggle*",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NETOSUTO_talk_05#2",
+   "speaker": "Creepy Female Student",
+   "en": "I'll post online about anyone who gets[n]in my way. And they'll bleed! It'll[n]be a blood storm!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NETOSUTO_talk_05_02#0",
+   "speaker": "Creepy Female Student",
+   "en": "It's my destiny to be his bride.[n]Yumeko Mogami, the girl who married[n]Ikesugi-kun...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "NETOSUTO_talk_05_02#1",
+   "speaker": "Creepy Female Student",
+   "en": "I'll post online about anyone who[n]threatens our family! And they'll bleed![n]It'll be a blood storm!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_quest07_morgana_01#0",
+   "speaker": "Morgana",
+   "en": "Things could get messy if we don't[n]hurry up and change her heart in[n]Mementos...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_MEMENTOS_MISSION_01#0",
+   "speaker": "Mission Occurrence!",
+   "en": "[clr 4]Stalker Girl's Mementos Occurrence[clr 27][n]You can now receive orders at the[n][clr 2]hideout[clr 27]. [clr 3]Mementos not implemented.[clr 27]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_006_0_0#0",
+   "speaker": "Yumeko Mogami",
+   "en": "I, uh, I w-want to change... your h-harp![n]I mean, your hard! Wait, no, that's[n]even worse...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_006_1_0#0",
+   "speaker": "Handsome Student",
+   "en": "Are you all right? You're sweating[n]a lot...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_006_2_0#0",
+   "speaker": "Yumeko Mogami",
+   "en": "I-I-I...*mumble*",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_006_3_0#0",
+   "speaker": "Handsome Student",
+   "en": "I'm not sure what's going on, but just[n]relax. Let's take our time, and try[n]to talk normally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_007_0_0#0",
+   "speaker": "Yumeko Mogami",
+   "en": "I've obsessed over your yearbook[n]photos, secretly recorded videos,[n]gathered your crumbs... I'm sorry!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_007_1_0#0",
+   "speaker": "Handsome Student",
+   "en": "Oh, that was you. I knew I felt someone[n]looking at me. Well... We could start[n]off as friends.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_007_2_0#0",
+   "speaker": "Yumeko Mogami",
+   "en": "Yes...! This is my chance![n]Er, I mean, uh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_007_2_0#1",
+   "speaker": "Yumeko Mogami",
+   "en": "Thank you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_001_0_0#0",
+   "speaker": "Handsome Student",
+   "en": "Lately, I get this weird feeling,[n]like someone's staring at me.[n]Man, I hope it's not ghosts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_001_1_0#0",
+   "speaker": "Glib Male Student",
+   "en": "Maybe you're just really tired?[n]Don't go fainting on me all of a sudden,[n]all right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_001_2_0#0",
+   "speaker": "Handsome Student",
+   "en": "Oh, are you talking about those[n]psychotic breakdowns? It's nothing[n]that crazy. Maybe I'm just tired.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_001_3_0#0",
+   "speaker": "Glib Male Student",
+   "en": "Hey, you might feel better if you eat[n]something. Let's stop by Big Bang[n]on Central Street.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_002_0_0#0",
+   "speaker": "Glib Male Student",
+   "en": "That Kamoshida thing came out of[n]nowhere. He was like, \"I'll take[n]responsibility by killing myself!\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_002_1_0#0",
+   "speaker": "Handsome Student",
+   "en": "But a morning assembly for the[n]whole school? Maybe the \"Phantom[n]Thieves of Hearts\" wer— *shriek*",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_002_2_0#0",
+   "speaker": "Glib Male Student",
+   "en": "Huh? What's wrong?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_002_3_0#0",
+   "speaker": "Handsome Student",
+   "en": "I-I felt this sudden chill down my[n]spine... Maybe I'm coming down[n]with something?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_003_0_0#0",
+   "speaker": "Friendly Female Student",
+   "en": "Ikesugi-kun, are you free after this?[n]Let's go hang out in Shibuya with[n]everyone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_003_1_0#0",
+   "speaker": "Handsome Student",
+   "en": "Sorry, but I've just been too tired lately.[n]It always feels like... somebody's[n]watching me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_003_1_0#1",
+   "speaker": "Handsome Student",
+   "en": "And I found this hand-knit scarf in my[n]desk, but it's almost summer. Am I[n]being pranked?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_003_2_0#0",
+   "speaker": "Friendly Female Student",
+   "en": "Oh, that's so creepy. Yeah, that sounds[n]like a stalker. You better talk to a[n]teacher if it gets any worse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_004_0_0#0",
+   "speaker": "Handsome Student",
+   "en": "This is the first time I received a[n]\"calling card.\" These pranks are really[n]freaking me out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_004_1_0#0",
+   "speaker": "Glib Male Student",
+   "en": "Oh, yeah, when I looked up the[n]Phantom Thieves online, I found[n]this weird blog by a crazy person.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_004_1_0#1",
+   "speaker": "Glib Male Student",
+   "en": "Her blog's called \"Phantom Thieves[n]Want to Steal My Boyfriend.\" She[n]mentions \"blood storms\"... a lot.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_004_2_0#0",
+   "speaker": "Handsome Student",
+   "en": "Whoa. She really sounds deranged.[n]I feel bad for her boyfriend, whoever[n]he is.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_005_0_0#0",
+   "speaker": "Friendly Female Student",
+   "en": "Hey, so that weird girl posted all this[n]stuff online about her clearly[n]imaginary boyfriend.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_005_0_0#1",
+   "speaker": "Friendly Female Student",
+   "en": "She says she knit her boyfriend a[n]scarf, which made him super happy.[n]Maybe that's you, Ikesugi-kun?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_005_1_0#0",
+   "speaker": "Handsome Student",
+   "en": "Ah, stop it... That scarf freaked me out,[n]so I threw it away. That's only[n]a coincidence.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_005_2_0#0",
+   "speaker": "Friendly Female Student",
+   "en": "Maybe you should ask that genius[n]detective Akechi-kun to get to the[n]bottom of this? Juuust kidding.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_005_4_0#0",
+   "speaker": "Handsome Student",
+   "en": "Why do I keep feeling like someone's[n]staring at me? Maybe ghosts really[n]are haunting me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_005_5_0#0",
+   "speaker": "Friendly Female Student",
+   "en": "Maybe you're attracting weirdos.[n]What if one of them pops out and[n]suddenly tries to stab you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NETOSUTO_BOY_005_6_0#0",
+   "speaker": "Handsome Student",
+   "en": "S-Stop it... I really don't know[n]what to do about this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_001_0_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Sorry, but could you not talk to me[n]where people can see us?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_001_0_0#0",
+   "speaker": null,
+   "en": "Why?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_001_0_0#1",
+   "speaker": null,
+   "en": "My bad.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_001_0_0#2",
+   "speaker": null,
+   "en": "I'll do what I want.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_001_1_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I've heard this rumor that you did[n]something crazy before you came[n]to this school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_001_1_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "If the teachers are suspicious of me too,[n]it'll affect the newspaper club's[n]activities... I'm sorry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_001_2_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "The teachers in this school keep a close[n]watch on whoever hangs out with kids[n]who might cause trouble.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_001_2_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "I've heard this rumor that you did[n]something crazy before you came[n]to this school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_001_2_0#2",
+   "speaker": "Newspaper Club Member",
+   "en": "If the teachers are suspicious of me too,[n]it'll affect the newspaper club's[n]activities... I'm sorry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_002_0_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Oh... Did you need something...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_002_0_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "I'll hear you out if it's got to do[n]with Suzui-san's suicide attempt...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_002_0_0#0",
+   "speaker": null,
+   "en": "I don't know anything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_002_0_0#1",
+   "speaker": null,
+   "en": "Don't pry into it too much.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_002_0_0#2",
+   "speaker": null,
+   "en": "You're writing an article on it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_002_1_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Well, you are a transfer student,[n]so you wouldn't know about those[n]shocking volleyball team rumors...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_002_2_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "As part of the newspaper club,[n]I can't just ignore this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_002_3_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Well, that's really up to me. It's my[n]decision to make, you know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_002_01_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "...What? I don't like the way you walk[n]up to me so casually, like we know[n]each other.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_002_01_0#0",
+   "speaker": null,
+   "en": "Why?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_002_01_0#1",
+   "speaker": null,
+   "en": "I'm sorry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_002_01_0#2",
+   "speaker": null,
+   "en": "It's not a big deal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_002_01_1#0",
+   "speaker": "Newspaper Club Member",
+   "en": "You act too impulsively. Are you trying[n]to get expelled right after transferring?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_002_01_2#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Hey, you know that opposing[n]Mr. Kamoshida is just like asking[n]to get expelled, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_002_01_2#1",
+   "speaker": "Newspaper Club Member",
+   "en": "You should've just kept quiet.[n]But I guess it's too late now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_002_01_3#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Maybe it's not a big deal to you,[n]but it is to me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_002_01_3#1",
+   "speaker": "Newspaper Club Member",
+   "en": "You probably don't understand how[n]this school works, but angering[n]Mr. Kamoshida was a bad idea...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_002_02_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "...I have info. Heard you met[n]the new student?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_002_02_0#0",
+   "speaker": null,
+   "en": "Which new student?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_002_02_0#1",
+   "speaker": null,
+   "en": "Who?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_002_02_0#2",
+   "speaker": null,
+   "en": "I plead the fifth.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_002_02_1#0",
+   "speaker": "Newspaper Club Member",
+   "en": "You didn't know? She's all everyone[n]at Shujin Academy is talking about[n]this year.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_002_02_1#1",
+   "speaker": "Newspaper Club Member",
+   "en": "She was admitted as an honor[n]student because she's a gymnastics[n]medal contender.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_002_02_1#2",
+   "speaker": "Newspaper Club Member",
+   "en": "Not only are her gymnastics skills[n]incredible, but she's also polite[n]and beautiful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_002_02_1#3",
+   "speaker": "Newspaper Club Member",
+   "en": "So far, she's only gotten positive[n]attention—unlike a certain someone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_002_02_2#0",
+   "speaker": "Newspaper Club Member",
+   "en": "You didn't know? She's all everyone[n]at Shujin Academy is talking about[n]this year.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_002_02_2#1",
+   "speaker": "Newspaper Club Member",
+   "en": "She was admitted as an honor[n]student because she's a gymnastics[n]medal contender.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_002_02_2#2",
+   "speaker": "Newspaper Club Member",
+   "en": "Not only are her gymnastics skills[n]incredible, but she's also polite[n]and beautiful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_002_02_2#3",
+   "speaker": "Newspaper Club Member",
+   "en": "So far, she's only gotten positive[n]attention—unlike a certain someone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_002_02_3#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Don't you know anything?[n]She's all everyone at Shujin Academy[n]is talking about this year.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_002_02_3#1",
+   "speaker": "Newspaper Club Member",
+   "en": "She was admitted as an honor[n]student because she's a gymnastics[n]medal contender.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_002_02_3#2",
+   "speaker": "Newspaper Club Member",
+   "en": "Not only are her gymnastics skills[n]incredible, but she's also polite[n]and beautiful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_002_02_3#3",
+   "speaker": "Newspaper Club Member",
+   "en": "So far, she's only gotten positive[n]attention—unlike a certain someone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_003_0_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Umm... Did you need something?[n]If you've got a question for me,[n]will you make it quick?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_003_0_0#0",
+   "speaker": null,
+   "en": "How's Kamoshida?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_003_0_0#1",
+   "speaker": null,
+   "en": "What's with the Phantom Thieves?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_003_0_0#2",
+   "speaker": null,
+   "en": "What's happening on campus?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_003_1_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I hear Mr. Kamoshida's taking[n]a leave of absence. Maybe it's[n]because of that calling card.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_003_1_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "I'm sure this Phantom Thieves[n]stunt is just a prank. Still, the[n]newspaper club should follow this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_003_2_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Wouldn't it be amazing if they[n]were real?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_003_2_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "As a member of the newspaper club,[n]I'm going to see what I can dig up on[n]them!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_003_3_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Mmm... All I can say is what happened[n]recently has created quite a stir[n]on campus...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_003_3_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "Because of what's going on, people[n]will probably pay less attention[n]to the bad rumors about you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_003_3_0#2",
+   "speaker": "Newspaper Club Member",
+   "en": "The teachers will still keep a close eye[n]on you, so we can't talk for too long.[n]I'm sorry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_004_0_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "...What did you need? Being seen[n]with you makes me feel nervous,[n]but I can talk for a little bit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_004_0_0#0",
+   "speaker": null,
+   "en": "How's Kamoshida?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_004_0_0#1",
+   "speaker": null,
+   "en": "How are the students?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_004_0_0#2",
+   "speaker": null,
+   "en": "How are the other teachers?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_004_1_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I'm not sure... The police won't tell[n]me anything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_004_1_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "Maybe they don't expect much from[n]a high school reporter, but I'm[n]trying to do my job seriously.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_004_1_0#2",
+   "speaker": "Newspaper Club Member",
+   "en": "I want to get more info about it since[n]everyone's so confused about[n]what's going on...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_004_2_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Some students are taking time off[n]because of the emotional shock.[n]As for the volleyball team...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_004_2_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "Some members are still sticking[n]with the team, but that doesn't[n]mean they forgive Mr. Kamoshida.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_004_3_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "They just keep telling everyone not[n]to cause any trouble.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_004_3_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "I get that they're busy, but...[n]I feel like none of them actually[n]care about us students.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_005_0_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Mr. Kamoshida is gone, but that[n]doesn't mean your bad reputation[n]just went away.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_005_0_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "...All I've done till now is avoid[n]you though, so I'll hear you out[n]if you wanted to ask me anything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_005_0_0#0",
+   "speaker": null,
+   "en": "Ask about Kamoshida",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_005_0_0#1",
+   "speaker": null,
+   "en": "Ask if there is any new info",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_005_0_0#2",
+   "speaker": null,
+   "en": "Ask about the counselor",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_005_0_0#3",
+   "speaker": null,
+   "en": "Ask about the newspaper club",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_005_1_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I haven't been able to learn anything[n]about what happened to him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_005_1_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "When I ask the teachers, they tell me[n]to forget about it. I'm sure there's[n]more they're not telling.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_005_2_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Do you know about Madarame,[n]the great Japanese artist? Apparently,[n]he's training a talented pupil.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_005_2_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "Now, I hear this pupil goes to[n]Kosei High. And that he's incredibly[n]gorgeous!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_005_3_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "That new counselor seems to be[n]fairly popular among the students.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_005_3_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "Of course, not everyone's on board.[n]Some think the school's just trying to[n]mitigate the damage Kamoshida did.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_005_4_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "The Shujin Academy newspaper club[n]has a real history. Some of our alumni[n]work in mass media now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_005_4_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "But now I'm the only member left.[n]It's close to getting disbanded...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_006_0_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "...What do you need? I'm busy covering[n]the Mr. Kamoshida story.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_006_0_0#0",
+   "speaker": null,
+   "en": "Work hard.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_006_0_0#1",
+   "speaker": null,
+   "en": "That's already over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_006_0_0#2",
+   "speaker": null,
+   "en": "You're desperate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_006_1_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "No need for you to remind me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_006_1_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "Don't worry. I'll be sure to uncover[n]the truth they're hiding at this school!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_006_1_0#2",
+   "speaker": "Newspaper Club Member",
+   "en": "But maybe I should've covered that[n]artist, Madarame, instead. Everyone's[n]talking about him...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_006_2_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "That's true, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_006_2_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "I'm going to write about it so that[n]the same thing won't happen again!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_006_2_0#2",
+   "speaker": "Newspaper Club Member",
+   "en": "But maybe I should've covered that[n]artist, Madarame, instead. Everyone's[n]talking about him...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_006_3_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "...You might be right, but it could be[n]a major scoop for the newspaper club...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_006_3_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "But maybe I should've covered that[n]artist, Madarame, instead. Everyone's[n]talking about him...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_006_01_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I'm investigating Yoshizawa-san now,[n]but... like the rumors say, she really has[n]her act together.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_006_01_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "Honor students were exempt from[n]cleaning, but she volunteered because[n]she didn't want to be treated differently.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_006_01_0#0",
+   "speaker": null,
+   "en": "How noble.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_006_01_0#1",
+   "speaker": null,
+   "en": "She's that kind of person.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_006_01_0#2",
+   "speaker": null,
+   "en": "Uh-huh.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_006_01_1#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Yeah, it is. I think she's respected[n]as both an athlete and a student.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_006_01_1#1",
+   "speaker": "Newspaper Club Member",
+   "en": "You know, maybe you should follow[n]her example. People will probably[n]stop being suspicious of you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_006_01_2#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Hmmm... It kind of sounds like you[n]know a lot about her. Are you stalking[n]her or something?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_006_01_2#1",
+   "speaker": "Newspaper Club Member",
+   "en": "You know, maybe you should follow[n]her example. People will probably[n]stop being suspicious of you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_006_01_3#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Can you make it any more obvious[n]that you don't care...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_006_01_3#1",
+   "speaker": "Newspaper Club Member",
+   "en": "You know, maybe you should follow[n]her example. People will probably[n]stop being suspicious of you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_007_0_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I'm sure you're already aware, but[n]the Phantom Thieves appeared again!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_007_0_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "Let me get your opinion on this.[n]What do you think is the Phantom[n]Thieves' objective?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_007_0_0#0",
+   "speaker": null,
+   "en": "Social reform.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_007_0_0#1",
+   "speaker": null,
+   "en": "Killing time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_007_0_0#2",
+   "speaker": null,
+   "en": "I have no idea.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_007_1_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "There's a lot of bad guys in the world,[n]so I'd like to support the Phantom[n]Thieves too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_007_1_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "For the newspaper club, I'll continue[n]to watch for what the Phantom Thieves[n]will do next.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_007_2_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Mmm, I wonder if they really have that[n]much free time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_007_2_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "Personally, I'd like to support the[n]Phantom Thieves. They do help and[n]save some people, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_007_3_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I know, right? I'm not sure I get their[n]whole \"stealing hearts\" thing, either.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_007_3_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "At any rate, they do seem to be getting[n]more popular.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_008_0_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I'm so angry after watching that[n]high school student, Akechi, on that[n]Sunday morning talk show!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_008_0_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "Don't you think it's terrible how he[n]insists that the Phantom Thieves are[n]dangerous?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_008_0_0#0",
+   "speaker": null,
+   "en": "I got angry too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_008_0_0#1",
+   "speaker": null,
+   "en": "Leave it be.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_008_0_0#2",
+   "speaker": null,
+   "en": "He's too pretty to be wrong.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_008_1_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "They actually save people, so he really[n]needs to show some evidence to back[n]his criticisms.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_008_1_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "As a journalist, I can't let this slide.[n]Maybe I should write a[n]counterargument in the paper.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_008_2_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "No, I can't let this slide. The influence[n]TV has on people is incredible,[n]you know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_008_2_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "As a journalist, I won't let him make[n]biased statements that irresponsibly[n]sway the public!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_008_3_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "His prettiness is irrelevant to me![n]Professional journalists need to be[n]impartial.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_008_3_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "Is what the Phantom Thieves did that[n]bad? The truth is that people have[n]been saved by them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_009_0_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "We're being told to avoid taking[n]detours because of the crimes[n]targeting young people lately.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_009_0_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "Well, you're not affected because of[n]your bad rep. If you want to ask me[n]about something, go for it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_009_0_0#0",
+   "speaker": null,
+   "en": "About the class president",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_009_0_0#1",
+   "speaker": null,
+   "en": "About the principal",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_009_0_0#2",
+   "speaker": null,
+   "en": "About Shibuya",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_009_0_0#3",
+   "speaker": null,
+   "en": "About the school",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_009_1_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "She's the ideal honor student.[n]Excellent grades, exemplary conduct,[n]trusted by teachers...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_009_1_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "She ran for class president and won on[n]her own merit. Well, no one else wants[n]to do her job though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_009_2_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "He's still highly regarded for his[n]passion for education even though[n]he's criticized for scandals now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_009_2_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "Ever since the incident involving[n]Mr. Kamoshida, he's been working[n]to restore our school's prestige.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_009_3_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I hear fraud is on the rise, and there's[n]even rumors of drugs and prostitution...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_009_3_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "The police can't do much because they[n]have too little info. Most of the time,[n]the victims stay silent.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_009_4_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Ever since the competition results were[n]announced, the volleyball club seems[n]either happy or depressed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_009_4_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "Shujin's reputation was tarnished[n]after Kamoshida's scandal, so that[n]must have been hard on them...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_009_4_0#2",
+   "speaker": "Newspaper Club Member",
+   "en": "I heard that honor student is competing[n]in a gymnastics event. I can't wait to[n]see how she does.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_010_0_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "They even took on the mafia... Looks[n]like the Phantom Thieves are going[n]after bigger targets now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_010_0_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "I suppose I'll ask you this too, just in[n]case. Who do you think will be their[n]next target?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_010_0_0#0",
+   "speaker": null,
+   "en": "I don't care who.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_010_0_0#1",
+   "speaker": null,
+   "en": "What's your guess?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_010_0_0#2",
+   "speaker": null,
+   "en": "They haven't decided yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_010_1_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Oh... Okay. Sorry, I probably shouldn't[n]have asked you out of the blue like that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_010_2_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Well, if they want a bigger target,[n]maybe the government? That'd be[n]really interesting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_010_2_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "I have no idea what they'll do next. I'm[n]a bit excited, but it's also kind of scary.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_010_3_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I see... So rather than acting right away,[n]they're carefully observing society[n]for now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_010_3_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "It might also be that the criminals have[n]been scared into hiding by the[n]Phantom Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_011_0_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Our exams are finally over. So much[n]happened this semester.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_011_0_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "If there's anything you'd like to know,[n]ask away. Consider it the newspaper[n]club's special service.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_011_0_0#0",
+   "speaker": null,
+   "en": "Anything about school?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_011_0_0#1",
+   "speaker": null,
+   "en": "Who are the Phantom Thieves?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_011_0_0#2",
+   "speaker": null,
+   "en": "What's the big news?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_011_0_0#3",
+   "speaker": null,
+   "en": "What are your summer plans?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_011_1_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Right now, everyone's talking about[n]the Phantom Thieves and, of course,[n]Yoshizawa-san's poor performance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_011_1_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "Her failure at the competition has[n]people divided into different camps.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_011_1_0#2",
+   "speaker": "Newspaper Club Member",
+   "en": "Her fans believe that she'll make a[n]comeback, but the critics are skeptical[n]of her talent...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_011_2_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Ah, it'd be a major scoop if I knew.[n]Secret identities are definitely front[n]page material.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_011_2_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "The mass media knows it'd be major[n]news too. Shujin Academy will likely[n]draw attention again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_011_3_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "There's been all this excitement over[n]the Phantom Thieves. You hear a lot[n]about them too, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_011_3_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "Now that they've crushed the mafia,[n]everyone is waiting for their next[n]move.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_011_4_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I've... got my newspaper club activities.[n]There's plenty to do with all these[n]incidents going on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_011_4_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "I'm hoping I can attract new members[n]if I write up some really good articles.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_012_0_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "[lName]-kun, seems your rep now in[n]second semester isn't so bad. Anything[n]you want to know?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_012_0_0#0",
+   "speaker": null,
+   "en": "What's with the Phantom Thieves?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_012_0_0#1",
+   "speaker": null,
+   "en": "What's going on in school?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_012_0_0#2",
+   "speaker": null,
+   "en": "How's the newspaper club?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_012_1_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "They're on TV almost every day. The[n]hit counter on their fan site also has[n]ridiculous numbers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_012_1_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "It looks like the Phantom Thieves are[n]going to be a pretty hot topic for[n]a while!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_012_2_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I guess people have been talking about[n]the school trip. You know how we're[n]going overseas?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_012_2_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "I think that's a really good thing. We[n]should experience and see new things[n]whenever we can!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_012_3_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I've been super busy running all over[n]the place, investigating what I can[n]to cover the news.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_012_3_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "I haven't been able to find too much[n]new info though. Doing this all by[n]myself is pretty hard.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_013_0_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Have you read the article in that weekly[n]magazine? It's about Shujin Academy's[n]troubles this year.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_013_0_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "I think I'll interview you too,[n][lName]-kun. What're your[n]thoughts on the article?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_013_0_0#0",
+   "speaker": null,
+   "en": "It pissed me off.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_013_0_0#1",
+   "speaker": null,
+   "en": "I think it's fake.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_013_0_0#2",
+   "speaker": null,
+   "en": "I don't care.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_013_1_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I totally get you! The teachers can't be[n]trusted.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_013_1_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "I wish they'd be more honest with us.[n]Of course, I'll continue my coverage[n]for the newspaper club.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_013_2_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I wish that were the case...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_013_2_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "There's already an uproar about[n]it online, including the Phantom[n]Thieves case.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_013_3_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "It's pretty tough to ignore it, though,[n]since the mass media might close in[n]on our school again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_013_3_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "I hear one student actually got[n]interviewed. Attracting this sort[n]of attention is embarrassing...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_014_0_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Right when we return from our school[n]trip, there's a series of major incidents.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_014_0_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "The newspaper club must stand strong[n]despite it all. Go ahead and tell me[n]what you want to know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_014_0_0#0",
+   "speaker": null,
+   "en": "How'd the principal die?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_014_0_0#1",
+   "speaker": null,
+   "en": "What's with Okumura Foods?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_014_0_0#2",
+   "speaker": null,
+   "en": "Tell me about Haru Okumura.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_014_0_0#3",
+   "speaker": null,
+   "en": "What's with the Phantom Thieves?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_014_1_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Some say the Phantom Thieves are[n]responsible, but it's apparently[n]confirmed to be suicide.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_014_1_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "I wonder if there was anything we[n]could have done to prevent this from[n]happening...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_014_2_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Big Bang Burger is attracting a lot[n]of interest. It's already pretty well[n]known among high school students.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_014_2_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "Employee exploitation by companies[n]is a social issue, so it might be[n]interesting to do a feature on it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_014_3_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I'm surprised you know about her!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_014_3_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "Most people don't know that[n]Okumura-senpai is the daughter of[n]the Okumura who runs that company.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_014_4_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "People found out this company is[n]exploiting its employees, and some[n]look to the Phantom Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_014_4_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "The extremists are asking them to[n]strike already. Maybe the Phantom[n]Thieves are tired of it by now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_015_0_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "After sending that calling card, the[n]Phantom Thieves have been all over[n]the media.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_015_0_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "I'm sure the Phantom Thieves are[n]watching the news too, but I wonder[n]what they're thinking.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_015_0_0#0",
+   "speaker": null,
+   "en": "They're pleased.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_015_0_0#1",
+   "speaker": null,
+   "en": "They're pissed off.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_015_0_0#2",
+   "speaker": null,
+   "en": "They don't care.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_015_1_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "They've been acting as symbols of hope,[n]after all. I even hear people refer to[n]them as saviors.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_015_2_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I don't blame them. Some people[n]expect a bit much for the requests[n]they send to the Phantom Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_015_3_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I hope that's the case. I'm a bit[n]worried because some people can[n]react irresponsibly to all this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_015_4_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "If everything on that calling card[n]is true, this might just be a turning[n]point in history.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_015_4_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "Maybe I'm getting ahead of myself, but[n]there's no doubt of the attention[n]this is getting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_015_01_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I know the school's plan to deal with[n]Yoshizawa-san hasn't been finalized[n]yet, but it all seems so fishy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_015_01_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "She didn't win, but her scores were[n]decent. She hasn't even had any[n]behavior issues.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_015_01_0#2",
+   "speaker": "Newspaper Club Member",
+   "en": "So isn't it strange that they're taking[n]away her status as an honor student?[n]There must be more to it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_015_01_0#0",
+   "speaker": null,
+   "en": "I agree.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_015_01_0#1",
+   "speaker": null,
+   "en": "You're overthinking it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_015_01_0#2",
+   "speaker": null,
+   "en": "Reporter's intuition?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_015_01_1#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Right? It's too harsh.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_015_01_1#1",
+   "speaker": "Newspaper Club Member",
+   "en": "Just what on earth is the[n]school thinking...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_015_01_2#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Really? I think it's a bit harsh... ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_015_01_2#1",
+   "speaker": "Newspaper Club Member",
+   "en": "Just what on earth is the[n]school thinking...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_015_01_3#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Not really... It just seems a bit harsh.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_015_01_3#1",
+   "speaker": "Newspaper Club Member",
+   "en": "What on earth is the school thinking...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_016_0_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Maybe it's weird that I'm asking you[n]this, but is there a topic you'd want[n]an article to cover?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_016_0_0#0",
+   "speaker": null,
+   "en": "The Phantom Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_016_0_0#1",
+   "speaker": null,
+   "en": "School events.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_016_0_0#2",
+   "speaker": null,
+   "en": "Write whatever you want.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_016_1_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I figured as much, but I wasn't sure[n]what angle I would use when[n]I write it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_016_1_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "Do you think the Phantom Thieves[n]are responsible for President[n]Okumura's death...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_016_1_0#2",
+   "speaker": "Newspaper Club Member",
+   "en": "I can't think of any other possibilities...[n]Hmm...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_016_2_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "That might be a good idea since we've[n]got the school festival coming up[n]after midterms.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_016_2_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "We have a guest coming to the[n]post-festival party, so it should be[n]a lot of fun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_016_3_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "You're right. Sorry...[n]I got a little depressed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_016_3_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "I bet people will start slandering[n]the Phantom Thieves. The public[n]is so quick to turn on its heroes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_016_3_0#2",
+   "speaker": "Newspaper Club Member",
+   "en": "It's extra disappointing for me... I had[n]such high hopes for the Phantom[n]Thieves too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_017_0_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Since the school festival is soon, I've[n]got a questionnaire. What are you[n]most excited about?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_017_0_0#0",
+   "speaker": null,
+   "en": "Akechi's lecture.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_017_0_0#1",
+   "speaker": null,
+   "en": "The post-festival party.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_017_0_0#2",
+   "speaker": null,
+   "en": "I don't care.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_017_1_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I'm surprised he agreed to come at[n]a time like this. Maybe Shujin Academy[n]interests him too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_017_1_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "People are already talking about it[n]online. Let's see what he has to say[n]when he visits our school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_017_2_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Wow, I didn't expect to hear that. Are[n]you interested in inviting a special[n]guest to the party?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_017_2_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "...Sorry, just kidding. I'm not trying to[n]write for the tabloids, after all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_017_3_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I get what you mean. I hear some[n]people thought about canceling it, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_017_3_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "It seems the school wants to show that[n]it's \"normal.\" I'm sick of them bossing[n]me around though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_018_0_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Everyone's turned against the[n]Phantom Thieves in the worst way.[n]Do you think they're bad guys too?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_018_0_0#0",
+   "speaker": null,
+   "en": "Yes, I do.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_018_0_0#1",
+   "speaker": null,
+   "en": "No, I don't.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_018_0_0#2",
+   "speaker": null,
+   "en": "I don't know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_018_1_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "They can't be forgiven if they caused[n]those mental shutdowns. I'll quote you[n]in my article.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_018_2_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I personally agree with you, but critics[n]of the Phantom Thieves won't change[n]their minds easily.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_018_3_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Yeah. We're not getting all the[n]important info we need since the[n]mass media is unfairly biased.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_018_4_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I wonder what the truth really is.[n]Discerning what's true from what's[n]not is a real challenge...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_019_0_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "After the House of Representatives[n]adjourns, it'll be the election. Are you[n]interested in politics?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_019_0_0#0",
+   "speaker": null,
+   "en": "I am.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_019_0_0#1",
+   "speaker": null,
+   "en": "Not at all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_019_0_0#2",
+   "speaker": null,
+   "en": "I don't have time for that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_019_1_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "It's great that you can think that way.[n]I just can't get excited about politics.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_019_2_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Frankly, politics just aren't my thing.[n]I can't get excited about the elections,[n]either...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_019_3_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I'm sure lots of us in high school[n]feel that way. After all, we're busy[n]with clubs and studying.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_019_4_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "But I still need to cover politics for[n]the newspaper club. Maybe I'll write[n]about a popular candidate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_020_0_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "So you came back to school.[n]How was your break?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_020_0_0#0",
+   "speaker": null,
+   "en": "It was fun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_020_0_0#1",
+   "speaker": null,
+   "en": "It was pointless.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_020_0_0#2",
+   "speaker": null,
+   "en": "No comment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_020_1_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "You went back to your parents' place,[n]right? Well, let's make this next year[n]a good one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_020_2_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I'm sorry to hear that. Hopefully[n]something good will happen this year.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_020_3_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Ahaha, acting cool, are you? Let's make[n]this next year a good one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_020_4_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I feel this weird vibe in the air. I wonder[n]if it's because of all the election chaos.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_020_4_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "The information the mass media is[n]showing is pretty complicated, and it's[n]getting me frustrated.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_021_0_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "People seemed to have calmed down[n]about the Phantom Thieves. What do[n]you think about them?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_021_0_0#0",
+   "speaker": null,
+   "en": "I've lost interest.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_021_0_0#1",
+   "speaker": null,
+   "en": "They're heroes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_021_0_0#2",
+   "speaker": null,
+   "en": "What does it matter?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_021_1_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Yeah, I get that. People often lose[n]interest in things around the new[n]year—like one-hit wonders.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_021_2_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I see that their actions had a major[n]influence on you, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_021_3_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "And yet we never managed to find[n]out who they were... It all feels like[n]a dream now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_021_4_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Well, I want to report the news[n]without being influenced by[n]the public.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_021_4_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "Honestly, I wish I could interview[n]them in person, but... heh, that's[n]never gonna happen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_022_0_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "If there's world peace, then there'd be[n]nothing to report. Would that be good[n]for the newspaper club?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_022_0_0#0",
+   "speaker": null,
+   "en": "Of course it's good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_022_0_0#1",
+   "speaker": null,
+   "en": "No, it'd be bad.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_022_0_0#2",
+   "speaker": null,
+   "en": "The world is in danger.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_022_1_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Yeah, I need to promote peace.[n]I don't want people to think that[n]the newspaper club is malicious.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_022_2_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I guess there's a part of the news[n]industry that needs people to be[n]unhappy in order to thrive...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_022_3_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Huh? You want me to write an article[n]about a conspiracy theory? But then[n]we'd be the occult club.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_022_4_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "There must something to report[n]during peaceful times. This is our[n]true test!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_023_0_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "[lName]-kun, what do[n]you think of your first[n]year at Shujin Academy?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_023_0_0#0",
+   "speaker": null,
+   "en": "It was fun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_023_0_0#1",
+   "speaker": null,
+   "en": "It was pointless.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SINBUNJYOSI_023_0_0#2",
+   "speaker": null,
+   "en": "No comment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_023_1_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I'm glad to hear that. I don't think I'll be[n]able to forget all that happened this[n]past year.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_023_2_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Sorry, it's a little awkward for me to[n]say this, but I'm amazed you never[n]let those rumors about you get you down.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_023_3_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Ahaha, acting cool again? I kind of wish[n]I could have gotten to know you a bit[n]better.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_023_4_0#0",
+   "speaker": "Newspaper Club Member",
+   "en": "...So, there's a girl who wants to join[n]the newspaper club.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_023_4_0#1",
+   "speaker": "Newspaper Club Member",
+   "en": "Seems she was really moved by the[n]article encouraging the volleyball[n]team after the Kamoshida incident.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SINBUNJYOSI_023_4_0#2",
+   "speaker": "Newspaper Club Member",
+   "en": "I'm really glad I kept this club going.[n]Thanks for letting me interview you[n]all this time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "So, he's the transfer[n]student people were[n]talking about online...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I heard he got arrested for[n]assault. He's an actual criminal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Wait, is that the guy[n]that assaulted someone?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Hey, that's him, isn't it?[n]The one people were[n]talking about online...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_002_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Even the teachers[n]have given up on him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_002_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "The rumors were right...[n]He does look really[n]dangerous...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_002_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I don't want to get involved[n]with him... He's scary.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_002_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "If he gets expelled,[n]I'd feel so relieved...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_002_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "He really is[n]dangerous, isn't he?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_003_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "He's already started[n]causing trouble?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_003_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "He's not going to[n]suddenly just start[n]attacking people, is he?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_003_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "He's getting expelled?[n]That guy must not have any[n]remorse for his crimes at all...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_003_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "He's getting expelled[n]already? That's kind[n]of impressive, in a way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_003_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "That transfer student's already[n]getting kicked out of school!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_004_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I'm getting a good laugh out[n]of this phantom thief nonsense.[n]I hope it doesn't stop here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_004_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_004_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "He picked a fight with[n]Mr. Kamoshida? Is he stupid?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_004_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "It's probably just a prank[n]by someone who watches[n]too much anime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_004_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "A phantom thief calling card?[n]That's just a prank, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_005_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Hold on, that phantom[n]thief thing was for real?[n]No, that's ridiculous...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_005_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Why was he suddenly acting[n]that way? Did the Phantom[n]Thieves threaten him?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_005_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Can you believe the things[n]Mr. Kamoshida said he did?[n]He's completely awful!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_005_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "You can't[n]steal someone's heart...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_005_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "That prank was[n]perfectly timed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_006_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I wish he'd just disappear[n]along with Kamoshida.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_006_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Wait, did he really have[n]nothing to do with it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_006_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Walking around here like[n]he owns the place... He[n]should've gotten expelled.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_006_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Maybe he wasn't expelled,[n]but he's still got that[n]criminal record...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_006_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I hear that the transfer[n]student isn't getting[n]expelled anymore...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_007_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "The volleyball team is[n]finished without Kamoshida.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_007_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_007_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "The volleyball team is gonna[n]have it rough from now on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_007_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I'd never want to become[n]known for sexual harassment...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_007_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "The volleyball team won't be[n]getting the royal treatment[n]from our school anymore...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_204_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_204_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_204_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_204_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_204_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "If people are talking[n]about it that much, do[n]you wanna check it out?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_205_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Another spam email?[n]What's the deal with all these?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_205_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_205_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Some weirdo tried to start[n]talking to me in Shibuya...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_205_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I heard that they're actually[n]targeting high school students...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_205_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_008_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "It mentioned the Phantom[n]Thieves, but is Kamoshida[n]really involved somehow?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_008_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_008_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Both Kamoshida and[n]Madarame... Maybe phantom[n]thieves really do exist...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_008_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Is it true that Madarame[n]got a calling card too?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_008_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I heard that phantom[n]thieves sent a calling[n]card to Madarame, too...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_009_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "What are the police doing?[n]Hurry up and arrest them...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_009_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I'm hearing that some[n]people got ruined by[n]phishing scams...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_009_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I heard that some[n]people from our school[n]got extorted...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_009_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Some of our classmates[n]actually got scammed, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_009_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "It's scary that so many[n]more people are falling for[n]phishing scams these days...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_010_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "People have been seeing[n]phantom thief calling[n]cards in Shibuya!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_010_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_010_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Who are they gonna[n]punish next?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_010_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Who's this Kaneshiro guy[n]they're targeting this time?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_010_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Is it true that they[n]found another phantom[n]thief calling card?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_011_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I heard that the[n]Phantom Thieves took[n]down that crime ring...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_011_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_011_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "With that crime syndicate gone,[n]we no longer have to be afraid[n]while out walking the city.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_011_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "The Phantom Thieves are[n]finally getting serious!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_011_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "So it was because of[n]phantom thieves that[n]Kaneshiro got arrested?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_012_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "It looks like more and more[n]people are posting on that[n]phantom thief forum.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_012_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_012_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Everyone online's[n]been talking about[n]phantom thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_012_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "The Phantom Thieves forum[n]is getting flooded!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_012_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Wait, you haven't[n]heard of the Phantom[n]Aficionado Website!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_013_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Those phantom thieves[n]are finally starting to[n]dish out some real justice!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_013_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I'm really curious about who[n]the Phantom Thieves really are!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_013_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I knew it! I knew the[n]Phantom Thieves were real!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_013_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Do you think Kamoshida[n]was the Phantom Thieves'[n]first job, after all?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_013_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Phantom thieves are just too[n]cool. Just look at the way[n]they defeat evil and stuff...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_014_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I can't wait to see that clash[n]between the Phantom[n]Thieves and the hackers!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_014_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Who do you think's[n]gonna win? The Phantom[n]Thieves or Medjed?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_014_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I'm sort of looking forward[n]to the Phantom Thieves'[n]showdown with the hackers!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_014_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "The Phantom Thieves versus[n]hackers? Looks like things[n]are getting interesting!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_014_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Medjed declared war on[n]the Phantom Thieves...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_015_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Unless the Phantom Thieves[n]meet their demands, they're[n]going to wreck our country...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_015_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_015_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "What are the Phantom Thieves[n]doing!? Hurry and take them[n]out before they attack us!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_015_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "How are the Phantom[n]Thieves going to respond[n]to the hackers' threats?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_015_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Those phantom thieves will[n]stop those hackers before[n]they can do anything, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_016_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Phantom thieves are way[n]better than the police!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_016_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "The Phantom Thieves took[n]down Medjed! No one can[n]stand in their way!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_016_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I knew we could count on[n]the Phantom Thieves! I'll[n]show them more support!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_016_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Why should we even worry?[n]Those phantom thieves are[n]out there, fighting for us.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_016_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Can you believe they took[n]down an international hacker[n]organization? How amazing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_150_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I wonder if the principal was[n]putting pressure on them...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_150_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I'm starting to worry! Will[n]the drama at this school[n]hurt my college chances?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_150_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Shujin's reputation has just[n]been going down the drain...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_017_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "He got what he deserved.[n]I mean, he let Kamoshida do[n]all that stuff to his students...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_017_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_017_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Did the Phantom Thieves[n]change his heart, and then[n]he killed himself to atone?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_017_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "So wait, he killed himself out[n]of guilt, caused by phantom[n]thieves changing his heart...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_017_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Maybe it's his right to commit[n]suicide, but I wish it didn't[n]cause so much trouble for us.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_018_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "The media really have[n]their eyes on our school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_018_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_018_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "How can you not know[n]about the Phantom Thieves!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_018_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Everything will turn out[n]okay if we leave it to the[n]Phantom Thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_018_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I hope those phantom[n]thieves keep taking down[n]evil and wrongdoers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_019_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Does President Okumura's[n]daughter really go to[n]our school?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_019_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_019_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I heard President[n]Okumura's daughter is[n]a third-year at our school!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_019_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Apparently, that corrupt[n]CEO has a daughter[n]who goes to our school...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_019_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "President Okumura's kid[n]goes to our school!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_020_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "What kind of villain do you[n]think the Phantom Thieves[n]will go after next?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_020_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_020_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "There's nothing to fear,[n]as long as the Phantom[n]Thieves are here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_020_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "We'll be fine with[n]the Phantom Thieves[n]protecting us!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_020_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I don't care who—someone[n]needs to delete all the evil and[n]wicked people in our world!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_021_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Those irresponsible adults[n]need to be taken down by[n]the Phantom Thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_021_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Just hurry up and take him[n]down, Phantom Thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_021_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I knew they'd go after[n]President Okumura!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_021_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Make him get down on[n]his knees and grovel!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_021_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I was hoping they'd send out[n]a calling card! I can't wait to[n]see what happens next!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_022_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I was pretty shocked when[n]I saw President Okumura's[n]press conference...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_022_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I never imagined that the[n]Phantom Thieves would do[n]something like that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_022_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "What happened to President[n]Okumura wasn't CG... right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_022_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Did you see the press conference[n]with President Okumura? That[n]was completely nuts...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_022_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "What happened during[n]that conference was[n]actually real, wasn't it...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_023_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Killing him was crossing[n]the line, Phantom Thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_023_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_023_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I never thought the Phantom[n]Thieves would be murderers!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_023_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "So they've been changing[n]people's hearts at first,[n]just to trick us!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_023_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "They killed him!?[n]That's disgusting!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_024_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Are they even TRYING to[n]catch the Phantom Thieves!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_024_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_024_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I heard that everything[n]they've done till now was[n]just them warming up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_024_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Somebody needs to arrest[n]the Phantom Thieves![n]It doesn't matter who!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_024_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "When are the police[n]going to take action!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_025_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "So, the police have finally[n]gotten serious about arresting[n]the Phantom Thieves...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_025_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I heard you can get reward[n]money for providing info[n]about the Phantom Thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_025_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I heard they put a bounty on[n]the Phantom Thieves! They're[n]finally making their move...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_025_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "NOW they're doing[n]something!? Aren't they[n]working a little slow?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_025_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I hope this will convince the[n]Phantom Thieves to stop...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_026_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Are they even TRYING to[n]catch the Phantom Thieves!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_026_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_026_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I heard that everything[n]they've done till now was[n]just them warming up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_026_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Everything's all messed[n]up because of the[n]Phantom Thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_026_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Somebody catch the[n]Phantom Thieves![n]It doesn't matter who!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_027_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "No way... I thought he was[n]a shoo-in for prime minister...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_027_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_027_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_027_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "All those things[n]Representative Shido[n]said, they can't be true...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_027_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "What are we going to do[n]without Shido-san...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_028_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "It doesn't matter what I do.[n]It won't change anything...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_028_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_028_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_028_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_028_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Somebody, please, do[n]something about all this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_06_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_07_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_08_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_029_09_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I'm not moving away... ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Studying is actually pretty fun. ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "My brother's birthday[n]is this month, so I have[n]to surprise him!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "...Was I sick?[n]I feel perfectly fine now. ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "We've been talking about[n]it since last year! Ugh, you[n]totally forgot, didn't you!? ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_06_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "You guys are still going out!?[n]Oh, no... I'm just surprised[n]you two lasted this long. ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_030_07_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Were you always like[n]this? Well, whatever.[n]Let's head home. ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_031_08_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I've been running every[n]day because, you know,[n]practice makes perfect!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_031_09_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "To be honest, I prefer[n]reading over playing[n]video games. ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_031_10_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Where do you want[n]to go for spring break?[n]Overseas? ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_031_11_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Those two are so close. ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_031_12_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Something was bothering[n]me, but I honestly don't[n]even care anymore. ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_101_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Drinking, smoking, theft...[n]I heard this guy's done it all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_101_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "So that's him? That's the[n]guy with the criminal record?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_101_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "That transfer student's[n]gotten involved in all sorts[n]of shady things, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_101_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "He looks harmless,[n]but he's done some[n]crazy stuff, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_101_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "That transfer student actually[n]committed some crimes, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_102_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I heard he pulls out knives on[n]people without any warning.[n]This guy is a loose cannon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_102_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Mr. Kamoshida is way too[n]good! It's not fair that[n]he's on their team!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_102_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I hear that anyone who makes[n]eye contact with him has to[n]be sent to the hospital...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_102_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Don't look him in the eye![n]He'll beat you to death...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_102_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Everyone's saying that he uses[n]weapons to threaten people...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_103_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Ugh, the police are here?[n]Come on, give me a break...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_103_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_103_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "It looks like the police[n]are going to investigate[n]things about our school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_103_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "School's gotten so crazy[n]with all this commotion...[n]It's really getting on my nerves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_103_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "The police have been going[n]around, questioning people.[n]I hope they leave soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_104_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I'll just have to stay up all[n]night to cram, and then guess[n]whatever I don't know...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_104_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Who cares about exams? I don't[n]feel like studying anyway...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_104_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "It's already time for midterms!?[n]Shoot, I need to start reviewing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_104_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "We don't have any club[n]activities during exams,[n]so I can just study.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_104_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Midterms are soon, huh?[n]What a hassle...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_105_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "It's almost time for[n]finals. I better make[n]sure I study enough...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_105_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_105_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I need to get a better[n]score on my finals than[n]I did on my midterms!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_105_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Man, it's already[n]finals season?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_105_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "What, it's time for[n]finals already? I just[n]wanna go to my clubs...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_201_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Oh yeah, have you heard[n]of that detective, Akechi?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_201_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_201_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_201_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_201_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_202_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Are you on Akechi's side,[n]or the Phantom Thieves'?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_202_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_202_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_202_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_202_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_501_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Did you hear about that new[n]first-year student? Well... ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_02__2#0",
+   "speaker": "Newspaper Club Member",
+   "en": "So, he's the transfer[n]student people were[n]talking about online...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_03__2#0",
+   "speaker": "Newspaper Club Member",
+   "en": "0",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_04__2#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I heard he got arrested for[n]assault. He's an actual criminal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_05__2#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Wait, is that the guy[n]that assaulted someone?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_06_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Hey, that's him, isn't it?[n]The one people were[n]talking about online...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_501_07_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I heard she's been[n]an amazing gymnast[n]since middle school!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_08_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "So she's an honor student?[n]And pretty, to boot? She's so[n]perfect, she's out of this world.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_09_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "It must be hard to[n]have people expect[n]great things from you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_10_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I don't really like to exercise...[n]So I kinda look up to her!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_11_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I'm sure she must have[n]worked hard, but she's[n]also really talented.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_12_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I wonder if she'd join[n]our club instead of[n]the gymnastics club...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_13_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "You wanna go check[n]out that first-year[n]gymnast for a bit?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_14_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Why was she cleaning?[n]I mean, she's super cute, so[n]I'm not complaining, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_15_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Guess you don't need to[n]take your finals if you've[n]been practicing really hard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_16_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I've been working hard,[n]too, so why does she get[n]special treatment...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_001_17_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "She took a makeup[n]exam since she's been[n]practicing every day...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_503_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "What do you do at[n]counseling anyway?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_503_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Doesn't this seem[n]kind of weird?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_503_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Do you go to the nurse's[n]office for counseling? Is[n]that in the practice facility?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_503_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Huh, you're going, too!?[n]Maybe I should also go...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_503_06_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "It's not like talking about[n]our problems or whatever[n]is gonna change anything...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_503_07_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Hey, isn't Dr. Maruki[n]actually kind of handsome?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_504_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Ugh, we usually don't[n]have to pick up trash,[n]so why start now!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_504_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Why are we cleaning up[n]Inokashira Park...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_504_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "No way... Are we seriously[n]cleaning for thirty days?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_504_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Why can't we just[n]clean up the school?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_504_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "A cleanup, huh? This[n]could affect my grades... ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_505_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "That criminal and[n]Yoshizawa-san are[n]good friends, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_505_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Why is she hanging out[n]with a delinquent like him!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_505_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "She's way out of that[n]four-eyes' league...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_505_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Was Yoshizawa-san talking[n]to that transfer student?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_505_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Ugh, why does that[n]piece of trash get to talk[n]to a cute girl like that...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_506_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Hey, did you hear about[n]that Yoshizawa girl?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_506_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I feel bad for[n]Yoshizawa-san...[n]Girls really hate her.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_506_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I wonder if Yoshizawa-san[n]is feeling all right...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_506_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I guess she's not talented.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_506_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I was genuinely rooting[n]for her, so I'm kind of[n]shocked by the results...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_506_06_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "She might have lost,[n]but she did her best.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_506_07_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "She was pretty energetic[n]when she said hi to me earlier.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_506_08_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Yoshizawa-san's[n]not that great...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_601_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Don't criticize Yoshizawa-san[n]if you've never seen her[n]perform in person!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_601_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Everyone has high hopes[n]for that gymnast girl.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_601_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Do you think that first-year,[n]Yoshizawa-san, will be[n]competing this time?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_601_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Yoshizawa-san won so[n]many medals... She's[n]just outta this world!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_602_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I heard the nurse's office[n]has some tasty snacks!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_602_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "How long is Dr. Maruki[n]going to be here again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_602_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I'm gonna go to the[n]nurse's office again!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_602_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "How was your[n]counseling session?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_603_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "She wasn't bullied, right?[n]So then why did she try[n]to commit suicide...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_603_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "She's alive... right?[n]Maybe I'll go downstairs to see...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_603_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I've seen her before...[n]Which class was she in...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_603_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I was just looking outside[n]and then... Man, that really[n]scared the crap outta me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_603_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Huh, you're gonna go look?[n]I wouldn't. There's probably[n]a lot of blood...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_603_06_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "A criminal and a suicide[n]survivor... This school[n]is so messed up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_603_07_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Really? A second-year?[n]Damn, I can't see anything...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_All_603_08_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I don't feel like going to class...[n]I wish I hadn't see that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_301_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Those scores just[n]have to be a fluke.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_301_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "A delinquent who's also[n]smart... That's kind of[n]scary, isn't it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_301_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Did he steal the test[n]answers or something?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_301_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I bet he just cheated[n]during the test.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_301_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Getting good scores[n]in school won't erase[n]what he's done.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_302_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "He's at the top of the class?[n]What's his deal?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_302_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I feel totally defeated.[n]I'm so ashamed of myself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_302_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "He really got the top score?[n]Did they make a mistake when[n]they were grading his tests?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_302_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I wonder if I should ask[n]him to tutor me. He's so[n]scary though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_302_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "He better not let it go to his[n]head. Him getting the top score[n]was probably a fluke, anyway.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_303_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Before I realized it, he was[n]getting better grades than me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_303_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I thought he was just some[n]delinquent, but he's[n]actually pretty good...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_303_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Did you see the test scores?[n]The top scores were crazy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_303_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Even though he's got a criminal[n]record, he still got those scores?[n]He might be big someday...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_303_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "You can't tell from looking at[n]him, but I guess he actually[n]studies like a serious student...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_304_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I made fun of him, but[n]getting the top score[n]is pretty amazing...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_304_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "The way his mind works is[n]probably just completely[n]different than ours...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_304_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Did I read that wrong?[n]He couldn't have[n]gotten the top score...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_304_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Just when did he become[n]the top of the class?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_304_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I guess he really was[n]studying all this time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_305_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I have to admit he's really[n]that smart. I mean, all of[n]his scores are so good...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_305_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I feel dumb for being so[n]scared of him. He's actually[n]a really good student.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_305_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "It's nice that he has[n]good grades, but he's[n]still kind of scary...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_305_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Even though he got a good score,[n]how can we be sure he suddenly[n]won't cause trouble again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_305_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "I know he's smart, but I still[n]feel more comfortable keeping[n]my distance from him, you know?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_306_01_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "It's actually kind of scary[n]when someone like that[n]gets the top score...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_306_02_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "That delinquent might even[n]be smarter than Akechi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_306_03_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "He's really smart, but I'm still[n]not so sure about him.[n]What if he's an evil genius...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_306_04_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "It's unbelievable that[n]he got the top score.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GRT_main_Lim_306_05_#0",
+   "speaker": "Newspaper Club Member",
+   "en": "Well, he is the smartest[n]one in our school...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BIKOU01_001_0_0#0",
+   "speaker": "Makoto",
+   "en": "...Was there anything else that caught[n]your attention?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BIKOU01_001_0_0#1",
+   "speaker": "Makoto",
+   "en": "Was he acting any different after that[n]strange posting went up?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BIKOU01_002_0_0#0",
+   "speaker": "Scared Volleyball Player",
+   "en": "Ummm... I think he was the same as[n]always, but I'm not sure...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BIKOU01_002_0_0#1",
+   "speaker": "Scared Volleyball Player",
+   "en": "I heard he's dangerous, so I try to keep[n]my distance from him...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BIKOU01_003_0_0#0",
+   "speaker": "Makoto",
+   "en": "I'm not reproaching you. I just need to[n]know any details you have.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BIKOU01_004_0_0#0",
+   "speaker": "Scared Volleyball Player",
+   "en": "I'm sorry, I don't know anything else...[n]Is he involved in this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BIKOU02_001_0_0#0",
+   "speaker": "Makoto",
+   "en": "Ah...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BIKOU02_001_0_0#1",
+   "speaker": "Makoto",
+   "en": "Wh-What is it? I was so engrossed in[n]my book I didn't notice you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BIKOU02_001_0_0#2",
+   "speaker": "Makoto",
+   "en": "...Oh, I almost forgot! I have a student[n]council meeting to attend.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BIKOU02_001_0_0#3",
+   "speaker": "Makoto",
+   "en": "Are we done here...?[n]Well then, see you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BIKOU02_002_0_0#0",
+   "speaker": "Makoto",
+   "en": "J-Just ignore me. I may not look it,[n]but I'm actually pretty busy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BIKOU03_001_0_0#0",
+   "speaker": "Makoto",
+   "en": "O-Oh... You're still here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BIKOU03_001_0_0#1",
+   "speaker": "Makoto",
+   "en": "What have Sakamoto-kun and[n]Takamaki-san been saying about that[n]shocking Madarame case?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BIKOU03_001_0_0#2",
+   "speaker": "Makoto",
+   "en": "O-Oh, um... never mind.[n]I was simply curious.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BIKOU03_002_0_0#0",
+   "speaker": "Makoto",
+   "en": "I-I should start heading home too.[n]If you'll excuse me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest10_target_00_00#0",
+   "speaker": "Kuroko Hara",
+   "en": "Hey, heyyy, Maa-kun. Lately, these[n]people have been bullying meee.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest10_target_00_01#0",
+   "speaker": "Blond-Haired Male Student",
+   "en": "Seriously? Again? Well, don't worry.[n]I'll strangle whoever's behind all this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest10_target_00_01#1",
+   "speaker": "Blond-Haired Male Student",
+   "en": "But damn, people are always getting[n]jealous of how cute you are.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest10_target_00_02#0",
+   "speaker": "Kuroko Hara",
+   "en": "I know, right!? Isn't it awful? I can[n]understand why they'd get jealous[n]though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest10_target_00_03#0",
+   "speaker": "Blond-Haired Male Student",
+   "en": "What'd they do to you? They seem to be[n]picking on you a lot lately, but are[n]you okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest10_target_00_04#0",
+   "speaker": "Kuroko Hara",
+   "en": "W-Well... Umm, I can't...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest10_target_00_04#1",
+   "speaker": "Kuroko Hara",
+   "en": "I'm not ready to talk about something[n]so traumatic right now! Can't you just[n]trust me?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest10_target_00_05#0",
+   "speaker": "Blond-Haired Male Student",
+   "en": "A-All right. Sorry I brought it up. Try not[n]to stress so much. I'll go and[n]handle this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest10_target_sinjyo_00#0",
+   "speaker": null,
+   "en": "So the message in the bathroom was[n]about those two...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_quest10_morgana_01#0",
+   "speaker": "Morgana",
+   "en": "Looks like we found our target![n]Let's head back to the hideout[n]and discuss this with everyone!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest10_target_01_00#0",
+   "speaker": "Kuroko Hara",
+   "en": "Hm...? What is this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest10_target_01_01#0",
+   "speaker": "Blond-Haired Male Student",
+   "en": "What's wrong? Did you find something[n]in your pocket? Is that a letter?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest10_target_01_01#1",
+   "speaker": "Blond-Haired Male Student",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest10_target_01_01#2",
+   "speaker": "Blond-Haired Male Student",
+   "en": "...No, it's not! It's the same thing[n]that Kamoshida got!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest10_target_01_02#0",
+   "speaker": "Kuroko Hara",
+   "en": "Is this a calling card or whatever?[n]What the heck? Why send me[n]something like this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest10_target_01_02#1",
+   "speaker": "Kuroko Hara",
+   "en": "This must be the same people who[n]wrote those lies about me in the[n]bathroom. You have to help me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest10_target_01_02#2",
+   "speaker": "Kuroko Hara",
+   "en": "If you don't... I'll... I'll be too scared to[n]even come to school!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest10_target_sinjyo_01#0",
+   "speaker": null,
+   "en": "It seems that the calling card was[n]safely delivered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest10_target_02_00#0",
+   "speaker": "Kuroko Hara",
+   "en": "So... Um... I've been lying to you this[n]whole time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest10_target_02_01#0",
+   "speaker": "Blond-Haired Male Student",
+   "en": "Huh? What's that? Wait, is somebody[n]harassing you again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest10_target_02_02#0",
+   "speaker": "Kuroko Hara",
+   "en": "No! What I mean is that no one's[n]been bullying me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest10_target_02_02#1",
+   "speaker": "Kuroko Hara",
+   "en": "If I lied and said someone was[n]threatening me, you'd go and[n]rough them up right away, so...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest10_target_02_02#2",
+   "speaker": "Kuroko Hara",
+   "en": "I've been lying this whole time.[n]Whenever I didn't like someone,[n]I had you deal with them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest10_target_02_03#0",
+   "speaker": "Blond-Haired Male Student",
+   "en": "What, are you serious...? No wonder[n]everyone's been denying it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest10_target_02_03#1",
+   "speaker": "Blond-Haired Male Student",
+   "en": "So this whole time, it was me who was[n]the bully? Oh, what the hell...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest10_target_02_03#2",
+   "speaker": "Blond-Haired Male Student",
+   "en": "I get it—those phantom thieves changed you.[n]We better apologize to everyone.[n]I'll go with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest10_target_02_04#0",
+   "speaker": "Kuroko Hara",
+   "en": "I'm sorry... I'm sorry...[n]I'm so sorry...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Quest10_target_sinjyo_02#0",
+   "speaker": null,
+   "en": "It seems like the mission was a success...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_MEMENTOS_MISSION_10#0",
+   "speaker": "Mission Update!",
+   "en": "\"[clr 4]Mementos Occurrence[clr 27]\"[n]The Target has been identified.[n]Now, let's discuss this with[n]the team back at the \"[clr 2]hideout[clr 27].\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIJYOTYOUSYU02_001_0#0",
+   "speaker": "Dispirited Teacher",
+   "en": "U-Um... If you could avoid letting this[n]investigation go public...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIJYOTYOUSYU02_002_0#0",
+   "speaker": "Arrogant Officer",
+   "en": "Don't worry. We're aware of your[n]situation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIJYOTYOUSYU02_002_0#1",
+   "speaker": "Arrogant Officer",
+   "en": "Ah, right. I also want to speak to all the[n]teachers later, so please arrange[n]a time that works for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIJYOTYOUSYU02_003_0#0",
+   "speaker": "Dispirited Teacher",
+   "en": "M-Me too? I don't think I'd be much[n]help to your investigation...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIJYOTYOUSYU02_001_1#0",
+   "speaker": "Middle-Aged Officer",
+   "en": "How did Shiho Suzui-san seem[n]around the time when she was[n]selected to be a regular member?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIJYOTYOUSYU02_002_1#0",
+   "speaker": "Sluggish Teacher",
+   "en": "She seemed normal. She attended[n]class and looked pretty cheerful as[n]always.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIJYOTYOUSYU02_002_1#1",
+   "speaker": "Sluggish Teacher",
+   "en": "She should've reached out to us.[n]I can't believe this happened.[n]It's unfortunate, really.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIJYOTYOUSYU02_003_1#0",
+   "speaker": "Middle-Aged Officer",
+   "en": "The volleyball team members seemed[n]to be getting injured frequently.[n]Was this not seen as a problem?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JIJYOTYOUSYU02_004_1#0",
+   "speaker": "Sluggish Teacher",
+   "en": "We thought those injuries were par[n]for course in any sport. We never[n]really suspected Mr. Kamoshida...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIMARU_001_0_0#0",
+   "speaker": "Ms. Chouno",
+   "en": "...Ms. Kawakami. I already know...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIMARU_001_0_1#0",
+   "speaker": "Morgana",
+   "en": "Kawakami's been driven into a corner[n]by Chouno! Let's talk to her so we can[n]help her out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_USHIMARU_001_1_0#0",
+   "speaker": "Ms. Chouno",
+   "en": "Ms. Kawakami... I'm telling you this[n]for your own good...",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

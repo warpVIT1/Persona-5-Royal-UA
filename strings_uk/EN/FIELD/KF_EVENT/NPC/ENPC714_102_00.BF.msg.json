@@ -1,0 +1,376 @@
+{
+ "file": "EN/FIELD/KF_EVENT/NPC/ENPC714_102_00.BF",
+ "entries": [
+  {
+   "id": "YESNO_SEL#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_INFO_GOT_ENOUGH#0",
+   "speaker": "Morgana",
+   "en": "I think we might be good to go[n]back to Taihei now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_INFO_GOT_ALL#0",
+   "speaker": "Morgana",
+   "en": "I think we've already learned all that we[n]possibly could. Let's go see Taihei.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_INFO_NEXT#0",
+   "speaker": "Morgana",
+   "en": "Let's go look for anything else we[n]might be able to learn.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_TAIHEI_01_FLD#0",
+   "speaker": "Taihei",
+   "en": "Is Kawakami working another job at[n]night? No, she could just be partying[n]with guys...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_TAIHEI_01#0",
+   "speaker": "Taihei",
+   "en": "Is Kawakami working another job at[n]night? No, she could just be partying[n]with guys...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_TAIHEI_01#1",
+   "speaker": "Taihei",
+   "en": "You again? Was there something else[n]you needed? Hm? You want to talk[n]about Ms. Kawakami?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DET_TAIHEI_10#0",
+   "speaker": null,
+   "en": "So, about that maid costume...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DET_TAIHEI_10#1",
+   "speaker": null,
+   "en": "\"Becky\" is actually...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DET_TAIHEI_10#2",
+   "speaker": null,
+   "en": "She's always sleepy, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DET_TAIHEI_10#3",
+   "speaker": null,
+   "en": "She sure likes cookies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DET_TAIHEI_10#4",
+   "speaker": null,
+   "en": "The truth about her looks is...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DET_TAIHEI_10#5",
+   "speaker": null,
+   "en": "Nothing, never mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_TAIHEI_11_NG#0",
+   "speaker": "Taihei",
+   "en": "You think you can convince me with[n]something like that? Young people[n]these days...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_TAIHEI_11_OK_1ST#0",
+   "speaker": "Taihei",
+   "en": "Hm... Maybe that's true, but I still[n]have my doubts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_TAIHEI_11_OK_2ND#0",
+   "speaker": "Taihei",
+   "en": "I-I see. Well, I'm still not completely[n]convinced!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_TAIHEI_11_CLEARE#0",
+   "speaker": "Taihei",
+   "en": "Well... I can't really deny what[n]you're saying...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_TAIHEI_11_CLEARE#1",
+   "speaker": "Taihei",
+   "en": "I guess I really did have the wrong idea[n]about her. I'm sorry for ever doubting[n]Ms. Kawakami.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_TAIHEI_12_CLEARE#0",
+   "speaker": "Morgana",
+   "en": "Nicely done, [fName].[n]Well, let's go tell Kawakami.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_TAIHEI_11_ANSWER#0",
+   "speaker": "Taihei",
+   "en": "What is this flyer?[n]......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_TAIHEI_11_ANSWER#1",
+   "speaker": "Taihei",
+   "en": "\"The Housekeeper Saw it All\"...?[n]So it's a play about maids, huh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_TAIHEI_11_ANSWER#2",
+   "speaker": "Taihei",
+   "en": "It did seem like the clothing inside[n]Ms. Kawakami's bag was a maid[n]costume...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_TAIHEI_11_ANSWER_2#0",
+   "speaker": "Taihei",
+   "en": "So Ms. Kawakami used to work part-time[n]at a pastry shop when she was a student?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_TAIHEI_11_ANSWER_2#1",
+   "speaker": "Taihei",
+   "en": "And you're telling me that this pastry[n]shop was called \"Becky\"?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_TAIHEI_11_ANSWER_2#2",
+   "speaker": "Taihei",
+   "en": "Is this true? Well, I can find out for myself[n]with just a little bit of research...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_TAIHEI_11_ANSWER_3#0",
+   "speaker": "Taihei",
+   "en": "She's often sleepy, but she does all her[n]work well and on time? Wait, Ms. Manda[n]said all that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_TAIHEI_11_ANSWER_3#1",
+   "speaker": "Taihei",
+   "en": "I don't think I've heard Ms. Manda offer[n]any praise about anyone else before...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_TAIHEI_11_ANSWER_4#0",
+   "speaker": "Taihei",
+   "en": "I know. She eats them in her sleep[n]and mutters \"I'm lucky\" to herself.[n]And I have to see it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_TAIHEI_11_ANSWER_4#1",
+   "speaker": "Taihei",
+   "en": "That sort of sloppy behavior[n]is unbecoming of a teacher. I just[n]can't tolerate it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_TAIHEI_11_ANSWER_5#0",
+   "speaker": "Taihei",
+   "en": "Kawakami-sensei's body is usually[n]hidden by her clothes? So? I don't[n]see how that's...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_TAIHEI_11_ANSWER_5#1",
+   "speaker": "Taihei",
+   "en": "She'd look good with makeup on?[n]And with her hair up?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_TAIHEI_11_ANSWER_5#2",
+   "speaker": "Taihei",
+   "en": "...Wait, what the heck are you[n]talking about?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_TAIHEI_11_CANCEL#0",
+   "speaker": "Taihei",
+   "en": "No, I won't be fooled! I know[n]Ms. Kawakami has to be hiding[n]something!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_KAWKAMI_NOT_CL#0",
+   "speaker": "Kawakami",
+   "en": "This whole situation is such a bother.[n]Why did I have to drop that flyer?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_KAWKAMI_NOT_CL#1",
+   "speaker": "Kawakami",
+   "en": "It's probably too much to ask,[n]but I'll be counting on you, Master☆",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_KAWKAMI_NOT_CL#2",
+   "speaker": "Kawakami",
+   "en": "*sigh*",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_KAWKAMI_CLEARED_#0",
+   "speaker": "Kawakami",
+   "en": "Th... Thank you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_KAWKAMI_CLEARED_#1",
+   "speaker": "Kawakami",
+   "en": "I can't talk to you much at school.[n]I'd rather you call me when you're[n]free at night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_KAWKAMI_CLEARED_#2",
+   "speaker": "Kawakami",
+   "en": "Here's my number.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DET_KAWKAMI_CLEARED_#0",
+   "speaker": null,
+   "en": "I received Kawakami's[n]phone number.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_KAWKAMI_CLEARED__2#0",
+   "speaker": "Kawakami",
+   "en": "Oh, and make sure I don't show up[n]in your call history. You should[n]probably call me from a pay phone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_KAWKAMI_CLEARED__3#0",
+   "speaker": "Morgana",
+   "en": "Yeah, you did it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_KAWKAMI_CLEARED__3#1",
+   "speaker": "Morgana",
+   "en": "A pay phone, eh? We should call her from[n]the [clr 2]yellow phone at Leblanc[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_KAWKAMI_CLEARED__3#2",
+   "speaker": "Morgana",
+   "en": "Let's call Kawakami when you're free,[n]and invite her to meet you at your room!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DET_KAWKAMI_CLEARED__2#0",
+   "speaker": null,
+   "en": "I should go home for today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_GIRL_GEKIDAN#0",
+   "speaker": "Girl from Theater Group",
+   "en": "Ms. Kawakami? Hmm. She doesn't stand[n]out much. I kind of have a mixed opinion[n]about her.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_GIRL_GEKIDAN#1",
+   "speaker": "Girl from Theater Group",
+   "en": "Oh, yeah. Here, take one of these flyers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_GIRL_GEKIDAN#2",
+   "speaker": "Girl from Theater Group",
+   "en": "My theater group's putting on a play[n]called \"The Housekeeper Saw It All.\"[n]Come see it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MOR_DET_GIRL_GEKIDAN#0",
+   "speaker": "Morgana",
+   "en": "Hm, a flyer of a play about maids.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MOR_DET_GIRL_GEKIDAN#1",
+   "speaker": "Morgana",
+   "en": "We might be able to use this to get Taihei[n]to let go of his suspicions a little bit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_GIRL_GEKIDAN_RE#0",
+   "speaker": "Girl from Theater Group",
+   "en": "It's called \"The Housekeeper Saw it All\"![n]Come see it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DET_GIRL_GEKIDAN_MIS#0",
+   "speaker": "Girl from Theater Group",
+   "en": "Our theater group is going to put on[n]a play called \"The Housekeeper Saw[n]It All.\" Come see it!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

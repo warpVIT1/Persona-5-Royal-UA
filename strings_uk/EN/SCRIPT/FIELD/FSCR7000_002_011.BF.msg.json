@@ -1,0 +1,201 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR7000_002_011.BF",
+ "entries": [
+  {
+   "id": "MSG_DUMMY#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_START_SeedSelect#0",
+   "speaker": "Haru",
+   "en": "Oh, that spot's open, so we can use it.[n]Do you want to plant something there?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GSEL_SeedSelect#0",
+   "speaker": null,
+   "en": " [var 0] ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GSEL_SeedSelect#1",
+   "speaker": null,
+   "en": "[var 1] ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GSEL_SeedSelect#2",
+   "speaker": null,
+   "en": "[var 2] ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GSEL_SeedSelect#3",
+   "speaker": null,
+   "en": "[var 3] ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GSEL_SeedSelect#4",
+   "speaker": null,
+   "en": "[var 4] ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GSEL_SeedSelect#5",
+   "speaker": null,
+   "en": "[var 5] ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GSEL_SeedSelect#6",
+   "speaker": null,
+   "en": "[var 6] ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SeedSelect_Cancel#0",
+   "speaker": "Haru",
+   "en": "You can use this whenever you want to[n]plant something. I'll do my best to grow[n]it for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SeedSelect_Think#0",
+   "speaker": "Haru",
+   "en": "Oh, are you going to plant that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SeedSelect_Think#0",
+   "speaker": null,
+   "en": "Yeah.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SeedSelect_Think#1",
+   "speaker": null,
+   "en": "Nah.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NowPlant_Pattern01#0",
+   "speaker": "Haru",
+   "en": "Heheh. I hope it grows to be big...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NowPlant_Pattern02#0",
+   "speaker": "Haru",
+   "en": "Oh, this one's doing really well. I'm sure[n]it'll grow nice and big.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NowPlant_Pattern03#0",
+   "speaker": "Haru",
+   "en": "We have to be careful not to damage[n]the roots. I hope this grows up healthy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NowPlant_Pattern04#0",
+   "speaker": "Haru",
+   "en": "Plants grow better if you talk to them,[n]you know? Grow big, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_EndPlant_DayCount#0",
+   "speaker": "Haru",
+   "en": "Let's see... If all goes well, you should[n]be able to harvest this in [clr 2][var 0] days[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DayCount#0",
+   "speaker": "Haru",
+   "en": "What do you think? This is growing[n]nicely, right? It should be ready to[n]harvest in about [clr 2][var 0] days[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GetPlant_Think#0",
+   "speaker": "Haru",
+   "en": "Oh, that one should be ready. Do you[n]want to harvest it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GetPlant_Cancel#0",
+   "speaker": "Haru",
+   "en": "I see... Well, make sure that you harvest[n]it soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GetPlant_Pattern01#0",
+   "speaker": "Haru",
+   "en": "Look at how well it's growing! This is[n]one of the best ones I've ever seen!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GetPlant_Pattern02#0",
+   "speaker": "Haru",
+   "en": "Oh, look at this! Look how healthy it is!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GetPlant_Pattern03#0",
+   "speaker": "Haru",
+   "en": "Heheh! They're doing really well! Treat[n]them with care and respect, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RePlant_Think#0",
+   "speaker": "Haru",
+   "en": "This planter's free now. Do you want to[n]plant something else?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SeedItem_NotHave#0",
+   "speaker": "Haru",
+   "en": "It's kind of a waste to just leave that spot[n]open. If you have a seedling, I can plant it.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

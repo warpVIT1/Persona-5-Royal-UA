@@ -1,0 +1,229 @@
+{
+ "file": "EN/BATTLE/EVENT/SCRIPT/0305.BF",
+ "entries": [
+  {
+   "id": "MSG_BTLSTART01_000_000#0",
+   "speaker": "Beast That Rules the Palace",
+   "en": "Do not approach the pharaoh's tomb!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART01_010_000#0",
+   "speaker": "Beast That Rules the Palace",
+   "en": "Misfortune will fall upon you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART01_020_001#0",
+   "speaker": "Morgana",
+   "en": "Ugh, look at it fly about! We can't[n]reach it like this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART01_030_001#0",
+   "speaker": "Morgana",
+   "en": "We've got no other option. Let's take[n]it down with our guns and skills!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLFLY01_000_001#0",
+   "speaker": "Morgana",
+   "en": "H-How far did it fly up!? What's it[n]gonna do!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLFLY01_010_001#0",
+   "speaker": "Morgana",
+   "en": "Don't tell me... Is it gonna dive attack[n]us!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLFLY01_100_001#0",
+   "speaker": "Morgana",
+   "en": "Don't tell me... Is it gonna dive attack[n]us!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLFLY01_100_001#1",
+   "speaker": "Morgana",
+   "en": "This isn't good! We need to guard!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLFLY02_000_001#0",
+   "speaker": "Morgana",
+   "en": "Damn that thing... When's it gonna[n]strike...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLFLY03_000_001#0",
+   "speaker": "Morgana",
+   "en": "Nngh... It's still not attacking?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLFLY04_000_001#0",
+   "speaker": "Morgana",
+   "en": "Ngh... This isn't good. I can't tell at all[n]when it's gonna attack...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLFLY04_010_002#0",
+   "speaker": "Ryuji",
+   "en": "What do you mean you can't tell!?[n]You gotta tell us, Mona!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLFLY04_010_003#0",
+   "speaker": "Ann",
+   "en": "You can't tell!? That's not helping![n]You have to tell us, Mona!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLFLY04_010_004#0",
+   "speaker": "Yusuke",
+   "en": "Y-You can't tell...!? Mona, you've[n]got to tell us!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLFLY04_010_005#0",
+   "speaker": "Makoto",
+   "en": "You can't tell...!? Mona, we need you[n]to tell us!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLFLY04_020_001#0",
+   "speaker": "Morgana",
+   "en": "I-I can't help it! There are some things[n]that even I can't do!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART01_000_000EX#0",
+   "speaker": "Beast That Rules the Palace",
+   "en": "Do not approach the pharaoh's tomb!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART01_010_000EX#0",
+   "speaker": "Beast That Rules the Palace",
+   "en": "Misfortune will fall upon you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART01_020_001EX#0",
+   "speaker": "Morgana",
+   "en": "Ugh, look at it fly about! We can't[n]reach it like this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSTART01_030_001EX#0",
+   "speaker": "Morgana",
+   "en": "We've got no other option. Let's take[n]it down with our guns and skills!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLFLY01_000_001EX#0",
+   "speaker": "Morgana",
+   "en": "H-How far did it fly up!? What's it[n]gonna do!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLFLY01_010_001EX#0",
+   "speaker": "Morgana",
+   "en": "Don't tell me... Is it gonna dive attack[n]us!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLFLY01_100_001EX#0",
+   "speaker": "Morgana",
+   "en": "Don't tell me... Is it gonna dive attack[n]us!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLFLY01_100_001EX#1",
+   "speaker": "Morgana",
+   "en": "This isn't good! We need to guard!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLFLY02_000_001EX#0",
+   "speaker": "Morgana",
+   "en": "This isn't good! We need to guard!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLFLY03_000_001EX#0",
+   "speaker": "Morgana",
+   "en": "Nngh... It's still not attacking?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLFLY04_000_001EX#0",
+   "speaker": "Morgana",
+   "en": "Ngh... This isn't good. I can't tell at all[n]when it's gonna attack...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLFLY04_010_002EX#0",
+   "speaker": "Ryuji",
+   "en": "What do you mean you can't tell!?[n]You gotta tell us, Mona!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLFLY04_010_003EX#0",
+   "speaker": "Ann",
+   "en": "You can't tell!? That's not helping![n]You have to tell us, Mona!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLFLY04_010_004EX#0",
+   "speaker": "Yusuke",
+   "en": "Y-You can't tell...!? Mona, you've[n]got to tell us!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLFLY04_010_005EX#0",
+   "speaker": "Makoto",
+   "en": "You can't tell...!? Mona, we need you[n]to tell us!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLFLY04_020_001EX#0",
+   "speaker": "Morgana",
+   "en": "I-I can't help it! There are some things[n]that even I can't do!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

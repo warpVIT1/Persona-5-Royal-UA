@@ -1,0 +1,236 @@
+{
+ "file": "EN/FIELD/KF_EVENT/NPC/ENPC104_102_00.BF",
+ "entries": [
+  {
+   "id": "YESNO_SEL#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E10410200_POLICE_000#0",
+   "speaker": "Unfriendly Officer",
+   "en": "What was that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E10410200_POLICE_100#0",
+   "speaker": "Unfriendly Officer",
+   "en": "You still need something?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E10410200_POLICE_200#0",
+   "speaker": "Unfriendly Officer",
+   "en": "You again. What is it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E10410200_POLICE_001#0",
+   "speaker": null,
+   "en": "I want to ask for directions.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E10410200_POLICE_001#1",
+   "speaker": null,
+   "en": "Sorry, never mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E10410200_POLICE_002#0",
+   "speaker": "Unfriendly Officer",
+   "en": "Hm? You want to get to the residence[n]at that address...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E10410200_POLICE_002#1",
+   "speaker": "Unfriendly Officer",
+   "en": "It's in an alley a bit further back.[n]Take a right after that apartment[n]with the stairs.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E10410200_POLICE_102#0",
+   "speaker": "Unfriendly Officer",
+   "en": "It's in an alley a bit further back.[n]Take a right after that apartment[n]with the stairs.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E10410200_POLICE_002_2#0",
+   "speaker": "Unfriendly Officer",
+   "en": "Really? *sigh*",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E10410200_POLICE_002#0",
+   "speaker": null,
+   "en": "Where is Leblanc?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_E10410200_POLICE_002#1",
+   "speaker": null,
+   "en": "Sorry, never mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E10410200_POLICE_003#0",
+   "speaker": "Unfriendly Officer",
+   "en": "Leblanc...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E10410200_POLICE_003#1",
+   "speaker": "Unfriendly Officer",
+   "en": "Oh, right, that café. It's in an alley[n]past the tobacco shop here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E10410200_POLICE_103#0",
+   "speaker": "Unfriendly Officer",
+   "en": "*sigh* I already told you, didn't I?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E10410200_POLICE_103#1",
+   "speaker": "Unfriendly Officer",
+   "en": "It's in the alley past the tobacco shop[n]here. You'll know it when you see it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E10410200_POLICE_003_2#0",
+   "speaker": "Unfriendly Officer",
+   "en": "Really? *sigh*",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E10410200_TAKUHAI_00#0",
+   "speaker": "Parcel Deliveryman",
+   "en": "Which would be the fastest way to[n][clr 2]Leblanc[clr 27]? The alley is too narrow...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E10410200_TAKUHAI_10#0",
+   "speaker": "Parcel Deliveryman",
+   "en": "I'm getting lost here... Maybe I should[n]head out to the main street, and then...[n]Hmm...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10410200_TAKUHAI_10#0",
+   "speaker": null,
+   "en": "...He seems busy.[n]I'd better not bother him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E10410200_TAKUHAI_10#1",
+   "speaker": null,
+   "en": "Apparently, Sojiro Sakura[n]is in a café called [clr 2]Leblanc[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_000_0_0#0",
+   "speaker": "Unfriendly Officer",
+   "en": "Hm...? What was that...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_001_0_0#0",
+   "speaker": null,
+   "en": "Am I interrupting something?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_001_0_0#1",
+   "speaker": null,
+   "en": "I want to ask for directions.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_002_0_0#0",
+   "speaker": "Unfriendly Officer",
+   "en": "There's been a lot of strange incidents[n]happening lately, so we're tightening[n]security. ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_002_0_0#1",
+   "speaker": "Unfriendly Officer",
+   "en": "Suspicious people appear around[n]here, too, so if you see anything,[n]be sure to report it right away. ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_0_0#0",
+   "speaker": "Unfriendly Officer",
+   "en": "I'm not too familiar with this area,[n]but sure, I'll give it a shot...[n]Where are you headed? ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_0_0#1",
+   "speaker": "Unfriendly Officer",
+   "en": "Sakura-san... This address should[n]be close by. ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_1_0#0",
+   "speaker": "Unfriendly Officer",
+   "en": "Just take a right after the apartment[n]with the stairs, and it should be at[n]the end of that alley. ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_000_5_0#0",
+   "speaker": "Unfriendly Officer",
+   "en": "What, did you forget something?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_5_0#0",
+   "speaker": "Unfriendly Officer",
+   "en": "For that address, just turn right after[n]the apartment with the stairs, and it[n]should be at the end of that alley. ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_004_0_0#0",
+   "speaker": "Unfriendly Officer",
+   "en": "Hey, kid, you're going the wrong[n]way. It's towards the supermarket[n]on the other side. ",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

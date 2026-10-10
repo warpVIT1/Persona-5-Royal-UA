@@ -1,0 +1,1503 @@
+{
+ "file": "EN/EVENT_DATA/SCRIPT/E700/E760_761.BF",
+ "entries": [
+  {
+   "id": "MSG_GAMESTART#0",
+   "speaker": "Morgana",
+   "en": "Let's start up Punch Ouch.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAMESTART_NULL#0",
+   "speaker": null,
+   "en": "Time to start playing Punch Ouch...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_FI#0",
+   "speaker": "Morgana",
+   "en": "By the way, haven't you read that[n]secret technique book?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_FI#1",
+   "speaker": "Morgana",
+   "en": "There's a way to increase the time you[n]have for the inputs, making the game[n]easier to beat, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_201_6_1#0",
+   "speaker": null,
+   "en": "Now that I think about it, I've[n]actually read a book on secret[n]video game techniques...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_201_6_1#1",
+   "speaker": null,
+   "en": "It said there's a way to increase[n]the time I have for the inputs,[n]making the game easier to beat...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_FI_2#0",
+   "speaker": "Morgana",
+   "en": "So, should we use the trick? You'll have[n]more time for your inputs.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_201_6_0#0",
+   "speaker": null,
+   "en": "Should I use the trick I[n]read about in that book?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_001_0_0#0",
+   "speaker": null,
+   "en": "Use the technique",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_001_0_0#1",
+   "speaker": null,
+   "en": "Play the game normally",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_YE#0",
+   "speaker": "Morgana",
+   "en": "Makes sense, since you've learned[n]how to. All right, let's do this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_203_6_0#0",
+   "speaker": null,
+   "en": "This should make the[n]game a bit less difficult...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_NO#0",
+   "speaker": "Morgana",
+   "en": "Whoa, you're fired up! All right, go for it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_202_6_0#0",
+   "speaker": null,
+   "en": "I should try using my[n]own skills to beat it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_0#0",
+   "speaker": "Morgana",
+   "en": "Huh? Is this a gym? Oh, and there's a[n]weird old guy standing over there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_00#0",
+   "speaker": null,
+   "en": "There's an old man standing[n]there... I wonder if this is[n]supposed to be some kind of gym.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_1#0",
+   "speaker": "Wrinkled Old Man",
+   "en": "How're you feeling? I'll be responsible[n]for training you today!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_1#1",
+   "speaker": "Wrinkled Old Man",
+   "en": "Listen closely to what I've got to[n]tell you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_1#2",
+   "speaker": "Wrinkled Old Man",
+   "en": "We'll start today by reviewing the[n]basics!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_4#0",
+   "speaker": "Morgana",
+   "en": "Ohhh... So there's a practice stage[n]before you get to the real action.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_04#0",
+   "speaker": null,
+   "en": "The initial stage is practice...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_5#0",
+   "speaker": "Personal Trainer",
+   "en": "First up is sway. You'll need to predict[n]your opponent's attacks and dodge 'em!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_5#1",
+   "speaker": "Personal Trainer",
+   "en": "Now, sway around my attack, then[n]smack me with a counterpunch!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_5#2",
+   "speaker": "Personal Trainer",
+   "en": "...Here we go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HLP_BOOK_NG_01#0",
+   "speaker": null,
+   "en": "Use [f 1 10 67] to match the arrows[n]onscreen within the time limit,[n]then press [clr 2][f 1 10 75][clr 27] to complete the command.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_1_0#0",
+   "speaker": "Personal Trainer",
+   "en": "Hrgh!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_1_0#1",
+   "speaker": "Personal Trainer",
+   "en": "G-Good job... You moved well.[n]Remember how to do that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Sway_Error#0",
+   "speaker": "Personal Trainer",
+   "en": "What is that pathetic movement!?[n]Again!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_8#0",
+   "speaker": "Personal Trainer",
+   "en": "Next up is the flurry! Gimme some[n]fast consecutive hits!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_8#1",
+   "speaker": "Personal Trainer",
+   "en": "A small guy like you's gonna have to[n]focus on quick attacks over heavy-[n]hitting punches!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_8#2",
+   "speaker": "Personal Trainer",
+   "en": "Now aim at my glove... and hit!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HLP_Renda#0",
+   "speaker": null,
+   "en": "Press [f 1 10 75] enough times before the timer runs out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_10#0",
+   "speaker": "Personal Trainer",
+   "en": "Gnh!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_10#1",
+   "speaker": "Personal Trainer",
+   "en": "A-All right, good job! M-Make sure you[n]keep working at it though!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Rush_Error#0",
+   "speaker": "Personal Trainer",
+   "en": "Punches like that couldn't even kill[n]a mosquito! Again!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_1_1#0",
+   "speaker": "Personal Trainer",
+   "en": "What, you not feeling well? Fine, let's[n]move to the next exercise!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_11#0",
+   "speaker": "Personal Trainer",
+   "en": "Sway to dodge attacks, then use that[n]opportunity to unleash a brutal flurry[n]of punches...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_11#1",
+   "speaker": "Personal Trainer",
+   "en": "That's gonna be your golden combo!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_12#0",
+   "speaker": "Personal Trainer",
+   "en": "All right, now give me a sway and[n]a flurry in combination!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_12#1",
+   "speaker": "Personal Trainer",
+   "en": "...Here we go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_16#0",
+   "speaker": "Personal Trainer",
+   "en": "Nice dodge! Now on to the flurry!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Combi_Sway_Error#0",
+   "speaker": "Personal Trainer",
+   "en": "Are you even trying to dodge these?[n]Again!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Combi_Rush_Error#0",
+   "speaker": "Personal Trainer",
+   "en": "You didn't finish the flurry! Start over[n]from the top!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CombiEnd#0",
+   "speaker": "Personal Trainer",
+   "en": "Hrngh... *cough* *cough*",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CombiEnd#1",
+   "speaker": "Personal Trainer",
+   "en": "G-Good work! You're in incredible[n]shape!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CombiEnd#2",
+   "speaker": "Personal Trainer",
+   "en": "I hope you can do this in your matches[n]too!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_1_4#0",
+   "speaker": "Personal Trainer",
+   "en": "...You're not doing so hot today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_1_4#1",
+   "speaker": "Personal Trainer",
+   "en": "Wanna stop training for now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_010_1#0",
+   "speaker": null,
+   "en": "Give me one more chance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_010_1#1",
+   "speaker": null,
+   "en": "Yeah, let's stop.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_1_5#0",
+   "speaker": "Personal Trainer",
+   "en": "Okay... One more time, from the top!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_Start#0",
+   "speaker": "Morgana",
+   "en": "Our opponent is here... The fight's[n]about to start.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Stage02_Start#0",
+   "speaker": null,
+   "en": "My opponent has arrived... It[n]looks like the fight is starting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STAGE2_REFEREE#0",
+   "speaker": "Commentator",
+   "en": "Ladies and gentlemen, here comes one[n]of our most skilled boxers, Graham[n]\"Cracker\" Joe!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STAGE2_REFEREE#1",
+   "speaker": "Commentator",
+   "en": "He might be small, but don't[n]underestimate him. His quick[n]movements will decimate you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_Trainer#0",
+   "speaker": "Personal Trainer",
+   "en": "I'm here with you! Just remember[n]what we practiced!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_BeforeFight#0",
+   "speaker": "Morgana",
+   "en": "Don't lose...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Stage02_BeforeFight#0",
+   "speaker": null,
+   "en": "I need to give this my all...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_Enemy_1stAtt#0",
+   "speaker": "Commentator",
+   "en": "And right as the bell rings, Joe comes[n]out aggressive!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_Trainer_1stI#0",
+   "speaker": "Personal Trainer",
+   "en": "Don't let him shake you up! Persevere[n]and figure out what his weakness is!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Joe_Hint#0",
+   "speaker": "Morgana",
+   "en": "How are we supposed to do that?[n]Wait...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Joe_Hint#1",
+   "speaker": "Morgana",
+   "en": "It looks like his form loosens up after[n]he goes on the offensive!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Joe_Hint#0",
+   "speaker": null,
+   "en": "It seems my opponent's form[n]loosens after he attacks...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_Trainer_2ndI#0",
+   "speaker": "Personal Trainer",
+   "en": "What are you running around for?[n]Are you trying to— Oh, I get it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_Trainer_2ndI#1",
+   "speaker": "Personal Trainer",
+   "en": "You're on the right track! Sway to avoid[n]his attacks!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STAGE2_REFEREE2#0",
+   "speaker": "Commentator",
+   "en": "The challenger lands an impressive[n]counter and Joe falters!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_Trainer_Sway#0",
+   "speaker": "Personal Trainer",
+   "en": "Good, good! Now go for the flurry!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STAGE2_REFEREE3#0",
+   "speaker": "Commentator",
+   "en": "What an intense string of punches![n]Joe goes down!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_JoeDown_1st#0",
+   "speaker": "Morgana",
+   "en": "All right, the count's starting. I hope he[n]doesn't get up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_JoeDown_1st#0",
+   "speaker": null,
+   "en": "The count started...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STAGE2_REFEREE_Joe1s#0",
+   "speaker": "Commentator",
+   "en": "3...! 4...! Oh, Joe's back up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_Trainer_Last#0",
+   "speaker": "Personal Trainer",
+   "en": "You've got him on his heels! Keep up[n]your footwork!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02LastStep_Sway#0",
+   "speaker": "Personal Trainer",
+   "en": "Now! Give him a flurry!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_JoeDown2nd#0",
+   "speaker": "Commentator",
+   "en": "What a combo! Joe goes down!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_JoeDown2nd_C#0",
+   "speaker": "Morgana",
+   "en": "Please don't get up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Stage02_JoeDown2nd_C#0",
+   "speaker": null,
+   "en": "The count is continuing...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_JoeDownfinis#0",
+   "speaker": "Commentator",
+   "en": "8... 9... 10!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_JoeDownfinis#1",
+   "speaker": "Commentator",
+   "en": "Graham Joe has crumbled![n]Our challenger wins!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_Trainer_Fini#0",
+   "speaker": "Personal Trainer",
+   "en": "Nice bout! I expected nothing less[n]outta my apprentice!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_Clear#0",
+   "speaker": "Morgana",
+   "en": "You managed to win your first match[n]by a hair.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Stage02_Clear#0",
+   "speaker": null,
+   "en": "I narrowly won...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_031_0_0#0",
+   "speaker": "Morgana",
+   "en": "You lost...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_031_1_0#0",
+   "speaker": null,
+   "en": "I lost...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_PC_Recover#0",
+   "speaker": "Personal Trainer",
+   "en": "All right, good job getting back up![n]Now watch your opponent closely[n]and dodge his attacks!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_Start#0",
+   "speaker": "Morgana",
+   "en": "Our opponent is here... The fight's[n]about to start.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Stage03_Start#0",
+   "speaker": null,
+   "en": "My opponent has arrived... It[n]looks like the fight is starting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STAGE3_REFEREE#0",
+   "speaker": "Commentator",
+   "en": "Weighing in at 240 pounds, with a[n]record of 30 wins, 23 coming by way[n]of knockout, and only 5 losses...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STAGE3_REFEREE#1",
+   "speaker": "Commentator",
+   "en": "Now entering the ring... Mo Bryson!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_Trainer#0",
+   "speaker": "Personal Trainer",
+   "en": "I'm here with you, kid! Remember[n]your last fight!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_035_1_0#0",
+   "speaker": "Morgana",
+   "en": "I hope you'll be okay... Just try not[n]to lose too bad.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_035_1_00#0",
+   "speaker": null,
+   "en": "I need to give this my all...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STAGE3_Start#0",
+   "speaker": "Commentator",
+   "en": "Bryson comes out swinging! Our[n]challenger is frozen with fear!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_Trainer_Star#0",
+   "speaker": "Personal Trainer",
+   "en": "Dammit, he's wearing down your[n]defenses... Just keep looking for an[n]opening!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Boyan_Hint#0",
+   "speaker": "Morgana",
+   "en": "What does he mean by that? Wait...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Boyan_Hint#1",
+   "speaker": "Morgana",
+   "en": "This guy takes large swings. You might[n]be able to get him if you attack during[n]his punch animation!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Boyan_Hint#0",
+   "speaker": null,
+   "en": "The large swings this opponent[n]takes give me ample[n]opportunities to strike...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_Trainer_Hint#0",
+   "speaker": "Personal Trainer",
+   "en": "Why are you letting your guard down?[n]Wait—I see now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_Trainer_Hint#1",
+   "speaker": "Personal Trainer",
+   "en": "You're on the right track... but can you[n]really pull this off? Match his timing and[n]land an uppercut!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STAGE3_REFEREE2#0",
+   "speaker": "Commentator",
+   "en": "Our challenger lands a savage[n]uppercut! Bryson stumbles back!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_step02#0",
+   "speaker": "Personal Trainer",
+   "en": "Now's your chance! Head in for[n]the flurry!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_EnemyDown01#0",
+   "speaker": "Commentator",
+   "en": "What a fervid flurry of fists! Bryson goes[n]down hard!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BoyanDown_1st#0",
+   "speaker": "Morgana",
+   "en": "All right, the count's starting. I hope he[n]doesn't get up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BoyanDown_1st#0",
+   "speaker": null,
+   "en": "The count's starting...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STAGE3_Boyan1stStand#0",
+   "speaker": "Commentator",
+   "en": "1... 2... Oh, Bryson's back on his feet[n]and ready to go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_step03_start#0",
+   "speaker": "Personal Trainer",
+   "en": "He's tough, all right... You're[n]gonna have to give this your all!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_step03_2nd#0",
+   "speaker": "Personal Trainer",
+   "en": "Now, finish him off with a flurry!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_step03_3rd#0",
+   "speaker": "Personal Trainer",
+   "en": "That's gotta be enough to take Bryson[n]down... N-No way, he's still standing!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_step03_3rd#1",
+   "speaker": "Personal Trainer",
+   "en": "He's on the ropes though. Skirt around[n]him and go for a body blow!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_EnemyDown02#0",
+   "speaker": "Commentator",
+   "en": "A furious body blow from our intrepid[n]challenger!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_EnemyDown02#1",
+   "speaker": "Commentator",
+   "en": "It's just too much for Bryson to handle![n]He's collapsed!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BoyanDown_2nd#0",
+   "speaker": "Morgana",
+   "en": "Yes, the count's starting again![n]Please don't get up this time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BoyanDown_2nd#0",
+   "speaker": null,
+   "en": "The count's starting...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_EnemyEnd#0",
+   "speaker": "Commentator",
+   "en": "8... 9... 10!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_EnemyEnd#1",
+   "speaker": "Commentator",
+   "en": "Bryson is down for the count![n]Our challenger wins!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_Trainer_Fini#0",
+   "speaker": "Personal Trainer",
+   "en": "You did it, kid! I always knew you had it[n]in you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_Recover_step#0",
+   "speaker": "Personal Trainer",
+   "en": "Hey, nice job getting up! Now look for[n]an opportunity to land a solid uppercut!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_Recover_step_2#0",
+   "speaker": "Personal Trainer",
+   "en": "Hey, nice job getting up! Bryson looks[n]staggered... Hit him with a flurry!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_Recover_step_3#0",
+   "speaker": "Personal Trainer",
+   "en": "Hey, nice job getting up! Now break his[n]defense again!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_039_0_0#0",
+   "speaker": "Morgana",
+   "en": "We narrowly won.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_039_1_0#0",
+   "speaker": null,
+   "en": "I scraped out a win...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_040_0_0#0",
+   "speaker": "Morgana",
+   "en": "You lost...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_040_1_0#0",
+   "speaker": null,
+   "en": "I lost...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_Start#0",
+   "speaker": "Morgana",
+   "en": "Your opponent this time is... the champ,[n]huh.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Stage04_Start#0",
+   "speaker": null,
+   "en": "My next opponent[n]is the champion...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STAGE4_REFEREE#0",
+   "speaker": "Commentator",
+   "en": "And now, our reigning champion finally[n]makes his appearance...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STAGE4_REFEREE#1",
+   "speaker": "Commentator",
+   "en": "Now entering the ring, the undefeated...[n]Mark Dyson!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_Start_Traine#0",
+   "speaker": "Personal Trainer",
+   "en": "You've come so far... Now give[n]this all you've got!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_StartThink#0",
+   "speaker": "Morgana",
+   "en": "I'm rooting for you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Stage04_StartThink#0",
+   "speaker": null,
+   "en": "I need to give this my all...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_Step01_Start#0",
+   "speaker": "Commentator",
+   "en": "Now, the match begins— What!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_Step01_Start#1",
+   "speaker": "Commentator",
+   "en": "The champion delivers a hard right hook![n]The challenger goes down already!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_Step01_Down#0",
+   "speaker": "Personal Trainer",
+   "en": "I didn't think he'd target you right[n]off the bat! H-Hurry, get back up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_Step01_Recov#0",
+   "speaker": "Morgana",
+   "en": "This IS the champion, after all.[n]He got one up on you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Stage04_Step01_Recov#0",
+   "speaker": null,
+   "en": "He got one up on me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_Step01_ReSta#0",
+   "speaker": "Commentator",
+   "en": "The champion ruthlessly attacks the[n]challenger!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_Step01_Hint#0",
+   "speaker": "Personal Trainer",
+   "en": "Cheap tricks won't work on such a[n]skilled opponent! You'll have to fight[n]to create an opening for yourself!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_Step01_Finis#0",
+   "speaker": "Personal Trainer",
+   "en": "Yes! Create a window of opportunity[n]by moving around!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_Step02_Start#0",
+   "speaker": "Personal Trainer",
+   "en": "Excellent, you're toying with him![n]Now go for the rush!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_EnemyDown01#0",
+   "speaker": "Commentator",
+   "en": "And Dyson goes down...! The unthinkable[n]has happened!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_EnemyCount01#0",
+   "speaker": "Morgana",
+   "en": "All right, the count's starting. Please[n]don't get up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Stage04_EnemyCount01#0",
+   "speaker": null,
+   "en": "The count started...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_EnemyRecov01#0",
+   "speaker": "Commentator",
+   "en": "But this IS the champion—he's back[n]up already!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_Step03_Start#0",
+   "speaker": "Personal Trainer",
+   "en": "Remember your previous matches![n]Keep moving... and keep fighting!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_Step03_1st#0",
+   "speaker": "Personal Trainer",
+   "en": "Great! Keep rushing him!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_Step03_NotDo#0",
+   "speaker": "Commentator",
+   "en": "The challenger valiantly attacks...[n]yet Dyson refuses to go down!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_Last_Start#0",
+   "speaker": "Personal Trainer",
+   "en": "Don't give up hope, it's working![n]Push past your limits and attack him!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_Last02#0",
+   "speaker": "Personal Trainer",
+   "en": "Rush him!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_Last03#0",
+   "speaker": "Personal Trainer",
+   "en": "Keep moving!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_Last04#0",
+   "speaker": "Personal Trainer",
+   "en": "Rush again!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_Last05#0",
+   "speaker": "Personal Trainer",
+   "en": "He's slipping up—give him one last rush!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_Finish#0",
+   "speaker": "Commentator",
+   "en": "And Dyson goes down!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_Finish#1",
+   "speaker": "Commentator",
+   "en": "The countdown begins— But what's this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_Finish#2",
+   "speaker": "Commentator",
+   "en": "He's thrown in the towel![n]The challenger wins!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_Trainer_Fini#0",
+   "speaker": "Personal Trainer",
+   "en": "You've become the champion![n]This is the happiest day of my life!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_Step01_Recov_2#0",
+   "speaker": "Personal Trainer",
+   "en": "Good job getting back up! You have to[n]force open a window of opportunity!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_Step02_Recov#0",
+   "speaker": "Personal Trainer",
+   "en": "Good job getting back up! Just keep[n]moving!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_Step03_Recov#0",
+   "speaker": "Personal Trainer",
+   "en": "Good job getting back up! Just keep[n]moving!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_401_0_16#0",
+   "speaker": "Morgana",
+   "en": "You won...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_401_0_016#0",
+   "speaker": null,
+   "en": "I scraped out a win...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_450_0_1#0",
+   "speaker": "Morgana",
+   "en": "You lost... That was the champion,[n]after all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_450_1_1#0",
+   "speaker": null,
+   "en": "I lost...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DOWN_start#0",
+   "speaker": "Personal Trainer",
+   "en": "What are you messing around for!?[n]Th-This is bad!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DOWN_REFEREE#0",
+   "speaker": "Commentator",
+   "en": "A powerful right hook straight to the[n]challenger's face!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DOWN_REFEREE#1",
+   "speaker": "Commentator",
+   "en": "...And he can't handle it! He's down,[n]but can he get back up!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DOWN_MORU#0",
+   "speaker": "Morgana",
+   "en": "Button mash to get back up![n]You can do it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DOWN_NULL#0",
+   "speaker": null,
+   "en": "I can get back up if I[n]button mash...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Recover_Error#0",
+   "speaker": "Commentator",
+   "en": "Our challenger is down for the count![n]The match is over!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DOWN_REFEREE_END#0",
+   "speaker": "Referee",
+   "en": "8... 9... 10...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DOWN_REFEREE_END#1",
+   "speaker": "Referee",
+   "en": "And his trainer throws in the towel![n]This match is over!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Recover_OK#0",
+   "speaker": "Commentator",
+   "en": "He's back on his feet! The show goes on!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HLP_BOOK#0",
+   "speaker": null,
+   "en": "Use [f 1 10 67] to match the arrows[n]onscreen within the time limit,[n]then press [f 1 10 75] to complete the command.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ParamUP#0",
+   "speaker": "Morgana",
+   "en": "The passion you showed during your[n]fight was so cool...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ParamUP#0",
+   "speaker": null,
+   "en": "I learned how to fight[n]with intense passion...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ParamUP_Ura#0",
+   "speaker": "Morgana",
+   "en": "The passion you showed during your[n]fight was so cool...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ParamUP_Ura#0",
+   "speaker": null,
+   "en": "But I learned how to fight[n]with intense passion...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_490_0_0#0",
+   "speaker": "Morgana",
+   "en": "You beat Punch Ouch!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_490_0_0#1",
+   "speaker": "Morgana",
+   "en": "The passion you showed during your[n]fight was so cool...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_490_1_0#0",
+   "speaker": null,
+   "en": "I beat Punch Ouch...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_490_1_0#1",
+   "speaker": null,
+   "en": "I learned how to fight[n]with intense passion...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_490_0_0_Ura#0",
+   "speaker": "Morgana",
+   "en": "You beat Punch Ouch!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_490_0_0_Ura#1",
+   "speaker": "Morgana",
+   "en": "The passion you showed during your[n]fight was so cool...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_490_1_0_Ura#0",
+   "speaker": null,
+   "en": "I beat Punch Ouch...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_490_1_0_Ura#1",
+   "speaker": null,
+   "en": "I learned how to fight[n]with intense passion...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_0_0#0",
+   "speaker": "Morgana",
+   "en": "The secret technique book helped, huh?[n]You're always looking for the most efficient[n]way to do things. I admire that about you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_019_1_0#0",
+   "speaker": null,
+   "en": "I think the technique made it a[n]bit less exciting...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FAILED_UP#0",
+   "speaker": "Morgana",
+   "en": "You lost, but the passion you showed[n]during your fight was so cool...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_FAILED_UP#0",
+   "speaker": null,
+   "en": "I lost, but I learned how to[n]fight with intense passion...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Game_End_Common#0",
+   "speaker": "Morgana",
+   "en": "I'm sure you're tired after how into it[n]you were getting. Let's stop here for[n]today, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Game_End_Common#0",
+   "speaker": null,
+   "en": "I should stop for now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Game_End_Common_DAY#0",
+   "speaker": "Morgana",
+   "en": "That took a really long time...[n]We should probably stop playing[n]games for now, don't you think?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Game_End_Common_DAY#0",
+   "speaker": null,
+   "en": "Hm, I should probably take a[n]break from all the video games...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HINTO_BOOK_NO#0",
+   "speaker": "Morgana",
+   "en": "I wish there was a way to make this[n]game a little easier...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_HINTO_BOOK_NO#0",
+   "speaker": null,
+   "en": "If only there was a way to[n]lower the game's difficulty...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HINTO_BOOK00#0",
+   "speaker": "Morgana",
+   "en": "Don't you have a book on secret[n]techniques? Maybe you should[n]try giving it a read sometime.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_HINTO_BOOK04#0",
+   "speaker": null,
+   "en": "Now that I think about it, I have[n]a book on secret techniques...[n]Maybe I should read it sometime.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_DONE_M#0",
+   "speaker": "Morgana",
+   "en": "Is it too tough for you? We'll just[n]have to try again next time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BOOK_DONE_N#0",
+   "speaker": null,
+   "en": "This is pretty difficult... I'll[n]have to give it another try later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_0_0#0",
+   "speaker": "Morgana",
+   "en": "So this manual says if you send[n]in the password you see after the[n]ending... you get a prize?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_0_0#1",
+   "speaker": "Morgana",
+   "en": "...This is a promotion from years ago[n]though. There's probably no point in[n]doing it now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_0_0#2",
+   "speaker": "Morgana",
+   "en": "But I guess it wouldn't hurt to write it[n]down anyway. Maybe some antique[n]game stores are into that kind of thing?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_053_1_0#0",
+   "speaker": null,
+   "en": "Supposedly if I send in the[n]password shown after the ending,[n]I get some kind of prize.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_053_1_0#1",
+   "speaker": null,
+   "en": "But... this is a very old[n]promotion. It's probably[n]not still running...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_053_1_0#2",
+   "speaker": null,
+   "en": "Maybe I should write it[n]down, just in case...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEBUG#0",
+   "speaker": "for debug",
+   "en": "Debug Mode",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#0",
+   "speaker": null,
+   "en": "with morgana",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#1",
+   "speaker": null,
+   "en": "no morgana",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEBUG_2#0",
+   "speaker": "for debug",
+   "en": "Debug Mode",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_2#0",
+   "speaker": null,
+   "en": "Stage 1",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_2#1",
+   "speaker": null,
+   "en": "Stage 2",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_2#2",
+   "speaker": null,
+   "en": "Stage 3",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_2#3",
+   "speaker": null,
+   "en": "Stage 4",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEBUG_3#0",
+   "speaker": "for debug",
+   "en": "Debug Mode",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_3#0",
+   "speaker": null,
+   "en": "1st time",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_3#1",
+   "speaker": null,
+   "en": "2nd time",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

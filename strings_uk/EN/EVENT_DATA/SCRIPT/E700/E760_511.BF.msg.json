@@ -1,0 +1,1790 @@
+{
+ "file": "EN/EVENT_DATA/SCRIPT/E700/E760_511.BF",
+ "entries": [
+  {
+   "id": "MSG_DVD01_Start_1ST_Dram#0",
+   "speaker": "Man Wearing a Suit",
+   "en": "This hole in the skull... It's not the cause of death.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD01_Start_1ST_Dram_2#0",
+   "speaker": "Woman Wearing a Suit",
+   "en": "What? Then... what is?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD01_Start_1ST#0",
+   "speaker": null,
+   "en": "It's a story about a special[n]investigation team that uncovers the[n]truth about how people died...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD01_Start_1ST#0",
+   "speaker": "Morgana",
+   "en": "That guy's amazing. It's like he can tell[n]everything just by looking at the bones.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD01_Start_2nd_Dram#0",
+   "speaker": "Man Wearing a Suit",
+   "en": "After making the count... I've noticed that there aren't enough bones. An average male should have 206, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD01_Start_2nd_Dram_2#0",
+   "speaker": "Woman Wearing a Suit",
+   "en": "Are you saying that... this isn't the location where he was murdered?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD01_Start_2nd#0",
+   "speaker": null,
+   "en": "Using their expertise and their[n]instincts, the investigators[n]chase after the truth...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD01_Start_2nd#0",
+   "speaker": "Morgana",
+   "en": "Wow, so the human body only has 206[n]bones? I wonder how many I have...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD01_done_1st#0",
+   "speaker": "Morgana",
+   "en": "I didn't know any of this before...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD01_done_1st#1",
+   "speaker": "Morgana",
+   "en": "I guess we gained more technical[n][stIcon 0][clr 26][stLabel 0][clr 27] from watching that[n]show! Learning is always a good thing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD01_done_1st_M#0",
+   "speaker": null,
+   "en": "Watching that drama gave me[n]a little more [stIcon 0][clr 26][stLabel 0][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD01_done_2nd#0",
+   "speaker": "Morgana",
+   "en": "So we finished watching \"Bonehead,\"[n]huh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD01_done_2nd#1",
+   "speaker": "Morgana",
+   "en": "I guess we gained more technical[n][stIcon 0][clr 26][stLabel 0][clr 27] from watching that[n]show! Learning is always a good thing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD01_done_2nd_M#0",
+   "speaker": null,
+   "en": "I watched \"Bonehead\"[n]to the end...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD01_done_2nd_M#1",
+   "speaker": null,
+   "en": "Watching that drama gave me[n]a little more [stIcon 0][clr 26][stLabel 0][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD02_Start_1ST_Dram#0",
+   "speaker": "Man in a White Coat",
+   "en": "If we're going to trust the DNA test result, then he's our only suspect.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD02_Start_1ST_Dram_2#0",
+   "speaker": "Woman Wearing a Suit",
+   "en": "No way... but he has a perfect alibi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD02_Start_1ST#0",
+   "speaker": null,
+   "en": "It's a drama about using forensic[n]research to learn the truth...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD02_Start_1ST#0",
+   "speaker": "Morgana",
+   "en": "What's a \"DNA\"...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD02_Start_2nd_Dram#0",
+   "speaker": "Woman Wearing a Suit",
+   "en": "Based on the blood stain that was left behind... she must've been murdered here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD02_Start_2nd_Dram_2#0",
+   "speaker": "Man in a White Coat",
+   "en": "At a glance, the blood splatters seem rather extreme, but it falls short of a lethal blow... The truth is elsewhere.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD02_Start_2nd#0",
+   "speaker": null,
+   "en": "They're using forensic[n]science to search for the[n]truth behind an incident...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD02_Start_2nd#0",
+   "speaker": "Morgana",
+   "en": "That much blood loss won't kill a human,[n]but it's just enough for a cat. Er, that's a[n]bit scary to think about...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD02_Start_3rd_Dram#0",
+   "speaker": "Woman Wearing a Suit",
+   "en": "While it may be true that they got in an argument, I can't believe an officer shot a civilian to death...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD02_Start_3rd_Dram_2#0",
+   "speaker": "Man in a White Coat",
+   "en": "That's odd. I'm only getting his fingerprints on the gun. They supposedly scrambled for it, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD02_Start_3rd#0",
+   "speaker": null,
+   "en": "They're using forensic[n]science to search for the[n]truth behind an incident...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD02_Start_3rd#0",
+   "speaker": "Morgana",
+   "en": "I don't have fingers, but I wonder if they[n]could search for pawprints instead.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD02_done_1st#0",
+   "speaker": "Morgana",
+   "en": "I didn't know any of this before...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD02_done_1st#1",
+   "speaker": "Morgana",
+   "en": "I guess we gained more technical[n][stIcon 0][clr 26][stLabel 0][clr 27] from watching that[n]show! Learning is always a good thing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD02_done_1st_M#0",
+   "speaker": null,
+   "en": "Watching that drama gave me[n]a little more [stIcon 0][clr 26][stLabel 0][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD02_done_3rd#0",
+   "speaker": "Morgana",
+   "en": "We're done watching \"Crime Lab Squad\"...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD02_done_3rd#1",
+   "speaker": "Morgana",
+   "en": "I guess we gained more technical[n][stIcon 0][clr 26][stLabel 0][clr 27] from watching that[n]show! Learning is always a good thing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD02_done_3rd_M#0",
+   "speaker": null,
+   "en": "I watched \"Crime Lab Squad\"[n]to the end...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD02_done_3rd_M#1",
+   "speaker": null,
+   "en": "Watching that drama gave me[n]a little more [stIcon 0][clr 26][stLabel 0][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD03_Start_1ST_Dram#0",
+   "speaker": "Man Wearing a Suit",
+   "en": "You've... um... gotten too fat, so I want to break up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD03_Start_1ST_Dram_2#0",
+   "speaker": "Chubby Woman",
+   "en": "I can't believe he dumped me... But I'm not going to give up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD03_Start_1ST#0",
+   "speaker": null,
+   "en": "It's a story about[n]a woman struggling against[n]adversity and prejudice...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD03_Start_1ST#0",
+   "speaker": "Morgana",
+   "en": "Looks have nothing to do with what's[n]inside. I can sympathize with her.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD03_Start_2nd_Dram#0",
+   "speaker": "Man Wearing a Suit",
+   "en": "You're the only one for me after all...! Can we try this again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD03_Start_2nd_Dram_2#0",
+   "speaker": "Chubby Woman",
+   "en": "Really? I can trust you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD03_Start_2nd#0",
+   "speaker": null,
+   "en": "It looks like this woman's[n]ex-lover is rediscovering why[n]he loved her in the first place...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD03_Start_2nd#0",
+   "speaker": "Morgana",
+   "en": "See, looks aren't everything for humans.[n]What'd I tell you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD03_done_1st#0",
+   "speaker": "Morgana",
+   "en": "What's really important is not your[n]appearance, but what's on the inside.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD03_done_1st#1",
+   "speaker": "Morgana",
+   "en": "Maybe you learned a thing or two about[n][stIcon 1][clr 26][stLabel 1][clr 27] by watching this drama.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD03_done_1st_M#0",
+   "speaker": null,
+   "en": "I feel like I know more[n]about [stIcon 1][clr 26][stLabel 1][clr 27] after[n]watching this drama...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD03_done_2nd#0",
+   "speaker": "Morgana",
+   "en": "So we finished watching \"Not-so-hot[n]Betsy,\" huh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD03_done_2nd#1",
+   "speaker": "Morgana",
+   "en": "Maybe you learned a thing or two about[n][stIcon 1][clr 26][stLabel 1][clr 27] by watching this drama.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD03_done_2nd_M#0",
+   "speaker": null,
+   "en": "I finished watching[n]\"Not-so-hot Betsy\"...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD03_done_2nd_M#1",
+   "speaker": null,
+   "en": "I feel like I know more[n]about [stIcon 1][clr 26][stLabel 1][clr 27] after[n]watching this drama...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD04_Start_1ST_Dram#0",
+   "speaker": "Man In Gaudy Outfit",
+   "en": "You think I'm dating her? Oh, give me a break!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD04_Start_1ST_Dram_2#0",
+   "speaker": "Woman in Plain Outfit",
+   "en": "You're terrible! You told me that you loved me that night!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD04_Start_1ST#0",
+   "speaker": null,
+   "en": "It's a show about young[n]adults, set in the ritzy upscale[n]neighborhood of Bubbly Hills.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD04_Start_1ST#0",
+   "speaker": "Morgana",
+   "en": "Whoa, is this what high schoolers are[n]like overseas? Don't get any ideas, all[n]right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD04_Start_2nd_Dram#0",
+   "speaker": "Woman in Plain Outfit",
+   "en": "I-I just... can't help but fall in love with you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD04_Start_2nd_Dram_2#0",
+   "speaker": "Man In Gaudy Outfit",
+   "en": "Well damn... You know I have a girlfriend, right? If you're okay with that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD04_Start_2nd#0",
+   "speaker": null,
+   "en": "It's a drama about romantic[n]hijinks in upscale Bubbly Hills...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD04_Start_2nd#0",
+   "speaker": "Morgana",
+   "en": "Huh? No way! He can't date her if[n]he already has a girlfriend...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD04_Start_3rd_Dram#0",
+   "speaker": "Man In Gaudy Outfit",
+   "en": "I was wrong all this time! You're the type of woman who's truly beautiful!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD04_Start_3rd_Dram_2#0",
+   "speaker": "Woman in Plain Outfit",
+   "en": "Really? This is like a dream...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD04_Start_3rd#0",
+   "speaker": null,
+   "en": "It's a drama about romantic[n]hijinks in upscale Bubbly Hills...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD04_Start_3rd#0",
+   "speaker": "Morgana",
+   "en": "She ended up with the first guy. I guess[n]you don't know what you've got until[n]it's gone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD04_done_1st#0",
+   "speaker": "Morgana",
+   "en": "I really felt their desperate need to be[n]loved by someone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD04_done_1st#1",
+   "speaker": "Morgana",
+   "en": "Maybe you learned a thing or two about[n][stIcon 1][clr 26][stLabel 1][clr 27] by watching this drama.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD04_done_1st_M#0",
+   "speaker": null,
+   "en": "I feel like I know more[n]about [stIcon 1][clr 26][stLabel 1][clr 27] after[n]watching this drama...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD04_done_3rd#0",
+   "speaker": "Morgana",
+   "en": "So we finished watching \"Bubbly Hills,[n]90210,\" huh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD04_done_3rd#1",
+   "speaker": "Morgana",
+   "en": "Maybe you learned a thing or two about[n][stIcon 1][clr 26][stLabel 1][clr 27] by watching this drama.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD04_done_3rd_M#0",
+   "speaker": null,
+   "en": "I watched \"Bubbly Hills, 90210\"[n]to the end...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD04_done_3rd_M#1",
+   "speaker": null,
+   "en": "I feel like I know more[n]about [stIcon 1][clr 26][stLabel 1][clr 27] after[n]watching this drama...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD05_Start_1ST_Dram#0",
+   "speaker": "Hard-Boiled Officer",
+   "en": "You know he's a criminal, yet you're still going to save him?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD05_Start_1ST_Dram_2#0",
+   "speaker": "Man in a White Coat",
+   "en": "You can convict him in court. All I do is save the patient in front of me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD05_Start_1ST#0",
+   "speaker": null,
+   "en": "It's a story about the daily[n]struggles of doctors working[n]in an emergency ward...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD05_Start_1ST#0",
+   "speaker": "Morgana",
+   "en": "I like this guy. A person's life is valuable,[n]no matter what they've done.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD05_Start_2nd_Dram#0",
+   "speaker": "Man Wearing a Suit",
+   "en": "Saving both the mother and child is unreasonable...! They both might die!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD05_Start_2nd_Dram_2#0",
+   "speaker": "Man in a White Coat",
+   "en": "But they both might live too, right? Don't worry, just believe in me...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD05_Start_2nd#0",
+   "speaker": null,
+   "en": "It's a story about the daily[n]struggles of doctors working[n]in an emergency ward...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD05_Start_2nd#0",
+   "speaker": "Morgana",
+   "en": "Wow, this guy just doesn't have the word[n]\"surrender\" in his dictionary, does he?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD05_done_1st#0",
+   "speaker": "Morgana",
+   "en": "No matter the circumstances, those[n]doctors never gave up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD05_done_1st#1",
+   "speaker": "Morgana",
+   "en": "Maybe you learned a thing or two about[n][stIcon 4][clr 26][stLabel 4][clr 27] from watching this[n]drama.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD05_done_1st_M#0",
+   "speaker": null,
+   "en": "I feel like I've learned about[n][stIcon 4][clr 26][stLabel 4][clr 27] by[n]watching this drama...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD05_done_2nd#0",
+   "speaker": "Morgana",
+   "en": "So we finished watching \"ICU,\" huh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD05_done_2nd#1",
+   "speaker": "Morgana",
+   "en": "Maybe you learned a thing or two about[n][stIcon 4][clr 26][stLabel 4][clr 27] from watching this[n]drama.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD05_done_2nd_M#0",
+   "speaker": null,
+   "en": "I watched \"ICU\" to the end...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD05_done_2nd_M#1",
+   "speaker": null,
+   "en": "I feel like I've learned about[n][stIcon 4][clr 26][stLabel 4][clr 27] by[n]watching this drama...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD06_Start_1ST_Dram#0",
+   "speaker": "Kind Woman",
+   "en": "Your wife is right next to you. You're just unable to see her...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD06_Start_1ST_Dram_2#0",
+   "speaker": "Man Wearing a Suit",
+   "en": "No way... Is that really true...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD06_Start_1ST#0",
+   "speaker": null,
+   "en": "It's a strange story about[n]a woman who can speak with[n]the spirits of the deceased...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD06_Start_1ST#0",
+   "speaker": "Morgana",
+   "en": "I wonder if that woman would join[n]the Phantom Thieves. She'd be useful,[n]don't you think?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD06_Start_2nd_Dram#0",
+   "speaker": "Tired-Looking Man",
+   "en": "You can see me? Please, tell me the truth...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD06_Start_2nd_Dram_2#0",
+   "speaker": "Kind Woman",
+   "en": "It's okay, please calm down. Tell me what happened...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD06_Start_2nd#0",
+   "speaker": null,
+   "en": "It's a strange story about[n]a woman who can speak with[n]the spirits of the deceased...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD06_Start_2nd#0",
+   "speaker": "Morgana",
+   "en": "Was that ghost telling the truth? I'm on[n]the edge of my seat here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD06_Start_3rd_Dram#0",
+   "speaker": "Kind Woman",
+   "en": "I didn't want to believe it. That you died...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD06_Start_3rd_Dram_2#0",
+   "speaker": "Sad-Faced Man",
+   "en": "I'm sorry... I don't think I can keep our promise...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD06_Start_3rd#0",
+   "speaker": null,
+   "en": "It's a strange story about[n]a woman who can speak with[n]the spirits of the deceased...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD06_Start_3rd#0",
+   "speaker": "Morgana",
+   "en": "So her lover died, huh... She can see[n]him, but they can never be together...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD06_done_1st#0",
+   "speaker": "Morgana",
+   "en": "What a woman, devoted to the spirits of[n]the dead like that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD06_done_1st#1",
+   "speaker": "Morgana",
+   "en": "Maybe you learned a thing or two about[n][stIcon 4][clr 26][stLabel 4][clr 27] from watching this[n]drama.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD06_done_1st_M#0",
+   "speaker": null,
+   "en": "I feel like I've learned about[n][stIcon 4][clr 26][stLabel 4][clr 27] by[n]watching this drama...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD06_done_3rd#0",
+   "speaker": "Morgana",
+   "en": "So we finished watching \"Wraith,\" huh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD06_done_3rd#1",
+   "speaker": "Morgana",
+   "en": "Maybe you learned a thing or two about[n][stIcon 4][clr 26][stLabel 4][clr 27] from watching this[n]drama.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD06_done_3rd_M#0",
+   "speaker": null,
+   "en": "I watched \"Wraith\"[n]to the end...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD06_done_3rd_M#1",
+   "speaker": null,
+   "en": "I feel like I've learned about[n][stIcon 4][clr 26][stLabel 4][clr 27] by[n]watching this drama...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD07_Start_1ST_Dram#0",
+   "speaker": "Man in Prison Uniform",
+   "en": "Why are you here...? Don't tell me you came here to save me!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD07_Start_1ST_Dram_2#0",
+   "speaker": "Tattooed Man",
+   "en": "You're innocent, right? Let's escape this prison together.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD07_Start_1ST#0",
+   "speaker": null,
+   "en": "It's a story about a man who went[n]to prison for his older brother,[n]but now he's trying to escape...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD07_Start_1ST#0",
+   "speaker": "Morgana",
+   "en": "I can make lockpicks, so escaping from[n]prison would be a piece of cake.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD07_Start_2nd_Dram#0",
+   "speaker": "Tattooed Man",
+   "en": "Shit, I can't believe our plan was found out! We don't have much time...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD07_Start_2nd_Dram_2#0",
+   "speaker": "Man in Prison Uniform",
+   "en": "No, we still have a chance if we take this route...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD07_Start_2nd#0",
+   "speaker": null,
+   "en": "These men are crafting a detailed[n]plan to escape from prison...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD07_Start_2nd#0",
+   "speaker": "Morgana",
+   "en": "Persuading the guards and making small[n]gadgets... How do they think of all that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD07_done_1st#0",
+   "speaker": "Morgana",
+   "en": "The protagonists used all sorts of skills[n]to escape from prison...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD07_done_1st#1",
+   "speaker": "Morgana",
+   "en": "Maybe you learned a thing or two about[n][stIcon 2][clr 26][stLabel 2][clr 27] from watching this[n]drama.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD07_done_1st_M#0",
+   "speaker": null,
+   "en": "I feel like I've learned a bit of[n][stIcon 2][clr 26][stLabel 2][clr 27] from[n]watching this drama...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD07_done_2nd#0",
+   "speaker": "Morgana",
+   "en": "So we finished watching \"Jail Break,\"[n]huh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD07_done_2nd#1",
+   "speaker": "Morgana",
+   "en": "Maybe you learned a thing or two about[n][stIcon 2][clr 26][stLabel 2][clr 27] from watching this[n]drama.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD07_done_2nd_M#0",
+   "speaker": null,
+   "en": "I watched \"Jail Break\"[n]to the end...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD07_done_2nd_M#1",
+   "speaker": null,
+   "en": "I feel like I've learned a bit of[n][stIcon 2][clr 26][stLabel 2][clr 27] from[n]watching this drama...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD08_Start_1ST_Dram#0",
+   "speaker": "Man in a White Coat",
+   "en": "The sulfuric acid is leaking from the tank! We need to do something quickly...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD08_Start_1ST_Dram_2#0",
+   "speaker": "Casually-Dressed Man",
+   "en": "Don't worry, if we use chocolate... See, the acid and sugar react and...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD08_Start_1ST#0",
+   "speaker": null,
+   "en": "It's a story about a man who[n]never gives up, beating all odds[n]with science and ingenuity...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD08_Start_1ST#0",
+   "speaker": "Morgana",
+   "en": "He fixed the tank's crack with chocolate?[n]How does he stay so calm at a time like[n]that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD08_Start_2nd_Dram#0",
+   "speaker": "Woman Wearing a Suit",
+   "en": "Crap, they cut the power off. The alarm system isn't going to work anymore!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD08_Start_2nd_Dram_2#0",
+   "speaker": "Casually-Dressed Man",
+   "en": "We can create an alarm system even without any power. Look, there's an empty can and a sturdy string...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD08_Start_2nd#0",
+   "speaker": null,
+   "en": "It's a story about a man who[n]never gives up, beating all odds[n]with science and ingenuity...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD08_Start_2nd#0",
+   "speaker": "Morgana",
+   "en": "This guy makes all sorts of tools with[n]whatever he has on hand. Impressive...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD08_Start_3rd_Dram#0",
+   "speaker": "Woman Wearing a Suit",
+   "en": "We don't have time... The time bomb's going to detonate!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD08_Start_3rd_Dram_2#0",
+   "speaker": "Casually-Dressed Man",
+   "en": "Blue liquid... I'm guessing this acid is what causes the reaction. We should be able to neutralize it with detergent and milk.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD08_Start_3rd#0",
+   "speaker": null,
+   "en": "It's a story about a man who[n]never gives up, beating all odds[n]with science and ingenuity...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD08_Start_3rd#0",
+   "speaker": "Morgana",
+   "en": "Even with a time bomb in front of him,[n]he's so calm and collected. We could[n]learn a thing or two from him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD08_done_1st#0",
+   "speaker": "Morgana",
+   "en": "The protagonist knew just what to do,[n]despite the crazy situation...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD08_done_1st#1",
+   "speaker": "Morgana",
+   "en": "Maybe you learned a thing or two about[n][stIcon 2][clr 26][stLabel 2][clr 27] from watching this[n]drama.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD08_done_1st_M#0",
+   "speaker": null,
+   "en": "I feel like I've learned a bit of[n][stIcon 2][clr 26][stLabel 2][clr 27] from[n]watching this drama...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD08_done_3rd#0",
+   "speaker": "Morgana",
+   "en": "So we finished watching \"Guy McVer,\"[n]huh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD08_done_3rd#1",
+   "speaker": "Morgana",
+   "en": "Maybe you learned a thing or two about[n][stIcon 2][clr 26][stLabel 2][clr 27] from watching this[n]drama.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD08_done_3rd_M#0",
+   "speaker": null,
+   "en": "I watched \"Guy McVer\"[n]to the end...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD08_done_3rd_M#1",
+   "speaker": null,
+   "en": "I feel like I've learned a bit of[n][stIcon 2][clr 26][stLabel 2][clr 27] from[n]watching this drama...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD09_Start_1ST_Dram#0",
+   "speaker": "Injured Man",
+   "en": "What's going on...? How are the corpses getting up!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD09_Start_1ST_Dram_2#0",
+   "speaker": "Built Man",
+   "en": "Are you a human? Did you get bitten or scratched at all?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD09_Start_1ST#0",
+   "speaker": null,
+   "en": "It's a story about people trying[n]to survive in a city infested[n]with zombies...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD09_Start_1ST#0",
+   "speaker": "Morgana",
+   "en": "Ugh, talk about a dead man walking.[n]I saw dogs in there too, but... not a[n]single cat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD09_Start_2nd_Dram#0",
+   "speaker": "Man with a Gun",
+   "en": "I don't care if he's a zombie or not! Anyone we don't know is an enemy, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD09_Start_2nd_Dram_2#0",
+   "speaker": "Injured Man",
+   "en": "P-Please! I'm human... I really am...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD09_Start_2nd#0",
+   "speaker": null,
+   "en": "It's a story about people trying[n]to survive in a city infested[n]with zombies...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD09_Start_2nd#0",
+   "speaker": "Morgana",
+   "en": "Everyone's losing it... I think the humans[n]are scarier than the zombies!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD09_done_1st#0",
+   "speaker": "Morgana",
+   "en": "Phew, what a scary world... I wouldn't[n]want anything to do with that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD09_done_1st#1",
+   "speaker": "Morgana",
+   "en": "I bet you've summoned a little more[n][stIcon 3][clr 26][stLabel 3][clr 27] by watching this drama.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD09_done_1st_M#0",
+   "speaker": null,
+   "en": "I feel like I've gained a bit of[n][stIcon 3][clr 26][stLabel 3][clr 27] from watching[n]this drama...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD09_done_2nd#0",
+   "speaker": "Morgana",
+   "en": "So we finished watching \"The Running[n]Dead,\" huh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD09_done_2nd#1",
+   "speaker": "Morgana",
+   "en": "I bet you've summoned a little more[n][stIcon 3][clr 26][stLabel 3][clr 27] by watching this drama.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD09_done_2nd_M#0",
+   "speaker": null,
+   "en": "I watched \"The Running[n]Dead\" to the end...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD09_done_2nd_M#1",
+   "speaker": null,
+   "en": "I feel like I've gained a bit of[n][stIcon 3][clr 26][stLabel 3][clr 27] from watching[n]this drama...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD10_Start_1ST_Dram#0",
+   "speaker": "Woman Wearing a Suit",
+   "en": "That's impossible! There's no way that it was an alien's doing...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD10_Start_1ST_Dram_2#0",
+   "speaker": "Man Wearing a Suit",
+   "en": "But how do you explain this? The substance inside the body is not of this planet!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD10_Start_1ST#0",
+   "speaker": null,
+   "en": "It's a story about an investigator[n]who searches for the truth behind[n]eerie, supernatural incidents...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD10_Start_1ST#0",
+   "speaker": "Morgana",
+   "en": "The atmosphere of this show is so[n]ominous. I'm getting creeped out...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD10_Start_2nd_Dram#0",
+   "speaker": "Woman Wearing a Suit",
+   "en": "E-Everyone's dead...! That larva must've driven all the staff insane!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD10_Start_2nd_Dram_2#0",
+   "speaker": "Man Wearing a Suit",
+   "en": "A sample from 250,000 years ago... Don't you think we should preserve this larva?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD10_Start_2nd#0",
+   "speaker": null,
+   "en": "It's a story about an investigator[n]who searches for the truth behind[n]eerie, supernatural incidents...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD10_Start_2nd#0",
+   "speaker": "Morgana",
+   "en": "Whoa, whoa, why would you preserve[n]alien larvae? Curiosity killed the cat, you[n]know!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD10_Start_3rd_Dram#0",
+   "speaker": "Woman Wearing a Suit",
+   "en": "Th-There's a person inside the water tank...! Is it alive...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD10_Start_3rd_Dram_2#0",
+   "speaker": "Man Wearing a Suit",
+   "en": "How could this be!? To think the government was the one behind it all...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD10_Start_3rd#0",
+   "speaker": null,
+   "en": "It's a story about an investigator[n]who searches for the truth behind[n]eerie, supernatural incidents...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD10_Start_3rd#0",
+   "speaker": "Morgana",
+   "en": "Would the government really disregard[n]the citizens' safety just for money?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD10_done_1st#0",
+   "speaker": "Morgana",
+   "en": "Phew, that was intense. I could barely[n]breathe through all that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD10_done_1st#1",
+   "speaker": "Morgana",
+   "en": "I bet you've summoned a little more[n][stIcon 3][clr 26][stLabel 3][clr 27] by watching this drama.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD10_done_1st_M#0",
+   "speaker": null,
+   "en": "I feel like I've gained a bit of[n][stIcon 3][clr 26][stLabel 3][clr 27] from watching[n]this drama...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD10_done_3rd#0",
+   "speaker": "Morgana",
+   "en": "So we finished watching \"The X-Folders,\"[n]huh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD10_done_3rd#1",
+   "speaker": "Morgana",
+   "en": "I bet you've summoned a little more[n][stIcon 3][clr 26][stLabel 3][clr 27] by watching this drama.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD10_done_3rd_M#0",
+   "speaker": null,
+   "en": "I watched \"The X Folders\"[n]to the end...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD10_done_3rd_M#1",
+   "speaker": null,
+   "en": "I feel like I've gained a bit of[n][stIcon 3][clr 26][stLabel 3][clr 27] from watching[n]this drama...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD01P5R_Start_1ST_D#0",
+   "speaker": "Sexy Woman",
+   "en": "So you've been lying to me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD01P5R_Start_1ST_D_2#0",
+   "speaker": "Handsome Man",
+   "en": "It's not what it looks like! I can explain!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD01P5R_Start_1ST_D_3#0",
+   "speaker": "Sexy Woman",
+   "en": "Yeah, right. How stupid do you think I am!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD01P5R_Start_1ST#0",
+   "speaker": null,
+   "en": "It's a story about women struggling[n]with relationship drama...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD01P5R_Start_1ST#0",
+   "speaker": "Morgana",
+   "en": "The deeper the love, the greater the[n]wrath when that love is betrayed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD01P5R_Start_2nd_D#0",
+   "speaker": "Sexy Woman",
+   "en": "I'm ashamed of myself. I doubted you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD01P5R_Start_2nd_D_2#0",
+   "speaker": "Sexy Woman",
+   "en": "It's okay. I'll tell you everything.[n]I just don't want to lose you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD01P5R_Start_2nd_D_3#0",
+   "speaker": "Sexy Woman",
+   "en": "That's all I needed to know.[n]Hey... Come here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD01P5R_Start_2nd#0",
+   "speaker": null,
+   "en": "With their misunderstandings[n]resolved, the lovers reunited...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD01P5R_Start_2nd#0",
+   "speaker": "Morgana",
+   "en": "So love's not all fun and games, huh?[n]You need to put some effort into it, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD01P5R_done_1st#0",
+   "speaker": "Morgana",
+   "en": "What an emotional roller-coaster...[n]I couldn't look away. All four women[n]had such distinct personalities.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD01P5R_done_1st#1",
+   "speaker": "Morgana",
+   "en": "Maybe you learned a thing or two about[n][stIcon 1][clr 26][stLabel 1][clr 27] by watching this drama.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD01P5R_done_1st_M#0",
+   "speaker": null,
+   "en": "I feel like I've learned a bit about[n][stIcon 1][clr 26][stLabel 1][clr 27] from watching[n]this drama...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD01P5R_done_2nd#0",
+   "speaker": "Morgana",
+   "en": "So we finished watching \"Disparate[n]Housewives,\" huh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD01P5R_done_2nd#1",
+   "speaker": "Morgana",
+   "en": "Maybe you learned a thing or two about[n][stIcon 1][clr 26][stLabel 1][clr 27] by watching this drama.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD01P5R_done_2nd_M#0",
+   "speaker": null,
+   "en": "I watched \"Disparate[n]Housewives\" to the end...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD01P5R_done_2nd_M#1",
+   "speaker": null,
+   "en": "I feel like I've learned a bit about[n][stIcon 1][clr 26][stLabel 1][clr 27] from watching[n]this drama...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD02P5R_Start_1ST_D#0",
+   "speaker": "Doctor Mouse",
+   "en": "What do you mean, a \"surgical consent form\"...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD02P5R_Start_1ST_D_2#0",
+   "speaker": "Director Mouse",
+   "en": "I can't believe you operated without a signature!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD02P5R_Start_1ST_D_3#0",
+   "speaker": "Doctor Mouse",
+   "en": "It's over. The patient was cured.[n]What exactly is the problem?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD02P5R_Start_1ST#0",
+   "speaker": null,
+   "en": "It's a story about a renegade[n]mouse doctor saving the lives[n]of his fellow mice...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD02P5R_Start_1ST#0",
+   "speaker": "Morgana",
+   "en": "This doctor's got quite an attitude, but[n]I guess he has the skill to back it up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD02P5R_Start_2nd_D#0",
+   "speaker": "Doctor Mouse",
+   "en": "Everybody lies. It's rodent nature.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD02P5R_Start_2nd_D_2#0",
+   "speaker": "Director Mouse",
+   "en": "Can you really save a patient...[n]Without even believing them!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD02P5R_Start_2nd_D_3#0",
+   "speaker": "Doctor Mouse",
+   "en": "Of course I can.[n]Just takes a little detective work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD02P5R_Start_2nd#0",
+   "speaker": null,
+   "en": "Though he faces opposition from[n]his peers, the doctor mouse holds[n]fast to his convictions...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD02P5R_Start_2nd#0",
+   "speaker": "Morgana",
+   "en": "He's a stubborn one, that mouse...[n]But you've gotta admit, he solves the[n]problem every time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD02P5R_done_1st#0",
+   "speaker": "Morgana",
+   "en": "He may not be the friendliest doctor,[n]but deep down, the only thing he cares[n]about is treating his patients.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD02P5R_done_1st#1",
+   "speaker": "Morgana",
+   "en": "Maybe you learned a thing or two about[n][stIcon 4][clr 26][stLabel 4][clr 27] from watching this[n]drama.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD02P5R_done_1st_M#0",
+   "speaker": null,
+   "en": "I feel like I've learned a bit about[n][stIcon 4][clr 26][stLabel 4][clr 27] from watching[n]this drama...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD02P5R_done_2nd#0",
+   "speaker": "Morgana",
+   "en": "So we finished watching \"Mouse M.D.,\"[n]huh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD02P5R_done_2nd#1",
+   "speaker": "Morgana",
+   "en": "Maybe you learned a thing or two about[n][stIcon 4][clr 26][stLabel 4][clr 27] from watching this[n]drama.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD02P5R_done_2nd_M#0",
+   "speaker": null,
+   "en": "I watched \"Mouse M.D.\"[n]to the end...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD02P5R_done_2nd_M#1",
+   "speaker": null,
+   "en": "I feel like I've learned a bit about[n][stIcon 4][clr 26][stLabel 4][clr 27] from watching[n]this drama...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD03P5R_Start_1ST_D#0",
+   "speaker": "Overbearing Editor",
+   "en": "If you want to live, put that pen to paper!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD03P5R_Start_1ST_D_2#0",
+   "speaker": "Starving Writer",
+   "en": "This is insane![n]How can I write all that in a single month!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD03P5R_Start_1ST_D_3#0",
+   "speaker": "Overbearing Editor",
+   "en": "Dammit, you're breakin' up...[n]I'll call back later!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD03P5R_Start_1ST#0",
+   "speaker": null,
+   "en": "It's a story about an editor[n]trying to rush a struggling writer[n]to meet his deadline...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD03P5R_Start_1ST#0",
+   "speaker": "Morgana",
+   "en": "That editor is terrifying... No one could[n]finish that many pages in such a short[n]time. Does he even stand a chance?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD03P5R_Start_2nd_D#0",
+   "speaker": "Overbearing Editor",
+   "en": "Well?[n]Where's the manuscript!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD03P5R_Start_2nd_D_2#0",
+   "speaker": "Starving Writer",
+   "en": "Ugh... I can't do this...[n]I'm done for.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD03P5R_Start_2nd_D_3#0",
+   "speaker": "Overbearing Editor",
+   "en": "Just keep writing![n]The president can still grant you amnesty!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD03P5R_Start_2nd#0",
+   "speaker": null,
+   "en": "The editor demanded a[n]manuscript, but the writer only[n]hung his head in defeat...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD03P5R_Start_2nd#0",
+   "speaker": "Morgana",
+   "en": "This is no time for writer's block! How is[n]he gonna make the deadline...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD03P5R_done_1st#0",
+   "speaker": "Morgana",
+   "en": "That writer was given an impossible[n]task, but he kept on writing until his[n]fingers bled.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD03P5R_done_1st#1",
+   "speaker": "Morgana",
+   "en": "Maybe you've learned a thing or two[n]about [stIcon 3][clr 26][stLabel 3][clr 27] from watching this[n]drama.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD03P5R_done_1st_M#0",
+   "speaker": null,
+   "en": "I feel like I've gained a bit of[n][stIcon 3][clr 26][stLabel 3][clr 27] from watching[n]this drama...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD03P5R_done_2nd#0",
+   "speaker": "Morgana",
+   "en": "So we finished watching \"31,\" huh...[n]We were pressed for time ourselves,[n]but we made it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD03P5R_done_2nd#1",
+   "speaker": "Morgana",
+   "en": "Maybe you've learned a thing or two[n]about [stIcon 3][clr 26][stLabel 3][clr 27] from watching this[n]drama.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD03P5R_done_2nd_M#0",
+   "speaker": null,
+   "en": "I watched \"31\" to the end...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD03P5R_done_2nd_M#1",
+   "speaker": null,
+   "en": "I feel like I've gained a bit of[n][stIcon 3][clr 26][stLabel 3][clr 27] from watching[n]this drama...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD04P5R_Start_1ST_D#0",
+   "speaker": "Calm Teacher",
+   "en": "I saw you practicing your swing.[n]Come on. Join the golf club.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD04P5R_Start_1ST_D_2#0",
+   "speaker": "Rebellious Student",
+   "en": "Ugh, you don't get it![n]Don't you know how stressed I am!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD04P5R_Start_1ST_D_3#0",
+   "speaker": "Calm Teacher",
+   "en": "I do get it.[n]Because you're just like me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD04P5R_Start_1ST#0",
+   "speaker": null,
+   "en": "It's a story about a teacher who recruits[n]a rag-tag group of misfits to restore[n]the tee club to its former glory...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD04P5R_Start_1ST#0",
+   "speaker": "Morgana",
+   "en": "He's not perfect, but he somehow[n]manages to bring out the best in every[n]student.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD04P5R_Start_2nd_D#0",
+   "speaker": "Rebellious Student",
+   "en": "I don't know about this...[n]What if I make a fool of myself on the course?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD04P5R_Start_2nd_D_2#0",
+   "speaker": "Calm Teacher",
+   "en": "You've been preparing for this day.[n]The only thing left to do... is win.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD04P5R_Start_2nd#0",
+   "speaker": null,
+   "en": "The teacher fired up his students,[n]who were getting nervous before[n]the golf tournament...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD04P5R_Start_2nd#0",
+   "speaker": "Morgana",
+   "en": "The teacher knows his students well...[n]He's giving different pep talks to each[n]of them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD04P5R_done_1st#0",
+   "speaker": "Morgana",
+   "en": "By carefully observing each student[n]individually, he can encourage the[n]group in the best way possible.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD04P5R_done_1st#1",
+   "speaker": "Morgana",
+   "en": "Maybe you learned a thing or two about[n][stIcon 2][clr 26][stLabel 2][clr 27] from watching this[n]drama.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD04P5R_done_1st_M#0",
+   "speaker": null,
+   "en": "I feel like I've learned a bit about[n][stIcon 2][clr 26][stLabel 2][clr 27] from watching[n]this drama...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD04P5R_done_2nd#0",
+   "speaker": "Morgana",
+   "en": "So we finished watching \"Tee,\" huh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD04P5R_done_2nd#1",
+   "speaker": "Morgana",
+   "en": "Maybe you learned a thing or two about[n][stIcon 2][clr 26][stLabel 2][clr 27] from watching this[n]drama.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD04P5R_done_2nd_M#0",
+   "speaker": null,
+   "en": "I watched \"Tee\" to the end...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD04P5R_done_2nd_M#1",
+   "speaker": null,
+   "en": "I feel like I've learned a bit about[n][stIcon 2][clr 26][stLabel 2][clr 27] from watching[n]this drama...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD_08#0",
+   "speaker": "Morgana",
+   "en": "We have [clr 2][var 0] days[clr 27] left until we have to[n]return this. Let's hurry and watch the[n]rest.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD_08_02#0",
+   "speaker": "Morgana",
+   "en": "How many days left until this is late?[n]Just [clr 2][var 0][clr 27], right? We better not forget to[n]return it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD_09#0",
+   "speaker": "Morgana",
+   "en": "Let's go return the DVD soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD_10#0",
+   "speaker": "Morgana",
+   "en": "Come to think of it, it's already past[n]the return date. We'd better take this[n]back soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD_11#0",
+   "speaker": null,
+   "en": "We left off at a good place...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD_18#0",
+   "speaker": "Morgana",
+   "en": "Oh! It's past the return date... Let's[n]hurry and either watch or return this[n]already.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD_20#0",
+   "speaker": null,
+   "en": "I don't have much time until[n]the return date. I better hurry[n]and watch the rest...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD_21#0",
+   "speaker": null,
+   "en": "It's already past the return[n]date... I'd better watch the[n]rest quickly, or return it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD_20_7#0",
+   "speaker": null,
+   "en": "The return date is in a week...[n]I'd better be careful not to forget.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD_20_02#0",
+   "speaker": null,
+   "en": "There's a little bit of time[n]until the return date, but I'd[n]better be careful not to forget...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD_24#0",
+   "speaker": null,
+   "en": "I need to go return[n]the DVD next time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD_END_MORU#0",
+   "speaker": "Morgana",
+   "en": "Well, it's starting to get late. Let's head[n]to bed soon, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD_END_NULL#0",
+   "speaker": null,
+   "en": "It's getting late...[n]I should head to bed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DVD_END_MORU_DAY#0",
+   "speaker": "Morgana",
+   "en": "We've been watching for a while. Let's[n]say we stop here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD_END_NULL_DAY#0",
+   "speaker": null,
+   "en": "Let's stop here and[n]do something else...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DVD_ParamBoost#0",
+   "speaker": null,
+   "en": "Thanks to [clr 3]The Craft of Cinema[clr 27],[n]I was able to enjoy the show[n]on a deeper level...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TEST_MONA2#0",
+   "speaker": "Morgana",
+   "en": "You've gone up a rank, haven't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEBUG_ZERO#0",
+   "speaker": "Morgana",
+   "en": "※There's a wrong value in the counter.[n]This text usually won't be displayed.※",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

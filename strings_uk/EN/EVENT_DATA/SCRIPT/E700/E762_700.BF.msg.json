@@ -1,0 +1,530 @@
+{
+ "file": "EN/EVENT_DATA/SCRIPT/E700/E762_700.BF",
+ "entries": [
+  {
+   "id": "MSG_045_0_0#0",
+   "speaker": "Morgana",
+   "en": "All right, [fName]! What equipment[n]did you want to use this time?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_046_0_0#0",
+   "speaker": null,
+   "en": "Let's use the bench press.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_046_0_0#1",
+   "speaker": null,
+   "en": "Let's use the treadmill.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_046_0_0#2",
+   "speaker": null,
+   "en": "Let's use the wooden dummy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_047_0_0#0",
+   "speaker": "Morgana",
+   "en": "All right, let's get started. Wait, did you[n]want a protein shake before your[n]workout?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_048_0_0#0",
+   "speaker": null,
+   "en": "Take [var 0].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_048_0_0#1",
+   "speaker": null,
+   "en": "Take [var 1].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_048_0_0#2",
+   "speaker": null,
+   "en": "Nothing",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_049_0_0#0",
+   "speaker": null,
+   "en": "Hrgh... This tastes horrible...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_050_0_0#0",
+   "speaker": null,
+   "en": "Hm, not bad...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051_0_0#0",
+   "speaker": "Morgana",
+   "en": "All right, good job, [fName]! Lift it![n]You can do it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051_0_0#1",
+   "speaker": "Morgana",
+   "en": "Push your muscles to the limit! And[n]then... Go a little past your limit!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_052_0_0#0",
+   "speaker": "Morgana",
+   "en": "Ah, good work! Well? Did you have[n]a good workout?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_052_0_0#1",
+   "speaker": "Morgana",
+   "en": "After all that exercise, I'm sure you[n]were able to develop more strength.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_0_0#0",
+   "speaker": "Morgana",
+   "en": "And maybe it's just the effect of that[n]protein shake, but... You are looking[n]manly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_054_0_0#0",
+   "speaker": "Morgana",
+   "en": "Ah, you're going at a good pace,[n][fName]! You seem to be on a[n]roll today!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_054_0_0#1",
+   "speaker": "Morgana",
+   "en": "So, how about we kick it up a notch?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_055_0_0#0",
+   "speaker": null,
+   "en": "I'm game!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_055_0_0#1",
+   "speaker": null,
+   "en": "I'd rather not...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_056_0_0#0",
+   "speaker": "Morgana",
+   "en": "I see. Well, it's not always good to[n]push yourself too hard, anyway.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_057_0_0#0",
+   "speaker": "Morgana",
+   "en": "Whoooa! Amazing! That's the spirit,[n][fName]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_057_0_0#1",
+   "speaker": "Morgana",
+   "en": "You look so glorious right now![n]Shining and glorious like the sun!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_058_0_0#0",
+   "speaker": "Morgana",
+   "en": "Good work. Maybe you pushed yourself[n]a bit too hard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_058_0_0#1",
+   "speaker": "Morgana",
+   "en": "Though, I'm sure everything you've[n]done will pay off.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_059_0_0#0",
+   "speaker": "Morgana",
+   "en": "...However, I doubt you'll see any effect[n]from that protein.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_060_0_0#0",
+   "speaker": "Morgana",
+   "en": "That was amazing, [fName]! I never[n]thought you could work out so hard!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_060_0_0#1",
+   "speaker": "Morgana",
+   "en": "I bet your training results will be[n]better than usual this time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_061_0_0#0",
+   "speaker": "Morgana",
+   "en": "Maybe it's just the effect of that protein[n]shake, but... You are looking manly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_062_0_0#0",
+   "speaker": "Morgana",
+   "en": "All right, that's enough. We should[n]head home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_063_0_0#0",
+   "speaker": "Morgana",
+   "en": "Hey! What's wrong, [fName]!? I'm still[n]running just fine!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_063_0_0#1",
+   "speaker": "Morgana",
+   "en": "Run! Ruuuun! Don't stop until you[n]can pass meee!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_064_0_0#0",
+   "speaker": "Morgana",
+   "en": "Good work! You ran quite a lot![n]Was that a good workout for you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_064_0_0#1",
+   "speaker": "Morgana",
+   "en": "You really got a lot of exercise. I'm sure[n]you made gains, both physically and[n]mentally.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_065_0_0#0",
+   "speaker": "Morgana",
+   "en": "And maybe it's just the effect of that[n]protein shake, but... You are looking[n]manly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_066_0_0#0",
+   "speaker": "Morgana",
+   "en": "Wow, look at you, [fName]![n]You're running better than usual!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_066_0_0#1",
+   "speaker": "Morgana",
+   "en": "I still bet that I can beat your record...[n]Well? Wanna up the pace?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_067_0_0#0",
+   "speaker": null,
+   "en": "All right!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_067_0_0#1",
+   "speaker": null,
+   "en": "Nah, I'll go at my own pace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_068_0_0#0",
+   "speaker": "Morgana",
+   "en": "Huh...? Really? W-Well, I guess it's not[n]good to push yourself too much,[n]anyway.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_069_0_0#0",
+   "speaker": "Morgana",
+   "en": "Whoa! You're going at top speed!?[n]Wow, [fName]! You're so fast!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_069_0_0#1",
+   "speaker": "Morgana",
+   "en": "I'm about the only one who can[n]keep up with you! Go go go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_070_0_0#0",
+   "speaker": "Morgana",
+   "en": "Good work. Maybe you pushed[n]yourself a bit too much...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_070_0_0#1",
+   "speaker": "Morgana",
+   "en": "W-Well, I'm sure you can still expect[n]results for all the effort you put in[n]exercising.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_070_1_0#0",
+   "speaker": "Morgana",
+   "en": "G-Good work... Maybe... you pushed...[n]yourself too much...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_070_1_0#1",
+   "speaker": "Morgana",
+   "en": "Th-Though... I'm sure you can still...[n]expect results... for how much you[n]exercised...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_071_0_0#0",
+   "speaker": "Morgana",
+   "en": "...However, I doubt you'll see any effect[n]from that protein.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_071_1_0#0",
+   "speaker": "Morgana",
+   "en": "...However, I doubt... you'll see any[n]effect... from drinking that protein...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_072_0_0#0",
+   "speaker": "Morgana",
+   "en": "That was an amazing run, [fName]![n]You broke your record for distance[n]and pace!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_072_0_0#1",
+   "speaker": "Morgana",
+   "en": "You exercised so much, I'm sure you'll[n]get better results than usual today!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_073_0_0#0",
+   "speaker": "Morgana",
+   "en": "Maybe it's just the effect of that protein[n]shake, but... You are looking manly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_074_0_0#0",
+   "speaker": "Morgana",
+   "en": "All right, we've been here long enough.[n]Wanna go home?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_074_1_0#0",
+   "speaker": "Morgana",
+   "en": "I'm... so sorry about that... We've been[n]here long enough... Let's go home...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_075_0_0#0",
+   "speaker": "Morgana",
+   "en": "All right, punch! Kick! Don't forget[n]your defense!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_075_0_0#1",
+   "speaker": "Morgana",
+   "en": "Your opponent isn't some of wood![n]It's a powerful enemy! See it![n]See your enemy attacking youuuu!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_076_0_0#0",
+   "speaker": "Morgana",
+   "en": "Good work. Well, were you able to train[n]while visualizing your opponent?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_076_0_0#1",
+   "speaker": "Morgana",
+   "en": "If you did it properly, then I'm sure[n]you got trained mentally as well!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_077_0_0#0",
+   "speaker": "Morgana",
+   "en": "And maybe it's just the effect of that[n]protein shake, but... You are looking[n]manly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_078_0_0#0",
+   "speaker": "Morgana",
+   "en": "Wow, you're in top form today.[n]You're really fired up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_078_0_0#1",
+   "speaker": "Morgana",
+   "en": "All right, let's strike the iron while[n]it's hot! Let's ramp up the speed!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_079_0_0#0",
+   "speaker": null,
+   "en": "Let's do this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_079_0_0#1",
+   "speaker": null,
+   "en": "Nah, I'll go at my own pace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_080_0_0#0",
+   "speaker": "Morgana",
+   "en": "Huh...? Really? W-Well, I guess it's not[n]good to push yourself too much,[n]anyway.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_081_0_0#0",
+   "speaker": "Morgana",
+   "en": "Whoa! Nice work, [fName]! Your[n]movements are so smooth and[n]flowing! It's incredible!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_081_0_0#1",
+   "speaker": "Morgana",
+   "en": "You look just like an action movie star[n]right now! Keep it up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_082_0_0#0",
+   "speaker": "Morgana",
+   "en": "G-Good work. What's wrong? You didn't[n]hurt your fist, did you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_082_0_0#1",
+   "speaker": "Morgana",
+   "en": "I-I think I got overexcited and pushed[n]you too hard. Sorry...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_082_0_0#2",
+   "speaker": "Morgana",
+   "en": "E-Even so, I'm sure you'll see some[n]good results. I think...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_083_0_0#0",
+   "speaker": "Morgana",
+   "en": "...However, I doubt you'll see any effect[n]from that protein.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_084_0_0#0",
+   "speaker": "Morgana",
+   "en": "You were visualizing your opponent[n]so well, I saw him too! And your attack[n]combos were awesome!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_084_0_0#1",
+   "speaker": "Morgana",
+   "en": "That was a great training session,[n]so I think you'll gain much better[n]benefits than usual.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_085_0_0#0",
+   "speaker": "Morgana",
+   "en": "Maybe it's just the effect of that protein[n]shake, but... You are looking manly.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_086_0_0#0",
+   "speaker": "Morgana",
+   "en": "All right, we've been here long enough.[n]Wanna go home?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_090_0_0#0",
+   "speaker": null,
+   "en": "Your [clr 2]max HP[clr 27] increased by [clr 2][var 0][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_091_0_0#0",
+   "speaker": null,
+   "en": "Your [clr 2]max SP[clr 27] increased by [clr 2][var 1][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_100_0_0#0",
+   "speaker": "Morgana",
+   "en": "You've gone up a rank, haven't you?",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

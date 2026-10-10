@@ -1,0 +1,621 @@
+{
+ "file": "EN/FIELD/ENEMY/FEV550_000.BMD",
+ "entries": [
+  {
+   "id": "MSG_NML04_FIND_01_01#0",
+   "speaker": null,
+   "en": "Wh-Who goes there...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_FIND_01_02#0",
+   "speaker": null,
+   "en": "Who are you...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_FIND_01_03#0",
+   "speaker": null,
+   "en": "Wh-Who is it...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_FIND_01_04#0",
+   "speaker": null,
+   "en": "Th-Thieves...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_FIND_01_05#0",
+   "speaker": null,
+   "en": "Found strangers...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_PURSUE_01_01#0",
+   "speaker": null,
+   "en": "Halt! Halt![n]You cannot escape...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_PURSUE_01_02#0",
+   "speaker": null,
+   "en": "H-Halt![n]Thief...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_PURSUE_01_03#0",
+   "speaker": null,
+   "en": "Hrrrgh... Do not run...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_PURSUE_01_04#0",
+   "speaker": null,
+   "en": "You cannot escape...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_PURSUE_01_05#0",
+   "speaker": null,
+   "en": "Grave robbers...[n]Go away...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_LOST_01_01#0",
+   "speaker": null,
+   "en": "Hrrrgh...[n]Not here...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_LOST_01_02#0",
+   "speaker": null,
+   "en": "Hrrrm...[n]Gone... Where...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_LOST_01_03#0",
+   "speaker": null,
+   "en": "Hrrrgh...[n]Gone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_LOST_01_04#0",
+   "speaker": null,
+   "en": "Ehhh...?[n]Where... Where...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_LOST_01_05#0",
+   "speaker": null,
+   "en": "Gone...[n]Scary...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_NML_01_01#0",
+   "speaker": null,
+   "en": "Hrrrgh...[n]No one may pass...[n]No one...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_NML_01_02#0",
+   "speaker": null,
+   "en": "I stand guard...[n]I stand here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_NML_01_03#0",
+   "speaker": null,
+   "en": "No one may pass...[n]Never allowed...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_NML_01_04#0",
+   "speaker": null,
+   "en": "No one may pass...[n]I... protect...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_NML_01_05#0",
+   "speaker": null,
+   "en": "If someone passes...[n]I get in trouble.[n]Must protect...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_NML_01_06#0",
+   "speaker": null,
+   "en": "Don't want...[n]annoying people...[n]Trash...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_NML_01_07#0",
+   "speaker": null,
+   "en": "Electricity... important...[n]Life of machines...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_NML_01_08#0",
+   "speaker": null,
+   "en": "Cold... Red... It's all over...![n]This is the end...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_NML_01_09#0",
+   "speaker": null,
+   "en": "Don't want... bad[n]guys... Right...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_NML_01_10#0",
+   "speaker": null,
+   "en": "I told you so...[n]Why didn't you listen...?[n]Awful child...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_ALT_01_01#0",
+   "speaker": null,
+   "en": "Danger... They're here...[n]Must find, no matter what...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_ALT_01_02#0",
+   "speaker": null,
+   "en": "Theft... Not good...[n]Must find... Capture...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_ALT_01_03#0",
+   "speaker": null,
+   "en": "Hrrrgh... Where are you?[n]Come out...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_ALT_01_04#0",
+   "speaker": null,
+   "en": "Grave robbers... Bad guys...[n]Must find... Defeat...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_ALT_01_05#0",
+   "speaker": null,
+   "en": "No use... hiding...[n]Come out, come out...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_ALT_01_06#0",
+   "speaker": null,
+   "en": "No one's coming...[n]I don't need anyone...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_ALT_01_07#0",
+   "speaker": null,
+   "en": "Yes... I reset.[n]I'll have to...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_ALT_01_08#0",
+   "speaker": null,
+   "en": "Everything is trash...[n]Everything...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_ALT_01_09#0",
+   "speaker": null,
+   "en": "Dizzy... Dizzy...[n]Falling down...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_ALT_01_10#0",
+   "speaker": null,
+   "en": "So many of them...[n]I will play[n]with you all...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_REPORT_01_01#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_REPORT_01_02#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_REPORT_01_03#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_REPORT_01_04#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_REPORT_01_05#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_01_#0",
+   "speaker": null,
+   "en": "Hrrrgh... I will protect this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_01__2#0",
+   "speaker": null,
+   "en": "I will protect this...[n]It's my job...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_01__3#0",
+   "speaker": null,
+   "en": "Won't give this up...[n]Won't let them have it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_01__4#0",
+   "speaker": null,
+   "en": "This, important...[n]Important, I protect...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_01__5#0",
+   "speaker": null,
+   "en": "Cannot... let this go...[n]Must protect... protect...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_01#0",
+   "speaker": null,
+   "en": "I'll curse you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_01_2#0",
+   "speaker": null,
+   "en": "I'll chase you out...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_01_3#0",
+   "speaker": null,
+   "en": "Get out... Get out...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_01_4#0",
+   "speaker": null,
+   "en": "Curse the intruders...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_01_5#0",
+   "speaker": null,
+   "en": "Swift is heaven's vengeance...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_FREE_01_0#0",
+   "speaker": null,
+   "en": "Queen will not come out...[n]Not today, not tomorrow...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_FREE_01_0_2#0",
+   "speaker": null,
+   "en": "Hungry...[n]No food yet?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_FREE_01_0_3#0",
+   "speaker": null,
+   "en": "Put a new bandage on,[n]like that... My package[n]still hasn't arrived...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_FREE_01_0_4#0",
+   "speaker": null,
+   "en": "Surfing the net till the[n]crack of dawn... Hacking,[n]hijacking, always logged on...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_FREE_01_0_5#0",
+   "speaker": null,
+   "en": "Wahhh... The outside world[n]is scary...Too scary...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_FREE_01_0_6#0",
+   "speaker": null,
+   "en": "Whose voice is that?[n]No one wants me?[n]Delete?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_FREE_01_0_7#0",
+   "speaker": null,
+   "en": "Dizzy... Dizzy...[n]Falling down...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_FREE_01_0_8#0",
+   "speaker": null,
+   "en": "Cold... Red... It's all over![n]This is the end!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_FREE_01_0_9#0",
+   "speaker": null,
+   "en": "No one's coming...[n]I don't need anyone!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_FREE_01_1#0",
+   "speaker": null,
+   "en": "Yes... I'll reset.[n]I have to...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_FREE_01_1_2#0",
+   "speaker": null,
+   "en": "Did it... break?[n]That's... no fun...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_FREE_01_1_3#0",
+   "speaker": null,
+   "en": "Everything is trash...[n]Everything...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_FREE_01_1_4#0",
+   "speaker": null,
+   "en": "Electricity... important...[n]Life of machines...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_FREE_01_1_5#0",
+   "speaker": null,
+   "en": "Someone's there...[n]Must protect the queen...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_FREE_01_1_6#0",
+   "speaker": null,
+   "en": "Don't want... bad[n]guys... Right...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_FREE_01_1_7#0",
+   "speaker": null,
+   "en": "I told you so...[n]Why didn't you listen...?[n]Awful child...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_FREE_01_1_8#0",
+   "speaker": null,
+   "en": "I know, no one's really there...[n]I know, I know...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_FREE_01_1_9#0",
+   "speaker": null,
+   "en": "Is that...? Finally...[n]Someone came...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_FREE_01_1_10#0",
+   "speaker": null,
+   "en": "Don't want...[n]annoying people...[n]Trash...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_FREE_01_2#0",
+   "speaker": null,
+   "en": "So many of them...[n]I will play with you all...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_FIND_02_01#0",
+   "speaker": null,
+   "en": "Woof![n]Woof woof!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_FIND_02_02#0",
+   "speaker": null,
+   "en": "Awoooooo!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_FIND_02_03#0",
+   "speaker": null,
+   "en": "Woof woof woof!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_PURSUE_02_01#0",
+   "speaker": null,
+   "en": "Woof![n]Woof woof!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_PURSUE_02_02#0",
+   "speaker": null,
+   "en": "Grrrrrr...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_PURSUE_02_03#0",
+   "speaker": null,
+   "en": "Woof![n]Grrr... Woof!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_LOST_02_01#0",
+   "speaker": null,
+   "en": "Woof! Woof!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_LOST_02_02#0",
+   "speaker": null,
+   "en": "Arf!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_LOST_02_03#0",
+   "speaker": null,
+   "en": "Grrrrr...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_NML_02_01#0",
+   "speaker": null,
+   "en": "*sniff* *sniff*",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_NML_02_02#0",
+   "speaker": null,
+   "en": "*pant* *pant* *pant*",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_NML_02_03#0",
+   "speaker": null,
+   "en": "Rrr... Rowr...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_ALT_02_01#0",
+   "speaker": null,
+   "en": "*sniff* *sniff*[n]Woof... Rowr...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_ALT_02_02#0",
+   "speaker": null,
+   "en": "Awoooooo!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML04_MNLG_ALT_02_03#0",
+   "speaker": null,
+   "en": "Woof![n]*sniff* *sniff*",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_02_#0",
+   "speaker": null,
+   "en": "Grrrrr...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_02__2#0",
+   "speaker": null,
+   "en": "*sniff* *sniff*[n]Woof woof!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_02__3#0",
+   "speaker": null,
+   "en": "*pant* *pant* *pant*",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

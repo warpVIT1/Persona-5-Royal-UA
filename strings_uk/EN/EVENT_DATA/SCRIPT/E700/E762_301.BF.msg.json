@@ -1,0 +1,684 @@
+{
+ "file": "EN/EVENT_DATA/SCRIPT/E700/E762_301.BF",
+ "entries": [
+  {
+   "id": "MSG_MOVIE01_MORU_01#0",
+   "speaker": "Morgana",
+   "en": "How does a little kid like him have[n]guts like that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE01_MORU_02#0",
+   "speaker": "Morgana",
+   "en": "Whoa, that kid seriously has guts...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE01_MIND#0",
+   "speaker": null,
+   "en": "I could really feel the[n]courage of that boy and[n]his attitude towards life...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE01_MIND_Book#0",
+   "speaker": null,
+   "en": "I could really feel the[n]courage of that boy and[n]his attitude towards life...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE01_MIND_Book#1",
+   "speaker": null,
+   "en": "Thanks to [clr 3]The Craft of Cinema[clr 27],[n]I was able to enjoy the film[n]on a deeper level...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE02_MORU_01#0",
+   "speaker": "Morgana",
+   "en": "Everything about this movie...[n]It's absolutely ridiculous.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE02_MORU_01#1",
+   "speaker": "Morgana",
+   "en": "But the protagonist's passion to fight[n]for his friend, that really touched me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE02_MORU_02#0",
+   "speaker": "Morgana",
+   "en": "Somehow, I felt touched by[n]the protagonist's passion...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE02_MIND#0",
+   "speaker": null,
+   "en": "I feel like I was able[n]to learn how to be more[n]compassionate to others...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE02_MIND_Book#0",
+   "speaker": null,
+   "en": "I feel like I was able[n]to learn how to be more[n]compassionate to others...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE02_MIND_Book#1",
+   "speaker": null,
+   "en": "Thanks to [clr 3]The Craft of Cinema[clr 27],[n]I was able to enjoy the film[n]on a deeper level...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE02_MIND_Friend#0",
+   "speaker": null,
+   "en": "I feel like I was able[n]to learn how to be more[n]compassionate to others...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE02_MIND_Friend#1",
+   "speaker": null,
+   "en": "With Ryuji next to me,[n]the movie was almost as fresh[n]as the first time I saw it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE02_MIND_Book_Fr#0",
+   "speaker": null,
+   "en": "I feel like I was able[n]to learn how to be more[n]compassionate to others...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE02_MIND_Book_Fr#1",
+   "speaker": null,
+   "en": "With Ryuji next to me,[n]the movie was almost as fresh[n]as the first time I saw it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE02_MIND_Book_Fr#2",
+   "speaker": null,
+   "en": "Thanks to [clr 3]The Craft of Cinema[clr 27],[n]I was able to enjoy the film[n]on a deeper level...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE03_MORU_1ST_Wit#0",
+   "speaker": "Morgana",
+   "en": "Lady Ann's holding back her tears...[n]She's totally empathizing...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE03_MORU_1ST_Wit#1",
+   "speaker": "Morgana",
+   "en": "But the movie's right—a person's true[n]value isn't about social standing or[n]wealth.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE03_MORU_1ST_Onl#0",
+   "speaker": "Morgana",
+   "en": "The movie's right—a person's true[n]value isn't about social standing or[n]wealth.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE03_MORU_Common_#0",
+   "speaker": "Morgana",
+   "en": "Lady Ann's holding back her tears...[n]She's totally empathizing...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE03_MORU_Common_#1",
+   "speaker": "Morgana",
+   "en": "A person's true value... It comes from[n]love after all...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE03_MORU_Common__2#0",
+   "speaker": "Morgana",
+   "en": "A person's true value... It comes from[n]love after all...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE03_MIND#0",
+   "speaker": null,
+   "en": "I feel like I was able[n]to learn about love...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE03_MIND_Book#0",
+   "speaker": null,
+   "en": "I feel like I was able[n]to learn about love...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE03_MIND_Book#1",
+   "speaker": null,
+   "en": "Thanks to [clr 3]The Craft of Cinema[clr 27],[n]I was able to enjoy the film[n]on a deeper level...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE03_MIND_Friend#0",
+   "speaker": null,
+   "en": "I feel like I was able[n]to learn about love...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE03_MIND_Friend#1",
+   "speaker": null,
+   "en": "With Ann next to me,[n]the movie was almost as fresh[n]as the first time I saw it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE03_MIND_Book_Fr#0",
+   "speaker": null,
+   "en": "I feel like I was able[n]to learn about love...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE03_MIND_Book_Fr#1",
+   "speaker": null,
+   "en": "With Ann next to me,[n]the movie was almost as fresh[n]as the first time I saw it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE03_MIND_Book_Fr#2",
+   "speaker": null,
+   "en": "Thanks to [clr 3]The Craft of Cinema[clr 27],[n]I was able to enjoy the film[n]on a deeper level...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE04_MORU_01#0",
+   "speaker": "Morgana",
+   "en": "That bishop guy is too much. He should[n]cut the other guy some slack...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE04_MORU_02#0",
+   "speaker": "Morgana",
+   "en": "Does that bishop guy have a grudge[n]against the other guy or something?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE04_MIND#0",
+   "speaker": null,
+   "en": "I feel like I was able[n]to learn how to be more[n]compassionate to others...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE04_MIND_Book#0",
+   "speaker": null,
+   "en": "I feel like I was able[n]to learn how to be more[n]compassionate to others...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE04_MIND_Book#1",
+   "speaker": null,
+   "en": "Thanks to [clr 3]The Craft of Cinema[clr 27],[n]I was able to enjoy the film[n]on a deeper level...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE04_MIND_Friend#0",
+   "speaker": null,
+   "en": "I feel like I was able[n]to learn how to be more[n]compassionate to others...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE04_MIND_Friend#1",
+   "speaker": null,
+   "en": "With Yusuke next to me,[n]the movie was almost as fresh[n]as the first time I saw it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE04_MIND_Book_Fr#0",
+   "speaker": null,
+   "en": "I feel like I was able[n]to learn how to be more[n]compassionate to others...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE04_MIND_Book_Fr#1",
+   "speaker": null,
+   "en": "With Yusuke next to me,[n]the movie was almost as fresh[n]as the first time I saw it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE04_MIND_Book_Fr#2",
+   "speaker": null,
+   "en": "Thanks to [clr 3]The Craft of Cinema[clr 27],[n]I was able to enjoy the film[n]on a deeper level...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE05_MORU_01#0",
+   "speaker": "Morgana",
+   "en": "Whoa, he's climbing up those glass[n]windows so effortlessly. That guy is[n]too skilled...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE05_MORU_02#0",
+   "speaker": "Morgana",
+   "en": "You know, he'd die if he fell. That man's[n]skill is incredible...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE05_MIND#0",
+   "speaker": null,
+   "en": "I was able to[n]learn a dexterous[n]infiltration technique...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE05_MIND_Book#0",
+   "speaker": null,
+   "en": "I was able to[n]learn a dexterous[n]infiltration technique...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE05_MIND_Book#1",
+   "speaker": null,
+   "en": "Thanks to [clr 3]The Craft of Cinema[clr 27],[n]I was able to enjoy the film[n]on a deeper level...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE06_MORU_01#0",
+   "speaker": "Morgana",
+   "en": "We all have those—the words you want[n]to tell someone, but they just won't[n]come out...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE06_MORU_02#0",
+   "speaker": "Morgana",
+   "en": "He's thinking about his girlfriend,[n]even in that kind of place. What an[n]admirable guy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE06_MIND#0",
+   "speaker": null,
+   "en": "I feel like I was able[n]to learn how to be more[n]compassionate to others...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE06_MIND_Book#0",
+   "speaker": null,
+   "en": "I feel like I was able[n]to learn how to be more[n]compassionate to others...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE06_MIND_Book#1",
+   "speaker": null,
+   "en": "Thanks to [clr 3]The Craft of Cinema[clr 27],[n]I was able to enjoy the film[n]on a deeper level...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE14_MORU_01#0",
+   "speaker": "Morgana",
+   "en": "All in all, they make a great pair. It's[n]always nice to see someone going[n]the extra mile for a friend.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE14_MORU_02#0",
+   "speaker": "Morgana",
+   "en": "But man, that one bee is quite an airhead.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE14_MIND#0",
+   "speaker": null,
+   "en": "I feel I've learned so much[n]more about life...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE14_MIND_Book#0",
+   "speaker": null,
+   "en": "I feel I've learned so much[n]more about life...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE14_MIND_Book#1",
+   "speaker": null,
+   "en": "Thanks to [clr 3]The Craft of Cinema[clr 27],[n]I was able to enjoy the film[n]on a deeper level...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RYUJI_1#0",
+   "speaker": "Ryuji",
+   "en": "Damn, I might've teared up a lil bit.[n]These revenge movies really make[n]me feel, y'know?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RYUJI_1#1",
+   "speaker": "Ryuji",
+   "en": "How 'bout you? Don't these revenge[n]movies make you feel somethin'?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_RYUJI_1#0",
+   "speaker": null,
+   "en": "They do.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_RYUJI_1#1",
+   "speaker": null,
+   "en": "Not at all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RYUJI_2#0",
+   "speaker": "Ryuji",
+   "en": "Right!? This kinda thing is what the[n]Phantom Thieves are doin' too!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RYUJI_3#0",
+   "speaker": "Ryuji",
+   "en": "Yeah? But isn't it cool doin' somethin'[n]for the sake of others? It's what us[n]Phantom Thieves do!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RYUJI_4#0",
+   "speaker": "Ryuji",
+   "en": "Aight, let's get goin'. It was fun kickin' it[n]with you today!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_1#0",
+   "speaker": "Ann",
+   "en": "Ohh... I used up two packs of pocket[n]tissues...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_1#1",
+   "speaker": "Ann",
+   "en": "I guess girls like me want that perfect,[n]romantic kind of love you see in the[n]movies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_ANNE_1#0",
+   "speaker": null,
+   "en": "I see...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_ANNE_1#1",
+   "speaker": null,
+   "en": "Understandable.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_2#0",
+   "speaker": "Ann",
+   "en": "Ahaha, sorry. I guess I let myself get a bit[n]carried away.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_2#1",
+   "speaker": "Ann",
+   "en": "I guess it's just easy for me to talk about[n]this kind of stuff with you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_3#0",
+   "speaker": "Ann",
+   "en": "*giggle* Thanks for going along with it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_4#0",
+   "speaker": "Ann",
+   "en": "Now that I think about it, that movie[n]wasn't geared toward guys at all, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_4#1",
+   "speaker": "Ann",
+   "en": "But I'm glad you came with me![n]You're such a good friend!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ANNE_4#2",
+   "speaker": "Ann",
+   "en": "Well then, let's head home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUSUKE_1#0",
+   "speaker": "Yusuke",
+   "en": "The amount of artistry and effort[n]they put into the stage set... It's truly[n]astounding!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUSUKE_1#1",
+   "speaker": "Yusuke",
+   "en": "Oh, forgive me. I can't help but focus[n]more on the visual aspect than on[n]that storyline.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_YUSUKE_1#0",
+   "speaker": null,
+   "en": "I don't mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_YUSUKE_1#1",
+   "speaker": null,
+   "en": "You're so eccentric.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUSUKE_2#0",
+   "speaker": "Yusuke",
+   "en": "Thanks. Well, I already understand that[n]you're not the type to feel offended by[n]such matters.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUSUKE_3#0",
+   "speaker": "Yusuke",
+   "en": "*chuckle* I'm aware of that, but I've[n]never considered changing that about[n]myself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUSUKE_4#0",
+   "speaker": "Yusuke",
+   "en": "Thank you for today. The time we spent[n]together felt worthwhile.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YUSUKE_4#1",
+   "speaker": "Yusuke",
+   "en": "Well then, let's head home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE_END#0",
+   "speaker": "Morgana",
+   "en": "All right, let's go home. I'm exhausted[n]after sitting around for so long...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE_END_1#0",
+   "speaker": null,
+   "en": "We even watched the credits[n]all the way to the very end...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MOVIE_END_2#0",
+   "speaker": "Morgana",
+   "en": "All right, let's go home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TEST_MONA2#0",
+   "speaker": "Morgana",
+   "en": "You've gone up a rank, haven't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEBUG#0",
+   "speaker": "Debug",
+   "en": "Character Select",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#0",
+   "speaker": null,
+   "en": "Morgana",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#1",
+   "speaker": null,
+   "en": "Ryuji",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#2",
+   "speaker": null,
+   "en": "Ann",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#3",
+   "speaker": null,
+   "en": "Yusuke",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEBUG_2#0",
+   "speaker": "Debug 2",
+   "en": "Movie Selection",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_2#0",
+   "speaker": null,
+   "en": "Tanktop Millionaire",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_2#1",
+   "speaker": null,
+   "en": "The Cake Knight Rises",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_2#2",
+   "speaker": null,
+   "en": "Love Possibly",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_2#3",
+   "speaker": null,
+   "en": "Le Misérable",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_2#4",
+   "speaker": null,
+   "en": "Admission Impossible",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_2#5",
+   "speaker": null,
+   "en": "Clean Hard",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_2#6",
+   "speaker": null,
+   "en": "Finding Beemo",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

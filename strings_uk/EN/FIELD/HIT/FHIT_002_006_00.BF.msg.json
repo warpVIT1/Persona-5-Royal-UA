@@ -1,0 +1,747 @@
+{
+ "file": "EN/FIELD/HIT/FHIT_002_006_00.BF",
+ "entries": [
+  {
+   "id": "DUMMY_MSG#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_place#0",
+   "speaker": "Morgana",
+   "en": "You don't need to be here right now, do[n]you? Come on, let's head somewhere else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_etc#0",
+   "speaker": "Morgana",
+   "en": "What's wrong? Come on, we should go say[n]goodbye to the others!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Desk_Convini_NOWcast#0",
+   "speaker": "Morgana",
+   "en": "There are so many snacks in here...[n]Is someone gonna have a party?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Desk_Convini_NOWcast#1",
+   "speaker": "Morgana",
+   "en": "Oooh, we should have a big party too[n]if we complete our mission!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Desk_Convini_EndCast#0",
+   "speaker": "Morgana",
+   "en": "There are so many snacks in here...[n]It kinda makes me want to go back[n]to that extravagant buffet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DESK_CONVENI#0",
+   "speaker": null,
+   "en": "There are a ton of snacks in this[n]convenience store bag...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SportBug#0",
+   "speaker": "Morgana",
+   "en": "Wow, these shoes are really beat up...[n]What do the sports teams here make[n]you guys do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_DESK_SPORTBAG#0",
+   "speaker": null,
+   "en": "There's a pair of worn-out athletic[n]shoes inside. They look like they've[n]seen their fair share of action...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_KFEVT_Maf#0",
+   "speaker": "Morgana",
+   "en": "You can worry about the blackboard later.[n]We don't have time now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BLACKBOARD_NotOpen#0",
+   "speaker": null,
+   "en": "The blackboard is so clean...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_NotOpen#0",
+   "speaker": "Morgana",
+   "en": "Hey, have you ever heard the sound[n]of claws scraping on a blackboard?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD#0",
+   "speaker": "Morgana",
+   "en": "This is the blackboard you use for class,[n]right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD#1",
+   "speaker": "Morgana",
+   "en": "Why don't you try drawing the Phantom[n]Thieves logo? I bet it would look really[n]cool!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BLACKBOARD#0",
+   "speaker": null,
+   "en": "I got this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BLACKBOARD#1",
+   "speaker": null,
+   "en": "That sounds tough...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_After#0",
+   "speaker": "Morgana",
+   "en": "Do you want to try drawing the Phantom[n]Thieves logo?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BLACKBOARD_After#0",
+   "speaker": null,
+   "en": "I'll give it a try.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BLACKBOARD_After#1",
+   "speaker": null,
+   "en": "Nah.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_CANCEL#0",
+   "speaker": "Morgana",
+   "en": "Aw, man... I was really looking forward to[n]seeing you try.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_OK#0",
+   "speaker": "Morgana",
+   "en": "That's the spirit!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_WRITE#0",
+   "speaker": "Morgana",
+   "en": "This is a good way to tell how popular[n]we are. You should try drawing it again[n]some other time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_WRITE#1",
+   "speaker": "Morgana",
+   "en": "But for now... let's erase it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_WRITE_Aft#0",
+   "speaker": "Morgana",
+   "en": "Okay, make sure it's totally erased.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0#0",
+   "speaker": "Students",
+   "en": "...What's this thing?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0#1",
+   "speaker": "Students",
+   "en": "Prolly some kinda prank by those[n]\"phantom thieves\" or whatever...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0#2",
+   "speaker": "Students",
+   "en": "Did he draw this? Who's he trying[n]to impress?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0#3",
+   "speaker": "Students",
+   "en": "Wait, does he seriously think they exist?[n]That's kinda embarrassing...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_2#0",
+   "speaker": "Students",
+   "en": "Hey, it's the Phantom Thieves logo...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_2#1",
+   "speaker": "Students",
+   "en": "I kinda thought they were fake, but[n]maybe they do exist after all...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_2#2",
+   "speaker": "Students",
+   "en": "Y'know, that logo's actually pretty cool.[n]Did he draw that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_2#3",
+   "speaker": "Students",
+   "en": "Is he a fan of theirs? I never would've[n]expected it from a stern guy like him...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_3#0",
+   "speaker": "Students",
+   "en": "Whoa, it's the Phantom Thieves logo!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_3#1",
+   "speaker": "Students",
+   "en": "I've seen it in Shibuya before too![n]It's like, totally cool.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_3#2",
+   "speaker": "Students",
+   "en": "I hope they keep it up. I've been rooting[n]for them this whole time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_3#3",
+   "speaker": "Students",
+   "en": "Aren't they incredible? I heard they're really[n]gaining momentum.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_3#4",
+   "speaker": "Students",
+   "en": "By the way, this is a damn good drawing.[n]Is [lName] a Phanboy?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_4#0",
+   "speaker": "Students",
+   "en": "Oooh, it's the Phantom Thieves logo!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_4#1",
+   "speaker": "Students",
+   "en": "I've been seeing it everywhere I go lately.[n]I really wanna buy some P-Thieves[n]merchandise!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_4#2",
+   "speaker": "Students",
+   "en": "Just looking at that glorious logo makes me[n]feel a little braver. Those guys are seriously[n]awesome!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_4#3",
+   "speaker": "Students",
+   "en": "Man, this is crazy cool. I'm gonna take[n]a picture!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_4#4",
+   "speaker": "Students",
+   "en": "[lName] drew it, right? It's like, the best[n]drawing I've ever seen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_4#5",
+   "speaker": "Students",
+   "en": "I can feel the adrenaline rushing through[n]my veins! Nice going, [lName]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_5#0",
+   "speaker": "Students",
+   "en": "There it is! The Phantom Thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_5#1",
+   "speaker": "Students",
+   "en": "It's like, totally perfect.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_5#2",
+   "speaker": "Students",
+   "en": "So [lName]'s part of the Phandom too?[n]Awesome!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_5#3",
+   "speaker": "Students",
+   "en": "It kinda feels like the Phantom Thieves are[n]gods or something. They're fighting for all[n]of us!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_5#4",
+   "speaker": "Students",
+   "en": "I wish they'd pick up the pace though.[n]I can't wait much longer!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_5#5",
+   "speaker": "Students",
+   "en": "They should just get moving on that[n]shithead executive! Enough loafing[n]around!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_5#6",
+   "speaker": "Students",
+   "en": "Phantom Thieves! Phantom Thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_6#0",
+   "speaker": "Students",
+   "en": "Ahhh, the Phantom Thieves...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_6#1",
+   "speaker": "Students",
+   "en": "President Okumura died 'cause of[n]the Phantom Thieves, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_6#2",
+   "speaker": "Students",
+   "en": "I heard they're behind all the weird[n]shit that's been going on... They tricked[n]us good, huh...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_6#3",
+   "speaker": "Students",
+   "en": "Does that guy not watch the news or[n]something? Way to bring the mood[n]down...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_7#0",
+   "speaker": "Students",
+   "en": "Ugh... Why's this here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_7#1",
+   "speaker": "Students",
+   "en": "Even if it's a joke, I don't wanna see it.[n]That shit's a straight-up terrorist logo.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_7#2",
+   "speaker": "Students",
+   "en": "I feel sick... Maybe [lName][n]IS dangerous after all?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_8#0",
+   "speaker": "Students",
+   "en": "What the hell...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_8#1",
+   "speaker": "Students",
+   "en": "He's seriously still going on about[n]the Phantom Thieves?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_8#2",
+   "speaker": "Students",
+   "en": "What a hopeless idiot... He's stuck in[n]some kinda dream world.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_9#0",
+   "speaker": "Students",
+   "en": "Oh yeah, they got really popular for a[n]while...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_9#1",
+   "speaker": "Students",
+   "en": "Man, this artist really likes the Thieves,[n]huh...? But this drawing's way too big...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_9#2",
+   "speaker": "Students",
+   "en": "Oh, I remember this logo! The Bandits,[n]right? ...Wait, was that even their name?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_0_9#3",
+   "speaker": "Students",
+   "en": "I wonder what they're doing now...[n]Anyway! So, yesterday...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_P#0",
+   "speaker": "Students",
+   "en": "Dude, why's he drawing this shit?[n]Is he brave... or just an idiot?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BLACKBOARD_Student_P#1",
+   "speaker": "Students",
+   "en": "Come to think of it, isn't he notorious?[n]He's got guts...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BlackBoard_Think01#0",
+   "speaker": "Morgana",
+   "en": "They're just treating us like some kinda[n]joke... Nobody believes in our existence...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BlackBoard_Think02#0",
+   "speaker": "Morgana",
+   "en": "Our name's starting to get out there.[n]I'm excited to see what happens next!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BlackBoard_Think03#0",
+   "speaker": "Morgana",
+   "en": "I think our popularity's rising! We're[n]really starting to get famous!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BlackBoard_Think04#0",
+   "speaker": "Morgana",
+   "en": "Our fame is going through the roof![n]Where's it gonna stop?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BlackBoard_Think05#0",
+   "speaker": "Morgana",
+   "en": "I never thought we'd get so popular...[n]This is pandemonium! Or should I say[n]Phandemonium...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BlackBoard_Think06#0",
+   "speaker": "Morgana",
+   "en": "They're treating us like villains or[n]something... Damn it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BlackBoard_Think07#0",
+   "speaker": "Morgana",
+   "en": "They seriously despise us... This is too much[n]to handle...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BlackBoard_Think08#0",
+   "speaker": "Morgana",
+   "en": "They're not responding well to this[n]at all... Something's wrong...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BlackBoard_Think09#0",
+   "speaker": "Morgana",
+   "en": "They don't seem too interested...[n]I guess that's to be expected with[n]things as they are now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BackBlackBoard_Think#0",
+   "speaker": "Morgana",
+   "en": "Wait... is this supposed to be the[n]Phantom Thieves logo?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BackBlackBoard_Think#1",
+   "speaker": "Morgana",
+   "en": "It looks kinda dumb...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BackBlackBoard_Think_2#0",
+   "speaker": "Morgana",
+   "en": "Wow, this looks just like Madarame. I guess[n]everyone saw his press conference.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BackBlackBoard_Think_3#0",
+   "speaker": "Morgana",
+   "en": "Everyone here is definitely on the Akechi[n]bandwagon. They even gave him all those[n]nice sparkles...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BackBlackBoard_Think_4#0",
+   "speaker": "Morgana",
+   "en": "People are really starting to support us![n]The logo's a little bit off though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BackBlackBoard_Think_5#0",
+   "speaker": "Morgana",
+   "en": "There's a real competitive mood here.[n]We need to do something about this,[n]don't you think?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BackBlackBoard_Think_6#0",
+   "speaker": "Morgana",
+   "en": "We've gotten really popular! People can't[n]wait to see what we're gonna do next.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BackBlackBoard_Think_7#0",
+   "speaker": "Morgana",
+   "en": "People clearly want us to take care of[n]Okumura... Can't you feel the weight[n]of their expectations?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BackBlackBoard_Think_8#0",
+   "speaker": "Morgana",
+   "en": "People are saying that Akechi was right[n]about us all along... Come on, we need[n]to prove our innocence.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BackBlackBoard_Think_9#0",
+   "speaker": "Morgana",
+   "en": "We can't let people just keep making fun of[n]us like this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BackBlackBoard_Think_10#0",
+   "speaker": "Morgana",
+   "en": "They're still treating us like garbage...[n]Wait, who's that face supposed to be?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BackBlackBoard_Think_11#0",
+   "speaker": "Morgana",
+   "en": "Everyone knows what's up with Shido,[n]right? Yet somehow he's still gonna be[n]prime minister...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BackBlackBoard_Think_11#1",
+   "speaker": "Morgana",
+   "en": "Something's definitely off here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BackBlackBoard_Think_12#0",
+   "speaker": "Morgana",
+   "en": "Don't you think the classroom's vibe feels[n]different? Maybe it's because of Maruki's[n]power...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BackCRBoard_Start#0",
+   "speaker": null,
+   "en": "The schedule for the month[n]is written on the board...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BackCRBoard_04#0",
+   "speaker": null,
+   "en": "It says we have the volleyball[n]rally on April 13th.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BackCRBoard_05#0",
+   "speaker": null,
+   "en": "It says we have midterm exams[n]from May 11th to May 14.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BackCRBoard_15#0",
+   "speaker": null,
+   "en": "It says we have midterm exams[n]from May 11th to May 14.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BackCRBoard_15#1",
+   "speaker": null,
+   "en": "The cleanup is on May 30th... I think.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BackCRBoard_16#0",
+   "speaker": null,
+   "en": "It says we have midterm exams[n]from May 11th to May 14.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BackCRBoard_16#1",
+   "speaker": null,
+   "en": "The cleanup is on May 30th... I think.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BackCRBoard_06#0",
+   "speaker": null,
+   "en": "It says we have our field trip[n]from June 9th to June 10th.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BackCRBoard_07#0",
+   "speaker": null,
+   "en": "It says we have first[n]semester finals from[n]July 13th to July 16.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BackCRBoard_09#0",
+   "speaker": null,
+   "en": "It says we have our school trip from[n]September 7th to September 11th.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BackCRBoard_10#0",
+   "speaker": null,
+   "en": "It says we have midterm exams[n]from October 17th to October 20th.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BackCRBoard_11#0",
+   "speaker": null,
+   "en": "There aren't any special[n]events for this month...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BackCRBoard_12#0",
+   "speaker": null,
+   "en": "It says we have second[n]semester finals from[n]December 20th to December 22nd.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BackCRBoard_13#0",
+   "speaker": null,
+   "en": "It seems there's no particular event[n]happening...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BackCRBoard_14#0",
+   "speaker": null,
+   "en": "It says we have final[n]semester finals from[n]February 6th to February 9th.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_KFEVT_COMMON_NG#0",
+   "speaker": null,
+   "en": "There's nothing I particularly[n]need to do here right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E24320100_000_00#0",
+   "speaker": "Morgana",
+   "en": "Hold on, we should stick to our battle[n]plan. How's Lady Ann doing?",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

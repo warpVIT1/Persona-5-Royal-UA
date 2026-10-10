@@ -1,0 +1,187 @@
+{
+ "file": "EN/INIT/MSG_COMBINE_LVUP.BMD",
+ "entries": [
+  {
+   "id": "FCL_PERSONA_YN#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_PERSONA_YN#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_PERSONA_LVUP#0",
+   "speaker": null,
+   "en": "[clr 1][var 0][clr 0] has leveled up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_PERSONA_PARAMUP#0",
+   "speaker": null,
+   "en": "[clr 1][var 0][clr 0]has increased by [clr 1][var 1][clr 0]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_PERSONA_GETSKILL#0",
+   "speaker": null,
+   "en": "[clr 1][var 0][clr 0] learned[n][clr 1][var 1][clr 0]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_PERSONA_RMSKILL#0",
+   "speaker": null,
+   "en": "This Persona cannot remember any[n]more skills. Please choose one to[n]forget.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_PERSONA_RMSKILL_Q#0",
+   "speaker": null,
+   "en": "Forget [clr 1][var 0][clr 0]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_PERSONA_RMSKILL0#0",
+   "speaker": null,
+   "en": "[clr 1][var 0][clr 0] has[n]forgotten[clr 1][var 1][clr 0].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_PERSONA_RMSKILL1#0",
+   "speaker": null,
+   "en": "[clr 1][var 1][clr 0] has[n]replaced [clr 1][var 0][clr 0].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_PERSONA_RMSKILL2#0",
+   "speaker": null,
+   "en": "[clr 1][var 1][clr 0] has[n]upgraded to [clr 1][var 1][clr 0]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_PERSONA_SKILLSHIFT#0",
+   "speaker": null,
+   "en": "...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_PERSONA_SKILLSHIFT#1",
+   "speaker": null,
+   "en": "Something is about to happen to[n][clr 1][var 1][clr 0].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_PERSONA_SKILLSHIFT#2",
+   "speaker": null,
+   "en": "Will you allow it to continue?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_PERSONA_SKILLSHIFTCA#0",
+   "speaker": null,
+   "en": "[clr 1][var 0][clr 0]let out a cry...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_PERSONA_SKILLSHIFTCH#0",
+   "speaker": null,
+   "en": "[clr 1][var 0][clr 0] has powered[n]up to [clr 1][var 1][clr 0]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_PERSONA_SKILLSHIFTUP#0",
+   "speaker": null,
+   "en": "[clr 1][var 0][clr 0] has changed[n]to [clr 1][var 1][clr 0]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_PERSONA_SHIFT#0",
+   "speaker": null,
+   "en": "[clr 1][var 0][clr 0] is[n]about to produce something.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_PERSONA_SHIFT#1",
+   "speaker": null,
+   "en": "Will you allow it to continue?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_PERSONA_SHIFTCANCEL#0",
+   "speaker": null,
+   "en": "The signs of change in[n][clr 1][var 0][clr 0]have disappeared.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_PERSONA_SHIFT1#0",
+   "speaker": null,
+   "en": "[clr 1][var 0][clr 0] produced[n][clr 1][var 1][clr 0]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_GET_SKILLCARD0#0",
+   "speaker": null,
+   "en": "...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_GET_SKILLCARD0#1",
+   "speaker": null,
+   "en": "[clr 1][var 0][clr 0]gave you something...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_GET_SKILLCARD1#0",
+   "speaker": null,
+   "en": "You obtained the Skill Card[n][clr 1][var 1][clr 0] from[n][clr 1][var 0][clr 0]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_SKILLCARD_TUTORIAL#0",
+   "speaker": null,
+   "en": "Skill Cards are items your Personas[n]can use to learn the skills sealed[n]within the cards.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_SKILLCARD_TUTORIAL#1",
+   "speaker": null,
+   "en": "A Skill Card will disappear once you[n]use it, but the skill it teaches can[n]be passed down through fusion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "FCL_MOVIE_BONUS#0",
+   "speaker": null,
+   "en": "Various bonuses were granted[n]by watching the movie!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

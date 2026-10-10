@@ -1,0 +1,425 @@
+{
+ "file": "EN/BATTLE/EVENT/SCRIPT/0314.BF",
+ "entries": [
+  {
+   "id": "MSG_BTLBOSSECT_900_000#0",
+   "speaker": "Morgana",
+   "en": "What is this attack!? One of mankind's...[n]deadly sins!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLBOSSECT_900_000#1",
+   "speaker": "Morgana",
+   "en": "Don't let your guard down until we[n]know what it does!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLBOSSECT_910_000#0",
+   "speaker": "Morgana",
+   "en": "He's doing a different attack! A different[n]deadly sin... What's this all mean?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLBOSSECT_920_000#0",
+   "speaker": "Morgana",
+   "en": "Another one!? It looks like this is how[n]his main body attacks...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLBOSSECT02_920_000#0",
+   "speaker": "Morgana",
+   "en": "He may keep switching up his moves![n]Let's be careful!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLBOSSECT_930_000#0",
+   "speaker": "Morgana",
+   "en": "It grew an arm!? And it has a gun!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLBOSSECT_940_000#0",
+   "speaker": "Morgana",
+   "en": "As long as it has extra arms, we'll keep[n]getting attacked. We should destroy[n]them all first!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLBOSSECT_950_000#0",
+   "speaker": "Morgana",
+   "en": "Another one!? Does it have a bell...?[n]Be careful—we have no idea what[n]it'll do!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLBOSSECT_960_000#0",
+   "speaker": "Morgana",
+   "en": "A sword this time? Getting hit by that[n]would be dangerous for sure...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLBOSSECT_970_000#0",
+   "speaker": "Morgana",
+   "en": "This one has a book! Don't let your[n]guard down!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLBOSSECT_000_000#0",
+   "speaker": "Yaldabaoth",
+   "en": "Rebels who dare defy my rule.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLBOSSECT_010_000#0",
+   "speaker": "Yaldabaoth",
+   "en": "...You shall perish.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLRECARM_000_006#0",
+   "speaker": "Futaba",
+   "en": "It regenerated!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLRECARM_010_006#0",
+   "speaker": "Futaba",
+   "en": "Looks like we're gonna have to take[n]down the main body first...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSHIKIYOKU_000_000#0",
+   "speaker": "Yaldabaoth",
+   "en": "I release upon you the deadly sin of[n]lust.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSHIKIYOKU_010_000#0",
+   "speaker": "Yaldabaoth",
+   "en": "You have no means of escape, humans.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSHIKIYOKU_010_000#1",
+   "speaker": "Yaldabaoth",
+   "en": "The insanity of mankind shall bring[n]forth the demise...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLKYOSYOKU_000_000#0",
+   "speaker": "Yaldabaoth",
+   "en": "I release upon you the deadly sin of[n]vanity.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLKYOSYOKU_010_000#0",
+   "speaker": "Yaldabaoth",
+   "en": "You have no means of escape, humans.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLKYOSYOKU_010_000#1",
+   "speaker": "Yaldabaoth",
+   "en": "The fraudulence of mankind shall bring[n]forth ruin...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLBOUSYOKU_000_000#0",
+   "speaker": "Yaldabaoth",
+   "en": "I release upon you the deadly sin of[n]gluttony.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLBOUSYOKU_010_000#0",
+   "speaker": "Yaldabaoth",
+   "en": "You have no means of escape, humans.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLBOUSYOKU_010_000#1",
+   "speaker": "Yaldabaoth",
+   "en": "The selfishness of mankind shall[n]bring forth ruin...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLHUNNU_000_000#0",
+   "speaker": "Yaldabaoth",
+   "en": "I release upon you the deadly sin of[n]wrath.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLHUNNU_010_000#0",
+   "speaker": "Yaldabaoth",
+   "en": "You have no means of escape, humans.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLHUNNU_010_000#1",
+   "speaker": "Yaldabaoth",
+   "en": "The passion of mankind shall bring[n]forth ruin...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLGOUYOKU_000_000#0",
+   "speaker": "Yaldabaoth",
+   "en": "I release upon you the deadly sin of[n]greed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLGOUYOKU_010_000#0",
+   "speaker": "Yaldabaoth",
+   "en": "You have no means of escape, humans.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLGOUYOKU_010_000#1",
+   "speaker": "Yaldabaoth",
+   "en": "The fixation of mankind shall bring[n]forth ruin...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSHITO_000_000#0",
+   "speaker": "Yaldabaoth",
+   "en": "I release upon you the deadly sin of[n]envy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSHITO_010_000#0",
+   "speaker": "Yaldabaoth",
+   "en": "You have no means of escape, humans.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLSHITO_010_000#1",
+   "speaker": "Yaldabaoth",
+   "en": "The resentment of mankind shall bring[n]forth ruin...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLGOUMAN_000_000#0",
+   "speaker": "Yaldabaoth",
+   "en": "I release upon you the deadly sin of[n]pride.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLGOUMAN_010_000#0",
+   "speaker": "Yaldabaoth",
+   "en": "You have no means of escape, humans.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLGOUMAN_010_000#1",
+   "speaker": "Yaldabaoth",
+   "en": "The ingratitude of mankind shall bring[n]forth ruin...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTAIDA_000_000#0",
+   "speaker": "Yaldabaoth",
+   "en": "The abyss of the unconscious yearns[n]for ultimate ruin...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTAIDA_010_000#0",
+   "speaker": "Yaldabaoth",
+   "en": "You have no means of escape, humans.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTAIDA_020_000#0",
+   "speaker": "Yaldabaoth",
+   "en": "Punishment shall strike you all...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLTAIDA_020_000#1",
+   "speaker": "Yaldabaoth",
+   "en": "As you pass through the gates of[n]destruction...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLCHARGE01_000_006#0",
+   "speaker": "Futaba",
+   "en": "Huh? What's this spike in energy!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLCHARGE01_010_006#0",
+   "speaker": "Futaba",
+   "en": "Some kind of insane attack's coming![n]Watch out!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLCHARGE02_000_006#0",
+   "speaker": "Futaba",
+   "en": "I'm getting a reading... coming from[n]the arm.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLCHARGE02_010_006#0",
+   "speaker": "Futaba",
+   "en": "Its arm is gathering energy!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLCHARGE02_020_006#0",
+   "speaker": "Futaba",
+   "en": "You might wanna do something about[n]the arm, ASAP!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLEND_000_000#0",
+   "speaker": "Yaldabaoth",
+   "en": "So... this is the power that resists ruin...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLEND_010_001#0",
+   "speaker": "Futaba",
+   "en": "Did we do it...!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLEND_020_006#0",
+   "speaker": "Futaba",
+   "en": "...No, not yet!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLEND_030_000#0",
+   "speaker": "Yaldabaoth",
+   "en": "My control shall not bow down to ruin.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLEND_040_000#0",
+   "speaker": "Yaldabaoth",
+   "en": "My control is the ultimate truth of[n]this world.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLEND_050_006#0",
+   "speaker": "Futaba",
+   "en": "Everyone!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLEND_060_000#0",
+   "speaker": "Yaldabaoth",
+   "en": "The children of men... are all sinners!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLEND_060_000#1",
+   "speaker": "Yaldabaoth",
+   "en": "In the name of absolute control...[n]you shall fall into ruin.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLEND_080_002#0",
+   "speaker": "Ryuji",
+   "en": "We can't... be beat like this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLEND_090_005#0",
+   "speaker": "Makoto",
+   "en": "If we lose...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLEND_100_003#0",
+   "speaker": "Ann",
+   "en": "I need to... get back up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLEND_120_006#0",
+   "speaker": "Futaba",
+   "en": "No... No more...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLEND_120_004#0",
+   "speaker": "Yusuke",
+   "en": "I can't move...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLEND_120_007#0",
+   "speaker": "Haru",
+   "en": "Is there nothing we can do...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLEND_130_000#0",
+   "speaker": "Yaldabaoth",
+   "en": "The children of men... are all sinners!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BTLEND_130_000#1",
+   "speaker": "Yaldabaoth",
+   "en": "In the name of absolute control...[n]you shall fall into ruin.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

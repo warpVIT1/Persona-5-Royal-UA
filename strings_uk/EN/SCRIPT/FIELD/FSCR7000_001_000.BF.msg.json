@@ -1,0 +1,264 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR7000_001_000.BF",
+ "entries": [
+  {
+   "id": "MSG_DUMMY#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_JuiceShop_NotOpen#0",
+   "speaker": null,
+   "en": "They sell fresh fruit juice here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_JuiceShop_NotOpen#1",
+   "speaker": null,
+   "en": "I should try it when I have time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_1stInfo_Aojiru_01#0",
+   "speaker": "Morgana",
+   "en": "A drink stand, huh? It's a little pricier[n]than other places.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_1stInfo_Aojiru_01#1",
+   "speaker": "Morgana",
+   "en": "If they have special drinks, it may not be[n]a bad idea to try one...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_1stInfo_Aojiru_02#0",
+   "speaker": "Drink Vendor",
+   "en": "Welcome! We've got fresh fruit juice!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_1stInfo_Aojiru_02#1",
+   "speaker": "Drink Vendor",
+   "en": "What's that? Special drinks? This is what[n]we have today!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_1stInfo_Aojiru_03#0",
+   "speaker": "Morgana",
+   "en": "Ooh, I wonder what it is.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_1stInfo_Aojiru_NotSe#0",
+   "speaker": "Drink Vendor",
+   "en": "Welcome! ...What's that? Special drinks?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_1stInfo_Aojiru_NotSe#1",
+   "speaker": "Drink Vendor",
+   "en": "Well, on [clr 2]Sundays[clr 27] we have a special[n]vegetable juice...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_1stInfo_Aojiru_NotSe_2#0",
+   "speaker": "Morgana",
+   "en": "So none today, huh? That's too bad.[n]Why not try coming back on Sunday?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_1stInfo_Aojiru_04#0",
+   "speaker": "Drink Vendor",
+   "en": "It's incredibly bitter, but it strengthens[n]your body.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_1stInfo_Aojiru_04#1",
+   "speaker": "Drink Vendor",
+   "en": "It's called aojiru!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_1stInfo_Aojiru_04#2",
+   "speaker": "Drink Vendor",
+   "en": "Every week, we have a different kind of[n]aojiru.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NotSale_Aojiru_01#0",
+   "speaker": "Drink Vendor",
+   "en": "I'm sorry, but we're sold out of aojiru[n]today...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NotSale_Aojiru_01#1",
+   "speaker": "Drink Vendor",
+   "en": "We only have it on [clr 2]Sundays[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NotSale_Aojiru_02#0",
+   "speaker": "Morgana",
+   "en": "Aww, that's too bad. Let's come back[n]another time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Sale_Aojiru_01#0",
+   "speaker": "Drink Vendor",
+   "en": "Welcome! Would you like some fresh[n]fruit juice?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Sale_Aojiru_01#1",
+   "speaker": "Drink Vendor",
+   "en": "Since today is [clr 2]Sunday[clr 27], we also have[n]aojiru for sale!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Sale_Aojiru_02#0",
+   "speaker": "Morgana",
+   "en": "Oh, they have it! They have aojiru!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Aojiru_Notbuy#0",
+   "speaker": "Morgana",
+   "en": "What, you're not gonna get it?[n]Too scared?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Aojiru_Today_Drink#0",
+   "speaker": "Morgana",
+   "en": "Hey, try to limit it to once a day. Even[n]healthy stuff can be bad if you overdo it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Aojiru_ParamEndInfo_#0",
+   "speaker": "Morgana",
+   "en": "It looks like today's aojiru will improve[n]your [stIcon 0][clr 26][stLabel 0][clr 27]... Though you probably[n]don't need it right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Aojiru_ParamEndInfo__2#0",
+   "speaker": "Morgana",
+   "en": "It looks like today's aojiru will improve[n]your [stIcon 1][clr 26][stLabel 1][clr 27]... Though you probably[n]don't need it right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Aojiru_ParamEndInfo__3#0",
+   "speaker": "Morgana",
+   "en": "It looks like today's aojiru will improve your[n][stIcon 2][clr 26][stLabel 2][clr 27]... Though you probably[n]don't need it right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Aojiru_ParamEndInfo__4#0",
+   "speaker": "Morgana",
+   "en": "It looks like today's aojiru will improve your[n][stIcon 3][clr 26][stLabel 3][clr 27]... Though you probably don't[n]need it right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Aojiru_ParamEndInfo__5#0",
+   "speaker": "Morgana",
+   "en": "It looks like today's aojiru will improve your[n][stIcon 4][clr 26][stLabel 4][clr 27]... Though you probably[n]don't need it right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Aojiru_Start_RND01#0",
+   "speaker": "Morgana",
+   "en": "All right! Chug it down!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Aojiru_Start_RND02#0",
+   "speaker": "Morgana",
+   "en": "Th-That's quite a color... I would NOT[n]want to drink that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Aojiru_Start_RND03#0",
+   "speaker": "Morgana",
+   "en": "You really need to get pumped up and[n]tell yourself it's for your health.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Aojiru_NowDrink#0",
+   "speaker": "Morgana",
+   "en": "Nice chugging! That's how you do it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Aojiru_End#0",
+   "speaker": "Morgana",
+   "en": "Good job! I was watching you try so hard.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Aojiru_HumanParamGet#0",
+   "speaker": "Morgana",
+   "en": "Whoa... You look like a totally different[n]person!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TEST_MONA2#0",
+   "speaker": "Morgana",
+   "en": "You've gone up a rank, haven't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Aojiru_Finish#0",
+   "speaker": "Morgana",
+   "en": "Okay, now that you're healthy, let's go[n]somewhere else!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

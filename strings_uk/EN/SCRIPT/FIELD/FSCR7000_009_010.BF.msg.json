@@ -1,0 +1,201 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR7000_009_010.BF",
+ "entries": [
+  {
+   "id": "MSG_DUMMY#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CinemaBuyTicket#0",
+   "speaker": "Morgana",
+   "en": "You'll need to buy a ticket if you want[n]to see a movie.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CinemaCancel#0",
+   "speaker": "Morgana",
+   "en": "What, did you change your mind?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CinemaOK#0",
+   "speaker": "Morgana",
+   "en": "The movie's about to start.[n]Let's grab a seat!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CinemaWatched#0",
+   "speaker": "Morgana",
+   "en": "[var 7]? I think[n]you've had enough of that one...[n]Let's come back some other time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CINEMA_NOT_OPEN#0",
+   "speaker": "Morgana",
+   "en": "This is supposed to be a movie theater,[n]right? Nobody's here though... I wonder[n]if it's closed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_CINEMA_NOT_OPEN#0",
+   "speaker": null,
+   "en": "The movie theater appears[n]to be closed right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CINEMA_1ST_ACCESS_EX#0",
+   "speaker": "Morgana",
+   "en": "Ooh, it's finally open again! I wonder[n]what kind of movies they're showing?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CINEMA_1ST_ACCESS#0",
+   "speaker": "Morgana",
+   "en": "This place is so, uh... atmospheric.[n]I wonder just what they're showing[n]here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Cinema_MoneyNG#0",
+   "speaker": "Morgana",
+   "en": "Have you checked your wallet lately?[n]There's no way you can afford a movie[n]right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CINEMA_MEMBER_NG#0",
+   "speaker": "Morgana",
+   "en": "How many times do you want to see[n]the same movie? Just give it a rest...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CINEMA_BOOK#0",
+   "speaker": "Morgana",
+   "en": "You should be able to enjoy the movie[n]on a deeper level now that you've read[n]about cinema.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COMMENT_2ndINFO#0",
+   "speaker": "Morgana",
+   "en": "Oh, it's [var 7].[n]Want to see it again?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COMMENT_LIST11_12_IN#0",
+   "speaker": "Morgana",
+   "en": "Right now, we're just in time to[n]see [var 7].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COMMENT_LIST11_12_IN#1",
+   "speaker": "Morgana",
+   "en": "It's a tragic story about a mafia boss[n]who just wants to dote on his children.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COMMENT_LIST13_14_IN#0",
+   "speaker": "Morgana",
+   "en": "Right now, we're just in time to[n]see [var 7].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COMMENT_LIST13_14_IN#1",
+   "speaker": "Morgana",
+   "en": "It's about a guy who goes back in time[n]to learn ninjutsu and avenge his friend[n]who was slain by a ninja.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COMMENT_LIST15_16_IN#0",
+   "speaker": "Morgana",
+   "en": "Right now, we're just in time to[n]see [var 7].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COMMENT_LIST15_16_IN#1",
+   "speaker": "Morgana",
+   "en": "It's a story about prisoners of war who[n]are forced to do grueling work even[n]though it's Christmas.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_COMMENT_LIST16_INFO#0",
+   "speaker": "Morgana",
+   "en": "Right now, we're just in time to[n]see [var 7].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Sentou_ParamInfo_Chi#0",
+   "speaker": null,
+   "en": "It looks like watching this movie[n]might give me some [stIcon 0][clr 26][stLabel 0][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Sentou_ParamEndInfo_#0",
+   "speaker": null,
+   "en": "Even if I watch this movie, I[n]don't think I'll be able to get[n]any more [stIcon 0][clr 26][stLabel 0][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Sentou_ParamInfo_Dok#0",
+   "speaker": null,
+   "en": "It looks like watching this movie[n]might give me some [stIcon 3][clr 26][stLabel 3][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Sentou_ParamEndInfo__2#0",
+   "speaker": null,
+   "en": "Even if I watch this movie, I[n]don't think I'll be able to get[n]any more [stIcon 3][clr 26][stLabel 3][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Sentou_ParamInfo_Yas#0",
+   "speaker": null,
+   "en": "It looks like watching this movie[n]might give me some [stIcon 4][clr 26][stLabel 4][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Sentou_ParamEndInfo__3#0",
+   "speaker": null,
+   "en": "Even if I watch this movie, I[n]don't think I'll be able to get[n]any more [stIcon 4][clr 26][stLabel 4][clr 27].",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

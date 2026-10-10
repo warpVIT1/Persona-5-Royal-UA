@@ -1,0 +1,159 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR3040_010_000.BF",
+ "entries": [
+  {
+   "id": "MSG_CD_HELP_01#0",
+   "speaker": null,
+   "en": "Stop current CD",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CD_Access_1ST#0",
+   "speaker": "Morgana",
+   "en": "Now we can listen to CDs!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_CD_Access_1ST#0",
+   "speaker": null,
+   "en": "With this, now I can listen to CDs.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CD_Start#0",
+   "speaker": "Morgana",
+   "en": "What CD are you going to play?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_CD_Start#0",
+   "speaker": null,
+   "en": "Which CD should I play?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_CD_SelectMiss#0",
+   "speaker": null,
+   "en": "This one's already playing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CD_ChangeThink#0",
+   "speaker": "Morgana",
+   "en": "What do you want to do? Did you[n]want to play a different CD?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CD_ChangeThink#0",
+   "speaker": null,
+   "en": "Let's change CDs.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CD_ChangeThink#1",
+   "speaker": null,
+   "en": "Let's turn this off.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_CD_ChangeThink#2",
+   "speaker": null,
+   "en": "Let's keep this one on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CD_Cancel_NotPlayCD#0",
+   "speaker": "Morgana",
+   "en": "Wait, you're not going to play any CDs?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CD_Cancel_PlayCD#0",
+   "speaker": "Morgana",
+   "en": "Oh, you're not going to change it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MGK_CD_START#0",
+   "speaker": null,
+   "en": "Stop CD[ref 0 0]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MGK_CD_START#1",
+   "speaker": null,
+   "en": " [var 0][ref 1 1]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MGK_CD_START#2",
+   "speaker": null,
+   "en": " [var 1][ref 2 2]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_MGK_CD_START#3",
+   "speaker": null,
+   "en": " [var 2][ref 3 3]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_PrePlay_Think#0",
+   "speaker": "Morgana",
+   "en": "Hm... You want to play this CD?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_PrePlay_Think#0",
+   "speaker": null,
+   "en": "Let's play this CD.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_PrePlay_Think#1",
+   "speaker": null,
+   "en": "I'll pick a different song.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NowCD_Equal#0",
+   "speaker": "Morgana",
+   "en": "That's what you're playing right now,[n]though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CDNotHave#0",
+   "speaker": "Morgana",
+   "en": "You don't have any CDs... I guess you'll[n]just have to buy some somewhere.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_CDNotHave#0",
+   "speaker": null,
+   "en": "I don't have any CDs.[n]I should go buy some.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

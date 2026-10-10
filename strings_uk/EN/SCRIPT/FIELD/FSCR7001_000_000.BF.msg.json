@@ -1,0 +1,516 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR7001_000_000.BF",
+ "entries": [
+  {
+   "id": "MSG_DUMMY#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CARD_COPY_REQ_DAILY_#0",
+   "speaker": "Morgana",
+   "en": "What are you gonna ask Yusuke to do[n]today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CARD_COPY_REQ_DAILY_SEL#0",
+   "speaker": null,
+   "en": "Duplicate",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CARD_COPY_REQ_DAILY_SEL#1",
+   "speaker": null,
+   "en": "Create",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CARD_COPY_REQ_DAILY_SEL#2",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_CARD_COPY_REQ_DUNGEO#0",
+   "speaker": null,
+   "en": "What should I ask Yusuke[n]to do today...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Dungeon_01#0",
+   "speaker": null,
+   "en": "Duplicate",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Dungeon_01#1",
+   "speaker": null,
+   "en": "Create",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Dungeon_01#2",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_00_00#0",
+   "speaker": "Morgana",
+   "en": "Which type of card do you want Yusuke[n]to duplicate for you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_00_01#0",
+   "speaker": null,
+   "en": "Which type of card should[n]I request him to duplicate...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C04_REQUEST_00_01#0",
+   "speaker": null,
+   "en": "Dummy",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C04_REQUEST_00_01#1",
+   "speaker": null,
+   "en": "Physical",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C04_REQUEST_00_01#2",
+   "speaker": null,
+   "en": "Magic",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C04_REQUEST_00_01#3",
+   "speaker": null,
+   "en": "Recovery/Support",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C04_REQUEST_00_01#4",
+   "speaker": null,
+   "en": "Passive",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C04_REQUEST_00_01#5",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_NOTCARD_#0",
+   "speaker": "Morgana",
+   "en": "Hey, you don't have any blank cards he[n]can use for the duplication. Let's ask[n]again once you have some.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_NOTCARD__2#0",
+   "speaker": null,
+   "en": "I don't have any blank[n]cards for duplication...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_NOTCARD__3#0",
+   "speaker": "Morgana",
+   "en": "Um, you don't have any cards of that type.[n]Pick another kind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_NOTCARD__4#0",
+   "speaker": null,
+   "en": "I don't have any cards of that type.[n]I should pick another kind...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_NOTCARD__5#0",
+   "speaker": "Morgana",
+   "en": "Hey, you don't have any skill cards for[n]him to copy. Let's ask again once you[n]have some.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_NOTCARD__6#0",
+   "speaker": null,
+   "en": "I don't have any skill cards[n]for him to copy. I should ask[n]him again once I have some...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_C04_REQUEST_NOTCARD_#0",
+   "speaker": null,
+   "en": "Skill card duplication requires both[n]a blank card and a desired skill card.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_00_10_00#0",
+   "speaker": "Morgana",
+   "en": "So you want him to duplicate a[n][clr 4][var 20] card[clr 27] for you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_00_10_01#0",
+   "speaker": null,
+   "en": "Should I have him duplicate[n]a [clr 4][var 20] card[clr 27]...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C04_REQUEST_00_10#0",
+   "speaker": null,
+   "en": "Absolutely.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C04_REQUEST_00_10#1",
+   "speaker": null,
+   "en": "Actually, no.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_00_20_00#0",
+   "speaker": "Yusuke",
+   "en": "Very well. Hand me the cards.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_00_20_01#0",
+   "speaker": "Yusuke",
+   "en": "Very well. Hand me the cards.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_00_21_00#0",
+   "speaker": "Yusuke",
+   "en": "I will spend the rest of today working on[n]it. Come back tomorrow or later to[n]retrieve it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_00_22_00#0",
+   "speaker": "Morgana",
+   "en": "You can't carry any more of those.[n]Try picking a different one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_00_22_01#0",
+   "speaker": null,
+   "en": "I can't carry any more[n]of those. I should choose[n]a different one...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_Karigumi#0",
+   "speaker": null,
+   "en": "I handed over the [clr 4][var 20][n]Skill Card[clr 27] to Yusuke...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_01_00#0",
+   "speaker": "Morgana",
+   "en": "Which card are you gonna ask for today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_01_01#0",
+   "speaker": null,
+   "en": "Which card should I ask[n]to be created today...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C04_REQUEST_00_02#0",
+   "speaker": null,
+   "en": "Physical",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C04_REQUEST_00_02#1",
+   "speaker": null,
+   "en": "Magic",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C04_REQUEST_00_02#2",
+   "speaker": null,
+   "en": "Recovery/Support",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C04_REQUEST_00_02#3",
+   "speaker": null,
+   "en": "Passive",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C04_REQUEST_00_02#4",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_NOTCARD__7#0",
+   "speaker": "Morgana",
+   "en": "Hey, you don't have any blank cards[n]right now. Let's ask him to create cards[n]for us after we find more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_NOTCARD__8#0",
+   "speaker": null,
+   "en": "I don't have any blank[n]cards for creation...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_NOTCARD__9#0",
+   "speaker": "Morgana",
+   "en": "Hey, you've never asked him to duplicate[n]that type of card for you before. Pick a[n]different one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_NOTCARD__10#0",
+   "speaker": null,
+   "en": "I've never asked him to[n]duplicate this card before.[n]I should pick another kind...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_NOTCARD__11#0",
+   "speaker": "Morgana",
+   "en": "Hey, you've never duplicated anything[n]before. We should ask again after you've[n]tried it out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_NOTCARD__12#0",
+   "speaker": null,
+   "en": "I've never had him duplicate[n]anything. I should ask him[n]again once I've tried it out...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SYS_C04_REQUEST_NOTCARD__2#0",
+   "speaker": null,
+   "en": "Skill Card creation is limited to the cards[n]you have duplicated in the past. Also,[n]a Blank Card will be necessary.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_00_10_10#0",
+   "speaker": "Morgana",
+   "en": "So you want him to create a[n][clr 4][var 20] card[clr 27] for you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_00_10_11#0",
+   "speaker": null,
+   "en": "Should I have him create[n]a [clr 4][var 20] card[clr 27]...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C04_REQUEST_00_11#0",
+   "speaker": null,
+   "en": "Absolutely.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_C04_REQUEST_00_11#1",
+   "speaker": null,
+   "en": "Actually, no.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_00_20_10#0",
+   "speaker": "Yusuke",
+   "en": "Very well. Leave it to me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_00_20_11#0",
+   "speaker": "Yusuke",
+   "en": "Understood. I'll begin at once.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_00_30_10#0",
+   "speaker": "Morgana",
+   "en": "You can't carry any more of those.[n]Try picking a different one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_00_30_11#0",
+   "speaker": null,
+   "en": "I can't carry any more[n]of those. I should choose[n]a different one...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_FIN_00_D#0",
+   "speaker": "Yusuke",
+   "en": "Here, this is for you. It was a resounding[n]success.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_FIN_01_D#0",
+   "speaker": "Yusuke",
+   "en": "This turned out quite magnificently.[n]Here, take it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_FIN_01_D_2#0",
+   "speaker": "Yusuke",
+   "en": "This turned out quite magnificently.[n]Here, take it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_FIN_END_#0",
+   "speaker": "Yusuke",
+   "en": "This turned out quite magnificently.[n]Make good use of it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_FIN_END__2#0",
+   "speaker": "Yusuke",
+   "en": "This turned out quite magnificently.[n]Make good use of it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_00_99#0",
+   "speaker": "Yusuke",
+   "en": "If there is anything else I can do,[n]please ask.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_NOW_00#0",
+   "speaker": "Yusuke",
+   "en": "Hm? I've already taken your request,[n]though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_NOW_00#1",
+   "speaker": "Yusuke",
+   "en": "My apologies, but it will require some[n]time. I will do it tonight.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_NOW_01#0",
+   "speaker": "Yusuke",
+   "en": "Is this about the card you requested?[n]I'm sorry, but it's not yet complete.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_END_00#0",
+   "speaker": "Yusuke",
+   "en": "I apologize, but I can only create one per[n]day. I ask that you come back no earlier[n]than tomorrow for another one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_END_01#0",
+   "speaker": "Yusuke",
+   "en": "Hm? A card request? I apologize, but[n]I can only create one per day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_C04_REQUEST_DEPICTS#0",
+   "speaker": "Yusuke",
+   "en": "Hahahahaha, my brush is aflame![n]It's as if it has a mind of its own!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Sokuji_soku_end_001#0",
+   "speaker": "Yusuke",
+   "en": "Ah, [fName]. There you are.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Sokuji_soku_end_001#1",
+   "speaker": "Yusuke",
+   "en": "I have completed the duplication[n]you requested. Take a look...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Sokuji_soku_end_001#2",
+   "speaker": "Yusuke",
+   "en": "Oh, and here's the card you gave me[n]to work from.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

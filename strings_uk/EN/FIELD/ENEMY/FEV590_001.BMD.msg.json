@@ -1,0 +1,621 @@
+{
+ "file": "EN/FIELD/ENEMY/FEV590_001.BMD",
+ "entries": [
+  {
+   "id": "MSG_NML07_FIND_01_01#0",
+   "speaker": null,
+   "en": "Intruders detected.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_FIND_01_02#0",
+   "speaker": null,
+   "en": "Intruders detected.[n]Eliminating.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_FIND_01_03#0",
+   "speaker": null,
+   "en": "Intruders confirmed.[n]Will eliminate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_FIND_01_04#0",
+   "speaker": null,
+   "en": "Confirmed.[n]Eliminating.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_FIND_01_05#0",
+   "speaker": null,
+   "en": "Suspicious persons[n]confirmed. Beginning[n]the operation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_PURSUE_01_01#0",
+   "speaker": null,
+   "en": "Pursuing the target.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_PURSUE_01_02#0",
+   "speaker": null,
+   "en": "Pursuing the target.[n]They're pretty fast.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_PURSUE_01_03#0",
+   "speaker": null,
+   "en": "I'm in pursuit.[n]I won't let them escape.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_PURSUE_01_04#0",
+   "speaker": null,
+   "en": "Capturing the target.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_PURSUE_01_05#0",
+   "speaker": null,
+   "en": "Stop.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_LOST_01_01#0",
+   "speaker": null,
+   "en": "I lost them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_LOST_01_02#0",
+   "speaker": null,
+   "en": "I guess they escaped.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_LOST_01_03#0",
+   "speaker": null,
+   "en": "I lost sight of them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_LOST_01_04#0",
+   "speaker": null,
+   "en": "I lost them, but I won't[n]let them escape again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_LOST_01_05#0",
+   "speaker": null,
+   "en": "Tch... I lost them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_NML_01_01#0",
+   "speaker": null,
+   "en": "Nothing to report.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_NML_01_02#0",
+   "speaker": null,
+   "en": "No problems on my end.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_NML_01_03#0",
+   "speaker": null,
+   "en": "Nothing wrong with that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_NML_01_04#0",
+   "speaker": null,
+   "en": "Area clear.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_NML_01_05#0",
+   "speaker": null,
+   "en": "The area's clear.[n]Moving to the next one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_NML_01_06#0",
+   "speaker": null,
+   "en": "I should be patient.[n]Haste will lead to[n]carelessness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_NML_01_07#0",
+   "speaker": null,
+   "en": "Why do these pieces of[n]trash keep coming in,[n]one after another?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_NML_01_08#0",
+   "speaker": null,
+   "en": "I'll worry about their[n]identities after I've[n]dealt with them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_NML_01_09#0",
+   "speaker": null,
+   "en": "I smell it...[n]The stench of scum.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_NML_01_10#0",
+   "speaker": null,
+   "en": "I have a bad feeling[n]about this... I'll have[n]to brace myself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_ALT_01_01#0",
+   "speaker": null,
+   "en": "I don't see any intruders.[n]I'll look elsewhere.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_ALT_01_02#0",
+   "speaker": null,
+   "en": "Nothing out of the[n]ordinary. I don't[n]see intruders.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_ALT_01_03#0",
+   "speaker": null,
+   "en": "I can't confirm the intruder's location.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_ALT_01_04#0",
+   "speaker": null,
+   "en": "The intruders haven't[n]been found.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_ALT_01_05#0",
+   "speaker": null,
+   "en": "Tch! Where is he hiding!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_ALT_01_06#0",
+   "speaker": null,
+   "en": "Preparations are good.[n]I'll crush them like[n]insects.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_ALT_01_07#0",
+   "speaker": null,
+   "en": "That shadowy area[n]is suspicious...Very suspicious...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_ALT_01_08#0",
+   "speaker": null,
+   "en": "The target is mine.[n]I won't let anyone[n]interfere.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_ALT_01_09#0",
+   "speaker": null,
+   "en": "I'm living life on the[n]edge! That's what this[n]feels like!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_ALT_01_10#0",
+   "speaker": null,
+   "en": "I won't go easy on those[n]who have a death wish...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_REPORT_01_01#0",
+   "speaker": null,
+   "en": "Target sighted.[n]I'll report this to[n]headquarters immediately.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_REPORT_01_02#0",
+   "speaker": null,
+   "en": "I've spotted the target.[n]I'll go make a report and[n]request tightened security.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_REPORT_01_03#0",
+   "speaker": null,
+   "en": "I'll return to[n]headquarters for now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_REPORT_01_04#0",
+   "speaker": null,
+   "en": "Awaiting orders from HQ.[n]Returning temporarily.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_REPORT_01_05#0",
+   "speaker": null,
+   "en": "Reporting to headquarters[n]information on the target.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_01_#0",
+   "speaker": null,
+   "en": "Nothing out of the[n]ordinary in the[n]guarded zone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_01__2#0",
+   "speaker": null,
+   "en": "No issues with[n]the defense.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_01__3#0",
+   "speaker": null,
+   "en": "No problems around[n]the protected area.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_01__4#0",
+   "speaker": null,
+   "en": "I don't see anything[n]out of the ordinary.[n]Remaining on guard.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_01__5#0",
+   "speaker": null,
+   "en": "Nothing to report.[n]Resuming guard duty.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_01#0",
+   "speaker": null,
+   "en": "Captain. I've discovered[n]an intruder.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_01_2#0",
+   "speaker": null,
+   "en": "Reporting in, Captain.[n]Intruders detected.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_01_3#0",
+   "speaker": null,
+   "en": "I have a report, Captain:[n]Intruders sighted.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_01_4#0",
+   "speaker": null,
+   "en": "I've spotted intruders.[n]Please be cautious,[n]Captain.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_DEFEND_01_5#0",
+   "speaker": null,
+   "en": "There are intruders,[n]Captain.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_FREE_01_0#0",
+   "speaker": null,
+   "en": "Urgh... Ugh... Phew.[n]My shoulders are stiff.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_FREE_01_0_2#0",
+   "speaker": null,
+   "en": "I want to get off soon[n]so I can drink.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_FREE_01_0_3#0",
+   "speaker": null,
+   "en": "Why do these pieces of[n]trash keep coming in,[n]one after another?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_FREE_01_0_4#0",
+   "speaker": null,
+   "en": "I won't go easy on those[n]who have a death wish...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_FREE_01_0_5#0",
+   "speaker": null,
+   "en": "I want to fight soon...[n]It'll be my first[n]real combat...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_FREE_01_0_6#0",
+   "speaker": null,
+   "en": "I hope these intruders[n]have some stamina. I don't[n]want them to die too fast.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_FREE_01_0_7#0",
+   "speaker": null,
+   "en": "Good... I love[n]this tension!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_FREE_01_0_8#0",
+   "speaker": null,
+   "en": "I'll worry about their[n]identities after I've[n]dealt with them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_FREE_01_0_9#0",
+   "speaker": null,
+   "en": "Preparations are good.[n]I'll crush them like[n]insects.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_FREE_01_1#0",
+   "speaker": null,
+   "en": "That shadowy area[n]is suspicious...Very suspicious...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_FREE_01_1_2#0",
+   "speaker": null,
+   "en": "Hey, General![n]You're there, aren't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_FREE_01_1_3#0",
+   "speaker": null,
+   "en": "The target is mine.[n]I won't let anyone[n]interfere.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_FREE_01_1_4#0",
+   "speaker": null,
+   "en": "I'm living life on the[n]edge! That's what this[n]feels like!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_FREE_01_1_5#0",
+   "speaker": null,
+   "en": "I have a bad feeling[n]about this... I'll have[n]to brace myself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_FREE_01_1_6#0",
+   "speaker": null,
+   "en": "I smell it...[n]The stench of scum.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_FREE_01_1_7#0",
+   "speaker": null,
+   "en": "They want me to wait[n]for a sign? No way.[n]I can't control myself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_FREE_01_1_8#0",
+   "speaker": null,
+   "en": "After this job, I'll drink[n]so much I might as well[n]be bathing in alcohol.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_FREE_01_1_9#0",
+   "speaker": null,
+   "en": "Those scum are in the[n]wrong. They'll only learn[n]this fact in the afterlife.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_FREE_01_1_10#0",
+   "speaker": null,
+   "en": "I guess I'll play with[n]them a little, but I can't[n]promise they'll live...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_FREE_01_2#0",
+   "speaker": null,
+   "en": "I should be patient.[n]Haste will lead to[n]carelessness.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_FIND_02_01#0",
+   "speaker": null,
+   "en": "Woof![n]Woof woof!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_FIND_02_02#0",
+   "speaker": null,
+   "en": "Awoooooo!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_FIND_02_03#0",
+   "speaker": null,
+   "en": "Woof woof woof!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_PURSUE_02_01#0",
+   "speaker": null,
+   "en": "Woof![n]Woof woof!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_PURSUE_02_02#0",
+   "speaker": null,
+   "en": "Grrrrrr...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_PURSUE_02_03#0",
+   "speaker": null,
+   "en": "Woof![n]Grrr... Woof!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_LOST_02_01#0",
+   "speaker": null,
+   "en": "Woof! Woof!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_LOST_02_02#0",
+   "speaker": null,
+   "en": "Arf!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_LOST_02_03#0",
+   "speaker": null,
+   "en": "Grrrrr...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_NML_02_01#0",
+   "speaker": null,
+   "en": "*sniff* *sniff*",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_NML_02_02#0",
+   "speaker": null,
+   "en": "*pant* *pant* *pant*",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_NML_02_03#0",
+   "speaker": null,
+   "en": "Rrr... Rowr...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_ALT_02_01#0",
+   "speaker": null,
+   "en": "*sniff* *sniff*[n]Woof... Rowr...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_ALT_02_02#0",
+   "speaker": null,
+   "en": "Awoooooo!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NML07_MNLG_ALT_02_03#0",
+   "speaker": null,
+   "en": "Woof![n]*sniff* *sniff*",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_02_#0",
+   "speaker": null,
+   "en": "Grrrrr...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_02__2#0",
+   "speaker": null,
+   "en": "*sniff* *sniff* *sniff*",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_STG01_MNLG_GUARD_02__3#0",
+   "speaker": null,
+   "en": "Ruff ruff ruff!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

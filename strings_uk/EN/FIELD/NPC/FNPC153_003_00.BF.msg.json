@@ -1,0 +1,334 @@
+{
+ "file": "EN/FIELD/NPC/FNPC153_003_00.BF",
+ "entries": [
+  {
+   "id": "mini_EV_e200_146_mes01#0",
+   "speaker": "Security Guard",
+   "en": "Hm? I don't think I recognize you.[n]Are you a new hire?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e200_146_mes01#1",
+   "speaker": "Security Guard",
+   "en": "...So? Do you need something?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e200_146_selA#0",
+   "speaker": null,
+   "en": "Let's turn off those lasers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e200_146_selA#1",
+   "speaker": null,
+   "en": "I forgot the password.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e200_146_selA#2",
+   "speaker": null,
+   "en": "Nice to meet you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e200_146_selA_0_#0",
+   "speaker": "Security Guard",
+   "en": "Oh, that's easy. Just enter 07734 into[n]the machine in the security office.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e200_146_selA_0_#1",
+   "speaker": "Security Guard",
+   "en": "Get it? You read the numbers a certain[n]way, and it's \"hello.\" Easy to remember,[n]right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e200_146_selA_1_#0",
+   "speaker": "Security Guard",
+   "en": "Oh, the password for the security room?[n]Just type in 07734.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e200_146_selA_1_#1",
+   "speaker": "Security Guard",
+   "en": "Get it? You read the numbers a certain[n]way, and it's \"hello.\" Easy to remember,[n]right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e200_146_selA_2_#0",
+   "speaker": "Security Guard",
+   "en": "Well, you're awfully polite. I like[n]that. Let me know if you need help[n]understanding something.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e200_146_mes02#0",
+   "speaker": "Security Guard",
+   "en": "...Wait, why do you want to turn off[n]the lasers?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e200_146_selB#0",
+   "speaker": null,
+   "en": "I'm an intruder.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e200_146_selB#1",
+   "speaker": null,
+   "en": "I'm stealing the Treasure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e200_146_selB#2",
+   "speaker": null,
+   "en": "I just wanted to try it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e200_146_selB_0_#0",
+   "speaker": "Security Guard",
+   "en": "I knew it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e200_146_selB_1_#0",
+   "speaker": "Security Guard",
+   "en": "What!? So YOU'RE the intruder!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e200_146_selB_2_#0",
+   "speaker": "Security Guard",
+   "en": "Wow, you too? To be honest, I've[n]tried doing it myself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e200_146_selB_2_#1",
+   "speaker": "Security Guard",
+   "en": "Just don't tell Lord Madarame, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e200_146_mes03#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e200_146_selC#0",
+   "speaker": null,
+   "en": "What was the password?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e200_146_selC#1",
+   "speaker": null,
+   "en": "Can we turn off the lasers?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e200_146_selC_0_#0",
+   "speaker": "Security Guard",
+   "en": "Oh, the password for the security room?[n]Just type in 07734.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e200_146_selC_0_#1",
+   "speaker": "Security Guard",
+   "en": "Get it? You read the numbers a certain[n]way, and it's \"hello.\" Easy to remember,[n]right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e200_146_selC_1_#0",
+   "speaker": "Security Guard",
+   "en": "Oh, that's easy. Just enter 07734 into[n]the machine in the security office.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e200_146_selC_1_#1",
+   "speaker": "Security Guard",
+   "en": "Get it? You read the numbers a certain[n]way, and it's \"hello.\" Easy to remember,[n]right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e200_146_mes04#0",
+   "speaker": "Security Guard",
+   "en": "It looks like we've got some sort of[n]intruders. Three masked people and[n]one weird-looking critter.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "mini_EV_e200_146_mes04#1",
+   "speaker": "Security Guard",
+   "en": "But do they really think they can get[n]past our security? Hahahahaha!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D153_MOB_VOICE_TV_mes01#0",
+   "speaker": "Voice",
+   "en": "Thank you for visiting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D153_MOB_VOICE_TV_mes02#0",
+   "speaker": "Voice",
+   "en": "Currently, we are holding an exhibition of[n]the works of the great artist Madarame.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D153_MOB_VOICE_TV_mes03#0",
+   "speaker": "Voice",
+   "en": "Madarame can always be found on the[n]cutting edge of the Japanese art world.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D153_MOB_VOICE_TV_mes04#0",
+   "speaker": "Voice",
+   "en": "This exhibit attempts to express and[n]share the appeal of Madarame's works.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D153_MOB_VOICE_TV_mes05#0",
+   "speaker": "Voice",
+   "en": "His unique ideas, unrestrained by[n]preconceived notions...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D153_MOB_VOICE_TV_mes06#0",
+   "speaker": "Voice",
+   "en": "...give rise to new possibilities in the[n]Nihonga art form.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D153_MOB_VOICE_TV_mes07#0",
+   "speaker": "Voice",
+   "en": "Not only has he helped pioneer new[n]developments in the art world...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D153_MOB_VOICE_TV_mes08#0",
+   "speaker": "Voice",
+   "en": "...but he has also dedicated himself to[n]training the next generation of artists.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D153_MOB_VOICE_TV_mes09#0",
+   "speaker": "Voice",
+   "en": "He is an irreplaceable figure in the[n]modern world of Japanese art.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D153_MOB_VOICE_TV_mes10#0",
+   "speaker": "Voice",
+   "en": "The eyes of the world are on Madarame.[n]How will his next move change the art[n]world?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D153_MOB_VOICE_GUIDE_mes#0",
+   "speaker": "Announcement",
+   "en": "This work, attentively painted with[n]delicate strokes...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D153_MOB_VOICE_GUIDE_mes_2#0",
+   "speaker": "Announcement",
+   "en": "...is noted for its use of deep, intricate[n]colors.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D153_MOB_VOICE_GUIDE_mes_3#0",
+   "speaker": "Announcement",
+   "en": "The features of the model are captured[n]masterfully.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D153_MOB_VOICE_GUIDE_mes_4#0",
+   "speaker": "Announcement",
+   "en": "It's almost as if they were right there[n]in front of you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D153_MOB_VOICE_GUIDE_mes_5#0",
+   "speaker": "Announcement",
+   "en": "Not only does it exude an imposing[n]presence...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D153_MOB_VOICE_GUIDE_mes_6#0",
+   "speaker": "Announcement",
+   "en": "...but it has a mysterious, unique allure...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D153_MOB_VOICE_GUIDE_mes_7#0",
+   "speaker": "Announcement",
+   "en": "...that draws in and captivates all who[n]look at it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D153_MOB_VOICE_GUIDE_mes_8#0",
+   "speaker": "Announcement",
+   "en": "It has an everlasting appeal...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D153_MOB_VOICE_GUIDE_mes_9#0",
+   "speaker": "Announcement",
+   "en": "...that makes you feel like you could[n]gaze upon it forever.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D153_MOB_VOICE_GUIDE_mes_10#0",
+   "speaker": "Announcement",
+   "en": "It would not be an overstatement to[n]call this painting \"perfect.\"",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

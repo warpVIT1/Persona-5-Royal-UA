@@ -1,0 +1,474 @@
+{
+ "file": "EN/FIELD/INIT/FINI_009_003.BF",
+ "entries": [
+  {
+   "id": "MSG_BATTING_START_1ST_01#0",
+   "speaker": "Morgana",
+   "en": "I see. So they're doing this on the[n]rooftop...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTING_START_1ST_02#0",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "Hm...? I haven't seen you here before.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTING_START_1ST_02#1",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "In case you didn't know, the services[n]here change depending on the time[n]of day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_StartTalk_1st_HIRU#0",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "During the day, you can win prizes based[n]on your performance. More fun than just[n]playing normally, wouldn't you agree?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_StartTalk_1st_HIRU#1",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "At night, you can play all you want for[n]500 yen. If you perform well, I'll give you[n]a ticket for a free session during the day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_StartTalk_1st_HIRU#2",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "Well? Would you like to play?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_StartTalk_1st_YORU#0",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "You can win prizes here during the day.[n]At night, there are no prizes, but you can[n]play all you want.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_StartTalk_1st_YORU#1",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "And, if you hit three home runs, I'll give[n]you a free ticket to play during the day.[n]Good deal, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_StartTalk_HIRU#0",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "Welcome. Enjoy your time here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_StartTalk_YORU#0",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "Welcome. At night, you can play all you[n]want. If you perform well, I'll give you a[n]free ticket to use during the day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_StartTalk_YORU_Item#0",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "And if you hit three home runs, you'll[n]get a free play ticket. Best of luck to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NowStatesInfo_OnlyMo#0",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "It looks like you've won the slugger[n]prize already. Good luck in trying for[n]the home run prize as well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NowStatesInfo_OnlyHo#0",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "It looks like you've won the home run[n]prize already. Good luck in trying for[n]the slugger prize as well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NowStatesInfo_YetAll#0",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "It looks like you haven't won the slugger[n]prize or the home run prize yet. Well, do[n]your best and don't get too worked up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NowStatesInfo_AllEnd#0",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "Looks like you've already won the[n]slugger and the home run prize. The[n]slugger prize can be won multiple times.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_EndInfo_NextLv2#0",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "We're only offering one course at[n]the moment, but there will be more[n]available once we finish the fine-tuning.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_EndInfo_NextLv3#0",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "A machine we sent in for maintenance[n]will be back in [clr 2]July[clr 27], so we're planning[n]to add another course to the lineup.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_EndInfo_NextLv4#0",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "We'll be finished adjusting another[n]machine by [clr 2]October[clr 27], so there will be[n]a new course added around then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_EndInfo_NextLv5#0",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "We're switching out a machine in[n][clr 2]December[clr 27]. We'll have a course with[n]a decent challenge ready by then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_EndInfo_NextNone#0",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "We have a number of courses available,[n]so come back again soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_EndInfo_NextNone#1",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "But... There's something missing...[n]If only there was an even more special[n]course...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_EndInfo_NextNone_Tru#0",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "We have a number of courses available,[n]so come back again soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BATTING_CENTER_CHANC#0",
+   "speaker": "Morgana",
+   "en": "What, you're not gonna bat?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_Hit_01#0",
+   "speaker": "Morgana",
+   "en": "You didn't even touch anything...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_Hit_02#0",
+   "speaker": "Morgana",
+   "en": "Not bad, I guess. Work a bit harder,[n]and maybe you can get the slugger[n]prize next time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_Hit_03#0",
+   "speaker": "Morgana",
+   "en": "That was pretty good! Work a bit harder,[n]and maybe you can get the slugger prize[n]next time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_Hit_04#0",
+   "speaker": "Morgana",
+   "en": "Wow, you've got a really good swing.[n]I'm impressed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_Hit_01_YORU#0",
+   "speaker": "Morgana",
+   "en": "...Huh? You're done already?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_Hit_02_YORU#0",
+   "speaker": "Morgana",
+   "en": "Hmm... Don't you think you could've[n]gone a little farther?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_Hit_03_YORU#0",
+   "speaker": "Morgana",
+   "en": "Not bad. I bet you'll do well when[n]you come back during the day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_Hit_04_YORU#0",
+   "speaker": "Morgana",
+   "en": "That's it! You totally got your eyes on[n]the ball. You should try for that prize[n]when we come back during the day.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Batting_Mouda#0",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "Oh, you didn't miss a single shot.[n]Well done. I'll give you the slugger prize.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Batting_ItemGet_HitA#0",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "It was almost like the ball was drawn[n]to your bat. Here you go, the home[n]run prize.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Batting_ItemGet_Afte#0",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "Admirable swinging, as usual. But you[n]can only win the home run prize once...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Batting_NoResult#0",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "You didn't win the home run or[n]slugger prize. Better luck next time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Batting_End#0",
+   "speaker": "Morgana",
+   "en": "All right, let's head home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YORU_Ojisan_Main#0",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "At night, you can swing all you want.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YORU_Ojisan_Main#1",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "Would you like to keep playing?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "REPLAY_SEL#0",
+   "speaker": null,
+   "en": "I'll keep playing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "REPLAY_SEL#1",
+   "speaker": null,
+   "en": "That's enough for now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YORU_ON_01#0",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "All right, good luck.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YORU_ON_02#0",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "Which course would you like to try?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_Hit_good#0",
+   "speaker": "Morgana",
+   "en": "You've gotten quite a few hits. I bet[n]your body's learned a lot from this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_Hit_bad#0",
+   "speaker": "Morgana",
+   "en": "Were you lacking a bit of focus?[n]Let's try harder next time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RESULT_Hit_zero#0",
+   "speaker": "Morgana",
+   "en": "You couldn't land a hit on anything...[n]Well, everyone has their off days.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FreeCard_Moru#0",
+   "speaker": "Morgana",
+   "en": "Oh, that's right. You've got a free play[n]ticket. Are you gonna use it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_FreeCard#0",
+   "speaker": null,
+   "en": "I'll use it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_FreeCard#1",
+   "speaker": null,
+   "en": "Not this time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FreeCard_YES01#0",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "So you're using a free play ticket?[n]Then you don't have to pay this time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FreeCard_NO#0",
+   "speaker": "Morgana",
+   "en": "So you're not using it this time?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_YORU_Okane_Main#0",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "It costs 500 yen to play. How about it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YORU_Okane_SEL#0",
+   "speaker": null,
+   "en": "I'll play.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YORU_Okane_SEL#1",
+   "speaker": null,
+   "en": "I'll pass.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Okane_moru_NO#0",
+   "speaker": "Morgana",
+   "en": "What, you're not gonna play?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Bat_NoMoney#0",
+   "speaker": "Morgana",
+   "en": "You don't have enough money.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Bat_Henkin#0",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "Here's your money back.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Bat_Henkin_Ken#0",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "Here's your free play ticket back.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Bat_Homuran_good#0",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "Ooh, it looks like you managed to hit[n]three home runs. Congratulations,[n]here's a free play ticket.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Bat_YORU_Bye#0",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "Oh, are you done? Come again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Hiru_replay#0",
+   "speaker": "Middle-Aged Receptionist",
+   "en": "You can keep playing if you want.[n]How about it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Hiru_replay_SEL#0",
+   "speaker": null,
+   "en": "I'll keep playing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "Hiru_replay_SEL#1",
+   "speaker": null,
+   "en": "That's enough for now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Hiru_moru_N0play#0",
+   "speaker": "Morgana",
+   "en": "It's gotten pretty late.[n]We should probably stop for today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Hiru_Replay_start#0",
+   "speaker": "Morgana",
+   "en": "We've still got time left. Do you want[n]to keep playing?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Hiru_Replay_start2#0",
+   "speaker": "Morgana",
+   "en": "You probably have time for one more[n]round. What do you want to do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HiruReplay_SEL#0",
+   "speaker": null,
+   "en": "I'll keep playing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HiruReplay_SEL#1",
+   "speaker": null,
+   "en": "That's enough for now.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

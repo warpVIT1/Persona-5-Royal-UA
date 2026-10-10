@@ -1,0 +1,159 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR3020_000_000.BF",
+ "entries": [
+  {
+   "id": "MSG_DESK_START_THINK#0",
+   "speaker": null,
+   "en": "What should I do[n]at my desk...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DESK_START_THINK_MOR#0",
+   "speaker": "Morgana",
+   "en": "So what are you going to do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DESK_START_THINK_SEL#0",
+   "speaker": null,
+   "en": "Let's make some tools.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DESK_START_THINK_SEL#1",
+   "speaker": null,
+   "en": "Let's fix this laptop.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DESK_START_THINK_SEL#2",
+   "speaker": null,
+   "en": "Let's check Shady Commodities.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DESK_START_THINK_SEL#3",
+   "speaker": null,
+   "en": "Nothing.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPAIR_NotePc_00#0",
+   "speaker": "Morgana",
+   "en": "Come to think of it, you did buy a laptop.[n]It's broken though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPAIR_NotePc_NoItem#0",
+   "speaker": "Morgana",
+   "en": "You'll need some specialized tools to[n]repair it. I wonder where they sell stuff[n]like that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPAIR_NotePc_NoItem_2#0",
+   "speaker": "Morgana",
+   "en": "You won't fix that laptop without some[n]specialized tools. Maybe they have stuff[n]like that in Akihabara?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_REPAIR_NotePc_HaveIt#0",
+   "speaker": "Morgana",
+   "en": "Well, repairing that laptop does seem[n]like a daunting task. Give it a shot when[n]you feel like it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NotePc_Tool_NoItem_N#0",
+   "speaker": "Morgana",
+   "en": "You'll need special tools to fix this.[n]They might sell them somewhere you[n]can find home electronics...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NotePc_Tool_NoItem_Y#0",
+   "speaker": "Morgana",
+   "en": "You'll need special tools to fix this. You[n]can probably get whatever you need in[n]Akihabara.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NotePc_Tool_HaveItem#0",
+   "speaker": "Morgana",
+   "en": "Getting this thing to work won't be easy.[n]Fixing this will take quite a bit of time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Repair_Q#0",
+   "speaker": null,
+   "en": "Let's try fixing this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Repair_Q#1",
+   "speaker": null,
+   "en": "Maybe we'll do this later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WorkDesk_NG_NotToolO#0",
+   "speaker": "Morgana",
+   "en": "...Now really isn't the time for that though.[n]Don't worry, I'll be sure to teach you later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_WorkDesk_NG_GoAfterD#0",
+   "speaker": "Morgana",
+   "en": "...You must be pretty exhausted now,[n]though. Don't worry, I'll be sure to teach[n]you later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHK_WORKBENCH_NG_DNG#0",
+   "speaker": "Morgana",
+   "en": "Aren't you tired? Let's just do this some[n]other time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ActNg_OnlySave#0",
+   "speaker": "Morgana",
+   "en": "We should rest up for tomorrow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CHK_WORKBENCH_NG_SPO#0",
+   "speaker": "Morgana",
+   "en": "Hey, aren't you exhausted? You should[n]probably rest first.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DESK_NG_DEFAULT#0",
+   "speaker": null,
+   "en": "There are all these books[n]piled up on the desk...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ActNg_0505#0",
+   "speaker": "Morgana",
+   "en": "You're full, right? Come on, let's[n]get some sleep.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

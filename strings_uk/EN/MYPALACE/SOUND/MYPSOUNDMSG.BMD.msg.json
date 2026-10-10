@@ -1,0 +1,768 @@
+{
+ "file": "EN/MYPALACE/SOUND/MYPSOUNDMSG.BMD",
+ "entries": [
+  {
+   "id": "MSG_BUY_CONF#0",
+   "speaker": null,
+   "en": "Purchase this track?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BGM_CHANGE#0",
+   "speaker": null,
+   "en": "Change BGM?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_INFO_START_ID#0",
+   "speaker": null,
+   "en": "Persona 5[n]Opening Song[n](Opening movie version)",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_002#0",
+   "speaker": null,
+   "en": "Persona 5[n]Opening Song",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003#0",
+   "speaker": null,
+   "en": "Persona 5[n]Title Screen",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_004#0",
+   "speaker": null,
+   "en": "Plays during the casino scene[n]at the start of the game.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_005#0",
+   "speaker": null,
+   "en": "Plays during the investigation[n]scene and Sae's interrogations.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_006#0",
+   "speaker": null,
+   "en": "Plays during tense scenes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_007#0",
+   "speaker": null,
+   "en": "Plays when the main characters[n]awaken to their Personas.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_008#0",
+   "speaker": null,
+   "en": "Plays when people speak about[n]their struggles or their past.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_009#0",
+   "speaker": null,
+   "en": "Plays on the day of the heist.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010#0",
+   "speaker": null,
+   "en": "Plays when the Phantom Thieves[n]meet a Palace ruler.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_011#0",
+   "speaker": null,
+   "en": "Plays when the Palace ruler[n]has a change of heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_012#0",
+   "speaker": null,
+   "en": "Plays when the protagonist[n]is working on his social stats.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_013#0",
+   "speaker": null,
+   "en": "Plays during quiet scenes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_014#0",
+   "speaker": null,
+   "en": "Plays when the main characters are[n]analyzing and discussing information.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_015#0",
+   "speaker": null,
+   "en": "Plays during daily life.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_016#0",
+   "speaker": null,
+   "en": "Alright[n](Arranged version)",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_017#0",
+   "speaker": null,
+   "en": "Plays when people speak about their[n]struggles or their past. Different song[n]from Confession / Secret.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018#0",
+   "speaker": null,
+   "en": "Plays at the Niijima household.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019#0",
+   "speaker": null,
+   "en": "Plays during scenes where the main[n]characters are planning their strategy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_020#0",
+   "speaker": null,
+   "en": "Plays during suspenseful scenes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_021#0",
+   "speaker": null,
+   "en": "Plays when the main characters[n]are having a good time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_022#0",
+   "speaker": null,
+   "en": "Plays when things are calm.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_023#0",
+   "speaker": null,
+   "en": "Break it Down[n](Arranged version)",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_024#0",
+   "speaker": null,
+   "en": "Plays during school exams.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_025#0",
+   "speaker": null,
+   "en": "Plays when people speak about their[n]struggles or their past. This one carries[n]an especially sad tone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_026#0",
+   "speaker": null,
+   "en": "Plays when you form a contract[n]with a Confidant.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_027#0",
+   "speaker": null,
+   "en": "Plays during Confidant conversations.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_028#0",
+   "speaker": null,
+   "en": "Plays when you spend time[n]with your lover.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_029#0",
+   "speaker": null,
+   "en": "Plays when the Phantom Thieves[n]are making a big decision.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_030#0",
+   "speaker": null,
+   "en": "Plays at school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_031#0",
+   "speaker": null,
+   "en": "Plays when the Phantom[n]Thieves are escaping.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_032#0",
+   "speaker": null,
+   "en": "Plays during scenes where the main[n]characters are planning their strategy.[n]Different song from Suspicion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_033#0",
+   "speaker": null,
+   "en": "Plays during threatening scenes, such[n]as when the enemy is planning or the[n]main characters are worried.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_034#0",
+   "speaker": null,
+   "en": "The ending theme that plays after[n]the defeat of a malevolent god.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_035#0",
+   "speaker": null,
+   "en": "Plays in the city at night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_036#0",
+   "speaker": null,
+   "en": "Plays at Leblanc, while walking to[n]school, and other daily events.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_037#0",
+   "speaker": null,
+   "en": "Plays in the city while it's raining.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_038#0",
+   "speaker": null,
+   "en": "Plays on a rainy day at Leblanc,[n]while walking to school, and[n]other daily events.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_039#0",
+   "speaker": null,
+   "en": "Plays in the city when[n]things are relaxed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_040#0",
+   "speaker": null,
+   "en": "Plays in the city when[n]things are tense.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_041#0",
+   "speaker": null,
+   "en": "Plays at Takemi Medical Clinic.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_042#0",
+   "speaker": null,
+   "en": "Plays at Untouchable.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_043#0",
+   "speaker": null,
+   "en": "Plays in the Velvet Room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_044#0",
+   "speaker": null,
+   "en": "Plays at the convenience store,[n]Triple Seven.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_045#0",
+   "speaker": null,
+   "en": "Plays at Big Bang Burger.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_046#0",
+   "speaker": null,
+   "en": "Plays at the church in Kanda.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_047#0",
+   "speaker": null,
+   "en": "Plays at Crossroads.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_048#0",
+   "speaker": null,
+   "en": "Plays at the Planetarium.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_049#0",
+   "speaker": null,
+   "en": "Plays at the home electronics[n]store in Akihabara.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_050#0",
+   "speaker": null,
+   "en": "Plays at Destinyland.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051#0",
+   "speaker": null,
+   "en": "Plays at the maid café,[n]Alice's Apron.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_052#0",
+   "speaker": null,
+   "en": "Plays during the crane game.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053#0",
+   "speaker": null,
+   "en": "Plays when browsing Tanaka's[n]Shady Commodities.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_054#0",
+   "speaker": null,
+   "en": "Plays during a normal battle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_055#0",
+   "speaker": null,
+   "en": "Plays on the Battle Results screen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_056#0",
+   "speaker": null,
+   "en": "Plays while speaking with a Shadow.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_057#0",
+   "speaker": null,
+   "en": "Plays when a member of the[n]Phantom Thieves awakens to their[n]Persona and charges into battle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_058#0",
+   "speaker": null,
+   "en": "Plays in battle against[n]a powerful enemy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_059#0",
+   "speaker": null,
+   "en": "Plays in battle against[n]the Palace ruler.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_060#0",
+   "speaker": null,
+   "en": "Plays in battle against the[n]Beast of Human Sacrifice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_061#0",
+   "speaker": null,
+   "en": "Plays in battle against Samael[n]and the Holy Grail.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_062#0",
+   "speaker": null,
+   "en": "Plays in battle against Yaldabaoth.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_063#0",
+   "speaker": null,
+   "en": "Plays in battle against Yaldabaoth[n]after summoning Satanael.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_064#0",
+   "speaker": null,
+   "en": "Plays in Safe Rooms.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_065#0",
+   "speaker": null,
+   "en": "Kamoshida's Palace:[n]Underground Prison and[n]inside the castle",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_066#0",
+   "speaker": null,
+   "en": "Kamoshida's Palace:[n]Tower",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_067#0",
+   "speaker": null,
+   "en": "Madarame's Palace:[n]Museum",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_068#0",
+   "speaker": null,
+   "en": "Madarame's Palace:[n]Treasure Room",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_069#0",
+   "speaker": null,
+   "en": "Kaneshiro's Palace:[n]Bank",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_070#0",
+   "speaker": null,
+   "en": "Kaneshiro's Palace:[n]Vault",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_071#0",
+   "speaker": null,
+   "en": "Futaba's Palace:[n]Pyramid",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_072#0",
+   "speaker": null,
+   "en": "Futaba's Palace:[n]Desert Town",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_073#0",
+   "speaker": null,
+   "en": "Okumura's Palace:[n]Spaceport",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_074#0",
+   "speaker": null,
+   "en": "Okumura's Palace:[n]Outer Space",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_075#0",
+   "speaker": null,
+   "en": "Niijima's Palace",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_076#0",
+   "speaker": null,
+   "en": "Shido's Palace",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_077#0",
+   "speaker": null,
+   "en": "Plays in the Prison of Acedia.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_078#0",
+   "speaker": null,
+   "en": "Plays in areas of Mementos[n]such as the Path of Qimranut.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_079#0",
+   "speaker": null,
+   "en": "Persona 5 Royal[n]Opening Song",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_080#0",
+   "speaker": null,
+   "en": "Persona 5 Royal[n]Title Screen",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_081#0",
+   "speaker": null,
+   "en": "Plays on the day of the heist[n]at Maruki's Palace.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_082#0",
+   "speaker": null,
+   "en": "Plays in Maruki's version of reality.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_083#0",
+   "speaker": null,
+   "en": "Plays during counseling with Maruki.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_084#0",
+   "speaker": null,
+   "en": "Maruki's Past BGM (unused)",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_085#0",
+   "speaker": null,
+   "en": "Plays during the post-festival[n]dance scene.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_086#0",
+   "speaker": null,
+   "en": "Shujin Academy school song.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_087#0",
+   "speaker": null,
+   "en": "Left Behind ending (Unused)",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_088#0",
+   "speaker": null,
+   "en": "The ending theme that plays after[n]denying Maruki's reality.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_089#0",
+   "speaker": null,
+   "en": "Plays in the city while[n]Maruki's Palace is active.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_090#0",
+   "speaker": null,
+   "en": "Plays at the Thieves Den.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_091#0",
+   "speaker": null,
+   "en": "Aria of the Soul with vocals (unused)",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_092#0",
+   "speaker": null,
+   "en": "Plays at the jazz club, Jazz Jin.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_093#0",
+   "speaker": null,
+   "en": "Plays at the jazz club, Jazz Jin, when[n]a singer is there to perform.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_094#0",
+   "speaker": null,
+   "en": "Plays at the darts lounge,[n]Penguin Sniper.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_095#0",
+   "speaker": null,
+   "en": "Plays in an ambush battle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_096#0",
+   "speaker": null,
+   "en": "Plays in battle against[n]Azathoth.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_097#0",
+   "speaker": null,
+   "en": "Plays in battle against[n]Adam Kadmon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_098#0",
+   "speaker": null,
+   "en": "Maruki's Palace:[n]Laboratory",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_099#0",
+   "speaker": null,
+   "en": "Maruki's Palace:[n]Twilight Corridor",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_100#0",
+   "speaker": null,
+   "en": "Mementos: Floor Change 1 (unused)",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_101#0",
+   "speaker": null,
+   "en": "Plays in areas of Mementos[n]on the Path of Chemdah.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_102#0",
+   "speaker": null,
+   "en": "Plays in areas of Mementos[n]on the Path of Akzeriyyuth.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_103#0",
+   "speaker": null,
+   "en": "Plays in areas of Mementos[n]on the Path of Sheriruth.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_104#0",
+   "speaker": null,
+   "en": "Plays in areas of Mementos[n]on the Path of Da'at.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_105#0",
+   "speaker": null,
+   "en": "Star Lilina's new song.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_106#0",
+   "speaker": null,
+   "en": "The ending theme that plays after[n]accepting Maruki's perfect reality.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_107#0",
+   "speaker": null,
+   "en": "Plays during a Challenge Battle.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

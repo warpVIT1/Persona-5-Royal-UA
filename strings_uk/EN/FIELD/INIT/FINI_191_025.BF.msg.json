@@ -1,0 +1,572 @@
+{
+ "file": "EN/FIELD/INIT/FINI_191_025.BF",
+ "entries": [
+  {
+   "id": "dummy#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "ATDNG_e185_101_mes01#0",
+   "speaker": "Ryuji",
+   "en": "He was just sayin' a bunch of crap, but we[n]took the Treasure... That was a change of[n]heart, yeah?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATDNG_e185_101_mes02#0",
+   "speaker": "Morgana",
+   "en": "Most likely.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATDNG_e185_101_mes03#0",
+   "speaker": "Ann",
+   "en": "But how are we supposed to know if we[n]succeeded?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATDNG_e185_101_mes04#0",
+   "speaker": "Ryuji",
+   "en": "The lady posted the dude's name online.[n]If he really does change, she'll prolly[n]comment again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATDNG_e185_101_mes05#0",
+   "speaker": "Morgana",
+   "en": "Hm, you do have a point.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATDNG_e185_101_mes06#0",
+   "speaker": "Ryuji",
+   "en": "Either way, trainin' against Shadows[n]down here's the best! It's great prep[n]for our next target!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATDNG_e185_101_mes07#0",
+   "speaker": "Ann",
+   "en": "It's also nice to be able to give courage[n]to the people who post their problems[n]online.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATDNG_e185_101_mes08#0",
+   "speaker": "Morgana",
+   "en": "On top of that, we can sell whatever[n]treasure we get for some cold, hard cash!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATDNG_e185_101_mes09#0",
+   "speaker": "Ryuji",
+   "en": "Sounds like things are goin' pretty great[n]for us!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATDNG_e185_101_mes09#1",
+   "speaker": "Ryuji",
+   "en": "...All right, we did it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATDNG_e185_101_mes10#0",
+   "speaker": "Morgana",
+   "en": "Hold on. There's somewhere I want[n]to show you guys before we leave.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATDNG_e185_101_mes11#0",
+   "speaker": "Ryuji",
+   "en": "What, there's more?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ATDNG_e185_101_mes12#0",
+   "speaker": "Morgana",
+   "en": "Don't worry, it won't take long.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "START_CHECK_SEL#0",
+   "speaker": null,
+   "en": "Let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "START_CHECK_SEL#1",
+   "speaker": null,
+   "en": "Maybe later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "START_CHECK_mes01#0",
+   "speaker": "Morgana",
+   "en": "Our target's up ahead. What's the play,[n]Joker?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "START_OK_mes01#0",
+   "speaker": "Morgana",
+   "en": "All right, get ready!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "START_NG_mes01#0",
+   "speaker": "Morgana",
+   "en": "All right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "QUEST_FLOOR_BACK_mes01#0",
+   "speaker": "Morgana",
+   "en": "Do you want to go back?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "QUEST_FLOOR_BACK_mes02#0",
+   "speaker": "Morgana",
+   "en": "Do you want to leave, Joker?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "QUEST_FLOOR_BACK_SEL#0",
+   "speaker": null,
+   "en": "Leave",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "QUEST_FLOOR_BACK_SEL#1",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "QUEST_EXIT_SEL#0",
+   "speaker": null,
+   "en": "Let's keep going.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "QUEST_EXIT_SEL#1",
+   "speaker": null,
+   "en": "Let's go back to the entrance.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_01_PC02_mes#0",
+   "speaker": "Ryuji",
+   "en": "Well, that's that. What now? You wanna[n]keep exploring?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_01_PC03_mes#0",
+   "speaker": "Morgana",
+   "en": "That takes care of that! What should we[n]do now? Want to keep exploring?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_01_PC04_mes#0",
+   "speaker": "Ann",
+   "en": "That went well! What should we do now?[n]Keep exploring?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_01_PC05_mes#0",
+   "speaker": "Yusuke",
+   "en": "Impressive leadership... Well, what's[n]next? Do you want to continue exploring?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_01_PC06_mes#0",
+   "speaker": "Makoto",
+   "en": "Another case solved. What's next?[n]Do we keep exploring?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_01_PC07_mes#0",
+   "speaker": "Futaba",
+   "en": "Good work. The battle went well![n]What's our next step? Should we keep[n]exploring?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_01_PC08_mes#0",
+   "speaker": "Haru",
+   "en": "I'm glad that went well! But what[n]should we do now? Do you want[n]to keep exploring?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_01_PC09_mes#0",
+   "speaker": "Akechi",
+   "en": "I expected nothing less from the[n]Phantom Thieves. Well, what now?[n]Do you want to keep exploring?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "DUNGEON_EXIT_01_PC10_mes#0",
+   "speaker": "[sumi 10 0]",
+   "en": "A job well done! Shall we continue[n]exploring?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_01_PC02_mes#0",
+   "speaker": "Ryuji",
+   "en": "Headin' back?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_01_PC03_mes#0",
+   "speaker": "Morgana",
+   "en": "Roger that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_01_PC04_mes#0",
+   "speaker": "Ann",
+   "en": "Well, let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_01_PC05_mes#0",
+   "speaker": "Yusuke",
+   "en": "Hmm, I understand.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_01_PC06_mes#0",
+   "speaker": "Makoto",
+   "en": "So we'll regroup. Got it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_01_PC07_mes#0",
+   "speaker": "Futaba",
+   "en": "Ah, regrouping?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_01_PC08_mes#0",
+   "speaker": "Haru",
+   "en": "Okay. That was pretty tiring, after all.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_01_PC09_mes#0",
+   "speaker": "Akechi",
+   "en": "Calling it a day?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_01_PC10_mes#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Got it, let's regroup.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_02_PC02_mes#0",
+   "speaker": "Ryuji",
+   "en": "Mkay, let's go back.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_02_PC03_mes#0",
+   "speaker": "Morgana",
+   "en": "Hmm, I guess it's a good time to leave.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_02_PC04_mes#0",
+   "speaker": "Ann",
+   "en": "Let's regroup.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_02_PC05_mes#0",
+   "speaker": "Yusuke",
+   "en": "Hm, this is wise.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_02_PC06_mes#0",
+   "speaker": "Makoto",
+   "en": "Let's go, then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_02_PC07_mes#0",
+   "speaker": "Futaba",
+   "en": "Returning!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_02_PC08_mes#0",
+   "speaker": "Haru",
+   "en": "Ah, are we taking our leave?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_02_PC09_mes#0",
+   "speaker": "Akechi",
+   "en": "Understood.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_02_PC10_mes#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Sure, heading back.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_03_PC02_mes#0",
+   "speaker": "Ryuji",
+   "en": "Aw yeah, let's go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_03_PC03_mes#0",
+   "speaker": "Morgana",
+   "en": "Sure. It's important to know when to[n]back off.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_03_PC04_mes#0",
+   "speaker": "Ann",
+   "en": "Okay, let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_03_PC05_mes#0",
+   "speaker": "Yusuke",
+   "en": "Let us be on our way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_03_PC06_mes#0",
+   "speaker": "Makoto",
+   "en": "Got it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_03_PC07_mes#0",
+   "speaker": "Futaba",
+   "en": "Okay, leaving!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_03_PC08_mes#0",
+   "speaker": "Haru",
+   "en": "Lead the way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_03_PC09_mes#0",
+   "speaker": "Akechi",
+   "en": "Seems good a time as any to call it a night.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_OK_03_PC10_mes#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Got it. Let's get going!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_GOTO_SAFE_PC02_me#0",
+   "speaker": "Ryuji",
+   "en": "Yeah, we should prolly talk strategy, huh.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_GOTO_SAFE_PC03_me#0",
+   "speaker": "Morgana",
+   "en": "Got it. Let's hold up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_GOTO_SAFE_PC04_me#0",
+   "speaker": "Ann",
+   "en": "Okay. We should have a strategy meeting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_GOTO_SAFE_PC05_me#0",
+   "speaker": "Yusuke",
+   "en": "Yes, let us review our options first.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_GOTO_SAFE_PC06_me#0",
+   "speaker": "Makoto",
+   "en": "Yeah, let's go over our strategy again.[n]Please, Mona, if you will.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_GOTO_SAFE_PC07_me#0",
+   "speaker": "Futaba",
+   "en": "All right. Go ahead, Mona.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_GOTO_SAFE_PC08_me#0",
+   "speaker": "Haru",
+   "en": "Okay. Let's take a breather.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_GOTO_SAFE_PC09_me#0",
+   "speaker": "Akechi",
+   "en": "That might be the best call. I'm counting[n]on you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_GOTO_SAFE_PC10_me#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Taking a break? Got it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_CANCEL_PC02_mes#0",
+   "speaker": "Ryuji",
+   "en": "Mkay, I'm good to go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_CANCEL_PC03_mes#0",
+   "speaker": "Morgana",
+   "en": "Sure. We can make some more money.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_CANCEL_PC04_mes#0",
+   "speaker": "Ann",
+   "en": "Yeah, let's push ahead a little further.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_CANCEL_PC05_mes#0",
+   "speaker": "Yusuke",
+   "en": "Let's do that. There must be more places[n]to explore.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_CANCEL_PC06_mes#0",
+   "speaker": "Makoto",
+   "en": "Right. I can keep at it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_CANCEL_PC07_mes#0",
+   "speaker": "Futaba",
+   "en": "Understood. I'll go with you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_CANCEL_PC08_mes#0",
+   "speaker": "Haru",
+   "en": "Sure, I can keep going!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_CANCEL_PC09_mes#0",
+   "speaker": "Akechi",
+   "en": "Understood. I'll accompany you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_EXIT_CANCEL_PC10_mes#0",
+   "speaker": "[sumi 10 0]",
+   "en": "All right, let's keep going!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_AREA0_TARGET_MORE_mes#0",
+   "speaker": "Morgana",
+   "en": "How many targets left in this area?[n][clr 2][var 0][clr 27]? Okay, then what's our next move,[n]Joker?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D_AREA0_TARGET_NONE_mes#0",
+   "speaker": "Morgana",
+   "en": "There are no more targets in this area.[n]What's our next move, Joker?",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

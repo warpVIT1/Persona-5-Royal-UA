@@ -1,0 +1,607 @@
+{
+ "file": "EN/FIELD/NPC/FNPC156_051_00.BF",
+ "entries": [
+  {
+   "id": "TEST_MES#0",
+   "speaker": null,
+   "en": "Test",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ryuzi1#0",
+   "speaker": "Ryuji",
+   "en": "Dude, Noir's Persona is friggin' serious[n]business! ...Oh! I meant it like a[n]compliment, though!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ryuzi1#1",
+   "speaker": "Ryuji",
+   "en": "But, uh, dude: don'tcha think the[n]Personas these girls got are scary?[n]I better make sure not to piss 'em off...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ryuzi2#0",
+   "speaker": "Ryuji",
+   "en": "Man, it was so weird without Mona...[n]I shouldn'ta mouthed off to him[n]as bad as I did.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ryuzi2#1",
+   "speaker": "Ryuji",
+   "en": "Oh, but don't tell him I said that, okay?[n]It'd be pretty embarrassin'.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ryuzi3#0",
+   "speaker": "Ryuji",
+   "en": "Now that we got that chief director ID,[n]we can keep movin'.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ryuzi4#0",
+   "speaker": "Ryuji",
+   "en": "This Palace is huge—but I guess the[n]building it's based around was huge[n]in the first place.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ryuzi4#1",
+   "speaker": "Ryuji",
+   "en": "Wouldn't it be awesome to work in[n]a huge-ass building like this?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ryuzi5#0",
+   "speaker": "Ryuji",
+   "en": "Work until you drop, huh? This place[n]might actually be worse than[n]Kamoshida's training seshes...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ryuzi6#0",
+   "speaker": "Ryuji",
+   "en": "What're they workin' so hard for,[n]anyho— Oh, right... They don't got[n]a choice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ryuzi7#0",
+   "speaker": "Ryuji",
+   "en": "I don't care how many times we do it—[n]flyin' around in space without a suit[n]or anythin' freaks me out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ryuzi8#0",
+   "speaker": "Ryuji",
+   "en": "Sweet, that was a piece of cake! Let's[n]swipe that treasure and bounce!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_mona1#0",
+   "speaker": "Morgana",
+   "en": "So, Noir's Persona has fully awakened,[n]huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_mona1#1",
+   "speaker": "Morgana",
+   "en": "W-Well, of course! I meant, like, it went[n]exactly as planned! Ahem... I knew it'd[n]happen this entire time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_mona2#0",
+   "speaker": "Morgana",
+   "en": "Finding the treasure's gonna be easier[n]than ever, thanks to Futaba getting us[n]the map!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_mona3#0",
+   "speaker": "Morgana",
+   "en": "Let's see, what section would I make[n]a good chief of... Oh, who am I kidding—[n]I'd just hafta be the chairman!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_mona4#0",
+   "speaker": "Morgana",
+   "en": "*sigh* Why's this Palace so big?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_mona4#1",
+   "speaker": "Morgana",
+   "en": "Well, I guess it's at least partly since[n]the actual building is really big, too...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_mona5#0",
+   "speaker": "Morgana",
+   "en": "Working the employees until they[n]drop... What exactly is Okumura[n]getting out of it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_mona6#0",
+   "speaker": "Morgana",
+   "en": "When I'm finally human again, there's[n]nooo way I'm throwing my life away[n]on some job.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_mona7#0",
+   "speaker": "Morgana",
+   "en": "I think those airlocks... They're makin'[n]me... Blugh... *urp*",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SAFE_MES_mona1#0",
+   "speaker": null,
+   "en": "You all right there?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SAFE_MES_mona1#1",
+   "speaker": null,
+   "en": "Wanna go for another spin?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_mona1_1#0",
+   "speaker": "Morgana",
+   "en": "I'll be fine... But, thanks, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_mona1_2#0",
+   "speaker": "Morgana",
+   "en": "Wha— Hell no! What kind of monster[n]are you? C'mon, let's just get this[n]over with already!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_mona8#0",
+   "speaker": "Morgana",
+   "en": "This ruler could be related to all the[n]breakdowns somehow... We should[n]be extra careful this time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_an1#0",
+   "speaker": "Ann",
+   "en": "With Noir's Persona fully awakened,[n]we're way stronger now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_an2#0",
+   "speaker": "Ann",
+   "en": "I took a peek at the map—it sure is huge.[n]We may have a long way to go, but let's[n]just try our best!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_an3#0",
+   "speaker": "Ann",
+   "en": "Chief Clerk... Section Chief... Chief[n]Director... I guess I kinda understand[n]what they all are, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_an3#1",
+   "speaker": "Ann",
+   "en": "Which one's actually the highest rank?[n]Do you have any idea?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_an4#0",
+   "speaker": "Ann",
+   "en": "We're finally in the right building with[n]the treasure, but we still need to actually[n]find it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_an5#0",
+   "speaker": "Ann",
+   "en": "I wonder if real hamburger factories[n]are like this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_an5#1",
+   "speaker": "Ann",
+   "en": "If so... I don't think I can eat them[n]anymore.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_an6#0",
+   "speaker": "Ann",
+   "en": "All his employees are just robots to[n]him—he even uses his daughter so[n]he can climb his way to the top...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_an6#1",
+   "speaker": "Ann",
+   "en": "What kind of treasure would a person[n]like that even have?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_an7#0",
+   "speaker": "Ann",
+   "en": "It feels SO weird to be in zero gravity.[n]My body feels so light, but I can't move[n]around nearly as easily as I expect.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_an8#0",
+   "speaker": "Ann",
+   "en": "Joker, we have to take that treasure—[n]for Haru's sake, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_yusuke1#0",
+   "speaker": "Yusuke",
+   "en": "Now we're in space, of all places![n]Palaces are absolute treasure troves[n]for my work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_yusuke2#0",
+   "speaker": "Yusuke",
+   "en": "I don't think this place is Utopia[n]to anyone, based on appearances...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_yusuke3#0",
+   "speaker": "Yusuke",
+   "en": "No one performs adequately for[n]anyone THAT strict.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_yusuke4#0",
+   "speaker": "Yusuke",
+   "en": "Never in all my days have I seen such[n]a sight... What a shame that I haven't[n]the time to sketch it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_yusuke5#0",
+   "speaker": "Yusuke",
+   "en": "What exactly are they making here?[n]I know full well it's not hamburgers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_yusuke6#0",
+   "speaker": "Yusuke",
+   "en": "The employees in our reality are[n]probably working their own lives[n]away as well...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_yusuke6#1",
+   "speaker": "Yusuke",
+   "en": "I can't imagine they led their lives[n]knowing they'd one day be used[n]and disposed of by Okumura.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_yusuke7#0",
+   "speaker": "Yusuke",
+   "en": "I wonder if the absence of gravity can[n]be utilized in my work... Perhaps this[n]experience will open my eyes to it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_yusuke8#0",
+   "speaker": "Yusuke",
+   "en": "We didn't find any information about the[n]plan... What is this utopia he speaks of?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_makoto1#0",
+   "speaker": "Makoto",
+   "en": "Using his own daughter like she's just[n]some sort of stepstool... We just have to[n]change his heart!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_makoto2#0",
+   "speaker": "Makoto",
+   "en": "Escape to Utopia? What could that[n]possibly mean?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_makoto3#0",
+   "speaker": "Makoto",
+   "en": "It must be tough as a middle manager—[n]having to consider both your boss's[n]demands and your employees' needs...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_makoto4#0",
+   "speaker": "Makoto",
+   "en": "Going from the outside was a wise idea—[n]it would have taken forever otherwise.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_makoto5#0",
+   "speaker": "Makoto",
+   "en": "They can't even take a standard break...[n]How are these employees supposed to[n]keep going at that rate?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_makoto6#0",
+   "speaker": "Makoto",
+   "en": "This Palace is full of shoddy, replaceable[n]robots... That's probably just how[n]Okumura sees his employees.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_makoto7#0",
+   "speaker": "Makoto",
+   "en": "I get that there's no gravity in space,[n]but... don't you think this Palace is[n]just a bit overboard?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_makoto8#0",
+   "speaker": "Makoto",
+   "en": "You know... I wonder what they were[n]making.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_haru1#0",
+   "speaker": "Haru",
+   "en": "So, Milady is another part of me,[n]correct? But... she has so much[n]power...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_haru1#1",
+   "speaker": "Haru",
+   "en": "*chuckle* Now I can finally contribute.[n]I'll do my best not to let down the[n]Phantom Thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_haru2#0",
+   "speaker": "Haru",
+   "en": "Even I'm not sure what my father's[n]been thinking...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_haru2#1",
+   "speaker": "Haru",
+   "en": "But I do know that we must stop[n]him... Let's keep going, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_haru3#0",
+   "speaker": "Haru",
+   "en": "We can finally progress. Don't worry,[n]I can keep going—I made up my mind[n]some time ago!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_haru4#0",
+   "speaker": "Haru",
+   "en": "Leaping from one platform to the next...[n]Now that is proper phantom thief[n]behavior.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_haru5#0",
+   "speaker": "Haru",
+   "en": "Making his employees work until they[n]can't function anymore... No leader[n]should ever do that to his workers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_haru6#0",
+   "speaker": "Haru",
+   "en": "I can't believe the company expects[n]everyone to use themselves up entirely[n]just for this place...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SAFE_MES_haru1#0",
+   "speaker": null,
+   "en": "We'll change his heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SAFE_MES_haru1#1",
+   "speaker": null,
+   "en": "Are you okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_haru1_1#0",
+   "speaker": "Haru",
+   "en": "Mmhm, definitely. As his daughter,[n]it's my responsibility more than[n]anyone else's!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_haru1_2#0",
+   "speaker": "Haru",
+   "en": "Yes, thank you—in fact, I feel like[n]I HAVE to do this now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_haru7#0",
+   "speaker": "Haru",
+   "en": "We're so close to being able to change[n]Father's heart! Let's finish off the[n]infiltration route!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_haru8#0",
+   "speaker": "Haru",
+   "en": "Father... I WILL change your heart!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_hutaba1#0",
+   "speaker": "Futaba",
+   "en": "Noir admiring all those female[n]superheroes... I know exactly[n]where she's comin' from!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_hutaba2#0",
+   "speaker": "Futaba",
+   "en": "Wanna see the map? Just gimme one[n]sec and I've got you covered!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_hutaba3#0",
+   "speaker": "Futaba",
+   "en": "Way to score an ID, Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_hutaba3#1",
+   "speaker": "Futaba",
+   "en": "You just make me more and more[n]proud to navigate you guys!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_hutaba4#0",
+   "speaker": "Futaba",
+   "en": "Isn't this spaceport amazing!? If only it[n]weren't a Palace—I'd wanna take the[n]grand tour!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_hutaba5#0",
+   "speaker": "Futaba",
+   "en": "No matter how much they work,[n]they never get to see it end...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_hutaba6#0",
+   "speaker": "Futaba",
+   "en": "These employees are just resources to[n]Okumura, just machines... I hope there[n]aren't too many companies like this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_hutaba7#0",
+   "speaker": "Futaba",
+   "en": "I'm SO glad I read that article on outer[n]space the other day!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_hutaba7#1",
+   "speaker": "Futaba",
+   "en": "...Although, this is actually just a Palace,[n]so I guess it's not gonna do us any good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_hutaba8#0",
+   "speaker": "Futaba",
+   "en": "Route secured! Nice work, Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TEST_VELVET_GIRL_QUIET01#0",
+   "speaker": "Justine",
+   "en": "Sinner who is tied to the chains of fate...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TEST_VELVET_GIRL_QUIET01#1",
+   "speaker": "Justine",
+   "en": "You must not dawdle in the real world.[n]Return to your cell and find the strength[n]to resist.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TEST_VELVET_GIRL_QUIET02#0",
+   "speaker": "Justine",
+   "en": "Your must continue to resist in order[n]to change your fate...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TEST_VELVET_GIRL_LOUD01#0",
+   "speaker": "Caroline",
+   "en": "Heehee! Do you really have the time[n]to fool around?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TEST_VELVET_GIRL_LOUD01#1",
+   "speaker": "Caroline",
+   "en": "Get back in the pokey and challenge[n]your fate!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TEST_VELVET_GIRL_LOUD02#0",
+   "speaker": "Caroline",
+   "en": "Give it all you got! Your future depends[n]on it!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

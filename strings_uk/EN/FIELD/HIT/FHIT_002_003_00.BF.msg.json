@@ -1,0 +1,859 @@
+{
+ "file": "EN/FIELD/HIT/FHIT_002_003_00.BF",
+ "entries": [
+  {
+   "id": "DUMMY_MSG#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_place#0",
+   "speaker": "Morgana",
+   "en": "You don't need to be here right[n]now, do you? Come on, let's head[n]somewhere else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_etc#0",
+   "speaker": "Morgana",
+   "en": "What's wrong? Come on, we should[n]go say goodbye to the others!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CHK_TOILET_MEN_01#0",
+   "speaker": null,
+   "en": "This is the guys' bathroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "CHK_TOILET_MEN_01#1",
+   "speaker": null,
+   "en": "It's far dirtier than the ones[n]in the classroom building...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TOILET_WOMEN_MORU#0",
+   "speaker": "Morgana",
+   "en": "Don't you know that's the girls'[n]bathroom? You're not supposed[n]to be in there...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TOILET_WOMEN#0",
+   "speaker": null,
+   "en": "I don't have a good reason[n]to be in the ladies' restroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HOKEN_ROOM_MORU#0",
+   "speaker": "Morgana",
+   "en": "Ugh... Why does the nurse's office have[n]to reek of medicine? It seriously hurts[n]my nose...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HOKEN_ROOM#0",
+   "speaker": null,
+   "en": "I can smell the medicine[n]in the nurse's office through[n]the cracked door...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KATEIKA_MORU#0",
+   "speaker": "Morgana",
+   "en": "Something smells good... I wonder if[n]someone was cooking in there earlier.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KATEIKA#0",
+   "speaker": null,
+   "en": "A pleasant aroma is wafting[n]this way. Maybe someone was[n]cooking something earlier.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HIHUKU_ROOM_MORU#0",
+   "speaker": "Morgana",
+   "en": "That's a lot of sewing machines.[n]It would probably get really loud[n]if they were all on at once.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HIHUKU_ROOM#0",
+   "speaker": null,
+   "en": "There are a great many sewing[n]machines on the desks...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BUTURI_ROOM_MORU#0",
+   "speaker": "Morgana",
+   "en": "Somebody left some lab equipment[n]on the desk... That doesn't sound like[n]proper protocol to me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BUTURI_ROOM#0",
+   "speaker": null,
+   "en": "There's some lab equipment[n]strewn across the desk...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Emergency_Door_m#0",
+   "speaker": "Morgana",
+   "en": "Hold on, we should use the main[n]entrance if you wanna go outside.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Emergency_Door#0",
+   "speaker": null,
+   "en": "There's no reason for me[n]to use the emergency exit...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Kateika_Tool#0",
+   "speaker": "Morgana",
+   "en": "These might have sparkled at one point,[n]but they're just old and dull now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Kateika_Tool#0",
+   "speaker": null,
+   "en": "They've been used so many times,[n]the sheen has worn off completely...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_NG_BldgB1F#0",
+   "speaker": null,
+   "en": "I better hurry to the courtyard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E15010100_NG_BldgB1F#0",
+   "speaker": "Mishima",
+   "en": "I think Sakamoto went up to the[n][clr 2]PE faculty office on the second floor[clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E15010100_NG_BldgB1F#0",
+   "speaker": null,
+   "en": "For now, I better try[n]to get to Ryuji...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65410200_NG_BldgB1F#0",
+   "speaker": "Morgana",
+   "en": "Hey, where are you going? Don't you[n]have to chase after that butterfly?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_NG_BldgB1F#0",
+   "speaker": "Ryuji",
+   "en": "Hey, I said the main entrance![n]He's gonna leave if we don't hurry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E15010100_NG_BldgB1F_2#0",
+   "speaker": "Mishima",
+   "en": "I think Sakamoto went up to the[n][clr 2]PE faculty office on the second floor[clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E15010100_NG_BldgB1F_2#0",
+   "speaker": null,
+   "en": "For now, I better try[n]to get to Ryuji...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_NG_BldgB1F_2#0",
+   "speaker": "Ryuji",
+   "en": "Hey, I said the main entrance![n]He's gonna leave if we don't hurry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65110100_NG_BldgB1F#0",
+   "speaker": "Lavenza",
+   "en": "......",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E65110100_NG_BldgB1F#0",
+   "speaker": null,
+   "en": "Not this way...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E65410200_NG_BldgB1F_2#0",
+   "speaker": "Morgana",
+   "en": "Hey, where are you going? Don't you[n]have to chase after that butterfly?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_TOILET#0",
+   "speaker": null,
+   "en": "This is the guys' bathroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_TOILET#1",
+   "speaker": null,
+   "en": "It's far dirtier than the ones[n]in the classroom building...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_TOILET#0",
+   "speaker": null,
+   "en": "This is the guys' bathroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_TOILET#1",
+   "speaker": null,
+   "en": "It's far dirtier than the ones[n]in the classroom building...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_TOILET#0",
+   "speaker": null,
+   "en": "This is the guys' bathroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_TOILET#1",
+   "speaker": null,
+   "en": "There's nothing in particular[n]that I need to do here for now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_CHK_TOILET#0",
+   "speaker": "Ryuji",
+   "en": "Hey, what're you doin'!? We gotta hurry[n]and catch up to Mishima!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_TOILET#0",
+   "speaker": null,
+   "en": "This is the guys' bathroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_TOILET#1",
+   "speaker": null,
+   "en": "It's far dirtier than the ones[n]in the classroom building...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_CHK_TOILET#0",
+   "speaker": null,
+   "en": "I better hurry to the courtyard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E15010100_CHK_TOILET#0",
+   "speaker": "Mishima",
+   "en": "I think Sakamoto went up to the[n][clr 2]PE faculty office on the second floor[clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E15010100_CHK_TOILET#0",
+   "speaker": null,
+   "en": "For now, I better try[n]to get to Ryuji...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E23810100_CHK_TOILET#0",
+   "speaker": "Morgana",
+   "en": "Not now. Isn't the student council room on[n]the [clr 2]third floor of the classroom building[clr 27]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E65110100_CHK_TOILET#0",
+   "speaker": null,
+   "en": "I better hurry on my way...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_TOILET_ME#0",
+   "speaker": null,
+   "en": "This is the guys' bathroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_TOILET_ME#1",
+   "speaker": null,
+   "en": "There's nothing in particular[n]that I need to do here for now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_TOILET_2#0",
+   "speaker": null,
+   "en": "This is the ladies' bathroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_TOILET_2#1",
+   "speaker": null,
+   "en": "I better get out of here.[n]Someone might get the wrong[n]idea if I stick around too long.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_TOILET_2#0",
+   "speaker": null,
+   "en": "This is the ladies' bathroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_TOILET_2#1",
+   "speaker": null,
+   "en": "I better get out of here.[n]Someone might get the wrong[n]idea if I stick around too long.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_TOILET_2#0",
+   "speaker": null,
+   "en": "This is the ladies' bathroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_TOILET_2#1",
+   "speaker": null,
+   "en": "I better get out of here.[n]Someone might get the wrong[n]idea if I stick around too long.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_CHK_TOILET_2#0",
+   "speaker": "Ryuji",
+   "en": "Hey, what're you doin'!? We gotta hurry[n]and catch up to Mishima!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_TOILET_2#0",
+   "speaker": null,
+   "en": "This is the ladies' bathroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_TOILET_2#1",
+   "speaker": null,
+   "en": "I better get out of here.[n]Someone might get the wrong[n]idea if I stick around too long.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_CHK_TOILET_2#0",
+   "speaker": null,
+   "en": "I better hurry to the courtyard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E15010100_CHK_TOILET_2#0",
+   "speaker": "Mishima",
+   "en": "I think Sakamoto went up to the[n][clr 2]PE faculty office on the second floor[clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E15010100_CHK_TOILET_2#0",
+   "speaker": null,
+   "en": "For now, I better try[n]to get to Ryuji...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E23810100_CHK_TOILET_2#0",
+   "speaker": "Morgana",
+   "en": "You don't need anything this way, do[n]you? Isn't the student council room on[n]the [clr 2]third floor of the classroom building[clr 27]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E65110100_CHK_TOILET_2#0",
+   "speaker": null,
+   "en": "I better hurry on my way...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_TOILET_WO#0",
+   "speaker": null,
+   "en": "This is the ladies' bathroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_TOILET_WO#1",
+   "speaker": null,
+   "en": "I better get out of here.[n]Someone might get the wrong[n]idea if I stick around too long.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_HOKENS#0",
+   "speaker": null,
+   "en": "It's the infirmary.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_HOKENS#1",
+   "speaker": null,
+   "en": "There's that faint[n]smell of antiseptic...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_HOKENS#0",
+   "speaker": null,
+   "en": "This is the nurse's office.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_HOKENS#1",
+   "speaker": null,
+   "en": "There's that faint[n]smell of antiseptic...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_HOKENS#0",
+   "speaker": null,
+   "en": "A student who got injured during[n]the ball game is getting treated here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_HOKENS#1",
+   "speaker": null,
+   "en": "I don't see any students[n]with any major injuries...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_CHK_HOKENS#0",
+   "speaker": "Ryuji",
+   "en": "Hey, I said the main entrance![n]He's gonna leave if we don't hurry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_HOKENS#0",
+   "speaker": null,
+   "en": "This is the nurse's office.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_HOKENS#1",
+   "speaker": null,
+   "en": "There's that faint[n]smell of antiseptic...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_CHK_HOKENS#0",
+   "speaker": null,
+   "en": "I better hurry to the courtyard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E15010100_CHK_HOKENS#0",
+   "speaker": "Mishima",
+   "en": "I think Sakamoto went up to the[n][clr 2]PE faculty office on the second floor[clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E15010100_CHK_HOKENS#0",
+   "speaker": null,
+   "en": "For now, I better try[n]to get to Ryuji...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E23810100_CHK_HOKENS#0",
+   "speaker": "Morgana",
+   "en": "This is the nurse's office. Isn't the student[n]council room on the [clr 2]third floor of the[n]classroom building[clr 27]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E65110100_CHK_HOKENS#0",
+   "speaker": null,
+   "en": "No use going back...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E65110100_CHK_HOKENS#1",
+   "speaker": null,
+   "en": "I better hurry on my way...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_HOKENSITU#0",
+   "speaker": null,
+   "en": "There's nothing in particular[n]that I need to do here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_KATEIK#0",
+   "speaker": null,
+   "en": "This is the home economics room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_KATEIK#1",
+   "speaker": null,
+   "en": "I can see all sorts of cooking[n]utensils lined up on the shelf...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_KATEIK#0",
+   "speaker": null,
+   "en": "This is the home economics room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_KATEIK#1",
+   "speaker": null,
+   "en": "It smells like they're cooking[n]something. From the aroma, it[n]must be something delicious...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_KATEIK#0",
+   "speaker": null,
+   "en": "This is the home economics room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_KATEIK#1",
+   "speaker": null,
+   "en": "Someone left a burnt[n]pot out in the open...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_CHK_KATEIK#0",
+   "speaker": "Ryuji",
+   "en": "Hey, I said the main entrance![n]He's gonna leave if we don't hurry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_KATEIK#0",
+   "speaker": null,
+   "en": "This is the home economics room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_KATEIK#1",
+   "speaker": null,
+   "en": "It smells like they're cooking[n]something. From the aroma, it[n]must be something delicious...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_CHK_KATEIK#0",
+   "speaker": null,
+   "en": "I better hurry to the courtyard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E15010100_CHK_KATEIK#0",
+   "speaker": "Mishima",
+   "en": "I think Sakamoto went up to the[n][clr 2]PE faculty office on the second floor[clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E15010100_CHK_KATEIK#0",
+   "speaker": null,
+   "en": "For now, I better try[n]to get to Ryuji...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E23810100_CHK_KATEIK#0",
+   "speaker": "Morgana",
+   "en": "This is... the home economics room.[n]Isn't the student council room on the[n][clr 2]third floor of the classroom building[clr 27]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E65110100_CHK_KATEIK#0",
+   "speaker": null,
+   "en": "I better hurry on my way...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_KATEIKASI#0",
+   "speaker": null,
+   "en": "There's nothing in particular[n]that I need to do here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_HIFUKU#0",
+   "speaker": null,
+   "en": "This looks like the[n]dressmaking room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_HIFUKU#1",
+   "speaker": null,
+   "en": "There are numerous sewing[n]machines all lined up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_HIFUKU#0",
+   "speaker": null,
+   "en": "This is the sewing room.[n]There are numerous sewing[n]machines all lined up here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_HIFUKU#0",
+   "speaker": null,
+   "en": "This is the sewing room.[n]There are numerous sewing[n]machines all lined up here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_CHK_HIFUKU#0",
+   "speaker": "Ryuji",
+   "en": "Hey, I said the main entrance![n]He's gonna leave if we don't hurry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_HIFUKU#0",
+   "speaker": null,
+   "en": "This is the sewing room.[n]There are numerous sewing[n]machines all lined up here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_CHK_HIFUKU#0",
+   "speaker": null,
+   "en": "I better hurry to the courtyard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E15010100_CHK_HIFUKU#0",
+   "speaker": "Mishima",
+   "en": "I think Sakamoto went up to the[n][clr 2]PE faculty office on the second floor[clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E15010100_CHK_HIFUKU#0",
+   "speaker": null,
+   "en": "For now, I better[n]try to get to Ryuji...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E23810100_CHK_HIFUKU#0",
+   "speaker": "Morgana",
+   "en": "This is the sewing room. Isn't the student[n]council room on the [clr 2]third floor of the[n]classroom building[clr 27]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E65110100_CHK_HIFUKU#0",
+   "speaker": null,
+   "en": "I better hurry on my way...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_HIFUKUSIT#0",
+   "speaker": null,
+   "en": "There's nothing in particular[n]that I need to do here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_BUTURI#0",
+   "speaker": null,
+   "en": "It's the physics room.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12310100_CHK_BUTURI#1",
+   "speaker": null,
+   "en": "Someone left all this lab[n]equipment out in the open...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E12720100_CHK_BUTURI#0",
+   "speaker": null,
+   "en": "This is the physics room.[n]There's a lot of unattended[n]lab equipment in here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E13710100_CHK_BUTURI#0",
+   "speaker": null,
+   "en": "This is the physics room.[n]There's a lot of unattended[n]lab equipment in here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E13910100_CHK_BUTURI#0",
+   "speaker": "Ryuji",
+   "en": "Hey, I said the main entrance![n]He's gonna leave if we don't hurry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14130100_CHK_BUTURI#0",
+   "speaker": null,
+   "en": "This is the physics room.[n]There's a lot of unattended[n]lab equipment in here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E14710100_CHK_BUTURI#0",
+   "speaker": null,
+   "en": "I better hurry to the courtyard...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E15010100_CHK_BUTURI#0",
+   "speaker": "Mishima",
+   "en": "I think Sakamoto went up to the[n][clr 2]PE faculty office on the second floor[clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E15010100_CHK_BUTURI#0",
+   "speaker": null,
+   "en": "For now, I better[n]try to get to Ryuji...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E23810100_CHK_BUTURI#0",
+   "speaker": "Morgana",
+   "en": "This seems like the physics room. Isn't the[n]student council room on the [clr 2]third[n]floor of the classroom building[clr 27]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E65110100_CHK_BUTURI#0",
+   "speaker": null,
+   "en": "I better hurry on my way...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_BUTURISIT#0",
+   "speaker": null,
+   "en": "There's nothing in particular[n]that I need to do here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E65110100_CHK_EMERGE#0",
+   "speaker": null,
+   "en": "Not this way...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_KFEVT_EXIT_DOOR#0",
+   "speaker": "Morgana",
+   "en": "That's the emergency exit! You don't[n]want to mess with that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_KFEVT_EXIT_DOOR#0",
+   "speaker": null,
+   "en": "There's no reason for me[n]to use the emergency exit...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E65110100_CHK_KATEIK_2#0",
+   "speaker": null,
+   "en": "I better hurry on my way...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COMMON_CHK_KATEIKA_T#0",
+   "speaker": null,
+   "en": "There's nothing in particular[n]that I need to do here...",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

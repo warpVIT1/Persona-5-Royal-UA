@@ -1,0 +1,677 @@
+{
+ "file": "EN/FIELD/PARTY/FOLLOWER.BF",
+ "entries": [
+  {
+   "id": "TEST_MES_RYUJI#0",
+   "speaker": "Ryuji",
+   "en": "Huh? 'Sup?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TEST_MES_MORGANA#0",
+   "speaker": "Morgana",
+   "en": "Are you daydreaming?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TEST_MES_ANNE#0",
+   "speaker": "Ann",
+   "en": "Huh? What's wrong?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TEST_MES_MISHIMA#0",
+   "speaker": "Mishima",
+   "en": "What's up?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TEST_MES_YUSUKE#0",
+   "speaker": "Yusuke",
+   "en": "Hm? What appears to be the matter?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "TEST_MES_MAKOTO#0",
+   "speaker": "Makoto",
+   "en": "Oh? Is something wrong?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RYUJI_SPOT_TUTORIAL01#0",
+   "speaker": "Ryuji",
+   "en": "Shibuya's all crowded and shit,[n]but I don't really mind it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RYUJI_SPOT_TUTORIAL02#0",
+   "speaker": "Ryuji",
+   "en": "Though dude... ain't your clothes[n]kinda outdated?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "RYUJI_SPOT_TUTORIAL03#0",
+   "speaker": "Ryuji",
+   "en": "Anyway, let's head over to the JL ticket[n]gates.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E137101_RYUJI_000_00#0",
+   "speaker": "Ryuji",
+   "en": "C'mon, we gotta ask the volleyball[n]team members we saw at the castle[n]about Kamoshida abusin' them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E137101_RYUJI_000_00#1",
+   "speaker": "Ryuji",
+   "en": "Let's start with the guy in Class D—[n]your class.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E137101_RYUJI_000_00#2",
+   "speaker": "Ryuji",
+   "en": "Our classrooms are on the second floor.[n]Let's roll.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E137101_RYUJI_001_00#0",
+   "speaker": "Ryuji",
+   "en": "The whole volleyball team's here for[n]the rally. This is the perfect chance to[n]find some shit out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E137101_RYUJI_001_00#1",
+   "speaker": "Ryuji",
+   "en": "Let's start with the guy in Class D—[n]your class.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E137101_RYUJI_001_00#2",
+   "speaker": "Ryuji",
+   "en": "Our classrooms are on the second floor.[n]Let's roll.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E137101_RYUJI_002_00#0",
+   "speaker": "Ryuji",
+   "en": "We don't got time to waste. It'd be[n]a real pain if Kamoshida found out[n]what we were doin' here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E137101_RYUJI_002_00#1",
+   "speaker": "Ryuji",
+   "en": "C'mon, we gotta finish this while[n]the volleyball rally's still goin' on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E137201_RYUJI_000_00#0",
+   "speaker": "Ryuji",
+   "en": "Let's go talk to Mishima before[n]he goes home, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E137201_RYUJI_001_00#0",
+   "speaker": "Ryuji",
+   "en": "He totally spiked him right in the face.[n]That had to have been on purpose...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E137201_RYUJI_002_00#0",
+   "speaker": "Ryuji",
+   "en": "We don't got time to be dickin' around.[n]Mishima's gonna go home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E139101_RYUJI_000_00#0",
+   "speaker": "Ryuji",
+   "en": "He totally spiked him right in the face.[n]That had to have been on purpose...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E139101_RYUJI_001_00#0",
+   "speaker": "Ryuji",
+   "en": "C'mon, we gotta hurry—everyone's[n]startin' to leave!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E139101_RYUJI_002_00#0",
+   "speaker": "Ryuji",
+   "en": "Let's catch up to Mishima so we can[n]ask him some stuff.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E147101_RYUJI_000_00#0",
+   "speaker": "Ryuji",
+   "en": "Dammit, what the hell's going on!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E147101_RYUJI_001_00#0",
+   "speaker": "Ryuji",
+   "en": "She fell into the courtyard! C'mon,[n]let's go!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E147101_RYUJI_002_00#0",
+   "speaker": "Ryuji",
+   "en": "I just talked to her yesterday too...[n]Suzui...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E150101_MISHIMA_000_#0",
+   "speaker": "Mishima",
+   "en": "The PE faculty office... Mr. Kamoshida[n]always used it for, uh... you know...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E150101_MISHIMA_001_#0",
+   "speaker": "Mishima",
+   "en": "We didn't have a choice... Nobody can[n]defy him... But Suzui, she...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E150101_MISHIMA_002_#0",
+   "speaker": "Mishima",
+   "en": "Shouldn't we go after him? You're[n]going to see Mr. Kamoshida, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E193101_RYUJI_000_00#0",
+   "speaker": "Ryuji",
+   "en": "If Madarame's seriously guilty,[n]he's totally the perfect target.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E193101_RYUJI_001_00#0",
+   "speaker": "Ryuji",
+   "en": "Well, let's try lookin' into this[n]carefully. After all, it's the[n]debut for [group]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E193101_RYUJI_002_00#0",
+   "speaker": "Ryuji",
+   "en": "Can we really go this way? I'm gonna be[n]real sad if we end up miles off course...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E193101_ANNE_000_00#0",
+   "speaker": "Ann",
+   "en": "Could a gentleman like that really be[n]plagiarizing and abusing his pupils?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E193101_ANNE_000_00#1",
+   "speaker": "Ann",
+   "en": "If it's really true, then Kitagawa-kun...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E193101_ANNE_001_00#0",
+   "speaker": "Ann",
+   "en": "How do we get to Madarame's house?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E193101_ANNE_001_00#1",
+   "speaker": "Ann",
+   "en": "I think it's past Central Street. Let's walk[n]the rest of the way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E193101_ANNE_002_00#0",
+   "speaker": "Ann",
+   "en": "That reminds me, Madarame has an[n]exhibit running in Shibuya right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E193101_ANNE_002_00#1",
+   "speaker": "Ann",
+   "en": "Anyway, let's catch the train over there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E193101_ANNE_101_00#0",
+   "speaker": "Ann",
+   "en": "That exhibit really is a big deal, huh?[n]There are ads for it all over the place.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E193101_ANNE_102_00#0",
+   "speaker": "Ann",
+   "en": "I've only ever seen Madarame in[n]magazine articles... Will we even[n]be able to meet him?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E193101_ANNE_102_00#1",
+   "speaker": "Ann",
+   "en": "Come on, let's head over to[n]Central Street!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E244201_RYUJI_000_00#0",
+   "speaker": "Ryuji",
+   "en": "C'mon, let's hop on the JL. Go out here[n]and head through the ticket gates on[n]the right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E244201_RYUJI_001_00#0",
+   "speaker": "Ryuji",
+   "en": "Shinjuku... It's been a while since[n]I went there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E244201_RYUJI_002_00#0",
+   "speaker": "Ryuji",
+   "en": "All the guys tryin' to pull you into their[n]shops are real pains in the ass—just[n]ignore 'em, got it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E244201_RYUJI_100_00#0",
+   "speaker": "Ryuji",
+   "en": "We'll be there quick if we jump on the[n]JL. Let's get over to the ticket gates first.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E244201_RYUJI_101_00#0",
+   "speaker": "Ryuji",
+   "en": "No matter what, just stay confident[n]if you don't want people treatin' you[n]like shit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E244201_RYUJI_102_00#0",
+   "speaker": "Ryuji",
+   "en": "Some people're talkin' about the mafia[n]rumors... I guess this shit's the real deal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E244301_RYUJI_000_00#0",
+   "speaker": "Ryuji",
+   "en": "Let's find that bar—Crossroads, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E244301_RYUJI_001_00#0",
+   "speaker": "Ryuji",
+   "en": "It's kinda hard to find what we're[n]lookin' for with all these signs.[n]All of 'em sound so fishy too...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E244301_RYUJI_002_00#0",
+   "speaker": "Ryuji",
+   "en": "There are still a ton of people 'round[n]here even late at night. Don't get[n]separated, mkay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E702090_MAKOTO_000_0#0",
+   "speaker": "Makoto",
+   "en": "Let's try to gather some information[n]on Tsukasa.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E702090_MAKOTO_001_0#0",
+   "speaker": "Makoto",
+   "en": "Why don't we try talking to[n]the promoters around here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E702090_MAKOTO_002_0#0",
+   "speaker": "Makoto",
+   "en": "I hope we can learn something[n]about him...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E310102_RYUJI_000_00#0",
+   "speaker": "Ryuji",
+   "en": "Anyways, let's get lookin' for a target.[n]We can figure out what to do after that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E310102_RYUJI_001_00#0",
+   "speaker": "Ryuji",
+   "en": "No need to sweat the details—just go[n]with the flow and we'll fit right in!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E310102_RYUJI_002_00#0",
+   "speaker": "Ryuji",
+   "en": "It'd be a waste to not to enjoy ourselves[n]after comin' all the way here. Let's do it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E310102_YUSUKE_000_0#0",
+   "speaker": "Yusuke",
+   "en": "Selecting a target, then carrying out[n]the operation... This is quite like[n]what we Phantom Thieves do.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E310102_YUSUKE_001_0#0",
+   "speaker": "Yusuke",
+   "en": "I found some delicious-looking seaweed[n]over there a while back. Remind me to[n]go back for it later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E310102_YUSUKE_002_0#0",
+   "speaker": "Yusuke",
+   "en": "Honestly, this will be the first time[n]I speak with a woman without asking[n]her to model for me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E310102_RYUJI_003_00#0",
+   "speaker": "Ryuji",
+   "en": "Our last target was the wrong choice,[n]but we'll make up for it with this[n]next one!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E310102_RYUJI_004_00#0",
+   "speaker": "Ryuji",
+   "en": "Just steamrollin' through these convos[n]ain't gonna work. Don't be afraid to[n]change up the plan.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E310102_RYUJI_005_00#0",
+   "speaker": "Ryuji",
+   "en": "But man, there's so many people here.[n]Findin' available girls is so tough...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E310102_YUSUKE_003_0#0",
+   "speaker": "Yusuke",
+   "en": "That exchange helped me understand[n]some things better. We will surely[n]defeat our next target.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E310102_YUSUKE_004_0#0",
+   "speaker": "Yusuke",
+   "en": "It seems our opponents are ruthless.[n]We should proceed with extreme[n]caution.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E310102_YUSUKE_005_0#0",
+   "speaker": "Yusuke",
+   "en": "Women are essentially monsters.[n]We cannot let our guards down[n]in this battle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E310102_RYUJI_006_00#0",
+   "speaker": "Ryuji",
+   "en": "We gotta go for broke—I don't care[n]who's next, we'll take 'em on!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E310102_RYUJI_007_00#0",
+   "speaker": "Ryuji",
+   "en": "These last two times were just unlucky.[n]We're gonna do it! And when I say that,[n]I mean it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E310102_RYUJI_008_00#0",
+   "speaker": "Ryuji",
+   "en": "Stealin' hearts should be easy for us.[n]Let's stay confident!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E310102_YUSUKE_006_0#0",
+   "speaker": "Yusuke",
+   "en": "At this point, I won't be satisfied unless[n]we end the day victorious.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E310102_YUSUKE_007_0#0",
+   "speaker": "Yusuke",
+   "en": "The smell of broiled squid keeps wafting[n]in my direction... I'm hungry, but I must[n]remain focused.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E310102_YUSUKE_008_0#0",
+   "speaker": "Yusuke",
+   "en": "Talking to women is quite difficult.[n]I've only thought of them as art[n]until now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E320102_RYUJI_000_00#0",
+   "speaker": "Ryuji",
+   "en": "Let's try startin' a convo with some ladies[n]around here about the Phantom Thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E320102_RYUJI_001_00#0",
+   "speaker": "Ryuji",
+   "en": "I think I just heard some girls talkin'[n]about the Phantom Thieves...[n]This is amazin'!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E320102_RYUJI_002_00#0",
+   "speaker": "Ryuji",
+   "en": "They'll prolly understand us even if[n]we talk in Japanese. You can do this,[n][fName].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E320102_YUSUKE_000_0#0",
+   "speaker": "Yusuke",
+   "en": "I am curious as to the extent to which[n]people are discussing us...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E320102_YUSUKE_001_0#0",
+   "speaker": "Yusuke",
+   "en": "What a radiant ocean. I would love to[n]sketch it if I had the time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E320102_YUSUKE_002_0#0",
+   "speaker": "Yusuke",
+   "en": "Considering the incident with Medjed,[n]it would be no surprise if we were[n]known here as well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E650102_RYUJI_000_00#0",
+   "speaker": "Ryuji",
+   "en": "Let's use the [clr 2]Inogami Line[clr 27] to[n]get to Kichijoji.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E650102_RYUJI_001_00#0",
+   "speaker": "Ryuji",
+   "en": "I sure am glad these free tickets ain't[n]goin' to waste—thanks, dude!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E650102_RYUJI_002_00#0",
+   "speaker": "Ryuji",
+   "en": "I'm kinda surprised people are talkin'[n]about Madarame even over here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E650102_RYUJI_002_00#1",
+   "speaker": "Ryuji",
+   "en": "I guess what we did was a pretty big deal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E650104_RYUJI_000_00#0",
+   "speaker": "Ryuji",
+   "en": "The name of the place is on the ticket.[n]I think it's [clr 2]one street up from the[n]promenade[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E650104_RYUJI_001_00#0",
+   "speaker": "Ryuji",
+   "en": "Man, what a cool place! There're so[n]many different shops an' shit...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E650104_RYUJI_002_00#0",
+   "speaker": "Ryuji",
+   "en": "Oh... I think I'm gettin' kinda hungry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E650104_RYUJI_010_00#0",
+   "speaker": "Ryuji",
+   "en": "Well, we know where we're goin' now,[n]so we can just check out the area for[n]a bit if we want.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E650104_RYUJI_011_00#0",
+   "speaker": "Ryuji",
+   "en": "It's kinda chaotic here, but it's actually[n]sorta nice!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E650104_RYUJI_012_00#0",
+   "speaker": "Ryuji",
+   "en": "Hey, you think you could eat at one[n]of those restaurants by yourself?[n]Wouldn't it be sorta embarrassing?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E701101_RYUJI_000_00#0",
+   "speaker": "Ryuji",
+   "en": "Once we cross the Shibuya Crossing,[n]we're heading to Central Street.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E701101_RYUJI_001_00#0",
+   "speaker": "Ryuji",
+   "en": "It's hella crowded, so try not to get[n]separated.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E701101_RYUJI_002_00#0",
+   "speaker": "Ryuji",
+   "en": "They got all sorts of shit at Central Street.[n]We're just lookin' for one specific shop[n]today, though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E701102_RYUJI_000_00#0",
+   "speaker": "Ryuji",
+   "en": "Hmm? Not headin' in yet?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E701102_RYUJI_001_00#0",
+   "speaker": "Ryuji",
+   "en": "We can check out those other places[n]some other time—let's just focus on[n]the weapon shop for today.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E701102_RYUJI_002_00#0",
+   "speaker": "Ryuji",
+   "en": "Checkin' out weapons gets my blood[n]goin' like any other guy's! I wanna see[n]what kind of weapon you're a fan of.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E701201_RYUJI_000_00#0",
+   "speaker": "Ryuji",
+   "en": "All the stuff in here looks so real...[n]I dunno what I like best.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E701201_RYUJI_000_00#1",
+   "speaker": "Ryuji",
+   "en": "Maybe we should try askin' the guy[n]behind the counter.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_E701201_RYUJI_000_00#2",
+   "speaker": "Ryuji",
+   "en": "And man, who'da thunk model guns[n]would shoot real bullets in a Palace?",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

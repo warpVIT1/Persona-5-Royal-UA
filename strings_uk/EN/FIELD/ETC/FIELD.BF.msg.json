@@ -1,0 +1,292 @@
+{
+ "file": "EN/FIELD/ETC/FIELD.BF",
+ "entries": [
+  {
+   "id": "MSG_BLANK#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MND_PHONE_NG_000_00#0",
+   "speaker": null,
+   "en": "I don't have any new messages.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TEST_CELLPHONE_000#0",
+   "speaker": null,
+   "en": "It seems there's no new intel[n]on who may have a Palace...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HELP_MEMENTOS_MISSION_04#0",
+   "speaker": "Mission Occurrence!",
+   "en": "[clr 4]Mementos Intel Gained[clr 27][n]You can now send a calling card from[n]the [clr 2]hideout[clr 27]. Sometimes you will gain[n]intel from your [clr 3]teammates[clr 27] like this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_AFTERNOON_ERROR#0",
+   "speaker": null,
+   "en": "I should head over to the[n]ticket gates for now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_NIGHT_ERROR#0",
+   "speaker": null,
+   "en": "I'm feeling pretty tired.[n]I should get to sleep...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IN_KF_EVENT#0",
+   "speaker": null,
+   "en": "Now isn't the time to be[n]going somewhere else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_IN_KF_EVENT_MORU#0",
+   "speaker": "Morgana",
+   "en": "Now's not the time to be[n]heading somewhere else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NG_ROJIURA_OUT#0",
+   "speaker": "Morgana",
+   "en": "The city's dangerous at night![n]You'll need a heart that won't[n]be rattled by anything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NG_ROJIURA_OUT#1",
+   "speaker": "Morgana",
+   "en": "If you want to walk the city at[n]night, I suggest you have enough[n][stIcon 3][clr 26][stLabel 3][clr 27] to have [clr 1]nerves of steel[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NG_GO_OUT#0",
+   "speaker": "Morgana",
+   "en": "I'm sure you're exhausted.[n]Let's just get to bed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GO_OUT_FRIEND#0",
+   "speaker": "Morgana",
+   "en": "You really want to go out[n]while you have a friend over?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GO_OUT_FRIEND#0",
+   "speaker": null,
+   "en": "Go out",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GO_OUT_FRIEND#1",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_CHK_DOOR_playroom#0",
+   "speaker": null,
+   "en": "My teammate has come to hang out though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_PC_PLAYROOM_CHK#0",
+   "speaker": null,
+   "en": "Go out",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_PC_PLAYROOM_CHK#1",
+   "speaker": null,
+   "en": "Stay home",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_MAIL_NG#0",
+   "speaker": null,
+   "en": "I'm too tired today. I should[n]head out another time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_NG#0",
+   "speaker": null,
+   "en": "Now isn't the time for that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SAVE_NG_COMMON#0",
+   "speaker": null,
+   "en": "Now isn't the time for that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "STOP_OUTDOOR_DEFAULT_MOR#0",
+   "speaker": "Morgana",
+   "en": "We should just head to bed[n]for today, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "STOP_OUTDOOR_DEFAULT#0",
+   "speaker": null,
+   "en": "I should just go to sleep...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GO_DUNGEON_TODAY_MOR#0",
+   "speaker": "Morgana",
+   "en": "Aren't you exhausted?[n]You should get some rest.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_GO_DUNGEON_TODAY#0",
+   "speaker": null,
+   "en": "I'm tired from going to[n]the Metaverse earlier. I[n]should try and rest...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_GO_SPOT_TODAY#0",
+   "speaker": null,
+   "en": "I'm tired from all the fun[n]I had today. I should take[n]it easy and rest in my room...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QR_HIT#0",
+   "speaker": null,
+   "en": "You will occasionally discover [clr 2]QR Codes[clr 27][n]when you use Third Eye in town.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QR_HIT#1",
+   "speaker": null,
+   "en": "These codes can be used to gain points to[n]summon Personas in the \"[clr 2]PERSONA O.A.[clr 27]\"[n]application.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QR_HIT#2",
+   "speaker": null,
+   "en": "There are a total of [clr 2]100[clr 27] QR codes to be[n]found in various places on various dates,",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_QR_HIT#3",
+   "speaker": null,
+   "en": "so try using Third Eye all around the city[n]to find QR codes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SAVE_EPISODE_000_00#0",
+   "speaker": "Morgana",
+   "en": "Keeping your diary up to date, huh?[n]Well, I hope people's opinions of you[n]turn around soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SAVE_EPISODE_001_00#0",
+   "speaker": "Morgana",
+   "en": "Keeping your diary up to date, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SAVE_EPISODE_001_00#1",
+   "speaker": "Morgana",
+   "en": "I wish it'd do you some real good, like[n]cancel out your criminal record or[n]something...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SAVE_EPISODE_002_00#0",
+   "speaker": "Morgana",
+   "en": "Keeping your diary up to date, huh?[n]Smart. Maybe one day you can use it[n]to prove yourself right in all this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SAVE_EPISODE_003_00#0",
+   "speaker": "Morgana",
+   "en": "Keeping your diary up to date, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SAVE_EPISODE_003_00#1",
+   "speaker": "Morgana",
+   "en": "You sure have gotten a raw deal in[n]all of this, haven't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SAVE_EPISODE_004_00#0",
+   "speaker": "Morgana",
+   "en": "Keeping your diary up to date, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SAVE_EPISODE_004_00#1",
+   "speaker": "Morgana",
+   "en": "You know, now that I think about it,[n]a whole lot has changed for the both[n]of us, hasn't it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SAVE_EPISODE_005_00#0",
+   "speaker": "Morgana",
+   "en": "Keeping your diary up to date, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SAVE_EPISODE_005_00#1",
+   "speaker": "Morgana",
+   "en": "I wish there was something we could[n]do about your criminal record...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SAVE_EPISODE_006_00#0",
+   "speaker": "Morgana",
+   "en": "Keeping your diary up to date, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SAVE_EPISODE_006_00#1",
+   "speaker": "Morgana",
+   "en": "Too bad that doesn't wipe the slate[n]clean for you...",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

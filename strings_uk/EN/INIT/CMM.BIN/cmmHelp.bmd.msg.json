@@ -1,0 +1,3190 @@
+{
+ "file": "EN/INIT/CMM.BIN/cmmHelp.bmd",
+ "entries": [
+  {
+   "id": "pc_stu_rank_up_msg_00#0",
+   "speaker": null,
+   "en": "Your [stIcon 0][clr 26][stLabel 0][clr 27] has increased[n]from [var 1] to [clr 26][var 2][clr 27]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "pc_stu_rank_up_msg_01#0",
+   "speaker": null,
+   "en": "Your [stIcon 1][clr 26][stLabel 1][clr 27] has increased[n]from [var 1] to [clr 26][var 2][clr 27]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "pc_stu_rank_up_msg_02#0",
+   "speaker": null,
+   "en": "Your [stIcon 2][clr 26][stLabel 2][clr 27] has increased[n]from [var 1] to [clr 26][var 2][clr 27]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "pc_stu_rank_up_msg_03#0",
+   "speaker": null,
+   "en": "Your [stIcon 3][clr 26][stLabel 3][clr 27] has increased[n]from [var 1] to [clr 26][var 2][clr 27]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "pc_stu_rank_up_msg_04#0",
+   "speaker": null,
+   "en": "Your [stIcon 4][clr 26][stLabel 4][clr 27] has increased[n]from [var 1] to [clr 26][var 2][clr 27]!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "pc_stu_param_up_msg_00#0",
+   "speaker": null,
+   "en": "'s[n][stIcon 0][clr 26][stLabel 0][clr 27] has improved!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "pc_stu_param_up_msg_01#0",
+   "speaker": null,
+   "en": "'s[n][stIcon 1][clr 26][stLabel 1][clr 27] has improved!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "pc_stu_param_up_msg_02#0",
+   "speaker": null,
+   "en": "'s[n][stIcon 2][clr 26][stLabel 2][clr 27] has improved!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "pc_stu_param_up_msg_03#0",
+   "speaker": null,
+   "en": "'s[n][stIcon 3][clr 26][stLabel 3][clr 27] has improved!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "pc_stu_param_up_msg_04#0",
+   "speaker": null,
+   "en": "'s[n][stIcon 4][clr 26][stLabel 4][clr 27] has improved!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu00_lv01#0",
+   "speaker": null,
+   "en": "BLANK 1",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu00_lv02#0",
+   "speaker": null,
+   "en": "BLANK 2",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu00_lv03#0",
+   "speaker": null,
+   "en": "BLANK 3",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu00_lv04#0",
+   "speaker": null,
+   "en": "BLANK 4",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu00_lv05#0",
+   "speaker": null,
+   "en": "BLANK 5",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu00_lv06#0",
+   "speaker": null,
+   "en": "BLANK 6",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu00_lv07#0",
+   "speaker": null,
+   "en": "BLANK 7",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu00_lv08#0",
+   "speaker": null,
+   "en": "BLANK 8",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu00_lv09#0",
+   "speaker": null,
+   "en": "BLANK 9",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu00_lv10#0",
+   "speaker": null,
+   "en": "BLANK 10",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu00_rev#0",
+   "speaker": null,
+   "en": "BLANK DOUBT",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu00_broken#0",
+   "speaker": null,
+   "en": "BLANK BROKEN",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu01_help#0",
+   "speaker": null,
+   "en": "Fool Arcana Burst.[n]Aids you in thievery skills[n]and Persona fusion.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu01_lv01#0",
+   "speaker": null,
+   "en": "The odd-nosed master of the[n]prison. He has told you to[n]form bonds with others...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu01_lv02#0",
+   "speaker": null,
+   "en": "He has unlocked Persona[n]Fusion in expectation of[n]your rehabilitation...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu01_lv03#0",
+   "speaker": null,
+   "en": "He praised your success in[n]conquering the first Palace. He[n]is satisfied with your progress...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu01_lv04#0",
+   "speaker": null,
+   "en": "He praised you for success in[n]the second Palace, but warned of[n]someone else in the Metaverse...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu01_lv05#0",
+   "speaker": null,
+   "en": "He said that deepening bonds[n]with society's outcasts would[n]lead to more power...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu01_lv06#0",
+   "speaker": null,
+   "en": "He predicted you will meet the[n]mysterious infiltrator soon,[n]but seems to be enjoying this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu01_lv07#0",
+   "speaker": null,
+   "en": "He warned you to be wary[n]of the person who stole[n]data on the Metaverse...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu01_lv08#0",
+   "speaker": null,
+   "en": "He is satisfied that your[n]rehabilitation is ending soon.[n]However, fate is taking a turn...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu01_lv09#0",
+   "speaker": null,
+   "en": "Just as anticipated, a sudden[n]predicament has arisen. He says[n]that you must overcome it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu01_lv10#0",
+   "speaker": null,
+   "en": "True Igor has returned, making[n]you a true guest of the Velvet[n]Room. The final battle awaits...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu01_rev#0",
+   "speaker": null,
+   "en": "Igor Doubt[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu01_broken#0",
+   "speaker": null,
+   "en": "Igor Broken[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu02_help#0",
+   "speaker": null,
+   "en": "Magician Arcana Burst.[n]Teaches how to make infiltration[n]tools and bestows battle skills.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu02_lv01#0",
+   "speaker": null,
+   "en": "A mysterious being you[n]met in the Metaverse who[n]claims to be a former human...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu02_lv02#0",
+   "speaker": null,
+   "en": "A mysterious cat(?) who is[n]familiar with the Metaverse.[n]You seem promising...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu02_lv03#0",
+   "speaker": null,
+   "en": "As he talked about becoming[n]human once again, you were able[n]to hear his inner thoughts...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu02_lv04#0",
+   "speaker": null,
+   "en": "The phrase \"take somewhere\"[n]seems to have triggered[n]something in his memory...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu02_lv05#0",
+   "speaker": null,
+   "en": "He showed his weak side,[n]but swallowed his words.[n]Who is he really...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu02_lv06#0",
+   "speaker": null,
+   "en": "He is full of spirit and[n]hopes that returning to human[n]form will restore his memory...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu02_lv07#0",
+   "speaker": null,
+   "en": "A nightmare made him think he[n]could be a monster. Fixing[n]Mementos should solve it, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu02_lv08#0",
+   "speaker": null,
+   "en": "He has realized that he wants[n]to be with you simply because[n]your trust has deepened...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu02_lv09#0",
+   "speaker": null,
+   "en": "He has found purpose in[n]carrying out the objectives[n]of the Phantom Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu02_lv10#0",
+   "speaker": null,
+   "en": "He has realized he belongs where[n]you belong. It does not matter[n]who he was; he is a true comrade.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu02_rev#0",
+   "speaker": null,
+   "en": "Morgana Doubt[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu02_broken#0",
+   "speaker": null,
+   "en": "Morgana Broken[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu03_help#0",
+   "speaker": null,
+   "en": "High Priestess Arcana Burst.[n]Allows for Shadow analysis[n]and bestows battle skills.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu03_lv01#0",
+   "speaker": null,
+   "en": "After experiencing the arcade[n]to broaden her views, she wants[n]to go to the red-light district.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu03_lv02#0",
+   "speaker": null,
+   "en": "After getting exhausted at the[n]red-light district, she saw a[n]Shujin student at a shady store...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu03_lv03#0",
+   "speaker": null,
+   "en": "While talking with Eiko, she[n]was shocked to be dismissed[n]as an honor student...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu03_lv04#0",
+   "speaker": null,
+   "en": "Unsure of the point of studying[n]anymore, she talked about her[n]memories of her father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu03_lv05#0",
+   "speaker": null,
+   "en": "Worrying about the character of[n]Eiko's boyfriend, she planned[n]a double date to check him out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu03_lv06#0",
+   "speaker": null,
+   "en": "She is still suspicious of[n]Eiko's boyfriend and wants to[n]understand how they think...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu03_lv07#0",
+   "speaker": null,
+   "en": "She mentioned the possibility[n]of human trafficking, and notes[n]how her father died on duty...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu03_lv08#0",
+   "speaker": null,
+   "en": "Her worry for Eiko has been[n]causing tension, but she is[n]determined to expose Tsukasa...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu03_lv09#0",
+   "speaker": null,
+   "en": "After exposing the host,[n]you have decided to help[n]Makoto study romance...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu03_lv10#0",
+   "speaker": null,
+   "en": "Supporting her dream to become[n]a police commissioner, you[n]hold her close as your lover...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu03_rev#0",
+   "speaker": null,
+   "en": "Makoto Doubt[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu03_broken#0",
+   "speaker": null,
+   "en": "Makoto Broken[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu04_help#0",
+   "speaker": null,
+   "en": "Empress Arcana Burst.[n]Allows for plant-growing[n]and bestows battle skills.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu04_lv01#0",
+   "speaker": null,
+   "en": "She raises plants for the team.[n]While worried about her company,[n]she has no one to trust...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu04_lv02#0",
+   "speaker": null,
+   "en": "She wants to grow coffee beans.[n]The new president seems to[n]make her suspicious...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu04_lv03#0",
+   "speaker": null,
+   "en": "She spoke about her desire[n]to cut ties with her fiancé[n]and find true love...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu04_lv04#0",
+   "speaker": null,
+   "en": "The new president seemed nice[n]enough, after meeting at the[n]hotel. What are his intentions...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu04_lv05#0",
+   "speaker": null,
+   "en": "It seems the president wants[n]Haru to marry her fiancé for[n]the sake of the company...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu04_lv06#0",
+   "speaker": null,
+   "en": "She spoke of her grandfather's[n]coffee, and her fiancé revealed[n]wedding plans and walked away...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu04_lv07#0",
+   "speaker": null,
+   "en": "Skeptical about the company's[n]coffee venture, she decided[n]to talk with the new president.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu04_lv08#0",
+   "speaker": null,
+   "en": "She has asked you to accompany[n]her when she serves her coffee[n]to the new president.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu04_lv09#0",
+   "speaker": null,
+   "en": "Free from her fiancé after[n]speaking with the president,[n]she became your lover...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu04_lv10#0",
+   "speaker": null,
+   "en": "She dreams of owning a café.[n]Her gaze is focused on the[n]future, with a new fiancé...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu04_rev#0",
+   "speaker": null,
+   "en": "Haru Doubt[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu04_broken#0",
+   "speaker": null,
+   "en": "Haru Broken[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu05_help#0",
+   "speaker": null,
+   "en": "Emperor Arcana Burst.[n]Allows for Skill Card copying[n]and bestows battle skills.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu05_lv01#0",
+   "speaker": null,
+   "en": "In a slump, he has asked[n]for your help in finding[n]a new style...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu05_lv02#0",
+   "speaker": null,
+   "en": "He is showing confidence[n]in his passionate painting[n]created in Mementos...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu05_lv03#0",
+   "speaker": null,
+   "en": "His painting was poorly[n]received... Time to start over[n]in pulling him out of his slump.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu05_lv04#0",
+   "speaker": null,
+   "en": "He tried his hand at \"love\"[n]and failed. However, he seems[n]to have caught on to something...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu05_lv05#0",
+   "speaker": null,
+   "en": "He attempted a religious[n]painting. \"Anguish\" was[n]the subject, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu05_lv06#0",
+   "speaker": null,
+   "en": "While visiting Madarame's[n]house, an older gentleman[n]made him an offer...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu05_lv07#0",
+   "speaker": null,
+   "en": "He declined the offer[n]of support due to[n]dishonest motives...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu05_lv08#0",
+   "speaker": null,
+   "en": "His friends gave him advice[n]when he suddenly thought of[n]something and left...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu05_lv09#0",
+   "speaker": null,
+   "en": "Realizing the love infused[n]into his mother's painting,[n]he took hold of his brush...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu05_lv10#0",
+   "speaker": null,
+   "en": "His new work is titled \"Desire[n]and Hope\"... He now understands[n]the complexity of the heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu05_rev#0",
+   "speaker": null,
+   "en": "Yusuke Doubt[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu05_broken#0",
+   "speaker": null,
+   "en": "Yusuke Broken[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu06_help#0",
+   "speaker": null,
+   "en": "Hierophant Arcana Burst.[n]Teaches coffee-making skills.[n]There are other things to learn...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu06_lv01#0",
+   "speaker": null,
+   "en": "He has agreed to teach you[n]how to brew coffee if you[n]help him with the café.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu06_lv02#0",
+   "speaker": null,
+   "en": "A mysterious man appeared,[n]speaking of \"curry\" and \"her\"...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu06_lv03#0",
+   "speaker": null,
+   "en": "He suddenly ran out after[n]receiving a call from an[n]unknown number...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu06_lv04#0",
+   "speaker": null,
+   "en": "It seems he is being hounded for[n]money by the mysterious man,[n]who appears to be a relative...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu06_lv05#0",
+   "speaker": null,
+   "en": "He has revealed that Futaba's[n]mother was the inventor of[n]the curry recipe...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu06_lv06#0",
+   "speaker": null,
+   "en": "That greedy man was Futaba's[n]relative. Sojiro does not[n]trust him to be her guardian...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu06_lv07#0",
+   "speaker": null,
+   "en": "After clashing with Futaba,[n]he realized he was just[n]running away.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu06_lv08#0",
+   "speaker": null,
+   "en": "Futaba's uncle threatened to[n]press charges. Sojiro wishes[n]to defend the family...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu06_lv09#0",
+   "speaker": null,
+   "en": "Investigators came to review[n]the charges, but left with[n]confidence of your innocence.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu06_lv10#0",
+   "speaker": null,
+   "en": "At Futaba's mother's grave,[n]Sojiro gave you a smile from[n]the bottom of his heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu06_rev#0",
+   "speaker": null,
+   "en": "Sojiro Doubt[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu06_broken#0",
+   "speaker": null,
+   "en": "Sojiro Broken[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu07_help#0",
+   "speaker": null,
+   "en": "Lovers Arcana Burst.[n]Bestows negotiation skills[n]and battle skills.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu07_lv01#0",
+   "speaker": null,
+   "en": "She seeks revenge on Kamoshida.[n]With your goals aligned, you[n]decided to work together...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu07_lv02#0",
+   "speaker": null,
+   "en": "After visiting her friend, she[n]realized this was caused by her[n]weak heart, and vowed to train...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu07_lv03#0",
+   "speaker": null,
+   "en": "She wants to find ways to[n]strengthen her heart. Her[n]modeling career is busy too...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu07_lv04#0",
+   "speaker": null,
+   "en": "She decided to become an[n]action star, looking up to[n]the villainess she liked.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu07_lv05#0",
+   "speaker": null,
+   "en": "She burns with vengeance after[n]being outdone by another model[n]at a stand-in modeling gig...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu07_lv06#0",
+   "speaker": null,
+   "en": "Watching Shiho's recovery[n]efforts helped her realize[n]what true strength is.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu07_lv07#0",
+   "speaker": null,
+   "en": "Recognizing her lack of[n]professionalism, she vowed[n]to top the modeling world...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu07_lv08#0",
+   "speaker": null,
+   "en": "She started working toward[n]her goal, training at the[n]gym with Ryuji.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu07_lv09#0",
+   "speaker": null,
+   "en": "Seeing Shiho off, you stood[n]by her side as her lover,[n]comforting her...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu07_lv10#0",
+   "speaker": null,
+   "en": "She took on her rival in a[n]shoot. She wants to inspire[n]others, like her lover...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu07_rev#0",
+   "speaker": null,
+   "en": "Ann Doubt[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu07_broken#0",
+   "speaker": null,
+   "en": "Ann Broken[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu08_help#0",
+   "speaker": null,
+   "en": "Chariot Arcana Burst.[n]Bestows infiltration techniques[n]and battle skills.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu08_lv01#0",
+   "speaker": null,
+   "en": "On the verge of expulsion, you[n]decide to work together to[n]reclaim his place in school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu08_lv02#0",
+   "speaker": null,
+   "en": "Though he feels guilty about[n]the track team disbanding,[n]he vows to train for you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu08_lv03#0",
+   "speaker": null,
+   "en": "His former teammates appeared[n]before him, and he just took[n]it as they vented their anger...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu08_lv04#0",
+   "speaker": null,
+   "en": "Though still worried about[n]the track team, he said he[n]has the Phantom Thieves now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu08_lv05#0",
+   "speaker": null,
+   "en": "He heard about the revival[n]of the track team, but worries[n]about their new advisor...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu08_lv06#0",
+   "speaker": null,
+   "en": "After seeing his former[n]teammates fight, he tried[n]to ask why, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu08_lv07#0",
+   "speaker": null,
+   "en": "He found out the new advisor[n]was the cause of the track[n]team's problems.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu08_lv08#0",
+   "speaker": null,
+   "en": "He told his former teammates[n]the truth, and successfully[n]got them to stop fighting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu08_lv09#0",
+   "speaker": null,
+   "en": "He was asked to return to[n]the track team, but declared[n]he belongs here with us.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu08_lv10#0",
+   "speaker": null,
+   "en": "After facing his own[n]weakness, he vowed to[n]fight for his friends.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu08_rev#0",
+   "speaker": null,
+   "en": "Ryuji Doubt[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu08_broken#0",
+   "speaker": null,
+   "en": "Ryuji Broken[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu09_help#0",
+   "speaker": null,
+   "en": "Justice Arcana Burst.[n]Bestows the perceptiveness[n]of a detective.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu09_lv01#0",
+   "speaker": null,
+   "en": "While investigating the Phantom[n]Thieves, his \"detective's intuition\"[n]led him to [fName]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu09_lv02#0",
+   "speaker": null,
+   "en": "He invited you to play billiards.[n]What does he aim to accomplish[n]using his non-dominant hand...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu09_lv03#0",
+   "speaker": null,
+   "en": "You helped him escape a close[n]call with fans of the popular[n]high school detective.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu09_lv04#0",
+   "speaker": null,
+   "en": "The Detective Prince invited you to[n]his go-to place, where you talked[n]a bit about your personal lives.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu09_lv05#0",
+   "speaker": null,
+   "en": "You played a shooting game[n]with him while talking about his[n]childhood dream of being a hero.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu09_lv06#0",
+   "speaker": null,
+   "en": "In the bathhouse, he discussed[n]his family and promised to play[n]another round of billiards.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu09_lv07#0",
+   "speaker": null,
+   "en": "After defeating him in a game[n]of billiards, he declares that he[n]won't hold back next time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu09_lv08#0",
+   "speaker": null,
+   "en": "You fought Akechi in Mementos[n]and seized victory. He swore not[n]to lose to you again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu09_lv09#0",
+   "speaker": null,
+   "en": "His objective is to get revenge[n]on his father, Shido. After[n]stating that, he attacked...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu09_lv10#0",
+   "speaker": null,
+   "en": "He sacrificed his own life in[n]order to save you... In the[n]end, your wishes became one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu09_rev#0",
+   "speaker": null,
+   "en": "Akechi Doubt[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu09_broken#0",
+   "speaker": null,
+   "en": "Akechi Broken[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu10_help#0",
+   "speaker": null,
+   "en": "Hermit Arcana Burst.[n]Bestows informational[n]support skills.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu10_lv01#0",
+   "speaker": null,
+   "en": "Her rehabilitation in Akihabara[n]ended in failure. She needs you[n]by her side when she goes out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu10_lv02#0",
+   "speaker": null,
+   "en": "She made a promise list,[n]allowing her to tackle[n]one task at a time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu10_lv03#0",
+   "speaker": null,
+   "en": "She managed to succeed in her[n]rematch at Akihabara, but she[n]still needs your help...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu10_lv04#0",
+   "speaker": null,
+   "en": "Visiting your school, she[n]recalled her past, which she[n]is trying to overcome.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu10_lv05#0",
+   "speaker": null,
+   "en": "Thanks to Mishima, she has[n]completed two tasks at once.[n]Only one remains, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu10_lv06#0",
+   "speaker": null,
+   "en": "She confessed that she lied to[n]her mother about the promise[n]list, but wants to fulfill it now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu10_lv07#0",
+   "speaker": null,
+   "en": "She began to worry, and asked[n]for help in Mementos to fix[n]her old friend's parents.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu10_lv08#0",
+   "speaker": null,
+   "en": "She promised her friend[n]she'd go to school. Only[n]one task remains...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu10_lv09#0",
+   "speaker": null,
+   "en": "Realizing her feelings are[n]love, she said she will do[n]her best as your girlfriend.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu10_lv10#0",
+   "speaker": null,
+   "en": "After conquering Akihabara,[n]she can do anything now...[n]even hang out with her lover.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu10_rev#0",
+   "speaker": null,
+   "en": "Futaba Doubt[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu10_broken#0",
+   "speaker": null,
+   "en": "Futaba Broken[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu11_help#0",
+   "speaker": null,
+   "en": "Fortune Arcana Burst.[n]Fortune telling will bring you[n]good luck if you do as told.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu11_lv01#0",
+   "speaker": null,
+   "en": "A sketchy fortune teller who[n]gives special fortunes if you[n]help with her fate tests.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu11_lv02#0",
+   "speaker": null,
+   "en": "Still unable to accept that[n]fate can be changed, she[n]continues to seek the test...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu11_lv03#0",
+   "speaker": null,
+   "en": "She finally accepted fate can[n]be changed, but lamented her[n]own unchangeable fate...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu11_lv04#0",
+   "speaker": null,
+   "en": "She feels doubt toward her[n]fraudulent business and gets[n]rid of the Holy Stone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu11_lv05#0",
+   "speaker": null,
+   "en": "The chairman's assistant checks[n]up on her, the \"Maiden,\" but she[n]does not explain her situation...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu11_lv06#0",
+   "speaker": null,
+   "en": "The chairman paid a visit, and[n]threatened she'd return to[n]being a monster if she leaves...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu11_lv07#0",
+   "speaker": null,
+   "en": "She continues to cling to the[n]\"Maiden\" name, but decided to[n]expose the chairman's fraud...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu11_lv08#0",
+   "speaker": null,
+   "en": "The chairman had a change of[n]heart, but she wants to save the[n]other brainwashed members.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu11_lv09#0",
+   "speaker": null,
+   "en": "As she continues to help the[n]confused members, you watch[n]over her as her lover...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu11_lv10#0",
+   "speaker": null,
+   "en": "She set herself a new future,[n]and vowed to guide her lover's[n]fate positively as well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu11_rev#0",
+   "speaker": null,
+   "en": "Since doubt is cast upon me,[n]I can't have my fortune read...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu11_broken#0",
+   "speaker": null,
+   "en": "The deal is broken, so I can't[n]have my fortune read or get[n]the benefit of Arcana Burst...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu12_help#0",
+   "speaker": null,
+   "en": "In return for meeting quota,[n]they allow for flexibility[n]during Persona fusions.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu12_lv01#0",
+   "speaker": null,
+   "en": "They oppressively demanded[n]penal labor. You have no[n]choice but to obey...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu12_lv02#0",
+   "speaker": null,
+   "en": "They think highly of your will[n]to rehabilitate. You must keep[n]completing their tasks...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu12_lv03#0",
+   "speaker": null,
+   "en": "They seemed a bit flustered[n]after learning that the task[n]list's creator is unknown...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu12_lv04#0",
+   "speaker": null,
+   "en": "The mystery of the list[n]creator continues, but you[n]were still given a new task...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu12_lv05#0",
+   "speaker": null,
+   "en": "They were shaken upon seeing[n]the list's handwriting. Doing[n]this should solve everything...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu12_lv06#0",
+   "speaker": null,
+   "en": "Their memories are wavering[n]as they feel the nostalgia[n]of watching your growth...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu12_lv07#0",
+   "speaker": null,
+   "en": "They feel as if they're[n]losing something as you[n]complete your penal labor...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu12_lv08#0",
+   "speaker": null,
+   "en": "The task list's objective[n]was to change not the[n]prisoner, but the wardens...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu12_lv09#0",
+   "speaker": null,
+   "en": "They now see that their goal[n]is to raise prisoners, and[n]you sense a bond with them...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu12_lv10#0",
+   "speaker": null,
+   "en": "Their memories did not return.[n]A bond going beyond prisoner[n]and wardens deepened instead.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu12_rev#0",
+   "speaker": null,
+   "en": "Twins Doubt[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu12_broken#0",
+   "speaker": null,
+   "en": "Twins Broken[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu13_help#0",
+   "speaker": null,
+   "en": "Hanged Man Arcana Burst. Provides[n]weapons and customization in[n]exchange for being his pawn.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu13_lv01#0",
+   "speaker": null,
+   "en": "Owner of an airsoft shop. He[n]can customize guns, but only if[n]you help with his shady work...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu13_lv02#0",
+   "speaker": null,
+   "en": "You gathered info for him,[n]and the \"big deal\" catches[n]his interest...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu13_lv03#0",
+   "speaker": null,
+   "en": "As former yakuza, he takes[n]risks to chase his former boss.[n]Surprisingly, he has a son...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu13_lv04#0",
+   "speaker": null,
+   "en": "His former boss brought up[n]his son as a threat, and[n]he plots to fight back...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu13_lv05#0",
+   "speaker": null,
+   "en": "He fears his son learning his[n]dark past. That fear continues[n]to be used as a threat...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu13_lv06#0",
+   "speaker": null,
+   "en": "As you ate dinner with his son,[n]he sensed his father braving[n]danger behind the scenes...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu13_lv07#0",
+   "speaker": null,
+   "en": "Grasping his former boss's[n]weakness, he asked you to be his[n]witness when he confronts him...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu13_lv08#0",
+   "speaker": null,
+   "en": "Now that the threats are no[n]longer an issue, he wants you to[n]help out with the shop again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu13_lv09#0",
+   "speaker": null,
+   "en": "After the kidnapping, he told[n]the secrets to his son. Their[n]bond destroyed the enemy's plan.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu13_lv10#0",
+   "speaker": null,
+   "en": "Not liking the idea of owing[n]people favors, he promises to[n]give you powerful support.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu13_rev#0",
+   "speaker": null,
+   "en": "Since doubt is cast upon me,[n]he won't accept my requests[n]for customization...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu13_broken#0",
+   "speaker": null,
+   "en": "The deal is broken, so I can't[n]request customization or get[n]the benefit of Arcana Burst...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu14_help#0",
+   "speaker": null,
+   "en": "Death Arcana Burst. Provides[n]medicine if you act as a test[n]subject for clinical trials.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu14_lv01#0",
+   "speaker": null,
+   "en": "Doctor of a desolate clinic.[n]She can provide medicine if you[n]help with her clinical trials.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu14_lv02#0",
+   "speaker": null,
+   "en": "Her former boss sent a cop to[n]harass her, but that didn't[n]keep her from her research.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu14_lv03#0",
+   "speaker": null,
+   "en": "A call was dropped after her[n]name was said. Seems she's made[n]a medical error in the past...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu14_lv04#0",
+   "speaker": null,
+   "en": "Hearing the name of the girl's[n]previous doctor, she happily[n]gave her accurate treatment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu14_lv05#0",
+   "speaker": null,
+   "en": "It seems she was blamed for the[n]medical error, but continues[n]to work on that medicine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu14_lv06#0",
+   "speaker": null,
+   "en": "With her growing popularity as[n]the town doctor, she hopes to[n]finally complete the medicine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu14_lv07#0",
+   "speaker": null,
+   "en": "She falls into depression after[n]hearing news about a patient[n]from the Chief of Staff...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu14_lv08#0",
+   "speaker": null,
+   "en": "She rushes to complete the[n]medicine after hearing that[n]her old patient is still alive.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu14_lv09#0",
+   "speaker": null,
+   "en": "Stocked with new data, she[n]declined the offer to work at a[n]hospital and became your lover...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu14_lv10#0",
+   "speaker": null,
+   "en": "As her lover, you continue to[n]support the town doctor and her[n]development of new medicines.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu14_rev#0",
+   "speaker": null,
+   "en": "Since doubt is cast upon me,[n]I can't buy any highly[n]effective medicine...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu14_broken#0",
+   "speaker": null,
+   "en": "The deal is broken, so I can't[n]buy any special medicine or get[n]the benefit of Arcana Burst...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu15_help#0",
+   "speaker": null,
+   "en": "Temperance Arcana Burst. Helps[n]with academics as a teacher,[n]and housework as a maid.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu15_lv01#0",
+   "speaker": null,
+   "en": "The secret maid teacher. She[n]offered to let you slack off[n]if you request her again...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu15_lv02#0",
+   "speaker": null,
+   "en": "She claimed to be struggling[n]with money due to her little[n]sister's medical expenses...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu15_lv03#0",
+   "speaker": null,
+   "en": "She hesitantly expressed needing[n]more work than ever to pay[n]off a huge amount of money...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu15_lv04#0",
+   "speaker": null,
+   "en": "She confessed that she lied[n]about the medical expenses and[n]says to stop requesting her.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu15_lv05#0",
+   "speaker": null,
+   "en": "She's been paying apology[n]money to take responsibility[n]for her former student's death...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu15_lv06#0",
+   "speaker": null,
+   "en": "She was asked for even more[n]money, so she's picking up more[n]shifts than she can handle...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu15_lv07#0",
+   "speaker": null,
+   "en": "Despite collapsing from[n]exhaustion, she keeps working[n]to meet the guardians' demands...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu15_lv08#0",
+   "speaker": null,
+   "en": "She remembered her duty as a[n]teacher, and decided to talk[n]things out with the guardians.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu15_lv09#0",
+   "speaker": null,
+   "en": "The guardians had a change of[n]heart. She quit being a maid and[n]wants a fresh start as a teacher.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu15_lv10#0",
+   "speaker": null,
+   "en": "As she fulfills her role[n]as a teacher, the two of[n]you become lovers...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu15_rev#0",
+   "speaker": null,
+   "en": "Since doubt is cast upon me,[n]I can't strike a deal[n]with Kawakami...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu15_broken#0",
+   "speaker": null,
+   "en": "The deal is broken, so I can't[n]strike a deal with Kawakami or[n]get the benefit of Arcana Burst...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu16_help#0",
+   "speaker": null,
+   "en": "Devil Arcana Burst. Articles[n]control public view of the Phantom[n]Thieves and change the Metaverse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu16_lv01#0",
+   "speaker": null,
+   "en": "A journalist who can write[n]articles on the Phantom Thieves[n]based on information you give.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu16_lv02#0",
+   "speaker": null,
+   "en": "Due to a past incident, she was[n]taken off of politics and[n]still suffers unfair treatment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu16_lv03#0",
+   "speaker": null,
+   "en": "She continues work to prove[n]her partner's innocence, but[n]won't share the details...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu16_lv04#0",
+   "speaker": null,
+   "en": "Her boss appeared, and you acted[n]quickly to hide her independent[n]investigation from him...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu16_lv05#0",
+   "speaker": null,
+   "en": "It seems she is trying to[n]prove her partner's innocence[n]in the death of a bureaucrat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu16_lv06#0",
+   "speaker": null,
+   "en": "Her efforts were obstructed by[n]a superior, but she continues[n]to pursue the truth of the case.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu16_lv07#0",
+   "speaker": null,
+   "en": "Her higher-ups discovered[n]her efforts, and forced her[n]into a corner...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu16_lv08#0",
+   "speaker": null,
+   "en": "She discovered that her former[n]partner is in a mental hospital,[n]and decided to visit...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu16_lv09#0",
+   "speaker": null,
+   "en": "She finally unveiled the[n]mastermind behind the case,[n]and you became lovers...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu16_lv10#0",
+   "speaker": null,
+   "en": "You support your lover as she[n]works with the Phantom Thieves[n]to uncover social evils.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu16_rev#0",
+   "speaker": null,
+   "en": "Since doubt is cast upon me,[n]she won't accept my requests[n]to write articles...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu16_broken#0",
+   "speaker": null,
+   "en": "The deal is broken, so I can't[n]have her write articles or get[n]the benefit of Arcana Burst...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu17_help#0",
+   "speaker": null,
+   "en": "Tower Arcana Burst. Shinya's[n]teachings increase your[n]gun-shooting ability.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu17_lv01#0",
+   "speaker": null,
+   "en": "A skilled boy you met at[n]the arcade. He's agreed to[n]teach you how to shoot.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu17_lv02#0",
+   "speaker": null,
+   "en": "His obsession with winning[n]stems from his admiration[n]of the Phantom Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu17_lv03#0",
+   "speaker": null,
+   "en": "He was harassed at school due[n]to his mother, but he believes[n]it was because he is too weak.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu17_lv04#0",
+   "speaker": null,
+   "en": "He got destroyed by an adult[n]gamer. Unable to accept the[n]loss, he swears his revenge...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu17_lv05#0",
+   "speaker": null,
+   "en": "He voiced concerns about the[n]gamer's possible cheating to[n]his mother, but she doesn't care.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu17_lv06#0",
+   "speaker": null,
+   "en": "He realized that he was the[n]bad guy for extorting money[n]to play games.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu17_lv07#0",
+   "speaker": null,
+   "en": "Shocked by his mother's odd[n]behavior, he seeks help from[n]the Phantom Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu17_lv08#0",
+   "speaker": null,
+   "en": "Confused by the calling card[n]targeting his mother, he finally[n]decided to hand it to her...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu17_lv09#0",
+   "speaker": null,
+   "en": "After his mother's change of[n]heart, he himself changed and[n]stopped obsessing over winning.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu17_lv10#0",
+   "speaker": null,
+   "en": "After defeating the unfair gamer,[n]he made up with the other boys[n]and became a fine young man.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu17_rev#0",
+   "speaker": null,
+   "en": "Since doubt is cast upon me,[n]I can't get him to teach me[n]any new shooting skills...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu17_broken#0",
+   "speaker": null,
+   "en": "The deal is broken, so I can't[n]have shooting lessons or get[n]the benefit of Arcana Burst...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu18_help#0",
+   "speaker": null,
+   "en": "Star Arcana Burst. Concepts[n]learned from shogi bestow[n]special strategies in battle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu18_lv01#0",
+   "speaker": null,
+   "en": "A shogi player who hangs out in[n]a church. She asked you to be[n]her test subject for new moves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu18_lv02#0",
+   "speaker": null,
+   "en": "Although photoshoots have[n]increased her popularity, she[n]doesn't seem to enjoy it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu18_lv03#0",
+   "speaker": null,
+   "en": "She does many interviews to[n]meet her mother's demands, but[n]is bothered by her attitude...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu18_lv04#0",
+   "speaker": null,
+   "en": "She expressed concern about[n]her senior's envy and her[n]reputation online.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu18_lv05#0",
+   "speaker": null,
+   "en": "She wants to please her mother,[n]but is distressed by the idol[n]status she is heading toward.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu18_lv06#0",
+   "speaker": null,
+   "en": "Despite the stress of privacy[n]invasion, she's intent on[n]continuing her beloved shogi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu18_lv07#0",
+   "speaker": null,
+   "en": "She resolved to face a strong,[n]famous opponent in hopes[n]of escaping her idol status.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu18_lv08#0",
+   "speaker": null,
+   "en": "She decided to confess the set[n]up matches, but still intends to[n]play against the professional...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu18_lv09#0",
+   "speaker": null,
+   "en": "Realizing her lack of skill, she[n]tried to resign from teaching.[n]You pulled her back as a lover...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu18_lv10#0",
+   "speaker": null,
+   "en": "She decided to start fresh to[n]redeem herself, while you two[n]support each other as lovers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu18_rev#0",
+   "speaker": null,
+   "en": "Since doubt is cast upon me,[n]I can't receive shogi lessons...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu18_broken#0",
+   "speaker": null,
+   "en": "The deal is broken, so I can't[n]receive shogi lessons or get[n]the benefit of Arcana Burst...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu19_help#0",
+   "speaker": null,
+   "en": "Moon Arcana Burst.[n]Provides requests through[n]the Phan-Site.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu19_lv01#0",
+   "speaker": null,
+   "en": "He created the Phan-Site[n]and is enthusiastic about[n]collecting intel on bad guys.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu19_lv02#0",
+   "speaker": null,
+   "en": "Calling himself the strategic[n]image management rep, he[n]tries to hype up the forum.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu19_lv03#0",
+   "speaker": null,
+   "en": "He tried to organize an offline[n]meeting but was stood up...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu19_lv04#0",
+   "speaker": null,
+   "en": "He invited you to dinner, but[n]you found out he was collecting[n]donations through his site...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu19_lv05#0",
+   "speaker": null,
+   "en": "After being made fun of by[n]former classmates, he said[n]that things are different now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu19_lv06#0",
+   "speaker": null,
+   "en": "He set the next target as a[n]popular actor, but it seems[n]to be for personal reasons...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu19_lv07#0",
+   "speaker": null,
+   "en": "After his Shadow was persuaded,[n]he became ashamed of his actions[n]and renewed his vow to help.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu19_lv08#0",
+   "speaker": null,
+   "en": "After saving an old classmate[n]from bullies, he realized what[n]it means to be a phantom thief.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu19_lv09#0",
+   "speaker": null,
+   "en": "After being praised by his old[n]classmate, he revealed he is[n]making a documentary.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu19_lv10#0",
+   "speaker": null,
+   "en": "Realizing it's not power, but[n]heart, that changes the world,[n]he vows to do his best to help.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu19_rev#0",
+   "speaker": null,
+   "en": "Mishima Doubt[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu19_broken#0",
+   "speaker": null,
+   "en": "Mishima Broken[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu20_help#0",
+   "speaker": null,
+   "en": "Sun Arcana Burst. Working for[n]him teaches you negotiation[n]tactics for battle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu20_lv01#0",
+   "speaker": null,
+   "en": "A former Dietman who considers[n]himself a failure. Helping him[n]may improve your speaking skills.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu20_lv02#0",
+   "speaker": null,
+   "en": "Haunted by a past trauma,[n]he was disturbed upon hearing[n]the name \"No-Good Tora.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu20_lv03#0",
+   "speaker": null,
+   "en": "It appears he was blamed in[n]the past for misappropriation[n]of political party funds...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu20_lv04#0",
+   "speaker": null,
+   "en": "He stiffened up when called an[n]\"ex-convict,\" but overcame the[n]complex when you backed him up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu20_lv05#0",
+   "speaker": null,
+   "en": "He saw a sign of hope from the[n]grandson of his former mentor,[n]whom he was on bad terms with.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu20_lv06#0",
+   "speaker": null,
+   "en": "A Dietman offered to clear[n]Yoshida's false accusation if[n]he drops out of the election...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu20_lv07#0",
+   "speaker": null,
+   "en": "He refused a sweet deal and[n]keeps running. But the Dietman[n]had another secret...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu20_lv08#0",
+   "speaker": null,
+   "en": "He firmly refused the offer, and[n]decided to make his next speech[n]about the Phantom Thieves...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu20_lv09#0",
+   "speaker": null,
+   "en": "He mentioned nothing about the[n]false charge, which moved his[n]colleague to support his run.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu20_lv10#0",
+   "speaker": null,
+   "en": "He gained crowds of supporters[n]and stated he supports the youth[n]who try to reform the world...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu20_rev#0",
+   "speaker": null,
+   "en": "Since doubt is cast upon me,[n]I can't help with his speeches.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu20_broken#0",
+   "speaker": null,
+   "en": "Since the deal is broken, I can't[n]receive speech lessons nor receive[n]the benefit of Arcana Burst.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu21_help#0",
+   "speaker": null,
+   "en": "Judgement Arcana Burst.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu21_lv01#0",
+   "speaker": null,
+   "en": "She did not believe the[n]testimony up until now, but[n]has decided to listen...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu21_lv02#0",
+   "speaker": null,
+   "en": "She seems to believe you a little[n]more knowing that you didn't lie[n]about the Sakura residence...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu21_lv03#0",
+   "speaker": null,
+   "en": "After some incidents with the[n]public, she has begun to see[n]things from a different angle...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu21_lv04#0",
+   "speaker": null,
+   "en": "She said she does not believe[n]everything, but seemed to sense[n]that it is not a lie...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu21_lv05#0",
+   "speaker": null,
+   "en": "She began to suspect another[n]culprit, but wants to know[n]why she was targeted...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu21_lv06#0",
+   "speaker": null,
+   "en": "She has begun to think the[n]Phantom Thieves are just. Or did[n]she have a change of heart...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu21_lv07#0",
+   "speaker": null,
+   "en": "Sae Rank 7[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu21_lv08#0",
+   "speaker": null,
+   "en": "Sae Rank 8[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu21_lv09#0",
+   "speaker": null,
+   "en": "Sae Rank 9[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu21_lv10#0",
+   "speaker": null,
+   "en": "She reclaimed her conviction,[n]now helping to expose the true[n]evil in broad daylight.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu21_rev#0",
+   "speaker": null,
+   "en": "Sae Doubt[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu21_broken#0",
+   "speaker": null,
+   "en": "Sae Broken[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu22_help#0",
+   "speaker": null,
+   "en": "World Confidant[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu22_rev#0",
+   "speaker": null,
+   "en": "World Confidant Doubt[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu22_broken#0",
+   "speaker": null,
+   "en": "World Confidant Broken[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu23_help#0",
+   "speaker": null,
+   "en": "High Priestess Arcana Burst.[n]Allows for Shadow analysis[n]and bestows battle skills.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu23_lv09#0",
+   "speaker": null,
+   "en": "After exposing the host, she[n]recognized the police blood[n]flowing within her.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu23_lv10#0",
+   "speaker": null,
+   "en": "Supporting her dream to become[n]a police commissioner, you cheer[n]her on as a comrade in justice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu24_help#0",
+   "speaker": null,
+   "en": "Empress Arcana Burst.[n]Allows for plant growing[n]and bestows battle skills.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu24_lv09#0",
+   "speaker": null,
+   "en": "She came to an understanding[n]with the president and realized[n]the value of believing in others.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu24_lv10#0",
+   "speaker": null,
+   "en": "She dreams of owning a café. Her[n]gaze is focused on the future,[n]no longer fearing betrayal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu25_help#0",
+   "speaker": null,
+   "en": "Lovers Arcana Burst.[n]Bestows negotiation skills[n]and battle skills.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu25_lv09#0",
+   "speaker": null,
+   "en": "Seeing Shiho off, she became[n]resolute about her modeling[n]career with your encouragement.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu25_lv10#0",
+   "speaker": null,
+   "en": "She took on her rival in a[n]shoot. She wants to inspire[n]others, like her friend...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu26_help#0",
+   "speaker": null,
+   "en": "Hermit Arcana Burst.[n]Bestows informational[n]support skills.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu26_lv09#0",
+   "speaker": null,
+   "en": "Realizing that she doesn't want[n]to be apart from her friends, her[n]bond with you has grown tighter.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu26_lv10#0",
+   "speaker": null,
+   "en": "After conquering Akihabara,[n]she can do anything now...[n]even hang out with friends.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu27_help#0",
+   "speaker": null,
+   "en": "Fortune Arcana Burst.[n]Fortune telling will bring you[n]good luck if you do as told.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu27_lv09#0",
+   "speaker": null,
+   "en": "As she continues to help the[n]confused members, you support her[n]as a comrade who opposes fate.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu27_lv10#0",
+   "speaker": null,
+   "en": "She set herself a new future,[n]and vowed to alter the fate of[n]the Phantom Thieves as well.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu28_help#0",
+   "speaker": null,
+   "en": "Death Arcana Burst. Provides[n]medicine if you act as a test[n]subject for clinical trials.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu28_lv09#0",
+   "speaker": null,
+   "en": "She declined the offer to work[n]at a hospital and continues[n]her work as the town doctor...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu28_lv10#0",
+   "speaker": null,
+   "en": "While she develops new medicine,[n]she supports the Phantom Thieves[n]as a fellow ally of the weak.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu29_help#0",
+   "speaker": null,
+   "en": "Temperance Arcana Burst. Helps[n]with academics as a teacher,[n]and housework as a maid.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu29_lv09#0",
+   "speaker": null,
+   "en": "The guardians had a change of[n]heart. She quit being a maid and[n]wants a fresh start as a teacher.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu29_lv10#0",
+   "speaker": null,
+   "en": "As she fulfills her role as a[n]teacher, you two form a bond[n]as trustworthy comrades...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu30_help#0",
+   "speaker": null,
+   "en": "Devil Arcana Burst. Articles[n]refine public view of Phantom[n]Thieves and change the Metaverse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu30_lv09#0",
+   "speaker": null,
+   "en": "She finally unveiled the[n]mastermind behind the case, and[n]you support her despite the risks.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu30_lv10#0",
+   "speaker": null,
+   "en": "She decided to work with the[n]Phantom Thieves as a powerful[n]ally for uncovering social evils.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu31_help#0",
+   "speaker": null,
+   "en": "Star Arcana Burst.[n]Uses shogi skills as battle[n]strategies in the Metaverse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu31_lv09#0",
+   "speaker": null,
+   "en": "Realizing her lack of skill, she[n]tried to resign from teaching.[n]You pulled her back as a friend...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu31_lv10#0",
+   "speaker": null,
+   "en": "She decided to start fresh to[n]clear her name, while you work[n]to better each other.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu32_help#0",
+   "speaker": null,
+   "en": "Sae Comrade route[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu33_help#0",
+   "speaker": null,
+   "en": "Kasumi Help[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu33_lv01#0",
+   "speaker": null,
+   "en": "A freshman who does gymnastics.[n]Kasumi wants to talk with you in[n]exchange for teaching you moves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu33_lv02#0",
+   "speaker": null,
+   "en": "Kasumi's in a slump, having[n]difficulty with her routine. She[n]wants to regain her boldness...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu33_lv03#0",
+   "speaker": null,
+   "en": "Kasumi brought bento for you[n]both. Unsure how to flavor it[n]she made it all curry flavored.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu33_lv04#0",
+   "speaker": null,
+   "en": "In carefully choosing a pair of[n]glasses for her father, Kasumi[n]has begun to regain confidence.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu33_lv05#0",
+   "speaker": null,
+   "en": "She's turned her desire to meet[n]your expectations into her own[n]motivation, to great effect.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu33_lv06#0",
+   "speaker": null,
+   "en": "Apologizing for the deceit, she[n]opened up about her sister. She[n]wants to start anew as Sumire...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu33_lv07#0",
+   "speaker": null,
+   "en": "Feeling down and unable to[n]live up to Kasumi's bold moves,[n]her coach gave her wise words.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu33_lv08#0",
+   "speaker": null,
+   "en": "Sumire decided to go shopping[n]for clothing to express herself.[n]Maybe someone will notice...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu33_lv09#0",
+   "speaker": null,
+   "en": "Sumire realized Kasumi's true[n]feelings, along with her own[n]feelings for [fName]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu33_lv10#0",
+   "speaker": null,
+   "en": "Sumire succeeded in blending[n]boldness with grace, making a[n]promise to her lover to aim high.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu33_rev#0",
+   "speaker": null,
+   "en": "Sumire Doubt[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu33_broken#0",
+   "speaker": null,
+   "en": "Sumire Broken[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu34_help#0",
+   "speaker": null,
+   "en": "Kasumi Help[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu34_lv09#0",
+   "speaker": null,
+   "en": "After discovering how Kasumi felt,[n]Sumire resolves to be independent.[n]You give her support as her friend.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu34_lv10#0",
+   "speaker": null,
+   "en": "Sumire succeeded in blending[n]boldness with grace, looking at[n]the future with determination.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu35_help#0",
+   "speaker": null,
+   "en": "Maruki Help[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu35_lv01#0",
+   "speaker": null,
+   "en": "Maruki suggested counseling to[n][fName] after the struggle[n]with Kamoshida.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu35_lv02#0",
+   "speaker": null,
+   "en": "He was thrilled to see you at the[n]Nurse's Office and offered mental[n]training if you help with research.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu35_lv03#0",
+   "speaker": null,
+   "en": "He spoke on other types of pain,[n]such as heartbreak, and revealed[n]the reason for his research.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu35_lv04#0",
+   "speaker": null,
+   "en": "After being scratched by a cat, he[n]wondered how to heal his heart[n]the same way as a physical wound.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu35_lv05#0",
+   "speaker": null,
+   "en": "Using the law of scarcity, he[n]explained how one's happiness[n]relies on perceptions, true or not.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu35_lv06#0",
+   "speaker": null,
+   "en": "He hit a wall in his research and[n]consulted you. Your advice on the[n]collective unconscious helped.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu35_lv07#0",
+   "speaker": null,
+   "en": "He analyzed the methods of the[n]Phantom Thieves and talked about[n]a world where desires materialize.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu35_lv08#0",
+   "speaker": null,
+   "en": "You and Maruki went to a buffet,[n]where you met his good friend[n]Shibusawa and discussed the past.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu35_lv09#0",
+   "speaker": null,
+   "en": "After talking about his former lover[n]and the tragedy that inspired his[n]research, he vowed to complete it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu35_lv10#0",
+   "speaker": null,
+   "en": "Maruki's time at Shujin has ended.[n]With conviction, he steps into his[n]future, paper in hand...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu35_rev#0",
+   "speaker": null,
+   "en": "Maruki Doubt[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu35_broken#0",
+   "speaker": null,
+   "en": "Maruki Broken[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu36_help#0",
+   "speaker": null,
+   "en": "Sumire Doubt[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu36_lv01#0",
+   "speaker": null,
+   "en": "A freshman who does gymnastics.[n]Sumire wants to talk with you in[n]exchange for teaching you moves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu36_lv02#0",
+   "speaker": null,
+   "en": "Sumire's in a slump, having[n]difficulty with her routine. She[n]wants to regain her boldness...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu36_lv03#0",
+   "speaker": null,
+   "en": "Sumire brought bento for you[n]both. Unsure how to flavor it[n]she made it all taste of curry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu36_lv04#0",
+   "speaker": null,
+   "en": "In carefully choosing a pair of[n]glasses for her father, Sumire[n]has begun to regain confidence.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu36_lv05#0",
+   "speaker": null,
+   "en": "She's turned her desire to meet[n]your expectations into her own[n]motivation, to great effect.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu36_lv06#0",
+   "speaker": null,
+   "en": "Apologizing for the deceit, she[n]opened up about her sister. She[n]wants to start anew as Sumire...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu36_lv07#0",
+   "speaker": null,
+   "en": "Feeling down and unable to[n]live up to Kasumi's bold moves,[n]her coach gave her wise words.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu36_lv08#0",
+   "speaker": null,
+   "en": "Sumire decided to go shopping[n]for clothing to express herself.[n]Maybe someone will notice...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu36_lv09#0",
+   "speaker": null,
+   "en": "Sumire realized Kasumi's true[n]feelings, along with her own[n]feelings for [fName]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu36_lv10#0",
+   "speaker": null,
+   "en": "Sumire succeeded in blending[n]boldness with grace, making a[n]promise to her lover to aim high.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu36_rev#0",
+   "speaker": null,
+   "en": "Sumire Doubt[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu36_broken#0",
+   "speaker": null,
+   "en": "Sumire Broken[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu37_help#0",
+   "speaker": null,
+   "en": "Kasumi Help[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu37_lv09#0",
+   "speaker": null,
+   "en": "After discovering how Kasumi felt,[n]Sumire resolves to be independent.[n]You give her support as her friend.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu37_lv10#0",
+   "speaker": null,
+   "en": "Sumire succeeded in blending[n]boldness with grace, looking at[n]the future with determination.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu09_02_lv01#0",
+   "speaker": null,
+   "en": "While investigating the Phantom[n]Thieves, he was moved by[n][fName]'s words...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu09_02_lv02#0",
+   "speaker": null,
+   "en": "He invited you to play billiards,[n]and provoked you by using his[n]non-dominant hand.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu09_02_lv03#0",
+   "speaker": null,
+   "en": "Through helping him escape a[n]close call with troublesome fans,[n]you saw his distrust for adults.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu09_02_lv04#0",
+   "speaker": null,
+   "en": "The Detective Prince invited you to[n]his go-to place, where you talked[n]a bit about school life.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu09_02_lv05#0",
+   "speaker": null,
+   "en": "You played a shooting game[n]with him while talking about his[n]childhood dream of being a hero.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu09_02_lv06#0",
+   "speaker": null,
+   "en": "In the bathhouse, he discussed[n]his family and promised to play[n]another round of billiards.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu09_02_lv07#0",
+   "speaker": null,
+   "en": "After defeating him in a game[n]of billiards, he declares that he[n]won't hold back next time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu09_02_lv08#0",
+   "speaker": null,
+   "en": "You clashed with Akechi in[n]Mementos and siezed victory.[n]He swore not to lose to you again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu09_02_lv09#0",
+   "speaker": null,
+   "en": "His objective is to get revenge[n]on his father, Shido. After[n]stating that, he attacked...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu09_02_lv10#0",
+   "speaker": null,
+   "en": "You kept your promise to settle his[n]complex issues with Shido. When[n]will the other promise be fulfilled...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu09_02_rev#0",
+   "speaker": null,
+   "en": "Akechi Doubt[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu09_02_broken#0",
+   "speaker": null,
+   "en": "Akechi Broken[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu12_02_lv01#0",
+   "speaker": null,
+   "en": "The Velvet Room resident vows[n]to continue supporting you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu12_02_lv02#0",
+   "speaker": null,
+   "en": "The Velvet Room resident vows[n]to continue supporting you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu12_02_lv03#0",
+   "speaker": null,
+   "en": "The Velvet Room resident vows[n]to continue supporting you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu12_02_lv04#0",
+   "speaker": null,
+   "en": "The Velvet Room resident vows[n]to continue supporting you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu12_02_lv05#0",
+   "speaker": null,
+   "en": "The Velvet Room resident vows[n]to continue supporting you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu12_02_lv06#0",
+   "speaker": null,
+   "en": "The Velvet Room resident vows[n]to continue supporting you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu12_02_lv07#0",
+   "speaker": null,
+   "en": "The Velvet Room resident vows[n]to continue supporting you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu12_02_lv08#0",
+   "speaker": null,
+   "en": "The Velvet Room resident vows[n]to continue supporting you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu12_02_lv09#0",
+   "speaker": null,
+   "en": "The Velvet Room resident vows[n]to continue supporting you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu12_02_lv10#0",
+   "speaker": null,
+   "en": "Lavenza praises [fName][n]for completing all tasks. She[n]promises her continued support.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu12_02_rev#0",
+   "speaker": null,
+   "en": "Lavenza Doubt[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "commu12_02_broken#0",
+   "speaker": null,
+   "en": "Lavenza Broken[n]This is a bug.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const99_d_name#0",
+   "speaker": null,
+   "en": "First Last",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const99_d#0",
+   "speaker": null,
+   "en": "Confidant explanation[n]Dummy",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const01_01_name#0",
+   "speaker": null,
+   "en": "First Last",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const01_01#0",
+   "speaker": null,
+   "en": "Confidant explanation[n]Dummy",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const02_01_name#0",
+   "speaker": null,
+   "en": "Ryuji Sakamoto",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const02_01#0",
+   "speaker": null,
+   "en": "A fellow Persona-user and the[n]former star of the track team.[n]He resents selfish adults.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const03_01_name#0",
+   "speaker": null,
+   "en": "Morgana",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const03_01#0",
+   "speaker": null,
+   "en": "An amnesiac talking cat who[n]moved in with you after you[n]met in the Metaverse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const04_01_name#0",
+   "speaker": null,
+   "en": "Ann Takamaki",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const04_01#0",
+   "speaker": null,
+   "en": "A quarter-American who spent time[n]abroad. She stands up to save those[n]like herself and her friend.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const05_01_name#0",
+   "speaker": null,
+   "en": "Yusuke Kitagawa",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const05_01#0",
+   "speaker": null,
+   "en": "Genius of Japanese art and Kosei High[n]student. He is resentful of adults who[n]leech off the talent of others.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const06_01_name#0",
+   "speaker": null,
+   "en": "Makoto Niijima",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const06_01#0",
+   "speaker": null,
+   "en": "Shujin Academy's student council[n]president. Casting off expectations[n]of her, she joins the group.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const07_01_name#0",
+   "speaker": null,
+   "en": "Haru Okumura",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const07_01#0",
+   "speaker": null,
+   "en": "Third-year student of Shujin Academy[n]and heiress to a conglomerate. She[n]rises to avenge her father.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const08_01_name#0",
+   "speaker": null,
+   "en": "Futaba Sakura",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const08_01#0",
+   "speaker": null,
+   "en": "Genius hacker, one year younger[n]than you. She opened up her[n]heart to the group that saved her.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const09_01_name#0",
+   "speaker": null,
+   "en": "Goro Akechi",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const09_01#0",
+   "speaker": null,
+   "en": "A third-year high school detective[n]from another school. He seeks the[n]culprit of the psychotic breakdowns.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const10_01_name#0",
+   "speaker": null,
+   "en": "Sojiro Sakura",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const10_01#0",
+   "speaker": null,
+   "en": "The owner of Café Leblanc. Serves[n]as your guardian in Tokyo.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const11_01_name#0",
+   "speaker": null,
+   "en": "Chihaya Mifune",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const11_01#0",
+   "speaker": null,
+   "en": "A fortune teller on the streets of[n]Shinjuku. Her predictions are so[n]accurate, it's spooky.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const12_01_name#0",
+   "speaker": null,
+   "en": "Justine and Caroline",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const12_01#0",
+   "speaker": null,
+   "en": "The Twin Wardens of the Velvet Room.[n]Under their master's orders, they test[n]your skills and help you fuse Personas.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const13_01_name#0",
+   "speaker": null,
+   "en": "Dummy (Old Caroline)",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const13_01#0",
+   "speaker": null,
+   "en": "Dummy (Old Caroline)",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const14_01_name#0",
+   "speaker": null,
+   "en": "Munehisa Iwai",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const14_01#0",
+   "speaker": null,
+   "en": "A skilled craftsman who owns a[n]shop on Central Street. Agreed to[n]help you out in exchange for info.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const15_01_name#0",
+   "speaker": null,
+   "en": "Tae Takemi",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const15_01#0",
+   "speaker": null,
+   "en": "The doctor of a clinic in Yongen-Jaya[n]who has a bad rep. She cooperates[n]if you help with her trial tests.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const16_01_name#0",
+   "speaker": null,
+   "en": "Sadayo Kawakami",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const16_01#0",
+   "speaker": null,
+   "en": "Your homeroom teacher at Shujin[n]Academy. She offers help if you keep[n]quiet about her job as a maid.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const17_01_name#0",
+   "speaker": null,
+   "en": "Ichiko Ohya",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const17_01#0",
+   "speaker": null,
+   "en": "Journalist who frequents a bar[n]in Shinjuku. She controls public[n]opinion by writing articles.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const18_01_name#0",
+   "speaker": null,
+   "en": "Shinya Oda",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const18_01#0",
+   "speaker": null,
+   "en": "A grade schooler who frequents[n]the arcade. The King of shooters[n]can teach you his ways.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const19_01_name#0",
+   "speaker": null,
+   "en": "Hifumi Togo",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const19_01#0",
+   "speaker": null,
+   "en": "Yusuke's classmate who strives to[n]be a pro shogi player. She teaches[n]you battle strategy through shogi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const20_01_name#0",
+   "speaker": null,
+   "en": "Yuuki Mishima",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const20_01#0",
+   "speaker": null,
+   "en": "Your classmate who knows your[n]identity. He wants to help with[n]making the world a better place.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const21_01_name#0",
+   "speaker": null,
+   "en": "Toranosuke Yoshida",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const21_01#0",
+   "speaker": null,
+   "en": "An independent election candidate.[n]He teaches you speech skills that[n]are essential for politics.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const22_01_name#0",
+   "speaker": null,
+   "en": "Sae Niijima",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const22_01#0",
+   "speaker": null,
+   "en": "A young, talented prosecutor of the[n]Special Investigations Unit. Makoto's[n]sister and a regular at Leblanc.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const23_01_name#0",
+   "speaker": null,
+   "en": "Taichi Nishina",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const23_01#0",
+   "speaker": null,
+   "en": "A classmate who quit[n]the volleyball team.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const24_01_name#0",
+   "speaker": null,
+   "en": "Igor",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const24_01#0",
+   "speaker": null,
+   "en": "Master of the Velvet Room. Observes[n]and aids you under the pretext of[n]\"rehabilitation toward freedom.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const25_01_name#0",
+   "speaker": null,
+   "en": "Kasumi Yoshizawa",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const25_01#0",
+   "speaker": null,
+   "en": "A first-year at Shujin who becomes[n]your apprentice to improve her[n]gymnastics and teach you moves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const26_01_name#0",
+   "speaker": null,
+   "en": "Takuto Maruki",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const26_01#0",
+   "speaker": null,
+   "en": "A counselor recently hired at[n]Shujin Academy. He reaches out to[n]students to help ease their burdens.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const27_01_name#0",
+   "speaker": null,
+   "en": "Sumire Yoshizawa",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const27_01#0",
+   "speaker": null,
+   "en": "A first-year Persona-user at Shujin.[n]Now free of her actualized delusion,[n]she decides to stay with the team.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const28_01_name#0",
+   "speaker": null,
+   "en": "Lavenza",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const28_01#0",
+   "speaker": null,
+   "en": "A Velvet Room resident who had[n]been split in two by Yaldabaoth.[n]Guides [fName] as her guest.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const29_01_name#0",
+   "speaker": null,
+   "en": "Goro Akechi",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "const99_01#0",
+   "speaker": null,
+   "en": "A Persona-user and former foe.[n]After meeting an unclear fate, he[n]reappears to solve new mysteries.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

@@ -1,0 +1,292 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR3020_010_001.BF",
+ "entries": [
+  {
+   "id": "MSG_DUMMY#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_INFO#0",
+   "speaker": null,
+   "en": "While browsing the[n]internet, I stumbled upon[n]a shopping website.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_INFO#1",
+   "speaker": null,
+   "en": "It's called Amazoness,[n]and it advertises itself as the largest[n]site of its kind in the industry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_INFO#2",
+   "speaker": null,
+   "en": "There's some info about its[n]monthly sale, where they offer[n]different products every month.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FIRST_INFO#3",
+   "speaker": null,
+   "en": "I wonder what they have right now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BUY_SELECT#0",
+   "speaker": null,
+   "en": "What should I buy?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BUY_SELECT_SEL#0",
+   "speaker": null,
+   "en": "Buy Set 1",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BUY_SELECT_SEL#1",
+   "speaker": null,
+   "en": "Buy Set 2",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BUY_SELECT_SEL#2",
+   "speaker": null,
+   "en": "Don't buy anything",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ITEM_TABLE_M04#0",
+   "speaker": null,
+   "en": "This is the sale for April.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ITEM_TABLE_M04#1",
+   "speaker": null,
+   "en": "First is [var 0][n]and [var 1] in Set 1.[n]The price for Set 1 is ￥[var 4].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ITEM_TABLE_M04#2",
+   "speaker": null,
+   "en": "Next is [var 2][n]and [var 3] in Set 2.[n]The price for Set 2 is ￥[var 5].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ITEM_TABLE_M05#0",
+   "speaker": null,
+   "en": "This is the sale for May.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ITEM_TABLE_M05#1",
+   "speaker": null,
+   "en": "First is [var 0][n]and [var 1] in Set 1.[n]The price for Set 1 is ￥[var 4].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ITEM_TABLE_M05#2",
+   "speaker": null,
+   "en": "Next is [var 2][n]and [var 3] in Set 2.[n]The price for Set 2 is ￥[var 5].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ITEM_TABLE_M06#0",
+   "speaker": null,
+   "en": "This is the sale for June.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ITEM_TABLE_M06#1",
+   "speaker": null,
+   "en": "First is [var 0][n]and [var 1] in Set 1.[n]The price for Set 1 is ￥[var 4].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ITEM_TABLE_M06#2",
+   "speaker": null,
+   "en": "Next is [var 2][n]and [var 3] in Set 2.[n]The price for Set 2 is ￥[var 5].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ITEM_TABLE_M07#0",
+   "speaker": null,
+   "en": "This is the sale for July.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ITEM_TABLE_M07#1",
+   "speaker": null,
+   "en": "First is [var 0][n]and [var 1] in Set 1.[n]The price for Set 1 is ￥[var 4].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ITEM_TABLE_M07#2",
+   "speaker": null,
+   "en": "Next is [var 2][n]and [var 3] in Set 2.[n]The price for Set 2 is ￥[var 5].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ITEM_TABLE_M08#0",
+   "speaker": null,
+   "en": "This is the sale for August.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ITEM_TABLE_M08#1",
+   "speaker": null,
+   "en": "First is [var 0][n]and [var 1] in Set 1.[n]The price for Set 1 is ￥[var 4].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ITEM_TABLE_M08#2",
+   "speaker": null,
+   "en": "Next is [var 2][n]and [var 3] in Set 2.[n]The price for Set 2 is ￥[var 5].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ITEM_TABLE_M09#0",
+   "speaker": null,
+   "en": "This is the sale for September.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ITEM_TABLE_M09#1",
+   "speaker": null,
+   "en": "First is [var 0][n]and [var 1] in Set 1.[n]The price for Set 1 is ￥[var 4].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ITEM_TABLE_M09#2",
+   "speaker": null,
+   "en": "Next is [var 2][n]and [var 3] in Set 2.[n]The price for Set 2 is ￥[var 5].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ITEM_TABLE_M10#0",
+   "speaker": null,
+   "en": "This is the sale for October.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ITEM_TABLE_M10#1",
+   "speaker": null,
+   "en": "First is [var 0][n]and [var 1] in Set 1.[n]The price for Set 1 is ￥[var 4].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ITEM_TABLE_M10#2",
+   "speaker": null,
+   "en": "Next is [var 2][n]and [var 3] in Set 2.[n]The price for Set 2 is ￥[var 5].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ITEM_TABLE_M11#0",
+   "speaker": null,
+   "en": "This is the sale for November.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ITEM_TABLE_M11#1",
+   "speaker": null,
+   "en": "First is [var 0][n]and [var 1] in Set 1.[n]The price for Set 1 is ￥[var 4].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ITEM_TABLE_M11#2",
+   "speaker": null,
+   "en": "Next is [var 2][n]and [var 3] in Set 2.[n]The price for Set 2 is ￥[var 5].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ITEM_TABLE_M12#0",
+   "speaker": null,
+   "en": "This is the sale for December.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ITEM_TABLE_M12#1",
+   "speaker": null,
+   "en": "First is [var 0][n]and [var 1] in Set 1.[n]The price for Set 1 is ￥[var 4].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ITEM_TABLE_M12#2",
+   "speaker": null,
+   "en": "Next is [var 2][n]and [var 3] in Set 2.[n]The price for Set 2 is ￥[var 5].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BUY_SET1#0",
+   "speaker": null,
+   "en": "I bought Set 1.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BUY_SET2#0",
+   "speaker": null,
+   "en": "I bought Set 2.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NO_MOENY#0",
+   "speaker": null,
+   "en": "I don't have enough[n]money to buy this...",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

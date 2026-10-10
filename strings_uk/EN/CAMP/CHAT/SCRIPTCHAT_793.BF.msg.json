@@ -1,0 +1,516 @@
+{
+ "file": "EN/CAMP/CHAT/SCRIPTCHAT_793.BF",
+ "entries": [
+  {
+   "id": "MSG_000_0_0#0",
+   "speaker": "Akechi",
+   "en": "Apologies for the sudden message.[n]Are you free tomorrow?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_001_0_0#0",
+   "speaker": "Akechi",
+   "en": "A work acquaintance gave me[n]some tickets to an aquarium.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_002_0_0#0",
+   "speaker": "Akechi",
+   "en": "It'd be a waste to let them go[n]unused, no? Would you like to[n]come along?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_101_0_0#0",
+   "speaker": "Morgana",
+   "en": "What's the plan? Are you gonna go with[n]Akechi?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_111_0_0#0",
+   "speaker": null,
+   "en": "Commit",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_111_0_0#1",
+   "speaker": null,
+   "en": "Decline",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_111_0_0#2",
+   "speaker": null,
+   "en": "Respond later",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_111_1_0#0",
+   "speaker": null,
+   "en": "Head over immediately",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_111_1_0#1",
+   "speaker": null,
+   "en": "Decline",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_111_1_0#2",
+   "speaker": null,
+   "en": "Respond later",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_999_0_0#0",
+   "speaker": "Akechi",
+   "en": "Are you free today? Would you[n]like to join me at the aquarium?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_200_0_0#0",
+   "speaker": null,
+   "en": "Sure.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_200_0_0#1",
+   "speaker": null,
+   "en": "I have plans.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_201_0_0#0",
+   "speaker": "Akechi",
+   "en": "Glad to hear it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_202_0_0#0",
+   "speaker": "Akechi",
+   "en": "Then tomorrow it is. I'll send you[n]the directions to Shinagawa[n]Aquarium, so we'll meet there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_201_1_0#0",
+   "speaker": "Akechi",
+   "en": "Glad to hear it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_202_1_0#0",
+   "speaker": "Akechi",
+   "en": "The place is in Shinagawa. I'll[n]send you directions, so let's[n]meet up there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_210_0_0#0",
+   "speaker": "Akechi",
+   "en": "I see. A shame.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_210_0_0#1",
+   "speaker": "Akechi",
+   "en": "I'll ask someone else, then.[n]Apologies for the imposition.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_400_0_0#0",
+   "speaker": "Morgana",
+   "en": "Guys' night out at the aquarium, huh?[n]Well, that should be fun. I guess it's[n]not that weird.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_401_0_0#0",
+   "speaker": "Morgana",
+   "en": "Guys' night out at the aquarium, huh?[n]Well, that should be fun. I guess it's[n]not that weird.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_402_0_0#0",
+   "speaker": "Morgana",
+   "en": "Not going this time, huh? Did you have[n]plans today?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_403_0_0#0",
+   "speaker": "Morgana",
+   "en": "Putting it off for now, huh? Don't forget[n]to respond.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ERROR_MSG_000_0_0#0",
+   "speaker": "Sojiro",
+   "en": "Hey, I'm about to open the store.[n]Can you hold off on tinkering with[n]your phone for now?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "ERROR_MSG_001_0_0#0",
+   "speaker": "Morgana",
+   "en": "The chief got mad at you...[n]Maybe you should reply later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_CHAT_INVITE_STOP#0",
+   "speaker": null,
+   "en": "I'm eating now. Maybe I[n]should respond later...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANK_UP_OK#0",
+   "speaker": null,
+   "en": "I feel like my bond with [var 7][n]will grow stronger soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANK_UP_ROCK#0",
+   "speaker": null,
+   "en": "I feel like my bond with [var 7][n]will grow stronger soon, but...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_RANKUP_2#0",
+   "speaker": null,
+   "en": "This may be a good opportunity to[n]strengthen my bond with [var 7]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_COOP_DOUZOKUSEI_HAVE#0",
+   "speaker": null,
+   "en": "I feel I can become closer with[n][var 7] thanks to the [var 2][n]Persona [clr 1][var 5][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_KANDA#0",
+   "speaker": null,
+   "en": "You can now go to [clr 2]Kanda[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINJUKU#0",
+   "speaker": null,
+   "en": "You can now go to [clr 2]Shinjuku[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_AKIHABARA#0",
+   "speaker": null,
+   "en": "You can now go to [clr 2]Akihabara[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_AKIHABARA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_INOKASHIRA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Inokashira Park[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_INOKASHIRA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_OGIKUBO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ogikubo Ramen[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_OGIKUBO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy eating ramen[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ODAIBA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Odaiba Seaside Park[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ODAIBA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like such parks to[n]hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_UENO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ueno Museum[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_UENO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy art museums[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TSUKISHIMA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Tsukishima Monja[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TSUKISHIMA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy eating monjayaki[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_HARAJUKU#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Harajuku Takenoko Street[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_HARAJUKU#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy Takenoko Street[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TYUKAGAI#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Motomachi Chinatown[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_TYUKAGAI#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MAIHAMA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Maihama Destinyland[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MAIHAMA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ASAKUSA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Asakusa[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ASAKUSA#1",
+   "speaker": null,
+   "en": "You can also invite people who may[n]enjoy the Skytree or Nakamise Street[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_IKEBUKURO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ikebukuro Planetarium[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_IKEBUKURO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MEIJIJINGU#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Meiji Shrine[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MEIJIJINGU#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_MEIJIJINGU#2",
+   "speaker": null,
+   "en": "Furthermore, you can go by[n]yourself to pay homage to[n]the shrine, if you wish.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SUIDOUBASH#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Suidobashi Dome Town[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SUIDOUBASH#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHIBUYA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Shibuya Wilton Hotel[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHIBUYA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_GINZA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ginza Sushi Bar[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_GINZA#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may enjoy eating expensive sushi[n]to hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_JINBOCHO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Jinbocho Book Town[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_JINBOCHO#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may like it there to[n]hang out with you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_JINBOCHO#2",
+   "speaker": null,
+   "en": "Furthermore, you can go by[n]yourself for some shopping,[n]if you so desire.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ICHIGAYA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Ichigaya Fishing Pond[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ICHIGAYA#1",
+   "speaker": null,
+   "en": "You can also invite people[n]who may enjoy fishing to[n]hang out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_ICHIGAYA#2",
+   "speaker": null,
+   "en": "Furthermore, you can go by[n]yourself and try your hand at[n]fishing, if you so choose.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINAGAWA#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Shinagawa Aquarium[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_SHINAGAWA#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may enjoy the aquarium to hang[n]out with you there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_NAKANO#0",
+   "speaker": null,
+   "en": "You now have information[n]on a new hangout spot:[n][clr 2]Nakano Commerce Building District[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SPOT_OPEN_NAKANO#1",
+   "speaker": null,
+   "en": "You can also invite people who[n]may enjoy that location to hang[n]out with you there.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

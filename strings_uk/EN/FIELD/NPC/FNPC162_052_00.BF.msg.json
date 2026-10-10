@@ -1,0 +1,1398 @@
+{
+ "file": "EN/FIELD/NPC/FNPC162_052_00.BF",
+ "entries": [
+  {
+   "id": "dummy_mes#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_RYUJI_01#0",
+   "speaker": "Ryuji",
+   "en": "RESERVE",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_RYUJI_02#0",
+   "speaker": "Ryuji",
+   "en": "RESERVE",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_RYUJI_03#0",
+   "speaker": "Ryuji",
+   "en": "Sweet, we got a newbie now![n]Let's show her how we do it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_RYUJI_04#0",
+   "speaker": "Ryuji",
+   "en": "Whoa! Violet's pretty good![n]I gotta try an' keep up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_RYUJI_05#0",
+   "speaker": "Ryuji",
+   "en": "That warehouse was huge! I wonder[n]what it's storin'...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_RYUJI_06#0",
+   "speaker": "Ryuji",
+   "en": "This area looks pretty different from[n]the entrance, huh? Think it's gonna[n]change again on us?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_RYUJI_07#0",
+   "speaker": "Ryuji",
+   "en": "We don't really know much about[n]Dr. Maruki's past, huh? Guess it[n]makes sense, though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_RYUJI_08#0",
+   "speaker": "Ryuji",
+   "en": "I think I know the answer for that[n]door now—let's head over there!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_RYUJI_09#0",
+   "speaker": "Ryuji",
+   "en": "I hadn't seen a VHS tape in a long-ass[n]time... That was one weird room,[n]wasn't it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_RYUJI_10#0",
+   "speaker": "Ryuji",
+   "en": "A science lab as a Palace? Damn,[n]I never woulda imagined it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_RYUJI_11#0",
+   "speaker": "Ryuji",
+   "en": "That was such a weird question...[n]I'll, uh... I'll leave the thinkin'[n]to the rest of y'all...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_RYUJI_12#0",
+   "speaker": "Ryuji",
+   "en": "Wonder what those things on their[n]heads are tellin' 'em... Actually,[n]never mind. I don't wanna know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_RYUJI_13#0",
+   "speaker": "Ryuji",
+   "en": "Let's take a quick break and find that[n]videotape!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_RYUJI_14#0",
+   "speaker": "Ryuji",
+   "en": "Are we gonna hafta watch another video?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_RYUJI_14#1",
+   "speaker": "Ryuji",
+   "en": "Fiiine, let's get over there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_RYUJI_15#0",
+   "speaker": "Ryuji",
+   "en": "Everyone feels like running from their[n]problems sometimes... I gotta admit,[n]even I've thought about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_RYUJI_16#0",
+   "speaker": "Ryuji",
+   "en": "They get treated so they can...[n]go to heaven?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_RYUJI_16#1",
+   "speaker": "Ryuji",
+   "en": "Only their cognition's changing, right?[n]Aaand they're all fine with that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_RYUJI_17#0",
+   "speaker": "Ryuji",
+   "en": "We've got our route now. Let's do[n]whatever else we can 'til the heist.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MORGANA_01#0",
+   "speaker": "Morgana",
+   "en": "RESERVE",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MORGANA_02#0",
+   "speaker": "Morgana",
+   "en": "RESERVE",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MORGANA_03#0",
+   "speaker": "Morgana",
+   "en": "I didn't think we'd be going back[n]to the Metaverse ever again...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MORGANA_04#0",
+   "speaker": "Morgana",
+   "en": "Violet just awakened her power...[n]Don't push her too hard, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MORGANA_05#0",
+   "speaker": "Morgana",
+   "en": "We're definitely making progress—[n]just a little more to go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MORGANA_06#0",
+   "speaker": "Morgana",
+   "en": "We can finally continue the investigation[n]now that those cables are out of our way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MORGANA_07#0",
+   "speaker": "Morgana",
+   "en": "A door that won't open unless we know[n]Maruki's past...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MORGANA_07#1",
+   "speaker": "Morgana",
+   "en": "Well, that sure is a hassle, but this IS[n]his Palace, after all—I'm sure we'll find[n]a clue somewhere.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MORGANA_08#0",
+   "speaker": "Morgana",
+   "en": "So, what Maruki actually lost was...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MORGANA_08#1",
+   "speaker": "Morgana",
+   "en": "Let's get over to that door once you're[n]ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MORGANA_09#0",
+   "speaker": "Morgana",
+   "en": "That sure was a strange question...[n]Well, at least the door's open now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MORGANA_10#0",
+   "speaker": "Morgana",
+   "en": "So the Palace is a laboratory, huh?[n]I knew it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MORGANA_11#0",
+   "speaker": "Morgana",
+   "en": "Maruki may claim to help the suffering[n]people here, but they all just wind up[n]with what Maruki wants for them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MORGANA_12#0",
+   "speaker": "Morgana",
+   "en": "Everyone seems way too giddy post-[n]treatment... No way am I signing up[n]for that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MORGANA_13#0",
+   "speaker": "Morgana",
+   "en": "No videotape, huh? Looks like we need[n]to steal it like proper Phantom Thieves!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MORGANA_14#0",
+   "speaker": "Morgana",
+   "en": "We've got our tape—let's hurry up[n]and watch it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MORGANA_15#0",
+   "speaker": "Morgana",
+   "en": "Maruki's only a little further ahead.[n]Let's go, Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MORGANA_16#0",
+   "speaker": "Morgana",
+   "en": "People are flying all over the place...[n]Anything really can happen here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MORGANA_16#1",
+   "speaker": "Morgana",
+   "en": "All the more reason to stay on guard.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MORGANA_17#0",
+   "speaker": "Morgana",
+   "en": "Excellent, we have our route. Now, let's[n]get ourselves ready for the heist.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ANN_01#0",
+   "speaker": "Ann",
+   "en": "RESERVE",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ANN_02#0",
+   "speaker": "Ann",
+   "en": "RESERVE",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ANN_03#0",
+   "speaker": "Ann",
+   "en": "This Palace looked so big from the[n]outside... We've got a long ways to go.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ANN_04#0",
+   "speaker": "Ann",
+   "en": "Violet looks like she's ready to roll![n]Let's get going, Joker!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ANN_05#0",
+   "speaker": "Ann",
+   "en": "This looks awfully different from the[n]warehouse... I wonder if it'll change[n]again or not.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ANN_06#0",
+   "speaker": "Ann",
+   "en": "Linking Mementos to a Palace...[n]That's, like, unbelievable...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ANN_07#0",
+   "speaker": "Ann",
+   "en": "Now that I think about it, we basically[n]know nothing about Dr. Maruki's past.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ANN_08#0",
+   "speaker": "Ann",
+   "en": "So that's what happened to Dr. Maruki...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ANN_08#1",
+   "speaker": "Ann",
+   "en": "I don't know all what happened, but[n]I think I'm starting to get why he says[n]reality's so painful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ANN_09#0",
+   "speaker": "Ann",
+   "en": "If it's on video, it must be pretty[n]important to Dr. Maruki...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ANN_10#0",
+   "speaker": "Ann",
+   "en": "I was so caught up in everything,[n]I never even stopped to think of what[n]Dr. Maruki's Palace resembles...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ANN_10#1",
+   "speaker": "Ann",
+   "en": "Now that I think about it, it does[n]seem like a laboratory.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ANN_11#0",
+   "speaker": "Ann",
+   "en": "*sigh* I'm getting pretty worn out...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ANN_11#1",
+   "speaker": "Ann",
+   "en": "I think I'm better at fighting than[n]using my head...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ANN_12#0",
+   "speaker": "Ann",
+   "en": "So that's what happens after you finish[n]the examination... What a sight.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ANN_12#1",
+   "speaker": "Ann",
+   "en": "That didn't seem like any sort of[n]real treatment, though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ANN_13#0",
+   "speaker": "Ann",
+   "en": "I hope that videotape's around here.[n]Let's go check out places we haven't[n]seen yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ANN_14#0",
+   "speaker": "Ann",
+   "en": "I wonder what we'll see on this tape...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ANN_15#0",
+   "speaker": "Ann",
+   "en": "Losing someone that close to you[n]has to be just heart-wrenching...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ANN_15#1",
+   "speaker": "Ann",
+   "en": "But, I guess if Shiho hadn't pulled[n]through... I'd probably blame myself[n]too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ANN_16#0",
+   "speaker": "Ann",
+   "en": "Those stairs sure are pretty, but[n]I wonder how Dr. Maruki sees them...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_ANN_17#0",
+   "speaker": "Ann",
+   "en": "We got our route to the treasure![n]Let me know if you need me for[n]anything!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YUSUKE_01#0",
+   "speaker": "Yusuke",
+   "en": "RESERVE",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YUSUKE_02#0",
+   "speaker": "Yusuke",
+   "en": "RESERVE",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YUSUKE_03#0",
+   "speaker": "Yusuke",
+   "en": "We're up against an opponent entirely[n]different from what we've seen so far.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YUSUKE_03#1",
+   "speaker": "Yusuke",
+   "en": "Let's prepare ourselves one last time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YUSUKE_04#0",
+   "speaker": "Yusuke",
+   "en": "Violet's Persona has such an alluring[n]form... It's downright beautiful.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YUSUKE_04#1",
+   "speaker": "Yusuke",
+   "en": "I'd be able to sketch it if we weren't[n]preoccupied... What a shame.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YUSUKE_05#0",
+   "speaker": "Yusuke",
+   "en": "Are there more Shadows here now?[n]Be sure to proceed with caution, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YUSUKE_06#0",
+   "speaker": "Yusuke",
+   "en": "He's merged Mementos with his Palace...[n]He's truly extraordinary.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YUSUKE_07#0",
+   "speaker": "Yusuke",
+   "en": "We must answer a personal question[n]about Dr. Maruki's past...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YUSUKE_07#1",
+   "speaker": "Yusuke",
+   "en": "I'd prefer not to pry, but we have no[n]time to find an alternative approach.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YUSUKE_08#0",
+   "speaker": "Yusuke",
+   "en": "I suppose we should be glad we were[n]able to open the door, but to think[n]we'd have to watch a video like that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YUSUKE_09#0",
+   "speaker": "Yusuke",
+   "en": "The retro nostalgia of VHS is rather[n]appealing... However, without a tape,[n]we won't be able to watch anything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YUSUKE_10#0",
+   "speaker": "Yusuke",
+   "en": "So the cognitive beings here are people[n]who wish to attain happiness through[n]Dr. Maruki's research...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YUSUKE_11#0",
+   "speaker": "Yusuke",
+   "en": "Determining someone's mental state[n]through a series of questions... Is this[n]another one of his counseling methods?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YUSUKE_12#0",
+   "speaker": "Yusuke",
+   "en": "Everyone here seems entirely[n]spellbound... But I don't believe[n]I see any true happiness here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YUSUKE_13#0",
+   "speaker": "Yusuke",
+   "en": "Ngh, the video is missing...[n]We'll have to redouble our efforts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YUSUKE_14#0",
+   "speaker": "Yusuke",
+   "en": "Now, let us watch the video before[n]I grow too hungry for it to hold my[n]attention.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YUSUKE_15#0",
+   "speaker": "Yusuke",
+   "en": "I too have a past that I would prefer[n]had turned out differently...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YUSUKE_15#1",
+   "speaker": "Yusuke",
+   "en": "However, if someone were to ask me if[n]I would wish it away, I would tell them,[n]\"Never.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YUSUKE_16#0",
+   "speaker": "Yusuke",
+   "en": "This place is beautiful, yet there's[n]also a feeling of great emptiness...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YUSUKE_16#1",
+   "speaker": "Yusuke",
+   "en": "Could this be how the Palace's ruler[n]sees it as well?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YUSUKE_17#0",
+   "speaker": "Yusuke",
+   "en": "Now, we must wait. If there's anything[n]you need done, allow me to assist.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MAKOTO_01#0",
+   "speaker": "Makoto",
+   "en": "RESERVE",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MAKOTO_02#0",
+   "speaker": "Makoto",
+   "en": "RESERVE",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MAKOTO_03#0",
+   "speaker": "Makoto",
+   "en": "I never thought we'd return to[n]the Metaverse again, let alone[n]for something like this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MAKOTO_04#0",
+   "speaker": "Makoto",
+   "en": "Violet sure is reliable in a battle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MAKOTO_05#0",
+   "speaker": "Makoto",
+   "en": "This whole place feels different beyond[n]the warehouse—we should be on guard.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MAKOTO_06#0",
+   "speaker": "Makoto",
+   "en": "We've had to change the Palace ruler's[n]cognition in order to proceed before,[n]but this is almost the opposite, in a way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MAKOTO_07#0",
+   "speaker": "Makoto",
+   "en": "What did Dr. Maruki lose...? That[n]question's so vague, I can't even[n]begin to come up with an answer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MAKOTO_08#0",
+   "speaker": "Makoto",
+   "en": "So, what we saw in the video... Is that[n]really when Dr. Maruki gained his[n]actualization power?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MAKOTO_09#0",
+   "speaker": "Makoto",
+   "en": "I'm glad we found the right answer,[n]but that door only makes me wonder[n]if there are more of these ahead...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MAKOTO_10#0",
+   "speaker": "Makoto",
+   "en": "Saving people's lives through a lifetime[n]of research... I never thought this sort[n]of thing could be a distorted desire.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MAKOTO_11#0",
+   "speaker": "Makoto",
+   "en": "I hadn't expected Dr. Maruki to arrange[n]for us to be examined.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MAKOTO_12#0",
+   "speaker": "Makoto",
+   "en": "What do you think those big cables[n]we saw earlier could be?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MAKOTO_12#1",
+   "speaker": "Makoto",
+   "en": "I wonder where they lead...[n]Mementos, maybe?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MAKOTO_13#0",
+   "speaker": "Makoto",
+   "en": "Let's go look for that videotape[n]as soon as we're ready.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MAKOTO_14#0",
+   "speaker": "Makoto",
+   "en": "I wonder what we'll see in the next[n]video.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MAKOTO_15#0",
+   "speaker": "Makoto",
+   "en": "I suppose we all have times when[n]we compare ourselves to our family[n]members...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MAKOTO_16#0",
+   "speaker": "Makoto",
+   "en": "We're almost to Dr. Maruki...[n]Keep it up, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_MAKOTO_17#0",
+   "speaker": "Makoto",
+   "en": "Our route's secured—just let us know[n]when you want to head out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HARU_01#0",
+   "speaker": "Haru",
+   "en": "RESERVE",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HARU_02#0",
+   "speaker": "Haru",
+   "en": "RESERVE",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HARU_03#0",
+   "speaker": "Haru",
+   "en": "I still can't forgive Crow for what he did...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HARU_03#1",
+   "speaker": "Haru",
+   "en": "I'm only working with him because[n]I really believe we need his help here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HARU_03#2",
+   "speaker": "Haru",
+   "en": "After all, this is a job for the Phantom[n]Thieves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HARU_04#0",
+   "speaker": "Haru",
+   "en": "Violet is quite active—it takes some[n]effort to keep up with her.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HARU_05#0",
+   "speaker": "Haru",
+   "en": "Things are looking rather different now...[n]Perhaps we're making solid progress?[n]Let's keep moving, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HARU_06#0",
+   "speaker": "Haru",
+   "en": "I wonder what kind of world we'll[n]be in if reality fully merges with[n]Mementos...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HARU_07#0",
+   "speaker": "Haru",
+   "en": "What did Dr. Maruki lose?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HARU_07#1",
+   "speaker": "Haru",
+   "en": "It's something I'd really prefer not to[n]investigate, but we have no choice[n]except to find the answer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HARU_08#0",
+   "speaker": "Haru",
+   "en": "I can't even imagine something so awful[n]as what happened to Dr. Maruki's[n]girlfriend and family...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HARU_09#0",
+   "speaker": "Haru",
+   "en": "That room with the video player sure[n]seemed different from the rest of the[n]Palace, didn't it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HARU_09#1",
+   "speaker": "Haru",
+   "en": "I wonder if it's special for a reason.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HARU_10#0",
+   "speaker": "Haru",
+   "en": "It seems like we still have quite a ways[n]to go. We can always head back if it gets[n]too dangerous, though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HARU_11#0",
+   "speaker": "Haru",
+   "en": "I think I have a much better grasp of[n]Dr. Maruki's ideal reality now—but that's[n]not the same as agreeing with him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HARU_12#0",
+   "speaker": "Haru",
+   "en": "Those people in the headsets—I wonder[n]what they're experiencing? They seem[n]pretty happy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HARU_13#0",
+   "speaker": "Haru",
+   "en": "First, we need to find that videotape.[n]Once you're ready, we ought to head out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HARU_14#0",
+   "speaker": "Haru",
+   "en": "I'm glad we have the tape now. Let's go[n]back to that one video room and see[n]what's in store for us.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HARU_15#0",
+   "speaker": "Haru",
+   "en": "The people Dr. Maruki's collected here—[n]his patients, I guess we should call them?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HARU_15#1",
+   "speaker": "Haru",
+   "en": "They were all smiling, but I wonder[n]if they're actually happy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HARU_16#0",
+   "speaker": "Haru",
+   "en": "That huge room with the stairs—it was[n]so beautiful, but it gave me such a sad[n]feeling... I wonder why that is?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HARU_17#0",
+   "speaker": "Haru",
+   "en": "All we need to do now is wait for the[n]big day. Let's make sure we don't[n]have any regrets left by then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HUTABA_01#0",
+   "speaker": "Futaba",
+   "en": "RESERVE",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HUTABA_02#0",
+   "speaker": "Futaba",
+   "en": "RESERVE",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HUTABA_03#0",
+   "speaker": "Futaba",
+   "en": "To be honest, part of me just can't[n]accept Crow on the team.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HUTABA_03#1",
+   "speaker": "Futaba",
+   "en": "No matter how I approach it, I just[n]can't think of a way where it's okay.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HUTABA_03#2",
+   "speaker": "Futaba",
+   "en": "So, please let me get back to navigating![n]I wanna navigate so hard that I won't be[n]able to think about anything else!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HUTABA_04#0",
+   "speaker": "Futaba",
+   "en": "Looks like we've still got a long way[n]to go. Let's keep pushin' on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HUTABA_05#0",
+   "speaker": "Futaba",
+   "en": "That warehouse was so full of boxes...[n]It kinda reminded me of how my room[n]was.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HUTABA_06#0",
+   "speaker": "Futaba",
+   "en": "He's spying on all of reality from his[n]Palace! You know that means we have[n]no privacy, right!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HUTABA_06#1",
+   "speaker": "Futaba",
+   "en": "Recording all of our conversations and[n]activity is NOT cool! ...Aaaaand I'm just[n]gonna ignore any \"pot/kettle\" comments.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HUTABA_07#0",
+   "speaker": "Futaba",
+   "en": "That door's a real pain in the butt.[n]Nothin' we can do to bypass it, either.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HUTABA_07#1",
+   "speaker": "Futaba",
+   "en": "Let's nose around for some kinda hint.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HUTABA_08#0",
+   "speaker": "Futaba",
+   "en": "Did we see Dr. Maruki's Persona[n]awakening in that video?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HUTABA_08#1",
+   "speaker": "Futaba",
+   "en": "But it didn't look like he totally knew[n]what was goin' on... Hmm, I don't get it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HUTABA_09#0",
+   "speaker": "Futaba",
+   "en": "I would NOT want anyone finding out[n]the answers to my secret questions.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HUTABA_10#0",
+   "speaker": "Futaba",
+   "en": "I wonder if Maruki wishing he really[n]did get his lab is what's generating this[n]Palace...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HUTABA_11#0",
+   "speaker": "Futaba",
+   "en": "Looks like the pop quiz is over.[n]Back to the usual routine!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HUTABA_12#0",
+   "speaker": "Futaba",
+   "en": "I never woulda imagined equipment like[n]those headsets could exist— Well, I guess[n]they don't. This is just the Metaverse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HUTABA_13#0",
+   "speaker": "Futaba",
+   "en": "I'm sensing a whole lotta Shadows nearby.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HUTABA_13#1",
+   "speaker": "Futaba",
+   "en": "Be careful with the videotape hunt,[n]Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HUTABA_14#0",
+   "speaker": "Futaba",
+   "en": "The tape hunt was a success! Now, back[n]to the video room so we can watch it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HUTABA_15#0",
+   "speaker": "Futaba",
+   "en": "He can manipulate the cognition of[n]anyone in reality... That's such a broken[n]ability, if you think about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HUTABA_16#0",
+   "speaker": "Futaba",
+   "en": "We've almost reached Dr. Maruki!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HUTABA_16#1",
+   "speaker": "Futaba",
+   "en": "Let's go, Joker! I've got your backs[n]the rest of the way!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_HUTABA_17#0",
+   "speaker": "Futaba",
+   "en": "Route secured! Let's do what we can[n]with the time we've still got.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_AKECHI_01#0",
+   "speaker": "Akechi",
+   "en": "I realize resting is important every so[n]often, but do we really have the time[n]to relax?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_AKECHI_02#0",
+   "speaker": "Akechi",
+   "en": "Let's move out as soon as we're done[n]here. We're headed for the auditorium,[n]correct?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_AKECHI_03#0",
+   "speaker": "Akechi",
+   "en": "Everyone's together again...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_AKECHI_03#1",
+   "speaker": "Akechi",
+   "en": "I'll leave the strategizing to Oracle—[n]I'm going to keep my focus on the[n]combat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_AKECHI_04#0",
+   "speaker": "Akechi",
+   "en": "Violet seems to have finally gotten[n]the hang of fighting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_AKECHI_04#1",
+   "speaker": "Akechi",
+   "en": "Now that we're all good and ready,[n]we should move out, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_AKECHI_05#0",
+   "speaker": "Akechi",
+   "en": "A warehouse, eh...? I bet there are[n]plenty of—",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_AKECHI_05#1",
+   "speaker": "Akechi",
+   "en": "Well, that doesn't matter in the least[n]right now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_AKECHI_06#0",
+   "speaker": "Akechi",
+   "en": "Monitoring the real world from within[n]his Palace... What an absurd system[n]he's built here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_AKECHI_07#0",
+   "speaker": "Akechi",
+   "en": "The security question is asking what[n]Dr. Maruki lost...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_AKECHI_07#1",
+   "speaker": "Akechi",
+   "en": "He must have at least one huge regret[n]if he's made that his password.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_AKECHI_08#0",
+   "speaker": "Akechi",
+   "en": "Looks like he awakened his Persona[n]while he was still in the real world.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_AKECHI_08#1",
+   "speaker": "Akechi",
+   "en": "Could that mean he's had a Palace[n]ever since then? ...Well, it makes no[n]difference either way.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_AKECHI_09#0",
+   "speaker": "Akechi",
+   "en": "Using personal information as[n]a security measure...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_AKECHI_09#1",
+   "speaker": "Akechi",
+   "en": "It's rather simple, but quite effective—at[n]being a nuisance. I really hope we don't[n]have to deal with any more of these.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_AKECHI_10#0",
+   "speaker": "Akechi",
+   "en": "The auditorium is for presenting[n]research findings, and the track is[n]most likely for experimentation.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_AKECHI_10#1",
+   "speaker": "Akechi",
+   "en": "These are just educated guesses, mind[n]you—but I am rather confident in them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_AKECHI_11#0",
+   "speaker": "Akechi",
+   "en": "If you don't agree with Maruki's navel-[n]gazing philosophy, you're classified[n]as abnormal here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_AKECHI_11#1",
+   "speaker": "Akechi",
+   "en": "I understand this was determined by[n]the cognitive beings in the Palace,[n]but doesn't it still sound ludicrous?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_AKECHI_12#0",
+   "speaker": "Akechi",
+   "en": "So those helmets are for nothing but[n]brainwashing...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_AKECHI_12#1",
+   "speaker": "Akechi",
+   "en": "If Maruki calls that \"salvation,\" then[n]I call him crazy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_AKECHI_13#0",
+   "speaker": "Akechi",
+   "en": "There're probably going to be plenty[n]more enemies from here on... Let's[n]not rush to our deaths here, all right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_AKECHI_14#0",
+   "speaker": "Akechi",
+   "en": "Now that we have the videotape,[n]we should see what sort of clues[n]it holds.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_AKECHI_15#0",
+   "speaker": "Akechi",
+   "en": "Maruki actually thinks he's saving[n]people...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_AKECHI_15#1",
+   "speaker": "Akechi",
+   "en": "Whereas the only thing he's doing is[n]forcing his own desires onto people.[n]And he calls it kindness... Sickening.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_AKECHI_16#0",
+   "speaker": "Akechi",
+   "en": "I suspect we're getting close to the[n]Treasure—let's press on, but be careful[n]about it, Joker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_AKECHI_17#0",
+   "speaker": "Akechi",
+   "en": "Now we wait for the deadline...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_AKECHI_17#1",
+   "speaker": "Akechi",
+   "en": "If there's anything you'd care to do[n]beforehand, I'll tag along.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YOSHIZAWA_01#0",
+   "speaker": "[sumi 10 0]",
+   "en": "I'm getting this strange feeling in my[n]chest... I do hope it's just my nerves[n]about this place.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YOSHIZAWA_02#0",
+   "speaker": "[sumi 10 0]",
+   "en": "RESERVE",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YOSHIZAWA_03#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Ready when you are, Joker-senpai!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YOSHIZAWA_04#0",
+   "speaker": "[sumi 10 0]",
+   "en": "I'm so sorry for worrying you—I'm okay[n]now, though! Let's keep going.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YOSHIZAWA_05#0",
+   "speaker": "[sumi 10 0]",
+   "en": "With Oracle-senpai around, progressing[n]through the Palace almost seems like[n]a breeze!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YOSHIZAWA_06#0",
+   "speaker": "[sumi 10 0]",
+   "en": "I still can't wrap my head around there[n]being an entire world built only by[n]the cognition of the people...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YOSHIZAWA_07#0",
+   "speaker": "[sumi 10 0]",
+   "en": "What could have Dr. Maruki lost?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YOSHIZAWA_07#1",
+   "speaker": "[sumi 10 0]",
+   "en": "If he's using that answer as a security[n]code, I assume it's something very[n]dear to him...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YOSHIZAWA_08#0",
+   "speaker": "[sumi 10 0]",
+   "en": "I had no idea Dr. Maruki went through[n]that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YOSHIZAWA_08#1",
+   "speaker": "[sumi 10 0]",
+   "en": "All I ever did was talk to him about[n]my own problems...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YOSHIZAWA_09#0",
+   "speaker": "[sumi 10 0]",
+   "en": "It's getting harder to press onward[n]with each video we watch...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YOSHIZAWA_10#0",
+   "speaker": "[sumi 10 0]",
+   "en": "So the stadium turned into a laboratory[n]just due to his cognition? It's so odd to[n]learn things like that can really happen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YOSHIZAWA_11#0",
+   "speaker": "[sumi 10 0]",
+   "en": "This \"treatment\" the Shadows keep[n]talking about... Is that what I went[n]through?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YOSHIZAWA_11#1",
+   "speaker": "[sumi 10 0]",
+   "en": "I mean, yes, I did feel better... But...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YOSHIZAWA_12#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Changing your entire cognition[n]so you can have a happy life...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YOSHIZAWA_12#1",
+   "speaker": "[sumi 10 0]",
+   "en": "I used to be like that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YOSHIZAWA_13#0",
+   "speaker": "[sumi 10 0]",
+   "en": "You know, I think this Palace was the[n]first time I ever actually watched[n]a VHS tape.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YOSHIZAWA_13#1",
+   "speaker": "[sumi 10 0]",
+   "en": "I remember seeing lots of tapes on[n]the shelves at my house when I was[n]little, though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YOSHIZAWA_14#0",
+   "speaker": "[sumi 10 0]",
+   "en": "We found the videotape. I wonder[n]what's on it...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YOSHIZAWA_15#0",
+   "speaker": "[sumi 10 0]",
+   "en": "I never thought I'd... I never would've[n]expected to see that on tape.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YOSHIZAWA_15#1",
+   "speaker": "[sumi 10 0]",
+   "en": "Does that mean... he really cared[n]that much about my well-being?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YOSHIZAWA_16#0",
+   "speaker": "[sumi 10 0]",
+   "en": "This area feels very different from where[n]we just were... I wonder what's past here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SAFE_MES_YOSHIZAWA_17#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Now we just have to wait until the[n]deadline, right? Let's do what we[n]can until then!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

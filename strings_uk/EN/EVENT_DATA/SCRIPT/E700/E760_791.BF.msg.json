@@ -1,0 +1,1629 @@
+{
+ "file": "EN/EVENT_DATA/SCRIPT/E700/E760_791.BF",
+ "entries": [
+  {
+   "id": "MSG_GAMESTART#0",
+   "speaker": "Morgana",
+   "en": "Let's start up Featherman Seeker.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAMESTART_1st_001#0",
+   "speaker": "Morgana",
+   "en": "Oh, but before we start, there's[n]something I think you should know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GAMESTART_1st#0",
+   "speaker": null,
+   "en": "What is it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GAMESTART_1st#1",
+   "speaker": null,
+   "en": "Let's just play.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAMESTART_1st_001_01#0",
+   "speaker": "Morgana",
+   "en": "Okay, so listen up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAMESTART_1st_001_02#0",
+   "speaker": "Morgana",
+   "en": "Just hold on a sec.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAMESTART_1st_002#0",
+   "speaker": "Morgana",
+   "en": "I checked the manual, and it says the[n]story in this game is different from[n]the original TV show.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAMESTART_1st_002#1",
+   "speaker": "Morgana",
+   "en": "Something about trying to become[n]the sixth Phoenix Ranger...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAMESTART_1st_002#2",
+   "speaker": "Morgana",
+   "en": "I don't know much about the TV series,[n]but this looks like a game you can really[n]sink your teeth into!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAMESTART_1st_002#3",
+   "speaker": "Morgana",
+   "en": "Let's become a Phoenix Ranger!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAMESTART_1st_003#0",
+   "speaker": "Morgana",
+   "en": "Doesn't it sound exciting? We should[n]totally become a Phoenix Ranger!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_FI#0",
+   "speaker": "Morgana",
+   "en": "By the way, haven't you read that[n]secret technique book?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_FI#1",
+   "speaker": "Morgana",
+   "en": "It makes the input commands less difficult,[n]which makes the game easier, right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_FI_2#0",
+   "speaker": "Morgana",
+   "en": "So, should we use the trick? It will lessen[n]the difficulty of the input commands.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_001_0_0#0",
+   "speaker": null,
+   "en": "Use the technique",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_001_0_0#1",
+   "speaker": null,
+   "en": "Play the game normally",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_NO#0",
+   "speaker": "Morgana",
+   "en": "Whoa, you're fired up! All right, go for it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_READ_BOOK_URAWAZA_YE#0",
+   "speaker": "Morgana",
+   "en": "Makes sense, since you've learned[n]how to. All right, let's do this!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HLP_BOOK_NG_01#0",
+   "speaker": null,
+   "en": "First, remember the commands[n]as displayed on the screen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HLP_BOOK_NG_01#1",
+   "speaker": null,
+   "en": "Then enter the commands accurately[n]within the time limit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_start_1st_00#0",
+   "speaker": "Narration",
+   "en": "As the threat of doom draws near,[n]a new power spreads its wings...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_start_1st_00_2#0",
+   "speaker": "Morgana",
+   "en": "Whoa, they really know how to get you[n]pumped up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_start_1st_00_2#1",
+   "speaker": "Morgana",
+   "en": "Is this... a lab? That person in front of[n]the computer looks like a scientist.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_start_1st_00_3#0",
+   "speaker": "Woman in White Lab Coat",
+   "en": "...You're awake already. That's a[n]promising sign.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_start_1st_00_3#1",
+   "speaker": "Woman in White Lab Coat",
+   "en": "My name is... Well, just call me Osagiri.[n]I've been put in charge of your training.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_start_1st_00_4#0",
+   "speaker": "Osagiri",
+   "en": "Welcome to my space laboratory. You are[n]the strongest fighter that I've created yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_start_1st_00_5#0",
+   "speaker": "Osagiri",
+   "en": "We will now commence your training.[n]Endure it, and you will acquire power[n]equaling that of the Phoenix Rangers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_start_1st_00_6#0",
+   "speaker": "Osagiri",
+   "en": "Since today is your first day, we'll use the[n]simulator. Don't worry about passing or[n]failing, just show me what you can do.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_start_1st_00_7#0",
+   "speaker": "Morgana",
+   "en": "Training, huh... I guess you can't become[n]a hero if you don't put in the effort.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_start_1st_00_8#0",
+   "speaker": "Osagiri",
+   "en": "Let's begin with a warm up. Try[n]controlling your strength as instructed.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_01_000#0",
+   "speaker": "Narration",
+   "en": "Pigeon lands on Earth... to engage in[n]his first real battle against an Aberrant!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_01_001#0",
+   "speaker": "Morgana",
+   "en": "I guess we've moved on from Osagiri's[n]space lab. This looks like an urban area[n]on Earth.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_01_002#0",
+   "speaker": "Osagiri",
+   "en": "Pigeon, can you hear me? This is Osagiri.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_01_002#1",
+   "speaker": "Osagiri",
+   "en": "From now on, I'll communicate with you[n]through this com device in your helmet.[n]I'll provide you with support from the lab.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_01_002#2",
+   "speaker": "Osagiri",
+   "en": "I'm getting readings of an Infinibug a bit[n]north of you. Please refer to the data[n]I sent you before you go into battle.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_01_002#3",
+   "speaker": "Osagiri",
+   "en": "And remember that this is not a[n]simulation, but a real battle. Failure[n]is not an option.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_01_002#4",
+   "speaker": "Osagiri",
+   "en": "As I said before, you will act alone until you[n]are sufficiently capable. Your value is being[n]tested as you put your life on the line.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_01_005#0",
+   "speaker": "Morgana",
+   "en": "Sending a trainee into battle against a real[n]enemy? Man, Osagiri isn't just tough, she's[n]reckless...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_01_006#0",
+   "speaker": "Aberrant",
+   "en": "Brrring! I can sense a connection...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_01_007#0",
+   "speaker": "Morgana",
+   "en": "What the— Is that a walking phone booth?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_01_008#0",
+   "speaker": "Aberrant",
+   "en": "I hearrr humans communicating!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_01_008#1",
+   "speaker": "Aberrant",
+   "en": "I'm going to rrrandomly rrreconnect[n]the ends to confuse everrrybody!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_01_009#0",
+   "speaker": "Osagiri",
+   "en": "Target located. Pigeon, you must[n]exterminate it. May this fight[n]contribute to your growth.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_01_010#0",
+   "speaker": "Aberrant",
+   "en": "Who are you? Why are you drrressed like[n]a Featherman!? You'd betterrr stay out of[n]my way!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_01_011#0",
+   "speaker": "Morgana",
+   "en": "Here it comes! Get your controller ready!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_01_012#0",
+   "speaker": "Aberrant",
+   "en": "I am Phoneternum! Hear me rrring![n]In the name of Zylam, I will defeat you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_01_101#0",
+   "speaker": "Morgana",
+   "en": "The city will be our battlefield. Let's[n]defeat the Aberrant this time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_01_000#0",
+   "speaker": "Narration",
+   "en": "Fighting battle after battle, Pigeon only[n]grows stronger. He dives head first into a[n]confrontation with the next Aberrant...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_01_002#0",
+   "speaker": "Osagiri",
+   "en": "Osagiri here. I'm getting readings of an[n]Infinibug from inside that factory. I'll[n]send you the data just like last time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_01_002#1",
+   "speaker": "Osagiri",
+   "en": "By the way, this battle marks the end[n]of your training. You'll graduate from[n]trainee status... If you survive, that is.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_01_003#0",
+   "speaker": "Morgana",
+   "en": "This is where we show them what Pigeon is[n]all about. Let's win this battle and graduate[n]from trainee status!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_01_004#0",
+   "speaker": "Aberrant",
+   "en": "Bzzz! How did you discover our human[n]bloodmeal manufacturing plant!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_01_004#1",
+   "speaker": "Aberrant",
+   "en": "Only the officers are suppozzzed to[n]know about this place!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_01_005#0",
+   "speaker": "Morgana",
+   "en": "Over there! That must be our enemy!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_01_006#0",
+   "speaker": "Aberrant",
+   "en": "Mosquiternum is the name. And you[n]muzzzt be the rumored Infinibug hunter!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_01_101#0",
+   "speaker": "Morgana",
+   "en": "I see the factory up ahead. We've gotta[n]exterminate the Aberrant for sure this[n]time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_01_102#0",
+   "speaker": "Mosquiternum",
+   "en": "Mosquiternum is the name. And you[n]muzzzt be the rumored Infinibug hunter!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_01_008#0",
+   "speaker": "Morgana",
+   "en": "Here it comes! Get your controller ready!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_01_OK#0",
+   "speaker": "Osagiri",
+   "en": "Impressive! You exhibit flawless control.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_01_OK#1",
+   "speaker": "Osagiri",
+   "en": "Let's see how you do with the next[n]challenge.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_01_NO#0",
+   "speaker": "Osagiri",
+   "en": "...I believe you can do better. Let's try[n]that challenge once more.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_01_NO2#0",
+   "speaker": "Osagiri",
+   "en": "Perhaps you weren't sufficiently[n]prepared. Let's try a different challenge.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_01_051#0",
+   "speaker": "Phoneternum",
+   "en": "Brrring! Taste my Rrradio Wave Beam!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_01_OK1#0",
+   "speaker": "Morgana",
+   "en": "Yeah! Nice dodge!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_01_OK2#0",
+   "speaker": "Phoneternum",
+   "en": "Impossible! You managed to dodge my[n]attack... You're no ordinary human!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_01_OK2#1",
+   "speaker": "Phoneternum",
+   "en": "How about this? Coily Corrrd!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_01_OK3#0",
+   "speaker": "Morgana",
+   "en": "This is bad. Pigeon's caught in the cord[n]and can't move!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_01_OK4#0",
+   "speaker": "Phoneternum",
+   "en": "Hya ha ha ha! What a marrrvelous view!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_01_OK4#1",
+   "speaker": "Phoneternum",
+   "en": "Now you have no chance of dodging[n]my Rrradio Wave Beam!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_01_NO1#0",
+   "speaker": "Phoneternum",
+   "en": "Hee hee hee! Rrright in the kisserrr!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_01_NO2#0",
+   "speaker": "Osagiri",
+   "en": "Pigeon? Come in Pigeon! Answer me...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_01_NO3#0",
+   "speaker": "Morgana",
+   "en": "No... You died...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_01_051#0",
+   "speaker": "Mosquiternum",
+   "en": "You're not getting outta here alive![n]Bloodzzzucker Needle!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_01_052#0",
+   "speaker": "Morgana",
+   "en": "Let's take him on! Feathernix Saber!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_01_OK2#0",
+   "speaker": "Mosquiternum",
+   "en": "Bzz! You saw my needle coming? It's[n]like you already knew my moves...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_01_OK2#1",
+   "speaker": "Mosquiternum",
+   "en": "Bzz... Bzzz... Glory to Zzzylam! Bzz...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_01_OK3#0",
+   "speaker": "Morgana",
+   "en": "All right! We beat Mosquiternum!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_01_OK3#1",
+   "speaker": "Morgana",
+   "en": "But this guy said something weird before[n]he died, just like the last one...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_01_OK4#0",
+   "speaker": "Osagiri",
+   "en": "You've done well. Very well, indeed...[n]Let's meet up in front of the factory.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_01_OK5#0",
+   "speaker": "Morgana",
+   "en": "Osagiri's coming to see us in person?[n]You think she's going to give us a[n]trainee graduation gift by hand?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_01_NO1#0",
+   "speaker": "Mosquiternum",
+   "en": "You mizzzed! Were you even aiming?[n]Now your blood is mine!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_01_NO2#0",
+   "speaker": "Osagiri",
+   "en": "Pigeon? Come in Pigeon! Answer me...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_01_NO3#0",
+   "speaker": "Morgana",
+   "en": "No... You died...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_02_001#0",
+   "speaker": "Phoneternum",
+   "en": "Here we go! Rrring! Rrradio Wave Beam!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_02_002#0",
+   "speaker": "Morgana",
+   "en": "Cut the cord, quick! We have to escape!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_02_001#0",
+   "speaker": "Osagiri",
+   "en": "Well done, Pigeon. You've come a long[n]way. You can meet with the Feathermen...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_02_001#1",
+   "speaker": "Osagiri",
+   "en": "...if you can defeat me, that is. I want to[n]see the results of your training with my[n]own eyes.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_02_002#0",
+   "speaker": "Morgana",
+   "en": "I guess this is our graduation exam.[n]In which case... we have to win!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_02_003#0",
+   "speaker": "Osagiri",
+   "en": "And no holding back. Come at me[n]with intent to kill. It's the only way I[n]can measure your true skills.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_02_004#0",
+   "speaker": "Morgana",
+   "en": "Is she serious...? Well, I guess we don't[n]have time for questions! Blaster Shot!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_02_OK#0",
+   "speaker": "Osagiri",
+   "en": "Incredible... Your strength is far greater[n]than I initially projected...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_02_NO#0",
+   "speaker": "Osagiri",
+   "en": "I don't think you're showing your full[n]potential. Let's repeat that challenge.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_02_NO2#0",
+   "speaker": "Osagiri",
+   "en": "Your technique could use some[n]fine-tuning... but you may proceed[n]to the next challenge.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_02_OK1#0",
+   "speaker": "Morgana",
+   "en": "Good! We escaped the cord and[n]dodged the beam!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_02_OK2#0",
+   "speaker": "Phoneternum",
+   "en": "Wh-Whaaat!? How did you do that!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_02_NO1#0",
+   "speaker": "Phoneternum",
+   "en": "Brrrahahaha! Too slow! You're completely[n]outmatched. Now I've got you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_02_NO2#0",
+   "speaker": "Osagiri",
+   "en": "Pigeon? Come in Pigeon! Answer me...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_02_NO3#0",
+   "speaker": "Morgana",
+   "en": "No... You died...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_02_OK0#0",
+   "speaker": "Osagiri",
+   "en": "Ngh...! Nice... shot. Hehe... You've[n]exceeded my expectations. I accept[n]my defeat.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_02_OK1#0",
+   "speaker": "Morgana",
+   "en": "Yes! Pigeon wins!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_02_OK2#0",
+   "speaker": "Osagiri",
+   "en": "Amazing... Simply incredible! You've[n]turned out exactly as I hoped you would!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_02_NO2#0",
+   "speaker": "Osagiri",
+   "en": "An easy dodge! Now it's my turn!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_02_NO3#0",
+   "speaker": "Morgana",
+   "en": "Uh-oh... Pigeon's out cold...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_03_001#0",
+   "speaker": "Osagiri",
+   "en": "This next challenge will be the last.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_03_001#1",
+   "speaker": "Osagiri",
+   "en": "Battle simulator, start!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_03_002#0",
+   "speaker": "Morgana",
+   "en": "Oh, the scenery changed. Hmmm...[n]Is this a waste disposal facility?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_03_003#0",
+   "speaker": "Osagiri",
+   "en": "You will be facing an Aberrant from[n]Zylam, the Infinibug army planning[n]to take over Earth.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_03_004#0",
+   "speaker": "Osagiri",
+   "en": "Its name is Scrapeternum... a powerful[n]Aberrant born of a parasite that fed on[n]scrap metal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_03_005#0",
+   "speaker": "Osagiri",
+   "en": "But I know you can defeat it. I have[n]faith in you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_03_006#0",
+   "speaker": "Morgana",
+   "en": "So this training is preparing us for[n]real combat. All right, let's get the Aberrant!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_03_007#0",
+   "speaker": "Scrapeternum",
+   "en": "Clangity clang! I'm Scrapeternum, the[n]scrap metal eating Aberrant, clang!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_03_008#0",
+   "speaker": "Scrapeternum",
+   "en": "There's too many people on Earth, clang![n]I'm going to squash them flat to make it[n]a more comfortable place to live, clang!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_03_009#0",
+   "speaker": "Morgana",
+   "en": "...This guy's pretty chipper about being[n]a threat to the planet's safety, huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_03_010#0",
+   "speaker": "Scrapeternum",
+   "en": "You dare stand in my way, clang?[n]I'll flatten you out, clang!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_03_011#0",
+   "speaker": "Morgana",
+   "en": "Here it comes! Get your controller ready!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_03_012#0",
+   "speaker": "Scrapeternum",
+   "en": "Take this! Compression Press!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_03_001#0",
+   "speaker": "Osagiri",
+   "en": "Pigeon, now's your chance! Your[n]opponent's guard is down!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_03_002#0",
+   "speaker": "Morgana",
+   "en": "Now, let's finish this off! Aerial Slash!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_03_001#0",
+   "speaker": "???",
+   "en": "This is where we're getting readings of[n]the Infinibug!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_03_002#0",
+   "speaker": "Morgana",
+   "en": "Who is that? Wait... I see five silhouettes...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_03_003#0",
+   "speaker": "Red Eagle",
+   "en": "Here we are! The Feathermen have[n]arrived!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_03_004#0",
+   "speaker": "Blue Swan",
+   "en": "But what's going on? I don't see any[n]Aberrants...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_03_005#0",
+   "speaker": "Yellow Owl",
+   "en": "What about that gray one there?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_03_006#0",
+   "speaker": "Pink Argus",
+   "en": "But that looks like a Featherman...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_03_007#0",
+   "speaker": "Black Falcon",
+   "en": "It can't be... The Infinibug readings[n]are coming from that Featherman!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_03_008#0",
+   "speaker": "Morgana",
+   "en": "Whoa, it's the Feathermen!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_03_008#1",
+   "speaker": "Morgana",
+   "en": "But something about this feels off...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_03_009#0",
+   "speaker": "Osagiri",
+   "en": "Do you hear them, Pigeon? They think[n]you're the Aberrant. Are you really just[n]going to sit there and let them kill you...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_03_010#0",
+   "speaker": "Red Eagle",
+   "en": "Are you a Phoenix Ranger? Explain[n]yourself!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_03_011#0",
+   "speaker": "Morgana",
+   "en": "This is getting weird... but the game isn't[n]giving us a choice.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_03_012#0",
+   "speaker": "Red Eagle",
+   "en": "Hm... So you're going to fight? You[n]don't seem like an Aberrant to me...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_03_012#1",
+   "speaker": "Red Eagle",
+   "en": "But if you're challenging us, we will[n]not falter! Let's go! Feather Phoenix!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_03_013#0",
+   "speaker": "Morgana",
+   "en": "Let's fight with this! Flame Bazooka!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_03_OK1#0",
+   "speaker": "Scrapeternum",
+   "en": "Hm!? How could this cheeky little brat[n]dodge my attack? Clang it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_03_OK2#0",
+   "speaker": "Morgana",
+   "en": "This is our chance! Wind Punch!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_03_NG1#0",
+   "speaker": "Scrapeternum",
+   "en": "Hahaha! Bullseye, clang! You shouldn't[n]have underestimated me!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_03_NG2#0",
+   "speaker": "Morgana",
+   "en": "It's payback time! Wind Punch!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_03_OK1#0",
+   "speaker": "Phoneternum",
+   "en": "Gah! H-How do you know... my weak[n]spots...? Wait! You'rrre not...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_03_OK1#1",
+   "speaker": "Phoneternum",
+   "en": "Grrr... Glorrry to Zylam!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_03_OK2#0",
+   "speaker": "Morgana",
+   "en": "All right! We beat Phoneternum!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_03_OK2#1",
+   "speaker": "Morgana",
+   "en": "But I wonder what he was trying to say...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_03_OK3#0",
+   "speaker": "Osagiri",
+   "en": "That was impressive, Pigeon. But it seems[n]you've not fully awakened yet. There is[n]power within you that still lies dormant...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_03_OK3#1",
+   "speaker": "Osagiri",
+   "en": "You should try to learn to access that[n]power. It will prove to be of great benefit[n]to you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_03_NG1#0",
+   "speaker": "Phoneternum",
+   "en": "Gya ha ha ha! You missed! And you've[n]left yourself wide open! Rrradio Wave[n]Beam!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_03_NG2#0",
+   "speaker": "Osagiri",
+   "en": "Pigeon? Come in Pigeon! Answer me...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_03_NG3#0",
+   "speaker": "Morgana",
+   "en": "No... You died...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_03_OK1#0",
+   "speaker": "Red Eagle",
+   "en": "Urgh... Such power! How could we be[n]defeated?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_03_OK2#0",
+   "speaker": "Osagiri",
+   "en": "Hehehehe... Ahahaha! The experiment[n]has been a success!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_03_NG1#0",
+   "speaker": "Red Eagle",
+   "en": "Yes, we managed to strike first!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_03_NG2#0",
+   "speaker": "Osagiri",
+   "en": "Pigeon!? No! It can't end like this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_03_NG3#0",
+   "speaker": "Morgana",
+   "en": "No... You died...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_04_002#0",
+   "speaker": "Osagiri?",
+   "en": "Everything has gone according to plan...[n]Now the executive seat is mine!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_04_003#0",
+   "speaker": "Morgana",
+   "en": "Executive seat? What is she talking[n]about...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_04_004#0",
+   "speaker": "Red Eagle",
+   "en": "Gr... Just who are you!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_04_006#0",
+   "speaker": "Osagiri?",
+   "en": "I am Alya, one of Zylam's officers. There[n]was never an Osagiri.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_04_007#0",
+   "speaker": "Alya",
+   "en": "Your Phoenix Ranger 'training' was only a[n]cover. This was an experiment to create an[n]Aberrant who could fight the Feathermen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_04_007#1",
+   "speaker": "Alya",
+   "en": "Pigeon, you are an Aberrant, created by[n]infesting a human with parasitic Infinibugs,[n]then irradiating it with Feathernix Waves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_04_007#2",
+   "speaker": "Alya",
+   "en": "I only made you fight those Aberrants[n]in order to make you strong enough to[n]defeat the Feathermen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_04_008#0",
+   "speaker": "Morgana",
+   "en": "I knew something was off, but I wasn't[n]expecting a twist like that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_04_009#0",
+   "speaker": "Alya",
+   "en": "Now, Gray Pigeon! Finish off the[n]Feathermen once and for all, and[n]let us claim victory!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_04_010#0",
+   "speaker": "Red Eagle",
+   "en": "Gray Pigeon, listen to me! We understand...[n]You may be an Aberrant, but you are not[n]evil. There is justice in your heart!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_04_011#0",
+   "speaker": "Alya",
+   "en": "What are you waiting for, Pigeon? Destroy[n]them, now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_04_012#0",
+   "speaker": "Narration",
+   "en": "It was then that Pigeon's heart screamed[n]out for justice... Alya was his true enemy!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_04_013#0",
+   "speaker": "Morgana",
+   "en": "Whoa! Pigeon's facing Alya now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_04_101#0",
+   "speaker": "Morgana",
+   "en": "There's Osagiri... I mean Alya, Zylam's[n]leader!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_04_051#0",
+   "speaker": "Alya",
+   "en": "I suppose the experiment was a failure...[n]Looks like I'll just have to fix you! Take this![n]Skull Rod!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_04_052#0",
+   "speaker": "Morgana",
+   "en": "We've got to take down Alya! Feather[n]Phoenix!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_04_OK1#0",
+   "speaker": "Scrapeternum",
+   "en": "I can't... believe I lost... Glory to[n]Zylam! ...clang...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_04_OK2#0",
+   "speaker": "Morgana",
+   "en": "Oh yeah! A big win!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_04_NG1#0",
+   "speaker": "Scrapeternum",
+   "en": "You can't hit me, clang! Now it's my turn!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_04_NG2#0",
+   "speaker": "Morgana",
+   "en": "Aww... We lost.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_04_001#0",
+   "speaker": "Morgana",
+   "en": "Hey, we're back in the laboratory.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_04_002#0",
+   "speaker": "Osagiri",
+   "en": "The simulation is complete. Now you[n]know what fighting an Aberrant is like.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_04_003#0",
+   "speaker": "Osagiri",
+   "en": "From now on, you will be known as[n]Gray Pigeon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_04_003#1",
+   "speaker": "Osagiri",
+   "en": "Continue your training by going on solo[n]missions. You will meet the Feathermen[n]only when you gain sufficient strength.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_04_003#2",
+   "speaker": "Osagiri",
+   "en": "You could become the sixth Featherman...[n]You may even surpass them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_04_003#3",
+   "speaker": "Osagiri",
+   "en": "No one would be able to defeat you... No one.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_04_003#4",
+   "speaker": "Osagiri",
+   "en": "Well, you must be tired. Here, take this[n]nap capsule and get some rest...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_04_OK1#0",
+   "speaker": "Alya",
+   "en": "Ugh... Do you dare defy your creator,[n]foolish Aberrant? Fine... I won't try to[n]fix you. I'll just dispose of you instead!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_04_OK2#0",
+   "speaker": "Morgana",
+   "en": "Did you see that? She just pressed some[n]kind of switch!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_04_OK3#0",
+   "speaker": "Alya",
+   "en": "Hehe, I've activated the time bomb I had[n]implanted inside you. Soon, you and the[n]entire planet will be blown to smithereens!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_04_OK3#1",
+   "speaker": "Alya",
+   "en": "I've gathered all the data I need, so you're[n]no longer of any use to me. I'll just be sure[n]to make my next Aberrant more obedient.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_04_OK4#0",
+   "speaker": "Morgana",
+   "en": "Man, she fights dirty... Isn't there anything[n]we can do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_04_NO2#0",
+   "speaker": "Alya",
+   "en": "It looks like you lost consciousness. Were[n]my attacks too fast? I'll be tweaking your[n]brain to correct your insubordination.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_04_NO2#1",
+   "speaker": "Alya",
+   "en": "Next time you wake up, you will be my[n]obedient slave... Hehehe... Hahahahaha!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_05_001#0",
+   "speaker": "Narration",
+   "en": "Doom was almost certain... But the justice[n]in Pigeon's heart was not ready to give up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_05_002#0",
+   "speaker": "Alya",
+   "en": "I should be going... Hm?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_05_003#0",
+   "speaker": "Morgana",
+   "en": "Hey, something's happening to Pigeon!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_05_004#0",
+   "speaker": "Alya",
+   "en": "What...? This energy emanating from[n]you... Is this your full awakening!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_05_005#0",
+   "speaker": "Narration",
+   "en": "The time has come! Awaken your[n]dormant powers, Gray Pigeon!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_05_006#0",
+   "speaker": "Morgana",
+   "en": "O-Okay! Let's awaken Pigeon's powers!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_05_OK1#0",
+   "speaker": "Alya",
+   "en": "Wha!? Are we... in my space lab...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_05_OK1#1",
+   "speaker": "Alya",
+   "en": "I see... That was Feather Dimension, the[n]ability to transport someone to another[n]dimension.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_05_OK2#0",
+   "speaker": "Morgana",
+   "en": "I get it! You can let the bomb blow up with[n]just the two of you here... Impressive move,[n]Pigeon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_05_OK3#0",
+   "speaker": "Alya",
+   "en": "Hm. Your performance far exceeded[n]my expectations. I must accept defeat...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_05_OK3#1",
+   "speaker": "Alya",
+   "en": "I had assumed there were no humans left[n]with a sense of justice. That was why I chose[n]a human as a base material to create you...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_05_OK3#2",
+   "speaker": "Alya",
+   "en": "But it would seem that things never go[n]as planned when it matters the most...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_05_OK4#0",
+   "speaker": "Morgana",
+   "en": "It's over. So Pigeon's sacrifice saved[n]the Feathermen... No, it saved Earth.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_05_OK5#0",
+   "speaker": "Narration",
+   "en": "Meanwhile, back on Earth...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_05_OK6#0",
+   "speaker": "Red Eagle",
+   "en": "He showed incredible courage in his final[n]moments. He could have joined us in our[n]fight...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_05_OK6#1",
+   "speaker": "Red Eagle",
+   "en": "Thank you, Gray Pigeon. The justice in[n]your heart saved us in the end. We will[n]never forget your name...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_05_NO1#0",
+   "speaker": "Morgana",
+   "en": "Hey! Don't screw up now! You still[n]have a chance to win, so make it work!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_05_NOover1#0",
+   "speaker": "Alya",
+   "en": "Huh. You surprised me for a second, but I[n]guess your awakening was a failure. Time[n]for you to fly off to the next life. Goodbye.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage04_05_NOover2#0",
+   "speaker": "Morgana",
+   "en": "Pigeon!!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_end#0",
+   "speaker": "Morgana",
+   "en": "We're finished training. So what do you[n]think? Can you become a Phoenix Ranger?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_end#0",
+   "speaker": "Morgana",
+   "en": "We won today's battle. So what do you[n]think? Can you become a Phoenix Ranger?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_Miss_end#0",
+   "speaker": "Morgana",
+   "en": "You got a game over, huh...[n]What a depressing screen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_end#0",
+   "speaker": "Morgana",
+   "en": "You completed Featherman Seeker.[n]Pigeon became a Phoenix Ranger after[n]all, didn't he...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_Miss_end#0",
+   "speaker": "Morgana",
+   "en": "You got a game over, huh...[n]What a depressing screen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage01_PARA#0",
+   "speaker": "Morgana",
+   "en": "That game was stimulating to the[n]brain. It must have buffed up your[n][stIcon 0][clr 26][stLabel 0][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage02_PARA#0",
+   "speaker": "Morgana",
+   "en": "That game was stimulating to the[n]brain. It must have buffed up your[n][stIcon 0][clr 26][stLabel 0][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Stage03_PARA#0",
+   "speaker": "Morgana",
+   "en": "That game was stimulating to the[n]brain. It must have buffed up your[n][stIcon 0][clr 26][stLabel 0][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_URAWAZA_PARA#0",
+   "speaker": "Morgana",
+   "en": "The secret technique book helped, huh?[n]You're always looking for the most efficient[n]way to do things. I admire that about you!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_FAILED_UP#0",
+   "speaker": "Morgana",
+   "en": "Well, we failed, but it was still stimulating[n]to the brain. It must have buffed up your[n][stIcon 0][clr 26][stLabel 0][clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HINTO_BOOK_NO#0",
+   "speaker": "Morgana",
+   "en": "I wish there was a way to make this[n]game a little easier...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_HINTO_BOOK_NO#0",
+   "speaker": null,
+   "en": "If only there was a way to[n]lower the game's difficulty...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_HINTO_BOOK00#0",
+   "speaker": "Morgana",
+   "en": "Don't you have a book on secret[n]techniques? Maybe you should[n]try giving it a read sometime.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_HINTO_BOOK04#0",
+   "speaker": null,
+   "en": "Now that I think about it, I have[n]a book on secret techniques...[n]Maybe I should read it sometime.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOOK_DONE_M#0",
+   "speaker": "Morgana",
+   "en": "Is it too tough for you? We'll just[n]have to try again next time!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_BOOK_DONE_N#0",
+   "speaker": null,
+   "en": "This is pretty difficult... I'll[n]have to give it another try later.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAME_END_MORU#0",
+   "speaker": "Morgana",
+   "en": "I'm sure you're tired after how into it[n]you were getting. Let's stop here for[n]today, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GAME_END_MORU_DAY#0",
+   "speaker": "Morgana",
+   "en": "That took a really long time...[n]We should probably stop playing[n]games for now, don't you think?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEBUG#0",
+   "speaker": null,
+   "en": "Debug Mode",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#0",
+   "speaker": null,
+   "en": "with morgana",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG#1",
+   "speaker": null,
+   "en": "no morgana",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEBUG_2#0",
+   "speaker": null,
+   "en": "Debug Mode",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_2#0",
+   "speaker": null,
+   "en": "stage 1",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_2#1",
+   "speaker": null,
+   "en": "stage 2",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_2#2",
+   "speaker": null,
+   "en": "stage 3",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DEBUG_3#0",
+   "speaker": null,
+   "en": "Debug Mode",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_3#0",
+   "speaker": null,
+   "en": "1st time",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_DEBUG_3#1",
+   "speaker": null,
+   "en": "2nd time",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

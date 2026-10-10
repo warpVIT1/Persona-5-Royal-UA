@@ -1,0 +1,649 @@
+{
+ "file": "EN/CAMP/CHAT/SCRIPTCHAT_277.BF",
+ "entries": [
+  {
+   "id": "MSG_000_0_0#0",
+   "speaker": "Ryuji",
+   "en": "You see the news?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_001_0_0#0",
+   "speaker": null,
+   "en": "No.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_001_0_0#1",
+   "speaker": null,
+   "en": "What news?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_002_0_0#0",
+   "speaker": "Ann",
+   "en": "Did something happen?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_003_0_0#0",
+   "speaker": "Futaba",
+   "en": "You talkin' about the robbery?[n]I'm surprised you already[n]know, Ryuji.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_004_0_0#0",
+   "speaker": "Makoto",
+   "en": "Robbery?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_005_0_0#0",
+   "speaker": "Futaba",
+   "en": "Yesterday, someone broke into[n]an apartment in Yongen.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_005_0_0#1",
+   "speaker": "Futaba",
+   "en": "Seems like the only victim was[n]this part-timer who lives by[n]himself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_006_0_0#0",
+   "speaker": "Ryuji",
+   "en": "But guess what! The part-[n]timer was...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_007_0_0#0",
+   "speaker": null,
+   "en": "Toji Karataki?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_007_0_0#1",
+   "speaker": null,
+   "en": "Who?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_008_1_0#0",
+   "speaker": "Futaba",
+   "en": "Toji Karataki.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_009_0_0#0",
+   "speaker": "Ann",
+   "en": "Seriously!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_010_0_0#0",
+   "speaker": "Futaba",
+   "en": "Seriously. I checked on my[n]end too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_011_0_0#0",
+   "speaker": "Haru",
+   "en": "Someone robbed his home while[n]he was in custody? And on a false[n]charge, no less...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_011_0_0#1",
+   "speaker": "Haru",
+   "en": "How awful...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_012_0_0#0",
+   "speaker": "Ryuji",
+   "en": "But there's somethin' weird[n]goin' on.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_012_0_0#1",
+   "speaker": "Ryuji",
+   "en": "The robber didn't actually take[n]anything of value.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_013_0_0#0",
+   "speaker": "Yusuke",
+   "en": "Nothing? Did he give up partway?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_014_0_0#0",
+   "speaker": "Ryuji",
+   "en": "No idea.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_015_0_0#0",
+   "speaker": "Akechi",
+   "en": "If I may interject...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_015_0_0#1",
+   "speaker": "Akechi",
+   "en": "I myself have some details to[n]share on this case.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_016_0_0#0",
+   "speaker": "Ryuji",
+   "en": "About time. I was getting sick[n]of waiting.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_017_0_0#0",
+   "speaker": null,
+   "en": "Let's hear it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_017_0_0#1",
+   "speaker": null,
+   "en": "Got dirt on the Diet member?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_0_0#0",
+   "speaker": "Akechi",
+   "en": "The Diet member who brought[n]charges on Toji Karataki...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_018_0_0#1",
+   "speaker": "Akechi",
+   "en": "His name is Hisashi Morozumi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_0_0#0",
+   "speaker": "Akechi",
+   "en": "Most of my information on him[n]can be grouped into two parts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_0_0#1",
+   "speaker": "Akechi",
+   "en": "First, regarding Morozumi's past.[n]Before becoming a member of the[n]Diet, he worked as a secretary.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_0_0#2",
+   "speaker": "Akechi",
+   "en": "Around then, he married the[n]daughter of the former cabinet[n]minister—a secretary herself.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_019_0_0#3",
+   "speaker": "Akechi",
+   "en": "That's about when he made his[n]grand debut in the political world.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_020_0_0#0",
+   "speaker": "Ryuji",
+   "en": "Man. He already sounds kinda[n]sleazy.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_021_0_0#0",
+   "speaker": "Ann",
+   "en": "You're just jealous.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_022_0_0#0",
+   "speaker": "Akechi",
+   "en": "However, Morozumi was soon[n]embroiled in a certain scandal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_023_0_0#0",
+   "speaker": "Sumire",
+   "en": "What incident?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_024_0_0#0",
+   "speaker": "Akechi",
+   "en": "He was having an affair.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_024_0_0#1",
+   "speaker": "Akechi",
+   "en": "Once the mess with his mistress[n]came to light, he was almost forced[n]to resign from office.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_025_0_0#0",
+   "speaker": "Ann",
+   "en": "Wow. So he's trash.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_026_0_0#0",
+   "speaker": "Yusuke",
+   "en": "I daresay it served him right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_027_0_0#0",
+   "speaker": "Akechi",
+   "en": "But that incident was abruptly[n]cut short.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_027_0_0#1",
+   "speaker": "Akechi",
+   "en": "Because the mistress ended up[n]committing suicide.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_028_0_0#0",
+   "speaker": "Ryuji",
+   "en": "What!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_029_0_0#0",
+   "speaker": "Sumire",
+   "en": "She killed herself...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_030_0_0#0",
+   "speaker": "Akechi",
+   "en": "And that's all I found on[n]Morozumi's past.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_030_0_0#1",
+   "speaker": "Akechi",
+   "en": "Now, we move on to his recent[n]behavior—just prior to this latest[n]incident.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_030_0_0#2",
+   "speaker": "Akechi",
+   "en": "He'd reportedly been acting very[n]strange. As if he's been stressed[n]about something.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_030_0_0#3",
+   "speaker": "Akechi",
+   "en": "Moreover, on the day of the[n]incident, he went all the way to[n]see Karataki at his part-time job.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_030_0_0#4",
+   "speaker": "Akechi",
+   "en": "And he wasn't going as[n]a customer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_031_0_0#0",
+   "speaker": "Makoto",
+   "en": "Wait... You mean to say there's[n]some connection between[n]Morozumi and Toji-kun?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_032_0_0#0",
+   "speaker": "Akechi",
+   "en": "At the very least, Morozumi[n]seems to know him.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_033_0_0#0",
+   "speaker": "Akechi",
+   "en": "That's all I've got so far.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_033_0_0#1",
+   "speaker": "Akechi",
+   "en": "But one aspect of this seems rather[n]suspicious. Perhaps you've already[n]noticed it yourself?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_034_0_0#0",
+   "speaker": null,
+   "en": "The suicide.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_034_0_0#1",
+   "speaker": null,
+   "en": "The mistress and Toji's mother...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_034_0_0#2",
+   "speaker": null,
+   "en": "No. No idea.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_035_0_0#0",
+   "speaker": "Akechi",
+   "en": "Right. Toji Karataki said his mother[n]committed suicide, too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_035_0_0#1",
+   "speaker": "Akechi",
+   "en": "On the surface, both parties had a[n]female figure in their lives commit[n]suicide.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_035_0_0#2",
+   "speaker": "Akechi",
+   "en": "My question is: what if these two[n]women were the same person?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_035_1_0#0",
+   "speaker": "Akechi",
+   "en": "Yes. Both dead by their own hand.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_035_1_0#1",
+   "speaker": "Akechi",
+   "en": "On the surface, both parties had a[n]female figure in their lives commit[n]suicide.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_035_1_0#2",
+   "speaker": "Akechi",
+   "en": "My question is: what if these two[n]women were the same person?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_035_2_0#0",
+   "speaker": "Sumire",
+   "en": "Toji-san's mother committed[n]suicide too, didn't she...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_036_2_0#0",
+   "speaker": "Akechi",
+   "en": "That's right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_036_2_0#1",
+   "speaker": "Akechi",
+   "en": "On the surface, both parties had a[n]female figure in their lives commit[n]suicide.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_036_2_0#2",
+   "speaker": "Akechi",
+   "en": "My question is: what if these two[n]women were the same person?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_037_0_0#0",
+   "speaker": "Yusuke",
+   "en": "That would make Morozumi and[n]Toji father and son...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_038_0_0#0",
+   "speaker": "Haru",
+   "en": "Does that mean Toji-kun was[n]falsely accused by his own father?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_039_0_0#0",
+   "speaker": "Akechi",
+   "en": "It's certainly not impossible. Do[n]you know Toji Karataki's original[n]surname?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_040_0_0#0",
+   "speaker": null,
+   "en": "I believe it was Ushiwata.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_040_0_0#1",
+   "speaker": null,
+   "en": "It wasn't Morozumi.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_041_0_0#0",
+   "speaker": "Yusuke",
+   "en": "Oh... I thought they were[n]actually related. ",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_042_0_0#0",
+   "speaker": "Futaba",
+   "en": "Actually, there's one other thing[n]that's been bothering me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_042_0_0#1",
+   "speaker": "Futaba",
+   "en": "When I put Morozumi's name in[n]the Nav, nothing comes up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_043_0_0#0",
+   "speaker": "Ann",
+   "en": "Huh? Does he not have a[n]Shadow?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_044_0_0#0",
+   "speaker": "Ryuji",
+   "en": "Like hell! A normal guy wouldn't[n]frame his own son!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_045_0_0#0",
+   "speaker": null,
+   "en": "There must be another reason.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_045_0_0#1",
+   "speaker": null,
+   "en": "Are the keywords wrong?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_045_0_0#2",
+   "speaker": null,
+   "en": "I have absolutely no idea.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_046_0_0#0",
+   "speaker": "Akechi",
+   "en": "That's possible.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_046_1_0#0",
+   "speaker": "Akechi",
+   "en": "Aha. That's certainly possible.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_046_2_0#0",
+   "speaker": "Ann",
+   "en": "Same. I give up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_047_2_0#0",
+   "speaker": "Makoto",
+   "en": "Does he really not have[n]a Shadow...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_047_2_0#1",
+   "speaker": "Makoto",
+   "en": "There has to be some other[n]reason for this.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_048_2_0#0",
+   "speaker": "Akechi",
+   "en": "Aha. That's certainly possible.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_049_0_0#0",
+   "speaker": "Akechi",
+   "en": "I think I have a grasp of things now.[n]I'm going to do a little more[n]investigating on my end.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_050_0_0#0",
+   "speaker": "Yusuke",
+   "en": "By yourself?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051_0_0#0",
+   "speaker": "Akechi",
+   "en": "I am a detective, aren't I?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_051_0_0#1",
+   "speaker": "Akechi",
+   "en": "Besides, you want to help that[n]poor victim, don't you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_052_0_0#0",
+   "speaker": "Ryuji",
+   "en": "Damn right we do! We can't[n]just abandon that guy!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_053_0_0#0",
+   "speaker": "Akechi",
+   "en": "Then be patient, and let me[n]do my job.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_054_0_0#0",
+   "speaker": "Morgana",
+   "en": "It sounds like Akechi is onto something.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_054_0_0#1",
+   "speaker": "Morgana",
+   "en": "Let's see what our detective can[n]come up with.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

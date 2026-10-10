@@ -1,0 +1,488 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR0162_009_120.BF",
+ "entries": [
+  {
+   "id": "D10_009_HuddleTalk_agend#0",
+   "speaker": "Morgana",
+   "en": "All right, third question—we have[n]a bunch of choices to go through, so[n]let's be nice and methodical about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_009_HuddleTalk_ReAge#0",
+   "speaker": "Morgana",
+   "en": "Anything you'd like to discuss?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HUDDLE_AGENDA_SEL#0",
+   "speaker": null,
+   "en": "Let's review what we know.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HUDDLE_AGENDA_SEL#1",
+   "speaker": null,
+   "en": "Let's pick our answer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HUDDLE_AGENDA_SEL#2",
+   "speaker": null,
+   "en": "Let's end the discussion here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HUDDLE_NPC_SEL#0",
+   "speaker": null,
+   "en": "Confident-Looking Woman",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HUDDLE_NPC_SEL#1",
+   "speaker": null,
+   "en": "Composed Man",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HUDDLE_NPC_SEL#2",
+   "speaker": null,
+   "en": "Depressed Woman",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HUDDLE_NPC_SEL#3",
+   "speaker": null,
+   "en": "Pianist",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HUDDLE_NPC_SEL#4",
+   "speaker": null,
+   "en": "Heartbroken Woman",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HUDDLE_NPC_SEL#5",
+   "speaker": null,
+   "en": "Change topic",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HUDDLE_ANS_SEL#0",
+   "speaker": null,
+   "en": "A: Steal valuable information.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HUDDLE_ANS_SEL#1",
+   "speaker": null,
+   "en": "B: Never steal anything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HUDDLE_ANS_SEL#2",
+   "speaker": null,
+   "en": "C: Steal my own heart to heal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HUDDLE_ANS_SEL#3",
+   "speaker": null,
+   "en": "D: Steal evil hearts to fix society.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HUDDLE_ANS_SEL#4",
+   "speaker": null,
+   "en": "E: Steal the one I love's heart.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HUDDLE_DICEDE_SEL#0",
+   "speaker": null,
+   "en": "Let's go with this answer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "HUDDLE_DICEDE_SEL#1",
+   "speaker": null,
+   "en": "Let's think it over again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_009_ans_diceded_star#0",
+   "speaker": "Morgana",
+   "en": "Great! Let's go pick our elevator and[n]get outta here!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_009_ans_not_dicede_s#0",
+   "speaker": "Morgana",
+   "en": "Ah, you'd like to think it over.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_npc_choice#0",
+   "speaker": "Morgana",
+   "en": "All right—whose story would you like[n]to discuss?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_npc_rechoi#0",
+   "speaker": "Morgana",
+   "en": "Anyone else to discuss?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_cancel_sta#0",
+   "speaker": "Morgana",
+   "en": "All right, I guess we're done here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_cancel_ret#0",
+   "speaker": "Morgana",
+   "en": "All right, I guess we're done here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_cancel_end#0",
+   "speaker": "Morgana",
+   "en": "I think we've collected all the information[n]we need, but... Okay, let's call it done[n]for now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice#0",
+   "speaker": "Morgana",
+   "en": "We need to think carefully about what[n]this question really asks of us.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice_2#0",
+   "speaker": "Futaba",
+   "en": "Like Crow pointed out, what bugs me[n]is how it asks what you would steal[n]\"without fear of ever getting caught.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice_3#0",
+   "speaker": "[sumi 10 0]",
+   "en": "True, the question does seem different[n]from the previous two...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice_4#0",
+   "speaker": "Akechi",
+   "en": "Even when it comes to the people[n]who said they wouldn't do anything[n]unsavory...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice_4#1",
+   "speaker": "Akechi",
+   "en": "If they were to know for certain that[n]they would never be caught, their[n]morals could easily slip.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice_4#2",
+   "speaker": "Akechi",
+   "en": "Perhaps Maruki is trying to catch such[n]selfish individuals with this exam.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice_5#0",
+   "speaker": "Makoto",
+   "en": "We saw what happens to anyone who[n]answers \"E\"...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice_5#1",
+   "speaker": "Makoto",
+   "en": "Anyone who wishes to steal the heart[n]of their love is deemed abnormal.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice_5#2",
+   "speaker": "Makoto",
+   "en": "We should exclude the options to steal[n]for superficial reasons, so that eliminates[n]both \"A\" and \"E.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice_6#0",
+   "speaker": "Ann",
+   "en": "Also, that person who chose \"C\"? The one[n]who said she'd steal her own heart? She[n]looked like she was about to be treated...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice_7#0",
+   "speaker": "Futaba",
+   "en": "Well, duh—if you say something's wrong[n]with you in an exam, you're gonna get[n]some kind of treatment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice_7#1",
+   "speaker": "Futaba",
+   "en": "Sooo, that one's out too.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice_8#0",
+   "speaker": "[sumi 10 0]",
+   "en": "That only leaves \"B\" and \"D\"—either[n]never steal anything, or steal evil[n]hearts to fix society.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice_9#0",
+   "speaker": "Ryuji",
+   "en": "\"D,\" obviously! That's what I'd go with!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice_10#0",
+   "speaker": "Akechi",
+   "en": "If we may put Skull's brain-dead input[n]to the side for now...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice_10#1",
+   "speaker": "Akechi",
+   "en": "As I said earlier, Maruki is trying to find[n]individuals exhibiting morals even in[n]a no-risk scenario.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice_10#2",
+   "speaker": "Akechi",
+   "en": "He also wishes for people to be wholly[n]fulfilled, not some compromised middle[n]position.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_huddle_ans_choice_10#3",
+   "speaker": "Akechi",
+   "en": "You have all the information you need,[n]Joker—I'm sure you've already figured[n]it out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_a_info_start#0",
+   "speaker": "Morgana",
+   "en": "She's the one who chose \"A: Steal[n]something valuable.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_a_info_02#0",
+   "speaker": "[sumi 10 0]",
+   "en": "She aspires to have her own store[n]someday.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_a_info_02#1",
+   "speaker": "[sumi 10 0]",
+   "en": "She said [clr 2]if she wouldn't get caught[clr 27],[n]she might do it so she can make her[n]dreams come true.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_a_info_03#0",
+   "speaker": "Yusuke",
+   "en": "I can relate to her problem—it seems[n]one can never have enough money.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_a_info_03#1",
+   "speaker": "Yusuke",
+   "en": "With enough money, I could buy all[n]the art supplies I need... I could even[n]stop cultivating daikon sprouts.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_a_info_04#0",
+   "speaker": "[sumi 10 0]",
+   "en": "Uh, Fox-senpai? I have some questions[n]about how you actually survive day-to-[n]day...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_a_info_05#0",
+   "speaker": "Makoto",
+   "en": "We'll fill you in later...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_a_info_end#0",
+   "speaker": "Morgana",
+   "en": "So, that's the gist of that person.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_b_info_start#0",
+   "speaker": "Morgana",
+   "en": "He chose \"B: Never steal anything.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_b_info_01#0",
+   "speaker": "Haru",
+   "en": "He said he [clr 2]doesn't want much[clr 27] besides[n]his family.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_b_info_01#1",
+   "speaker": "Haru",
+   "en": "He said he's happy enough being[n]with them.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_b_info_02#0",
+   "speaker": "Morgana",
+   "en": "Well, if he's happy, doesn't that[n]make it a good answer to Maruki?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_b_info_03#0",
+   "speaker": "Ryuji",
+   "en": "But there was something about how he[n]said it... He said it was [clr 2]\"good enough,\"[clr 27][n]right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_b_info_04#0",
+   "speaker": "Haru",
+   "en": "He may be happy, but I don't know if[n]that alone would suffice for Dr. Maruki...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_b_info_end#0",
+   "speaker": "Morgana",
+   "en": "That about sums up that person.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_c_info_start#0",
+   "speaker": "Morgana",
+   "en": "She's the one who chose \"C: Steal my[n]own heart to heal.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_c_info_01#0",
+   "speaker": "Ryuji",
+   "en": "Welp, we saw how that one goes—[n]wrong answer.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_c_info_02#0",
+   "speaker": "Ann",
+   "en": "I mean, is it really so bad to be able[n]to recognize your own faults?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_c_info_03#0",
+   "speaker": "Akechi",
+   "en": "Not at all, but consider where we are.[n]If you claim to be unwell in an exam[n]room, you're getting treatment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_c_info_end#0",
+   "speaker": "Morgana",
+   "en": "That sums up that person, then.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_d_info_start#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_d_info_end#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_e_info_start#0",
+   "speaker": "Morgana",
+   "en": "She chose \"E: Steal the one I love's heart.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_e_info_01#0",
+   "speaker": "Futaba",
+   "en": "We all saw how that one just ends up[n]in treatment time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_e_info_02#0",
+   "speaker": "Yusuke",
+   "en": "And I believe that's the correct reaction.[n]I have no tolerance for people forcing[n]their will onto others like that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "D10_09_npc_e_info_end#0",
+   "speaker": "Morgana",
+   "en": "That should take care of that person.",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

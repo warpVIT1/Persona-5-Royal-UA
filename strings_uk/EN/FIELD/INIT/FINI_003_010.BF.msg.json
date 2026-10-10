@@ -1,0 +1,243 @@
+{
+ "file": "EN/FIELD/INIT/FINI_003_010.BF",
+ "entries": [
+  {
+   "id": "MSG_CONVINI_Last_NormalE#0",
+   "speaker": "Nanami",
+   "en": "Welcome... Oh, [lName]-kun.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CONVINI_Last_NormalE#1",
+   "speaker": "Nanami",
+   "en": "I didn't know you had work today...[n]Oh! You're going back home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CONVINI_Last_NormalE#2",
+   "speaker": "Nanami",
+   "en": "I see now. That seems like a big deal.[n]Thanks for stopping by to let me know!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CONVINI_Last_TrueEnd#0",
+   "speaker": "Nanami",
+   "en": "Welcome... Oh, [lName]-kun!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CONVINI_Last_TrueEnd#1",
+   "speaker": "Nanami",
+   "en": "I didn't know you had work today...[n]What!? You're going back home!?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CONVINI_Last_TrueEnd#2",
+   "speaker": "Nanami",
+   "en": "I see now... It's going to be lonely[n]here, with my comrade-in-arms gone,[n]you know?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CONVINI_Last_TrueEnd#3",
+   "speaker": "Nanami",
+   "en": "Well... It was a pleasure working with[n]you! I hope everything works out on[n]your end!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CONVINI_GREETING#0",
+   "speaker": "Convenience Store Clerk",
+   "en": "Welcome! We're having a huge sale[n]on all of our hot food items!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CONVINI_GREETING_nam#0",
+   "speaker": "Nanami",
+   "en": "Welcome! We're having a huge sale[n]on all of our hot food items!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Tutorial_Start#0",
+   "speaker": "Morgana",
+   "en": "That reminds me, don't you work[n]part-time here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Tutorial_End#0",
+   "speaker": "Morgana",
+   "en": "So, what are you going to do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Friday#0",
+   "speaker": "Morgana",
+   "en": "Today's [clr 2]Friday[clr 27], so there'll be more[n]customers than usual. If the manager sees[n]you doing well, you might get a reward.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Friday#1",
+   "speaker": "Morgana",
+   "en": "So, what're you gonna do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_7tokubetubi#0",
+   "speaker": "Morgana",
+   "en": "Today's a [clr 2]double-points day[clr 27]. If the[n]manager sees you doing well, you[n]might get a reward.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_7tokubetubi#1",
+   "speaker": "Morgana",
+   "en": "So, what're you gonna do?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CONVINI_ACT_THINK_SE#0",
+   "speaker": null,
+   "en": "I'll go to work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CONVINI_ACT_THINK_SE#1",
+   "speaker": null,
+   "en": "Let's do some shopping.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CONVINI_ACT_THINK_SE#2",
+   "speaker": null,
+   "en": "Let's leave.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CONVINI_GREETING_RE#0",
+   "speaker": "Morgana",
+   "en": "You've finished already?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CONVINI_GREETING_6_8#0",
+   "speaker": "Convenience Store Clerk",
+   "en": "Welcome! Keeping you cool this[n]summer! [f 2 5 3 9999 0][n]is now on sale!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CONVINI_GREETING_6_8_2#0",
+   "speaker": "Nanami",
+   "en": "Welcome! Keeping you cool this[n]summer! [f 2 5 3 9999 0][n]is now on sale!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CONVINI_GREETING_9#0",
+   "speaker": "Convenience Store Clerk",
+   "en": "Welcome! A classic for fall and[n]winter! [f 2 5 3 9999 0],[n]is now on sale!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CONVINI_GREETING_9_n#0",
+   "speaker": "Nanami",
+   "en": "Welcome! A classic for fall and[n]winter! [f 2 5 3 9999 0],[n]is now on sale!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Convini_NotShiftDay#0",
+   "speaker": "Morgana",
+   "en": "Hm...? It's not time for your shift yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Conveni_ParamUpInfo#0",
+   "speaker": null,
+   "en": "I feel like my [stIcon 1][clr 26][stLabel 1][clr 27][n]are going to improve soon...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Conveni_ParamEndInfo#0",
+   "speaker": null,
+   "en": "I think I have enough[n][stIcon 1][clr 26][stLabel 1][clr 27] already...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Conveni_Ask#0",
+   "speaker": "Morgana",
+   "en": "You can raise your [stIcon 1][clr 26][stLabel 1][clr 27] by[n]learning how to handle customers. Do[n]you want to work this part-time job?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BaitoFix#0",
+   "speaker": null,
+   "en": "I'll work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_BaitoFix#1",
+   "speaker": null,
+   "en": "Let me think about it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CONVINI_OK_BAITO_1ST#0",
+   "speaker": "Convenience Store Clerk",
+   "en": "Oh, are you the one who applied for[n]the part-time job? I'll call the manager,[n]please wait a moment.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CONVINI_OK_BAITO_NOR#0",
+   "speaker": "Nanami",
+   "en": "Oh, you're coming in today?[n]That'd be so helpful!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CONVINI_END#0",
+   "speaker": "Convenience Store Clerk",
+   "en": "Thank you very much!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_CONVINI_END_named#0",
+   "speaker": "Nanami",
+   "en": "Thank you very much!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LastKeyfree#0",
+   "speaker": "Morgana",
+   "en": "We can't wait any longer...[n]We have to prepare, and fast!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

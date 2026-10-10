@@ -1,0 +1,1559 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR3210_010_000.BF",
+ "entries": [
+  {
+   "id": "MND_LAST_GREETING_Massag#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MND_LAST_GREETING_Massag#1",
+   "speaker": null,
+   "en": "I should go see everyone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_LAST_GREETING_TOILET#0",
+   "speaker": "Morgana",
+   "en": "All right. Let's get going.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Toilet_WhatDo#0",
+   "speaker": "Morgana",
+   "en": "Why are you staring at Leblanc's bathroom?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Toilet_WhatDo#0",
+   "speaker": null,
+   "en": "I'm going to think.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Toilet_WhatDo#1",
+   "speaker": null,
+   "en": "It's time to clean up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_Toilet_WhatDo#2",
+   "speaker": null,
+   "en": "Never mind.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Toilet_Select_Think#0",
+   "speaker": "Morgana",
+   "en": "Hmm... They do say you can relax on the toilet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Toilet_Select_Clean_#0",
+   "speaker": "Morgana",
+   "en": "All right, time to do some work for the[n]chief. I'm sure he'll appreciate it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Toilet_ParamEndInfo#0",
+   "speaker": null,
+   "en": "I think I have enough[n][stIcon 4][clr 26][stLabel 4][clr 27] already...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ParamInfo_Start#0",
+   "speaker": null,
+   "en": "I should reflect for a bit...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ParamInfo_Blank#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MND_ParamInfo_Atama_Long#0",
+   "speaker": null,
+   "en": "I have no idea how far I[n]am from improving my[n][stIcon 0][clr 26][stLabel 0][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ParamInfo_Atama_Midd#0",
+   "speaker": null,
+   "en": "I feel like I'm getting[n]somewhat close to improving[n]my [stIcon 0][clr 26][stLabel 0][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ParamInfo_Atama_Shor#0",
+   "speaker": null,
+   "en": "I'm definitely close to improving[n]my [stIcon 0][clr 26][stLabel 0][clr 27]...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ParamInfo_Atama_End#0",
+   "speaker": null,
+   "en": "I've reached my maximum potential[n]of [stIcon 0][clr 26][stLabel 0][clr 27]...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ParamInfo_Iroke_Long#0",
+   "speaker": null,
+   "en": "I have no idea how far[n]I am from improving[n]my [stIcon 1][clr 26][stLabel 1]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ParamInfo_Iroke_Midd#0",
+   "speaker": null,
+   "en": "I feel like I'm getting[n]somewhat close to improving[n]my [stIcon 1][clr 26][stLabel 1][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ParamInfo_Iroke_Shor#0",
+   "speaker": null,
+   "en": "I'm definitely close to improving[n]my [stIcon 1][clr 26][stLabel 1][clr 27]...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ParamInfo_Iroke_End#0",
+   "speaker": null,
+   "en": "I've reached my maximum[n]potential of [stIcon 1][clr 26][stLabel 1][clr 27]...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ParamInfo_Kiyou_Long#0",
+   "speaker": null,
+   "en": "I have no idea how far I[n]am from improving my[n][stIcon 2][clr 26][stLabel 2][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ParamInfo_Kiyou_Midd#0",
+   "speaker": null,
+   "en": "I feel like I'm getting[n]somewhat close to improving[n]my [stIcon 2][clr 26][stLabel 2][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ParamInfo_Kiyou_Shor#0",
+   "speaker": null,
+   "en": "I'm definitely close to improving[n]my [stIcon 2][clr 26][stLabel 2][clr 27]...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ParamInfo_Kiyou_End#0",
+   "speaker": null,
+   "en": "I've reached my maximum[n]potential of [stIcon 2][clr 26][stLabel 2][clr 27]...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ParamInfo_Dokyo_Long#0",
+   "speaker": null,
+   "en": "I have no idea how far I[n]am from improving my[n][stIcon 3][clr 26][stLabel 3][clr 27][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ParamInfo_Dokyo_Midd#0",
+   "speaker": null,
+   "en": "I feel like I'm getting[n]somewhat close to improving[n]my [stIcon 3][clr 26][stLabel 3][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ParamInfo_Dokyo_Shor#0",
+   "speaker": null,
+   "en": "I'm definitely close to improving[n]my [stIcon 3][clr 26][stLabel 3][clr 27]...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ParamInfo_Dokyo_End#0",
+   "speaker": null,
+   "en": "I've reached my maximum[n]potential of [stIcon 3][clr 26][stLabel 3][clr 27]...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ParamInfo_Yasas_Long#0",
+   "speaker": null,
+   "en": "I have no idea how far I[n]am from improving my[n][stIcon 4][clr 26][stLabel 4][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ParamInfo_Yasas_Midd#0",
+   "speaker": null,
+   "en": "I feel like I'm getting[n]somewhat close to improving[n]my [stIcon 4][clr 26][stLabel 4][clr 27]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ParamInfo_Yasas_Shor#0",
+   "speaker": null,
+   "en": "I'm definitely close to improving[n]my [stIcon 4][clr 26][stLabel 4][clr 27]...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ParamInfo_Yasas_End#0",
+   "speaker": null,
+   "en": "I've reached my maximum[n]potential of [stIcon 4][clr 26][stLabel 4][clr 27]...!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ToiletClean_Ask#0",
+   "speaker": "Morgana",
+   "en": "Do you want to start cleaning now? Your[n][stIcon 4][clr 26][stLabel 4][clr 27] may improve a little bit.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_ToiletClean_Fix#0",
+   "speaker": null,
+   "en": "Let's begin.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_ToiletClean_Fix#1",
+   "speaker": null,
+   "en": "I actually need to do something.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_ToiletClean_Cancel#0",
+   "speaker": "Morgana",
+   "en": "Hmm? Well, I guess if you have[n]something more important...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RuburanClean_Start#0",
+   "speaker": "Sojiro",
+   "en": "...Well, I'd certainly appreciate that.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_RuburanClean_Start#1",
+   "speaker": "Sojiro",
+   "en": "I'm going home now. Don't break[n]anything in the store, got it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Toilet_Select_Clean__2#0",
+   "speaker": "Morgana",
+   "en": "I admire your willingness but... look[n]around. There are still customers here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Toilet_Select_Clean__3#0",
+   "speaker": "Morgana",
+   "en": "Wait, Akechi's still here. He's technically[n]a customer, so let's hold off on cleaning[n]until he goes home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Toilet_Select_Clean__4#0",
+   "speaker": "Morgana",
+   "en": "Hold on, Leblanc is still open. Wait[n]until night, after all the customers left,[n]if you want to clean up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_TOILET_START#0",
+   "speaker": null,
+   "en": "I should use this time to think.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Start#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_BookRea#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_BookRea#1",
+   "speaker": null,
+   "en": "I heard you can learn a thing[n]or two by reading books.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_BookRea#2",
+   "speaker": null,
+   "en": "I should go buy one sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_Famires#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_Famires#1",
+   "speaker": null,
+   "en": "I heard it's easier to focus on[n]studying if you do it at a diner.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_Famires#2",
+   "speaker": null,
+   "en": "I should go there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_Bakery#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_Bakery#1",
+   "speaker": null,
+   "en": "I heard the bakery by the Ginza Line[n]is selling some limited-time stuff.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_Bakery#2",
+   "speaker": null,
+   "en": "I should go there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_SchoolB#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_SchoolB#1",
+   "speaker": null,
+   "en": "I heard Friday is the easiest day to[n]find yakisoba pan at the school store.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_SchoolB#2",
+   "speaker": null,
+   "en": "I should go buy those sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_SundayT#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_SundayT#1",
+   "speaker": null,
+   "en": "I heard there's some good stuff[n]on the shopping channel on Sundays.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_SundayT#2",
+   "speaker": null,
+   "en": "I should watch it sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_BigBang#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_BigBang#1",
+   "speaker": null,
+   "en": "I heard there's a challenge you[n]can take at the hamburger shop[n]on Central Street.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_BigBang#2",
+   "speaker": null,
+   "en": "I should go there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_Arbeit#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_Arbeit#1",
+   "speaker": null,
+   "en": "I heard you can make money[n]by working part-time.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_Arbeit#2",
+   "speaker": null,
+   "en": "I think I've seen magazines with[n]ads on that in the underground[n]passage in Shibuya Station.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_Arbeit#3",
+   "speaker": null,
+   "en": "I should watch it sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_Yoshida#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_Yoshida#1",
+   "speaker": null,
+   "en": "I heard some people have seen[n]a famous politician in Shibuya.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_Yoshida#2",
+   "speaker": null,
+   "en": "Apparently he shows up at the kinds[n]of restaurants regular people eat at...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_Chihaya#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_Chihaya#1",
+   "speaker": null,
+   "en": "I heard some people spreading rumors[n]about the fortune teller in Shinjuku.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_Chihaya#2",
+   "speaker": null,
+   "en": "I should go see her again...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_Ooya#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_Ooya#1",
+   "speaker": null,
+   "en": "I heard some people talking about[n]a certain journalist's article.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_Ooya#2",
+   "speaker": null,
+   "en": "If she could play up the Phantom[n]Thieves, it might impact Mementos.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_Ooya#3",
+   "speaker": null,
+   "en": "I should go see her again...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_Oda#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_Oda#1",
+   "speaker": null,
+   "en": "I heard there's a crack-shot[n]elementary schooler who hangs out[n]in the arcade on Central Street.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Uwasa_Oda#2",
+   "speaker": null,
+   "en": "I should check it out sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_ElectroRepair#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_ElectroRepair#1",
+   "speaker": null,
+   "en": "I got a broken laptop.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_ElectroRepair#2",
+   "speaker": null,
+   "en": "I should repair it sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_MyroomTrainin#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_MyroomTrainin#1",
+   "speaker": null,
+   "en": "If I stand on that chair in the[n]corner of my room, I might be able[n]to reach the beams on the ceiling.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_MyroomTrainin#2",
+   "speaker": null,
+   "en": "I should train on those sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_MyroomDVD#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_MyroomDVD#1",
+   "speaker": null,
+   "en": "I bought a TV, but still[n]haven't watched any DVDs.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_MyroomDVD#2",
+   "speaker": null,
+   "en": "I should rent those sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_MyroomGame#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_MyroomGame#1",
+   "speaker": null,
+   "en": "I bought a game, but still[n]haven't beaten it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_MyroomGame#2",
+   "speaker": null,
+   "en": "I should keep playing that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_YamiNet#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_YamiNet#1",
+   "speaker": null,
+   "en": "I repaired the laptop, but still[n]haven't bought anything from[n]Tanaka's Shady Commodities.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_YamiNet#2",
+   "speaker": null,
+   "en": "I should watch it sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_RuburanRead#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_RuburanRead#1",
+   "speaker": null,
+   "en": "The counter at Leblanc seems like[n]a good place to read a book.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_RuburanRead#2",
+   "speaker": null,
+   "en": "I should do that sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_RuburanStudy#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_RuburanStudy#1",
+   "speaker": null,
+   "en": "I could probably study at one[n]of the tables in Leblanc.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_RuburanStudy#2",
+   "speaker": null,
+   "en": "I should do that sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_RuburanCoffee#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_RuburanCoffee#1",
+   "speaker": null,
+   "en": "Sojiro taught me how to brew coffee.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_RuburanCoffee#2",
+   "speaker": null,
+   "en": "I should try that sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_RuburanCurry#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_RuburanCurry#1",
+   "speaker": null,
+   "en": "Sojiro taught me how to make curry.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_RuburanCurry#2",
+   "speaker": null,
+   "en": "I should try that sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_CoinLaundry#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_CoinLaundry#1",
+   "speaker": null,
+   "en": "There's a laundromat next[n]to the bathhouse.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_CoinLaundry#2",
+   "speaker": null,
+   "en": "I should do that sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Sentou#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Sentou#1",
+   "speaker": null,
+   "en": "There's a bathhouse in the backstreets.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Sentou#2",
+   "speaker": null,
+   "en": "I should go there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Batting#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Batting#1",
+   "speaker": null,
+   "en": "There are batting cages next to[n]the supermarket in the backstreets.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Batting#2",
+   "speaker": null,
+   "en": "I should go there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_CinemaUse#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_CinemaUse#1",
+   "speaker": null,
+   "en": "I wonder what movies they're[n]showing at the theater.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_CinemaUse#2",
+   "speaker": null,
+   "en": "I should go there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_LibraryStudy#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_LibraryStudy#1",
+   "speaker": null,
+   "en": "I think I can study in the library[n]at school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_LibraryStudy#2",
+   "speaker": null,
+   "en": "I should go there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_LibraryRead#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_LibraryRead#1",
+   "speaker": null,
+   "en": "I think I can read in the library at school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_LibraryRead#2",
+   "speaker": null,
+   "en": "I should go there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_LibraryRental#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_LibraryRental#1",
+   "speaker": null,
+   "en": "I borrowed a book from the library.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_LibraryRental#2",
+   "speaker": null,
+   "en": "I should go there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Gardening#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Gardening#1",
+   "speaker": null,
+   "en": "Haru's been growing vegetables[n]on the roof of the school.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Gardening#2",
+   "speaker": null,
+   "en": "I should go there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_ArbeitConveni#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_ArbeitConveni#1",
+   "speaker": null,
+   "en": "I applied for a part-time job[n]at the convenience store.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_ArbeitConveni#2",
+   "speaker": null,
+   "en": "It's on Central Street.[n]I should do that sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_ArbeitGyudon#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_ArbeitGyudon#1",
+   "speaker": null,
+   "en": "I applied for a part-time job[n]at the beef bowl shop.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_ArbeitGyudon#2",
+   "speaker": null,
+   "en": "It's on Central Street.[n]I should do that sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_GimTraining#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_GimTraining#1",
+   "speaker": null,
+   "en": "There's a gym on Central Street.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_GimTraining#2",
+   "speaker": null,
+   "en": "I should go there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_ArbeitFlower#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_ArbeitFlower#1",
+   "speaker": null,
+   "en": "I applied for a part-time job[n]at the flower shop.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_ArbeitFlower#2",
+   "speaker": null,
+   "en": "It's in the underground mall[n]at Shibuya Station. I should[n]do that sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_ArbeitBar#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_ArbeitBar#1",
+   "speaker": null,
+   "en": "I applied for a part-time job at a bar.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_ArbeitBar#2",
+   "speaker": null,
+   "en": "It's in Shinjuku. I should do[n]that sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_MaidCafe#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_MaidCafe#1",
+   "speaker": null,
+   "en": "There's a maid café in Akihabara.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_MaidCafe#2",
+   "speaker": null,
+   "en": "I should go there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_En_Musubi#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_En_Musubi#1",
+   "speaker": null,
+   "en": "I can pray for bonds at Meiji Shrine.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_En_Musubi#2",
+   "speaker": null,
+   "en": "I should go there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Fishing#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Fishing#1",
+   "speaker": null,
+   "en": "I can go fishing at the pond in Ichigaya.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_Fishing#2",
+   "speaker": null,
+   "en": "I should go there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_OldBookCity#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_OldBookCity#1",
+   "speaker": null,
+   "en": "I can buy used books in Jinbocho.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_OldBookCity#2",
+   "speaker": null,
+   "en": "I should go there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_ComeBackSkill#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_ComeBackSkill#1",
+   "speaker": null,
+   "en": "There's a confessional at the[n]church in Kanda.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_ComeBackSkill#2",
+   "speaker": null,
+   "en": "I should take someone there sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_HolyStone#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_HolyStone#1",
+   "speaker": null,
+   "en": "The fortune teller in Shinjuku[n]was selling Holy Stones.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_HolyStone#2",
+   "speaker": null,
+   "en": "I should check it out sometime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_DVDRental#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_DVDRental#1",
+   "speaker": null,
+   "en": "I rented a DVD.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_DVDRental#2",
+   "speaker": null,
+   "en": "I should return that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_NormalKuji#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_NormalKuji#1",
+   "speaker": null,
+   "en": "I bought a lottery ticket.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_NormalKuji#2",
+   "speaker": null,
+   "en": "I should check if I won...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_SummerKuji#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_SummerKuji#1",
+   "speaker": null,
+   "en": "I bought a Summer Mammoth[n]lottery ticket.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_SummerKuji#2",
+   "speaker": null,
+   "en": "The results will be posted[n]on August 22nd. I should[n]make sure to check back...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_CrossWord#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_CrossWord#1",
+   "speaker": null,
+   "en": "I remember seeing a magazine[n]full of crossword puzzles.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Remind_CrossWord#2",
+   "speaker": null,
+   "en": "I should keep playing that...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SubRe_Spot_Inokashir#0",
+   "speaker": null,
+   "en": "I should try going to Inokashira[n]Park with someone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SubRe_Spot_Ogikubo#0",
+   "speaker": null,
+   "en": "I should try going to the ramen[n]shop in Ogikubo with someone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SubRe_Spot_Odaiba#0",
+   "speaker": null,
+   "en": "I should try going to Seaside[n]Park in Odaiba with someone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SubRe_Spot_Ueno#0",
+   "speaker": null,
+   "en": "I should try going to the art[n]museum in Ueno with someone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SubRe_Spot_Tsukisima#0",
+   "speaker": null,
+   "en": "I should try going to the[n]monjayaki restaurant in[n]Tsukishima with someone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SubRe_Spot_Harajuku#0",
+   "speaker": null,
+   "en": "I should try going to Takenoko[n]Street in Harajuku with someone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SubRe_Spot_Yokohama#0",
+   "speaker": null,
+   "en": "I should try going to Motomachi[n]Chinatown with someone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SubRe_Spot_TDL#0",
+   "speaker": null,
+   "en": "I should try going to Maihama[n]Destinyland with someone.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SubRe_Spot_Asakusa#0",
+   "speaker": null,
+   "en": "I should try going to[n]Asakusa with someone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SubRe_Spot_Ikebukuro#0",
+   "speaker": null,
+   "en": "I should try going to[n]the planetarium in[n]Ikebukuro with someone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SubRe_Spot_Jinbocho#0",
+   "speaker": null,
+   "en": "I should try going to the used[n]book district in Jinbocho...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SubRe_Spot_MeijiJing#0",
+   "speaker": null,
+   "en": "I should try going to Meiji[n]Shrine with someone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SubRe_Spot_Kourakuen#0",
+   "speaker": null,
+   "en": "I should try going to Dome Town[n]in Suidobashi with someone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SubRe_Spot_Ginza#0",
+   "speaker": null,
+   "en": "I should try going to the sushi[n]restaurant in Ginza with someone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SubRe_Spot_Buffet#0",
+   "speaker": null,
+   "en": "I should try going to the[n]buffet with someone...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SubRe_1sem_MidTermTe#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SubRe_1sem_MidTermTe#1",
+   "speaker": null,
+   "en": "Midterms are coming up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SubRe_1sem_MidTermTe#2",
+   "speaker": null,
+   "en": "I wonder if I need to study...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SubRe_1sem_LastTest#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SubRe_1sem_LastTest#1",
+   "speaker": null,
+   "en": "It's almost time for finals.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SubRe_1sem_LastTest#2",
+   "speaker": null,
+   "en": "I wonder if I need to study...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SubRe_2sem_MidTermTe#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SubRe_2sem_MidTermTe#1",
+   "speaker": null,
+   "en": "Midterms are coming up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SubRe_2sem_MidTermTe#2",
+   "speaker": null,
+   "en": "I wonder if I need to study...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SubRe_2sem_LastTest#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SubRe_2sem_LastTest#1",
+   "speaker": null,
+   "en": "It's almost time for finals.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_SubRe_2sem_LastTest#2",
+   "speaker": null,
+   "en": "I wonder if I need to study...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Think_preSummer#0",
+   "speaker": null,
+   "en": "It's gotten hot recently...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Think_SummerBacation#0",
+   "speaker": null,
+   "en": "Oh, I just remembered.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Think_SummerBacation#1",
+   "speaker": null,
+   "en": "It's almost summer vacation...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Think_Summer#0",
+   "speaker": null,
+   "en": "I can't stop sweating when I'm[n]holed up in the bathroom like this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Think_SummerMusi#0",
+   "speaker": null,
+   "en": "My mosquito bite is itchy...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Think_Autumn#0",
+   "speaker": null,
+   "en": "It's gotten cooler recently...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Think_Winter#0",
+   "speaker": null,
+   "en": "It's chilly in the bathroom...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_PalaceNow#0",
+   "speaker": null,
+   "en": "Have I prepared enough for[n]infiltrating the Palace?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_PalaceWait#0",
+   "speaker": null,
+   "en": "All we can do is wait...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_ErrorMassage#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MND_ErrorMassage#1",
+   "speaker": null,
+   "en": "I should get out of here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_EndMassage#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MND_EndMassage#1",
+   "speaker": null,
+   "en": "I should get out of here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DUMMY_01#0",
+   "speaker": null,
+   "en": "What should I spend my time doing?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DUMMY_01#1",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "MSG_DUMMY_0410_mes00#0",
+   "speaker": null,
+   "en": "I was told to go to the second floor...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DUMMY_0410_mes01#0",
+   "speaker": null,
+   "en": "Should I answer the phone?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DUMMY_0410_mes02#0",
+   "speaker": null,
+   "en": "Oh yeah, Sojiro told me[n]to flip the \"Open\" sign...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DUMMY_0410_mes04#0",
+   "speaker": null,
+   "en": "I should sleep so I'm ready[n]for tomorrow...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_DUMMY_0411_mes01#0",
+   "speaker": null,
+   "en": "I hope I'll be able to make[n]my train transfers...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_E22810100_NG_TOILET#0",
+   "speaker": null,
+   "en": "I'm not interested[n]in the pot in there...",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

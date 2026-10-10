@@ -1,0 +1,775 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR7000_002_000.BF",
+ "entries": [
+  {
+   "id": "MSG_DUMMY#0",
+   "speaker": null,
+   "en": "......",
+   "uk": "......",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "YESNO_SEL#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_01_____#0",
+   "speaker": null,
+   "en": "Various flyers are posted up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_01_____#1",
+   "speaker": null,
+   "en": "\"GO GO TEAM! DOMINATE THE[n]NATIONALS! Recruiting for[n]volleyball team support tour!\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_01_____#2",
+   "speaker": null,
+   "en": "\"NOTICE FROM STUDENT COUNCIL[n]TO NEW STUDENTS: A Shujin student[n]should follow the rules.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M4_01#0",
+   "speaker": null,
+   "en": "Various flyers are posted up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M4_01#1",
+   "speaker": null,
+   "en": "\"GO TEAM! Dominate the[n]volleyball nationals!\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M4_01#2",
+   "speaker": null,
+   "en": "\"A Shujin student should[n]follow the rules.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M4_02#0",
+   "speaker": null,
+   "en": "Various flyers are posted up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M4_02#1",
+   "speaker": null,
+   "en": "\"VOLLEYBALL RALLY RESULTS:[n]Mr. Kamoshida MVP!\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M4_02#2",
+   "speaker": null,
+   "en": "\"The roof of the school[n]is off-limits.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M4_03#0",
+   "speaker": null,
+   "en": "Various flyers are posted up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M4_03#1",
+   "speaker": null,
+   "en": "\"VOLLEYBALL TEAM SUPPORT[n]TOUR NOW FULL! Thank you[n]everyone who joined!\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M4_03#2",
+   "speaker": null,
+   "en": "\"If you're worried about[n]something, ask for help sooner[n]rather than later.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M4_03_MARK#0",
+   "speaker": null,
+   "en": "Various flyers are posted up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M4_03_MARK#1",
+   "speaker": null,
+   "en": "\"Posting pranks on the bulletin[n]board is strictly prohibited.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M4_03_MARK#2",
+   "speaker": null,
+   "en": "\"Please study quietly[n]during study hall.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M4_03_MARK#3",
+   "speaker": null,
+   "en": "\"BE CONSIDERATE:[n]Don't hang out in the cafeteria[n]longer than needed.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_01#0",
+   "speaker": null,
+   "en": "Various flyers are posted up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_01#1",
+   "speaker": null,
+   "en": "\"First semester midterms[n]begin on May 11th.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_01#2",
+   "speaker": null,
+   "en": "\"Stay calm and focus[n]on your studies.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_01#3",
+   "speaker": null,
+   "en": "\"Please return books[n]by their due date![n]—Library Staff\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_02#0",
+   "speaker": null,
+   "en": "Various flyers are posted up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_02#1",
+   "speaker": null,
+   "en": "\"Beware scams and blackmail[n]aimed at students!\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_02#2",
+   "speaker": null,
+   "en": "\"Midterm results will be posted[n]on Friday, May 20th.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_02_MARK#0",
+   "speaker": null,
+   "en": "Various flyers are posted up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_02_MARK#1",
+   "speaker": null,
+   "en": "\"If you are involved in a crime,[n]ask for help immediately.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_02_MARK#2",
+   "speaker": null,
+   "en": "\"Applications for national[n]mock exams end on June 12th.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M6_01#0",
+   "speaker": null,
+   "en": "Various flyers are posted up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M6_01#1",
+   "speaker": null,
+   "en": "\"There will be a social studies[n]trip from June 9th-10th.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M6_01#2",
+   "speaker": null,
+   "en": "\"Mind your manners when[n]you are on the trip.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M6_02#0",
+   "speaker": null,
+   "en": "Various flyers are posted up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M6_02#1",
+   "speaker": null,
+   "en": "\"WARNING:[n]Stay away from Shinjuku.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M6_02#2",
+   "speaker": null,
+   "en": "\"Unkempt attire is a sign[n]of an unkempt heart.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M6_02#3",
+   "speaker": null,
+   "en": "\"Aim for the Olympics!\"[n]\"High hopes for Yoshizawa's[n]performance!\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M6_02_MARK#0",
+   "speaker": null,
+   "en": "Various flyers are posted up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M6_02_MARK#1",
+   "speaker": null,
+   "en": "\"SUMMER IS NEAR—[n]be wary of food poisoning.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M6_02_MARK#2",
+   "speaker": null,
+   "en": "\"Please continue to avoid[n]unnecessary detours.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M6_02_MARK#3",
+   "speaker": null,
+   "en": "\"Aim for the Olympics!\"[n]\"High hopes for Yoshizawa's[n]performance!\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M7_01#0",
+   "speaker": null,
+   "en": "Various flyers are posted up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M7_01#1",
+   "speaker": null,
+   "en": "\"Final exam schedule:[n]July 13th-16th\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M7_01#2",
+   "speaker": null,
+   "en": "\"Results will be posted[n]on July 19th.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M7_01#3",
+   "speaker": null,
+   "en": "\"Aim for the Olympics!\"[n]\"High hopes for Yoshizawa's[n]performance!\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M7_02#0",
+   "speaker": null,
+   "en": "Various flyers are posted up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M7_02#1",
+   "speaker": null,
+   "en": "\"HOW TO SPEND YOUR SUMMER:[n]Plan out when you will study.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M7_02#2",
+   "speaker": null,
+   "en": "\"Summer classes:[n]July 26th-28th\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M7_02#3",
+   "speaker": null,
+   "en": "\"If you require supplementary[n]classes, you will be contacted[n]by your homeroom teacher.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M9_01#0",
+   "speaker": null,
+   "en": "Various flyers are posted up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M9_01#1",
+   "speaker": null,
+   "en": "\"Be cautious on your school trip.[n]Start preparing early.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M9_01#2",
+   "speaker": null,
+   "en": "\"Act responsibly and sensibly.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M9_02#0",
+   "speaker": null,
+   "en": "Various flyers are posted up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M9_02#1",
+   "speaker": null,
+   "en": "\"Be cautious on your school trip.[n]Start preparing early.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M9_02#2",
+   "speaker": null,
+   "en": "\"Act responsibly and sensibly.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M9_02#3",
+   "speaker": null,
+   "en": "\"URGENT: How to deal[n]with the media!\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M9_03#0",
+   "speaker": null,
+   "en": "Various flyers are posted up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M9_03#1",
+   "speaker": null,
+   "en": "\"There will be a special meeting[n]with parents regarding the sudden[n]death of the principal.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M9_03#2",
+   "speaker": null,
+   "en": "\"A reminder to all students[n]to please remain calm.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M9_03_MARK#0",
+   "speaker": null,
+   "en": "Various flyers are posted up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M9_03_MARK#1",
+   "speaker": null,
+   "en": "\"Be sure to have a goal in[n]mind for career counseling.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M9_03_MARK#2",
+   "speaker": null,
+   "en": "\"Second semester midterms[n]begin on October 17th.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M10_01#0",
+   "speaker": null,
+   "en": "Various flyers are posted up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M10_01#1",
+   "speaker": null,
+   "en": "\"The school festival is coming![n]Open October 25th-26th.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M10_02#0",
+   "speaker": null,
+   "en": "Various flyers are posted up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M10_02#1",
+   "speaker": null,
+   "en": "\"Goro Akechi chosen as guest[n]speaker for school festival!\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M10_02#2",
+   "speaker": null,
+   "en": "\"Special event 'Ask the Prodigy[n]Detective' will be held on the[n]afternoon of Day 2.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M10_03#0",
+   "speaker": null,
+   "en": "Various flyers are posted up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M10_03#1",
+   "speaker": null,
+   "en": "\"Winter is coming! This[n]is the home stretch for[n]college-bound students!\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M10_03#2",
+   "speaker": null,
+   "en": "\"Be mindful of politics—[n]you are shaping the future.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M3_01#0",
+   "speaker": null,
+   "en": "Various flyers are posted up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M3_01#1",
+   "speaker": null,
+   "en": "\"COLLEGE ENTRANCE EXAM RESULTS;[n]LIST OF COLLEGES\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M3_01#2",
+   "speaker": null,
+   "en": "\"The Phantom Thieves of Hearts[n]appear at Shujin Academy!\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M3_01#3",
+   "speaker": null,
+   "en": "\"The Phantom Thieves are the best!\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M3_01#4",
+   "speaker": null,
+   "en": "\"Goodbye, Phantom Thieves!\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M4_04#0",
+   "speaker": null,
+   "en": "There's a flyer about[n]the honors gymnast.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M4_04#1",
+   "speaker": null,
+   "en": "Apparently there's a[n]gymnastic competition...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_01_1#0",
+   "speaker": null,
+   "en": "Various flyers are posted up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_01_1#1",
+   "speaker": null,
+   "en": "\"First semester midterms[n]begin on May 11th.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_01_1#2",
+   "speaker": null,
+   "en": "\"Stay calm and focus[n]on your studies.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_01_1#3",
+   "speaker": null,
+   "en": "\"Please return books[n]by their due date![n]—Library Staff\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_01_MARUKI#0",
+   "speaker": null,
+   "en": "There are flyers posted[n]here on this board.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_01_MARUKI#1",
+   "speaker": null,
+   "en": "There seem to be a lot of flyers[n]about the counseling sessions...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_01_2#0",
+   "speaker": null,
+   "en": "Various flyers are posted up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_01_2#1",
+   "speaker": null,
+   "en": "\"First semester midterms[n]begin on May 11th.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_01_2#2",
+   "speaker": null,
+   "en": "\"Stay calm and focus[n]on your studies.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_01_2#3",
+   "speaker": null,
+   "en": "\"Please return books[n]by their due date![n]—Library Staff\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_01_2#4",
+   "speaker": null,
+   "en": "\"Notification about the[n]clean up event\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_02_1#0",
+   "speaker": null,
+   "en": "Various flyers are posted up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_02_1#1",
+   "speaker": null,
+   "en": "\"Beware scams and blackmail[n]aimed at students!\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_02_1#2",
+   "speaker": null,
+   "en": "\"Midterm results will be[n]posted on Friday, May 20th.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_02_1#3",
+   "speaker": null,
+   "en": "\"Notification about the[n]clean up event\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_02_MARK_1#0",
+   "speaker": null,
+   "en": "Various flyers are posted up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_02_MARK_1#1",
+   "speaker": null,
+   "en": "\"If you are involved in a crime,[n]ask for help immediately.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_02_MARK_1#2",
+   "speaker": null,
+   "en": "\"Applications for national mock[n]exams end on June 12th.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_02_MARK_1#3",
+   "speaker": null,
+   "en": "\"Notification about the[n]clean up event\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_02_2#0",
+   "speaker": null,
+   "en": "Various flyers are posted up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_02_2#1",
+   "speaker": null,
+   "en": "\"Beware scams and blackmail[n]aimed at students!\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_02_2#2",
+   "speaker": null,
+   "en": "\"Midterm results will be[n]posted on Friday, May 20th.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_02_2#3",
+   "speaker": null,
+   "en": "\"Aim for the Olympics!\"[n]\"High hopes for Yoshizawa's[n]performance!\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_02_MARK_2#0",
+   "speaker": null,
+   "en": "Various flyers are posted up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_02_MARK_2#1",
+   "speaker": null,
+   "en": "\"If you are involved in a crime,[n]ask for help immediately.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_02_MARK_2#2",
+   "speaker": null,
+   "en": "\"Applications for national[n]mock exams end on June 12th.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M5_02_MARK_2#3",
+   "speaker": null,
+   "en": "\"Aim for the Olympics!\"[n]\"High hopes for Yoshizawa's[n]performance!\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M6_01_1#0",
+   "speaker": null,
+   "en": "Various flyers are posted up.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M6_01_1#1",
+   "speaker": null,
+   "en": "\"There will be a social studies[n]trip from June 9th-10th.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M6_01_1#2",
+   "speaker": null,
+   "en": "\"Mind your manners when[n]you are on the trip.\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M6_01_1#3",
+   "speaker": null,
+   "en": "\"Aim for the Olympics!\"[n]\"High hopes for Yoshizawa's[n]performance!\"",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M11_01#0",
+   "speaker": null,
+   "en": "There are flyers posted[n]about counseling...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M11_01#1",
+   "speaker": null,
+   "en": "It seems Maruki will[n]be working here till[n]the 18th...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_BOARD_M11_02#0",
+   "speaker": null,
+   "en": "I can attend counseling[n]sessions until the day before...[n]Should I go visit Maruki?",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

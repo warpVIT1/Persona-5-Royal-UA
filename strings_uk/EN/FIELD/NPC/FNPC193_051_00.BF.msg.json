@@ -1,0 +1,838 @@
+{
+ "file": "EN/FIELD/NPC/FNPC193_051_00.BF",
+ "entries": [
+  {
+   "id": "MEME_GREETING_mes01#0",
+   "speaker": null,
+   "en": "Oh, mister! Over here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GOODBY_JOZE#0",
+   "speaker": "Jose",
+   "en": "Hope we run into each other again soon!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MENTION_OF_FLOWER_VA#0",
+   "speaker": "Jose",
+   "en": "Oh, right! I should mention something[n]about those flowers you're collecting...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MENTION_OF_FLOWER_VA#1",
+   "speaker": "Jose",
+   "en": "For some reason, you can't leave[n]Mementos with them—they'll[n]disappear on you! It's weird.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MENTION_OF_FLOWER_VA#2",
+   "speaker": "Jose",
+   "en": "But it'd be so sad to collect flowers[n]just to have them disappear on you.[n]What a waste, am I right?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MENTION_OF_FLOWER_VA#3",
+   "speaker": "Jose",
+   "en": "So, don't forget to come bring them[n]to me before you leave Mementos,[n]okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MENTION_OF_FLOWER_VA#4",
+   "speaker": "Jose",
+   "en": "That should do it. Good job!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MENTION_OF_FLOWER_VA_2#0",
+   "speaker": "Jose",
+   "en": "If you've collected enough flowers,[n]make sure you come trade them with[n]me before you leave Mementos, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_MENTION_OF_FLOWER_VA_2#1",
+   "speaker": "Jose",
+   "en": "That should do it. Good job!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "e489_230_jose01#0",
+   "speaker": "Jose",
+   "en": "Oh, that's right—here, before I forget.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "e489_230_jose02#0",
+   "speaker": "Jose",
+   "en": "Remember when I told you I'd come up[n]with a fun game for us to play in[n]Mementos?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "e489_230_jose02#1",
+   "speaker": "Jose",
+   "en": "I thought of this after seeing the[n]subway in the other world.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "e489_230_jose02#2",
+   "speaker": "Jose",
+   "en": "This'll also prove that you're checking[n]for flowers in all sorts of places here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "e489_230_jose02#3",
+   "speaker": "Jose",
+   "en": "The stamps have different rewards than[n]the flowers, so try to get as much of[n]both as you can!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "e489_230_jose03#0",
+   "speaker": "Jose",
+   "en": "So, got any flowers for me, mister?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "e489_230_jose03#1",
+   "speaker": "Jose",
+   "en": "If you do, let's trade! I've got some[n]really good stuff.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_awakening_seed_#0",
+   "speaker": null,
+   "en": "Jose is looking at[n]my [f 2 5 3 9999 0]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_awakening_seed__2#0",
+   "speaker": "Jose",
+   "en": "Oh, now this is neat—I've seen these[n]in my studies!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_awakening_seed__2#1",
+   "speaker": "Jose",
+   "en": "They're the accumulated byproducts[n]of warped cognitions.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_awakening_seed__2#2",
+   "speaker": "Jose",
+   "en": "This one still hasn't reached its full[n]potential, though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_awakening_seed__2#3",
+   "speaker": "Jose",
+   "en": "May I see it? I won't do any damage.[n]I promise.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_awakening_seed__3#0",
+   "speaker": "Jose",
+   "en": "If I just do this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_awakening_seed__4#0",
+   "speaker": "Jose",
+   "en": "And then put that there...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_awakening_seed__5#0",
+   "speaker": "Jose",
+   "en": "...Nice!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_awakening_seed__6#0",
+   "speaker": "Jose",
+   "en": "All done. Now it should do you[n]some good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_awakening_seed__6#1",
+   "speaker": "Jose",
+   "en": "Here you go, mister.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_awakening_seed__7#0",
+   "speaker": "Jose",
+   "en": "Let me know if you find any others like it,[n]okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_awakening_seed__7#1",
+   "speaker": "Jose",
+   "en": "Learning about warped cognitions[n]also teaches me more about humans.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_awakening_seed__8#0",
+   "speaker": null,
+   "en": "Jose is looking at[n]the [f 2 5 3 9999 0]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_awakening_seed__9#0",
+   "speaker": "Jose",
+   "en": "Hey mister, is that a crystal you've[n]got there?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_awakening_seed__9#1",
+   "speaker": "Jose",
+   "en": "Lemme see it!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_awakening_seed__10#0",
+   "speaker": "Jose",
+   "en": "If I just do this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_awakening_seed__11#0",
+   "speaker": "Jose",
+   "en": "And then put that there...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_awakening_seed__12#0",
+   "speaker": "Jose",
+   "en": "...Nice!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_awakening_seed__13#0",
+   "speaker": "Jose",
+   "en": "All done. Now it should do you[n]some good.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_awakening_seed__13#1",
+   "speaker": "Jose",
+   "en": "Here you go, mister.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_awakening_seed__14#0",
+   "speaker": "Jose",
+   "en": "Let me know if you find any others like it,[n]okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_awakening_seed__14#1",
+   "speaker": "Jose",
+   "en": "Learning about warped cognitions[n]also teaches me more about humans.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_refuse_awakenin#0",
+   "speaker": "Jose",
+   "en": "Oh, mister—it looks like you've got[n]something interesting there.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_refuse_awakenin_2#0",
+   "speaker": null,
+   "en": "Jose is looking at[n]my [f 2 5 3 9999 0]...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_refuse_awakenin_3#0",
+   "speaker": "Jose",
+   "en": "Could I take a closer look at that crystal?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_refuse_awakenin_3#1",
+   "speaker": "Jose",
+   "en": "I feel like it'll do me a lot of good...[n]Please? Can I?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_refuse_awakenin_4#0",
+   "speaker": "Jose",
+   "en": "Hmm... Okay... I see...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_refuse_awakenin_4#1",
+   "speaker": "Jose",
+   "en": "So you do this with these...[n]but do this over here, and...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_refuse_awakenin_5#0",
+   "speaker": "Jose",
+   "en": "...Huh? Aw... Looks like it's not gonna[n]work just yet.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_refuse_awakenin_6#0",
+   "speaker": "Jose",
+   "en": "Here you go, mister. Thanks for[n]showing it to me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_refuse_awakenin_6#1",
+   "speaker": "Jose",
+   "en": "The distortion inside that crystal is[n]still linked to distortion somewhere[n]else.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_refuse_awakenin_6#2",
+   "speaker": "Jose",
+   "en": "As long as it's still connected to that[n]place, the crystal can't reach its full[n]potential.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_refuse_awakenin_6#3",
+   "speaker": "Jose",
+   "en": "Could you show it to me again[n]once you get rid of that place?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEMENTOS_refuse_awakenin_7#0",
+   "speaker": "Jose",
+   "en": "I bet I'll be able to turn it into[n]something neat!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_1st_01#0",
+   "speaker": "Jose",
+   "en": "Hey, good job.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_1st_02#0",
+   "speaker": "Jose",
+   "en": "Looks like this area was formed somewhat[n]recently.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_1st_02#1",
+   "speaker": "Jose",
+   "en": "I haven't learned much of anything about[n]this place yet, so I need to drink some[n]more flowers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_1st_03#0",
+   "speaker": "Jose",
+   "en": "Ahh!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_1st_04#0",
+   "speaker": "Jose",
+   "en": "Hmm, the flavor has this...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_1st_05#0",
+   "speaker": "Jose",
+   "en": "No, I'm here for my studies.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_2nd_01#0",
+   "speaker": "Jose",
+   "en": "Hey, good job.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_2nd_02#0",
+   "speaker": "Jose",
+   "en": "This isn't quite the same flavor I was[n]told about...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_2nd_SEL0#0",
+   "speaker": null,
+   "en": "How is it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_2nd_SEL0#1",
+   "speaker": null,
+   "en": "Is it not good?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_2nd_03#0",
+   "speaker": "Jose",
+   "en": "It tastes...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_2nd_03#1",
+   "speaker": "Jose",
+   "en": "Hmm.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_2nd_04#0",
+   "speaker": "Jose",
+   "en": "I learned that a person's sense of taste[n]will change as they get older.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_2nd_04#1",
+   "speaker": "Jose",
+   "en": "Is that true? Has it happened to you?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_2nd_SEL0_2#0",
+   "speaker": null,
+   "en": "Everyone's different.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_2nd_SEL0_2#1",
+   "speaker": null,
+   "en": "Why do you care?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_2nd_05#0",
+   "speaker": "Jose",
+   "en": "I see... It's not like that for everyone,[n]huh?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_2nd_06#0",
+   "speaker": "Jose",
+   "en": "Well...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_2nd_07#0",
+   "speaker": "Jose",
+   "en": "I just can't bring myself to like the[n]flowers here.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_2nd_07#1",
+   "speaker": "Jose",
+   "en": "And I used to like drinking them so[n]much, too...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_2nd_07#2",
+   "speaker": "Jose",
+   "en": "If I don't succeed in my studies, then...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_2nd_08#0",
+   "speaker": "Jose",
+   "en": "Wait—I have to focus.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_3rd_01#0",
+   "speaker": "Jose",
+   "en": "Hey, good job.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_3rd_02#0",
+   "speaker": "Jose",
+   "en": "Remember how I told you I just couldn't[n]bring myself to like the flowers here?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_3rd_02#1",
+   "speaker": "Jose",
+   "en": "Well, I think I know why now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_3rd_SEL0#0",
+   "speaker": null,
+   "en": "Enlighten me.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_3rd_SEL0#1",
+   "speaker": null,
+   "en": "What is it?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_3rd_03#0",
+   "speaker": "Jose",
+   "en": "The flowers here taste sort of staticky.[n]I don't really like it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_3rd_04#0",
+   "speaker": "Jose",
+   "en": "Since these flowers are... Hmm, how[n]to phrase it like someone in the real[n]world...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_3rd_05#0",
+   "speaker": "Jose",
+   "en": "Ah, right—it's the cognition of one's self,[n]which everyone has inside themselves.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_3rd_05#1",
+   "speaker": "Jose",
+   "en": "When the flavor gets staticky like with[n]these, that means the self is uncertain[n]of its own cognition.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_3rd_06#0",
+   "speaker": "Jose",
+   "en": "Can people really not know what they[n]are? Is everyone like that?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_3rd_07#0",
+   "speaker": "Jose",
+   "en": "I don't get it. This is nothing like what[n]I'd been taught...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "JOZE_BEFORE_BTL_3rd_07#1",
+   "speaker": "Jose",
+   "en": "But I can't quit my studies now.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_STAMP_GREET_00#0",
+   "speaker": "Jose",
+   "en": "Good job, mister! Is the exploration[n]going well?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_STAMP_GREET_01#0",
+   "speaker": "Jose",
+   "en": "Hey, good job—bring me any flowers?[n]It looks like you've got a nice little[n]stamp collection coming along!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_STAMP_GREET_02#0",
+   "speaker": "Jose",
+   "en": "Hey, good job—bring me any flowers?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_STAMP_GREET_02#1",
+   "speaker": "Jose",
+   "en": "It's nice to see you making progress[n]with the stamps, too!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_STAMP_GREET_03#0",
+   "speaker": "Jose",
+   "en": "Good job—you've got a whole lot of[n]stamps now!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_STAMP_GREET_03#1",
+   "speaker": "Jose",
+   "en": "The more stamps you get, the more stuff[n]you can do in Mementos, so keep it up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_STAMP_GREET_03#2",
+   "speaker": "Jose",
+   "en": "Oh! And don't forget to keep bringing[n]me Mementos flowers too, okay?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_STAMP_GREET_04#0",
+   "speaker": "Jose",
+   "en": "Good job! I've been looking forward[n]to seeing you.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_STAMP_GREET_04#1",
+   "speaker": "Jose",
+   "en": "I'm always curious just how many stamps[n]you've got each time we cross paths—[n]same with the flowers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_STAMP_GREET_04#2",
+   "speaker": "Jose",
+   "en": "Wow, you've got a whole bunch of them[n]now! I think you might've passed the[n]halfway mark! Keep up the good work.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_STAMP_GREET_05#0",
+   "speaker": "Jose",
+   "en": "Good job. I had a feeling you'd be[n]stopping by soon.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_STAMP_GREET_05#1",
+   "speaker": "Jose",
+   "en": "Did you bring me some flowers?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_STAMP_GREET_05#2",
+   "speaker": "Jose",
+   "en": "You've got a whole bunch of stamps,[n]too! Would you like to try changing[n]the cognition of Mementos?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_STAMP_GREET_06#0",
+   "speaker": "Jose",
+   "en": "Good job, mister! I think you've got[n]almost all of the stamps...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_STAMP_GREET_06#1",
+   "speaker": "Jose",
+   "en": "I'm glad you're enjoying the game[n]so much... setting up those stamp[n]kiosks was really worth it.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_STAMP_GREET_06#2",
+   "speaker": "Jose",
+   "en": "You're SO close to beating the game,[n]though—keep it up!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_STAMP_GREET_MAX#0",
+   "speaker": "Jose",
+   "en": "Good job! You've collected all of[n]the stamps. Congratulations!",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_STAMP_GREET_MAX#1",
+   "speaker": "Jose",
+   "en": "And with that, the game is over. I'd[n]appreciate it if you kept bringing[n]me flowers, though.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_STAMP_GREET_MAX#2",
+   "speaker": "Jose",
+   "en": "Um... You're not gonna stop coming[n]to see me now, are you, mister?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_STAMP_GREET_MAX#3",
+   "speaker": "Jose",
+   "en": "I always look forward to seeing you again.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_GREETING_AFTER_3RD_#0",
+   "speaker": "Jose",
+   "en": "...Oh, sorry. So, did you want to trade[n]flowers, or change the cognition in[n]Mementos?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_GREETING_NEW_LINEUP#0",
+   "speaker": "Jose",
+   "en": "Good job, mister.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_GREETING_2ND_ACCESS#0",
+   "speaker": "Jose",
+   "en": "Nice to see you again. Did you bring me[n]more flowers?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_SEED_ADDED_FIRST_01#0",
+   "speaker": "Jose",
+   "en": "Oh, that's right...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_SEED_ADDED_FIRST_02#0",
+   "speaker": "Jose",
+   "en": "About those byproducts of warped[n]cognitions—the \"Will Seeds\"...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_SEED_ADDED_FIRST_02#1",
+   "speaker": "Jose",
+   "en": "I wanted to learn more about humans,[n]so I went looking around to see if I could[n]find any of these, and look! I actually did.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_SEED_ADDED_FIRST_02#2",
+   "speaker": "Jose",
+   "en": "I wonder why it was just lying around[n]here? Maybe it fell from some other[n]completely different place?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_SEED_ADDED_FIRST_03#0",
+   "speaker": "Jose",
+   "en": "Well anyway, it looks like you're[n]collecting these, mister, so you can[n]have it if you trade me some flowers.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_SEED_ADDED_FIRST_03#1",
+   "speaker": "Jose",
+   "en": "This looks a lot rarer than the others[n]though, so it's going to cost a little more[n]than usual.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_NEW_LINEUP_FIRST_01#0",
+   "speaker": "Jose",
+   "en": "...Oh, that's right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_NEW_LINEUP_FIRST_02#0",
+   "speaker": "Jose",
+   "en": "A new area of Mementos opened up,[n]so I went around and gathered more[n]stuff to trade.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_NEW_LINEUP_FIRST_02#1",
+   "speaker": "Jose",
+   "en": "Hopefully I got something you like,[n]mister.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_NEW_LINEUP_GENERAL_#0",
+   "speaker": "Jose",
+   "en": "...Oh, that's right.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_NEW_LINEUP_GENERAL__2#0",
+   "speaker": "Jose",
+   "en": "I was able to go to a new area, so I went[n]around and picked up some stuff.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MEME_NEW_LINEUP_GENERAL__2#1",
+   "speaker": "Jose",
+   "en": "If you traded any flowers you've found[n]for this stuff, I'd be so happy!",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

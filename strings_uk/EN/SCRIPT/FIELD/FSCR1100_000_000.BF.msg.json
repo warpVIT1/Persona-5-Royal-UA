@@ -1,0 +1,439 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR1100_000_000.BF",
+ "entries": [
+  {
+   "id": "MSG_TEST_01#0",
+   "speaker": null,
+   "en": "Selection End: [var 0]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_MAIL_NG#0",
+   "speaker": null,
+   "en": "I'm tired today, so I'll[n]go out some other time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_MASTER_GOOUT_NG#0",
+   "speaker": null,
+   "en": "Boss told me to stay put,[n]so I better not go out...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_MASTER_GOOUT_NG#1",
+   "speaker": null,
+   "en": "Hopefully, I'll get permission[n]to go out on my own eventually...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_CHK_DOOR_playroom#0",
+   "speaker": null,
+   "en": "My teammate has come[n]to hang out though...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_PC_PLAYROOM_CHK_ryuj#0",
+   "speaker": null,
+   "en": "Ryuji is over...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_PC_PLAYROOM_CHK_anne#0",
+   "speaker": "Morgana",
+   "en": "Ann is over...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_PC_PLAYROOM_CHK#0",
+   "speaker": null,
+   "en": "I'm going out.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_PC_PLAYROOM_CHK#1",
+   "speaker": null,
+   "en": "I'll stay home.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SHORTCUT_MENU#0",
+   "speaker": null,
+   "en": "Where would you like to go?[n][f 1 10 53]: Summons big map",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SHORTCUT_MENU_NOBIGM#0",
+   "speaker": null,
+   "en": "Where would you like to go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_MENU#0",
+   "speaker": null,
+   "en": "Shibuya Station Square",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_MENU#1",
+   "speaker": null,
+   "en": "Miyashita Park",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_MENU#2",
+   "speaker": null,
+   "en": "Airsoft Shop Entrance",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_MENU#3",
+   "speaker": null,
+   "en": "Takemi Medical Clinic Entrance",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_MENU#4",
+   "speaker": null,
+   "en": "Denen-Toshi Ticket Gate Entrance",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_MENU#5",
+   "speaker": null,
+   "en": "Shibuya Underground Shopping Mall",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_MENU#6",
+   "speaker": null,
+   "en": "Station Square",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_MENU#7",
+   "speaker": null,
+   "en": "Central Street",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_MENU#8",
+   "speaker": null,
+   "en": "Shibuya Underground Shopping Mall",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_MENU#9",
+   "speaker": null,
+   "en": "Teikyu Building",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_MENU#10",
+   "speaker": null,
+   "en": "Backstreets",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_MENU#11",
+   "speaker": null,
+   "en": "Leblanc Interior",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_MENU#12",
+   "speaker": null,
+   "en": "School Gate",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_MENU#13",
+   "speaker": null,
+   "en": "Classroom",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_MENU#14",
+   "speaker": null,
+   "en": "Classroom Building",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_MENU#15",
+   "speaker": null,
+   "en": "Practice Building",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_MENU#16",
+   "speaker": null,
+   "en": "Courtyard",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_MENU#17",
+   "speaker": null,
+   "en": "Gather at hideout",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_MENU#18",
+   "speaker": null,
+   "en": "Go somewhere other than Shibuya",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_MENU#19",
+   "speaker": null,
+   "en": "Go to another city",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_MENU#20",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SHORTCUT_AJITO_NG_TI#0",
+   "speaker": null,
+   "en": "If I'm going to call everyone[n]to the hideout, I should do it[n]after school or in the daytime...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SHORTCUT_AJITO_NG_KF#0",
+   "speaker": null,
+   "en": "Now isn't the time for that.[n]I should call everyone to the[n]hideout some other time...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SHORTCUT_AJITO#0",
+   "speaker": null,
+   "en": "Should I call everyone[n]to the hideout...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_AJITO#0",
+   "speaker": null,
+   "en": "Call everyone to the hideout",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_AJITO#1",
+   "speaker": null,
+   "en": "Decide later",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SHORTCUT_MIDDLE_BIG#0",
+   "speaker": null,
+   "en": "Where would you like to go?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_MIDDLE#0",
+   "speaker": null,
+   "en": "Shibuya Station Square",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_MIDDLE#1",
+   "speaker": null,
+   "en": "Central Street",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_MIDDLE#2",
+   "speaker": null,
+   "en": "Shibuya Underground Shopping Mall",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_MIDDLE#3",
+   "speaker": null,
+   "en": "Teikyu Building",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_MIDDLE#4",
+   "speaker": null,
+   "en": "Go to another city",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_MIDDLE#5",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_BIG#0",
+   "speaker": null,
+   "en": "Yongen-Jaya",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_BIG#1",
+   "speaker": null,
+   "en": "Shibuya",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_BIG#2",
+   "speaker": null,
+   "en": "Aoyama-Itchome",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_SHORTCUT_BIG#3",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SHORTCUT_TEST#0",
+   "speaker": null,
+   "en": "Selection[var 2][n]Major[var 0][n]Minor[var 1]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SHORTCUT_TEST2#0",
+   "speaker": null,
+   "en": "Line[var 0][n]Station[var 1]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_SHORTCUT_TEST3#0",
+   "speaker": null,
+   "en": "Selection[var 0]",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_BIG_TEST_mes01#0",
+   "speaker": null,
+   "en": "Which city should I go to...?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_BIG_TEST_SEL#0",
+   "speaker": null,
+   "en": "Go to Yongen-Jaya",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_BIG_TEST_SEL#1",
+   "speaker": null,
+   "en": "Go to Shibuya",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_BIG_TEST_SEL#2",
+   "speaker": null,
+   "en": "Go to Aoyama-Itchome",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "GOTO_BIG_TEST_SEL#3",
+   "speaker": null,
+   "en": "Don't go anywhere",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NG_ROJIURA_OUT#0",
+   "speaker": "Morgana",
+   "en": "The city's dangerous at night![n]You'll need a heart that won't[n]be rattled by anything.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NG_ROJIURA_OUT#1",
+   "speaker": "Morgana",
+   "en": "If you want to walk the city at[n]night, I suggest you have enough[n][stIcon 3][clr 26][stLabel 3][clr 27] to have [clr 1]nerves of steel[clr 27].",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_NG_GO_OUT#0",
+   "speaker": "Morgana",
+   "en": "Today was exhausting,[n]so let's just go to sleep.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_GO_OUT_FRIEND#0",
+   "speaker": "Morgana",
+   "en": "You really want to go out[n]while you have a friend over?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GO_OUT_FRIEND#0",
+   "speaker": null,
+   "en": "Go out",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_GO_OUT_FRIEND#1",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}

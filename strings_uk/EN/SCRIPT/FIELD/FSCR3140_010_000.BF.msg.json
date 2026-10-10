@@ -1,0 +1,68 @@
+{
+ "file": "EN/SCRIPT/FIELD/FSCR3140_010_000.BF",
+ "entries": [
+  {
+   "id": "MSG_Study_Q_Sojiro#0",
+   "speaker": "Sojiro",
+   "en": "You won't have much time for studying[n]when you go out into the world, so study[n]now while you can.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Study_Q_R#0",
+   "speaker": "Morgana",
+   "en": "What are you gonna do today, study?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Study_Q_Rain#0",
+   "speaker": "Morgana",
+   "en": "The weather's bad today, but...[n]It's easier to focus on studying[n]when you're stuck inside, anyway.",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Study_Q#0",
+   "speaker": null,
+   "en": "Maybe I should spend the day studying...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TABLE_USE#0",
+   "speaker": null,
+   "en": "Study",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "SEL_TABLE_USE#1",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MSG_Sentou_ParamInfo#0",
+   "speaker": "Morgana",
+   "en": "Oh, the tables look open. Maybe[n]you can study and improve your[n][stIcon 0][clr 26][stLabel 0][clr 27]?",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Sentou_ParamInfo#0",
+   "speaker": null,
+   "en": "I think my [stIcon 0][clr 26][stLabel 0][clr 27] will[n]increase if I study here...",
+   "uk": "",
+   "note": ""
+  },
+  {
+   "id": "MND_Sentou_ParamEndInfo#0",
+   "speaker": null,
+   "en": "I think I have enough[n][stIcon 0][clr 26][stLabel 0][clr 27] already...",
+   "uk": "",
+   "note": ""
+  }
+ ]
+}
