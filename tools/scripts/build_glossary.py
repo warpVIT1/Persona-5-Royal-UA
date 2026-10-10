@@ -26,10 +26,11 @@ def main():
             cand[r["en"]] = r
 
     prop = {}
-    with open(ROOT / "tools/glossary/proposals.tsv", encoding="utf-8") as f:
-        lines = [l for l in f if l.strip() and not l.startswith("#")]
-    for r in csv.DictReader(lines, delimiter="\t"):
-        prop[r["en"]] = r
+    for pf in sorted((ROOT / "tools/glossary").glob("proposals*.tsv")):  # proposals.tsv + batch files
+        with open(pf, encoding="utf-8") as f:
+            lines = [l for l in f if l.strip() and not l.startswith("#")]
+        for r in csv.DictReader(lines, delimiter="\t"):
+            prop[r["en"]] = r
 
     old = {}
     if OUT.exists():
