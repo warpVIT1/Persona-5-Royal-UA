@@ -5,6 +5,7 @@ strings_uk JSON get prefix + uk + suffix; everything else stays English.
 Speakers are replaced via strings_uk/_speakers.json. .flow and .msg.h files are copied as is.
 
   python tools/scripts/import_strings.py            # all files
+  python tools/scripts/import_strings.py --path EN/EVENT_DATA/MESSAGE/E100   # only a subtree
   python tools/scripts/import_strings.py --init     # create empty strings_uk/ skeletons that don't exist yet
 """
 import argparse
@@ -42,7 +43,7 @@ def init_skeletons():
     print(f"created {n} skeleton files in strings_uk/")
 
 
-def build():
+def build(prefix=""):
     sp_path = UK / "_speakers.json"
     speakers = {k: v for k, v in json.loads(sp_path.read_text(encoding="utf-8")).items() if v} if sp_path.exists() else {}
     n_files = n_pages = 0
@@ -50,6 +51,8 @@ def build():
         if not src.is_file():
             continue
         rel = src.relative_to(SRC)
+        if not rel.as_posix().startswith(prefix):
+            continue
         dst = OUT / rel
         dst.parent.mkdir(parents=True, exist_ok=True)
         if src.suffix != ".msg":
@@ -78,5 +81,6 @@ def build():
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--init", action="store_true")
+    ap.add_argument("--path", default="", help="only files under this prefix, e.g. EN/EVENT_DATA/MESSAGE/E100")
     a = ap.parse_args()
-    init_skeletons() if a.init else build()
+    init_skeletons() if a.init else build(a.path)

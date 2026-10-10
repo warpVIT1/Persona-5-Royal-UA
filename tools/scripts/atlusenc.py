@@ -7,6 +7,7 @@ Charset TSV: characters in glyph order, tab-separated, "\\uXXXX" escapes allowed
                               bytes = [0x80 | table, glyph - table * 0x80]
 Decoding: a byte with bit 0x80 set starts a 2-byte code point.
 """
+import re
 from functools import lru_cache
 from pathlib import Path
 
@@ -19,9 +20,18 @@ ASCII_RANGE = 0x7F
 MARKER = 0x80
 
 
+def split_lines(text):
+    """Line splitting exactly like C# StreamReader.ReadLine (\\r\\n, \\r, \\n only). str.splitlines() also
+    breaks on \\x1c-\\x1e, \\x85, \\u2028 ... which occur literally in the charset files."""
+    lines = re.split(r"\r\n|\r|\n", text)
+    if lines and lines[-1] == "":
+        lines.pop()
+    return lines
+
+
 def read_charset(path):
     table = []
-    for line in Path(path).read_text(encoding="utf-8-sig").splitlines():
+    for line in split_lines(Path(path).read_text(encoding="utf-8-sig")):
         for cs in line.split("\t"):
             table.append(chr(int(cs[2:], 16)) if cs.startswith("\\u") else cs)
     return table
