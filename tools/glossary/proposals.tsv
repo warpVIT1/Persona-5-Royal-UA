@@ -96,12 +96,12 @@ Oracle	Оракул		codename
 Crow	Ворон		codename
 Violet	Віолетта	Фіалка; Вайолет	codename
 # --- Ключові терміни світу ---
-Phantom Thieves	Примарні Злодії	Фантомні Злодії	term	Назва групи; з великої літери.
-The Phantom Thieves	Примарні Злодії		term	Артикль не перекладається.
-Phantom Thieves of Hearts	Примарні Злодії Сердець	Фантомні Злодії Сердець	term
-Phantom Thief	Примарний Злодій		term
-Phan-Site	Фан-сайт		term	Сайт фанатів Злодіїв (гра слів phan/fan зберігається).
-Phantom Aficionado Website	Сайт шанувальників Примарних Злодіїв		term
+Phantom Thieves	Фантомні Злодії	Примарні Злодії	term	Назва групи, з великої літери. «Фантомні» зберігають каламбур Phan-Site ↔ Фан-сайт (рішення власника).
+The Phantom Thieves	Фантомні Злодії		term	Артикль не перекладається.
+Phantom Thieves of Hearts	Фантомні Злодії Сердець		term	
+Phantom Thief	Фантомний Злодій		term	
+Phan-Site	Фан-сайт		term	Гра слів: фан(ат) + Фан(томні Злодії).
+Phantom Aficionado Website	Сайт шанувальників Фантомних Злодіїв		term	
 Persona	Персона		term	Множина — Персони.
 Personas	Персони		term
 Shadow	Тінь		term	Множина — Тіні.
@@ -121,7 +121,7 @@ Velvet Room	Оксамитова кімната		location
 Inmate	В'язень		term
 Trickster	Трикстер	Ошуканець	term
 Warden	Наглядач		term
-Confidant	Конфідент	Довірена особа	term	«Довірена особа» точніша, але задовга для меню.
+Confidant	Конфідент	Довірена особа	term	Словникове «той, кому довіряють таємниці»; 9 символів, як в EN. «Довірена особа» — юридичний термін (рішення власника).
 Confidants	Конфіденти		term
 Arcana	Аркан	Аркана	term	Однина — аркан, множина — аркани.
 Arcana Burst	Сплеск аркана		term
@@ -203,8 +203,8 @@ Rage	Лють		ailment
 Despair	Відчай		ailment
 Brainwash	Промивання мізків		ailment
 # --- Характеристики ---
-HP	HP	ОЗ	stat	Латиницею, як у більшості українських локалізацій; альтернатива — «очки здоров'я».
-SP	SP	ОД	stat
+HP	ОЗ	HP	stat	Очки здоров'я (рішення власника проєкту).
+SP	ОД	SP	stat	Очки духу (рішення власника проєкту).
 St	Сил		stat	Strength.
 Ma	Маг		stat	Magic.
 En	Вит	Вит.	stat	Endurance — витривалість.

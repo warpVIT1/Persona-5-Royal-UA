@@ -93,18 +93,18 @@ Fox,Лис,,codename,60,FLDNPCNAME.FTD,,proposed
 Oracle,Оракул,,codename,56,FLDNPCNAME.FTD,,proposed
 Violet,Віолетта,Фіалка; Вайолет,codename,43,proposals,,proposed
 Crow,Ворон,,codename,36,FLDNPCNAME.FTD,,proposed
-Phantom Thieves,Примарні Злодії,Фантомні Злодії,term,4146,corpus,Назва групи; з великої літери.,proposed
+Phantom Thieves,Фантомні Злодії,Примарні Злодії,term,4146,corpus,"Назва групи, з великої літери. «Фантомні» зберігають каламбур Phan-Site ↔ Фан-сайт (рішення власника).",approved
 Palace,Палац,,term,1557,corpus,,proposed
 Treasure,Скарб,,term,1346,proposals,"Скарб Палацу — з великої, як в EN.",proposed
 Persona,Персона,,term,1131,corpus,Множина — Персони.,proposed
 calling card,візитна картка,візитівка,term,1094,proposals,,proposed
 Shadow,Тінь,,term,776,speaker×16,Множина — Тіні.,proposed
-The Phantom Thieves,Примарні Злодії,,term,643,corpus,Артикль не перекладається.,proposed
+The Phantom Thieves,Фантомні Злодії,,term,643,corpus,Артикль не перекладається.,approved
 Shadows,Тіні,,term,629,corpus,,proposed
 Medjed,Меджед,,term,569,corpus,,proposed
 Metaverse,Метавсесвіт,,term,496,corpus,,proposed
 Personas,Персони,,term,476,corpus,,proposed
-Confidant,Конфідент,Довірена особа,term,458,corpus,"«Довірена особа» точніша, але задовга для меню.",proposed
+Confidant,Конфідент,Довірена особа,term,458,corpus,"Словникове «той, кому довіряють таємниці»; 9 символів, як в EN. «Довірена особа» — юридичний термін (рішення власника).",approved
 change of heart,зміна серця,переміна серця,term,448,proposals,,proposed
 Inmate,В'язень,,term,366,corpus,,proposed
 cognition,когніція,сприйняття,term,284,proposals,Коли можна — «уявлення»/«сприйняття»; термін — «когніція».,proposed
@@ -114,8 +114,8 @@ Rank,Ранг,,term,261,proposals,Ранг конфідента.,proposed
 Okumura Foods,«Окумура Фудс»,,term,224,corpus,Компанія.,proposed
 Christmas,Різдво,,term,188,corpus,,proposed
 Palaces,Палаци,,term,137,corpus,,proposed
-Phan,Фан,Фанат,term,132,corpus,Скорочення Phan-Site.,proposed
-Phan-Site,Фан-сайт,,term,127,proposals,Сайт фанатів Злодіїв (гра слів phan/fan зберігається).,proposed
+Phan,Фан,Фанат,term,132,corpus,Скорочення Phan-Site.,approved
+Phan-Site,Фан-сайт,,term,127,proposals,Гра слів: фан(ат) + Фан(томні Злодії).,approved
 Big Bang Burger,Біг Бенг Бургер,,term,93,"NAME.TBL,FLDPARAMUPFUNCNAME.FTD,FLDPLACENAME.FTD",Назва закладу — транслітерація.,proposed
 Trickster,Трикстер,Ошуканець,term,93,proposals,,proposed
 Will Seed,Зерно Волі,,term,86,corpus,,proposed
@@ -132,16 +132,16 @@ Holy Grail,Святий Грааль,,term,47,"NAME.TBL,speaker×38",,proposed
 White Day,Білий день,,term,45,corpus,Японське свято 14 березня.,proposed
 cognitive world,когнітивний світ,,term,38,proposals,,proposed
 Metaverse Nav,Метанавігатор,,term,36,proposals,Застосунок.,proposed
-Confidants,Конфіденти,,term,34,speaker×3,,proposed
+Confidants,Конфіденти,,term,34,speaker×3,,approved
 Compendium,Компендіум,,term,31,corpus,,proposed
 Lockdown,Карцер,,term,31,corpus,,proposed
 Palace ruler,володар Палацу,,term,28,proposals,,proposed
-Phantom Aficionado Website,Сайт шанувальників Примарних Злодіїв,,term,23,corpus,,proposed
+Phantom Aficionado Website,Сайт шанувальників Фантомних Злодіїв,,term,23,corpus,,approved
 Third Eye,Третє око,,term,23,speaker×3,,proposed
 Fusion,Злиття,,term,22,proposals,,proposed
-Phantom Thieves of Hearts,Примарні Злодії Сердець,Фантомні Злодії Сердець,term,20,corpus,,proposed
+Phantom Thieves of Hearts,Фантомні Злодії Сердець,,term,20,corpus,,approved
 Treasure Demon,Скарбовий демон,,term,13,proposals,,proposed
-Phantom Thief,Примарний Злодій,,term,11,proposals,,proposed
+Phantom Thief,Фантомний Злодій,,term,11,proposals,,approved
 Yaldabaoth,Ялдабаот,,term,10,speaker×48,,proposed
 Metaverse Navigator,Метанавігатор,,term,9,speaker×293,,proposed
 Execution,Страта,,term,8,NAME.TBL,Гільйотина.,proposed
@@ -773,9 +773,9 @@ Rage,Лють,,ailment,28,proposals,,proposed
 Brainwash,Промивання мізків,,ailment,25,proposals,,proposed
 Hunger,Голод,,ailment,21,proposals,,proposed
 yen,єн,єна,stat,444,proposals,¥; «5000 єн».,proposed
-HP,HP,ОЗ,stat,336,proposals,"Латиницею, як у більшості українських локалізацій; альтернатива — «очки здоров'я».",proposed
+HP,ОЗ,HP,stat,336,proposals,Очки здоров'я (рішення власника проєкту).,approved
 EXP,Досвід,ДСВ,stat,267,proposals,,proposed
-SP,SP,ОД,stat,247,proposals,,proposed
+SP,ОД,SP,stat,247,proposals,Очки духу (рішення власника проєкту).,approved
 St,Сил,,stat,33,FLDSCRIPTNAME.FTD,Strength.,proposed
 Ma,Маг,,stat,24,FLDSCRIPTNAME.FTD,Magic.,proposed
 Lu,Удч,,stat,16,FLDSCRIPTNAME.FTD,Luck — удача.,proposed
