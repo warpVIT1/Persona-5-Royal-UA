@@ -1,0 +1,9 @@
+# Game data extracted from CPK (copyrighted, large) — regenerate with tools/extract.sh
+/extracted/
+# Third-party tool sources and builds — regenerate with tools/build_tools.sh
+/tools/src/
+/tools/bin/
+bin/
+obj/
+*.log
+__pycache__/
