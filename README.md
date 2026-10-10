@@ -12,6 +12,8 @@
 | `tools/extract.sh` | Розпаковує EN.CPK і текстові файли BASE.CPK у `extracted/` | так |
 | `docs/` | Інвентаризація, звіти, статистика кодів | так |
 | `strings_uk/` | **Переклад** (JSON, редагується вручну) | так |
+| `glossary.csv` | Глосарій (en, uk, альтернативи, категорія, частота, статус) | так |
+| `tools/glossary/proposals.tsv` | Ручні пропозиції перекладу термінів | так |
 | `extracted/` | Розпаковані файли гри | ні |
 | `source_en/` | Декомпільовані `.msg` / `.flow` / `.msg.h` (EN) | ні |
 | `strings_en/` | Рядки для перекладу (JSON на файл + `_all.csv`, `_speakers.json`) | ні |
@@ -29,6 +31,8 @@ python tools/scripts/import_strings.py --init     # порожні шаблон�
 python tools/scripts/validate.py                  # перевірка перекладу
 python tools/scripts/import_strings.py            # strings_en + strings_uk -> translated/
 python tools/scripts/roundtrip_test.py --sample 100   # самоперевірка пайплайну
+python tools/scripts/glossary_candidates.py      # кандидати в глосарій -> docs/glossary_candidates.tsv
+python tools/scripts/build_glossary.py           # glossary.csv (затверджені рядки не перезаписуються)
 ```
 
 ## Формат рядків
@@ -52,3 +56,14 @@ python tools/scripts/roundtrip_test.py --sample 100   # самоперевірк
 
 Порожній `uk` — ще не перекладено (лишається англійський текст). Імена мовців перекладаються один раз
 у `strings_uk/_speakers.json`.
+
+## Етапи
+
+1. Інструменти, розпакування, інвентаризація ✔
+2. Експорт тексту, валідатор ✔
+3. Глосарій — `glossary.csv`, рішення в `docs/glossary_decisions.md`
+4. Переклад
+5. Шрифт і кодування (кирилиця)
+6. Збірка мода Reloaded-II
+7. Список текстур із запеченим текстом
+8. Інсталятор, що автоматично ставить локалізацію (Reloaded-II, P5R Essentials, мод)
