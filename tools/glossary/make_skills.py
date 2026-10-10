@@ -65,7 +65,7 @@ def pattern(en):
                      r"\((Low|Mid|High)\)", en)
     if m:
         base = {"Phys": "Фіз. витрати", "Magic": "Маг. витрати", "Heal": "Витрати на лікування",
-                "Attack": "Витрати на атаку", "Insta-kill SP": "SP за миттєве вбивство"}.get(m.group(1))
+                "Attack": "Витрати на атаку", "Insta-kill SP": "ОД за миттєве вбивство"}.get(m.group(1))
         base = base or {"Critical Up": "Шанс крит. удару", "Technical Up": "Технічний удар+", "Magic Up": "Магія+",
                         "Phys Up": "Фізична сила+", "Critical Rate Up": "Шанс крит. удару"}[m.group(1)]
         if "Cost" in en or m.group(1) in ("Phys", "Magic", "Heal", "Attack"):
