@@ -230,6 +230,43 @@ def cmd_apply(a):
     return 1 if errs else 0
 
 
+def cmd_fix(a):
+    """Re-translate an already translated line: pick it by a fragment of its EN text under --path."""
+    hits = {}
+    for p, rel in uk_files(a.path):
+        d = load_json(p)
+        kinds = None
+        for e in d["entries"]:
+            if a.en in e["en"] and (a.speaker is None or (e["speaker"] or "") == a.speaker):
+                if kinds is None:
+                    kinds = {x["id"]: x["kind"] for x in load_json(EN / rel)["entries"]}
+                key = (e["en"], e["speaker"] or "")
+                hits.setdefault(key, (rel, e["id"], limit_for(d["file"], kinds.get(e["id"], "msg")), e["uk"]))
+    if len(hits) != 1:
+        print(f"{len(hits)} distinct lines match; narrow --path / --en / --speaker:")
+        for (en, sp), (rel, i, _, uk) in list(hits.items())[:10]:
+            print(f"  [{sp}] {rel}:{i}  {en[:70]!r}")
+        return 1
+    (en, sp), (rel, i, lim, old) = next(iter(hits.items()))
+    errs, warns = V.check_pair(en, a.uk, where=f"{rel}:{i}", window=tuple(lim))
+    for x in errs:
+        print("ERROR", x)
+    for x in warns:
+        print("WARN ", x)
+    if errs:
+        return 1
+    with Lock(WORK / "apply.lock"):
+        occ = tm_index()[(en, sp)]
+        cache = {}
+        for p, k in occ:
+            d = cache.get(p) or load_json(p)
+            cache[p] = d
+            d["entries"][k]["uk"] = a.uk
+        for p, d in cache.items():
+            save_json(p, d)
+    print(f"fixed [{sp}] {rel}:{i} in {len(occ)} occurrences\n  was: {old}\n  now: {a.uk}")
+
+
 def cmd_stats(a):
     tot = done = 0
     for p, _ in uk_files(a.path):
@@ -252,8 +289,13 @@ def main():
     ap_.add_argument("--force", action="store_true", help="write lines even if they have errors")
     s = sub.add_parser("stats")
     s.add_argument("--path", default="")
+    fx = sub.add_parser("fix", help="replace the translation of an already translated line")
+    fx.add_argument("--path", default="")
+    fx.add_argument("--en", required=True, help="fragment of the EN text identifying the line")
+    fx.add_argument("--speaker", default=None)
+    fx.add_argument("--uk", required=True)
     a = ap.parse_args()
-    return {"next": cmd_next, "apply": cmd_apply, "stats": cmd_stats}[a.cmd](a)
+    return {"next": cmd_next, "apply": cmd_apply, "stats": cmd_stats, "fix": cmd_fix}[a.cmd](a)
 
 
 if __name__ == "__main__":
