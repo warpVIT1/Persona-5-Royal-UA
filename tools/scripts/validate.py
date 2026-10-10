@@ -67,11 +67,15 @@ class Glossary:
             self.rx = None
             return
         common = set()
-        lc = ROOT / "strings_en/_all.csv"
-        if lc.exists():
+        lc, cache = ROOT / "strings_en/_all.csv", ROOT / "work/common_words.json"
+        if cache.exists():
+            common = set(json.loads(cache.read_text(encoding="utf-8")))
+        elif lc.exists():
             words = re.findall(r"\b[a-z][a-z'’]+\b", lc.read_text(encoding="utf-8-sig"))
             from collections import Counter
             common = {w for w, c in Counter(words).items() if c > 20}
+            cache.parent.mkdir(exist_ok=True)
+            cache.write_text(json.dumps(sorted(common)), encoding="utf-8")
         with open(path, encoding="utf-8-sig") as f:
             for r in csv.DictReader(f):
                 en, uk = r["en"], r["uk"]

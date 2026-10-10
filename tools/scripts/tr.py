@@ -133,4 +133,18 @@ def cmd_stats(a):
 
 def main():
     ap = argparse.ArgumentParser()
-    sub = ap.add_subparsers(
+    sub = ap.add_subparsers(dest="cmd", required=True)
+    n = sub.add_parser("next")
+    n.add_argument("--path", default="")
+    n.add_argument("--n", type=int, default=80)
+    ap_ = sub.add_parser("apply")
+    ap_.add_argument("answers")
+    ap_.add_argument("--force", action="store_true", help="write lines even if they have errors")
+    s = sub.add_parser("stats")
+    s.add_argument("--path", default="")
+    a = ap.parse_args()
+    return {"next": cmd_next, "apply": cmd_apply, "stats": cmd_stats}[a.cmd](a)
+
+
+if __name__ == "__main__":
+    sys.exit(main() or 0)
