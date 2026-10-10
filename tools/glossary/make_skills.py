@@ -790,10 +790,15 @@ Ailment Up (Low)	Шанс станів+ (низ.)
 
 
 def main():
+    # every skill-type candidate, except approved rows and hand-written ones in proposals.tsv
+    # (selecting by status would make reruns see their own output as "proposed" and skip it)
+    with open(ROOT / "tools/glossary/proposals.tsv", encoding="utf-8") as f:
+        main_prop = {l.split("\t", 1)[0] for l in f if l.strip() and not l.startswith("#")}
     todo = []
     with open(ROOT / "glossary.csv", encoding="utf-8-sig") as f:
         for r in csv.DictReader(f):
-            if r["status"] == "todo" and r["category"] in ("skill", "skill_alt", "skill_card"):
+            if (r["category"] in ("skill", "skill_alt", "skill_card") and r["status"] != "approved"
+                    and r["en"] not in main_prop):
                 todo.append(r)
     manual = dict(l.split("\t", 1) for l in MANUAL.strip().splitlines())
     out, missing = [], []
