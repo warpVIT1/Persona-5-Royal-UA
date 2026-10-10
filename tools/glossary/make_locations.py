@@ -236,7 +236,7 @@ Roof	Дах
 Rooftop	Дах
 Roppongi	Роппонгі
 Royal Cabin	Королівська каюта
-SIU Director's Office	Кабінет директора ОСР
+SIU Director's Office	Кабінет директора ВСР
 SP Exhibition Room	Спецвиставкова зала
 School	Школа
 School Building	Шкільна будівля

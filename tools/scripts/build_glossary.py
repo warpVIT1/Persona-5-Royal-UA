@@ -3,6 +3,7 @@
 glossary.csv columns:
   en, uk, alternatives, category, count, source, note, status
 status: proposed (my suggestion) | approved (set by the project owner) | todo (no proposal yet)
+        | text (role names, tutorial titles: translated in context with the dialogue, stage 4)
 
 Rows already marked `approved` in an existing glossary.csv are kept untouched (uk/alternatives/note),
 so the owner's decisions survive a rebuild. Sorted by category priority, then frequency.
@@ -44,7 +45,9 @@ def main():
         cat = p["category"] if p else (cats[0] if cats else "term")
         row = dict(en=en, uk=p["uk"] if p else "", alternatives=p["alternatives"] if p else "",
                    category=cat, count=c.get("count", ""), source=c.get("source", "proposals"),
-                   note=p["note"] if p else "", status="proposed" if p else "todo")
+                   note=p["note"] if p else "",
+                   # a proposal with empty uk = "translate in context with the dialogue (stage 4)"
+                   status=("text" if not p["uk"] else "proposed") if p else "todo")
         o = old.get(en)
         if o and o.get("status") == "approved":
             row.update(uk=o["uk"], alternatives=o["alternatives"], note=o["note"], status="approved")
