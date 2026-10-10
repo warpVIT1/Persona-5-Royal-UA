@@ -12,10 +12,17 @@ python tools/scripts/make_cyr_font.py
 cp work/font/ukr/P5R_UKR.tsv tools/bin/AtlusScriptCompiler/Charsets/
 
 python tools/scripts/import_strings.py --path EN/EVENT_DATA/MESSAGE/E100/E100_002
-rm -rf "$MOD"; mkdir -p "$CPK/FONT" "$CPK/EVENT_DATA/MESSAGE/E100" work/poc
+python tools/scripts/import_strings.py --path EN/SCRIPT/FIELD/FSCR0150
+rm -rf "$MOD" work/poc; mkdir -p "$CPK/FONT" "$CPK/EVENT_DATA/MESSAGE/E100" "$CPK/SCRIPT/FIELD" work/poc
 cp translated/EN/EVENT_DATA/MESSAGE/E100/E100_002.BMD.msg work/poc/
 (cd work/poc && "../../$C" E100_002.BMD.msg -Compile -OutFormat V1BE -Library P5R -Encoding P5R_UKR -Out E100_002.BMD > /dev/null)
 cp work/poc/E100_002.BMD "$CPK/EVENT_DATA/MESSAGE/E100/"
+# casino prologue field scripts (first lines of a new game): flow + Ukrainian msg -> BF
+for b in FSCR0150_002_100 FSCR0150_002_110 FSCR0150_002_120 FSCR0150_003_100; do
+  cp translated/EN/SCRIPT/FIELD/$b.BF.flow translated/EN/SCRIPT/FIELD/$b.BF.msg translated/EN/SCRIPT/FIELD/$b.BF.msg.h work/poc/
+  (cd work/poc && "../../$C" $b.BF.flow -Compile -OutFormat V3BE -Library P5R -Encoding P5R_UKR -Out $b.BF > /dev/null)
+  cp work/poc/$b.BF "$CPK/SCRIPT/FIELD/"
+done
 cp work/font/FONT0_UKR.FNT "$CPK/FONT/FONT0.FNT"
 cp tools/mod/ModConfig.template.json "$MOD/ModConfig.json"
 find "$MOD" -type f -printf "%s\t%p\n"
