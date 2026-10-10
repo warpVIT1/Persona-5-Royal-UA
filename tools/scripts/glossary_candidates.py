@@ -56,8 +56,14 @@ def table_terms():
         d = (EN / rel).read_bytes()
         for m in re.finditer(rb"(?<=\0)[A-Z][A-Za-z0-9 '\-.&]{2,40}(?=\0)", d):
             s = m.group().decode()
-            # names only: short, title-cased, no sentence punctuation
-            if len(s.split()) <= 5 and not s.endswith(".") and not JUNK.search(s):
+            # names only: short, title-cased words (function words aside), no sentence fragments,
+            # no length-byte artefacts glued to the front ("HChurch", "ERide Train", "CNULL")
+            words = s.split()
+            small = {"of", "the", "to", "and", "on", "a", "in", "with", "for", "is", "at"}
+            if (len(words) <= 5 and not s.endswith(".") and not JUNK.search(s)
+                    and not re.match(r"^[A-Z][A-Z][a-z]|^[A-Z]NULL$|^FTD0$", s)
+                    and all(w[0].isupper() or w in small or not w[0].isalpha() for w in words)
+                    and words[-1] not in small):
                 out.append((s, cat, Path(rel).name))
     return out
 

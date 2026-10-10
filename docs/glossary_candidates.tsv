@@ -137,7 +137,6 @@ Bang	term?	corpus	161
 Big Bang	term?	corpus	159
 Yongen	term?	corpus	157
 Critical	term?	corpus	155
-Never mind	location	FLDWHOLEMAPTABLE.FTD	152
 Skull	npc,speaker	FLDNPCNAME.FTD,speaker×3	152
 Cancel	location	FLDWHOLEMAPTABLE.FTD	146
 Central	term?	corpus	140
@@ -1673,7 +1672,6 @@ Yasuo Jochi	speaker	speaker×10	1
 Yellow Girl	ranged_weapon	NAME.TBL	1
 Yoshihito Wakasa	speaker	speaker×5	1
 Yoshimori Sakoda	speaker	speaker×6	1
-You'll become	location	FLDLMAPSTATION.FTD	1
 Yusei Arita	speaker	speaker×8	1
 Zaou-Gongen	persona	NAME.TBL	1
 Zenith Defense	skill,skill_alt,skill_card	NAME.TBL	1
@@ -2211,7 +2209,6 @@ Busy-Looking Young Man	npc,speaker	FLDNPCNAME.FTD,speaker×25	0
 Butler Suit	outfit	NAME.TBL	0
 Byakhee	persona	NAME.TBL	0
 Byakko	persona	NAME.TBL	0
-CNULL	location	FLDWHOLEMAPTABLE.FTD	0
 CRT Television	consumable	NAME.TBL	0
 Cadenza	skill,skill_alt	NAME.TBL	0
 Caffeine Patch	accessory	NAME.TBL	0
@@ -2445,7 +2442,6 @@ Cosmetics Shop Clerk	speaker	speaker×3	0
 Cosmic Sword	melee_weapon	NAME.TBL	0
 Cosmic Undies	armor	NAME.TBL	0
 Country Maker	trait	NAME.TBL	0
-Couples often ride	location	FLDLMAPSTATION.FTD	0
 Courthouse	location	FLDPLACENAME.FTD	0
 Courtroom	location	FLDPLACENAME.FTD	0
 Covertizer	consumable	NAME.TBL	0
@@ -2749,7 +2745,6 @@ Dry Ice	skill,skill_alt,consumable	NAME.TBL	0
 Dryer	field_check	FLDCHECKNAME.FTD	0
 Duck-Faced Student	speaker	speaker×16	0
 Duct	field_check	FLDDNGCHECKNAME.FTD	0
-Due to the nearby TV	location	FLDLMAPSTATION.FTD	0
 Duke's Coat	armor	NAME.TBL	0
 Dull Student	speaker	speaker×4	0
 Dull Sword	material	NAME.TBL	0
@@ -2759,8 +2754,6 @@ Dungeon Battle Commands	speaker	speaker×3	0
 Durian Au Lait	consumable	NAME.TBL	0
 Dust Flurry	skill,skill_alt	NAME.TBL	0
 Dyed Handkerchief	key_item	NAME.TBL	0
-ENULL	location	FLDWHOLEMAPTABLE.FTD	0
-ERide Train	location	FLDWHOLEMAPTABLE.FTD	0
 EX Kamoshida Color Change	enemy	NAME.TBL	0
 Earl Green	consumable	NAME.TBL	0
 Earmuffs	key_item	NAME.TBL	0
@@ -2842,7 +2835,6 @@ Escape Point	field_check	FLDDNGCHECKNAME.FTD	0
 Essence of Fishing	consumable	NAME.TBL	0
 Eternal Light	skill,skill_alt	NAME.TBL	0
 Eternal Radiance	skill	NAME.TBL	0
-Even if you're not old	location	FLDLMAPSTATION.FTD	0
 Ever-Late Student	speaker	speaker×3	0
 Evil Snow Crystal	key_item	NAME.TBL	0
 Evil Snowman	enemy	NAME.TBL	0
@@ -2874,7 +2866,6 @@ Explosive Scheme	trait	NAME.TBL	0
 Expressionless Beast	enemy	NAME.TBL	0
 Expressionless Man	npc	FLDNPCNAME.FTD	0
 Extremely Vulgar Man	speaker	speaker×14	0
-FTD0	location	FLDWHOLEMAPTABLE.FTD,FLDLMAPSTATION.FTD,FLDSAVEDATAPLACE.FTD	0
 Face Beautifier	consumable	NAME.TBL	0
 Factorization Guide	consumable	NAME.TBL	0
 Factory Announcement	speaker	speaker×7	0
@@ -3097,7 +3088,6 @@ Gentle-Looking Mother	speaker	speaker×45	0
 Get Cultured in Art	location	FLDLMAPSTATION.FTD	0
 Get In the Car	field_check	FLDDNGCHECKNAME.FTD	0
 Get Out of the Car	field_check	FLDDNGCHECKNAME.FTD	0
-Get away from the	location	FLDLMAPSTATION.FTD	0
 Ghillie Vest	armor	NAME.TBL	0
 Ghost Encounters	consumable	NAME.TBL	0
 Ghost Nest	trait	NAME.TBL	0
@@ -3243,17 +3233,9 @@ Gyaru Part-Timer	speaker	speaker×3	0
 Gymnasium	field_check,location	FLDCHECKNAME.FTD,FLDPLACENAME.FTD	0
 Gymnastics Baton	key_item	NAME.TBL	0
 H. Renhappou	ranged_weapon	NAME.TBL	0
-HAoyama-Itchome Station Platform	location	FLDWHOLEMAPTABLE.FTD	0
-HBackstreets	location	FLDWHOLEMAPTABLE.FTD	0
-HChurch	location	FLDWHOLEMAPTABLE.FTD	0
-HElectric Town	location	FLDWHOLEMAPTABLE.FTD	0
-HNULL	location	FLDWHOLEMAPTABLE.FTD	0
 HP Cost 0	skill_alt	NAME.TBL	0
 HP Cost Down 10%	skill	NAME.TBL	0
 HP Cost Down 25%	skill	NAME.TBL	0
-HPromenade	location	FLDWHOLEMAPTABLE.FTD	0
-HRed-light District	location	FLDWHOLEMAPTABLE.FTD	0
-HSchool Gate	location	FLDWHOLEMAPTABLE.FTD	0
 Hades Harp	accessory	NAME.TBL	0
 Hades Harp R	accessory	NAME.TBL	0
 Hairpin	accessory	NAME.TBL	0
@@ -3292,7 +3274,6 @@ Haru's Candy	consumable	NAME.TBL	0
 Haru's Chocolate	consumable	NAME.TBL	0
 Haru's Fiancé	enemy,speaker	NAME.TBL,speaker×20	0
 Haru's Giri-Choco	consumable	NAME.TBL	0
-Has a reputation	location	FLDLMAPSTATION.FTD	0
 Hassou Tobi	skill,skill_alt,skill_card	NAME.TBL	0
 Hassou Tobi Belt	accessory	NAME.TBL	0
 Hat	key_item	NAME.TBL	0
@@ -3561,9 +3542,7 @@ Irritated Female Student	speaker	speaker×5	0
 Irritated Mother	speaker	speaker×5	0
 Irritated Promoter	npc,speaker	FLDNPCNAME.FTD,speaker×6	0
 Irritated Student	speaker	speaker×3	0
-It's fun for the	location	FLDLMAPSTATION.FTD	0
 Item Distributor	consumable	NAME.TBL	0
-Its hotels make	location	FLDLMAPSTATION.FTD	0
 Ivory Dice	material	NAME.TBL	0
 Iweleth: ???	location	FLDPLACENAME.FTD	0
 Iweleth: Area 1	location	FLDPLACENAME.FTD	0
@@ -3890,7 +3869,6 @@ Magician Bowtie	material	NAME.TBL	0
 Magnetic Necklace	accessory	NAME.TBL	0
 Magneto Coil	consumable	NAME.TBL	0
 Maid Uniform	outfit	NAME.TBL	0
-Maihama was named	location	FLDLMAPSTATION.FTD	0
 Maillot	armor	NAME.TBL	0
 Main Assembly Hall Door	field_check	FLDDNGCHECKNAME.FTD	0
 Main Treasure Hall	location	FLDPLACENAME.FTD	0
@@ -3953,7 +3931,6 @@ Manifest Gun	skill,skill_alt	NAME.TBL	0
 Manifest Sword	skill,skill_alt	NAME.TBL	0
 Manjuu Shop	field_check	FLDCHECKNAME.FTD	0
 Manta	consumable	NAME.TBL	0
-Many famous paintings	location	FLDLMAPSTATION.FTD	0
 Mapsi Ball	skill,skill_alt	NAME.TBL	0
 Marakukaja Soda	movie	FLDSCRIPTNAME.FTD	0
 Marakunda Soda	movie	FLDSCRIPTNAME.FTD	0
@@ -4171,7 +4148,6 @@ Mysterious Voice	speaker	speaker×94	0
 Mystic Ring	accessory	NAME.TBL	0
 Mythical Scarf	armor	NAME.TBL	0
 NOT USED	skill	NAME.TBL	0
-Nakamise-dori is a hit	location	FLDLMAPSTATION.FTD	0
 Nakano Walker	consumable	NAME.TBL	0
 Nameplate	field_check	FLDCHECKNAME.FTD	0
 Naraka Whip	melee_weapon	NAME.TBL	0
@@ -4323,7 +4299,6 @@ Old Videotape	key_item	NAME.TBL	0
 Old Wild Lion Scarf	armor	NAME.TBL	0
 Old Witch's Robe	armor	NAME.TBL	0
 Old Woman	speaker	speaker×3	0
-Old books piled high	location	FLDLMAPSTATION.FTD	0
 Older Detective	speaker	speaker×20	0
 Older Employee	speaker	speaker×3	0
 Older Female Teacher	speaker	speaker×3	0
@@ -4527,7 +4502,6 @@ Politician Ooe	speaker	speaker×3	0
 Pompous Customer	npc,speaker	FLDNPCNAME.FTD,speaker×111	0
 Pompous Male Customer	speaker	speaker×3	0
 Popcorn Bomb	consumable	NAME.TBL	0
-Popular with tourists	location	FLDLMAPSTATION.FTD	0
 Porcelain Teacup	material	NAME.TBL	0
 Portable Battery	accessory	NAME.TBL	0
 Positive Thoughts	trait	NAME.TBL	0
@@ -5207,7 +5181,6 @@ Sojiro's Chocolate	consumable	NAME.TBL	0
 Sojiro's Voice	speaker	speaker×4	0
 Soldier's Voice	speaker	speaker×4	0
 Soma	skill,skill_alt,consumable	NAME.TBL	0
-Some say this beach	location	FLDLMAPSTATION.FTD	0
 Song of Placation	skill,skill_alt	NAME.TBL	0
 Song of Salvation	skill,skill_alt	NAME.TBL	0
 Sonic Blade	melee_weapon	NAME.TBL	0
@@ -5368,7 +5341,6 @@ Static Ring	accessory	NAME.TBL	0
 Station Attendant	npc,speaker	FLDNPCNAME.FTD,speaker×6	0
 Station Exit	location	FLDPLACENAME.FTD	0
 Station Kiosk	field_check	FLDCHECKNAME.FTD	0
-Station to	location	FLDLMAPSTATION.FTD	0
 Stationery Store	field_check	FLDCHECKNAME.FTD	0
 Stationery Store Employee	speaker	speaker×3	0
 Steak Shop	field_check	FLDCHECKNAME.FTD	0
@@ -5518,7 +5490,6 @@ Takase's Male Relative	speaker	speaker×11	0
 Take Elevator Down	field_action	FLDACTIONNAME.FTD	0
 Take Elevator Up	field_action	FLDACTIONNAME.FTD	0
 Take Will Seed	field_action	FLDACTIONNAME.FTD	0
-Take a walk through	location	FLDLMAPSTATION.FTD	0
 Take-Minakata	persona	NAME.TBL	0
 Takemedic	consumable	NAME.TBL	0
 Takemedic-All	consumable	NAME.TBL	0
@@ -5584,7 +5555,6 @@ The Blackened Bloom	enemy	NAME.TBL	0
 The Blackened Fury	enemy	NAME.TBL	0
 The End of the Phantom Thieves...?	speaker	speaker×8	0
 The Fader	consumable	NAME.TBL	0
-The Ferris wheel by	location	FLDLMAPSTATION.FTD	0
 The Fifth Heist: Okumura	speaker	speaker×8	0
 The Final Heist	speaker	speaker×9	0
 The First Heist: Kamoshida	speaker	speaker×9	0
@@ -5605,12 +5575,6 @@ The Sixth Heist: Sae	speaker	speaker×3	0
 The Thieves Guild	speaker	speaker×3	0
 The Third Heist: Kaneshiro	speaker	speaker×7	0
 The Victory Cup	accessory	NAME.TBL	0
-The busiest New Year	location	FLDLMAPSTATION.FTD	0
-The deep flavor of	location	FLDLMAPSTATION.FTD	0
-The planetarium atop	location	FLDLMAPSTATION.FTD	0
-The pond beside the	location	FLDLMAPSTATION.FTD	0
-The unique styles on	location	FLDLMAPSTATION.FTD	0
-The world's largest	location	FLDLMAPSTATION.FTD	0
 Theme Park Escort	consumable	NAME.TBL	0
 Thermal Conduct	trait	NAME.TBL	0
 Thick Parchment	consumable	NAME.TBL	0
@@ -5629,7 +5593,6 @@ Third-Year Girl	speaker	speaker×3	0
 Third-Year Group Leader	speaker	speaker×3	0
 Third-Year Guy	speaker	speaker×3	0
 Thoth	enemy,persona	NAME.TBL	0
-Though known as a prep	location	FLDLMAPSTATION.FTD	0
 Thrill Ride Passengers	speaker	speaker×3	0
 Throbbing King of Desire	enemy	NAME.TBL	0
 Thuggish Man	speaker	speaker×10	0
@@ -5732,9 +5695,7 @@ True Fake	skill	NAME.TBL	0
 True Masayoshi Samael Shido	enemy	NAME.TBL	0
 Truffles	consumable	NAME.TBL	0
 Trumpeter	persona	NAME.TBL	0
-Try out the curry at	location	FLDLMAPSTATION.FTD	0
 Tsukiji	location	FLDPLACENAME.FTD	0
-Tsukishima's famous	location	FLDLMAPSTATION.FTD	0
 Tsukiyomi Picaro	persona	NAME.TBL	0
 Turquoise	material	NAME.TBL	0
 Turtleneck	armor	NAME.TBL	0
@@ -5880,7 +5841,6 @@ Waiter	npc,speaker	FLDNPCNAME.FTD,speaker×14	0
 Waiting Businessman	npc	FLDNPCNAME.FTD	0
 Waitress	speaker	speaker×11	0
 Wakizashi	melee_weapon	NAME.TBL	0
-Walking the same	location	FLDLMAPSTATION.FTD	0
 Wall Break Charm	accessory	NAME.TBL	0
 Wall with Chains	field_check	FLDDNGCHECKNAME.FTD	0
 Wall...?	field_check	FLDDNGCHECKNAME.FTD	0
@@ -5897,7 +5857,6 @@ Warrior Whip	melee_weapon	NAME.TBL	0
 Washing Machine	field_check	FLDCHECKNAME.FTD	0
 Watch Movie	field_check	FLDCHECKNAME.FTD	0
 Watch Shop	field_check	FLDCHECKNAME.FTD	0
-Watch alone	location	FLDWHOLEMAPTABLE.FTD	0
 Water Crown	armor	NAME.TBL	0
 Water of Rebirth	consumable	NAME.TBL	0
 Watercolor Postcard	consumable	NAME.TBL	0
