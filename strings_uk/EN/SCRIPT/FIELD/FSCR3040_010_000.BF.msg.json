@@ -5,154 +5,154 @@
    "id": "MSG_CD_HELP_01#0",
    "speaker": null,
    "en": "Stop current CD",
-   "uk": "",
+   "uk": "Зупинити поточний диск",
    "note": ""
   },
   {
    "id": "MSG_CD_Access_1ST#0",
    "speaker": "Morgana",
    "en": "Now we can listen to CDs!",
-   "uk": "",
+   "uk": "Тепер ми можемо слухати диски!",
    "note": ""
   },
   {
    "id": "MND_CD_Access_1ST#0",
    "speaker": null,
    "en": "With this, now I can listen to CDs.",
-   "uk": "",
+   "uk": "Тепер я можу слухати диски.",
    "note": ""
   },
   {
    "id": "MSG_CD_Start#0",
    "speaker": "Morgana",
    "en": "What CD are you going to play?",
-   "uk": "",
+   "uk": "Який диск увімкнеш?",
    "note": ""
   },
   {
    "id": "MND_CD_Start#0",
    "speaker": null,
    "en": "Which CD should I play?",
-   "uk": "",
+   "uk": "Який диск увімкнути?",
    "note": ""
   },
   {
    "id": "MND_CD_SelectMiss#0",
    "speaker": null,
    "en": "This one's already playing.",
-   "uk": "",
+   "uk": "Цей диск уже грає.",
    "note": ""
   },
   {
    "id": "MSG_CD_ChangeThink#0",
    "speaker": "Morgana",
    "en": "What do you want to do? Did you[n]want to play a different CD?",
-   "uk": "",
+   "uk": "Що робитимеш?[n]Хочеш увімкнути інший диск?",
    "note": ""
   },
   {
    "id": "SEL_CD_ChangeThink#0",
    "speaker": null,
    "en": "Let's change CDs.",
-   "uk": "",
+   "uk": "Поміняймо диск.",
    "note": ""
   },
   {
    "id": "SEL_CD_ChangeThink#1",
    "speaker": null,
    "en": "Let's turn this off.",
-   "uk": "",
+   "uk": "Вимкнімо його.",
    "note": ""
   },
   {
    "id": "SEL_CD_ChangeThink#2",
    "speaker": null,
    "en": "Let's keep this one on.",
-   "uk": "",
+   "uk": "Хай грає цей.",
    "note": ""
   },
   {
    "id": "MSG_CD_Cancel_NotPlayCD#0",
    "speaker": "Morgana",
    "en": "Wait, you're not going to play any CDs?",
-   "uk": "",
+   "uk": "Стривай, ти не вмикатимеш жодного диска?",
    "note": ""
   },
   {
    "id": "MSG_CD_Cancel_PlayCD#0",
    "speaker": "Morgana",
    "en": "Oh, you're not going to change it?",
-   "uk": "",
+   "uk": "О, то ти не мінятимеш його?",
    "note": ""
   },
   {
    "id": "SEL_MGK_CD_START#0",
    "speaker": null,
    "en": "Stop CD[ref 0 0]",
-   "uk": "",
+   "uk": "Зупинити диск[ref 0 0]",
    "note": ""
   },
   {
    "id": "SEL_MGK_CD_START#1",
    "speaker": null,
    "en": " [var 0][ref 1 1]",
-   "uk": "",
+   "uk": " [var 0][ref 1 1]",
    "note": ""
   },
   {
    "id": "SEL_MGK_CD_START#2",
    "speaker": null,
    "en": " [var 1][ref 2 2]",
-   "uk": "",
+   "uk": " [var 1][ref 2 2]",
    "note": ""
   },
   {
    "id": "SEL_MGK_CD_START#3",
    "speaker": null,
    "en": " [var 2][ref 3 3]",
-   "uk": "",
+   "uk": " [var 2][ref 3 3]",
    "note": ""
   },
   {
    "id": "MSG_PrePlay_Think#0",
    "speaker": "Morgana",
    "en": "Hm... You want to play this CD?",
-   "uk": "",
+   "uk": "Гм... Хочеш увімкнути цей диск?",
    "note": ""
   },
   {
    "id": "SEL_PrePlay_Think#0",
    "speaker": null,
    "en": "Let's play this CD.",
-   "uk": "",
+   "uk": "Увімкнімо цей диск.",
    "note": ""
   },
   {
    "id": "SEL_PrePlay_Think#1",
    "speaker": null,
    "en": "I'll pick a different song.",
-   "uk": "",
+   "uk": "Виберу іншу пісню.",
    "note": ""
   },
   {
    "id": "MSG_NowCD_Equal#0",
    "speaker": "Morgana",
    "en": "That's what you're playing right now,[n]though.",
-   "uk": "",
+   "uk": "Але ж він у тебе зараз і грає.",
    "note": ""
   },
   {
    "id": "MSG_CDNotHave#0",
    "speaker": "Morgana",
    "en": "You don't have any CDs... I guess you'll[n]just have to buy some somewhere.",
-   "uk": "",
+   "uk": "У тебе немає жодного диска... Мабуть,[n]доведеться десь їх купити.",
    "note": ""
   },
   {
    "id": "MND_CDNotHave#0",
    "speaker": null,
    "en": "I don't have any CDs.[n]I should go buy some.",
-   "uk": "",
+   "uk": "У мене немає дисків.[n]Треба піти й купити.",
    "note": ""
   }
  ]
