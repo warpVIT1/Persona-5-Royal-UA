@@ -98,12 +98,18 @@ class Glossary:
 
 
 GLOSSARY = None
+DEFAULT_CHARSET = None
 
 
 def check_pair(en, uk, max_line=None, charset=None, where="", window=None, glossary=None):
-    global GLOSSARY
+    global GLOSSARY, DEFAULT_CHARSET
     if glossary is None and GLOSSARY is None:
         GLOSSARY = Glossary()
+    if charset is None:
+        if DEFAULT_CHARSET is None:
+            cs = ROOT / "work/font/ukr/P5R_UKR.tsv"
+            DEFAULT_CHARSET = load_charset(cs) if cs.exists() else set()
+        charset = DEFAULT_CHARSET or None
     errs, warns = [], []
     e = syntax_errors(uk)
     if e:

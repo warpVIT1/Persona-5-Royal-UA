@@ -199,6 +199,7 @@ def cmd_apply(a):
             errs.append(f"#{k}: not in this agent's batch")
             continue
         b = batch[k]
+        uk = M.sanitize(uk)
         e, w = V.check_pair(b["en"], uk, where=f"#{k} {b['file']}:{b['id']}", window=tuple(b["lim"]))
         errs += e
         warns += w
@@ -248,6 +249,7 @@ def cmd_fix(a):
             print(f"  [{sp}] {rel}:{i}  {en[:70]!r}")
         return 1
     (en, sp), (rel, i, lim, old) = next(iter(hits.items()))
+    a.uk = M.sanitize(a.uk)
     errs, warns = V.check_pair(en, a.uk, where=f"{rel}:{i}", window=tuple(lim))
     for x in errs:
         print("ERROR", x)

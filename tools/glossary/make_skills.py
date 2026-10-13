@@ -76,8 +76,8 @@ def pattern(en):
 
 NUMBERED = {
     "Magic Up": "Магія+", "Phys Up": "Фізична сила+", "Ailment Up": "Шанс станів+", "Ailment Multiplier": "Множник станів",
-    "Ambush Up": "Засідка+", "Baton Pass Up": "Естафета+", "Crit Atk Up": "Крит. атака+", "Magic Atk Cost": "Маг. витрати−",
-    "Phys HP Cost": "Фіз. витрати ОЗ−", "SP Recovery": "Відновлення ОД", "Single-Target Up": "Одна ціль+",
+    "Ambush Up": "Засідка+", "Baton Pass Up": "Естафета+", "Crit Atk Up": "Крит. атака+", "Magic Atk Cost": "Маг. витрати-",
+    "Phys HP Cost": "Фіз. витрати ОЗ-", "SP Recovery": "Відновлення ОД", "Single-Target Up": "Одна ціль+",
     "Mult-Target Up": "Кілька цілей+", "Member 1 Pursue Up": "Переслідування: учасник 1",
     "Down Shot": "Постріл зі збиттям", "Growth": "Зростання", "Regenerate": "Регенерація", "Invigorate": "Бадьорість",
     "Support Plus": "Підтримка+", "All-out Lv": "Загальна атака, рів.", "Drug Store": "Аптека",
@@ -92,7 +92,7 @@ MANUAL = """
 100% Crit, 0% Evade	100% крит, 0% ухилення
 200% Damage	200% шкоди
 200% Phys, 50% Hit	200% фіз., 50% влучання
-ATK Up, Aim Down	Атака+, влучність−
+ATK Up, Aim Down	Атака+, влучність-
 Abysmal Surge	Безодня, що здіймається
 Abyssal Eye	Око безодні
 Abyssal Wings	Крила безодні
@@ -336,21 +336,21 @@ Guiding Tendril	Провідний пагін
 Guillotine Punishment	Кара гільйотиною
 Gun Accuracy +5%	Влучність вогн. +5%
 Gunfire Punishment	Кара пострілами
-HP Cost -10%	Витрати ОЗ −10%
-HP Cost -25%	Витрати ОЗ −25%
+HP Cost -10%	Витрати ОЗ -10%
+HP Cost -25%	Витрати ОЗ -25%
 HP Cost 0	Витрати ОЗ 0
-HP Cost Down 10%	Витрати ОЗ −10%
-HP Cost Down 25%	Витрати ОЗ −25%
+HP Cost Down 10%	Витрати ОЗ -10%
+HP Cost Down 25%	Витрати ОЗ -25%
 Hama	Хама
 Hamaon	Хамаон
 Handgun	Пістолет
 Harisen Recovery	Відновлення харісеном
 Hassou Tobi	Хассо-тобі
 Headbutt	Удар головою
-Heal Cost -10%	Витрати на лікування −10%
-Heal Cost -25%	Витрати на лікування −25%
-Heal Cost Down 10%	Витрати на лікування −10%
-Heal Cost Down 25%	Витрати на лікування −25%
+Heal Cost -10%	Витрати на лікування -10%
+Heal Cost -25%	Витрати на лікування -25%
+Heal Cost Down 10%	Витрати на лікування -10%
+Heal Cost Down 25%	Витрати на лікування -25%
 Heal Enemy	Лікування ворога
 Heal Magic +10%	Лікувальна магія +10%
 Heal Magic +25%	Лікувальна магія +25%
@@ -592,11 +592,11 @@ Roulette: Money	Рулетка: гроші
 Roulette: SP	Рулетка: ОД
 Royal Jelly	Маточне молочко
 Royal Wing Beam	Королівський промінь крил
-SP Cost -10%	Витрати ОД −10%
-SP Cost -25%	Витрати ОД −25%
+SP Cost -10%	Витрати ОД -10%
+SP Cost -25%	Витрати ОД -25%
 SP Cost 0	Витрати ОД 0
-SP Cost Down 10%	Витрати ОД −10%
-SP Cost Down 25%	Витрати ОД −25%
+SP Cost Down 10%	Витрати ОД -10%
+SP Cost Down 25%	Витрати ОД -25%
 Sacrifice Order	Наказ жертви
 Salvation	Спасіння
 Samsara	Сансара
@@ -762,18 +762,18 @@ Work Order	Робоче замовлення
 Wrath of God	Гнів божий
 Yashichi	Ясіті
 Zenith Defense	Зеніт захисту
-Attack Cost (High)	Витрати на атаку− (вис.)
-Attack Cost (Low)	Витрати на атаку− (низ.)
-Attack Cost (Mid)	Витрати на атаку− (сер.)
-Heal Cost (High)	Витрати на лікування− (вис.)
-Heal Cost (Low)	Витрати на лікування− (низ.)
-Heal Cost (Mid)	Витрати на лікування− (сер.)
-Magic Cost (High)	Маг. витрати− (вис.)
-Magic Cost (Low)	Маг. витрати− (низ.)
-Magic Cost (Mid)	Маг. витрати− (сер.)
-Phys Cost (High)	Фіз. витрати− (вис.)
-Phys Cost (Low)	Фіз. витрати− (низ.)
-Phys Cost (Mid)	Фіз. витрати− (сер.)
+Attack Cost (High)	Витрати на атаку- (вис.)
+Attack Cost (Low)	Витрати на атаку- (низ.)
+Attack Cost (Mid)	Витрати на атаку- (сер.)
+Heal Cost (High)	Витрати на лікування- (вис.)
+Heal Cost (Low)	Витрати на лікування- (низ.)
+Heal Cost (Mid)	Витрати на лікування- (сер.)
+Magic Cost (High)	Маг. витрати- (вис.)
+Magic Cost (Low)	Маг. витрати- (низ.)
+Magic Cost (Mid)	Маг. витрати- (сер.)
+Phys Cost (High)	Фіз. витрати- (вис.)
+Phys Cost (Low)	Фіз. витрати- (низ.)
+Phys Cost (Mid)	Фіз. витрати- (сер.)
 Flame Magatama	Магатама полум'я
 Bolt Magatama	Магатама блискавки
 Freeze Magatama	Магатама холоду

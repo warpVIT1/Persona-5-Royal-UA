@@ -147,6 +147,17 @@ def write(dialogs):
     return "\n".join(out)
 
 
+# Characters translators tend to type that the game font does not have -> closest supported one.
+SANITIZE = {"−": "-", "’": "'", "ʼ": "'", "‘": "'", "“": '"', "”": '"',
+            "„": '"', " ": " ", "‑": "-", "№": "No."}
+
+
+def sanitize(s):
+    for a, b in SANITIZE.items():
+        s = s.replace(a, b)
+    return s
+
+
 def codes(s, include_layout=False):
     """Multiset of codes in a string ([n] excluded unless include_layout)."""
     return Counter(t[1] for t in tokenize(s) if t[0] == "code" and (include_layout or t[2] not in LAYOUT_CODES))

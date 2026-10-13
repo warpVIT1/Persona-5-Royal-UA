@@ -23,6 +23,9 @@ import tempfile
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).parent))
+import msgfmt as M  # noqa: E402
+
 ROOT = Path(__file__).resolve().parents[2]
 COMPILER = ROOT / "tools/bin/AtlusScriptCompiler/AtlusScriptCompiler.exe"
 SRC, TR = ROOT / "source_en", ROOT / "translated"
@@ -67,6 +70,8 @@ def compile_one(rel):
         tmp = Path(tmp)
         for f in msg.parent.glob(name + ".*"):
             shutil.copy(f, tmp / f.name)
+        m = tmp / msg.name   # the game font lacks some typographic characters
+        m.write_text(M.sanitize(m.read_text(encoding="utf-8-sig")), encoding="utf-8")
         if is_bf:
             args = [str(COMPILER), flow.name, "-Compile", "-OutFormat", "V3BE", *COMMON, "-Out", name]
         else:
@@ -92,6 +97,7 @@ def main():
     ap.add_argument("--jobs", type=int, default=16)
     ap.add_argument("--skip-import", action="store_true")
     ap.add_argument("--path", default="EN")
+    ap.add_argument("--keep", action="store_true", help="do not wipe the mod folder (rebuild a subset)")
     a = ap.parse_args()
 
     font = ROOT / "work/font/FONT0_UKR.FNT"
@@ -103,9 +109,9 @@ def main():
     if not a.skip_import:
         subprocess.run([sys.executable, str(ROOT / "tools/scripts/import_strings.py")], check=True)
 
-    if MOD.exists():
+    if MOD.exists() and not a.keep:
         shutil.rmtree(MOD)
-    (CPK / "FONT").mkdir(parents=True)
+    (CPK / "FONT").mkdir(parents=True, exist_ok=True)
     shutil.copy(font, CPK / "FONT/FONT0.FNT")
     shutil.copy(ROOT / "tools/mod/ModConfig.template.json", MOD / "ModConfig.json")
 

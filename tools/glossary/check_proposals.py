@@ -6,7 +6,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
-OK_EXTRA = set("«»—–’ʼ…★·−")
+OK_EXTRA = set("«»—–’ʼ…★·-")
 problems = 0
 for f in sorted(glob.glob(str(ROOT / "tools/glossary/proposals*.tsv"))):
     for line in open(f, encoding="utf-8"):
