@@ -19,28 +19,28 @@
    "id": "FCL_PERSONA_LVUP#0",
    "speaker": null,
    "en": "[clr 1][var 0][clr 0] has leveled up!",
-   "uk": "",
+   "uk": "[clr 1][var 0][clr 0]: рівень підвищено!",
    "note": ""
   },
   {
    "id": "FCL_PERSONA_PARAMUP#0",
    "speaker": null,
    "en": "[clr 1][var 0][clr 0]has increased by [clr 1][var 1][clr 0]!",
-   "uk": "",
+   "uk": "[clr 1][var 0][clr 0]: приріст — [clr 1][var 1][clr 0]!",
    "note": ""
   },
   {
    "id": "FCL_PERSONA_GETSKILL#0",
    "speaker": null,
    "en": "[clr 1][var 0][clr 0] learned[n][clr 1][var 1][clr 0]!",
-   "uk": "",
+   "uk": "[clr 1][var 0][clr 0]: вивчено навичку[n][clr 1][var 1][clr 0]!",
    "note": ""
   },
   {
    "id": "FCL_PERSONA_RMSKILL#0",
    "speaker": null,
    "en": "This Persona cannot remember any[n]more skills. Please choose one to[n]forget.",
-   "uk": "",
+   "uk": "Ця Персона не може запам'ятати більше[n]навичок. Оберіть ту, яку слід[n]забути.",
    "note": ""
   },
   {
@@ -54,133 +54,133 @@
    "id": "FCL_PERSONA_RMSKILL0#0",
    "speaker": null,
    "en": "[clr 1][var 0][clr 0] has[n]forgotten[clr 1][var 1][clr 0].",
-   "uk": "",
+   "uk": "[clr 1][var 0][clr 0]: забуто навичку[n][clr 1][var 1][clr 0].",
    "note": ""
   },
   {
    "id": "FCL_PERSONA_RMSKILL1#0",
    "speaker": null,
    "en": "[clr 1][var 1][clr 0] has[n]replaced [clr 1][var 0][clr 0].",
-   "uk": "",
+   "uk": "[clr 1][var 1][clr 0] тепер[n]замість [clr 1][var 0][clr 0].",
    "note": ""
   },
   {
    "id": "FCL_PERSONA_RMSKILL2#0",
    "speaker": null,
    "en": "[clr 1][var 1][clr 0] has[n]upgraded to [clr 1][var 1][clr 0]!",
-   "uk": "",
+   "uk": "[clr 1][var 1][clr 0]: покращено[n]до [clr 1][var 1][clr 0]!",
    "note": ""
   },
   {
    "id": "FCL_PERSONA_SKILLSHIFT#0",
    "speaker": null,
    "en": "...?",
-   "uk": "",
+   "uk": "...?",
    "note": ""
   },
   {
    "id": "FCL_PERSONA_SKILLSHIFT#1",
    "speaker": null,
    "en": "Something is about to happen to[n][clr 1][var 1][clr 0].",
-   "uk": "",
+   "uk": "Щось от-от станеться:[n][clr 1][var 1][clr 0].",
    "note": ""
   },
   {
    "id": "FCL_PERSONA_SKILLSHIFT#2",
    "speaker": null,
    "en": "Will you allow it to continue?",
-   "uk": "",
+   "uk": "Дозволити цьому тривати?",
    "note": ""
   },
   {
    "id": "FCL_PERSONA_SKILLSHIFTCA#0",
    "speaker": null,
    "en": "[clr 1][var 0][clr 0]let out a cry...",
-   "uk": "",
+   "uk": "[clr 1][var 0][clr 0]: лунає крик...",
    "note": ""
   },
   {
    "id": "FCL_PERSONA_SKILLSHIFTCH#0",
    "speaker": null,
    "en": "[clr 1][var 0][clr 0] has powered[n]up to [clr 1][var 1][clr 0]!",
-   "uk": "",
+   "uk": "[clr 1][var 0][clr 0]: посилено[n]до [clr 1][var 1][clr 0]!",
    "note": ""
   },
   {
    "id": "FCL_PERSONA_SKILLSHIFTUP#0",
    "speaker": null,
    "en": "[clr 1][var 0][clr 0] has changed[n]to [clr 1][var 1][clr 0]!",
-   "uk": "",
+   "uk": "[clr 1][var 0][clr 0]: перетворення[n]на [clr 1][var 1][clr 0]!",
    "note": ""
   },
   {
    "id": "FCL_PERSONA_SHIFT#0",
    "speaker": null,
    "en": "[clr 1][var 0][clr 0] is[n]about to produce something.",
-   "uk": "",
+   "uk": "[clr 1][var 0][clr 0]:[n]от-от щось з'явиться.",
    "note": ""
   },
   {
    "id": "FCL_PERSONA_SHIFT#1",
    "speaker": null,
    "en": "Will you allow it to continue?",
-   "uk": "",
+   "uk": "Дозволити цьому тривати?",
    "note": ""
   },
   {
    "id": "FCL_PERSONA_SHIFTCANCEL#0",
    "speaker": null,
    "en": "The signs of change in[n][clr 1][var 0][clr 0]have disappeared.",
-   "uk": "",
+   "uk": "Ознаки змін зникли:[n][clr 1][var 0][clr 0].",
    "note": ""
   },
   {
    "id": "FCL_PERSONA_SHIFT1#0",
    "speaker": null,
    "en": "[clr 1][var 0][clr 0] produced[n][clr 1][var 1][clr 0]!",
-   "uk": "",
+   "uk": "[clr 1][var 0][clr 0] дає предмет:[n][clr 1][var 1][clr 0]!",
    "note": ""
   },
   {
    "id": "FCL_GET_SKILLCARD0#0",
    "speaker": null,
    "en": "...?",
-   "uk": "",
+   "uk": "...?",
    "note": ""
   },
   {
    "id": "FCL_GET_SKILLCARD0#1",
    "speaker": null,
    "en": "[clr 1][var 0][clr 0]gave you something...",
-   "uk": "",
+   "uk": "[clr 1][var 0][clr 0] щось вам дає...",
    "note": ""
   },
   {
    "id": "FCL_GET_SKILLCARD1#0",
    "speaker": null,
    "en": "You obtained the Skill Card[n][clr 1][var 1][clr 0] from[n][clr 1][var 0][clr 0]!",
-   "uk": "",
+   "uk": "Отримано карту навички[n][clr 1][var 1][clr 0]. Її дає[n][clr 1][var 0][clr 0]!",
    "note": ""
   },
   {
    "id": "FCL_SKILLCARD_TUTORIAL#0",
    "speaker": null,
    "en": "Skill Cards are items your Personas[n]can use to learn the skills sealed[n]within the cards.",
-   "uk": "",
+   "uk": "Карти навичок — це предмети, якими[n]Персони можуть вивчати навички,[n]запечатані в картах.",
    "note": ""
   },
   {
    "id": "FCL_SKILLCARD_TUTORIAL#1",
    "speaker": null,
    "en": "A Skill Card will disappear once you[n]use it, but the skill it teaches can[n]be passed down through fusion.",
-   "uk": "",
+   "uk": "Карта навички зникає після[n]використання, але саму навичку можна[n]передати далі через злиття.",
    "note": ""
   },
   {
    "id": "FCL_MOVIE_BONUS#0",
    "speaker": null,
    "en": "Various bonuses were granted[n]by watching the movie!",
-   "uk": "",
+   "uk": "Перегляд фільму дав[n]різноманітні бонуси!",
    "note": ""
   }
  ]
