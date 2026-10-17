@@ -101,7 +101,7 @@ GLOSSARY = None
 DEFAULT_CHARSET = None
 
 
-def check_pair(en, uk, max_line=None, charset=None, where="", window=None, glossary=None):
+def check_pair(en, uk, max_line=None, charset=None, where="", window=None, glossary=None, max_bytes=None):
     global GLOSSARY, DEFAULT_CHARSET
     if glossary is None and GLOSSARY is None:
         GLOSSARY = Glossary()
@@ -142,6 +142,10 @@ def check_pair(en, uk, max_line=None, charset=None, where="", window=None, gloss
         bad = sorted({c for c in M.visible(uk, 0) if c not in charset})
         if bad:
             errs.append(f"{where}: chars not in charset: {''.join(bad)!r}")
+    if max_bytes:   # fixed-size table record: Cyrillic letters take 2 bytes in the game encoding
+        n = sum(1 if ord(c) < 0x80 else 2 for c in uk)
+        if n > max_bytes:
+            errs.append(f"{where}: {n} bytes > table record {max_bytes} (Cyrillic = 2 bytes): {uk!r}")
     return errs, warns
 
 
@@ -174,7 +178,8 @@ def validate_file(uk_path, args, charset):
         if not t.get("uk"):
             continue
         e, w = check_pair(src["text"], t["uk"], args.max_line, charset, where,
-                          window=limit_for(en_data["file"], src["kind"]))
+                          window=limit_for(en_data["file"], src["kind"]),
+                          max_bytes=(src.get("context") or {}).get("bytes") if src["kind"] == "table" else None)
         errs += e
         warns += w
     return errs, warns

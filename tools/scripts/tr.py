@@ -157,7 +157,8 @@ def cmd_next(a):
         d = load_json(p)
         if all(e["uk"] for e in d["entries"]):
             continue
-        kinds = {e["id"]: e["kind"] for e in load_json(EN / rel)["entries"]}
+        en_ents = {e["id"]: e for e in load_json(EN / rel)["entries"]}
+        kinds = {i: e["kind"] for i, e in en_ents.items()}
         ents = d["entries"]
         for i, e in enumerate(ents):
             if e["uk"]:
@@ -168,8 +169,12 @@ def cmd_next(a):
             seen.add(key)
             ctx = [f"{c['speaker'] or '-'}: {c['uk'] or c['en']}" for c in ents[max(0, i - 2):i]]
             kind = kinds.get(e["id"], "msg")
+            lim, nbytes = list(limit_for(d["file"], kind)), None
+            if kind == "table":   # menu/table cell: hard byte limit, Cyrillic = 2 bytes
+                nbytes = en_ents[e["id"]]["context"]["bytes"]
+                lim = [nbytes // 2, 1]
             batch.append(dict(k=str(len(batch)), file=rel[: -len(".msg.json")], id=e["id"], speaker=e["speaker"],
-                              kind=kind, lim=list(limit_for(d["file"], kind)), ctx=ctx, en=e["en"],
+                              kind=kind, lim=lim, bytes=nbytes, ctx=ctx, en=e["en"],
                               gl=hints(e["en"])))
             if len(batch) >= a.n:
                 break
@@ -200,7 +205,8 @@ def cmd_apply(a):
             continue
         b = batch[k]
         uk = M.sanitize(uk)
-        e, w = V.check_pair(b["en"], uk, where=f"#{k} {b['file']}:{b['id']}", window=tuple(b["lim"]))
+        e, w = V.check_pair(b["en"], uk, where=f"#{k} {b['file']}:{b['id']}", window=tuple(b["lim"]),
+                            max_bytes=b.get("bytes"))
         errs += e
         warns += w
         if not e or a.force:
