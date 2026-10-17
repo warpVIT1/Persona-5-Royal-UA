@@ -113,6 +113,8 @@ def main():
         shutil.rmtree(MOD)
     (CPK / "FONT").mkdir(parents=True, exist_ok=True)
     shutil.copy(font, CPK / "FONT/FONT0.FNT")
+    # chat icons are looked up by speaker name -> add the Ukrainian names
+    subprocess.run([sys.executable, str(ROOT / "tools/scripts/speakerdat.py"), str(CPK / "FONT/SPEAKER.DAT")], check=True)
     shutil.copy(ROOT / "tools/mod/ModConfig.template.json", MOD / "ModConfig.json")
 
     todo = list(targets(a.path))
