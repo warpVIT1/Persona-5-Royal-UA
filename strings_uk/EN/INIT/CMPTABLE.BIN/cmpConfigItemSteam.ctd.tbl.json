@@ -1,0 +1,733 @@
+{
+ "file": "EN/INIT/CMPTABLE.BIN/cmpConfigItemSteam.ctd",
+ "entries": [
+  {
+   "id": "#0",
+   "speaker": null,
+   "en": "Japanese Voice",
+   "uk": "Японська озвучка",
+   "note": ""
+  },
+  {
+   "id": "#1",
+   "speaker": null,
+   "en": "Vibration",
+   "uk": "Вібрація",
+   "note": ""
+  },
+  {
+   "id": "#2",
+   "speaker": null,
+   "en": "Dialogue Voices",
+   "uk": "Озвучка діалогів",
+   "note": ""
+  },
+  {
+   "id": "#3",
+   "speaker": null,
+   "en": "Auto-Advance",
+   "uk": "Автогортання",
+   "note": ""
+  },
+  {
+   "id": "#4",
+   "speaker": null,
+   "en": "Animation Subtitles",
+   "uk": "Субтитри в анімаціях",
+   "note": ""
+  },
+  {
+   "id": "#5",
+   "speaker": null,
+   "en": "Maintain Fast-Forward",
+   "uk": "Зберігати перемотування",
+   "note": ""
+  },
+  {
+   "id": "#6",
+   "speaker": null,
+   "en": "Cursor Memory",
+   "uk": "Пам'ять курсору",
+   "note": ""
+  },
+  {
+   "id": "#7",
+   "speaker": null,
+   "en": "Battle Memory",
+   "uk": "Пам'ять бою",
+   "note": ""
+  },
+  {
+   "id": "#8",
+   "speaker": null,
+   "en": "Persona Memory",
+   "uk": "Пам'ять Персони",
+   "note": ""
+  },
+  {
+   "id": "#9",
+   "speaker": null,
+   "en": "Horizontal Invert",
+   "uk": "Інверсія по горизонталі",
+   "note": ""
+  },
+  {
+   "id": "#10",
+   "speaker": null,
+   "en": "Vertical Invert",
+   "uk": "Інверсія по вертикалі",
+   "note": ""
+  },
+  {
+   "id": "#11",
+   "speaker": null,
+   "en": "Camera Shake",
+   "uk": "Трясіння камери",
+   "note": ""
+  },
+  {
+   "id": "#12",
+   "speaker": null,
+   "en": "Camera Auto-Adjust",
+   "uk": "Автокамера",
+   "note": ""
+  },
+  {
+   "id": "#13",
+   "speaker": null,
+   "en": "Camera Auto-Adjust During Cover",
+   "uk": "Автокамера в укритті",
+   "note": ""
+  },
+  {
+   "id": "#14",
+   "speaker": null,
+   "en": "Rotate Mini Map with Camera",
+   "uk": "Обертати міні-карту",
+   "note": ""
+  },
+  {
+   "id": "#15",
+   "speaker": null,
+   "en": "Network Functions",
+   "uk": "Мережеві функції",
+   "note": ""
+  },
+  {
+   "id": "#16",
+   "speaker": null,
+   "en": "Select Server",
+   "uk": "Вибір сервера",
+   "note": ""
+  },
+  {
+   "id": "#17",
+   "speaker": null,
+   "en": "Screen Brightness",
+   "uk": "Яскравість екрана",
+   "note": ""
+  },
+  {
+   "id": "#18",
+   "speaker": null,
+   "en": "Camera Speed",
+   "uk": "Швидкість камери",
+   "note": ""
+  },
+  {
+   "id": "#19",
+   "speaker": null,
+   "en": "Change Difficulty",
+   "uk": "Змінити складність",
+   "note": ""
+  },
+  {
+   "id": "#20",
+   "speaker": null,
+   "en": "Adjust BGM Volume",
+   "uk": "Гучність музики",
+   "note": ""
+  },
+  {
+   "id": "#21",
+   "speaker": null,
+   "en": "Adjust SE Volume",
+   "uk": "Гучність ефектів",
+   "note": ""
+  },
+  {
+   "id": "#22",
+   "speaker": null,
+   "en": "Adjust VOICE Volume",
+   "uk": "Гучність голосів",
+   "note": ""
+  },
+  {
+   "id": "#23",
+   "speaker": null,
+   "en": "Controller Sensitivity",
+   "uk": "Чутливість контролера",
+   "note": ""
+  },
+  {
+   "id": "#24",
+   "speaker": null,
+   "en": "Mouse Sensitivity",
+   "uk": "Чутливість миші",
+   "note": ""
+  },
+  {
+   "id": "#25",
+   "speaker": null,
+   "en": "Button Display",
+   "uk": "Відображення кнопок",
+   "note": ""
+  },
+  {
+   "id": "#26",
+   "speaker": null,
+   "en": "Master Volume",
+   "uk": "Загальна гучність",
+   "note": ""
+  },
+  {
+   "id": "#27",
+   "speaker": null,
+   "en": "BGM Volume",
+   "uk": "Гучність музики",
+   "note": ""
+  },
+  {
+   "id": "#28",
+   "speaker": null,
+   "en": "SE Volume",
+   "uk": "Гучність ефектів",
+   "note": ""
+  },
+  {
+   "id": "#29",
+   "speaker": null,
+   "en": "Voice Volume",
+   "uk": "Гучність голосів",
+   "note": ""
+  },
+  {
+   "id": "#30",
+   "speaker": null,
+   "en": "Movie Volume",
+   "uk": "Гучність відео",
+   "note": ""
+  },
+  {
+   "id": "#31",
+   "speaker": null,
+   "en": "Graphic Quality",
+   "uk": "Якість графіки",
+   "note": ""
+  },
+  {
+   "id": "#32",
+   "speaker": null,
+   "en": "Rendering Scale",
+   "uk": "Масштаб рендерингу",
+   "note": ""
+  },
+  {
+   "id": "#33",
+   "speaker": null,
+   "en": "Shadow Quality",
+   "uk": "Якість тіней",
+   "note": ""
+  },
+  {
+   "id": "#34",
+   "speaker": null,
+   "en": "Screen Brightness",
+   "uk": "Яскравість екрана",
+   "note": ""
+  },
+  {
+   "id": "#35",
+   "speaker": null,
+   "en": "Framerate Limit",
+   "uk": "Обмеження кадрів",
+   "note": ""
+  },
+  {
+   "id": "#36",
+   "speaker": null,
+   "en": "Anisotropic Filtering",
+   "uk": "Анізотропна фільтрація",
+   "note": ""
+  },
+  {
+   "id": "#37",
+   "speaker": null,
+   "en": "Anti-aliasing",
+   "uk": "Згладжування",
+   "note": ""
+  },
+  {
+   "id": "#38",
+   "speaker": null,
+   "en": "Depth of Field",
+   "uk": "Глибина різкості",
+   "note": ""
+  },
+  {
+   "id": "#39",
+   "speaker": null,
+   "en": "Ambient Occlusion",
+   "uk": "Фонове затінення",
+   "note": ""
+  },
+  {
+   "id": "#40",
+   "speaker": null,
+   "en": "Resolution",
+   "uk": "Роздільність",
+   "note": ""
+  },
+  {
+   "id": "#41",
+   "speaker": null,
+   "en": "Screen Mode",
+   "uk": "Режим екрана",
+   "note": ""
+  },
+  {
+   "id": "#42",
+   "speaker": null,
+   "en": "Monitor",
+   "uk": "Монітор",
+   "note": ""
+  },
+  {
+   "id": "#43",
+   "speaker": null,
+   "en": "V Sync",
+   "uk": "Верт. синхронізація",
+   "note": ""
+  },
+  {
+   "id": "#44",
+   "speaker": null,
+   "en": "Character Movement (Forward)",
+   "uk": "Рух персонажа (вперед)",
+   "note": ""
+  },
+  {
+   "id": "#45",
+   "speaker": null,
+   "en": "Character Movement (Backward)",
+   "uk": "Рух персонажа (назад)",
+   "note": ""
+  },
+  {
+   "id": "#46",
+   "speaker": null,
+   "en": "Character Movement (Left)",
+   "uk": "Рух персонажа (ліворуч)",
+   "note": ""
+  },
+  {
+   "id": "#47",
+   "speaker": null,
+   "en": "Character Movement (Right)",
+   "uk": "Рух персонажа (праворуч)",
+   "note": ""
+  },
+  {
+   "id": "#48",
+   "speaker": null,
+   "en": "Confirm/Action",
+   "uk": "Підтвердити/Дія",
+   "note": ""
+  },
+  {
+   "id": "#49",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "Скасувати",
+   "note": "glossary"
+  },
+  {
+   "id": "#50",
+   "speaker": null,
+   "en": "General Menu Control",
+   "uk": "Керування меню",
+   "note": ""
+  },
+  {
+   "id": "#51",
+   "speaker": null,
+   "en": "Open Details",
+   "uk": "Подробиці",
+   "note": ""
+  },
+  {
+   "id": "#52",
+   "speaker": null,
+   "en": "Pages/Change List (Left)",
+   "uk": "Сторінки/Список (ліворуч)",
+   "note": ""
+  },
+  {
+   "id": "#53",
+   "speaker": null,
+   "en": "Pages/Change List (Right)",
+   "uk": "Сторінки/Список (праворуч)",
+   "note": ""
+  },
+  {
+   "id": "#54",
+   "speaker": null,
+   "en": "Log",
+   "uk": "Журнал",
+   "note": ""
+  },
+  {
+   "id": "#55",
+   "speaker": null,
+   "en": "Send Message",
+   "uk": "Надіслати повідомлення",
+   "note": ""
+  },
+  {
+   "id": "#56",
+   "speaker": null,
+   "en": "Auto",
+   "uk": "Авто",
+   "note": ""
+  },
+  {
+   "id": "#57",
+   "speaker": null,
+   "en": "Fast-Forward",
+   "uk": "Перемотка",
+   "note": ""
+  },
+  {
+   "id": "#58",
+   "speaker": null,
+   "en": "Network",
+   "uk": "Мережа",
+   "note": ""
+  },
+  {
+   "id": "#59",
+   "speaker": null,
+   "en": "Pause/Skip",
+   "uk": "Пауза/Пропуск",
+   "note": ""
+  },
+  {
+   "id": "#60",
+   "speaker": null,
+   "en": "Camera Zoom In",
+   "uk": "Наблизити камеру",
+   "note": ""
+  },
+  {
+   "id": "#61",
+   "speaker": null,
+   "en": "Camera Zoom Out",
+   "uk": "Віддалити камеру",
+   "note": ""
+  },
+  {
+   "id": "#62",
+   "speaker": null,
+   "en": "Turn Camera (Up)",
+   "uk": "Камера вгору",
+   "note": ""
+  },
+  {
+   "id": "#63",
+   "speaker": null,
+   "en": "Turn Camera (Down)",
+   "uk": "Камера вниз",
+   "note": ""
+  },
+  {
+   "id": "#64",
+   "speaker": null,
+   "en": "Turn Camera (Left)",
+   "uk": "Камера ліворуч",
+   "note": ""
+  },
+  {
+   "id": "#65",
+   "speaker": null,
+   "en": "Turn Camera (Right)",
+   "uk": "Камера праворуч",
+   "note": ""
+  },
+  {
+   "id": "#66",
+   "speaker": null,
+   "en": "Chat",
+   "uk": "Чат",
+   "note": ""
+  },
+  {
+   "id": "#67",
+   "speaker": null,
+   "en": "Third Eye",
+   "uk": "Третє око",
+   "note": "glossary"
+  },
+  {
+   "id": "#68",
+   "speaker": null,
+   "en": "Map",
+   "uk": "Карта",
+   "note": ""
+  },
+  {
+   "id": "#69",
+   "speaker": null,
+   "en": "Map Zoom In/Zoom Out",
+   "uk": "Масштаб карти",
+   "note": ""
+  },
+  {
+   "id": "#70",
+   "speaker": null,
+   "en": "Dash",
+   "uk": "Ривок",
+   "note": ""
+  },
+  {
+   "id": "#71",
+   "speaker": null,
+   "en": "Camera Reset",
+   "uk": "Скинути камеру",
+   "note": ""
+  },
+  {
+   "id": "#72",
+   "speaker": null,
+   "en": "Assist Menu",
+   "uk": "Меню підтримки",
+   "note": ""
+  },
+  {
+   "id": "#73",
+   "speaker": null,
+   "en": "Assist: Everyone's Activity Log",
+   "uk": "Підтримка: Журнал подій",
+   "note": ""
+  },
+  {
+   "id": "#74",
+   "speaker": null,
+   "en": "Assist: Social Stats",
+   "uk": "Підтримка: Соцхарактеристики",
+   "note": ""
+  },
+  {
+   "id": "#75",
+   "speaker": null,
+   "en": "Assist: Confidants",
+   "uk": "Підтримка: Конфіденти",
+   "note": ""
+  },
+  {
+   "id": "#76",
+   "speaker": null,
+   "en": "Assist: Hideout",
+   "uk": "Підтримка: Схованка",
+   "note": ""
+  },
+  {
+   "id": "#77",
+   "speaker": null,
+   "en": "Grappling Hook",
+   "uk": "Гак-кішка",
+   "note": "glossary"
+  },
+  {
+   "id": "#78",
+   "speaker": null,
+   "en": "Thieves Den: Reveal",
+   "uk": "Лігво: Показати",
+   "note": ""
+  },
+  {
+   "id": "#79",
+   "speaker": null,
+   "en": "Thieves Den: Hide UI and Protagonist",
+   "uk": "Лігво: Сховати інтерфейс",
+   "note": ""
+  },
+  {
+   "id": "#80",
+   "speaker": null,
+   "en": "Aim Gun",
+   "uk": "Прицілитися",
+   "note": ""
+  },
+  {
+   "id": "#81",
+   "speaker": null,
+   "en": "Select Target (Left)",
+   "uk": "Вибір цілі (ліворуч)",
+   "note": ""
+  },
+  {
+   "id": "#82",
+   "speaker": null,
+   "en": "Select Target (Right)",
+   "uk": "Вибір цілі (праворуч)",
+   "note": ""
+  },
+  {
+   "id": "#83",
+   "speaker": null,
+   "en": "Check Intel",
+   "uk": "Розвідка",
+   "note": ""
+  },
+  {
+   "id": "#84",
+   "speaker": null,
+   "en": "Melee Attack",
+   "uk": "Атака зброєю",
+   "note": ""
+  },
+  {
+   "id": "#85",
+   "speaker": null,
+   "en": "Guard",
+   "uk": "Захист",
+   "note": "glossary"
+  },
+  {
+   "id": "#86",
+   "speaker": null,
+   "en": "Skill",
+   "uk": "Навичка",
+   "note": ""
+  },
+  {
+   "id": "#87",
+   "speaker": null,
+   "en": "Items",
+   "uk": "Предмети",
+   "note": ""
+  },
+  {
+   "id": "#88",
+   "speaker": null,
+   "en": "Analyze",
+   "uk": "Аналіз",
+   "note": ""
+  },
+  {
+   "id": "#89",
+   "speaker": null,
+   "en": "Order",
+   "uk": "Накази",
+   "note": "glossary"
+  },
+  {
+   "id": "#90",
+   "speaker": null,
+   "en": "Assist",
+   "uk": "Підтримка",
+   "note": ""
+  },
+  {
+   "id": "#91",
+   "speaker": null,
+   "en": "Baton Pass",
+   "uk": "Естафета",
+   "note": "glossary"
+  },
+  {
+   "id": "#92",
+   "speaker": null,
+   "en": "Showtime",
+   "uk": "Шоутайм",
+   "note": "glossary"
+  },
+  {
+   "id": "#93",
+   "speaker": null,
+   "en": "Rush",
+   "uk": "Натиск",
+   "note": ""
+  },
+  {
+   "id": "#94",
+   "speaker": null,
+   "en": "Down Shot",
+   "uk": "Постріл зі збиттям",
+   "note": "glossary"
+  },
+  {
+   "id": "#95",
+   "speaker": null,
+   "en": "Color Blind Filter",
+   "uk": "Фільтр для дальтоніків",
+   "note": ""
+  },
+  {
+   "id": "#96",
+   "speaker": null,
+   "en": "Color Strength",
+   "uk": "Сила кольору",
+   "note": ""
+  },
+  {
+   "id": "#97",
+   "speaker": null,
+   "en": "System Settings",
+   "uk": "Системні налаштування",
+   "note": ""
+  },
+  {
+   "id": "#98",
+   "speaker": null,
+   "en": "Sound Settings",
+   "uk": "Налаштування звуку",
+   "note": ""
+  },
+  {
+   "id": "#99",
+   "speaker": null,
+   "en": "Graphics Settings",
+   "uk": "Налаштування графіки",
+   "note": ""
+  },
+  {
+   "id": "#100",
+   "speaker": null,
+   "en": "Display Settings",
+   "uk": "Налаштування екрана",
+   "note": ""
+  },
+  {
+   "id": "#101",
+   "speaker": null,
+   "en": "Key Configuration",
+   "uk": "Призначення клавіш",
+   "note": ""
+  },
+  {
+   "id": "#102",
+   "speaker": null,
+   "en": "Thief Assist",
+   "uk": "Злодійська підтримка",
+   "note": ""
+  },
+  {
+   "id": "#103",
+   "speaker": null,
+   "en": "System",
+   "uk": "Система",
+   "note": ""
+  }
+ ]
+}

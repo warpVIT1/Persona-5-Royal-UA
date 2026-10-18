@@ -131,70 +131,70 @@
    "id": "MSG_BOOK_SYS_USE_1ST#0",
    "speaker": "Student Librarian",
    "en": "...You can only borrow one book at[n]a time. Be sure to return it once you've[n]finished reading it.",
-   "uk": "",
+   "uk": "...Можна брати лише одну книжку за раз.[n]Не забудьте повернути, коли дочитаєте.",
    "note": ""
   },
   {
    "id": "MSG_BookListOpen#0",
    "speaker": "Student Librarian",
    "en": "...These are all the books you can check[n]out right now.",
-   "uk": "",
+   "uk": "...Ось усі книжки, які зараз можна[n]взяти.",
    "note": ""
   },
   {
    "id": "MSG_BOOK_SYS_RENTAL_INFO#0",
    "speaker": "Student Librarian",
    "en": "...This one, yes? Okay, be careful with it.",
-   "uk": "",
+   "uk": "...Цю, так? Гаразд, обережно з нею.",
    "note": ""
   },
   {
    "id": "MSG_Error_RentalOver#0",
    "speaker": "Student Librarian",
    "en": "You can only check out one book at a time.",
-   "uk": "",
+   "uk": "Можна брати лише одну книжку за раз.",
    "note": ""
   },
   {
    "id": "MSG_Error_NotHaveRentalB#0",
    "speaker": "Student Librarian",
    "en": "...You haven't checked anything out.",
-   "uk": "",
+   "uk": "...Ви нічого не брали.",
    "note": ""
   },
   {
    "id": "MSG_Return_BookTitleConf#0",
    "speaker": "Student Librarian",
    "en": "...You're returning[n][clr 3][var 0][clr 27], yes?",
-   "uk": "",
+   "uk": "...Повертаєте[n][clr 3][var 0][clr 27], так?",
    "note": ""
   },
   {
    "id": "MSG_Return_BookThanks#0",
    "speaker": "Student Librarian",
    "en": "...Thank you for returning it.",
-   "uk": "",
+   "uk": "...Дякую, що повернули.",
    "note": ""
   },
   {
    "id": "MSG_BOOK_SYS_BACK#0",
    "speaker": "Student Librarian",
    "en": "...Which book would you like to return?",
-   "uk": "",
+   "uk": "...Яку книжку хочете повернути?",
    "note": ""
   },
   {
    "id": "MSG_BOOK_SYS_BACK_SEL#0",
    "speaker": null,
    "en": " [var 0]",
-   "uk": "",
+   "uk": " [var 0]",
    "note": ""
   },
   {
    "id": "MSG_BOOK_SYS_BACK_SEL#1",
    "speaker": null,
    "en": " [var 1]",
-   "uk": "",
+   "uk": " [var 1]",
    "note": ""
   },
   {
@@ -208,14 +208,14 @@
    "id": "MSG_Return_NotFinBook#0",
    "speaker": "Morgana",
    "en": "You're returning this? You haven't[n]finished reading it, have you?",
-   "uk": "",
+   "uk": "Повертаєш? Ти ж її ще не дочитав,[n]правда?",
    "note": ""
   },
   {
    "id": "MSG_BOOK_RETURN_STOP_NPC#0",
    "speaker": "Student Librarian",
    "en": "...You want to return this book, yes?",
-   "uk": "",
+   "uk": "...Хочете повернути цю книжку, так?",
    "note": ""
   },
   {
@@ -229,7 +229,7 @@
    "id": "MSG_BOOK_RETURN_STOP_SEL#1",
    "speaker": null,
    "en": "Don't return",
-   "uk": "",
+   "uk": "Не повертати",
    "note": ""
   },
   {
@@ -243,252 +243,252 @@
    "id": "SEL_ReturnOrNot#1",
    "speaker": null,
    "en": "Don't return",
-   "uk": "",
+   "uk": "Не повертати",
    "note": ""
   },
   {
    "id": "MSG_BOOK_RETURN_BOOK_A_G#0",
    "speaker": "Student Librarian",
    "en": "...Then, let me take back[n][clr 3][var 1][clr 27].",
-   "uk": "",
+   "uk": "...Тоді я заберу[n][clr 3][var 1][clr 27].",
    "note": ""
   },
   {
    "id": "MSG_BOOK_RETURN_BOOK_B_G#0",
    "speaker": "Student Librarian",
    "en": "...Then, let me take back[n][clr 3][var 1][clr 27].",
-   "uk": "",
+   "uk": "...Тоді я заберу[n][clr 3][var 1][clr 27].",
    "note": ""
   },
   {
    "id": "MSG_BOOK_RETURN_CANCEL#0",
    "speaker": "Student Librarian",
    "en": "...Did you change your mind? Then,[n]which book would you like to return?",
-   "uk": "",
+   "uk": "...Передумали? Тоді яку книжку[n]хочете повернути?",
    "note": ""
   },
   {
    "id": "MSG_BOOK_SYS_NOT_USE#0",
    "speaker": "Student Librarian",
    "en": "...I see. Come back if you need[n]something else.",
-   "uk": "",
+   "uk": "...Зрозуміло. Приходьте, якщо ще[n]щось знадобиться.",
    "note": ""
   },
   {
    "id": "MSG_TEST#0",
    "speaker": null,
    "en": "What should I check out?",
-   "uk": "",
+   "uk": "Що б узяти?",
    "note": ""
   },
   {
    "id": "MSG_TEST_GEN#0",
    "speaker": null,
    "en": " [var 0][ref 0 0]",
-   "uk": "",
+   "uk": " [var 0][ref 0 0]",
    "note": ""
   },
   {
    "id": "MSG_TEST_GEN#1",
    "speaker": null,
    "en": " [clr 30][var 0][clr 27][ref 1 0]",
-   "uk": "",
+   "uk": " [clr 30][var 0][clr 27][ref 1 0]",
    "note": ""
   },
   {
    "id": "MSG_TEST_GEN#2",
    "speaker": null,
    "en": " [var 1][ref 2 1]",
-   "uk": "",
+   "uk": " [var 1][ref 2 1]",
    "note": ""
   },
   {
    "id": "MSG_TEST_GEN#3",
    "speaker": null,
    "en": " [clr 30][var 1][clr 27][ref 3 1]",
-   "uk": "",
+   "uk": " [clr 30][var 1][clr 27][ref 3 1]",
    "note": ""
   },
   {
    "id": "MSG_TEST_GEN#4",
    "speaker": null,
    "en": " [var 2][ref 4 2]",
-   "uk": "",
+   "uk": " [var 2][ref 4 2]",
    "note": ""
   },
   {
    "id": "MSG_TEST_GEN#5",
    "speaker": null,
    "en": " [clr 30][var 2][clr 27][ref 5 2]",
-   "uk": "",
+   "uk": " [clr 30][var 2][clr 27][ref 5 2]",
    "note": ""
   },
   {
    "id": "MSG_TEST_GEN#6",
    "speaker": null,
    "en": " [var 3][ref 6 3]",
-   "uk": "",
+   "uk": " [var 3][ref 6 3]",
    "note": ""
   },
   {
    "id": "MSG_TEST_GEN#7",
    "speaker": null,
    "en": " [clr 30][var 3][clr 27][ref 7 3]",
-   "uk": "",
+   "uk": " [clr 30][var 3][clr 27][ref 7 3]",
    "note": ""
   },
   {
    "id": "MSG_TEST_GEN#8",
    "speaker": null,
    "en": " [var 4][ref 8 4]",
-   "uk": "",
+   "uk": " [var 4][ref 8 4]",
    "note": ""
   },
   {
    "id": "MSG_TEST_GEN#9",
    "speaker": null,
    "en": " [clr 30][var 4][clr 27][ref 9 4]",
-   "uk": "",
+   "uk": " [clr 30][var 4][clr 27][ref 9 4]",
    "note": ""
   },
   {
    "id": "MSG_TEST_GEN#10",
    "speaker": null,
    "en": " [var 5][ref 10 5]",
-   "uk": "",
+   "uk": " [var 5][ref 10 5]",
    "note": ""
   },
   {
    "id": "MSG_TEST_GEN#11",
    "speaker": null,
    "en": " [clr 30][var 5][clr 27][ref 11 5]",
-   "uk": "",
+   "uk": " [clr 30][var 5][clr 27][ref 11 5]",
    "note": ""
   },
   {
    "id": "MSG_TEST_GEN#12",
    "speaker": null,
    "en": " [var 6][ref 12 6]",
-   "uk": "",
+   "uk": " [var 6][ref 12 6]",
    "note": ""
   },
   {
    "id": "MSG_TEST_GEN#13",
    "speaker": null,
    "en": " [clr 30][var 6][clr 27][ref 13 6]",
-   "uk": "",
+   "uk": " [clr 30][var 6][clr 27][ref 13 6]",
    "note": ""
   },
   {
    "id": "MSG_TEST_GEN#14",
    "speaker": null,
    "en": " [var 7][ref 14 7]",
-   "uk": "",
+   "uk": " [var 7][ref 14 7]",
    "note": ""
   },
   {
    "id": "MSG_TEST_GEN#15",
    "speaker": null,
    "en": " [clr 30][var 7][clr 27][ref 15 7]",
-   "uk": "",
+   "uk": " [clr 30][var 7][clr 27][ref 15 7]",
    "note": ""
   },
   {
    "id": "MSG_TEST_GEN#16",
    "speaker": null,
    "en": " [var 8][ref 16 8]",
-   "uk": "",
+   "uk": " [var 8][ref 16 8]",
    "note": ""
   },
   {
    "id": "MSG_TEST_GEN#17",
    "speaker": null,
    "en": " [clr 30][var 8][clr 27][ref 17 8]",
-   "uk": "",
+   "uk": " [clr 30][var 8][clr 27][ref 17 8]",
    "note": ""
   },
   {
    "id": "MSG_TEST_GEN#18",
    "speaker": null,
    "en": " [var 9][ref 18 9]",
-   "uk": "",
+   "uk": " [var 9][ref 18 9]",
    "note": ""
   },
   {
    "id": "MSG_TEST_GEN#19",
    "speaker": null,
    "en": " [clr 30][var 9][clr 27][ref 19 9]",
-   "uk": "",
+   "uk": " [clr 30][var 9][clr 27][ref 19 9]",
    "note": ""
   },
   {
    "id": "MSG_TEST_GEN#20",
    "speaker": null,
    "en": " [var 10][ref 20 10]",
-   "uk": "",
+   "uk": " [var 10][ref 20 10]",
    "note": ""
   },
   {
    "id": "MSG_TEST_GEN#21",
    "speaker": null,
    "en": " [clr 30][var 10][clr 27][ref 21 10]",
-   "uk": "",
+   "uk": " [clr 30][var 10][clr 27][ref 21 10]",
    "note": ""
   },
   {
    "id": "MSG_BOOK_SYS_RENTAL_TITL#0",
    "speaker": "Morgana",
    "en": "[clr 3][var 20][clr 27], eh?[n]Sounds interesting!",
-   "uk": "",
+   "uk": "[clr 3][var 20][clr 27], еге?[n]Звучить цікаво!",
    "note": ""
   },
   {
    "id": "MSG_BOOK_SpeedBook_NG_1s#0",
    "speaker": "Student Librarian",
    "en": "Oh... that one...",
-   "uk": "",
+   "uk": "Ой... ця...",
    "note": ""
   },
   {
    "id": "MSG_BOOK_SpeedBook_NG_1s#1",
    "speaker": "Student Librarian",
    "en": "Unfortunately, I can't lend that to you...[n]Someone else already checked it out.",
-   "uk": "",
+   "uk": "На жаль, не можу її вам дати...[n]Її вже хтось узяв.",
    "note": ""
   },
   {
    "id": "MSG_BOOK_SpeedBook_NG_1s#2",
    "speaker": "Student Librarian",
    "en": "It's surprisingly popular—someone else[n]snatches it up as soon as it's returned...",
-   "uk": "",
+   "uk": "Вона напрочуд популярна — щойно її[n]повертають, хтось одразу забирає...",
    "note": ""
   },
   {
    "id": "MSG_BOOK_SpeedBook_NG_Co#0",
    "speaker": "Student Librarian",
    "en": "Sorry, that book's checked out at the[n]moment...",
-   "uk": "",
+   "uk": "Вибачте, цю книжку зараз[n]узято...",
    "note": ""
   },
   {
    "id": "MSG_SpeedBook_SetRemind#0",
    "speaker": "Morgana",
    "en": "Well, there's nothing we can do if it's[n]checked out. We can always come back[n]later and try to get it.",
-   "uk": "",
+   "uk": "Ну, якщо її взяли, нічого не вдієш.[n]Завжди можна повернутися пізніше[n]і спробувати ще.",
    "note": ""
   },
   {
    "id": "MSG_BOOK_Change_yet#0",
    "speaker": "Morgana",
    "en": "You're still reading [var 0]...[n]Are you really going to return it now?",
-   "uk": "",
+   "uk": "Ти ще читаєш [var 0]...[n]Справді повернеш її зараз?",
    "note": ""
   },
   {
    "id": "SEL_Change#0",
    "speaker": null,
    "en": "Return the book",
-   "uk": "",
+   "uk": "Повернути книжку",
    "note": ""
   },
   {
@@ -502,14 +502,14 @@
    "id": "MSG_BOOK_Change_Seito#0",
    "speaker": "Student Librarian",
    "en": "Thank you for returning[n][clr 3][var 0][clr 27].",
-   "uk": "",
+   "uk": "Дякую, що повернули[n][clr 3][var 0][clr 27].",
    "note": ""
   },
   {
    "id": "MSG_BOOK_Change_Seito#1",
    "speaker": "Student Librarian",
    "en": "Would you care to borrow another book?",
-   "uk": "",
+   "uk": "Бажаєте взяти іншу книжку?",
    "note": ""
   }
  ]

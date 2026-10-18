@@ -8,7 +8,7 @@ Haru,Хару,,character,1308,"NAME.TBL,FLDDNGCHECKNAME.FTD,FLDNPCNAME.FTD,FLDSC
 Maruki,Марукі,,character,1266,"NAME.TBL,FLDNPCNAME.FTD,FLDSCRIPTNAME.FTD,speaker×1575",,approved
 Makoto,Макото,,character,1241,"NAME.TBL,FLDDNGCHECKNAME.FTD,FLDNPCNAME.FTD,FLDSCRIPTNAME.FTD,FLDWHOLEMAPTABLE.FTD,speaker×8702",,approved
 Kamoshida,Камошіда,Камошіда,character,1164,"FLDNPCNAME.FTD,speaker×128",,approved
-Yusuke,Юсуке,,character,1155,"NAME.TBL,FLDDNGCHECKNAME.FTD,FLDNPCNAME.FTD,FLDSCRIPTNAME.FTD,FLDWHOLEMAPTABLE.FTD,speaker×7112",,approved
+Yusuke,Юске,,character,1155,"NAME.TBL,FLDDNGCHECKNAME.FTD,FLDNPCNAME.FTD,FLDSCRIPTNAME.FTD,FLDWHOLEMAPTABLE.FTD,speaker×7112",,approved
 Madarame,Мадараме,,character,1010,speaker×60,,approved
 Kawakami,Кавакамі,,character,978,"NAME.TBL,FLDNPCNAME.FTD,FLDSCRIPTNAME.FTD,speaker×1670",,approved
 Hifumi,Хіфумі,,character,850,"NAME.TBL,FLDNPCNAME.FTD,FLDSCRIPTNAME.FTD,speaker×1190",,approved
@@ -55,14 +55,14 @@ Goro Akechi,Ґоро Акечі,Ґоро Акечі,character,42,NAME.TBL,,appro
 Igor,Ігор,,character,39,"NAME.TBL,FLDNPCNAME.FTD,speaker×387",,approved
 Toranosuke,Тораносуке,,character,37,NAME.TBL,,approved
 Sae Niijima,Сае Ніїджіма,,character,36,corpus,,approved
-Ishikawa Goemon,Ішікава Ґоемон,,character,32,corpus,Історична особа (персона Юсуке — Ґоемон).,approved
+Ishikawa Goemon,Ішікава Ґоемон,,character,32,corpus,Історична особа (персона Юске — Ґоемон).,approved
 Togo,Тоґо,,character,30,NAME.TBL,,approved
 Kobayakawa,Кобаякава,,character,27,proposals,,approved
 Sojiro Sakura,Соджіро Сакура,,character,27,proposals,,approved
 Mifune,Міфуне,,character,26,NAME.TBL,,approved
 Principal Kobayakawa,директор Кобаякава,,character,25,corpus,,approved
 Ichiryusai Madarame,Ітірюсай Мадараме,,character,24,corpus,,approved
-Yusuke Kitagawa,Юсуке Кітаґава,,character,24,corpus,,approved
+Yusuke Kitagawa,Юске Кітаґава,,character,24,corpus,,approved
 Ichiko,Ічіко,Ічіко,character,23,NAME.TBL,,approved
 Makoto Niijima,Макото Ніїджіма,,character,20,corpus,,approved
 Isshiki,Ішшікі,,character,19,proposals,,approved
@@ -517,7 +517,7 @@ Inside Vault,У сховищі,,location,0,FLDPLACENAME.FTD,,approved
 Interrogation Room,Кімната для допитів,,location,0,"FLDPLACENAME.FTD,FLDSAVEDATAPLACE.FTD",,approved
 Intimate Date Spot,Місце для інтимного побачення,,location,0,FLDLMAPSTATION.FTD,,approved
 Invite Futaba,Запросити Футабу,,location,0,FLDWHOLEMAPTABLE.FTD,шаблон,approved
-Invite Yusuke,Запросити Юсуке,,location,0,FLDWHOLEMAPTABLE.FTD,шаблон,approved
+Invite Yusuke,Запросити Юске,,location,0,FLDWHOLEMAPTABLE.FTD,шаблон,approved
 Iweleth: ???,Івелет: ???,,location,0,FLDPLACENAME.FTD,шаблон,approved
 Iweleth: Area 1,Івелет: зона 1,,location,0,FLDPLACENAME.FTD,шаблон,approved
 Jumbotron,Великий екран,,location,0,FLDPLACENAME.FTD,,approved
@@ -1873,7 +1873,7 @@ Roulette: Support 3,Рулетка: підтримка 3,,skill,0,NAME.TBL,ша�
 Royal Jelly,Маточне молочко,,skill,0,NAME.TBL,,approved
 Royal Wing Beam,Королівський промінь крил,,skill,0,NAME.TBL,,approved
 Ryuji/Makoto Unison Attack,Спільна атака: Рюджі/Макото,,skill,0,NAME.TBL,шаблон,approved
-Ryuji/Yusuke Unison Attack,Спільна атака: Рюджі/Юсуке,,skill,0,NAME.TBL,шаблон,approved
+Ryuji/Yusuke Unison Attack,Спільна атака: Рюджі/Юске,,skill,0,NAME.TBL,шаблон,approved
 SP Cost Down 10%,Витрати ОД -10%,,skill,0,NAME.TBL,,approved
 SP Cost Down 25%,Витрати ОД -25%,,skill,0,NAME.TBL,,approved
 Sacrifice Order,Наказ жертви,,skill,0,NAME.TBL,,approved
@@ -1989,7 +1989,7 @@ Wings of Wisdom,Крила мудрості,,skill,0,NAME.TBL,,approved
 Work Order,Робоче замовлення,,skill,0,NAME.TBL,,approved
 Wrath of God,Гнів божий,,skill,0,NAME.TBL,,approved
 Yashichi,Яшічі,,skill,0,NAME.TBL,,approved
-Yusuke/Ann Unison Attack,Спільна атака: Юсуке/Анн,,skill,0,NAME.TBL,шаблон,approved
+Yusuke/Ann Unison Attack,Спільна атака: Юске/Анн,,skill,0,NAME.TBL,шаблон,approved
 Critical Atk Up,Крит. атака+,,skill_alt,121,NAME.TBL,,approved
 Single-Target Up,Одна ціль+,,skill_alt,5,NAME.TBL,,approved
 Technical Up,Технічний удар+,,skill_alt,5,NAME.TBL,,approved
@@ -2056,7 +2056,7 @@ Support Extension,Подовження підтримки,,skill_alt,0,NAME.TBL,
 Vitality Flow,Потік життєвої сили,,skill_alt,0,NAME.TBL,,approved
 Vitality Leak,Витік життєвої сили,,skill_alt,0,NAME.TBL,,approved
 Vitality Surge,Сплеск життєвої сили,,skill_alt,0,NAME.TBL,,approved
-Yusuke Unison Attack,Спільна атака: Юсуке,,skill_alt,0,NAME.TBL,шаблон,approved
+Yusuke Unison Attack,Спільна атака: Юске,,skill_alt,0,NAME.TBL,шаблон,approved
 Blank Card,Порожня карта,,skill_card,2,NAME.TBL,,approved
 Ailment Multiplier 1,Множник станів 1,,skill_card,1,NAME.TBL,шаблон,approved
 Ailment Multiplier 2,Множник станів 2,,skill_card,1,NAME.TBL,шаблон,approved

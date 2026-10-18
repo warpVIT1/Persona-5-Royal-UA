@@ -126,6 +126,9 @@ def main():
             if i % 500 == 0:
                 print(f"{i}/{len(todo)}", flush=True)
 
+    # menus, config, quests, calendar, place names... (FTD/CTD string tables)
+    subprocess.run([sys.executable, str(ROOT / "tools/scripts/tables.py"), "build"])
+
     n_pak = sum(1 for r, _ in ok if PAK in out_path(r).parents)
     L = ["# Звіт збірки мода", "",
          f"Скомпільовано: {len(ok)} файлів ({len(ok) - n_pak} у CPK, {n_pak} в архівах через PAK-емулятор). "

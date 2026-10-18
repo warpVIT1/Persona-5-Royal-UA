@@ -65,8 +65,11 @@ def build(prefix=""):
         en_entries = json.loads((EN / (rel.as_posix() + ".json")).read_text(encoding="utf-8"))["entries"]
         dialogs = M.parse(src.read_text(encoding="utf-8-sig"))
         it = iter(en_entries)  # entries are in page order; ids carry disambiguation suffixes
+        # the phone chat shows no names but picks each avatar by the EN speaker name (FONT/SPEAKER.DAT):
+        # keep the original names there, otherwise every icon falls back to Morgana
+        keep_names = rel.as_posix().startswith("EN/CAMP/CHAT/")
         for d in dialogs:
-            if d.speaker and d.speaker in speakers:
+            if d.speaker and d.speaker in speakers and not keep_names:
                 d.header = d.header.replace(f"[{d.speaker}]", f"[{speakers[d.speaker]}]", 1)
             for p in d.pages:
                 e = next(it)
