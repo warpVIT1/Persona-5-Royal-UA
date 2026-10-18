@@ -29,7 +29,7 @@ import msgfmt as M  # noqa: E402
 ROOT = Path(__file__).resolve().parents[2]
 EXT, EN, UK = ROOT / "extracted", ROOT / "strings_en", ROOT / "strings_uk"
 MOD = ROOT / "dist/p5rpc.ukrainian"
-CONTAINERS = (".BIN", ".PAK", ".PAC", ".ARC")
+CONTAINERS = (".BIN", ".PAK", ".PAC", ".ARC", ".TBL")
 # internal lookup tables / word lists that must stay as they are
 SKIP = {"fclSklCardAttrTable.ftd", "autoAttrTable.ftd", "fclItemLineUpAccTable.ftd", "fclLogFormatText.ftd",
         "fclLogConjunctionText.ftd", "teamNameEntryNGWord.ftd"}
@@ -65,6 +65,16 @@ def parse(b):
                 return None
             out.append(A.decode(raw[:-1].split(b"\0")[0]))
         res = dict(type=1, rs=None, strings=out)
+    elif typ == 0 and count > 1:
+        # one string per block (MISSION_LIST.TBL *_mission_title.ftd): block = u32 0, u32 size, u32 1, u32 0, text
+        offs = struct.unpack_from(f">{count}I", b, 16)
+        for o in offs:
+            z, dsize, n, _ = struct.unpack_from(">IIII", b, o)
+            raw = b[o + 16: o + 16 + dsize]
+            if z or n != 1 or not raw or raw[-1:] != b"\0" or raw[:-1].count(b"\0"):
+                return None
+            out.append(A.decode(raw[:-1]))
+        res = dict(type=2, rs=None, strings=out)
     else:
         return None
     return res if any(re.search("[A-Za-z]{2}", x) for x in out) else None
@@ -84,6 +94,18 @@ def write(b, t, strings, charset="P5R_UKR"):
         return bytes(out)
     count = len(enc)
     first = struct.unpack_from(">I", b, 16)[0]
+    if t["type"] == 2:
+        head, body, offs, pos = bytearray(b[:first]), bytearray(), [], first
+        for e in enc:
+            blk = struct.pack(">IIII", 0, len(e) + 1, 1, 0) + e + b"\0"
+            blk += b"\0" * (-len(blk) % 16)
+            offs.append(pos)
+            body += blk
+            pos += len(blk)
+        struct.pack_into(f">{count}I", head, 16, *offs)
+        out = head + body
+        struct.pack_into(">I", out, 8, len(out))
+        return bytes(out)
     head = bytearray(b[:first])          # header + offsets (+ padding as in the original)
     body, offs, pos = bytearray(), [], first
     for i, e in enumerate(enc):
@@ -196,7 +218,24 @@ def cmd_build(a):
         dst.parent.mkdir(parents=True, exist_ok=True)
         dst.write_bytes(out)
         ok += 1
-    print(f"tables: {ok} written, {bad} failed")
+    # battle names (skills, Personas, enemies, items...) from the approved glossary
+    import nametbl
+    src = EXT / "EN/BATTLE/TABLE/NAME.TBL"
+    by_cat = {}
+    with open(ROOT / "glossary.csv", encoding="utf-8-sig") as f:
+        for r in csv.DictReader(f):
+            if r["status"] == "approved" and r["uk"]:
+                by_cat.setdefault(r["category"], {})[r["en"]] = M.sanitize(r["uk"])
+    lists = nametbl.translated(nametbl.read(src), by_cat)
+    # names with characters the font lacks stay English
+    lists = [[n if all(c in A.tables("P5R_UKR")[0] for c in n) else o for n, o in zip(new, old)]
+             for new, old in zip(lists, nametbl.read(src))]
+    data = nametbl.build(src, lists)
+    for dst in (out_path("EN/BATTLE/TABLE/NAME.TBL"), out_path("EN/BATTLE/TABLE.PAC/NAME.TBL")):
+        dst.parent.mkdir(parents=True, exist_ok=True)
+        dst.write_bytes(data)
+    n_names = sum(a != b for new, old in zip(lists, nametbl.read(src)) for a, b in zip(new, old))
+    print(f"tables: {ok} written, {bad} failed; NAME.TBL: {n_names} battle names translated")
     return 1 if bad else 0
 
 
@@ -204,7 +243,7 @@ def cmd_test(a):
     n = 0
     for rel, data, t in discover():
         w = write(data, t, t["strings"], "P5R_EFIGS")   # bytes may differ: EFIGS has duplicate code points
-        if parse(w)["strings"] != t["strings"] or (t["type"] == 0 and len(w) != len(data)):
+        if parse(w)["strings"] != t["strings"] or (t["type"] != 1 and len(w) != len(data)):
             print("MISMATCH", rel)
         n += 1
     print(n, "tables round-tripped")
