@@ -5,28 +5,28 @@
    "id": "DUNGEON_ALERT_MODE_mes01#0",
    "speaker": "Morgana",
    "en": "We got caught by a Shadow!",
-   "uk": "",
+   "uk": "Нас спіймала Тінь!",
    "note": ""
   },
   {
    "id": "ESCAPE_ITEM_MENU#0",
    "speaker": "Morgana",
    "en": "Do you want to go back somewhere[n]a bit safer?",
-   "uk": "",
+   "uk": "Може, повернемося кудись[n]безпечніше?",
    "note": ""
   },
   {
    "id": "ESCAPE_ITEM_MENU_SEL#0",
    "speaker": null,
    "en": "Return to Palace entrance",
-   "uk": "",
+   "uk": "Повернутися до входу в Палац",
    "note": ""
   },
   {
    "id": "ESCAPE_ITEM_MENU_SEL#1",
    "speaker": null,
    "en": "Return to previous Safe Room",
-   "uk": "",
+   "uk": "До попередньої Безпечної кімнати",
    "note": ""
   },
   {
@@ -68,98 +68,98 @@
    "id": "SHORTCUT_SEL#0",
    "speaker": null,
    "en": "Auto-Recover[ref 0 0]",
-   "uk": "",
+   "uk": "Автозцілення[ref 0 0]",
    "note": ""
   },
   {
    "id": "SHORTCUT_SEL#1",
    "speaker": null,
    "en": " [var 0][ref 1 103]",
-   "uk": "",
+   "uk": " [var 0][ref 1 103]",
    "note": ""
   },
   {
    "id": "SHORTCUT_SEL#2",
    "speaker": null,
    "en": " [clr 30][var 0][ref 2 103][clr 27]",
-   "uk": "",
+   "uk": " [clr 30][var 0][ref 2 103][clr 27]",
    "note": ""
   },
   {
    "id": "SHORTCUT_SEL#3",
    "speaker": null,
    "en": " [var 1][ref 3 105]",
-   "uk": "",
+   "uk": " [var 1][ref 3 105]",
    "note": ""
   },
   {
    "id": "SHORTCUT_SEL#4",
    "speaker": null,
    "en": " [clr 30][var 1][ref 4 105][clr 27]",
-   "uk": "",
+   "uk": " [clr 30][var 1][ref 4 105][clr 27]",
    "note": ""
   },
   {
    "id": "SHORTCUT_SEL#5",
    "speaker": null,
    "en": " [var 2][ref 5 340]",
-   "uk": "",
+   "uk": " [var 2][ref 5 340]",
    "note": ""
   },
   {
    "id": "SHORTCUT_SEL#6",
    "speaker": null,
    "en": " [clr 30][var 2][ref 6 340][clr 27]",
-   "uk": "",
+   "uk": " [clr 30][var 2][ref 6 340][clr 27]",
    "note": ""
   },
   {
    "id": "SHORTCUT_SEL#7",
    "speaker": null,
    "en": " [var 3][ref 7 101]",
-   "uk": "",
+   "uk": " [var 3][ref 7 101]",
    "note": ""
   },
   {
    "id": "SHORTCUT_SEL#8",
    "speaker": null,
    "en": " [clr 30][var 3][ref 8 101][clr 27]",
-   "uk": "",
+   "uk": " [clr 30][var 3][ref 8 101][clr 27]",
    "note": ""
   },
   {
    "id": "SHORTCUT_SEL#9",
    "speaker": null,
    "en": " [var 4][ref 9 106]",
-   "uk": "",
+   "uk": " [var 4][ref 9 106]",
    "note": ""
   },
   {
    "id": "SHORTCUT_SEL#10",
    "speaker": null,
    "en": " [clr 30][var 4][ref 10 106][clr 27]",
-   "uk": "",
+   "uk": " [clr 30][var 4][ref 10 106][clr 27]",
    "note": ""
   },
   {
    "id": "MSG_RETURN_ITEM_SEL#0",
    "speaker": null,
    "en": "Return to the Palace entrance?",
-   "uk": "",
+   "uk": "Повернутися до входу в Палац?",
    "note": ""
   },
   {
    "id": "MSG_RETURN_ITEM_160_SEL#0",
    "speaker": null,
    "en": "Return to Station Square?",
-   "uk": "",
+   "uk": "Повернутися на привокзальну площу?",
    "note": ""
   },
   {
    "id": "MSG_RETURN_ITEM_161_SEL#0",
    "speaker": null,
    "en": "Return to the prison entrance?",
-   "uk": "",
+   "uk": "Повернутися до входу у в'язницю?",
    "note": ""
   },
   {
@@ -1013,28 +1013,28 @@
    "id": "MSG_AUTO_RECOVER_CONF#0",
    "speaker": null,
    "en": "Would you like to perform[n]an Auto-Recover?",
-   "uk": "",
+   "uk": "Виконати[n]автозцілення?",
    "note": ""
   },
   {
    "id": "MSG_AUTO_RECOVER_FULL#0",
    "speaker": null,
    "en": "Everyone is already at max HP.",
-   "uk": "",
+   "uk": "У всіх уже повні ОЗ.",
    "note": ""
   },
   {
    "id": "MSG_AUTO_RECOVER_NO_USER#0",
    "speaker": null,
    "en": "Nobody in your party can[n]use a healing skill.",
-   "uk": "",
+   "uk": "Ніхто в загоні не має[n]цілющих навичок.",
    "note": ""
   },
   {
    "id": "SOBJ_RECOVER0#0",
    "speaker": "Ryuji",
    "en": "I'll do this at the[n]speed of light.",
-   "uk": "",
+   "uk": "Зроблю це зі[n]швидкістю світла.",
    "note": ""
   },
   {
@@ -1048,14 +1048,14 @@
    "id": "SOBJ_RECOVER2#0",
    "speaker": "Ryuji",
    "en": "This is where I shine!",
-   "uk": "",
+   "uk": "Ось де я сяю!",
    "note": ""
   },
   {
    "id": "SCHOBJ_SYSTEM#0",
    "speaker": null,
    "en": "All search objects in the[n]Metaverse have been replenished.",
-   "uk": "",
+   "uk": "Усі об'єкти для обшуку в[n]Метавсесвіті поповнено.",
    "note": ""
   }
  ]
