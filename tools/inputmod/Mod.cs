@@ -126,11 +126,8 @@ namespace P5RUkrInput
                 var r = new List<string> { "Zqzq", "Xjxj" };
                 lock (Lock)
                     foreach (var s in Segments)
-                        if (s.Length >= 3)
-                        {
-                            r.Add(s);
+                        if (s.Length >= 4 && s.Length <= 16)
                             r.Add(char.ToUpper(s[0]) + s.Substring(1));
-                        }
                 return r.ToArray();
             }
         }
@@ -159,24 +156,26 @@ namespace P5RUkrInput
                 finally { h.Free(); }
             }
             const uint READABLE = 0x02 | 0x04 | 0x08 | 0x20 | 0x40 | 0x80;
-            while (addr < 0x7FFF_FFFF_FFFF && hits < 300)
+            while (addr < 0x7FFF_FFFF_FFFF && hits < 2000)
             {
                 if (VirtualQuery((IntPtr)addr, out var mbi, (UIntPtr)Marshal.SizeOf<MEMORY_BASIC_INFORMATION>()) == UIntPtr.Zero) break;
                 long size = (long)mbi.RegionSize;
                 bool ok = mbi.State == 0x1000 && (mbi.Protect & READABLE) != 0 && (mbi.Protect & 0x100) == 0
                           && !own.Contains((long)mbi.AllocationBase);
                 const long CHUNK = 64L * 1024 * 1024;
-                for (long off = 0; ok && off < size && hits < 300; off += CHUNK)
+                for (long off = 0; ok && off < size && hits < 2000; off += CHUNK)
                 {
                     long n = Math.Min(CHUNK + 256, size - off);
                     var buf = new byte[n];
                     if (!ReadProcessMemory(proc, (IntPtr)((long)mbi.BaseAddress + off), buf, (IntPtr)n, out _)) break;
                     foreach (var (name, p) in pats)
                     {
-                        for (int i = IndexOf(buf, p, 0); i >= 0 && hits < 300; i = IndexOf(buf, p, i + 1))
+                        int perRegion = 0;
+                        for (int i = IndexOf(buf, p, 0); i >= 0 && hits < 2000 && perRegion < 10; i = IndexOf(buf, p, i + 1))
                         {
                             if (i >= CHUNK) break;   // overlap belongs to the next chunk
                             hits++;
+                            perRegion++;
                             long a = (long)mbi.BaseAddress + off + i;
                             int s0 = Math.Max(0, i - 48), s1 = (int)Math.Min(buf.Length, i + 96);
                             Log($"hit {name} @ {a:X} (region {(long)mbi.BaseAddress:X} size {size:X} prot {mbi.Protect:X} type {mbi.Type:X})");
