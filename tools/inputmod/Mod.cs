@@ -146,26 +146,41 @@ namespace P5RUkrInput
                 pats.Add((n + " ascii", Encoding.ASCII.GetBytes(n)));
                 pats.Add((n + " utf16", Encoding.Unicode.GetBytes(n)));
             }
-            while (addr < 0x7FFF_FFFF_FFFF && hits < 200)
+            // our own managed heap holds copies of the needles: remember its allocation bases and skip them
+            var own = new HashSet<long>();
+            foreach (var (_, p) in pats)
+            {
+                var h = GCHandle.Alloc(p, GCHandleType.Pinned);
+                try
+                {
+                    if (VirtualQuery(h.AddrOfPinnedObject(), out var m0, (UIntPtr)Marshal.SizeOf<MEMORY_BASIC_INFORMATION>()) != UIntPtr.Zero)
+                        own.Add((long)m0.AllocationBase);
+                }
+                finally { h.Free(); }
+            }
+            const uint READABLE = 0x02 | 0x04 | 0x08 | 0x20 | 0x40 | 0x80;
+            while (addr < 0x7FFF_FFFF_FFFF && hits < 300)
             {
                 if (VirtualQuery((IntPtr)addr, out var mbi, (UIntPtr)Marshal.SizeOf<MEMORY_BASIC_INFORMATION>()) == UIntPtr.Zero) break;
                 long size = (long)mbi.RegionSize;
-                bool ok = mbi.State == 0x1000 /*COMMIT*/ && (mbi.Protect & 0x04 /*RW*/ ) != 0 && (mbi.Protect & 0x100) == 0;
-                if (ok && size < 512L * 1024 * 1024)
+                bool ok = mbi.State == 0x1000 && (mbi.Protect & READABLE) != 0 && (mbi.Protect & 0x100) == 0
+                          && !own.Contains((long)mbi.AllocationBase);
+                const long CHUNK = 64L * 1024 * 1024;
+                for (long off = 0; ok && off < size && hits < 300; off += CHUNK)
                 {
-                    var buf = new byte[size];
-                    if (ReadProcessMemory(proc, mbi.BaseAddress, buf, (IntPtr)size, out _))
+                    long n = Math.Min(CHUNK + 256, size - off);
+                    var buf = new byte[n];
+                    if (!ReadProcessMemory(proc, (IntPtr)((long)mbi.BaseAddress + off), buf, (IntPtr)n, out _)) break;
+                    foreach (var (name, p) in pats)
                     {
-                        foreach (var (name, p) in pats)
+                        for (int i = IndexOf(buf, p, 0); i >= 0 && hits < 300; i = IndexOf(buf, p, i + 1))
                         {
-                            for (int i = IndexOf(buf, p, 0); i >= 0 && hits < 200; i = IndexOf(buf, p, i + 1))
-                            {
-                                hits++;
-                                long a = (long)mbi.BaseAddress + i;
-                                int s0 = Math.Max(0, i - 48), s1 = Math.Min(buf.Length, i + 80);
-                                Log($"hit {name} @ {a:X} (region {(long)mbi.BaseAddress:X} size {size:X})");
-                                Log("  " + BitConverter.ToString(buf, s0, s1 - s0).Replace("-", " "));
-                            }
+                            if (i >= CHUNK) break;   // overlap belongs to the next chunk
+                            hits++;
+                            long a = (long)mbi.BaseAddress + off + i;
+                            int s0 = Math.Max(0, i - 48), s1 = (int)Math.Min(buf.Length, i + 96);
+                            Log($"hit {name} @ {a:X} (region {(long)mbi.BaseAddress:X} size {size:X} prot {mbi.Protect:X} type {mbi.Type:X})");
+                            Log("  " + BitConverter.ToString(buf, s0, s1 - s0).Replace("-", " "));
                         }
                     }
                 }
