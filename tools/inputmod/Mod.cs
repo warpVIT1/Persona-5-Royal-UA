@@ -51,14 +51,21 @@ namespace P5RUkrInput
         static void HookWhenWindowExists()
         {
             var pid = (uint)Environment.ProcessId;
-            for (int i = 0; i < 600; i++)
+            for (int i = 0; i < 2400; i++)
             {
                 IntPtr found = IntPtr.Zero;
                 EnumWindows((h, _) =>
                 {
                     GetWindowThreadProcessId(h, out var p);
-                    if (p == pid && IsWindowVisible(h)) { found = h; return false; }
-                    return true;
+                    if (p != pid || !IsWindowVisible(h)) return true;
+                    var cls = new StringBuilder(256);
+                    GetClassNameW(h, cls, 256);
+                    // skip the Reloaded console and other helper windows; the game window is large
+                    if (cls.ToString() == "ConsoleWindowClass") return true;
+                    GetWindowRect(h, out var r);
+                    if (r.Right - r.Left < 320 || r.Bottom - r.Top < 200) return true;
+                    found = h;
+                    return false;
                 }, IntPtr.Zero);
                 if (found != IntPtr.Zero)
                 {
@@ -151,6 +158,8 @@ namespace P5RUkrInput
         [DllImport("user32.dll")] static extern bool EnumWindows(EnumProc cb, IntPtr l);
         [DllImport("user32.dll")] static extern uint GetWindowThreadProcessId(IntPtr h, out uint pid);
         [DllImport("user32.dll")] static extern bool IsWindowVisible(IntPtr h);
+        [DllImport("user32.dll")] static extern bool GetWindowRect(IntPtr h, out RECT r);
+        [StructLayout(LayoutKind.Sequential)] struct RECT { public int Left, Top, Right, Bottom; }
         [DllImport("user32.dll", CharSet = CharSet.Unicode)] static extern int GetClassNameW(IntPtr h, StringBuilder sb, int n);
         [DllImport("user32.dll")] static extern IntPtr SetWindowLongPtrW(IntPtr h, int idx, IntPtr v);
         [DllImport("user32.dll")] static extern IntPtr CallWindowProcW(IntPtr prev, IntPtr h, uint msg, IntPtr w, IntPtr l);
