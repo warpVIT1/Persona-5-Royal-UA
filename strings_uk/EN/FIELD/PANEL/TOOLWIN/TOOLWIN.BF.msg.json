@@ -5,63 +5,63 @@
    "id": "MSG_MAKE_CHECK_MORU_FIRS#0",
    "speaker": "Morgana",
    "en": "Everyone starts off a little clumsy.[n]Don't be sad if it doesn't go well at[n]first, okay?",
-   "uk": "",
+   "uk": "Спочатку всі трохи незграбні.[n]Не засмучуйся, якщо одразу[n]не вийде, гаразд?",
    "note": ""
   },
   {
    "id": "MSG_MAKE_CHECK_MORU#0",
    "speaker": "Morgana",
    "en": "So, you want to make [var 2][n]of the [f 2 5 3 9999 0]?",
-   "uk": "",
+   "uk": "Отже, хочеш зробити [var 2] шт.:[n][f 2 5 3 9999 0]?",
    "note": ""
   },
   {
    "id": "MND_MAKE_CHECK#0",
    "speaker": null,
    "en": "Time to try making a [f 2 5 3 9999 0]...",
-   "uk": "",
+   "uk": "Спробую зробити: [f 2 5 3 9999 0]...",
    "note": ""
   },
   {
    "id": "MSG_TOOL_WIN_INFO_MORU#0",
    "speaker": "Morgana",
    "en": "There's a lot you can make other than[n]just lockpicks. Try to go for whatever[n]you need right now.",
-   "uk": "",
+   "uk": "Можна зробити багато чого, крім[n]відмичок. Роби те, що потрібно[n]саме зараз.",
    "note": ""
   },
   {
    "id": "MSG_TOOL_WIN_INFO#0",
    "speaker": null,
    "en": "Use the [clr 2][f 1 10 47][clr 27] or [clr 2][f 1 10 48][clr 27] to switch[n]between the various types of tools[n]you can create.",
-   "uk": "",
+   "uk": "Перемикайте види інструментів кнопками[n][clr 2][f 1 10 47][clr 27] і [clr 2][f 1 10 48][clr 27].",
    "note": ""
   },
   {
    "id": "MSG_Kawakami_Think_Not10#0",
    "speaker": "Morgana",
    "en": "If you pay [var 1] yen, you could ask[n]Kawakami to do it—but, she IS an[n]amateur, so don't expect too much.",
-   "uk": "",
+   "uk": "За [var 1] єн можна попросити Кавакамі[n]зробити це — але вона ж аматорка,[n]тож на багато не розраховуй.",
    "note": ""
   },
   {
    "id": "MSG_Kawakami_Think_Yes10#0",
    "speaker": "Morgana",
    "en": "You wanna ask Kawakami to do it?[n]Well, she IS an amateur, so don't[n]expect too much.",
-   "uk": "",
+   "uk": "Хочеш попросити Кавакамі?[n]Ну, вона ж аматорка, тож[n]на багато не розраховуй.",
    "note": ""
   },
   {
    "id": "SEL_MakeThink#0",
    "speaker": null,
    "en": "Make it",
-   "uk": "",
+   "uk": "Зробити",
    "note": ""
   },
   {
    "id": "SEL_MakeThink#1",
    "speaker": null,
    "en": "Make it alone",
-   "uk": "",
+   "uk": "Зробити самому",
    "note": ""
   },
   {
@@ -82,21 +82,21 @@
    "id": "MSG_NotMaterial_FIRST#0",
    "speaker": "Morgana",
    "en": "We're trying to make a [itemIcon 8 0 0 39][clr 3]Lockpick[clr 27],[n]you know. That's not it.",
-   "uk": "",
+   "uk": "Ми ж намагаємося зробити [itemIcon 8 0 0 39][clr 3]Відмичку[clr 27].[n]Це не те.",
    "note": ""
   },
   {
    "id": "MSG_NotMaterial#0",
    "speaker": "Morgana",
    "en": "You don't have the materials...",
-   "uk": "",
+   "uk": "У тебе немає матеріалів...",
    "note": ""
   },
   {
    "id": "MSG_ItemOver#0",
    "speaker": "Morgana",
    "en": "...Do you really need to make more[n]of that?",
-   "uk": "",
+   "uk": "...Тобі справді треба ще цього?",
    "note": ""
   },
   {
@@ -117,7 +117,7 @@
    "id": "MSG_Kawakami_NoMoney#0",
    "speaker": "Morgana",
    "en": "...Don't you need some more money?",
-   "uk": "",
+   "uk": "...Тобі хіба не треба ще грошей?",
    "note": ""
   },
   {
@@ -131,14 +131,14 @@
    "id": "MSG_curry_requested#0",
    "speaker": "Morgana",
    "en": "Wait, you already asked Kawakami to[n]make you curry. You can't request this[n]of her now.",
-   "uk": "",
+   "uk": "Стривай, ти вже попросив Кавакамі[n]приготувати карі. Зараз про це[n]її просити не можна.",
    "note": ""
   },
   {
    "id": "MSG_coffee_requested#0",
    "speaker": "Morgana",
    "en": "Wait, you already asked Kawakami to[n]make you coffee. You can't request this[n]of her now.",
-   "uk": "",
+   "uk": "Стривай, ти вже попросив Кавакамі[n]зварити каву. Зараз про це[n]її просити не можна.",
    "note": ""
   },
   {
@@ -152,7 +152,7 @@
    "id": "MSG_PHONE_KAWAKAMI#1",
    "speaker": "Kawakami",
    "en": "Oh, wait, it's you... Did you want to[n]use the delivery service?",
-   "uk": "",
+   "uk": "О, стривай, це ти... Хотів скористатися[n]послугою на виклик?",
    "note": ""
   },
   {
@@ -173,14 +173,14 @@
    "id": "MSG_PHONE_KAWAKAMI_OffDa#1",
    "speaker": "Kawakami",
    "en": "Oh, wait, it's you... I'm off today, but if[n]you just want housekeeping, I don't mind.",
-   "uk": "",
+   "uk": "О, стривай, це ти... Сьогодні в мене вихідний,[n]але якщо просто прибирання, то я не проти.",
    "note": ""
   },
   {
    "id": "MSG_PHONE_KAWAKAMI_OffDa#2",
    "speaker": "Kawakami",
    "en": "It's still work, so I'll head over after[n]I change. Hold on for a bit.",
-   "uk": "",
+   "uk": "Це все ж робота, тож я прийду, щойно[n]переодягнуся. Зачекай трохи.",
    "note": ""
   },
   {
@@ -201,56 +201,56 @@
    "id": "MSG_PHONE_RMAX_KAWAKAMI#2",
    "speaker": "Kawakami",
    "en": "...I'll head over there. Just wait for[n]me a bit.",
-   "uk": "",
+   "uk": "...Я прийду. Зачекай на мене[n]трохи.",
    "note": ""
   },
   {
    "id": "MSG_001_0_0#0",
    "speaker": "Kawakami",
    "en": "So this is where I'll be working?[n]I understand.",
-   "uk": "",
+   "uk": "То ось де я працюватиму?[n]Зрозуміла.",
    "note": ""
   },
   {
    "id": "MSG_001_0_0#1",
    "speaker": "Kawakami",
    "en": "It will take a while until my work is done...",
-   "uk": "",
+   "uk": "Поки я закінчу, мине чимало часу...",
    "note": ""
   },
   {
    "id": "MSG_001_0_0#2",
    "speaker": "Kawakami",
    "en": "Please go kill time somewhere!",
-   "uk": "",
+   "uk": "Будь ласка, піди кудись погуляй!",
    "note": ""
   },
   {
    "id": "MSG_Daiko_Start_Common#0",
    "speaker": "Kawakami",
    "en": "Well then, I'll be working here just as[n]I did last time.",
-   "uk": "",
+   "uk": "Що ж, працюватиму тут,[n]як і минулого разу.",
    "note": ""
   },
   {
    "id": "MSG_Daiko_Start_Common#1",
    "speaker": "Kawakami",
    "en": "It will take a while until my work is done...",
-   "uk": "",
+   "uk": "Поки я закінчу, мине чимало часу...",
    "note": ""
   },
   {
    "id": "MSG_Daiko_Start_Common#2",
    "speaker": "Kawakami",
    "en": "Please go kill time somewhere!",
-   "uk": "",
+   "uk": "Будь ласка, піди кудись погуляй!",
    "note": ""
   },
   {
    "id": "MSG_TEST_KAWAKAMI#0",
    "speaker": "Kawakami",
    "en": "Thank you for your continued patronage.[n]That'll cost you an advance payment of[n]5,000 yen.",
-   "uk": "",
+   "uk": "Дякую, що знову звертаєтеся.[n]Передоплата — 5 000 єн.",
    "note": ""
   },
   {
@@ -278,7 +278,7 @@
    "id": "MSG_LuckeyBonus#0",
    "speaker": "Morgana",
    "en": "Wow! What an efficient use of materials![n]You ended up with even more than I[n]had expected.",
-   "uk": "",
+   "uk": "Ого! Як ощадливо використав матеріали![n]Вийшло навіть більше, ніж[n]я очікував.",
    "note": ""
   }
  ]
