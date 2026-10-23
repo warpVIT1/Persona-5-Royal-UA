@@ -35,9 +35,9 @@ def export():
     SHEET.parent.mkdir(exist_ok=True)
     with open(SHEET, "w", encoding="utf-8-sig", newline="") as f:
         w = csv.writer(f, delimiter=";")
-        w.writerow(["Розділ", "category", "en", "uk", "alternatives", "count", "status", "note"])
+        w.writerow(["Розділ", "category", "en", "uk", "count", "status", "note"])
         for title, cat, r in out:
-            w.writerow([title, cat, r["en"], r["uk"], r["alternatives"], r["count"], r["status"], r["note"]])
+            w.writerow([title, cat, r["en"], r["uk"], r["count"], r["status"], r["note"]])
     print(f"{len(out)} names -> {SHEET.relative_to(ROOT)}")
 
 
