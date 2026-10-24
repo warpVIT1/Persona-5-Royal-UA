@@ -10,7 +10,8 @@
 //   * optionally (Config.ConvertOldNames) converts Latin names from other translations' saves by the
 //     Ukrainian keyboard layout (ieyhfy -> шунран).
 //
-// Buffers (RVA in the current Steam P5R.exe): surname 0x28654B6 [20], name 0x28654CA [20], team 0x28654DE [40].
+// Buffers (RVA in the current Steam P5R.exe): surname 0x28654B6 [20], name 0x28654CA [20], full name 0x28654DE [40],
+// Phantom Thieves team name 0x2865506 [28].
 // They are checked against the code that reads them before use.
 using System;
 using System.Collections.Generic;
@@ -29,7 +30,8 @@ namespace P5RUkr
         {
             (0xD64649, 0x28654B6, 0x14, "surname"),
             (0xD65449, 0x28654CA, 0x14, "name"),
-            (0xD646C9, 0x28654DE, 0x28, "team"),
+            (0xD646C9, 0x28654DE, 0x28, "fullname"),
+            (0xD6558A, 0x2865506, 0x1C, "team"),
         };
 
         // Ukrainian keyboard layout over the US one (the game accepts letters and some punctuation keys)
@@ -45,7 +47,7 @@ namespace P5RUkr
         static Config _cfg;
         static Dictionary<char, byte[]> _enc;
         static long _base;
-        static readonly string[] _last = new string[3];
+        static readonly string[] _last = new string[Buffers.Length];
         // Latin word -> its Cyrillic form, for every name converted so far (the full-name buffer is built from them)
         static readonly Dictionary<string, string> Known = new(StringComparer.OrdinalIgnoreCase);
         static readonly HashSet<string> Logged = new();
@@ -63,7 +65,7 @@ namespace P5RUkr
             foreach (var b in Buffers)
             {
                 byte* p = (byte*)(_base + b.lea);
-                if (p[0] != 0x48 || p[1] != 0x8D || p[2] != 0x0D || b.lea + 7 + *(int*)(p + 3) != b.buf)
+                if (p[0] != 0x48 || p[1] != 0x8D || (p[2] & 0xC7) != 0x05 || b.lea + 7 + *(int*)(p + 3) != b.buf)
                 {
                     Mod.Log($"names: unexpected code at +{b.lea:X} (different game version?), name support disabled");
                     return;
