@@ -176,6 +176,14 @@ def main():
     with open(MOD / "namechars.tsv", "w", encoding="utf-8", newline="\n") as w:
         for c in letters + letters.upper() + "'":
             w.write(f"{c}\t{atlusenc.encode(c, 'P5R_UKR').hex()}\n")
+    # the name-entry field holds UTF-16 and maps it to glyphs with the game's own (EFIGS) table: a letter our font
+    # keeps at a different index (і ї є ґ) is written as the EFIGS character that sits at that index
+    ukr = atlusenc.read_charset(ROOT / "work/font/ukr/P5R_UKR.tsv")
+    efigs = atlusenc.read_charset(atlusenc.CHARSETS / "P5R_EFIGS.tsv")
+    with open(MOD / "entrychars.tsv", "w", encoding="utf-8", newline="\n") as w:
+        for c in letters + letters.upper():
+            i = ukr.index(c)
+            w.write(f"{c}\t{efigs[i] if i < len(efigs) else c}\n")
 
     todo = list(targets(a.path))
     print(f"{len(todo)} files with translation to compile", flush=True)

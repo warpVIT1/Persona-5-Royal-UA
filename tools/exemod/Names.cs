@@ -70,7 +70,11 @@ namespace P5RUkr
             }
             Mod.Log("names: buffers verified");
             Window.OnMessage += OnMessage;
-            if (cfg.UkrainianNameInput) Window.CharFilter = ToLatinKey;
+            if (cfg.UkrainianNameInput)
+            {
+                Window.CharFilter = ToLatinKey;
+                Entry.Start(modDir);
+            }
             new Thread(Poll) { IsBackground = true }.Start();
         }
 
@@ -96,6 +100,12 @@ namespace P5RUkr
             return char.IsUpper(c) ? char.ToUpper(lat) : lat;
         }
 
+        // the entry being typed now: (Latin from the keys, characters Windows produced)
+        public static (string, string) CurrentSegment()
+        {
+            lock (Lock) { var (l, c) = Typed[^1]; return (l.ToString(), c.ToString()); }
+        }
+
         // ---------- keyboard ----------
         const uint WM_KEYDOWN = 0x100, WM_CHAR = 0x102;
 
@@ -119,6 +129,7 @@ namespace P5RUkr
                 {
                     char c = (char)(int)w;
                     if (char.IsLetterOrDigit(c) || c == ' ' || c == '\'') chr.Append(c);
+                    Entry.Touch();
                 }
             }
         }
