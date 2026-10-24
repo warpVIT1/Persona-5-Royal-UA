@@ -11,7 +11,9 @@ Steps:
   3. output layout (Persona Essentials):
        loose CPK files   -> dist/p5rpc.ukrainian/P5REssentials/CPK/EN.CPK/<path>
        files in archives -> dist/p5rpc.ukrainian/FEmulator/PAK/<archive path>/<file>   (PAK emulator)
-  4. FONT0.FNT with Cyrillic, ModConfig.json
+       BMDs inside P5R.exe (EXE/X.BMD) -> dist/p5rpc.ukrainian/exebmd/<sha1 of English blob>.bmd,
+                                          loaded by the mod DLL (tools/exemod, see exe_bmd.py)
+  4. FONT0.FNT with Cyrillic, mod DLL, ModConfig.json
 Report: docs/build_report.md (compiled / skipped / failed).
 """
 import argparse
@@ -34,6 +36,10 @@ CPK = MOD / "P5REssentials/CPK/EN.CPK"
 PAK = MOD / "FEmulator/PAK"
 CONTAINER = re.compile(r"\.(PAK|PAC|BIN|ARC)$", re.I)
 COMMON = ["-Library", "P5R", "-Encoding", "P5R_UKR"]
+EXEMOD = ROOT / "tools/exemod"
+# EXE/X.BMD -> SHA-1 of the English blob in P5R.exe (written by exe_bmd.py extract)
+_h = ROOT / "extracted/EXE/hashes.tsv"
+EXE_HASHES = dict(l.split("\t")[:2] for l in _h.read_text(encoding="utf-8").splitlines()) if _h.exists() else {}
 
 
 def norm(s):
@@ -41,7 +47,7 @@ def norm(s):
 
 
 def targets(prefix):
-    for msg in sorted((TR / "EN").rglob("*.msg")):
+    for msg in sorted([*(TR / "EN").rglob("*.msg"), *(TR / "EXE").rglob("*.msg")]):
         rel = msg.relative_to(TR)
         if not rel.as_posix().startswith(prefix):
             continue
@@ -55,6 +61,8 @@ def out_path(rel):
     """rel = EN/<path>/X.BMD.msg -> destination of the compiled binary."""
     parts = list(rel.parts[1:])
     parts[-1] = parts[-1][: -len(".msg")]
+    if rel.parts[0] == "EXE":
+        return MOD / "exebmd" / (EXE_HASHES[parts[-1]] + ".bmd")
     for i, p in enumerate(parts[:-1]):
         if CONTAINER.search(p):
             return PAK.joinpath(*parts)   # inside an archive: emulator merges it into the PAK
@@ -153,6 +161,11 @@ def main():
     # chat icons are looked up by speaker name -> add the Ukrainian names
     subprocess.run([sys.executable, str(ROOT / "tools/scripts/speakerdat.py"), str(CPK / "FONT/SPEAKER.DAT")], check=True)
     shutil.copy(ROOT / "tools/mod/ModConfig.template.json", MOD / "ModConfig.json")
+    # DLL that swaps in the translated BMDs embedded in P5R.exe
+    subprocess.run(["dotnet", "build", "-c", "Release", "-v", "q", "-nologo"], cwd=EXEMOD, check=True)
+    for f in (EXEMOD / "bin/Release/net8.0-windows").glob("p5rpc.ukrainian.*"):
+        if f.suffix != ".pdb":
+            shutil.copy(f, MOD / f.name)
 
     todo = list(targets(a.path))
     print(f"{len(todo)} files with translation to compile", flush=True)

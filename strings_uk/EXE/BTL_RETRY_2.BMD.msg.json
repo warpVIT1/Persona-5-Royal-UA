@@ -1,0 +1,54 @@
+{
+ "file": "EXE/BTL_RETRY_2.BMD",
+ "entries": [
+  {
+   "id": "btl_retry_00#0",
+   "speaker": null,
+   "en": "You can start over if you would[n]like to attempt this battle again.[n]Restart?",
+   "uk": "Можна почати спочатку, якщо хочете[n]спробувати пройти цей бій ще раз.[n]Почати знову?",
+   "note": ""
+  },
+  {
+   "id": "btl_retry_sel_00#0",
+   "speaker": null,
+   "en": "Yes.",
+   "uk": "Так.",
+   "note": ""
+  },
+  {
+   "id": "btl_retry_sel_00#1",
+   "speaker": null,
+   "en": "No.",
+   "uk": "Ні.",
+   "note": ""
+  },
+  {
+   "id": "btl_bougai_00#0",
+   "speaker": null,
+   "en": "Would you like to request[n]assistance from the Thieves Guild?[n](Requests remaining: [var 0])",
+   "uk": "Попросити допомоги[n]в Гільдії Злодіїв?[n](Залишилось запитів: [var 0])",
+   "note": ""
+  },
+  {
+   "id": "btl_bougai_sel_00#0",
+   "speaker": null,
+   "en": "Request assistance",
+   "uk": "Попросити про допомогу",
+   "note": ""
+  },
+  {
+   "id": "btl_bougai_sel_00#1",
+   "speaker": null,
+   "en": "Don't request assistance",
+   "uk": "Не просити про допомогу",
+   "note": ""
+  },
+  {
+   "id": "btl_bougai_01#0",
+   "speaker": null,
+   "en": "Another band of thieves[n]has answered your request!",
+   "uk": "Інша банда злодіїв[n]відгукнулася на ваш запит!",
+   "note": ""
+  }
+ ]
+}

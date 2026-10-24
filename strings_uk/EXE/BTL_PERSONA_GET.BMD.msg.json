@@ -1,0 +1,40 @@
+{
+ "file": "EXE/BTL_PERSONA_GET.BMD",
+ "entries": [
+  {
+   "id": "btl_pget_00#0",
+   "speaker": null,
+   "en": "Your Persona stock is currently[n]at full capacity, so please select[n]a Persona to discard.",
+   "uk": "Запас персон зараз заповнено,[n]тож оберіть персону,[n]від якої відмовитеся.",
+   "note": ""
+  },
+  {
+   "id": "btl_pget_01#0",
+   "speaker": null,
+   "en": "Are you sure you would like[n]to discard [var 0]?",
+   "uk": "Справді відмовитися[n]від [var 0]?",
+   "note": ""
+  },
+  {
+   "id": "btl_pget_02#0",
+   "speaker": null,
+   "en": "You discarded [var 0].",
+   "uk": "Ви відмовилися від [var 0].",
+   "note": ""
+  },
+  {
+   "id": "btl_pget_sel_00#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "Так",
+   "note": ""
+  },
+  {
+   "id": "btl_pget_sel_00#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "Ні",
+   "note": ""
+  }
+ ]
+}
