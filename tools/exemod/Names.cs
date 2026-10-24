@@ -175,15 +175,13 @@ namespace P5RUkr
         // "Nfhfc Itdxtyrj" -> "Тарас Шевченко" when every word was converted before
         static string FromKnown(string cur)
         {
+            // words typed in English stay as they are ("Ren Itdxtyrj" -> "Ren Шевченко")
             var words = cur.Split(' ');
             if (words.Length < 2) return null;
+            bool any = false;
             for (int k = 0; k < words.Length; k++)
-            {
-                if (words[k].Length == 0) continue;
-                if (!Known.TryGetValue(words[k], out var w)) return null;
-                words[k] = w;
-            }
-            return string.Join(" ", words);
+                if (Known.TryGetValue(words[k], out var w)) { words[k] = w; any = true; }
+            return any ? string.Join(" ", words) : null;
         }
 
         // The game stores names in its own encoding: plain ASCII bytes or 2-byte codes 0x80 xx where
