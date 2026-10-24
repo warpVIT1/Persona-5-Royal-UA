@@ -207,6 +207,13 @@ def main():
     with open(MOD / "namechars.tsv", "w", encoding="utf-8", newline="\n") as w:
         for c in letters + letters.upper() + "'":
             w.write(f"{c}\t{atlusenc.encode(c, 'P5R_UKR').hex()}\n")
+    # Steam "Play" launcher (tools/launcher): Steam launch options  "<mod>\launcher\P5R_UA_Launcher.exe" %command%
+    launcher = ROOT / "tools/launcher"
+    subprocess.run(["dotnet", "build", "-c", "Release", "-v", "q", "-nologo"], cwd=launcher, check=True)
+    (MOD / "launcher").mkdir(exist_ok=True)
+    for f in (launcher / "bin/Release/net8.0-windows").glob("P5R_UA_Launcher.*"):
+        if f.suffix != ".pdb":
+            shutil.copy(f, MOD / "launcher" / f.name)
     # anime cutscene subtitles (tools/scripts/subtitles.py, loaded by the DLL)
     subprocess.run([sys.executable, str(ROOT / "tools/scripts/subtitles.py"), "build", "--out", str(MOD / "subs.tsv")], check=True)
     # the name-entry field holds UTF-16 and maps it to glyphs with the game's own (EFIGS) table: a letter our font
