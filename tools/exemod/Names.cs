@@ -48,6 +48,7 @@ namespace P5RUkr
         static readonly string[] _last = new string[3];
         // Latin word -> its Cyrillic form, for every name converted so far (the full-name buffer is built from them)
         static readonly Dictionary<string, string> Known = new(StringComparer.OrdinalIgnoreCase);
+        static readonly HashSet<string> Logged = new();
 
         // typed segments: Latin (from virtual keys) and the characters Windows actually produced
         static readonly List<(StringBuilder lat, StringBuilder chr)> Typed = new() { (new(), new()) };
@@ -73,7 +74,9 @@ namespace P5RUkr
             if (cfg.UkrainianNameInput)
             {
                 Window.CharFilter = ToLatinKey;
-                Entry.Start(modDir);
+                // Entry.Start(modDir);  // live Cyrillic in the entry field: disabled — the field has several copies,
+                //                          the memory search can hit the wrong one (see Entry.cs); needs the code path
+
             }
             new Thread(Poll) { IsBackground = true }.Start();
         }
@@ -156,7 +159,7 @@ namespace P5RUkr
             if (cur == _last[i]) return;
             _last[i] = cur;
             if (string.IsNullOrEmpty(cur)) return;
-            Mod.Log($"names: {b.what} = '{cur}'");
+            if (Logged.Add("=" + b.what + cur)) Mod.Log($"names: {b.what} = '{cur}'");
 
             string uk = null;
             if (_cfg.UkrainianNameInput) uk = FromTyped(cur);
@@ -168,7 +171,8 @@ namespace P5RUkr
             {
                 _last[i] = null;
                 if (!cur.Contains(' ')) Known[cur] = uk;
-                Mod.Log($"names: {b.what} '{cur}' -> '{uk}'");
+                // the confirm screen copies the entry into the buffers every frame: log each conversion once
+                if (Logged.Add(b.what + cur)) Mod.Log($"names: {b.what} '{cur}' -> '{uk}'");
             }
         }
 
