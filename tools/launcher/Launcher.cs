@@ -50,12 +50,40 @@ namespace P5RUkrLauncher
                                 IntPtr.Zero, Path.GetDirectoryName(game), ref si, out var pi))
             { Log("CreateProcess failed: " + Marshal.GetLastWin32Error()); return 4; }
 
+            var started = DateTime.Now.AddSeconds(-2);
             bool ok = Inject(pi.hProcess, boot);
             Log(ok ? "bootstrapper loaded" : "injection failed");
+            // Reloaded sets up its mods asynchronously; the game may run only after that (the CRI file hook must be in
+            // place before the game opens its archives). Reloaded-II's launcher waits too: wait for its log line.
+            if (ok) Log(WaitForLoader(started) ? "mods loaded" : "timed out waiting for Reloaded, resuming anyway");
             ResumeThread(pi.hThread);
             CloseHandle(pi.hThread);
             CloseHandle(pi.hProcess);
             return ok ? 0 : 5;
+        }
+
+        // Reloaded writes "[Reloaded] Total Loader Initialization Time" to its newest P5R log when all mods are loaded
+        static bool WaitForLoader(DateTime since)
+        {
+            var dir = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData),
+                                   "Reloaded-Mod-Loader-II", "Logs");
+            var until = DateTime.Now.AddSeconds(30);
+            while (DateTime.Now < until)
+            {
+                try
+                {
+                    foreach (var f in new DirectoryInfo(dir).GetFiles("*P5R*.txt"))
+                    {
+                        if (f.LastWriteTime < since) continue;
+                        using var s = new FileStream(f.FullName, FileMode.Open, FileAccess.Read, FileShare.ReadWrite | FileShare.Delete);
+                        using var r = new StreamReader(s);
+                        if (r.ReadToEnd().Contains("Total Loader Initialization Time")) return true;
+                    }
+                }
+                catch { }
+                System.Threading.Thread.Sleep(100);
+            }
+            return false;
         }
 
         static bool Inject(IntPtr proc, string dll)
