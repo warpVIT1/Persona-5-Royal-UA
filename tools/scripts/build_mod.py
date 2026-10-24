@@ -98,6 +98,31 @@ def splice_bf(bf, bmd):
     return bytes(out)
 
 
+def original_bytes(rel):
+    """Original game file for rel = EN/<path>/X.BF.msg; a container in the path becomes a PAK lookup
+    (entry names may contain '/', so the remaining parts are joined greedily)."""
+    from inventory import parse_pak
+    parts = list(rel.parts[1:])
+    parts[-1] = parts[-1][: -len(".msg")]
+    for i, p in enumerate(parts[:-1]):
+        if CONTAINER.search(p):
+            data = (ROOT / "extracted/EN").joinpath(*parts[: i + 1]).read_bytes()
+            rest = parts[i + 1:]
+            while rest:
+                ents = {n.strip().upper(): (o, s) for n, o, s in parse_pak(data) or []}
+                for k in range(len(rest), 0, -1):
+                    key = "/".join(rest[:k]).upper()
+                    if key in ents:
+                        o, s = ents[key]
+                        data, rest = data[o:o + s], rest[k:]
+                        break
+                else:
+                    return None
+            return data
+    p = (ROOT / "extracted/EN").joinpath(*parts)
+    return p.read_bytes() if p.exists() else None
+
+
 def compile_one(rel):
     msg = TR / rel
     name = msg.name[: -len(".msg")]                 # X.BMD or X.BF
@@ -109,20 +134,25 @@ def compile_one(rel):
             shutil.copy(f, tmp / f.name)
         m = tmp / msg.name   # the game font lacks some typographic characters
         m.write_text(M.sanitize(m.read_text(encoding="utf-8-sig")), encoding="utf-8")
-        if is_bf:
-            args = [str(COMPILER), flow.name, "-Compile", "-OutFormat", "V3BE", *COMMON, "-Out", name]
-        else:
-            args = [str(COMPILER), msg.name, "-Compile", "-OutFormat", "V1BE", *COMMON, "-Out", name]
-        subprocess.run(args, cwd=tmp, capture_output=True)
         out = tmp / name
-        if is_bf and (not out.exists() or out.stat().st_size == 0):
-            # the decompiled flow does not recompile: keep the original code, replace only the message section
-            orig = ROOT / "extracted" / rel.with_suffix("")
+        if is_bf:
+            # keep the ORIGINAL compiled code and replace only its message section: recompiling the decompiled
+            # flow renumbers global variables (sVar9 -> sVar0 ...), which scripts share with each other
+            orig = original_bytes(rel)
             bmd = tmp / (name + ".bmd")
             subprocess.run([str(COMPILER), msg.name, "-Compile", "-OutFormat", "V1BE", *COMMON, "-Out", bmd.name],
                            cwd=tmp, capture_output=True)
-            if orig.exists() and bmd.exists() and bmd.stat().st_size:
-                out.write_bytes(splice_bf(orig.read_bytes(), bmd.read_bytes()))
+            if orig and bmd.exists() and bmd.stat().st_size:
+                try:
+                    out.write_bytes(splice_bf(orig, bmd.read_bytes()))
+                except ValueError:
+                    pass
+            if not out.exists():   # unusual layout: fall back to recompiling the flow
+                subprocess.run([str(COMPILER), flow.name, "-Compile", "-OutFormat", "V3BE", *COMMON, "-Out", name],
+                               cwd=tmp, capture_output=True)
+        else:
+            subprocess.run([str(COMPILER), msg.name, "-Compile", "-OutFormat", "V1BE", *COMMON, "-Out", name],
+                           cwd=tmp, capture_output=True)
         if not out.exists() or out.stat().st_size == 0:
             log = tmp / "AtlusScriptCompiler.log"
             err = ""
