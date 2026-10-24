@@ -61,6 +61,35 @@ def out_path(rel):
     return CPK.joinpath(*parts)
 
 
+def splice_bf(bf, bmd):
+    """Original FlowScript (FLW0, big-endian) with its message section (type 3) replaced by `bmd`.
+
+    Header: u32 0, u32 file size @0x04, "FLW0" @0x08, u32 section count @0x10; section table @0x20,
+    16 bytes each: type, element size, element count, offset. Code refers to messages by index,
+    so only the message section and the offsets after it change.
+    """
+    import struct
+    if bf[8:12] != b"FLW0":
+        raise ValueError("not a FLW0 script")
+    out = bytearray(bf)
+    n = struct.unpack_from(">I", bf, 0x10)[0]
+    secs = [list(struct.unpack_from(">IIII", bf, 0x20 + 16 * i)) for i in range(n)]
+    msg = [s for s in secs if s[0] == 3]
+    if len(msg) != 1 or msg[0][1] != 1:
+        raise ValueError("unexpected message section layout")
+    _, _, size, off = msg[0]
+    out[off:off + size] = bmd
+    delta = len(bmd) - size
+    for i, s in enumerate(secs):
+        if s[0] == 3:
+            s[2] = len(bmd)
+        elif s[3] > off:
+            s[3] += delta
+        struct.pack_into(">IIII", out, 0x20 + 16 * i, *s)
+    struct.pack_into(">I", out, 4, len(out))
+    return bytes(out)
+
+
 def compile_one(rel):
     msg = TR / rel
     name = msg.name[: -len(".msg")]                 # X.BMD or X.BF
@@ -78,6 +107,14 @@ def compile_one(rel):
             args = [str(COMPILER), msg.name, "-Compile", "-OutFormat", "V1BE", *COMMON, "-Out", name]
         subprocess.run(args, cwd=tmp, capture_output=True)
         out = tmp / name
+        if is_bf and (not out.exists() or out.stat().st_size == 0):
+            # the decompiled flow does not recompile: keep the original code, replace only the message section
+            orig = ROOT / "extracted" / rel.with_suffix("")
+            bmd = tmp / (name + ".bmd")
+            subprocess.run([str(COMPILER), msg.name, "-Compile", "-OutFormat", "V1BE", *COMMON, "-Out", bmd.name],
+                           cwd=tmp, capture_output=True)
+            if orig.exists() and bmd.exists() and bmd.stat().st_size:
+                out.write_bytes(splice_bf(orig.read_bytes(), bmd.read_bytes()))
         if not out.exists() or out.stat().st_size == 0:
             log = tmp / "AtlusScriptCompiler.log"
             err = ""
