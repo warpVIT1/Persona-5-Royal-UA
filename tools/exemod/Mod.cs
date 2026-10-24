@@ -104,7 +104,7 @@ namespace P5RUkr
             // 3. translations near the image (rel32 reach)
             long total = 0;
             foreach (var d in blobs.Values) total += (d.Length + 15) & ~15;
-            long mem = AllocNear(end, total);
+            long mem = AllocNear(start, end, total);
             if (mem == 0) { Log("could not allocate memory near the image"); return true; }
             var target = new Dictionary<long, long>();
             var placed = new Dictionary<byte[], long>();
@@ -164,14 +164,30 @@ namespace P5RUkr
             return list;
         }
 
-        static long AllocNear(long end, long size)
+        // free memory that every rel32 in [start, end) can reach: walk the address space map around the image
+        static long AllocNear(long start, long end, long size)
         {
-            const long step = 0x10000;
-            long from = (end + step - 1) & ~(step - 1);
-            for (long a = from; a < from + 0x40000000; a += step)
+            const long gran = 0x10000, reach = 0x7FF00000;
+            long lo = Math.Max(0x10000, end - reach), hi = start + reach - size;
+            for (long a = lo; a < hi;)
             {
-                var r = VirtualAlloc((IntPtr)a, (UIntPtr)size, 0x3000 /*COMMIT|RESERVE*/, 0x04 /*RW*/);
-                if (r != IntPtr.Zero) { Log($"allocated {size:X} at +{a - end:X} after image"); return (long)r; }
+                if (VirtualQuery((IntPtr)a, out var m, (UIntPtr)sizeof(MEMORY_BASIC_INFORMATION)) == UIntPtr.Zero) break;
+                long rs = (long)m.BaseAddress, re = rs + (long)m.RegionSize;
+                if (m.State == 0x10000 /*MEM_FREE*/)
+                {
+                    // prefer the part of the region closest to the image
+                    long cand = re <= start ? (re - size) & ~(gran - 1) : (Math.Max(rs, lo) + gran - 1) & ~(gran - 1);
+                    if (cand >= Math.Max(rs, lo) && cand + size <= Math.Min(re, hi + size))
+                    {
+                        var r = VirtualAlloc((IntPtr)cand, (UIntPtr)size, 0x3000 /*COMMIT|RESERVE*/, 0x04 /*RW*/);
+                        if (r != IntPtr.Zero)
+                        {
+                            Log($"allocated {size:X} at {(cand < start ? "-" + (start - cand).ToString("X") + " before" : "+" + (cand - end).ToString("X") + " after")} image");
+                            return (long)r;
+                        }
+                    }
+                }
+                a = re;
             }
             return 0;
         }

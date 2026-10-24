@@ -33,6 +33,9 @@ namespace P5RUkr
         };
 
         const string LatinKeys = "qwertyuiopasdfghjklzxcvbnm";
+        // placeholders the game keeps before a save is loaded, and the default English names: never converted
+        static readonly HashSet<string> Defaults = new(StringComparer.OrdinalIgnoreCase)
+            { "Protagonist", "Ren", "Amamiya", "Akira", "Kurusu", "The Phantoms", "Phantoms", "Joker" };
         const string UkrainianKeys = "йцукенгшщзфівапролдячсмить";
 
         static Config _cfg;
@@ -131,7 +134,7 @@ namespace P5RUkr
 
             string uk = null;
             if (_cfg.UkrainianNameInput) uk = FromTyped(cur);
-            if (uk == null && _cfg.ConvertOldNames && IsLetters(cur)) uk = ByLayout(cur);
+            if (uk == null && _cfg.ConvertOldNames && IsLetters(cur) && !Defaults.Contains(cur)) uk = ByLayout(cur);
             if (uk == null || uk == cur) return;
             if (Write(p, b.size, uk)) Mod.Log($"names: {b.what} '{cur}' -> '{uk}'");
         }
