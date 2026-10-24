@@ -3,6 +3,7 @@ using System;
 using System.ComponentModel;
 using System.IO;
 using System.Text.Json;
+using System.Text.Json.Serialization;
 using Reloaded.Mod.Interfaces;
 
 namespace P5RUkr
@@ -19,8 +20,8 @@ namespace P5RUkr
                      "Після перетворення збережіть гру.")]
         public bool ConvertOldNames { get; set; } = false;
 
-        [Browsable(false)] public string ConfigName { get; set; } = "Налаштування";
-        [Browsable(false)] public Action Save { get; set; }
+        [Browsable(false), JsonIgnore] public string ConfigName { get; set; } = "Налаштування";
+        [Browsable(false), JsonIgnore] public Action Save { get; set; }
 
         static readonly JsonSerializerOptions Json = new() { WriteIndented = true };
 
