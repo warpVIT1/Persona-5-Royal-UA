@@ -71,4 +71,4 @@ python tools/scripts/build_glossary.py           # glossary.csv (затверд�
 
 ## Подяки
 
-- Перемальовані текстури (меню, мапа, вивіски, міні-ігри, титульний екран) — команда LBK (LBK Launcher, https://lbklauncher.com).
+- Перемальовані текстури (меню, мапа, вивіски, міні-ігри, титульний екран) — команда [LBK](https://lbklauncher.com/).

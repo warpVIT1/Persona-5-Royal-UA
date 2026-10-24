@@ -50,5 +50,5 @@ to English. Source: https://github.com/warpVIT1/Persona-5-Royal-UA
 ## Credits
 
 - Переклад: warpVIT1 (P5R UA fan translation)
-- Перемальовані текстури (226 зображень: меню, мапа, вивіски, міні-ігри, титульний екран): команда LBK (LBK Launcher, https://lbklauncher.com)
+- Перемальовані текстури (226 зображень: меню, мапа, вивіски, міні-ігри, титульний екран): команда [LBK](https://lbklauncher.com/)
 - Інструменти: Atlus Script Tools (TGE), Persona Essentials / File Emulation Framework (Sewer56), Reloaded-II
