@@ -69,7 +69,10 @@ def build(prefix=""):
         # keep the original names there, otherwise every icon falls back to Morgana
         keep_names = rel.as_posix().startswith("EN/CAMP/CHAT/")
         for d in dialogs:
-            if d.speaker and d.speaker in speakers and not keep_names:
+            # phone messages keep the English speaker (the chat icon is looked up by it); the same files also hold
+            # face-to-face talks with a bust-up portrait ([bup ...]), where the name is shown and must be translated
+            phone = keep_names and not any("[bup " in p.raw for p in d.pages)
+            if d.speaker and d.speaker in speakers and not phone:
                 d.header = d.header.replace(f"[{d.speaker}]", f"[{speakers[d.speaker]}]", 1)
             for p in d.pages:
                 e = next(it)
