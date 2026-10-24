@@ -1,0 +1,334 @@
+{
+ "file": "EN/TITLE/FICTION.PAK/scriptDifficulty.bf",
+ "entries": [
+  {
+   "id": "MSG_000_0_0#0",
+   "speaker": null,
+   "en": "Test",
+   "uk": "Тест",
+   "note": ""
+  },
+  {
+   "id": "MSG_SYUKAI_CHECK_001#0",
+   "speaker": null,
+   "en": "In New Game+, you can carry over[n]some of your cleared save's data[n]to your new game.",
+   "uk": "У «Новій грі+» можна перенести[n]частину даних із пройденого[n]збереження в нову гру.",
+   "note": ""
+  },
+  {
+   "id": "MSG_SYUKAI_CHECK_001#1",
+   "speaker": null,
+   "en": "Would you like to import your[n]cleared story data?",
+   "uk": "Імпортувати дані пройденої[n]гри?",
+   "note": ""
+  },
+  {
+   "id": "MSG_SYUKAI_CHECK_002#0",
+   "speaker": null,
+   "en": "Data will now be imported to[n]your new game. This data is[n]comprised of:",
+   "uk": "Зараз дані буде перенесено[n]в нову гру. Це:",
+   "note": ""
+  },
+  {
+   "id": "MSG_SYUKAI_CHECK_002#1",
+   "speaker": null,
+   "en": "Social stats, Persona Compendium,[n]equipment, money, total playtime,[n]teammates' Persona development...",
+   "uk": "Соціальні якості, компендіум персон,[n]спорядження, гроші, час гри,[n]розвиток персон соратників...",
+   "note": ""
+  },
+  {
+   "id": "MSG_SYUKAI_CHECK_002#2",
+   "speaker": null,
+   "en": "Analyzed information, skill cards,[n]max HP and SP, challenge battles...",
+   "uk": "Зібрана інформація, картки навичок,[n]макс. HP і SP, випробувальні бої...",
+   "note": ""
+  },
+  {
+   "id": "MSG_SYUKAI_CHECK_002#3",
+   "speaker": null,
+   "en": "Customized guns, darts sets,[n]fishing poles, Perma-Picks,[n]number of stamps found...",
+   "uk": "Модифіковані пістолети, набори[n]дротиків, вудки, вічні відмички,[n]кількість знайдених марок...",
+   "note": ""
+  },
+  {
+   "id": "MSG_SYUKAI_CHECK_002#4",
+   "speaker": null,
+   "en": "Lastly, you will re-acquire any[n]special items received from your[n]Confidant relationships.",
+   "uk": "І насамкінець — ви знову отримаєте[n]особливі предмети, здобуті[n]завдяки Конфідентам.",
+   "note": ""
+  },
+  {
+   "id": "MSG_SYUKAI_CHECK_003#0",
+   "speaker": null,
+   "en": "Are you sure you do not want to[n]carry over your saved story data?",
+   "uk": "Точно не переносити дані[n]пройденої гри?",
+   "note": ""
+  },
+  {
+   "id": "MSG_SYUKAI_CHECK_004#0",
+   "speaker": null,
+   "en": "The game will begin without[n]carrying over cleared story data.",
+   "uk": "Гра почнеться без перенесення[n]даних пройденої гри.",
+   "note": ""
+  },
+  {
+   "id": "MSG_SYUKAI_CHECK_SELECT_#0",
+   "speaker": null,
+   "en": "Import cleared data",
+   "uk": "Імпортувати дані",
+   "note": ""
+  },
+  {
+   "id": "MSG_SYUKAI_CHECK_SELECT_#1",
+   "speaker": null,
+   "en": "Do not import cleared data",
+   "uk": "Не імпортувати дані",
+   "note": ""
+  },
+  {
+   "id": "MSG_SYUKAI_CHECK_SELECT__2#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "Так",
+   "note": ""
+  },
+  {
+   "id": "MSG_SYUKAI_CHECK_SELECT__2#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "Ні",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_GET_COSTUME_P4#0",
+   "speaker": null,
+   "en": "Obtained the [clr 4]Yasogami Uniforms[clr 27][n]and [clr 4][var 0][clr 27]. You can retrieve this[n]from the cardboard box in your room.",
+   "uk": "Отримано [clr 4]форму Ясоґамі[clr 27][n]і [clr 4][var 0][clr 27]. Їх можна взяти[n]з картонної коробки у вашій кімнаті.",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_GET_COSTUME_P3#0",
+   "speaker": null,
+   "en": "Obtained the [clr 4]Gekkoukan Uniforms[clr 27][n]and [clr 4][var 0][clr 27]. You can retrieve this[n]from the cardboard box in your room.",
+   "uk": "Отримано [clr 4]форму Ґеккокан[clr 27][n]і [clr 4][var 0][clr 27]. Їх можна взяти[n]з картонної коробки у вашій кімнаті.",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_GET_COSTUME_P2#0",
+   "speaker": null,
+   "en": "Obtained the [clr 4]Seven Sisters Uniforms[clr 27][n]and [clr 4][var 0][clr 27]. You can retrieve this[n]from the cardboard box in your room.",
+   "uk": "Отримано [clr 4]форму «Семи сестер»[clr 27][n]і [clr 4][var 0][clr 27]. Їх можна взяти[n]з картонної коробки у вашій кімнаті.",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_GET_COSTUME_IBUNR#0",
+   "speaker": null,
+   "en": "Obtained the [clr 4]St. Hermelin Uniforms[clr 27][n]and [clr 4][var 0][clr 27]. You can retrieve this[n]from the cardboard box in your room.",
+   "uk": "Отримано [clr 4]форму Св. Гермеліна[clr 27][n]і [clr 4][var 0][clr 27]. Їх можна взяти[n]з картонної коробки у вашій кімнаті.",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_GET_COSTUME_IF#0",
+   "speaker": null,
+   "en": "Obtained the [clr 4]Karukozaka Uniforms[clr 27][n]and [clr 4][var 0][clr 27]. You can retrieve this[n]from the cardboard box in your room.",
+   "uk": "Отримано [clr 4]форму Карукодзаки[clr 27][n]і [clr 4][var 0][clr 27]. Їх можна взяти[n]з картонної коробки у вашій кімнаті.",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_GET_COSTUME_P4D#0",
+   "speaker": null,
+   "en": "Obtained the [clr 4]Dancewear[clr 27][n]and [clr 4][var 0][clr 27]. You can retrieve this[n]from the cardboard box in your room.",
+   "uk": "Отримано [clr 4]танцювальні костюми[clr 27][n]і [clr 4][var 0][clr 27]. Їх можна взяти[n]з картонної коробки у вашій кімнаті.",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_GET_COSTUME_P4U#0",
+   "speaker": null,
+   "en": "Obtained the [clr 4]Shadow Ops Uniforms[clr 27][n]and [clr 4][var 0][clr 27]. You can retrieve this[n]from the cardboard box in your room.",
+   "uk": "Отримано [clr 4]форму тіньових операцій[clr 27][n]і [clr 4][var 0][clr 27]. Їх можна взяти[n]з картонної коробки у вашій кімнаті.",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_GET_COSTUME_MEGAM#0",
+   "speaker": null,
+   "en": "Obtained the [clr 4]Samurai Garb[clr 27][n]and [clr 4][var 0][clr 27]. You can retrieve this[n]from the cardboard box in your room.",
+   "uk": "Отримано [clr 4]вбрання самураїв[clr 27][n]і [clr 4][var 0][clr 27]. Їх можна взяти[n]з картонної коробки у вашій кімнаті.",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_GET_COSTUME_RAIDO#0",
+   "speaker": null,
+   "en": "Obtained the [clr 4]Student Uniforms[clr 27][n]and [clr 4][var 0][clr 27]. You can retrieve this[n]from the cardboard box in your room.",
+   "uk": "Отримано [clr 4]шкільну форму[clr 27][n]і [clr 4][var 0][clr 27]. Їх можна взяти[n]з картонної коробки у вашій кімнаті.",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_GET_COSTUME_CATHE#0",
+   "speaker": null,
+   "en": "Obtained the [clr 4]Lost Adults Outfits[clr 27][n]and [clr 4][var 0][clr 27]. You can retrieve this[n]from the cardboard box in your room.",
+   "uk": "Отримано [clr 4]вбрання «Загублених»[clr 27][n]і [clr 4][var 0][clr 27]. Їх можна взяти[n]з картонної коробки у вашій кімнаті.",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_GET_COSTUME_P5#0",
+   "speaker": null,
+   "en": "Obtained the [clr 4]Regular Clothes[clr 27], [clr 4]School Uniforms[clr 27],[n]and [clr 4]Loungewear[clr 27]. You can retrieve[n]this from the cardboard box in your room.",
+   "uk": "Отримано [clr 4]повсякденний одяг[clr 27], [clr 4]шкільну форму[clr 27][n]і [clr 4]домашній одяг[clr 27]. Їх можна взяти[n]з картонної коробки у вашій кімнаті.",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_GET_COSTUME_SWIM#0",
+   "speaker": null,
+   "en": "Obtained the [clr 4]Swimsuits[clr 27]. You can retrieve this[n]from the cardboard box in your room.",
+   "uk": "Отримано [clr 4]купальники[clr 27]. Їх можна взяти[n]з картонної коробки у вашій кімнаті.",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_GET_COSTUME_BUTLE#0",
+   "speaker": null,
+   "en": "Obtained the [clr 4]Maid and Butler Outfits[clr 27].[n]You can retrieve this from[n]the cardboard box in your room.",
+   "uk": "Отримано [clr 4]костюми покоївки й дворецького[clr 27].[n]Їх можна взяти з картонної[n]коробки у вашій кімнаті.",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_GET_COSTUME_XMAS#0",
+   "speaker": null,
+   "en": "Obtained the [clr 4]Christmas Outfits[clr 27].[n]You can retrieve this from[n]the cardboard box in your room.",
+   "uk": "Отримано [clr 4]різдвяні костюми[clr 27].[n]Їх можна взяти з картонної[n]коробки у вашій кімнаті.",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_GET_PERSONA_ORPHE#0",
+   "speaker": null,
+   "en": "Obtained the Orpheus downloadable content,[n][clr 4][var 0][clr 27], and [clr 3][var 1][clr 27]. You can retrieve this[n]from the cardboard box in your room.",
+   "uk": "Отримано DLC «Орфей»,[n][clr 4][var 0][clr 27] і [clr 3][var 1][clr 27]. Їх можна взяти[n]з картонної коробки у вашій кімнаті.",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_GET_PERSONA_IZANA#0",
+   "speaker": null,
+   "en": "Obtained the Izanagi downloadable content,[n][clr 4][var 0][clr 27], and [clr 3][var 1][clr 27]. You can retrieve this[n]from the cardboard box in your room.",
+   "uk": "Отримано DLC «Ізанаґі»,[n][clr 4][var 0][clr 27] і [clr 3][var 1][clr 27]. Їх можна взяти[n]з картонної коробки у вашій кімнаті.",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_GET_PERSONA_THANA#0",
+   "speaker": null,
+   "en": "Obtained the Thanatos downloadable content,[n][clr 4][var 0][clr 27], and [clr 3][var 1][clr 27]. You can retrieve this[n]from the cardboard box in your room.",
+   "uk": "Отримано DLC «Танатос»,[n][clr 4][var 0][clr 27] і [clr 3][var 1][clr 27]. Їх можна взяти[n]з картонної коробки у вашій кімнаті.",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_GET_PERSONA_MAGAT#0",
+   "speaker": null,
+   "en": "Obtained the Magatsu Izanagi downloadable content,[n][clr 4][var 0][clr 27],and [clr 3][var 1][clr 27]. You can retrieve this[n]from the cardboard box in your room.",
+   "uk": "Отримано DLC «Маґацу-Ізанаґі»,[n][clr 4][var 0][clr 27] і [clr 3][var 1][clr 27]. Їх можна взяти[n]з картонної коробки у вашій кімнаті.",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_GET_PERSONA_KAGUY#0",
+   "speaker": null,
+   "en": "Obtained the Kaguya downloadable content,[n][clr 4][var 0][clr 27], and [clr 3][var 1][clr 27]. You can retrieve this[n]from the cardboard box in your room.",
+   "uk": "Отримано DLC «Каґуя»,[n][clr 4][var 0][clr 27] і [clr 3][var 1][clr 27]. Їх можна взяти[n]з картонної коробки у вашій кімнаті.",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_GET_PERSONA_ARIAD#0",
+   "speaker": null,
+   "en": "Obtained the Ariadne downloadable content,[n][clr 4][var 0][clr 27], and [clr 3][var 1][clr 27]. You can retrieve this[n]from the cardboard box in your room.",
+   "uk": "Отримано DLC «Аріадна»,[n][clr 4][var 0][clr 27] і [clr 3][var 1][clr 27]. Їх можна взяти[n]з картонної коробки у вашій кімнаті.",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_GET_PERSONA_ASTER#0",
+   "speaker": null,
+   "en": "Obtained the Asterius downloadable content,[n][clr 4][var 0][clr 27], and [clr 3][var 1][clr 27]. You can retrieve this[n]from the cardboard box in your room.",
+   "uk": "Отримано DLC «Астерій»,[n][clr 4][var 0][clr 27] і [clr 3][var 1][clr 27]. Їх можна взяти[n]з картонної коробки у вашій кімнаті.",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_GET_PERSONA_TUKIY#0",
+   "speaker": null,
+   "en": "Obtained the Tsukiyomi downloadable content,[n][clr 4][var 0][clr 27], and [clr 3][var 1][clr 27]. You can retrieve this[n]from the cardboard box in your room.",
+   "uk": "Отримано DLC «Цукійомі»,[n][clr 4][var 0][clr 27] і [clr 3][var 1][clr 27]. Їх можна взяти[n]з картонної коробки у вашій кімнаті.",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_GET_PERSONA_MESSI#0",
+   "speaker": null,
+   "en": "Obtained the Messiah downloadable content,[n][clr 4][var 0][clr 27], and [clr 3][var 1][clr 27]. You can retrieve this[n]from the cardboard box in your room.",
+   "uk": "Отримано DLC «Месія»,[n][clr 4][var 0][clr 27] і [clr 3][var 1][clr 27]. Їх можна взяти[n]з картонної коробки у вашій кімнаті.",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_GET_ITEM_START01#0",
+   "speaker": null,
+   "en": "Obtained the [clr 3]healing item set[clr 27].[n]You can retrieve this from[n]the cardboard box in your room.",
+   "uk": "Отримано [clr 3]набір цілющих предметів[clr 27].[n]Його можна взяти з картонної[n]коробки у вашій кімнаті.",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_GET_ITEM_START02#0",
+   "speaker": null,
+   "en": "Obtained the [clr 3]skill card set[clr 27].[n]You can retrieve this from[n]the cardboard box in your room.",
+   "uk": "Отримано [clr 3]набір карток навичок[clr 27].[n]Його можна взяти з картонної[n]коробки у вашій кімнаті.",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_GET_P5_SAVEDATA#0",
+   "speaker": null,
+   "en": "Obtained the [clr 3]Persona 5 Save Data[n]special gift[clr 27].",
+   "uk": "Отримано [clr 3]особливий подарунок за[n]збереження Persona 5[clr 27].",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_CHECK_P5_SAVEDATA#0",
+   "speaker": null,
+   "en": "Various rewards are available[n]if Persona 5 save data can be[n]located.",
+   "uk": "Якщо знайдеться збереження[n]Persona 5, можна отримати[n]різні нагороди.",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_CHECK_P5_SAVEDATA#1",
+   "speaker": null,
+   "en": "Search for data?",
+   "uk": "Шукати дані?",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_CHECK_P5_SAVEDATA_2#0",
+   "speaker": null,
+   "en": "Unable to load save data.[n]Would you like to try again?",
+   "uk": "Не вдалося завантажити збереження.[n]Спробувати ще раз?",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_CHECK_P5_SAVEDATA_3#0",
+   "speaker": null,
+   "en": "You can retrieve the save data[n]benefits at any time by accessing[n]the cardboard box in your room.",
+   "uk": "Бонуси за збереження можна[n]отримати будь-коли з картонної[n]коробки у вашій кімнаті.",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_CHECK_P5_SAVEDATA_4#0",
+   "speaker": null,
+   "en": "Obtained 〇〇.[n]You can retrieve the items from[n]the cardboard box in your room.",
+   "uk": "Отримано 〇〇.[n]Предмети можна взяти з картонної[n]коробки у вашій кімнаті.",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_CHECK_P5_SAVEDATA_5#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "Так",
+   "note": ""
+  },
+  {
+   "id": "SYSTEM_CHECK_P5_SAVEDATA_5#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "Ні",
+   "note": ""
+  }
+ ]
+}

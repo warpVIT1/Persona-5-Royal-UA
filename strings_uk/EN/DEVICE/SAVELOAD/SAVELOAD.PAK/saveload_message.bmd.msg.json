@@ -1,0 +1,684 @@
+{
+ "file": "EN/DEVICE/SAVELOAD/SAVELOAD.PAK/saveload_message.bmd",
+ "entries": [
+  {
+   "id": "SAVELOAD_YESNO_SEL#0",
+   "speaker": null,
+   "en": "Yes",
+   "uk": "Так",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_YESNO_SEL#1",
+   "speaker": null,
+   "en": "No",
+   "uk": "Ні",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_GET_SAVE_DA#0",
+   "speaker": null,
+   "en": "Accessing save data...",
+   "uk": "Доступ до збережень...",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_SAVE_CONF#0",
+   "speaker": null,
+   "en": "Save data already exists[n]in this slot. Would you[n]like to overwrite it?",
+   "uk": "У цьому слоті вже є збереження.[n]Перезаписати його?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_SAVE_RUN#0",
+   "speaker": null,
+   "en": "Now saving...",
+   "uk": "Збереження...",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_SAVE_SUCCES#0",
+   "speaker": null,
+   "en": "Save complete.",
+   "uk": "Збережено.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_SAVE_FAILED#0",
+   "speaker": null,
+   "en": "Save failed.",
+   "uk": "Не вдалося зберегти.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_LOAD_CONF#0",
+   "speaker": null,
+   "en": "This will load your data.[n]Is that okay?",
+   "uk": "Буде завантажено ці дані.[n]Продовжити?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_LOAD_RUN#0",
+   "speaker": null,
+   "en": "Now loading...",
+   "uk": "Завантаження...",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_LOAD_SUCCES#0",
+   "speaker": null,
+   "en": "Load complete.",
+   "uk": "Завантажено.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_LOAD_FAILED#0",
+   "speaker": null,
+   "en": "Load failed.",
+   "uk": "Не вдалося завантажити.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CONFIG_NET_#0",
+   "speaker": null,
+   "en": "The network function is currently[n]turned off. Please turn on the[n]network function and try again.",
+   "uk": "Мережеву функцію зараз вимкнено.[n]Увімкніть її та спробуйте[n]ще раз.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CLOUD_GET_D#0",
+   "speaker": null,
+   "en": "Cloud storage must be accessed[n]to check save data. Proceed?",
+   "uk": "Щоб перевірити збереження, треба[n]звернутися до хмарного сховища.[n]Продовжити?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CLOUD_GET_D_2#0",
+   "speaker": null,
+   "en": "Accessing save data from cloud storage...",
+   "uk": "Доступ до збережень у хмарі...",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CLOUD_GET_D_3#0",
+   "speaker": null,
+   "en": "Save data successfully[n]accessed from cloud storage.",
+   "uk": "Збереження з хмарного сховища[n]успішно отримано.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CLOUD_GET_D_4#0",
+   "speaker": null,
+   "en": "Failed to access save data.",
+   "uk": "Не вдалося отримати збереження.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CLOUD_NEW_S#0",
+   "speaker": null,
+   "en": "There is no save data in cloud[n]storage. Would you like to[n]create a new save now?",
+   "uk": "У хмарному сховищі немає[n]збережень. Створити нове[n]збереження зараз?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CLOUD_BROKE#0",
+   "speaker": null,
+   "en": "Cloud save data is corrupted.[n]Would you like to create a[n]new save now?",
+   "uk": "Хмарне збереження пошкоджено.[n]Створити нове збереження зараз?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_ClOUD_NO_DA#0",
+   "speaker": null,
+   "en": "There is no save data in cloud storage.",
+   "uk": "У хмарному сховищі немає збережень.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_ClOUD_BROKE#0",
+   "speaker": null,
+   "en": "Cloud save data is corrupted.",
+   "uk": "Хмарне збереження пошкоджено.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_TXT_TITLE_SAVE#0",
+   "speaker": null,
+   "en": "Record your actions up to this point?",
+   "uk": "Записати свої дії до цього моменту?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_TXT_TITLE_LOAD#0",
+   "speaker": null,
+   "en": "Reread your entries up to this point?",
+   "uk": "Перечитати свої записи до цього моменту?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_TXT_CLOUD_GET_D#0",
+   "speaker": null,
+   "en": "Acquire save data from cloud storage?",
+   "uk": "Отримати збереження з хмари?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_GET_SAVE_DA_2#0",
+   "speaker": null,
+   "en": "Accessing save data...",
+   "uk": "Доступ до збережень...",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_GET_SAVE_DA_3#0",
+   "speaker": null,
+   "en": "Accessing save data...",
+   "uk": "Доступ до збережень...",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_GET_SAVE_DA_4#0",
+   "speaker": null,
+   "en": "Accessing save data...",
+   "uk": "Доступ до збережень...",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_GET_SAVE_DA_5#0",
+   "speaker": null,
+   "en": "Accessing save data...",
+   "uk": "Доступ до збережень...",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CLOUD_GET_D_5#0",
+   "speaker": null,
+   "en": "Retrieving save data from the cloud.[n]Is this okay?",
+   "uk": "Буде отримано збереження з хмари.[n]Продовжити?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CLOUD_GET_D_6#0",
+   "speaker": null,
+   "en": "Retrieving save data from the cloud.[n]Is this okay?",
+   "uk": "Буде отримано збереження з хмари.[n]Продовжити?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CLOUD_GET_D_7#0",
+   "speaker": null,
+   "en": "Retrieving save data from the cloud.[n]Is this okay?",
+   "uk": "Буде отримано збереження з хмари.[n]Продовжити?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CLOUD_GET_D_8#0",
+   "speaker": null,
+   "en": "Retrieving save data from the cloud.[n]Is this okay?",
+   "uk": "Буде отримано збереження з хмари.[n]Продовжити?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CLOUD_GET_D_9#0",
+   "speaker": null,
+   "en": "Retrieving save data from the cloud.",
+   "uk": "Отримання збереження з хмари.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CLOUD_GET_D_10#0",
+   "speaker": null,
+   "en": "Retrieving save data from the cloud.",
+   "uk": "Отримання збереження з хмари.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CLOUD_GET_D_11#0",
+   "speaker": null,
+   "en": "Retrieving save data from the cloud.",
+   "uk": "Отримання збереження з хмари.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CLOUD_GET_D_12#0",
+   "speaker": null,
+   "en": "Retrieving save data from the cloud.",
+   "uk": "Отримання збереження з хмари.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CLOUD_GET_D_13#0",
+   "speaker": null,
+   "en": "Save data has been retrieved from the cloud.",
+   "uk": "Збереження з хмари отримано.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CLOUD_GET_D_14#0",
+   "speaker": null,
+   "en": "Save data has been retrieved from the cloud.",
+   "uk": "Збереження з хмари отримано.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CLOUD_GET_D_15#0",
+   "speaker": null,
+   "en": "Save data has been retrieved from the cloud.",
+   "uk": "Збереження з хмари отримано.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CLOUD_GET_D_16#0",
+   "speaker": null,
+   "en": "Save data has been retrieved from the cloud.",
+   "uk": "Збереження з хмари отримано.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CLOUD_GET_D_17#0",
+   "speaker": null,
+   "en": "Failed to retrieve save data from the cloud.",
+   "uk": "Не вдалося отримати збереження з хмари.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CLOUD_GET_D_18#0",
+   "speaker": null,
+   "en": "Failed to retrieve save data from the cloud.",
+   "uk": "Не вдалося отримати збереження з хмари.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CLOUD_GET_D_19#0",
+   "speaker": null,
+   "en": "Failed to retrieve save data from the cloud.",
+   "uk": "Не вдалося отримати збереження з хмари.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CLOUD_GET_D_20#0",
+   "speaker": null,
+   "en": "Failed to retrieve save data from the cloud.",
+   "uk": "Не вдалося отримати збереження з хмари.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CLOUD_NEW_S_2#0",
+   "speaker": null,
+   "en": "There is no save data on the cloud.[n]Create a new save?",
+   "uk": "У хмарі немає збережень.[n]Створити нове збереження?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CLOUD_NEW_S_3#0",
+   "speaker": null,
+   "en": "There is no save data on the cloud.[n]Create a new save?",
+   "uk": "У хмарі немає збережень.[n]Створити нове збереження?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CLOUD_NEW_S_4#0",
+   "speaker": null,
+   "en": "There is no save data on the cloud.[n]Create a new save?",
+   "uk": "У хмарі немає збережень.[n]Створити нове збереження?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CLOUD_NEW_S_5#0",
+   "speaker": null,
+   "en": "There is no save data on the cloud.[n]Create a new save?",
+   "uk": "У хмарі немає збережень.[n]Створити нове збереження?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CLOUD_BROKE_2#0",
+   "speaker": null,
+   "en": "The save data on the cloud is corrupted.[n]Create a new save?",
+   "uk": "Збереження в хмарі пошкоджено.[n]Створити нове збереження?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CLOUD_BROKE_3#0",
+   "speaker": null,
+   "en": "The save data on the cloud is corrupted.[n]Create a new save?",
+   "uk": "Збереження в хмарі пошкоджено.[n]Створити нове збереження?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CLOUD_BROKE_4#0",
+   "speaker": null,
+   "en": "The save data on the cloud is corrupted.[n]Create a new save?",
+   "uk": "Збереження в хмарі пошкоджено.[n]Створити нове збереження?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_CLOUD_BROKE_5#0",
+   "speaker": null,
+   "en": "The save data on the cloud is corrupted.[n]Create a new save?",
+   "uk": "Збереження в хмарі пошкоджено.[n]Створити нове збереження?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_ClOUD_NO_DA_2#0",
+   "speaker": null,
+   "en": "No save data on the cloud.",
+   "uk": "У хмарі немає збережень.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_ClOUD_NO_DA_3#0",
+   "speaker": null,
+   "en": "No save data on the cloud.",
+   "uk": "У хмарі немає збережень.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_ClOUD_NO_DA_4#0",
+   "speaker": null,
+   "en": "No save data on the cloud.",
+   "uk": "У хмарі немає збережень.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_ClOUD_NO_DA_5#0",
+   "speaker": null,
+   "en": "No save data on the cloud.",
+   "uk": "У хмарі немає збережень.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_ClOUD_BROKE_2#0",
+   "speaker": null,
+   "en": "The save data on the cloud is corrupted.",
+   "uk": "Збереження в хмарі пошкоджено.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_ClOUD_BROKE_3#0",
+   "speaker": null,
+   "en": "The save data on the cloud is corrupted.",
+   "uk": "Збереження в хмарі пошкоджено.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_ClOUD_BROKE_4#0",
+   "speaker": null,
+   "en": "The save data on the cloud is corrupted.",
+   "uk": "Збереження в хмарі пошкоджено.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_ClOUD_BROKE_5#0",
+   "speaker": null,
+   "en": "The save data on the cloud is corrupted.",
+   "uk": "Збереження в хмарі пошкоджено.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_TXT_CLOUD_GET_D_2#0",
+   "speaker": null,
+   "en": "Retrieve save data from the cloud?",
+   "uk": "Отримати збереження з хмари?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_TXT_CLOUD_GET_D_3#0",
+   "speaker": null,
+   "en": "Retrieve save data from the cloud?",
+   "uk": "Отримати збереження з хмари?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_TXT_CLOUD_GET_D_4#0",
+   "speaker": null,
+   "en": "Retrieve save data from the cloud?",
+   "uk": "Отримати збереження з хмари?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_TXT_CLOUD_GET_D_5#0",
+   "speaker": null,
+   "en": "Retrieve save data from the cloud?",
+   "uk": "Отримати збереження з хмари?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_LOAD_CONF_F#0",
+   "speaker": null,
+   "en": "Loading this file.[n]Is this okay?",
+   "uk": "Буде завантажено цей файл.[n]Продовжити?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_LOAD_CONF_F_2#0",
+   "speaker": null,
+   "en": "Loading this file.[n]Is this okay?",
+   "uk": "Буде завантажено цей файл.[n]Продовжити?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_LOAD_CONF_F_3#0",
+   "speaker": null,
+   "en": "Loading this file.[n]Is this okay?",
+   "uk": "Буде завантажено цей файл.[n]Продовжити?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_LOAD_CONF_F_4#0",
+   "speaker": null,
+   "en": "Loading this file.[n]Is this okay?",
+   "uk": "Буде завантажено цей файл.[n]Продовжити?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_LOAD_RUN_Fi#0",
+   "speaker": null,
+   "en": "Loading...",
+   "uk": "Завантаження...",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_LOAD_RUN_Fi_2#0",
+   "speaker": null,
+   "en": "Loading...",
+   "uk": "Завантаження...",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_LOAD_RUN_Fi_3#0",
+   "speaker": null,
+   "en": "Loading...",
+   "uk": "Завантаження...",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_LOAD_RUN_Fi_4#0",
+   "speaker": null,
+   "en": "Loading...",
+   "uk": "Завантаження...",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_LOAD_SUCCES_2#0",
+   "speaker": null,
+   "en": "File finished loading.",
+   "uk": "Файл завантажено.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_LOAD_SUCCES_3#0",
+   "speaker": null,
+   "en": "File finished loading.",
+   "uk": "Файл завантажено.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_LOAD_SUCCES_4#0",
+   "speaker": null,
+   "en": "File finished loading.",
+   "uk": "Файл завантажено.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_LOAD_SUCCES_5#0",
+   "speaker": null,
+   "en": "File finished loading.",
+   "uk": "Файл завантажено.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_LOAD_FAILED_2#0",
+   "speaker": null,
+   "en": "Failed to load.",
+   "uk": "Не вдалося завантажити.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_LOAD_FAILED_3#0",
+   "speaker": null,
+   "en": "Failed to load.",
+   "uk": "Не вдалося завантажити.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_LOAD_FAILED_4#0",
+   "speaker": null,
+   "en": "Failed to load.",
+   "uk": "Не вдалося завантажити.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_LOAD_FAILED_5#0",
+   "speaker": null,
+   "en": "Failed to load.",
+   "uk": "Не вдалося завантажити.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_SAVE_RUN_Fi#0",
+   "speaker": null,
+   "en": "Saving...",
+   "uk": "Збереження...",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_SAVE_RUN_Fi_2#0",
+   "speaker": null,
+   "en": "Saving...",
+   "uk": "Збереження...",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_SAVE_RUN_Fi_3#0",
+   "speaker": null,
+   "en": "Saving...",
+   "uk": "Збереження...",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_SAVE_RUN_Fi_4#0",
+   "speaker": null,
+   "en": "Saving...",
+   "uk": "Збереження...",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_SAVE_SUCCES_2#0",
+   "speaker": null,
+   "en": "Finished saving.",
+   "uk": "Збережено.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_SAVE_SUCCES_3#0",
+   "speaker": null,
+   "en": "Finished saving.",
+   "uk": "Збережено.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_SAVE_SUCCES_4#0",
+   "speaker": null,
+   "en": "Finished saving.",
+   "uk": "Збережено.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_SAVE_SUCCES_5#0",
+   "speaker": null,
+   "en": "Finished saving.",
+   "uk": "Збережено.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_SAVE_FAILED_2#0",
+   "speaker": null,
+   "en": "Failed to save.",
+   "uk": "Не вдалося зберегти.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_SAVE_FAILED_3#0",
+   "speaker": null,
+   "en": "Failed to save.",
+   "uk": "Не вдалося зберегти.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_SAVE_FAILED_4#0",
+   "speaker": null,
+   "en": "Failed to save.",
+   "uk": "Не вдалося зберегти.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_SAVE_FAILED_5#0",
+   "speaker": null,
+   "en": "Failed to save.",
+   "uk": "Не вдалося зберегти.",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_SAVE_CONF_F#0",
+   "speaker": null,
+   "en": "Save data already exists[n]in this slot. Would you[n]like to overwrite it?",
+   "uk": "У цьому слоті вже є збереження.[n]Перезаписати його?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_SAVE_CONF_F_2#0",
+   "speaker": null,
+   "en": "Save data already exists[n]in this slot. Would you[n]like to overwrite it?",
+   "uk": "У цьому слоті вже є збереження.[n]Перезаписати його?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_SAVE_CONF_F_3#0",
+   "speaker": null,
+   "en": "Save data already exists[n]in this slot. Would you[n]like to overwrite it?",
+   "uk": "У цьому слоті вже є збереження.[n]Перезаписати його?",
+   "note": ""
+  },
+  {
+   "id": "SAVELOAD_MSG_SAVE_CONF_F_4#0",
+   "speaker": null,
+   "en": "Save data already exists[n]in this slot. Would you[n]like to overwrite it?",
+   "uk": "У цьому слоті вже є збереження.[n]Перезаписати його?",
+   "note": ""
+  },
+  {
+   "id": "SAVEDATA_DELETE_ACTIVITY#0",
+   "speaker": null,
+   "en": "Save data does not exist.[n]Starting from the title screen.",
+   "uk": "Збережень немає.[n]Гра почнеться з титульного екрана.",
+   "note": ""
+  },
+  {
+   "id": "LANGUAGE_CHANGE_NAME_Fib#0",
+   "speaker": null,
+   "en": "Because the language was changed, the[n]Protagonist's name will be set to \"Ren Amamiya\"[n]and the group name will be \"The Phantoms.\"[n]If you want to play with the name you entered,[n]you will need to revert to the language used[n]when the name was created.",
+   "uk": "Оскільки мову змінено, ім'я героя[n]буде «Ren Amamiya», а назва групи —[n]«The Phantoms». Щоб грати з введеним[n]ім'ям, поверніть мову, якою[n]користувалися, коли його[n]створювали.",
+   "note": ""
+  }
+ ]
+}

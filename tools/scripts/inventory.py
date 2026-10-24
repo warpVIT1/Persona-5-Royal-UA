@@ -61,7 +61,8 @@ def _parse_pak(data, en):
                 break
             entries.append((raw.split(b"\0")[0].decode("ascii"), pos + 256, size))
             pos = align(pos + 256 + size, 64)
-        if entries and pos >= n - 64:
+        # some PAKs end with an all-zero terminator entry (256 bytes) instead of EOF
+        if entries and (pos >= n - 64 or not any(data[pos:])):
             return entries
     # V2 / V3
     for name_len in (32, 24):

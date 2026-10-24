@@ -13,20 +13,24 @@
 
 | CPK | уровень | тип | файлов | размер, КБ |
 |---|---|---|---:|---:|
-| EN | в контейнере | ftd | 128 | 117 |
-| EN | в контейнере | bf | 113 | 461 |
+| EN | в контейнере | ftd | 133 | 185 |
+| EN | в контейнере | bf | 114 | 469 |
 | EN | в контейнере | ctd | 75 | 277 |
-| EN | в контейнере | bmd | 26 | 689 |
+| EN | в контейнере | bmd | 72 | 731 |
+| EN | в контейнере | tbl | 12 | 2098 |
+| EN | в контейнере | fnt | 2 | 566 |
 | EN | файл | bf | 5182 | 71356 |
 | EN | файл | bmd | 2019 | 9237 |
 | EN | файл | pak | 57 | 187159 |
+| EN | файл | bin | 21 | 786956 |
 | EN | файл | ftd | 16 | 188 |
-| EN | файл | bin | 5 | 557 |
+| EN | файл | pac | 9 | 70927 |
 | EN | файл | tbl | 3 | 210 |
-| EN | файл | pac | 1 | 647 |
 | EN | файл | fnt | 1 | 8948 |
+| BASE | в контейнере | bf | 1 | 27 |
 | BASE | файл | bmd | 1779 | 7394 |
 | BASE | файл | bf | 261 | 3839 |
+| BASE | файл | pac | 123 | 400283 |
 | BASE | файл | ftd | 80 | 287 |
 | BASE | файл | pak | 39 | 152236 |
 | BASE | файл | tbl | 13 | 2040 |
@@ -53,6 +57,7 @@
 | EN | FIELD/DOOR | 0 | 130 |
 | EN | FIELD/OBJECT_HIT | 0 | 126 |
 | EN | FIELD/BOX | 0 | 121 |
+| EN | MINIGAME/CROSSWORD | 41 | 0 |
 | EN | BATTLE/TALK | 0 | 28 |
 | EN | INIT | 27 | 0 |
 | EN | COMMUNITY/EVENT | 25 | 0 |
@@ -61,12 +66,14 @@
 | EN | FIELD/ENEMY | 13 | 0 |
 | EN | MINIGAME/FUGOU | 12 | 1 |
 | EN | BATTLE/MESSAGE | 9 | 0 |
-| EN | MINIGAME | 7 | 0 |
+| EN | MINIGAME | 8 | 0 |
 | EN | FIELD/ETC | 0 | 4 |
 | EN | FIELD/SAFETY_ROOM | 0 | 4 |
+| EN | NETWORK | 4 | 0 |
+| EN | DEVICE/SAVELOAD | 3 | 0 |
 | EN | FIELD/PARTY | 0 | 3 |
-| EN | DEVICE/SAVELOAD | 2 | 0 |
 | EN | MYPALACE/PALACEMAKER | 2 | 0 |
+| EN | TITLE | 0 | 2 |
 | EN | FIELD/SCRIPT | 0 | 1 |
 | EN | FIELD/TELOP | 1 | 0 |
 | EN | FIELD/TV | 0 | 1 |
@@ -75,8 +82,6 @@
 | EN | MYPALACE/GALLERY | 1 | 0 |
 | EN | MYPALACE/MOVIE | 1 | 0 |
 | EN | MYPALACE/SOUND | 1 | 0 |
-| EN | NETWORK | 1 | 0 |
-| EN | TITLE | 0 | 1 |
 | BASE | BATTLE/SCRIPT | 0 | 145 |
 | BASE | FIELD/VOICE_HIT | 0 | 37 |
 | BASE | SCRIPT/FIELD | 0 | 35 |
@@ -86,19 +91,37 @@
 | BASE | CAMP | 2 | 0 |
 | BASE | FIELD/PANEL | 1 | 1 |
 | BASE | MISSION/SCRIPT | 0 | 2 |
+| BASE | BATTLE | 0 | 1 |
 | BASE | BATTLE/RESULT | 1 | 0 |
 | BASE | CAMP/CHAT | 0 | 1 |
 | BASE | FIELD/SAFETY_ROOM | 0 | 1 |
 | BASE | FONT/CHECK | 1 | 0 |
 | BASE | SCRIPT | 0 | 1 |
 
-**Итого:** BMD — 2081, BF — 5551.
+**Итого:** BMD — 2127, BF — 5553.
 
 ## Таблицы (.tbl / .ctd / .ftd)
 
 | CPK | путь | размер |
 |---|---|---:|
+| EN | `BATTLE/TABLE.PAC::AICALC.TBL` | 129248 |
+| EN | `BATTLE/TABLE.PAC::ELSAI.TBL` | 625200 |
+| EN | `BATTLE/TABLE.PAC::ENCOUNT.TBL` | 54672 |
+| EN | `BATTLE/TABLE.PAC::EXIST.TBL` | 9840 |
+| EN | `BATTLE/TABLE.PAC::ITEM.TBL` | 168416 |
+| EN | `BATTLE/TABLE.PAC::NAME.TBL` | 102912 |
+| EN | `BATTLE/TABLE.PAC::PERSONA.TBL` | 73040 |
+| EN | `BATTLE/TABLE.PAC::PLAYER.TBL` | 5360 |
+| EN | `BATTLE/TABLE.PAC::SKILL.TBL` | 65520 |
+| EN | `BATTLE/TABLE.PAC::TALKINFO.TBL` | 560 |
+| EN | `BATTLE/TABLE.PAC::UNIT.TBL` | 128464 |
+| EN | `BATTLE/TABLE.PAC::VISUAL.TBL` | 786048 |
 | EN | `BATTLE/TABLE/NAME.TBL` | 102912 |
+| EN | `CALENDAR/GOODGAUGE.PAC::cldCommentTable.ftd` | 60384 |
+| EN | `CALENDAR/GOODGAUGE.PAC::cldEvtCommentTable.ftd` | 7920 |
+| EN | `CALENDAR/GOODGAUGE.PAC::cldGoodGauge.ftd` | 864 |
+| EN | `CALENDAR/GOODGAUGE.PAC::cldGoodGaugeComment.ftd` | 96 |
+| EN | `CALENDAR/GOODGAUGE.PAC::cldGoodGaugeLevel.ftd` | 80 |
 | EN | `FIELD/FTD/FLDACTIONNAME.FTD` | 1632 |
 | EN | `FIELD/FTD/FLDARCANANAME.FTD` | 96 |
 | EN | `FIELD/FTD/FLDASSISTLISTNAME_SOCIAL.FTD` | 208 |
@@ -341,6 +364,8 @@
 | CPK | путь | размер |
 |---|---|---:|
 | EN | `FONT/FONT0.FNT` | 9163557 |
+| EN | `STAFF_ROLL/STAFF_ROLL.PAK::font1.fnt` | 289626 |
+| EN | `STAFF_ROLL/STAFF_ROLL.PAK::font2.fnt` | 290867 |
 | BASE | `FONT/FONT1.FNT` | 289626 |
 | BASE | `FONT/FONT2.FNT` | 290867 |
 | BASE | `FONT/KEYTOP_FONT.FNT` | 4807844 |
@@ -353,8 +378,58 @@
 
 | CPK | контейнер | BMD | BF | таблиц |
 |---|---|---:|---:|---:|
+| EN | `BATTLE/TABLE.PAC` | 0 | 0 | 12 |
+| EN | `CALENDAR/GOODGAUGE.PAC` | 0 | 0 | 5 |
+| EN | `DEVICE/SAVELOAD/SAVELOAD.PAK` | 1 | 0 | 0 |
 | EN | `FIELD/MY_PALACE/MP_ALL.PAC` | 0 | 113 | 0 |
 | EN | `INIT/CMM.BIN` | 2 | 0 | 40 |
 | EN | `INIT/CMPTABLE.BIN` | 3 | 0 | 35 |
 | EN | `INIT/DATMSG.PAK` | 21 | 0 | 0 |
 | EN | `INIT/FCLTABLE.BIN` | 0 | 0 | 128 |
+| EN | `MINIGAME/CROSSWORD.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_00.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_01.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_02.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_03.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_04.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_05.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_06.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_07.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_08.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_09.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_10.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_11.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_12.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_13.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_14.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_15.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_16.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_17.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_18.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_19.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_20.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_21.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_22.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_23.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_24.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_25.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_26.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_27.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_28.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_29.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_30.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_31.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_32.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_33.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_34.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_35.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_36.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_37.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_38.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_39.PAK` | 1 | 0 | 0 |
+| EN | `MINIGAME/CROSSWORD/CROSSWORD_40.PAK` | 1 | 0 | 0 |
+| EN | `NETWORK/AUDIENCE.PAK` | 1 | 0 | 0 |
+| EN | `NETWORK/NET.PAK` | 1 | 0 | 0 |
+| EN | `NETWORK/NET_0.PAK` | 1 | 0 | 0 |
+| EN | `TITLE/FICTION.PAK` | 0 | 1 | 0 |
+| BASE | `BATTLE/RESIDENT_COMMON.PAC` | 0 | 1 | 0 |
