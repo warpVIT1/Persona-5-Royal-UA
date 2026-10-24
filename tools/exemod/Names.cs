@@ -46,6 +46,8 @@ namespace P5RUkr
         static Dictionary<char, byte[]> _enc;
         static long _base;
         static readonly string[] _last = new string[3];
+        // Latin word -> its Cyrillic form, for every name converted so far (the full-name buffer is built from them)
+        static readonly Dictionary<string, string> Known = new(StringComparer.OrdinalIgnoreCase);
 
         // typed segments: Latin (from virtual keys) and the characters Windows actually produced
         static readonly List<(StringBuilder lat, StringBuilder chr)> Typed = new() { (new(), new()) };
@@ -147,10 +149,30 @@ namespace P5RUkr
 
             string uk = null;
             if (_cfg.UkrainianNameInput) uk = FromTyped(cur);
+            if (uk == null) uk = FromKnown(cur);
             if (uk == null && _cfg.ConvertOldNames && IsLetters(cur) && !Defaults.Contains(cur)) uk = ByLayout(cur);
             if (uk == null || uk == cur) return;
             uk = Capitalize(uk);
-            if (Write(p, b.size, uk)) { _last[i] = null; Mod.Log($"names: {b.what} '{cur}' -> '{uk}'"); }
+            if (Write(p, b.size, uk))
+            {
+                _last[i] = null;
+                if (!cur.Contains(' ')) Known[cur] = uk;
+                Mod.Log($"names: {b.what} '{cur}' -> '{uk}'");
+            }
+        }
+
+        // "Nfhfc Itdxtyrj" -> "Тарас Шевченко" when every word was converted before
+        static string FromKnown(string cur)
+        {
+            var words = cur.Split(' ');
+            if (words.Length < 2) return null;
+            for (int k = 0; k < words.Length; k++)
+            {
+                if (words[k].Length == 0) continue;
+                if (!Known.TryGetValue(words[k], out var w)) return null;
+                words[k] = w;
+            }
+            return string.Join(" ", words);
         }
 
         // The game stores names in its own encoding: plain ASCII bytes or 2-byte codes 0x80 xx where
