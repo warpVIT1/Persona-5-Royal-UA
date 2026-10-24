@@ -17,6 +17,7 @@ using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
+using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading;
@@ -199,6 +200,8 @@ namespace P5RUkr
             for (int k = 0; k < size && p[k] != 0; k++)
             {
                 if (p[k] < 0x80) { sb.Append((char)p[k]); continue; }
+                // the entry screen writes its (fullwidth) space as 82 97
+                if (p[k] == 0x82 && k + 1 < size && p[k + 1] == 0x97) { sb.Append(' '); k++; continue; }
                 if (p[k] != 0x80 || k + 1 >= size) return null;
                 int idx = p[++k] - 0x60;
                 if (idx < 0x20 || idx > 0x7E) return null;
@@ -249,11 +252,17 @@ namespace P5RUkr
         static string ByLayout(string cur)
         {
             var sb = new StringBuilder();
-            foreach (var c in cur)
+            foreach (var word in cur.Split(' '))
             {
-                int k = LatinKeys.IndexOf(char.ToLower(c));
-                char u = k < 0 ? c : UkrainianKeys[k];
-                sb.Append(char.IsUpper(c) ? char.ToUpper(u) : u);
+                if (sb.Length > 0) sb.Append(' ');
+                // a word typed in capitals: letters from punctuation keys (; -> ж) become capitals too
+                bool caps = word.Length > 1 && word.Any(char.IsLetter) && !word.Any(char.IsLower);
+                foreach (var c in word)
+                {
+                    int k = LatinKeys.IndexOf(char.ToLower(c));
+                    char u = k < 0 ? c : UkrainianKeys[k];
+                    sb.Append(char.IsUpper(c) || caps ? char.ToUpper(u) : u);
+                }
             }
             return sb.ToString();
         }
