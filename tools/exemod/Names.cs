@@ -32,11 +32,15 @@ namespace P5RUkr
             (0xD646C9, 0x28654DE, 0x28, "team"),
         };
 
-        const string LatinKeys = "qwertyuiopasdfghjklzxcvbnm";
+        // Ukrainian keyboard layout over the US one (the game accepts letters and some punctuation keys)
+        const string LatinKeys = "qwertyuiopasdfghjklzxcvbnm[];',.`\\";
+        const string UkrainianKeys = "йцукенгшщзфівапролдячсмитьхїжєбю'ґ";
+        // virtual-key codes of the punctuation keys above
+        static readonly Dictionary<int, char> OemKeys = new()
+            { [0xDB] = '[', [0xDD] = ']', [0xBA] = ';', [0xDE] = '\'', [0xBC] = ',', [0xBE] = '.', [0xC0] = '`', [0xDC] = '\\' };
         // placeholders the game keeps before a save is loaded, and the default English names: never converted
         static readonly HashSet<string> Defaults = new(StringComparer.OrdinalIgnoreCase)
             { "Protagonist", "Ren", "Amamiya", "Akira", "Kurusu", "The Phantoms", "Phantoms", "Joker" };
-        const string UkrainianKeys = "йцукенгшщзфівапролдячсмить";
 
         static Config _cfg;
         static Dictionary<char, byte[]> _enc;
@@ -94,6 +98,7 @@ namespace P5RUkr
                     if (vk == 0x0D) { if (lat.Length > 0) Typed.Add((new(), new())); }
                     else if (vk == 0x08) { if (lat.Length > 0) lat.Length--; if (chr.Length > 0) chr.Length--; }
                     else if (vk >= 0x41 && vk <= 0x5A) lat.Append((char)(vk + 32));
+                    else if (OemKeys.TryGetValue(vk, out var oc)) lat.Append(oc);
                     else if (vk >= 0x30 && vk <= 0x39 || vk == 0x20) lat.Append((char)vk);
                     if (Typed.Count > 16) Typed.RemoveAt(0);
                 }
@@ -123,25 +128,50 @@ namespace P5RUkr
         {
             var b = Buffers[i];
             byte* p = (byte*)(_base + b.buf);
-            int n = 0;
-            while (n < b.size && p[n] != 0) n++;
-            bool ascii = true;
-            for (int k = 0; k < n; k++) if (p[k] >= 0x80) { ascii = false; break; }
-            var cur = ascii ? Encoding.ASCII.GetString(p, n) : null;
+            var cur = DecodeLatin(p, b.size);
             if (cur == _last[i]) return;
             _last[i] = cur;
-            if (cur == null || n == 0) return;
+            if (string.IsNullOrEmpty(cur)) return;
+            Mod.Log($"names: {b.what} = '{cur}'");
 
             string uk = null;
             if (_cfg.UkrainianNameInput) uk = FromTyped(cur);
             if (uk == null && _cfg.ConvertOldNames && IsLetters(cur) && !Defaults.Contains(cur)) uk = ByLayout(cur);
             if (uk == null || uk == cur) return;
-            if (Write(p, b.size, uk)) Mod.Log($"names: {b.what} '{cur}' -> '{uk}'");
+            uk = Capitalize(uk);
+            if (Write(p, b.size, uk)) { _last[i] = null; Mod.Log($"names: {b.what} '{cur}' -> '{uk}'"); }
+        }
+
+        // The game stores names in its own encoding: plain ASCII bytes or 2-byte codes 0x80 xx where
+        // xx - 0x60 is the character (the first 128 glyphs are ASCII). Returns null when the name holds
+        // anything else (e.g. it is already Cyrillic).
+        static string DecodeLatin(byte* p, int size)
+        {
+            var sb = new StringBuilder();
+            for (int k = 0; k < size && p[k] != 0; k++)
+            {
+                if (p[k] < 0x80) { sb.Append((char)p[k]); continue; }
+                if (p[k] != 0x80 || k + 1 >= size) return null;
+                int idx = p[++k] - 0x60;
+                if (idx < 0x20 || idx > 0x7E) return null;
+                sb.Append((char)idx);
+            }
+            return sb.ToString();
+        }
+
+        // names start with a capital letter: "віталій єрмо" -> "Віталій Єрмо"
+        static string Capitalize(string s)
+        {
+            var c = s.ToCharArray();
+            for (int k = 0; k < c.Length; k++)
+                if (k == 0 || c[k - 1] == ' ') c[k] = char.ToUpper(c[k]);
+            return new string(c);
         }
 
         static bool IsLetters(string s)
         {
-            foreach (var c in s) if (!(c >= 'a' && c <= 'z' || c >= 'A' && c <= 'Z' || c == ' ')) return false;
+            foreach (var c in s)
+                if (!(c >= 'a' && c <= 'z' || c >= 'A' && c <= 'Z' || c == ' ' || LatinKeys.IndexOf(c) >= 26)) return false;
             return true;
         }
 
