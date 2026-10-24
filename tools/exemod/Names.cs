@@ -68,6 +68,7 @@ namespace P5RUkr
             }
             Mod.Log("names: buffers verified");
             Window.OnMessage += OnMessage;
+            if (cfg.UkrainianNameInput) Window.CharFilter = ToLatinKey;
             new Thread(Poll) { IsBackground = true }.Start();
         }
 
@@ -81,6 +82,16 @@ namespace P5RUkr
                 if (t.Length == 2 && t[0].Length == 1) d[t[0][0]] = Convert.FromHexString(t[1]);
             }
             return d;
+        }
+
+        // Cyrillic character -> the Latin character of the same key (Ukrainian layout; Russian-only letters too)
+        static char ToLatinKey(char c)
+        {
+            char lc = char.ToLower(c);
+            int k = UkrainianKeys.IndexOf(lc);
+            char lat = k >= 0 ? LatinKeys[k] : lc switch { 'ы' => 's', 'э' => '\'', 'ъ' => ']', 'ё' => '`', _ => '\0' };
+            if (lat == '\0' || c == '\'') return c;
+            return char.IsUpper(c) ? char.ToUpper(lat) : lat;
         }
 
         // ---------- keyboard ----------

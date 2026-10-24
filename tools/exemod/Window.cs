@@ -9,6 +9,7 @@ namespace P5RUkr
     public static class Window
     {
         public static event Action<uint, IntPtr> OnMessage;
+        public static Func<char, char> CharFilter;
 
         static IntPtr _oldProc;
         static WndProc _proc;   // keep the delegate alive
@@ -50,6 +51,10 @@ namespace P5RUkr
         {
             if (msg == 0x100 || msg == 0x102)
                 try { OnMessage?.Invoke(msg, w); } catch { }
+            // the name entry accepts only Latin WM_CHARs and drops Cyrillic ones: hand the game the Latin letter
+            // of the same key (Names converts the confirmed name back to Cyrillic)
+            if (msg == 0x102 && CharFilter != null)
+                try { w = (IntPtr)CharFilter((char)(int)w); } catch { }
             return CallWindowProcW(_oldProc, h, msg, w, l);
         }
 
