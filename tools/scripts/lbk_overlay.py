@@ -90,6 +90,10 @@ def main():
         dst = OUT / "P5REssentials/CPK/EN.CPK" / plg
         dst.parent.mkdir(parents=True, exist_ok=True)
         shutil.copyfile(LBK / plg, dst)
+    for cont, inner in (("CALENDAR/HIGAWARI.PAK", ("day.plg",)),):   # shadows inside containers
+        dst = OUT / "FEmulator/PAK" / cont / "/".join(inner)
+        dst.parent.mkdir(parents=True, exist_ok=True)
+        dst.write_bytes(inner_bytes((LBK / cont).read_bytes(), inner))
     files = [p for p in OUT.rglob("*") if p.is_file()]
     print(f"{len(files)} files from {len(list(PICK.rglob('*.png')))} pictures -> {OUT}")
 
