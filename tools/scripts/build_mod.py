@@ -143,6 +143,9 @@ def main():
     ap.add_argument("--skip-import", action="store_true")
     ap.add_argument("--path", default="EN")
     ap.add_argument("--keep", action="store_true", help="do not wipe the mod folder (rebuild a subset)")
+    ap.add_argument("--lbk-textures", action="store_true",
+                    help="add LBK's redrawn textures (work/lbk_overlay, lbk_overlay.py). LOCAL builds only: "
+                         "not for public releases without LBK's permission")
     a = ap.parse_args()
 
     font = ROOT / "work/font/FONT0_UKR.FNT"
@@ -185,6 +188,17 @@ def main():
 
     # menus, config, quests, calendar, place names... (FTD/CTD string tables)
     subprocess.run([sys.executable, str(ROOT / "tools/scripts/tables.py"), "build"])
+
+    if a.lbk_textures:
+        overlay = ROOT / "work/lbk_overlay"
+        n = 0
+        for f in overlay.rglob("*"):
+            if f.is_file():
+                dst = MOD / f.relative_to(overlay)
+                dst.parent.mkdir(parents=True, exist_ok=True)
+                shutil.copyfile(f, dst)
+                n += 1
+        print(f"LBK textures: {n} files (local build — do not publish without LBK's permission)")
 
     n_pak = sum(1 for r, _ in ok if PAK in out_path(r).parents)
     L = ["# Звіт збірки мода", "",
