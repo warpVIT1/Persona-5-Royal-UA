@@ -161,6 +161,7 @@ def main():
     # chat icons are looked up by speaker name -> add the Ukrainian names
     subprocess.run([sys.executable, str(ROOT / "tools/scripts/speakerdat.py"), str(CPK / "FONT/SPEAKER.DAT")], check=True)
     shutil.copy(ROOT / "tools/mod/ModConfig.template.json", MOD / "ModConfig.json")
+    shutil.copy(ROOT / "tools/mod/Preview.png", MOD / "Preview.png")   # mod icon (ModIcon)
     # DLL that swaps in the translated BMDs embedded in P5R.exe
     subprocess.run(["dotnet", "build", "-c", "Release", "-v", "q", "-nologo"], cwd=EXEMOD, check=True)
     for f in (EXEMOD / "bin/Release/net8.0-windows").glob("p5rpc.ukrainian.*"):

@@ -5,7 +5,7 @@
   "ModVersion": "0.0.1",
   "ModDescription": "Фанатський переклад Persona 5 Royal українською. Потребує Persona 5 Royal Essentials.",
   "ModDll": "p5rpc.ukrainian.dll",
-  "ModIcon": "",
+  "ModIcon": "Preview.png",
   "ModR2RManagedDll32": "",
   "ModR2RManagedDll64": "",
   "ModNativeDll32": "",
@@ -148,6 +148,10 @@
       "RepositoryName": "Persona-5-Royal-UA",
       "UseReleaseTag": true,
       "AssetFileName": "Mod.zip"
+    },
+    "GameBanana": {
+      "ItemType": "Mod",
+      "ItemId": 731484
     }
   },
   "IsUniversalMod": false,
