@@ -1,5 +1,7 @@
 """FONT/SPEAKER.DAT with Ukrainian speaker names.
 
+NOT USED BY THE BUILD ANY MORE (see build_mod.py): the chat headers keep English names, so the original file is right.
+
 SPEAKER.DAT is a flat array of 48-byte records: u16 BE icon id + speaker name in the game encoding,
 NUL-padded. The phone chat (and other UI) finds a character's icon by the speaker name from the message
 header ([msg X [Ryuji]]); an unknown name falls back to the default icon (Morgana). The game reads a fixed
