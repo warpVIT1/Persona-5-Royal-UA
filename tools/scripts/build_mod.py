@@ -141,7 +141,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--jobs", type=int, default=16)
     ap.add_argument("--skip-import", action="store_true")
-    ap.add_argument("--path", default="EN")
+    ap.add_argument("--path", default="", help="only files under this prefix (EN/..., EXE/...); default: all")
     ap.add_argument("--keep", action="store_true", help="do not wipe the mod folder (rebuild a subset)")
     ap.add_argument("--lbk-textures", action="store_true",
                     help="add LBK's redrawn textures (work/lbk_overlay, lbk_overlay.py). LOCAL builds only: "

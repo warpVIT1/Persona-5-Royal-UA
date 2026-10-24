@@ -67,3 +67,8 @@ python tools/scripts/build_glossary.py           # glossary.csv (затверд�
 6. Збірка мода Reloaded-II
 7. Список текстур із запеченим текстом
 8. Інсталятор, що автоматично ставить локалізацію (Reloaded-II, P5R Essentials, мод)
+
+
+## Подяки
+
+- Перемальовані текстури (меню, мапа, вивіски, міні-ігри, титульний екран) — команда LBK (LBK Launcher, https://lbklauncher.com).
