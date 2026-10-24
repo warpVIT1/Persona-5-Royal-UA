@@ -1,6 +1,6 @@
 """Export every texture of EN.CPK for redrawing.
 
-  python tools/scripts/textures.py [--jobs 12] [--no-zip]
+  python tools/scripts/textures.py [--jobs 12] [--no-zip] [--src DIR --out DIR --zip FILE]
 
 Sources (extracted/EN, read-only):
   * loose .DDS files;
@@ -66,7 +66,8 @@ def dds_format(b):
 
 
 def to_png(item):
-    rel, = item
+    rel, out = item
+    OUT = Path(out)
     from PIL import Image
     src = OUT / "dds" / rel
     dst = (OUT / "png" / rel).with_suffix(".png")
@@ -83,7 +84,15 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--jobs", type=int, default=12)
     ap.add_argument("--no-zip", action="store_true")
+    ap.add_argument("--src", help="extracted CPK folder (default extracted/EN)")
+    ap.add_argument("--out", help="output folder (default work/textures)")
+    ap.add_argument("--zip", help="zip file (default work/textures.zip)")
     a = ap.parse_args()
+    global SRC, OUT
+    if a.src:
+        SRC = Path(a.src).resolve()
+    if a.out:
+        OUT = Path(a.out).resolve()
 
     found = []
     for f in sorted(SRC.rglob("*")):
@@ -103,7 +112,7 @@ def main():
 
     rows, bad = [], []
     with ProcessPoolExecutor(a.jobs) as ex:
-        for i, (rel, w, h, err) in enumerate(ex.map(to_png, [(r,) for r, _ in found], chunksize=8), 1):
+        for i, (rel, w, h, err) in enumerate(ex.map(to_png, [(r, str(OUT)) for r, _ in found], chunksize=8), 1):
             (bad if err else rows).append((rel, w, h, err))
             if i % 200 == 0:
                 print(f"{i}/{len(found)}", flush=True)
@@ -116,7 +125,7 @@ def main():
         print("  FAILED", rel, err)
 
     if not a.no_zip:
-        z = ROOT / "work/textures.zip"
+        z = Path(a.zip) if a.zip else ROOT / "work/textures.zip"
         with zipfile.ZipFile(z, "w", zipfile.ZIP_STORED) as zf:   # PNG is already compressed
             zf.write(OUT / "index.tsv", "index.tsv")
             for p in sorted((OUT / "png").rglob("*.png")):
