@@ -84,6 +84,12 @@ def main():
             dst = OUT / "FEmulator/PAK" / cont / "/".join(inner)
             dst.parent.mkdir(parents=True, exist_ok=True)
             dst.write_bytes(data)
+    # .PLG = vector shapes drawn behind a caption (its shadow/outline). LBK redrew them to match the new captions;
+    # without them the English shadow shows under the Ukrainian date ("ВІВТОРОК" over "TUE").
+    for plg in ("CALENDAR/P5_FIELD_DAY.PLG", "FIELD/PANEL/MISSION_LIST/GUIDANCE.PLG", "MINIGAME/FUGOU/LOGO_KAGE.PLG"):
+        dst = OUT / "P5REssentials/CPK/EN.CPK" / plg
+        dst.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copyfile(LBK / plg, dst)
     files = [p for p in OUT.rglob("*") if p.is_file()]
     print(f"{len(files)} files from {len(list(PICK.rglob('*.png')))} pictures -> {OUT}")
 
