@@ -207,6 +207,8 @@ def main():
     with open(MOD / "namechars.tsv", "w", encoding="utf-8", newline="\n") as w:
         for c in letters + letters.upper() + "'":
             w.write(f"{c}\t{atlusenc.encode(c, 'P5R_UKR').hex()}\n")
+    # anime cutscene subtitles (tools/scripts/subtitles.py, loaded by the DLL)
+    subprocess.run([sys.executable, str(ROOT / "tools/scripts/subtitles.py"), "build", "--out", str(MOD / "subs.tsv")], check=True)
     # the name-entry field holds UTF-16 and maps it to glyphs with the game's own (EFIGS) table: a letter our font
     # keeps at a different index (і ї є ґ) is written as the EFIGS character that sits at that index
     ukr = atlusenc.read_charset(ROOT / "work/font/ukr/P5R_UKR.tsv")

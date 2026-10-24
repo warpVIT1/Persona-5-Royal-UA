@@ -39,6 +39,7 @@ namespace P5RUkr
             Log($"config: UkrainianNameInput={cfg.UkrainianNameInput}, ConvertOldNames={cfg.ConvertOldNames}");
             Window.Hook();
             try { Names.Start(cfg, dir); } catch (Exception e) { Log("names: " + e); }
+            try { Subs.Start(dir); } catch (Exception e) { Log("subs: " + e); }
 
             var tr = new Dictionary<string, byte[]>(StringComparer.OrdinalIgnoreCase);
             var folder = Path.Combine(dir, "exebmd");
