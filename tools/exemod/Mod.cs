@@ -7,6 +7,7 @@
 //   2. hashes every BMD ("1GSM" header) in the loaded image and keeps the ones it has a translation for;
 //   3. copies the translations into memory allocated within 2 GB of the image;
 //   4. rewrites the displacement of every RIP-relative `lea` that points at such a blob.
+// It also hosts the Cyrillic name support (Names.cs) and the Reloaded settings (Config.cs).
 // Nothing is written to disk except <mod>/exebmd_log.txt. The game files stay untouched.
 using System;
 using System.Collections.Generic;
@@ -30,6 +31,15 @@ namespace P5RUkr
             var dir = Path.GetDirectoryName(typeof(Mod).Assembly.Location) ?? ".";
             _log = Path.Combine(dir, "exebmd_log.txt");
             try { File.WriteAllText(_log, $"=== start {DateTime.Now:yyyy-MM-dd HH:mm:ss}{Environment.NewLine}"); } catch { }
+
+            // Cyrillic names (see Names.cs)
+            string configDir = null;
+            try { configDir = (loader as IModLoaderV3)?.GetModConfigDirectory(config.ModId); } catch { }
+            var cfg = Config.Load(configDir ?? dir);
+            Log($"config: UkrainianNameInput={cfg.UkrainianNameInput}, ConvertOldNames={cfg.ConvertOldNames}");
+            Window.Hook();
+            try { Names.Start(cfg, dir); } catch (Exception e) { Log("names: " + e); }
+
             var tr = new Dictionary<string, byte[]>(StringComparer.OrdinalIgnoreCase);
             var folder = Path.Combine(dir, "exebmd");
             if (Directory.Exists(folder))
@@ -58,7 +68,7 @@ namespace P5RUkr
         public bool CanSuspend() => false;
         public Action Disposing { get; }
 
-        static void Log(string s)
+        internal static void Log(string s)
         {
             try { File.AppendAllText(_log, s + Environment.NewLine, Encoding.UTF8); } catch { }
         }

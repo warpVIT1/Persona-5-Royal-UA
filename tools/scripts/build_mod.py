@@ -166,6 +166,12 @@ def main():
     for f in (EXEMOD / "bin/Release/net8.0-windows").glob("p5rpc.ukrainian.*"):
         if f.suffix != ".pdb":
             shutil.copy(f, MOD / f.name)
+    # bytes of each letter in the mod's encoding, for Cyrillic player names (tools/exemod/Names.cs)
+    import atlusenc
+    letters = "абвгґдеєжзиіїйклмнопрстуфхцчшщьюя"
+    with open(MOD / "namechars.tsv", "w", encoding="utf-8", newline="\n") as w:
+        for c in letters + letters.upper() + "'":
+            w.write(f"{c}\t{atlusenc.encode(c, 'P5R_UKR').hex()}\n")
 
     todo = list(targets(a.path))
     print(f"{len(todo)} files with translation to compile", flush=True)
