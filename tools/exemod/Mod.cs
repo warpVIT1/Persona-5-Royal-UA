@@ -40,6 +40,7 @@ namespace P5RUkr
             Window.Hook();
             try { Names.Start(cfg, dir); } catch (Exception e) { Log("names: " + e); }
             try { Subs.Start(dir); } catch (Exception e) { Log("subs: " + e); }
+            try { LauncherDeploy.Run(dir); } catch (Exception e) { Log("launcher: " + e); }
 
             var tr = new Dictionary<string, byte[]>(StringComparer.OrdinalIgnoreCase);
             var folder = Path.Combine(dir, "exebmd");
