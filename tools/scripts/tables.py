@@ -4,8 +4,11 @@ Two FTD layouts carry text (big-endian, "FTD0" at 0x04, file size at 0x08):
   type 0, 1 block ("CTD"):  0x0C u16 0, u16 1; 0x10 u32 block_off; at block_off: u32 0, u32 data_size,
                             u32 count, u32 0; then `count` fixed records of data_size/count bytes,
                             each a NUL-terminated string padded with zeros
+  type 0, records ("REC"): the same block, but each record mixes binary data with fixed-size text fields at
+                            offsets listed in RECORDS (by file name); every other byte is kept
   type 1 (string list):     0x0C u16 1, u16 count; 0x10 u32 offsets[count]; entry = u8 len (incl. NUL),
                             u8 1, u16 0, char[len], padded to 16 (see ftd.py)
+TTD (INIT/TTRTABLE.BIN) is the same type 0 table, little-endian, with "0DTF" at 0x04.
 Text is in the game encoding (P5R_EFIGS; Cyrillic via P5R_UKR is 2 bytes per letter), so a fixed record
 of N bytes holds at most N-1 bytes of text: the validator and the build check bytes, not characters.
 
@@ -33,18 +36,52 @@ CONTAINERS = (".BIN", ".PAK", ".PAC", ".ARC", ".TBL")
 # internal lookup tables / word lists that must stay as they are
 SKIP = {"fclSklCardAttrTable.ftd", "autoAttrTable.ftd", "fclItemLineUpAccTable.ftd", "fclLogFormatText.ftd",
         "fclLogConjunctionText.ftd", "teamNameEntryNGWord.ftd"}
-PLACEHOLDER = re.compile(r"^(RESERVE|BLANK|NULL|DUMMY|dummy|COMMUNITY RESERVE|ARCANA\d+|Location Name \d+|\?+|Shop OO)$")
+# record tables: file name -> [(offset, size)] of the text fields in one record
+RECORDS = {
+    "FLDWHOLEMAPTABLE.FTD": [(56 * k, 40) for k in range(20)],          # map: area + 19 destinations
+    "FLDWHOLEMAPTABLEDNG.FTD": [(56 * k, 40) for k in range(20)],
+    "FLDLMAPSTATION.FTD": [(0, 32), (48, 64), (112, 64)] + [(176 + 48 * k, 48) for k in range(5)],
+    "FLDSAVEDATAPLACE.FTD": [(4, 48)],                                  # place in the save list
+    "cmmNetReportTable.ctd": [(4, 48)],                                 # activity log / calendar notes
+    "cmmPC_PARAM_Help.ctd": [(20 * k, 20) for k in range(5)],           # stat ranks
+    "pWeatherCondition.ftd": [(0, 64), (64, 64), (128, 64)],
+    **{f"fclHelpTable_{n}.ftd": [(8, 128)] for n in (
+        "COMBINE_ROOT", "COMBINE_SUB", "COMBINE_G", "COMBINE_G_HELP", "COMBINE_HELP", "COMPEND", "COMPEND_HELP",
+        "COMPEND_HELP_L", "CELL", "CELL_HELP")},
+}
+TAIL = re.compile(rb"(?:\x80\x80)+$")   # end-of-text mark in the station descriptions, kept as is
+PLACEHOLDER = re.compile(r"^(RESERVE|BLANK|Blank|NULL|DUMMY|Dummy|dummy|COMMUNITY RESERVE|ARCANA\d+|Location Name \d+|\?+|Shop OO)$")
 
 
-def parse(b):
+def parse(b, name=""):
     """bytes -> dict(type, rs, strings) or None if this FTD is not a text table."""
-    if len(b) < 0x20 or b[4:8] != b"FTD0" or struct.unpack_from(">I", b, 8)[0] > len(b):
+    e = "<" if b[4:8] == b"0DTF" else ">"
+    if len(b) < 0x20 or b[4:8] not in (b"FTD0", b"0DTF") or struct.unpack_from(e + "I", b, 8)[0] > len(b):
         return None
-    typ, count = struct.unpack_from(">HH", b, 12)
+    typ, count = struct.unpack_from(e + "HH", b, 12)
+    if e == "<":                         # the same u32 0x00000001, read as two little-endian halves
+        typ, count = count, typ
     out = []
-    if typ == 0 and count == 1:
-        off = struct.unpack_from(">I", b, 16)[0]
-        dsize, n = struct.unpack_from(">II", b, off + 4)
+    if typ == 0 and count == 1 and name in RECORDS:
+        off = struct.unpack_from(e + "I", b, 16)[0]
+        dsize, n = struct.unpack_from(e + "II", b, off + 4)
+        rs, fields = dsize // n, RECORDS[name]
+        if dsize % n or any(o + size > rs for o, size in fields):
+            raise ValueError(f"{name}: record size {rs} does not match RECORDS")
+        tails = []
+        for i in range(n):
+            for o, size in fields:
+                f = b[off + 16 + i * rs + o: off + 16 + i * rs + o + size]
+                s = f.split(b"\0")[0]
+                if f[len(s):].strip(b"\0"):
+                    raise ValueError(f"{name}: record {i} field @{o} has data after the text")
+                tail = TAIL.search(s)
+                tails.append(tail.group() if tail else b"")
+                out.append(A.decode(s[:tail.start()] if tail else s))
+        res = dict(type=3, rs=rs, e=e, fields=fields, tails=tails, strings=out)
+    elif typ == 0 and count == 1:
+        off = struct.unpack_from(e + "I", b, 16)[0]
+        dsize, n = struct.unpack_from(e + "II", b, off + 4)
         if not n or dsize % n or off + 16 + dsize > len(b):
             return None
         rs = dsize // n
@@ -54,7 +91,7 @@ def parse(b):
             if r[len(s):].strip(b"\0") or (s and not re.fullmatch(rb"[\x20-\x7e\x80-\xff]+", s)):
                 return None
             out.append(A.decode(s))
-        res = dict(type=0, rs=rs, strings=out)
+        res = dict(type=0, rs=rs, e=e, strings=out)
     elif typ == 1:
         if 16 + 4 * count > len(b):
             return None
@@ -83,9 +120,21 @@ def parse(b):
 def write(b, t, strings, charset="P5R_UKR"):
     """Original bytes + new strings -> bytes with the same layout."""
     enc = [A.encode(s, charset) for s in strings]
+    if t["type"] == 3:
+        out = bytearray(b)
+        off = struct.unpack_from(t["e"] + "I", b, 16)[0] + 16
+        nf = len(t["fields"])
+        for k, x in enumerate(enc):
+            o, size = t["fields"][k % nf]
+            x += t["tails"][k]
+            if len(x) >= size:
+                raise ValueError(f"record {k // nf} field @{o}: {len(x)} bytes > {size - 1}: {strings[k]!r}")
+            at = off + (k // nf) * t["rs"] + o
+            out[at: at + size] = x.ljust(size, b"\0")
+        return bytes(out)
     if t["type"] == 0:
         out = bytearray(b)
-        off = struct.unpack_from(">I", b, 16)[0] + 16
+        off = struct.unpack_from(t["e"] + "I", b, 16)[0] + 16
         rs = t["rs"]
         for i, e in enumerate(enc):
             if len(e) >= rs:
@@ -138,13 +187,13 @@ def discover():
             except Exception:
                 ents = []
             for name, off, size in ents:
-                if name.lower().endswith((".ctd", ".ftd")) and name not in SKIP:
-                    t = parse(d[off:off + size])
+                if name.lower().endswith((".ctd", ".ftd", ".ttd")) and name not in SKIP:
+                    t = parse(d[off:off + size], name)
                     if t:
                         yield f"{rel}/{name}", d[off:off + size], t
         elif f.suffix.upper() in (".FTD", ".CTD") and f.name not in SKIP:
             d = f.read_bytes()
-            t = parse(d)
+            t = parse(d, f.name)
             if t:
                 yield rel, d, t
 
@@ -168,7 +217,7 @@ def cmd_export(a):
     for rel, _, t in discover():
         entries = [dict(id=f"#{i}", kind="table", speaker=None, lang="en", prefix="", text=s, suffix="",
                         translate=translatable(s),
-                        context=dict(bytes=(t["rs"] - 1) if t["rs"] else 254))
+                        context=dict(bytes=field_bytes(t, i)))
                    for i, s in enumerate(t["strings"])]
         p = EN / (rel + ".tbl.json")
         p.parent.mkdir(parents=True, exist_ok=True)
@@ -188,6 +237,13 @@ def cmd_export(a):
             u.write_text(json.dumps(dict(file=rel, entries=ue), ensure_ascii=False, indent=1), encoding="utf-8")
             n_new += 1
     print(f"{n_files} tables exported, {n_new} new strings_uk files, {n_pre} entries prefilled from glossary")
+
+
+def field_bytes(t, i):
+    """Text bytes that fit into string i (without the terminating NUL)."""
+    if t["type"] == 3:
+        return t["fields"][i % len(t["fields"])][1] - 1 - len(t["tails"][i])
+    return (t["rs"] - 1) if t["rs"] else 254
 
 
 def out_path(rel):
@@ -243,7 +299,7 @@ def cmd_test(a):
     n = 0
     for rel, data, t in discover():
         w = write(data, t, t["strings"], "P5R_EFIGS")   # bytes may differ: EFIGS has duplicate code points
-        if parse(w)["strings"] != t["strings"] or (t["type"] != 1 and len(w) != len(data)):
+        if parse(w, rel.rsplit("/", 1)[-1])["strings"] != t["strings"] or (t["type"] != 1 and len(w) != len(data)):
             print("MISMATCH", rel)
         n += 1
     print(n, "tables round-tripped")

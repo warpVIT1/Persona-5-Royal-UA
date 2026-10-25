@@ -1,0 +1,719 @@
+{
+ "file": "EN/FIELD/PANEL/FLDWHOLEMAPTABLEDNG.FTD",
+ "entries": [
+  {
+   "id": "#0",
+   "speaker": null,
+   "en": "Test",
+   "uk": "Тест",
+   "note": "tm"
+  },
+  {
+   "id": "#14",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "Скасувати",
+   "note": "glossary"
+  },
+  {
+   "id": "#20",
+   "speaker": null,
+   "en": "Castle Gate",
+   "uk": "Брама замку",
+   "note": "glossary"
+  },
+  {
+   "id": "#21",
+   "speaker": null,
+   "en": "Previous Safe Room",
+   "uk": "Попер. безп. кімната",
+   "note": ""
+  },
+  {
+   "id": "#22",
+   "speaker": null,
+   "en": "Underground Prison",
+   "uk": "Підземна в'язниця",
+   "note": "glossary"
+  },
+  {
+   "id": "#23",
+   "speaker": null,
+   "en": "West Building 1F",
+   "uk": "Західний корп., 1 пов.",
+   "note": "shortened (field size)"
+  },
+  {
+   "id": "#24",
+   "speaker": null,
+   "en": "Central Hall 2F",
+   "uk": "Центр. зала, 2 пов.",
+   "note": "shortened (field size)"
+  },
+  {
+   "id": "#25",
+   "speaker": null,
+   "en": "East Building 3F",
+   "uk": "Східний корпус, 3 пов.",
+   "note": "glossary"
+  },
+  {
+   "id": "#26",
+   "speaker": null,
+   "en": "East Building Annex",
+   "uk": "Прибудова Сх. корпусу",
+   "note": "shortened (field size)"
+  },
+  {
+   "id": "#27",
+   "speaker": null,
+   "en": "Central Tower",
+   "uk": "Центральна вежа",
+   "note": "glossary"
+  },
+  {
+   "id": "#28",
+   "speaker": null,
+   "en": "Throne Room",
+   "uk": "Тронна зала",
+   "note": "glossary"
+  },
+  {
+   "id": "#29",
+   "speaker": null,
+   "en": "Leave for the day",
+   "uk": "Завершити день",
+   "note": ""
+  },
+  {
+   "id": "#34",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "Скасувати",
+   "note": "glossary"
+  },
+  {
+   "id": "#40",
+   "speaker": null,
+   "en": "Museum Entrance",
+   "uk": "Вхід до музею",
+   "note": "glossary"
+  },
+  {
+   "id": "#41",
+   "speaker": null,
+   "en": "Previous Safe Room",
+   "uk": "Попер. безп. кімната",
+   "note": ""
+  },
+  {
+   "id": "#42",
+   "speaker": null,
+   "en": "1st Exhibition Room",
+   "uk": "1-ша виставкова зала",
+   "note": "shortened (field size)"
+  },
+  {
+   "id": "#43",
+   "speaker": null,
+   "en": "2nd Exhibition Room",
+   "uk": "2-га виставкова зала",
+   "note": "shortened (field size)"
+  },
+  {
+   "id": "#44",
+   "speaker": null,
+   "en": "Central Garden",
+   "uk": "Центральний сад",
+   "note": "glossary"
+  },
+  {
+   "id": "#45",
+   "speaker": null,
+   "en": "Treasure Hall",
+   "uk": "Скарбниця",
+   "note": "glossary"
+  },
+  {
+   "id": "#47",
+   "speaker": null,
+   "en": "Main Hall",
+   "uk": "Головна зала",
+   "note": "glossary"
+  },
+  {
+   "id": "#48",
+   "speaker": null,
+   "en": "Upper Main Hall",
+   "uk": "Верхня головна зала",
+   "note": "glossary"
+  },
+  {
+   "id": "#49",
+   "speaker": null,
+   "en": "Leave for the day",
+   "uk": "Завершити день",
+   "note": ""
+  },
+  {
+   "id": "#54",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "Скасувати",
+   "note": "glossary"
+  },
+  {
+   "id": "#60",
+   "speaker": null,
+   "en": "Bank Entrance",
+   "uk": "Вхід до банку",
+   "note": "tm"
+  },
+  {
+   "id": "#61",
+   "speaker": null,
+   "en": "Previous Safe Room",
+   "uk": "Попер. безп. кімната",
+   "note": ""
+  },
+  {
+   "id": "#64",
+   "speaker": null,
+   "en": "Banker Passageway",
+   "uk": "Прохід банкірів",
+   "note": "glossary"
+  },
+  {
+   "id": "#67",
+   "speaker": null,
+   "en": "Office",
+   "uk": "Офіс",
+   "note": "glossary"
+  },
+  {
+   "id": "#68",
+   "speaker": null,
+   "en": "Vault",
+   "uk": "Сховище",
+   "note": "glossary"
+  },
+  {
+   "id": "#69",
+   "speaker": null,
+   "en": "Leave for the day",
+   "uk": "Завершити день",
+   "note": ""
+  },
+  {
+   "id": "#74",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "Скасувати",
+   "note": "glossary"
+  },
+  {
+   "id": "#80",
+   "speaker": null,
+   "en": "Pyramid Entrance",
+   "uk": "Вхід до піраміди",
+   "note": "glossary"
+  },
+  {
+   "id": "#81",
+   "speaker": null,
+   "en": "Previous Safe Room",
+   "uk": "Попер. безп. кімната",
+   "note": ""
+  },
+  {
+   "id": "#83",
+   "speaker": null,
+   "en": "Corridor Bottom",
+   "uk": "Низ коридору",
+   "note": "glossary"
+  },
+  {
+   "id": "#84",
+   "speaker": null,
+   "en": "Corridor Middle",
+   "uk": "Середина коридору",
+   "note": "glossary"
+  },
+  {
+   "id": "#85",
+   "speaker": null,
+   "en": "Corridor Summit",
+   "uk": "Вершина коридору",
+   "note": "glossary"
+  },
+  {
+   "id": "#86",
+   "speaker": null,
+   "en": "Chamber of Sanctuary West",
+   "uk": "Зала святилища, захід",
+   "note": "glossary"
+  },
+  {
+   "id": "#88",
+   "speaker": null,
+   "en": "Chamber of Sanctuary East",
+   "uk": "Зала святилища, схід",
+   "note": "glossary"
+  },
+  {
+   "id": "#89",
+   "speaker": null,
+   "en": "Leave for the day",
+   "uk": "Завершити день",
+   "note": ""
+  },
+  {
+   "id": "#94",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "Скасувати",
+   "note": "glossary"
+  },
+  {
+   "id": "#100",
+   "speaker": null,
+   "en": "Side Entrance",
+   "uk": "Бічний вхід",
+   "note": "glossary"
+  },
+  {
+   "id": "#101",
+   "speaker": null,
+   "en": "Previous Safe Room",
+   "uk": "Попер. безп. кімната",
+   "note": ""
+  },
+  {
+   "id": "#102",
+   "speaker": null,
+   "en": "Facility Passageway",
+   "uk": "Прохід комплексу",
+   "note": "glossary"
+  },
+  {
+   "id": "#103",
+   "speaker": null,
+   "en": "Barracks",
+   "uk": "Казарми",
+   "note": "glossary"
+  },
+  {
+   "id": "#104",
+   "speaker": null,
+   "en": "Facility Surroundings",
+   "uk": "Околиці комплексу",
+   "note": "glossary"
+  },
+  {
+   "id": "#105",
+   "speaker": null,
+   "en": "Export Line",
+   "uk": "Лінія експорту",
+   "note": "glossary"
+  },
+  {
+   "id": "#106",
+   "speaker": null,
+   "en": "Disposal Line",
+   "uk": "Лінія утилізації",
+   "note": "glossary"
+  },
+  {
+   "id": "#107",
+   "speaker": null,
+   "en": "Central Factory",
+   "uk": "Центральний завод",
+   "note": "glossary"
+  },
+  {
+   "id": "#108",
+   "speaker": null,
+   "en": "Transfer Line",
+   "uk": "Лінія переміщення",
+   "note": "glossary"
+  },
+  {
+   "id": "#109",
+   "speaker": null,
+   "en": "Weapon Production",
+   "uk": "Виробництво зброї",
+   "note": "glossary"
+  },
+  {
+   "id": "#110",
+   "speaker": null,
+   "en": "Leave for the day",
+   "uk": "Завершити день",
+   "note": ""
+  },
+  {
+   "id": "#114",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "Скасувати",
+   "note": "glossary"
+  },
+  {
+   "id": "#120",
+   "speaker": null,
+   "en": "Casino Entrance",
+   "uk": "Вхід до казино",
+   "note": "glossary"
+  },
+  {
+   "id": "#121",
+   "speaker": null,
+   "en": "Previous Safe Room",
+   "uk": "Попер. безп. кімната",
+   "note": ""
+  },
+  {
+   "id": "#122",
+   "speaker": null,
+   "en": "Main Floor",
+   "uk": "Головний поверх",
+   "note": "glossary"
+  },
+  {
+   "id": "#123",
+   "speaker": null,
+   "en": "Corridor",
+   "uk": "Коридор",
+   "note": "glossary"
+  },
+  {
+   "id": "#124",
+   "speaker": null,
+   "en": "Members Floor",
+   "uk": "Поверх для членів",
+   "note": "shortened (field size)"
+  },
+  {
+   "id": "#125",
+   "speaker": null,
+   "en": "Dice Game Area",
+   "uk": "Зона гри в кості",
+   "note": "glossary"
+  },
+  {
+   "id": "#126",
+   "speaker": null,
+   "en": "High Limit Floor",
+   "uk": "Зала великих ставок",
+   "note": "shortened (field size)"
+  },
+  {
+   "id": "#127",
+   "speaker": null,
+   "en": "House of Darkness",
+   "uk": "Дім темряви",
+   "note": "glossary"
+  },
+  {
+   "id": "#128",
+   "speaker": null,
+   "en": "Darkness Goal",
+   "uk": "Ціль темряви",
+   "note": "glossary"
+  },
+  {
+   "id": "#129",
+   "speaker": null,
+   "en": "Battle Arena",
+   "uk": "Бойова арена",
+   "note": "glossary"
+  },
+  {
+   "id": "#130",
+   "speaker": null,
+   "en": "Leave for the day",
+   "uk": "Завершити день",
+   "note": ""
+  },
+  {
+   "id": "#134",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "Скасувати",
+   "note": "glossary"
+  },
+  {
+   "id": "#140",
+   "speaker": null,
+   "en": "Front Deck",
+   "uk": "Носова палуба",
+   "note": "glossary"
+  },
+  {
+   "id": "#141",
+   "speaker": null,
+   "en": "Previous Safe Room",
+   "uk": "Попер. безп. кімната",
+   "note": ""
+  },
+  {
+   "id": "#142",
+   "speaker": null,
+   "en": "Central Passage",
+   "uk": "Центральний прохід",
+   "note": "glossary"
+  },
+  {
+   "id": "#143",
+   "speaker": null,
+   "en": "Mid-Starboard Hallway",
+   "uk": "Сер. правий коридор",
+   "note": "shortened (field size)"
+  },
+  {
+   "id": "#144",
+   "speaker": null,
+   "en": "Pool Deck",
+   "uk": "Палуба з басейном",
+   "note": "glossary"
+  },
+  {
+   "id": "#145",
+   "speaker": null,
+   "en": "Upper Starboard Hallway",
+   "uk": "Верх. правий коридор",
+   "note": "shortened (field size)"
+  },
+  {
+   "id": "#146",
+   "speaker": null,
+   "en": "Back Deck",
+   "uk": "Кормова палуба",
+   "note": "glossary"
+  },
+  {
+   "id": "#147",
+   "speaker": null,
+   "en": "Entertainment Hall",
+   "uk": "Розважальна зала",
+   "note": "glossary"
+  },
+  {
+   "id": "#148",
+   "speaker": null,
+   "en": "Side Deck",
+   "uk": "Бічна палуба",
+   "note": "glossary"
+  },
+  {
+   "id": "#149",
+   "speaker": null,
+   "en": "Central Hall",
+   "uk": "Центральна зала",
+   "note": "tm"
+  },
+  {
+   "id": "#150",
+   "speaker": null,
+   "en": "Leave for the day",
+   "uk": "Завершити день",
+   "note": ""
+  },
+  {
+   "id": "#154",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "Скасувати",
+   "note": "glossary"
+  },
+  {
+   "id": "#160",
+   "speaker": null,
+   "en": "Mementos Depths",
+   "uk": "Глибини Мементосу",
+   "note": "glossary"
+  },
+  {
+   "id": "#161",
+   "speaker": null,
+   "en": "Previous Safe Room",
+   "uk": "Попер. безп. кімната",
+   "note": ""
+  },
+  {
+   "id": "#162",
+   "speaker": null,
+   "en": "Upper Passageway",
+   "uk": "Верхній прохід",
+   "note": "glossary"
+  },
+  {
+   "id": "#163",
+   "speaker": null,
+   "en": "Middle Passageway",
+   "uk": "Середній прохід",
+   "note": "glossary"
+  },
+  {
+   "id": "#164",
+   "speaker": null,
+   "en": "Lower Passageway",
+   "uk": "Нижній прохід",
+   "note": "glossary"
+  },
+  {
+   "id": "#165",
+   "speaker": null,
+   "en": "Lowest Passageway",
+   "uk": "Найнижчий прохід",
+   "note": "glossary"
+  },
+  {
+   "id": "#167",
+   "speaker": null,
+   "en": "Shibuya Station Square",
+   "uk": "Площа станції Шібуя",
+   "note": "shortened (field size)"
+  },
+  {
+   "id": "#168",
+   "speaker": null,
+   "en": "Shrine Entrance",
+   "uk": "Вхід до святилища",
+   "note": "glossary"
+  },
+  {
+   "id": "#174",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "Скасувати",
+   "note": "glossary"
+  },
+  {
+   "id": "#180",
+   "speaker": null,
+   "en": "Mementos Overview",
+   "uk": "Огляд Мементосу",
+   "note": ""
+  },
+  {
+   "id": "#181",
+   "speaker": null,
+   "en": "Go to a lower area",
+   "uk": "Спуститися нижче",
+   "note": ""
+  },
+  {
+   "id": "#182",
+   "speaker": null,
+   "en": "Go to a higher area",
+   "uk": "Піднятися вище",
+   "note": ""
+  },
+  {
+   "id": "#183",
+   "speaker": null,
+   "en": "Go to a higher area",
+   "uk": "Піднятися вище",
+   "note": ""
+  },
+  {
+   "id": "#184",
+   "speaker": null,
+   "en": "Go to a lower area",
+   "uk": "Спуститися нижче",
+   "note": ""
+  },
+  {
+   "id": "#185",
+   "speaker": null,
+   "en": "Mementos Map",
+   "uk": "Карта Мементосу",
+   "note": ""
+  },
+  {
+   "id": "#194",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "Скасувати",
+   "note": "glossary"
+  },
+  {
+   "id": "#200",
+   "speaker": null,
+   "en": "Entryway",
+   "uk": "Вхід",
+   "note": "glossary"
+  },
+  {
+   "id": "#201",
+   "speaker": null,
+   "en": "Previous Safe Room",
+   "uk": "Попер. безп. кімната",
+   "note": ""
+  },
+  {
+   "id": "#202",
+   "speaker": null,
+   "en": "Entrance Hall",
+   "uk": "Вестибюль",
+   "note": "glossary"
+  },
+  {
+   "id": "#203",
+   "speaker": null,
+   "en": "Corridor",
+   "uk": "Коридор",
+   "note": "glossary"
+  },
+  {
+   "id": "#204",
+   "speaker": null,
+   "en": "Monitoring Prep Room",
+   "uk": "Кімната підг. (нагляд)",
+   "note": "shortened (field size)"
+  },
+  {
+   "id": "#205",
+   "speaker": null,
+   "en": "Research Ward Prep Room",
+   "uk": "Кімната підг. (лабор.)",
+   "note": "shortened (field size)"
+  },
+  {
+   "id": "#206",
+   "speaker": null,
+   "en": "Exam Room",
+   "uk": "Оглядовий кабінет",
+   "note": "glossary"
+  },
+  {
+   "id": "#207",
+   "speaker": null,
+   "en": "Counselling Room",
+   "uk": "Кабінет психолога",
+   "note": "glossary"
+  },
+  {
+   "id": "#208",
+   "speaker": null,
+   "en": "Twilight Corridor Prep Room",
+   "uk": "Кімн. підг. (сутінки)",
+   "note": "shortened (field size)"
+  },
+  {
+   "id": "#213",
+   "speaker": null,
+   "en": "Leave for the day",
+   "uk": "Завершити день",
+   "note": ""
+  },
+  {
+   "id": "#214",
+   "speaker": null,
+   "en": "Cancel",
+   "uk": "Скасувати",
+   "note": "glossary"
+  }
+ ]
+}
